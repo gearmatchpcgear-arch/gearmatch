@@ -1,0 +1,582 @@
+{
+  "B0H8YQRB7Z": {
+    "dimensions": "64 × 64 × 129 cm"
+  },
+  "B08CVNGYHK": {
+    "dimensions": "70 × 70 × 133 cm",
+    "seatDepth": "70 cm",
+    "backrestWidth": "70 cm"
+  },
+  "B0H2CWTDHT": {
+    "dimensions": "60 × 60 × 90 cm",
+    "seatDepth": "50 cm",
+    "seatWidth": "50 cm",
+    "backrestWidth": "71 cm"
+  },
+  "B0BL6PV9HS": {
+    "dimensions": "63 × 54 × 115 cm"
+  },
+  "B0DM5JSCG2": {
+    "dimensions": "63 × 53 × 130 cm"
+  },
+  "B00YQW38O8": {
+    "dimensions": "64 × 64 × 114 cm",
+    "seatDepth": "64 cm",
+    "backrestWidth": "46 cm"
+  },
+  "B01G8E2ETQ": {
+    "dimensions": "65 × 65 × 124 cm",
+    "seatDepth": "54 cm",
+    "backrestWidth": "52 cm"
+  },
+  "B075R8GZR9": {
+    "dimensions": "65 × 65 × 129.5 cm",
+    "seatDepth": "51 cm",
+    "backrestWidth": "58 cm"
+  },
+  "B07CBPDBKP": {
+    "dimensions": "65 × 65 × 129 cm",
+    "seatDepth": "52.5 cm",
+    "backrestWidth": "58 cm"
+  },
+  "B07QGY4VGK": {
+    "dimensions": "30 × 35 × 40 cm",
+    "seatDepth": "78 cm"
+  },
+  "B07VPYR5BW": {
+    "dimensions": "84 × 63 × 26 cm",
+    "seatDepth": "80 cm",
+    "backrestWidth": "60 cm"
+  },
+  "B086JTT1GM": {
+    "dimensions": "65 × 65 × 127 cm",
+    "seatDepth": "54.5 cm",
+    "backrestWidth": "55 cm"
+  },
+  "B08FGP283T": {
+    "dimensions": "72 × 72 × 122 cm"
+  },
+  "B08W21M8CL": {
+    "dimensions": "65.5 × 68.5 × 118 cm",
+    "seatDepth": "65.5 cm"
+  },
+  "B092DF433H": {
+    "dimensions": "70 × 70 × 128 cm",
+    "seatDepth": "54.5 cm",
+    "backrestWidth": "55.8 cm"
+  },
+  "B09X5M8Y8K": {
+    "dimensions": "70 × 70 × 130 cm",
+    "seatDepth": "50 cm",
+    "backrestWidth": "53 cm"
+  },
+  "B09X63KF6C": {
+    "dimensions": "70 × 70 × 130 cm",
+    "seatDepth": "50 cm",
+    "seatWidth": "50 cm",
+    "backrestWidth": "53 cm"
+  },
+  "B09XHHKQ3F": {
+    "dimensions": "50 × 60 × 120 cm",
+    "seatDepth": "50 cm",
+    "seatWidth": "50 cm",
+    "backrestWidth": "55 cm"
+  },
+  "B09XHJKRVZ": {
+    "dimensions": "50 × 60 × 119 cm",
+    "seatDepth": "50 cm",
+    "seatWidth": "50 cm",
+    "backrestWidth": "42 cm"
+  },
+  "B0B7WVX4R1": {
+    "dimensions": "50 × 50 × 130 cm",
+    "seatDepth": "50 cm",
+    "backrestWidth": "53 cm"
+  },
+  "B0BGSF56MG": {
+    "dimensions": "55 × 55 × 93 cm"
+  },
+  "B0BJ1JW8WV": {
+    "dimensions": "53 × 55 × 84 cm",
+    "seatDepth": "53 cm",
+    "backrestWidth": "55 cm"
+  },
+  "B0BMB5WFHW": {
+    "dimensions": "55.9 × 68.1 × 136.9 cm",
+    "seatDepth": "44 cm"
+  },
+  "B0BRTNW6X3": {
+    "dimensions": "62 × 60 × 113 cm",
+    "seatDepth": "46 cm",
+    "seatWidth": "46 cm",
+    "backrestWidth": "51 cm"
+  },
+  "B0BRXBH439": {
+    "dimensions": "55 × 55 × 120 cm"
+  },
+  "B0BXPBTTSL": {
+    "dimensions": "83 × 65 × 29 cm",
+    "seatDepth": "51.2 cm"
+  },
+  "B0BXPGGBRM": {
+    "dimensions": "83 × 65 × 29 cm",
+    "seatDepth": "51.2 cm",
+    "seatWidth": "52 cm"
+  },
+  "B0CJ2J6RXJ": {
+    "dimensions": "54 × 63 × 120 cm",
+    "seatDepth": "54 cm",
+    "seatWidth": "48 cm",
+    "backrestWidth": "53 cm"
+  },
+  "B0CMWNQ4BV": {
+    "dimensions": "61 × 61 × 112 cm",
+    "seatDepth": "48 cm",
+    "seatWidth": "55 cm",
+    "backrestWidth": "59 cm"
+  },
+  "B0CTGRD1TS": {
+    "dimensions": "60 × 60 × 108 cm",
+    "seatDepth": "60 cm",
+    "backrestWidth": "60 cm"
+  },
+  "B0CZ93PPX8": {
+    "dimensions": "117 × 75 × 65 cm",
+    "seatDepth": "71.9 cm"
+  },
+  "B0CZSQRX4W": {
+    "backrestWidth": "30 cm"
+  },
+  "B0D2QH8DHM": {
+    "dimensions": "70 × 70 × 133 cm",
+    "seatDepth": "70 cm"
+  },
+  "B0D5L4T6RS": {
+    "dimensions": "53 × 51 × 120 cm",
+    "seatDepth": "53 cm",
+    "seatWidth": "51 cm",
+    "backrestWidth": "51 cm"
+  },
+  "B0D666NY29": {
+    "dimensions": "68 × 65 × 123 cm"
+  },
+  "B0D8TDWHKP": {
+    "dimensions": "59 × 33 × 58 cm"
+  },
+  "B0D981618B": {
+    "dimensions": "54 × 50 × 131 cm"
+  },
+  "B0DB1WH946": {
+    "dimensions": "58 × 58 × 38 cm"
+  },
+  "B0DCVMD3ZK": {
+    "dimensions": "46 × 60 × 103 cm"
+  },
+  "B0DDCCLVJC": {
+    "dimensions": "57 × 53 × 97 cm",
+    "seatDepth": "57 cm"
+  },
+  "B0DGTBNFRP": {
+    "dimensions": "66 × 66 × 124 cm",
+    "seatDepth": "65 cm"
+  },
+  "B0DK2ZR1TY": {
+    "dimensions": "73 × 23 × 53 cm"
+  },
+  "B0DK78311L": {
+    "dimensions": "75 × 23 × 53 cm"
+  },
+  "B0DK78TG4F": {
+    "dimensions": "75 × 23 × 53 cm",
+    "seatDepth": "47 cm",
+    "seatWidth": "47 cm",
+    "backrestWidth": "56.5 cm"
+  },
+  "B0DM19S7HN": {
+    "dimensions": "64 × 69 × 115 cm",
+    "seatDepth": "43 cm"
+  },
+  "B0DM1ZW2YZ": {
+    "dimensions": "64 × 69 × 115 cm",
+    "seatDepth": "43 cm"
+  },
+  "B0DMZFV57P": {
+    "dimensions": "117 × 75 × 65 cm",
+    "seatDepth": "64 cm"
+  },
+  "B0DQY6P42X": {
+    "dimensions": "53 × 63 × 130 cm",
+    "seatDepth": "53 cm",
+    "seatWidth": "51 cm"
+  },
+  "B0DR19FTHG": {
+    "dimensions": "50 × 50 × 129 cm",
+    "seatDepth": "45 cm",
+    "backrestWidth": "53 cm"
+  },
+  "B0DSFNVYSR": {
+    "dimensions": "73 × 20 × 43 cm"
+  },
+  "B0DWDM5GHD": {
+    "dimensions": "49 × 49 × 113 cm"
+  },
+  "B0DYT16TWJ": {
+    "dimensions": "55 × 52 × 95 cm"
+  },
+  "B0F21KJ7RR": {
+    "dimensions": "52 × 73 × 124 cm"
+  },
+  "B0F5VRS8VG": {
+    "dimensions": "50 × 72 × 132 cm",
+    "seatDepth": "50 cm",
+    "seatWidth": "52 cm",
+    "backrestWidth": "52 cm"
+  },
+  "B0FC2GGT6P": {
+    "dimensions": "40 × 30 × 30 cm"
+  },
+  "B0FD9Z9KGZ": {
+    "dimensions": "52 × 63 × 129 cm"
+  },
+  "B0FKB5X4XZ": {
+    "dimensions": "64 × 64 × 129 cm"
+  },
+  "B0FKB684TV": {
+    "dimensions": "77 × 59 × 25 cm"
+  },
+  "B0FLJWVBHN": {
+    "dimensions": "55 × 60 × 110 cm"
+  },
+  "B0FLY2J7JG": {
+    "dimensions": "60 × 60 × 113 cm"
+  },
+  "B0FM7TG5BG": {
+    "dimensions": "65 × 20 × 50 cm"
+  },
+  "B0FP4MHZX8": {
+    "dimensions": "45 × 50 × 104 cm"
+  },
+  "B0FP4Q66BZ": {
+    "dimensions": "45 × 50 × 104 cm"
+  },
+  "B0FP54VCZ9": {
+    "dimensions": "60 × 60 × 124.5 cm",
+    "seatDepth": "52 cm",
+    "seatWidth": "36.5 cm",
+    "backrestWidth": "54 cm"
+  },
+  "B0FP54WGX5": {
+    "dimensions": "60 × 60 × 124.5 cm",
+    "seatDepth": "52 cm",
+    "seatWidth": "36.5 cm",
+    "backrestWidth": "54 cm"
+  },
+  "B0FPKVC1G3": {
+    "dimensions": "60 × 52 × 130.5 cm"
+  },
+  "B0FPL7B13K": {
+    "dimensions": "70 × 45 × 123 cm",
+    "seatDepth": "51 cm",
+    "seatWidth": "70 cm",
+    "backrestWidth": "53 cm"
+  },
+  "B0FPV9XP8S": {
+    "dimensions": "64 × 60 × 125 cm"
+  },
+  "B0FS1W9LVJ": {
+    "dimensions": "52 × 63 × 130.5 cm",
+    "seatDepth": "49 cm",
+    "backrestWidth": "54.5 cm"
+  },
+  "B0FS1ZKL9J": {
+    "dimensions": "52 × 63 × 130.5 cm"
+  },
+  "B0FS1ZNFM9": {
+    "dimensions": "52 × 63 × 130.5 cm",
+    "seatDepth": "49 cm",
+    "backrestWidth": "54.5 cm"
+  },
+  "B0FWC9HXM8": {
+    "dimensions": "55 × 60 × 110 cm"
+  },
+  "B0FX56R95W": {
+    "dimensions": "50 × 50 × 50 cm"
+  },
+  "B0FX9ZDKD8": {
+    "dimensions": "68 × 62 × 74.5 cm"
+  },
+  "B0FXX6K1DN": {
+    "dimensions": "54 × 55 × 120 cm",
+    "seatDepth": "54 cm",
+    "backrestWidth": "50 cm"
+  },
+  "B0FY2PV2S9": {
+    "dimensions": "54 × 55 × 120 cm",
+    "seatDepth": "54 cm",
+    "seatWidth": "54 cm"
+  },
+  "B0G1BQ72C5": {
+    "dimensions": "64 × 62.4 × 93 cm",
+    "seatDepth": "64 cm"
+  },
+  "B0G4LLHCQR": {
+    "dimensions": "47 × 73 × 121 cm",
+    "seatDepth": "50 cm",
+    "seatWidth": "50 cm",
+    "backrestWidth": "53 cm"
+  },
+  "B0G5Y31DF9": {
+    "dimensions": "60 × 52 × 130.5 cm"
+  },
+  "B0G5Y9JLDV": {
+    "dimensions": "70 × 70 × 123 cm",
+    "seatDepth": "50 cm",
+    "seatWidth": "50 cm",
+    "backrestWidth": "48 cm"
+  },
+  "B0G6YQJT73": {
+    "dimensions": "81 × 75 × 123.5 cm",
+    "seatDepth": "81 cm"
+  },
+  "B0GF1JC8HK": {
+    "dimensions": "67 × 40 × 51 cm"
+  },
+  "B0GFM3RMHQ": {
+    "dimensions": "72 × 72 × 141 cm"
+  },
+  "B0GFSFGXJR": {
+    "dimensions": "50 × 54 × 120 cm"
+  },
+  "B0GFSNMZVN": {
+    "dimensions": "66 × 69.5 × 124 cm"
+  },
+  "B0GG41VY4P": {
+    "dimensions": "54 × 65 × 123 cm"
+  },
+  "B0GG43N1TQ": {
+    "dimensions": "54 × 65 × 123 cm"
+  },
+  "B0GGGLTTG4": {
+    "dimensions": "55 × 60 × 110 cm"
+  },
+  "B0GK32X3SV": {
+    "dimensions": "60 × 83 × 132 cm",
+    "backrestWidth": "80 cm"
+  },
+  "B0GKYF3NWY": {
+    "dimensions": "82 × 80 × 126 cm"
+  },
+  "B0GKYMP82J": {
+    "dimensions": "82 × 80 × 126 cm"
+  },
+  "B0GKZ8VCS3": {
+    "dimensions": "38 × 66 × 118 cm"
+  },
+  "B0GKZZXYTT": {
+    "dimensions": "61 × 61 × 126 cm",
+    "seatDepth": "50 cm",
+    "seatWidth": "50 cm",
+    "backrestWidth": "45 cm"
+  },
+  "B0GL6KVF1X": {
+    "dimensions": "51 × 58 × 131 cm"
+  },
+  "B0GLXG4BBM": {
+    "dimensions": "40 × 58 × 120 cm",
+    "seatWidth": "52 cm"
+  },
+  "B0GMC1XMRM": {
+    "dimensions": "51 × 58 × 131 cm"
+  },
+  "B0GP6PPRRJ": {
+    "dimensions": "72 × 70 × 117 cm",
+    "seatDepth": "50 cm",
+    "seatWidth": "54 cm",
+    "backrestWidth": "58 cm"
+  },
+  "B0GQD86GJ7": {
+    "dimensions": "49 × 52 × 118.5 cm"
+  },
+  "B0GR9S1P69": {
+    "dimensions": "72 × 52 × 121 cm"
+  },
+  "B0GTJ3DQ7Y": {
+    "dimensions": "77 × 74 × 94 cm"
+  },
+  "B0GTSW83CC": {
+    "dimensions": "54 × 67 × 116 cm"
+  },
+  "B0GTTF84QN": {
+    "dimensions": "54 × 67 × 116 cm"
+  },
+  "B0GTXW8SSD": {
+    "dimensions": "78 × 54 × 26 cm",
+    "seatDepth": "52 cm",
+    "seatWidth": "52 cm"
+  },
+  "B0GV434FDJ": {
+    "dimensions": "53 × 70 × 135 cm",
+    "seatDepth": "53 cm"
+  },
+  "B0GV48DTRZ": {
+    "dimensions": "53 × 70 × 135 cm",
+    "seatDepth": "53 cm"
+  },
+  "B0GV49Z1GZ": {
+    "dimensions": "51 × 52 × 122.5 cm"
+  },
+  "B0GVCRH3H5": {
+    "dimensions": "64 × 64 × 115 cm",
+    "seatDepth": "50 cm",
+    "seatWidth": "50 cm",
+    "backrestWidth": "50 cm"
+  },
+  "B0GVMLWP1P": {
+    "dimensions": "55 × 60 × 110 cm"
+  },
+  "B0GVNN3W6X": {
+    "dimensions": "66 × 120 × 66 cm",
+    "seatDepth": "48 cm",
+    "seatWidth": "41 cm",
+    "backrestWidth": "66 cm"
+  },
+  "B0GVYKRX4R": {
+    "dimensions": "51 × 64 × 123 cm",
+    "seatDepth": "50 cm",
+    "seatWidth": "50 cm"
+  },
+  "B0GW31R81F": {
+    "dimensions": "60 × 60 × 113 cm"
+  },
+  "B0GWPPNHH5": {
+    "dimensions": "50 × 60 × 113 cm",
+    "seatDepth": "50 cm",
+    "seatWidth": "52 cm",
+    "backrestWidth": "52 cm"
+  },
+  "B0GXXYDZXH": {
+    "dimensions": "50 × 40 × 75 cm"
+  },
+  "B0GY2W925X": {
+    "dimensions": "50 × 50 × 120 cm"
+  },
+  "B0H11G6FDD": {
+    "dimensions": "70 × 70 × 132 cm"
+  },
+  "B0H11H21JS": {
+    "dimensions": "70 × 70 × 134 cm"
+  },
+  "B0H1GZQYRZ": {
+    "dimensions": "50 × 60 × 112 cm",
+    "backrestWidth": "60 cm"
+  },
+  "B0H1LRV826": {
+    "dimensions": "52 × 64 × 124 cm",
+    "seatDepth": "50 cm"
+  },
+  "B0H1LVC4ML": {
+    "dimensions": "52 × 64 × 124 cm"
+  },
+  "B0H28WF6CD": {
+    "dimensions": "60 × 52 × 130.5 cm"
+  },
+  "B0H2GDCZTZ": {
+    "dimensions": "50 × 40 × 75 cm"
+  },
+  "B0H2GWZ6XX": {
+    "dimensions": "64 × 64 × 115 cm",
+    "seatDepth": "50 cm",
+    "seatWidth": "50 cm",
+    "backrestWidth": "50 cm"
+  },
+  "B0H32VCRYV": {
+    "dimensions": "48 × 58 × 129 cm"
+  },
+  "B0H32XKM4G": {
+    "dimensions": "48 × 58 × 129 cm"
+  },
+  "B0H35GKJYN": {
+    "dimensions": "51 × 52 × 122.5 cm"
+  },
+  "B0H35V6F4Q": {
+    "dimensions": "60 × 60 × 113 cm",
+    "seatDepth": "50 cm",
+    "seatWidth": "50 cm",
+    "backrestWidth": "52 cm"
+  },
+  "B0H36SP789": {
+    "dimensions": "53 × 29 × 70 cm",
+    "backrestWidth": "20 cm"
+  },
+  "B0H3ZPLQ2F": {
+    "dimensions": "50 × 50 × 140 cm",
+    "seatDepth": "45 cm"
+  },
+  "B0H4123FLR": {
+    "dimensions": "59 × 67 × 126 cm"
+  },
+  "B0H448HXD7": {
+    "dimensions": "70 × 70 × 139 cm"
+  },
+  "B0H5QMF7KC": {
+    "dimensions": "72 × 51 × 120 cm"
+  },
+  "B0H6DXQTRY": {
+    "dimensions": "47 × 62 × 105.9 cm",
+    "seatDepth": "57 cm"
+  },
+  "B0H6WTBCLY": {
+    "dimensions": "65.8 × 45 × 110 cm"
+  },
+  "B0H6ZDSMY4": {
+    "dimensions": "48 × 51 × 115 cm"
+  },
+  "B0H74ZQKVZ": {
+    "dimensions": "60 × 60 × 113 cm",
+    "seatDepth": "45 cm",
+    "seatWidth": "45 cm",
+    "backrestWidth": "50 cm"
+  },
+  "B0H7RYM4M2": {
+    "dimensions": "71.5 × 67 × 125 cm"
+  },
+  "B0H8F4M9VZ": {
+    "dimensions": "61 × 61 × 112 cm"
+  },
+  "B0H8SKFGP6": {
+    "dimensions": "76 × 115 × 76 cm"
+  },
+  "B0H8T4FJHX": {
+    "dimensions": "76 × 115 × 76 cm"
+  },
+  "B0H8YC8SJ9": {
+    "dimensions": "70 × 70 × 130 cm"
+  },
+  "B0H94SDWK5": {
+    "dimensions": "120 × 49 × 62 cm"
+  },
+  "B0H9DF72NM": {
+    "dimensions": "120 × 49 × 60 cm"
+  },
+  "B0H9YVLHX5": {
+    "dimensions": "50 × 50 × 130 cm"
+  },
+  "B0H9Z14CDR": {
+    "dimensions": "50 × 50 × 130 cm"
+  },
+  "B0HB411NFN": {
+    "dimensions": "72 × 72 × 122 cm"
+  },
+  "B0HC6MR7HL": {
+    "dimensions": "48 × 50 × 130 cm"
+  },
+  "B0HCJC93SL": {
+    "dimensions": "58 × 78 × 118 cm",
+    "seatDepth": "58 cm",
+    "seatWidth": "57 cm",
+    "backrestWidth": "62 cm"
+  },
+  "B0HDJ64ZPR": {
+    "dimensions": "36 × 18.5 × 19 cm"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "B0G42QB93M": {
+    "name": "L24-41",
+    "brand": "Lenovo",
+    "price": 9900,
+    "screenSize": "23.8 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "panel": "IPS",
+    "refreshRate": "100 Hz",
+    "responseTime": "4 ms",
+    "connection": "HDMI / VGA (D-Sub)",
+    "features": "チルト / VESA対応 / 5年保証",
+    "tagline": "23.8\" FHD IPS 100Hz"
+  },
+  "B0G42NGPTD": {
+    "name": "Legion 24-15",
+    "brand": "Lenovo",
+    "price": 15180,
+    "screenSize": "23.8 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "panel": "Fast IPS",
+    "refreshRate": "240 Hz",
+    "responseTime": "1 ms (GtG)",
+    "connection": "HDMI 2.1 ×2 / DisplayPort 1.4",
+    "features": "HDR10 / AMD FreeSync Premium",
+    "tagline": "23.8\" FHD 240Hz Fast IPS"
+  },
+  "B0HBVT2TDK": {
+    "name": "ThinkCentre Tiny-in-One 24 Gen 4",
+    "brand": "Lenovo",
+    "price": 8800,
+    "screenSize": "23.8 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "panel": "IPS",
+    "refreshRate": "60 Hz",
+    "connection": "—",
+    "features": "内蔵Webカメラ / 非光沢",
+    "tagline": "23.8\" FHD IPS 一体型"
+  },
+  "B0CVN7VL3F": {
+    "name": "R25f-30",
+    "brand": "Lenovo",
+    "price": 18300,
+    "screenSize": "24.5 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "panel": "VA",
+    "refreshRate": "240 Hz",
+    "responseTime": "0.5 ms",
+    "connection": "HDMI / DisplayPort",
+    "features": "VESA対応 / チルト"
+  },
+  "B0DZQ685Q3": {
+    "name": "Legion R24e",
+    "brand": "Lenovo",
+    "price": 47263,
+    "screenSize": "23.8 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "panel": "IPS",
+    "refreshRate": "180 Hz",
+    "responseTime": "1 ms",
+    "connection": "HDMI 2.1 / DisplayPort 1.4",
+    "features": "AMD FreeSync / HDR / 高さ調整 / チルト"
+  },
+  "B0FPRKBD8J": {
+    "name": "L24-4e",
+    "brand": "Lenovo",
+    "price": 21208,
+    "screenSize": "23.8 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "panel": "IPS",
+    "refreshRate": "100 Hz",
+    "responseTime": "4 ms",
+    "connection": "HDMI 1.4 / VGA"
+  },
+  "B0GPC1QNKV": {
+    "name": "P24QD-40",
+    "brand": "Lenovo",
+    "price": 54706,
+    "screenSize": "23.8 インチ",
+    "resolution": "2560 x 1440 (QHD)",
+    "panel": "IPS",
+    "refreshRate": "120 Hz",
+    "connection": "HDMI / DisplayPort / USB Type-C / RJ45",
+    "features": "高さ調整 / ピボット / スワベル"
+  },
+  "B08QHYD2BP": {
+    "name": "T23d-10",
+    "brand": "Lenovo",
+    "screenSize": "22.5 インチ",
+    "resolution": "1920 x 1200 (WUXGA)",
+    "panel": "IPS",
+    "refreshRate": "60 Hz"
+  }
+}

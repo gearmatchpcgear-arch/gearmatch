@@ -1,0 +1,22 @@
+{
+  "B0DL5X394K": {
+    "name": "VG250Q3bmiipx 24.5型",
+    "tagline": "Acer ゲーミングモニター 24.5インチ FHD IPS 120Hz 1ms VRB sRGB 99% FreeSync HDMI/VGA",
+    "connection": "HDMI / VGA"
+  },
+  "B0FCQPC9FQ": {
+    "name": "24E1N2300AE/11 23.8型",
+    "tagline": "PHILIPS 液晶 Type-C モニター 23.8インチ IPS FHD 120Hz 1ms USB Type-C 65W PD / HDMI 5年保証",
+    "connection": "USB Type-C (65W PD) / HDMI"
+  },
+  "B0H3NNB52H": {
+    "name": "21.5型 モニター",
+    "tagline": "XUNDEFINED 21.5インチ FHD 120Hz 超薄型 VA 100% sRGB 4000:1 スピーカー内蔵 HDMI/DisplayPort",
+    "connection": "HDMI / DisplayPort",
+    "monitorFilterTags": ["port-hdmi", "port-dp"]
+  },
+  "B0GR8NLC94": {
+    "name": "FSID24BF1AE 23.8型",
+    "tagline": "FeuVision 23.8インチ IPS FHD 120Hz USB Type-C PD65W 高さ調整スタンド"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "B0H66GSNDW": {
+    "name": "AJ200NLAIMC",
+    "brand": "Ajazz",
+    "connection": "NearLink / 2.4GHz / USB-C",
+    "reading": "光学式（PAW3311）",
+    "power": "充電式 (USB-C)",
+    "weight": "61 g",
+    "buttonCount": "6"
+  },
+  "B0H7RCMG3X": {
+    "name": "AJ200NLAIMC",
+    "brand": "Ajazz",
+    "connection": "NearLink / 2.4GHz / USB-C",
+    "reading": "光学式（PAW3311）",
+    "power": "充電式 (USB-C)",
+    "weight": "61 g",
+    "buttonCount": "6"
+  },
+  "B0H6SC44MQ": {
+    "name": "RS3 ULTRA",
+    "brand": "ATTACK SHARK",
+    "connection": "Bluetooth / 2.4GHz / USB-C",
+    "reading": "光学式（PAW3955MAX）",
+    "power": "充電式 (USB-C)",
+    "weight": "66 g",
+    "buttonCount": "6"
+  },
+  "B0H3STF4DH": {
+    "name": "CRC-GMRGB03_FP",
+    "brand": "Century",
+    "connection": "有線 USB",
+    "reading": "光学式",
+    "power": "有線給電",
+    "weight": "100 g",
+    "buttonCount": "12"
+  },
+  "B0GW1BKC59": {
+    "name": "UltralightX Frostlord",
+    "brand": "Finalmouse",
+    "connection": "2.4GHz (USBレシーバー)",
+    "reading": "光学式",
+    "power": "充電式 (USB-C)",
+    "weight": "—",
+    "buttonCount": "5"
+  },
+  "B0GV244HTD": {
+    "name": "DeathAdder V4 Pro NiKo Edition",
+    "brand": "Razer",
+    "connection": "2.4GHz (HyperSpeed) / USB-C",
+    "reading": "光学式（Focus Pro 45K）",
+    "power": "充電式 (USB-C)",
+    "weight": "57 g",
+    "buttonCount": "6"
+  },
+  "B0GTYXXGD3": {
+    "name": "AE7 PRO",
+    "brand": "DAREU",
+    "connection": "2.4GHz (USBレシーバー) / USB-C",
+    "reading": "光学式（PAW3950）",
+    "power": "充電式 (USB-C)",
+    "weight": "62 g",
+    "buttonCount": "6"
+  },
+  "B0FH6X16SF": {
+    "name": "AE7 PRO",
+    "brand": "DAREU",
+    "connection": "2.4GHz (USBレシーバー) / USB-C",
+    "reading": "光学式（PAW3950）",
+    "power": "充電式 (USB-C)",
+    "weight": "62 g",
+    "buttonCount": "6"
+  },
+  "B0GYNMMNX5": {
+    "name": "Stormbreaker V3",
+    "brand": "PWNAGE",
+    "connection": "2.4GHz (USBレシーバー) / USB-C",
+    "reading": "光学式",
+    "power": "充電式 (USB-C)",
+    "weight": "—",
+    "buttonCount": "5"
+  }
+}

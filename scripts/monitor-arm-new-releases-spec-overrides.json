@@ -1,0 +1,252 @@
+{
+  "B0GWMJ2R4T": {
+    "name": "MS011",
+    "brand": "THEARK",
+    "supportedSize": "17〜32インチ",
+    "weightCapacity": "9.0kg",
+    "armType": "シングル (1画面)",
+    "springType": "ガススプリング式",
+    "mountType": "クランプ式 & グロメット式",
+    "vesaStandard": "75×75 / 100×100 mm"
+  },
+  "B0G34JT9GQ": {
+    "name": "GH-AMDX1-BK",
+    "brand": "グリーンハウス",
+    "supportedSize": "17〜32インチ",
+    "weightCapacity": "2.0〜9.0kg",
+    "armType": "シングル (1画面)",
+    "springType": "メカニカルスプリング式",
+    "mountType": "据え置き",
+    "vesaStandard": "75×75 / 100×100 mm"
+  },
+  "B0GWLTFGY4": {
+    "name": "モニターアーム（USBハブ付・ブラック）",
+    "brand": "—",
+    "supportedSize": "17〜32インチ",
+    "weightCapacity": "2.0〜10.0kg",
+    "armType": "シングル (1画面)",
+    "springType": "ガススプリング式",
+    "mountType": "クランプ式 & グロメット式",
+    "vesaStandard": "75×75 / 100×100 mm"
+  },
+  "B0GXFNLFQT": {
+    "name": "モニターアーム（USBハブ付・ブラック）",
+    "brand": "—",
+    "supportedSize": "17〜32インチ",
+    "weightCapacity": "2.0〜10.0kg",
+    "armType": "シングル (1画面)",
+    "springType": "ガススプリング式",
+    "mountType": "クランプ式 & グロメット式",
+    "vesaStandard": "75×75 / 100×100 mm"
+  },
+  "B0H6V4QTFQ": {
+    "name": "Pivotix シングル",
+    "brand": "—",
+    "supportedSize": "17〜32インチ",
+    "weightCapacity": "2.0〜9.0kg",
+    "armType": "シングル (1画面)",
+    "springType": "メカニカルスプリング式",
+    "mountType": "クランプ式 & グロメット式",
+    "vesaStandard": "75×75 / 100×100 mm"
+  },
+  "B0D1VCW8VW": {
+    "name": "GH-AMDU1-BK",
+    "brand": "グリーンハウス",
+    "supportedSize": "17〜49インチ",
+    "weightCapacity": "2.0〜20.0kg",
+    "armType": "シングル (1画面)",
+    "springType": "ガススプリング式",
+    "mountType": "クランプ式 & グロメット式",
+    "vesaStandard": "75×75 / 100×100 mm"
+  },
+  "B0HBV2YL66": {
+    "name": "DPAWSSA01BK",
+    "brand": "ELECOM",
+    "supportedSize": "13〜32インチ",
+    "weightCapacity": "2.0〜10.0kg",
+    "armType": "シングル (1画面)",
+    "springType": "ガススプリング式",
+    "mountType": "クランプ式 & グロメット式",
+    "vesaStandard": "75×75 / 100×100 mm"
+  },
+  "B0H8Y1J4R7": {
+    "name": "壁掛けモニターアーム デュアル",
+    "brand": "—",
+    "supportedSize": "13〜27インチ",
+    "weightCapacity": "10.0kg",
+    "armType": "デュアル (2画面)",
+    "springType": "—",
+    "mountType": "壁面取付",
+    "vesaStandard": "75×75 / 100×100 mm"
+  },
+  "B0GRZB8TQ9": {
+    "name": "壁掛けモニターアーム デュアル",
+    "brand": "—",
+    "supportedSize": "13〜27インチ",
+    "weightCapacity": "10.0kg",
+    "armType": "デュアル (2画面)",
+    "springType": "—",
+    "mountType": "壁面取付",
+    "vesaStandard": "75×75 / 100×100 mm"
+  },
+  "B0H93JTYM5": {
+    "name": "KR20Y",
+    "brand": "KOORUI",
+    "supportedSize": "17〜32インチ",
+    "weightCapacity": "9.0kg",
+    "armType": "シングル (1画面)",
+    "springType": "ガススプリング式",
+    "mountType": "クランプ式 & グロメット式",
+    "vesaStandard": "75×75 / 100×100 mm"
+  },
+  "B0H2TS23L7": {
+    "name": "トリプルモニターアーム",
+    "brand": "WORLDLIFT",
+    "supportedSize": "20〜32インチ",
+    "weightCapacity": "10.0kg",
+    "armType": "トリプル (3画面)",
+    "springType": "ガススプリング式",
+    "mountType": "クランプ式 & グロメット式",
+    "vesaStandard": "75×75 / 100×100 mm"
+  },
+  "B0GL6Y7F34": {
+    "name": "デュアルモニターアーム",
+    "brand": "monTEK",
+    "supportedSize": "13〜32インチ",
+    "weightCapacity": "2.0〜9.0kg",
+    "armType": "デュアル (2画面)",
+    "springType": "ガススプリング式",
+    "mountType": "クランプ式 & グロメット式",
+    "vesaStandard": "75×75 / 100×100 mm"
+  },
+  "B0HB9PNDMQ": {
+    "name": "PS3S Wave",
+    "brand": "Pixio",
+    "supportedSize": "17〜32インチ",
+    "weightCapacity": "9.0kg",
+    "armType": "シングル (1画面)",
+    "springType": "ガススプリング式",
+    "mountType": "クランプ式",
+    "vesaStandard": "75×75 / 100×100 mm"
+  },
+  "B0GXW6S3QG": {
+    "name": "置き型モニタースタンド",
+    "brand": "HUANUO",
+    "supportedSize": "13〜34インチ",
+    "weightCapacity": "20.0kg",
+    "armType": "シングル (1画面)",
+    "springType": "—",
+    "mountType": "据え置き",
+    "vesaStandard": "75×75 / 100×100 mm"
+  },
+  "B0H487TL29": {
+    "name": "MA6S",
+    "brand": "FlexiSpot",
+    "supportedSize": "17〜35インチ",
+    "weightCapacity": "—",
+    "armType": "シングル (1画面)",
+    "springType": "ガススプリング式",
+    "mountType": "クランプ式 & グロメット式",
+    "vesaStandard": "75×75 / 100×100 mm"
+  },
+  "B0GXZS7YZC": {
+    "name": "MA6S",
+    "brand": "FlexiSpot",
+    "supportedSize": "17〜35インチ",
+    "weightCapacity": "—",
+    "armType": "シングル (1画面)",
+    "springType": "ガススプリング式",
+    "mountType": "クランプ式 & グロメット式",
+    "vesaStandard": "75×75 / 100×100 mm"
+  },
+  "B0GX3BX543": {
+    "name": "MA6",
+    "brand": "FlexiSpot",
+    "supportedSize": "〜35インチ",
+    "weightCapacity": "3.0〜12.0kg",
+    "armType": "シングル (1画面)",
+    "springType": "ガススプリング式",
+    "mountType": "クランプ式 & グロメット式",
+    "vesaStandard": "75×75 / 100×100 mm"
+  },
+  "B0H3C7HW92": {
+    "name": "モニターアーム シングル（ホワイト）",
+    "brand": "PEGZONE",
+    "supportedSize": "17〜49インチ",
+    "weightCapacity": "2.0〜20.0kg",
+    "armType": "シングル (1画面)",
+    "springType": "ガススプリング式",
+    "mountType": "クランプ式 & グロメット式",
+    "vesaStandard": "75×75 / 100×100 mm"
+  },
+  "B0GXVFB37R": {
+    "name": "モニターアーム シングル（ホワイト）",
+    "brand": "PEGZONE",
+    "supportedSize": "17〜49インチ",
+    "weightCapacity": "2.0〜20.0kg",
+    "armType": "シングル (1画面)",
+    "springType": "ガススプリング式",
+    "mountType": "クランプ式 & グロメット式",
+    "vesaStandard": "75×75 / 100×100 mm"
+  },
+  "B0GZZS5Y2M": {
+    "name": "Pro 無重力 シングル",
+    "brand": "monTEK",
+    "supportedSize": "17〜57インチ",
+    "weightCapacity": "2.0〜27.0kg",
+    "armType": "シングル (1画面)",
+    "springType": "ガススプリング式",
+    "mountType": "クランプ式 & グロメット式",
+    "vesaStandard": "75×75 / 100×100 mm"
+  },
+  "B0GL8B2NQH": {
+    "name": "Pro 無重力 シングル",
+    "brand": "monTEK",
+    "supportedSize": "17〜57インチ",
+    "weightCapacity": "2.0〜27.0kg",
+    "armType": "シングル (1画面)",
+    "springType": "ガススプリング式",
+    "mountType": "クランプ式 & グロメット式",
+    "vesaStandard": "75×75 / 100×100 mm"
+  },
+  "B0GXT1M66H": {
+    "name": "無重力 Pro デュアル",
+    "brand": "COFO",
+    "supportedSize": "17〜40インチ",
+    "weightCapacity": "2.5〜14.0kg",
+    "armType": "デュアル (2画面)",
+    "springType": "メカニカルスプリング式",
+    "mountType": "クランプ式 & グロメット式",
+    "vesaStandard": "75×75 / 100×100 mm"
+  },
+  "B0GQYYBN2Q": {
+    "name": "デュアルモニターアーム（縦2画面）",
+    "brand": "monTEK",
+    "supportedSize": "17〜32インチ",
+    "weightCapacity": "10.0kg",
+    "armType": "デュアル (2画面)",
+    "springType": "ガススプリング式",
+    "mountType": "クランプ式 & グロメット式",
+    "vesaStandard": "75×75 / 100×100 mm"
+  },
+  "B0H6MDQ37Q": {
+    "name": "CR-LAW119BK",
+    "brand": "サンワサプライ",
+    "supportedSize": "—",
+    "weightCapacity": "—",
+    "armType": "シングル (1画面)",
+    "springType": "—",
+    "mountType": "壁面取付",
+    "vesaStandard": "75×75 / 100×100 mm"
+  },
+  "B0H8N6GMXK": {
+    "name": "AS-MABG05",
+    "brand": "Archiss",
+    "supportedSize": "〜49インチ",
+    "weightCapacity": "2.0〜20.0kg",
+    "armType": "シングル (1画面)",
+    "springType": "ガススプリング式",
+    "mountType": "クランプ式 & グロメット式",
+    "vesaStandard": "75×75 / 100×100 mm"
+  }
+}

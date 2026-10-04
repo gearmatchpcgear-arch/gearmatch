@@ -1,0 +1,19 @@
+{
+  "mode": "apply",
+  "refresh": false,
+  "checked": 2,
+  "ok": 1,
+  "fixes": 0,
+  "unresolved": 1,
+  "remainingMismatches": 0,
+  "fixList": [],
+  "unresolvedList": [
+    {
+      "id": "chair-sr3-111",
+      "file": "gaming-chair-search-page3.ts",
+      "issue": "no-amazon-title",
+      "asin": "B0H11G6FDD"
+    }
+  ],
+  "generatedAt": "2026-08-22T23:24:24.025Z"
+}

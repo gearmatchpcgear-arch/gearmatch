@@ -1,0 +1,212 @@
+{
+  "B0D9VVJ967": {
+    "name": "G PRO 2 LIGHTSPEED G-PPD-002XWL-BK",
+    "connection": "2.4GHz (LIGHTSPEED) / USB-C",
+    "reading": "光学式（HERO 2）",
+    "power": "充電式 (USB-C)",
+    "weight": "80 g",
+    "buttonCount": "8"
+  },
+  "B0GGX35X72": {
+    "name": "PRO X2 SUPERSTRIKE G-PPD-004WL-STRK",
+    "connection": "2.4GHz (LIGHTSPEED) / USB-C",
+    "reading": "光学式（HERO 2）",
+    "power": "充電式 (USB-C)",
+    "weight": "61 g",
+    "buttonCount": "5"
+  },
+  "B087BTXHX4": {
+    "name": "G203",
+    "connection": "有線 USB",
+    "reading": "光学式",
+    "power": "有線給電",
+    "weight": "85 g",
+    "buttonCount": "6"
+  },
+  "B0GLM7WKVH": {
+    "name": "Viper V4 Pro",
+    "connection": "2.4GHz (HyperSpeed) / USB-C",
+    "reading": "光学式（Focus Pro）",
+    "power": "充電式 (USB-C)",
+    "weight": "49 g",
+    "buttonCount": "6"
+  },
+  "B0D1X5B9PC": {
+    "name": "Viper V3 Pro White Edition",
+    "connection": "2.4GHz (HyperSpeed) / USB-C",
+    "reading": "光学式（Focus Pro 35K）",
+    "power": "充電式 (USB-C)",
+    "weight": "55 g",
+    "buttonCount": "6"
+  },
+  "B0D21Q6QG4": {
+    "name": "PRO X SUPERLIGHT 2 G-PPD-004WL-BK",
+    "connection": "2.4GHz (LIGHTSPEED) / USB-C",
+    "reading": "光学式（HERO 2）",
+    "power": "充電式 (USB-C)",
+    "weight": "60 g",
+    "buttonCount": "5"
+  },
+  "B08CKZ9TSY": {
+    "name": "G502 G502RGBhr",
+    "connection": "有線 USB",
+    "reading": "光学式（HERO 25K）",
+    "power": "有線給電",
+    "weight": "121 g",
+    "buttonCount": "11"
+  },
+  "B0G5Y7BYF1": {
+    "name": "CrazyLight Series",
+    "brand": "Pulsar",
+    "connection": "2.4GHz (USBレシーバー) / USB-C",
+    "reading": "光学式",
+    "power": "充電式 (USB-C)",
+    "weight": "44 g",
+    "buttonCount": "5"
+  },
+  "B0FPRQPGT7": {
+    "name": "PRO X SUPERLIGHT 2 SE G-PPD-004WLSE-BK",
+    "connection": "2.4GHz (LIGHTSPEED) / USB-C",
+    "reading": "光学式（HERO 2）",
+    "power": "充電式 (USB-C)",
+    "weight": "60 g",
+    "buttonCount": "5"
+  },
+  "B0BW3ZS795": {
+    "name": "Naga V2 HyperSpeed",
+    "connection": "2.4GHz (HyperSpeed) / Bluetooth",
+    "reading": "光学式（Focus Pro 30K）",
+    "power": "単3形 乾電池×1",
+    "weight": "96 g",
+    "buttonCount": "19"
+  },
+  "B07RR94VQT": {
+    "name": "G502 LIGHTSPEED G502WL",
+    "connection": "2.4GHz (LIGHTSPEED) / USB-C",
+    "reading": "光学式（HERO 25K）",
+    "power": "充電式 (USB-C)",
+    "weight": "114 g",
+    "buttonCount": "11"
+  },
+  "B07DVC25R2": {
+    "name": "G304 LIGHTSPEED",
+    "connection": "2.4GHz (LIGHTSPEED)",
+    "reading": "光学式（HERO 12K）",
+    "power": "単3形 乾電池×1",
+    "weight": "99 g",
+    "buttonCount": "6"
+  },
+  "B07SYKKP47": {
+    "name": "G703h LIGHTSPEED",
+    "connection": "2.4GHz (LIGHTSPEED) / USB-C",
+    "reading": "光学式（HERO 25K）",
+    "power": "充電式 (USB-C)",
+    "weight": "106 g",
+    "buttonCount": "6"
+  },
+  "B0GT7BV9D6": {
+    "name": "EVNIA SPK9418",
+    "brand": "Philips",
+    "connection": "Bluetooth / 2.4GHz / USB-C",
+    "reading": "光学式",
+    "power": "充電式 (USB-C)",
+    "weight": "52 g",
+    "buttonCount": "6"
+  },
+  "B0GKH36WB5": {
+    "name": "V6",
+    "brand": "SCYROX",
+    "connection": "2.4GHz (USBレシーバー) / USB-C",
+    "reading": "光学式",
+    "power": "充電式 (USB-C)",
+    "weight": "40 g",
+    "buttonCount": "5"
+  },
+  "B0BHL3B2VF": {
+    "name": "G502 X LIGHTSPEED G502XWL-CRBK",
+    "connection": "2.4GHz (LIGHTSPEED) / USB-C",
+    "reading": "光学式（HERO 25K）",
+    "power": "充電式 (USB-C)",
+    "weight": "102 g",
+    "buttonCount": "13"
+  },
+  "B0CBCPB2T1": {
+    "name": "Viper V3 HyperSpeed",
+    "connection": "2.4GHz (HyperSpeed)",
+    "reading": "光学式（Focus Pro 30K）",
+    "power": "単3形 乾電池×1",
+    "weight": "55 g",
+    "buttonCount": "6"
+  },
+  "B00MCIIX1G": {
+    "name": "G402",
+    "connection": "有線 USB",
+    "reading": "光学式",
+    "power": "有線給電",
+    "weight": "108 g",
+    "buttonCount": "8"
+  },
+  "B08PY5GRTS": {
+    "name": "Rival 3 Gen 2",
+    "brand": "SteelSeries",
+    "connection": "有線 USB",
+    "reading": "光学式",
+    "power": "有線給電",
+    "weight": "77 g",
+    "buttonCount": "6"
+  },
+  "B0F5QBSRDR": {
+    "name": "Rival 3 Gen 2",
+    "brand": "SteelSeries",
+    "connection": "有線 USB",
+    "reading": "光学式",
+    "power": "有線給電",
+    "weight": "77 g",
+    "buttonCount": "6"
+  },
+  "B0BW8DB72Z": {
+    "name": "M910-WS",
+    "brand": "Redragon",
+    "connection": "2.4GHz (USBレシーバー)",
+    "reading": "光学式",
+    "power": "充電式 (USB-C)",
+    "weight": "—",
+    "buttonCount": "6"
+  },
+  "B0FBGFM6B1": {
+    "name": "X11SE",
+    "brand": "ATTACK SHARK",
+    "connection": "Bluetooth / 2.4GHz / USB-C",
+    "reading": "光学式",
+    "power": "充電式 (USB-C)",
+    "weight": "59 g",
+    "buttonCount": "6"
+  },
+  "B0D25MNB15": {
+    "name": "FORGE GM100",
+    "brand": "MSI",
+    "connection": "有線 USB",
+    "reading": "光学式",
+    "power": "有線給電",
+    "weight": "—",
+    "buttonCount": "6"
+  },
+  "B0DP3FTCZX": {
+    "name": "VERSA 300 W",
+    "brand": "MSI",
+    "connection": "2.4GHz (USBレシーバー) / USB-C",
+    "reading": "光学式",
+    "power": "充電式 (USB-C)",
+    "weight": "60 g",
+    "buttonCount": "6"
+  },
+  "B0DKT8S1XC": {
+    "name": "VERSA 300 W",
+    "brand": "MSI",
+    "connection": "2.4GHz (USBレシーバー) / USB-C",
+    "reading": "光学式",
+    "power": "充電式 (USB-C)",
+    "weight": "60 g",
+    "buttonCount": "6"
+  }
+}

@@ -1,0 +1,688 @@
+{
+  "mode": "apply",
+  "scannedAt": "2026-08-17T13:52:22.002Z",
+  "removed": [
+    {
+      "asin": "B07DQPQKC8",
+      "id": "mon-acer-018",
+      "name": "AlphaLine 23.8インチ SA240YAbmi フルHD IPS フレームレス HDM",
+      "file": "monitor-acer-search.ts",
+      "reason": "unavailable",
+      "amazonTitle": "Acer モニター ディスプレイ AlphaLine 23.8インチ SA240YAbmi フルHD IPS フレームレス HDMI D-Sub スピーカー内蔵 ブルーライト軽減 薄型"
+    },
+    {
+      "asin": "B08HZ448KY",
+      "id": "mon-acer-027",
+      "name": "VG240YSbmiipfx",
+      "file": "monitor-acer-search.ts",
+      "reason": "unavailable",
+      "amazonTitle": "Acer ゲーミングモニター Nitro VG240YSbmiipfx 23.8インチ IPS 非光沢 フルHD 165Hz 0.5ms(GTG, Min.) PC/PS5/Xbox X/S向き HDMI AMD FreeSync™ Pre"
+    },
+    {
+      "asin": "B0BLCFJ9H1",
+      "id": "mon-acer-029",
+      "name": "SigmaLine KG251QSbmiipx",
+      "file": "monitor-acer-search.ts",
+      "reason": "unavailable",
+      "amazonTitle": "Acer ゲーミングモニター SigmaLine KG251QSbmiipx 24.5インチ VA 非光沢 フルHD 165Hz 1ms (VRB) PC/PS5/Xbox X/S向き FreeSync Premium 広視野角178° ス"
+    },
+    {
+      "asin": "B0C4J5N3VK",
+      "id": "mon-acer-030",
+      "name": "QG241YEbmiix",
+      "file": "monitor-acer-search.ts",
+      "reason": "unavailable",
+      "amazonTitle": "日本エイサー 【Amazon.co.jp限定】 Acer ゲーミングモニター Nitro QG241YEbmiix 23.8インチ IPS 非光沢 フルHD 100Hz 1ms(VRB) HDMI ミニD-Sub15 VESAマウント対応 "
+    },
+    {
+      "asin": "B083YCHRZ3",
+      "id": "mon-acer-031",
+      "name": "AlphaLine K242HQLbi",
+      "file": "monitor-acer-search.ts",
+      "reason": "unavailable",
+      "amazonTitle": "【Amazon.co.jp限定】Acer モニター ディスプレイ AlphaLine 23.6インチ K242HQLbi フルHD VA HDMI D-Sub ブルーライト軽減 VESA対応 スピーカー非搭載 広い視野角178°"
+    },
+    {
+      "asin": "B0GY3SM484",
+      "id": "mon-asus-010",
+      "name": "PG32UCDM3",
+      "file": "monitor-asus-search.ts",
+      "reason": "unavailable",
+      "amazonTitle": "ROG ゲーミングモニター/ROG Swift OLED PG32UCDM3 / 32インチ / 4K /QD-OLEDパネル / 240 Hz/BlackShieldフィルム/G-SYNC対応 / 1ms / Neo近接センサー/Disp"
+    },
+    {
+      "asin": "B09CD5SV4H",
+      "id": "mon-asus-012",
+      "name": "XG27AQWMG",
+      "file": "monitor-asus-search.ts",
+      "reason": "unavailable",
+      "amazonTitle": "ROG OLED ゲーミングモニター/ROG Strix OLED XG27AQWMG / 27インチ / 1440p TrueBlack Glossy™ タンデムOLED / 280 Hz / 0.3ms / Neo 近接センサー/VES"
+    },
+    {
+      "asin": "B0G1YQZZLW",
+      "id": "mon-asus-018",
+      "name": "PG27AQWP-W",
+      "file": "monitor-asus-search.ts",
+      "reason": "unavailable",
+      "amazonTitle": "ROG Swift OLED PG27AQWP-W/ゲーミングモニター / 26.5インチ / 解像度2560x1440 / タンデム有機ELパネル/QHD 540Hz、HD 720Hzの切替が可能 / 0.02msの高速応答 / VESA"
+    },
+    {
+      "asin": "B0CJ56JD6R",
+      "id": "mon-asus-023",
+      "name": "VG27AQ3A",
+      "file": "monitor-asus-search.ts",
+      "reason": "unavailable",
+      "amazonTitle": "【Amazon.co.jp限定】ASUS ゲーミングモニター TUF Gaming VG27AQ3A 27インチ/QHD/Fast IPS/180Hz/1ms/G-SYNC Compatible/スピーカー/3年保証"
+    },
+    {
+      "asin": "B0813TDWJB",
+      "id": "mon-asus-024",
+      "name": "VG258QR-J",
+      "file": "monitor-asus-search.ts",
+      "reason": "unavailable",
+      "amazonTitle": "【Amazon.co.jp限定】ASUS ゲーミングモニター VG258QR-J 24.5インチ FHD 165Hz TN 0.5ms HDMI1.4 DisplayPort1.2 DVI-D スピーカー 高さ調整 縦横回転"
+    },
+    {
+      "asin": "B0B2RCT6CR",
+      "id": "mon-bs2-017",
+      "name": "15.6型 144Hz ゲーミングモバイル",
+      "file": "monitor-bestsellers-page2.ts",
+      "reason": "unavailable",
+      "amazonTitle": "モバイルモニター 144Hz ARZOPA 15.6インチ 1msゲーミングモニター 1920x1080FHD ゲームモニター 非光沢IPS液晶パネル スイッチ用モニター モバイルディスプレイ 軽量 薄型ディスプレイ HDRモード対応 ブル"
+    },
+    {
+      "asin": "B0CV7M63LH",
+      "id": "mon-bs2-019",
+      "name": "PRO MP273AW",
+      "file": "monitor-bestsellers-page2.ts",
+      "reason": "unavailable",
+      "amazonTitle": "【Amazon.co.jp限定】MSI ビジネスモニター PRO MP273AW IPSパネル フルHD/27インチ/HDMI/DisplayPort/D-sub/リフレッシュレート100Hz/ハードウェアブルーライトカット/アンチフリッカ"
+    },
+    {
+      "asin": "B07V5BHZLW",
+      "id": "mon-bs2-021",
+      "name": "271E1D/11",
+      "file": "monitor-bestsellers-page2.ts",
+      "reason": "unavailable",
+      "amazonTitle": "PHILIPS 液晶ディスプレイ PCモニター (27インチ/IPS Technology/FHD/5年保証/HDMI/D-Sub/DVI-D/フレームレス/OSD日本語対応/ブルーライトカット/フリッカーフリー) 271E1D/11"
+    },
+    {
+      "asin": "B0B2P49LJX",
+      "id": "mon-bs2-022",
+      "name": "27M2U",
+      "file": "monitor-bestsellers-page2.ts",
+      "reason": "unavailable",
+      "amazonTitle": "ミニLED 4Kモニター INNOCN M2U 4K 27インチ HDR1000 最大輝度1000Nits DP/TYPE-C 90W/HDMI 動画編集 デザイン モニター 非光沢 VESA 100x100mm ブルーライト軽減 スピーカ"
+    },
+    {
+      "asin": "B08HLL1FN7",
+      "id": "mon-bs2-023",
+      "name": "27G2E5/11",
+      "file": "monitor-bestsellers-page2.ts",
+      "reason": "unavailable",
+      "amazonTitle": "AOC ゲーミング液晶モニター 27G2E5/11 (27インチ/フルHD/IPS/HDMI/DisplayPort/75Hz/応答速度1ms/HDRエフェクトモード/FreeSync/フリッカーフリー/ローブルーモード)"
+    },
+    {
+      "asin": "B09M3GLDY2",
+      "id": "mon-bs2-031",
+      "name": "EW2880U",
+      "file": "monitor-bestsellers-page2.ts",
+      "reason": "unavailable",
+      "amazonTitle": "BenQ EW2880U 4K エンターテインメントモニター (28インチ/4K/IPS/HDRi/ 3W x 2 treVoloスピーカー/DCI-P3 90%/リモコン付属/ベゼルレス/HDMI/DisplayPort/USB Type"
+    },
+    {
+      "asin": "B08KGM1SJ8",
+      "id": "mon-bs2-033",
+      "name": "XL2546K",
+      "file": "monitor-bestsellers-page2.ts",
+      "reason": "unavailable",
+      "amazonTitle": "BenQ ZOWIE XL2546K ゲーミングモニター (24.5型/フルHD/240Hz/0.5ms/DyAc+/小さめ台座/新筐体デザイン/新OSDメニュー/新型液晶パネル採用)"
+    },
+    {
+      "asin": "B08WLS4VQ5",
+      "id": "mon-bs2-035",
+      "name": "EK270Bbix",
+      "file": "monitor-bestsellers-page2.ts",
+      "reason": "unavailable",
+      "amazonTitle": "Acer モニター AlphaLine KB272bmix 27インチ IPS 非光沢 フルHD 1ms(VRB)75Hz HDMI フリッカーレス ブルーライト軽減"
+    },
+    {
+      "asin": "B08WK8Y8L5",
+      "id": "mon-bs2-036",
+      "name": "JN-IPS2800UHDR",
+      "file": "monitor-bestsellers-page2.ts",
+      "reason": "unavailable",
+      "amazonTitle": "JAPANNEXT 28インチ モニター 4K UHD 3840x2160解像度 IPS ディスプレイ (HDMI/DisplayPort/スピーカー内蔵/ブルーライトカット) JN-IPS2800UHDR"
+    },
+    {
+      "asin": "B0CNXTWVN5",
+      "id": "mon-bs2-037",
+      "name": "VX2428",
+      "file": "monitor-bestsellers-page2.ts",
+      "reason": "unavailable",
+      "amazonTitle": "ViewSonic ビューソニックジャパン 23.8インチ ゲーミングモニター VX2428-7 (フルHD/IPS/180Hz(OC時)/MPRT 0.5ms/HDMI,DP/HDR10/FreeSync Premium/VESA Cle"
+    },
+    {
+      "asin": "B0CKVJDGSV",
+      "id": "mon-bs2-044",
+      "name": "24E4",
+      "file": "monitor-bestsellers-page2.ts",
+      "reason": "unavailable",
+      "amazonTitle": "KOORUI ゲーミングモニター 24インチフルHD VA 非光沢 1ms 165Hz FPS, RTS向けDCI-P3, AdaptiveSync対応, 傾き調節, HDMI X2, DP, VESA, ブルーライト軽減 モニター 24E"
+    },
+    {
+      "asin": "B08DNQXFPG",
+      "id": "mon-bs2-045",
+      "name": "32UN880-B",
+      "file": "monitor-bestsellers-page2.ts",
+      "reason": "unavailable",
+      "amazonTitle": "LG エルゴノミクス スタンド モニター ディスプレイ 32UN880-B 31.5インチ/4K/HDR/IPS非光沢/USB Type-C,HDMI×2、DP/FreeSync/スピーカー/チルト,スイベル,高さ調節,ピボット対応/フリッ"
+    },
+    {
+      "asin": "B0CFXKB7T2",
+      "id": "mon-bs-010",
+      "name": "VG240YM3bmiipx",
+      "file": "monitor-bestsellers.ts",
+      "reason": "unavailable",
+      "amazonTitle": "【Amazon.co.jp限定】日本エイサー Acer Nitro ゲーミングモニター 23.8インチ IPS フルHD 180Hz 0.5ms PC/PS5/Xbox X/S向き ヘッドホン端子 スピーカー HDMI2.0 AMD Fre"
+    },
+    {
+      "asin": "B09SV4VKXR",
+      "id": "mon-bs-014",
+      "name": "PX243",
+      "file": "monitor-bestsellers.ts",
+      "reason": "unavailable",
+      "amazonTitle": "Pixio PX243 ゲーミングモニター 23.8インチ FHD VA 165Hz 1ms 2年保証 30日間返品保証"
+    },
+    {
+      "asin": "B0BQF3JKQF",
+      "id": "mon-bs-016",
+      "name": "24N1A",
+      "file": "monitor-bestsellers.ts",
+      "reason": "unavailable",
+      "amazonTitle": "KOORUI モニター 23.8インチ 24N1A ディスプレイ VA非光沢 フルHD 最大75Hz ブルーライト軽減 フリッカーフリー VESA対応 フレームレス HDMI 1.4/VGA (スピーカー非搭載)"
+    },
+    {
+      "asin": "B0CKYNFG4B",
+      "id": "mon-bs-017",
+      "name": "G244F E2",
+      "file": "monitor-bestsellers.ts",
+      "reason": "unavailable",
+      "amazonTitle": "【Amazon.co.jp限定】MSI G244F E2 ゲーミングモニター 応答速度1ms(GtoG)実現 Rapid IPSパネル 鮮やかな発色 フルHD/23.8インチ/180Hz/1ms(GTG)/Adaptive-Sync/HDM"
+    },
+    {
+      "asin": "B0CLNTRCXV",
+      "id": "mon-bs-022",
+      "name": "24MR400-B",
+      "file": "monitor-bestsellers.ts",
+      "reason": "unavailable",
+      "amazonTitle": "24MR400-B 23.8インチ LG モニター/アンチグレア/IPS/1920×1080/100Hz/5ms（GTG）/FreeSync™/DAS/ブラックスタビライザー/D-sub/HDMI/チルト調整対応"
+    },
+    {
+      "asin": "B0CXXR9HRQ",
+      "id": "mon-bs-023",
+      "name": "S2425H",
+      "file": "monitor-bestsellers.ts",
+      "reason": "unavailable",
+      "amazonTitle": "【Amazon.co.jp限定】Dell S2425H-A 23.8インチ モニター(無輝点5年保証/FHD/IPS,非光沢/HDMIx2/内蔵スピーカー/sRGB 99%/傾き)"
+    },
+    {
+      "asin": "B0BLRZ5HJM",
+      "id": "mon-bs-025",
+      "name": "24G2SP/11",
+      "file": "monitor-bestsellers.ts",
+      "reason": "unavailable",
+      "amazonTitle": "AOC ゲーミング液晶モニター 24G2SPE/11 (23.8インチ/フルHD/IPS/HDMI/DisplayPort/165Hz/応答速度1ms/HDRエフェクトモード/Adaptive Sync/フリッカーフリー/ローブルーモード)"
+    },
+    {
+      "asin": "B08KGPL974",
+      "id": "mon-bs-028",
+      "name": "XL2411K",
+      "file": "monitor-bestsellers.ts",
+      "reason": "unavailable",
+      "amazonTitle": "ベンキュージャパン BenQ ZOWIE XL2411K ゲーミングモニター (24インチ/Full HD/TN/144Hz/1ms/DyAc/小さめ台座/OSDメニュー/指一本で高さ調整)"
+    },
+    {
+      "asin": "B0CDVYWRXZ",
+      "id": "mon-bs-030",
+      "name": "EK241YHbi",
+      "file": "monitor-bestsellers.ts",
+      "reason": "unavailable",
+      "amazonTitle": "【Amazon.co.jp限定】日本エイサー Acer スタンダードモニター 23.8インチ IPS フルHD 100Hz 1ms スピーカー・ヘッドホン端子搭載 HDMI1.4 AMD FreeSync EK241YEbmix"
+    },
+    {
+      "asin": "B07Y2Z7CQ2",
+      "id": "mon-bs-032",
+      "name": "EX-LDH241DB",
+      "file": "monitor-bestsellers.ts",
+      "reason": "unavailable",
+      "amazonTitle": "【Amazon.co.jp 限定】I-O DATA アイ・オー・データ モニター 23.8型 FHD 1080p スピーカー付 ADSパネル 非光沢 HDMI×1 3年保証 VESA対応 土日サポート EX-LDH241DB"
+    },
+    {
+      "asin": "B0BC28DHZ6",
+      "id": "mon-bs-034",
+      "name": "27G2SP/11",
+      "file": "monitor-bestsellers.ts",
+      "reason": "unavailable",
+      "amazonTitle": "3枚 Sukix フィルム 、 AOC 27G2SP 27インチ モニター 向けの 液晶保護フィルム 保護フィルム シート シール（非 ガラスフィルム 強化ガラス ガラス ケース カバー ） 修繕版"
+    },
+    {
+      "asin": "B0F2DY8BF7",
+      "id": "mon-bs-035",
+      "name": "SE2725H",
+      "file": "monitor-bestsellers.ts",
+      "reason": "unavailable",
+      "amazonTitle": "【Amazon.co.jp限定】Dell SE2725HM-A 27インチ モニター(5年保証/FHD/IPS,非光沢/HDMI1.4x1,VGAx1/傾き調整)"
+    },
+    {
+      "asin": "B094D5J7T8",
+      "id": "mon-bs-036",
+      "name": "34WP500-B",
+      "file": "monitor-bestsellers.ts",
+      "reason": "unavailable",
+      "amazonTitle": "【Amazon.co.jp 限定】LG モニター ディスプレイ 34WP500-B 34インチ /作業効率アップ、ビジネス、プログラミング、トレーディング、グラフィック、映画、ゲーム/21:9 平面ウルトラワイド(2560×1080) / "
+    },
+    {
+      "asin": "B077SBB5SH",
+      "id": "mon-bs-038",
+      "name": "GW2480",
+      "file": "monitor-bestsellers.ts",
+      "reason": "unavailable",
+      "amazonTitle": "ベンキュージャパン BenQ GW2480 アイケアモニター (23.8インチ/フルHD/IPS/輝度自動調整(B.I.)搭載/ウルトラスリムベゼル/DisplayPort,HDMI,VGA端子) ブラック"
+    },
+    {
+      "asin": "B0CLNT2VWZ",
+      "id": "mon-bs-043",
+      "name": "27MR400-B",
+      "file": "monitor-bestsellers.ts",
+      "reason": "unavailable",
+      "amazonTitle": "27MR400-B 27インチ LG モニター/アンチグレア/IPS/1920×1080/100Hz/5ms（GTG）/FreeSync™/DAS/ブラックスタビライザー/D-sub/HDMI/チルト調整対応"
+    },
+    {
+      "asin": "B08R9GYRQG",
+      "id": "mon-bs-045",
+      "name": "EV2480-BK",
+      "file": "monitor-bestsellers.ts",
+      "reason": "unavailable",
+      "amazonTitle": "EIZO FlexScan EV2480-BK (23.8型/1920×1080/フレームレスモニター/アンチグレアIPS/疲れ目軽減/ブラック)"
+    },
+    {
+      "asin": "B0C3ZV4H7L",
+      "id": "mon-dell-009",
+      "name": "AW2523HF",
+      "file": "monitor-dell-search.ts",
+      "reason": "unavailable",
+      "amazonTitle": "Dell AW2523HF 24.5インチ Alienware ゲーミングモニター(3年間無輝点交換保証/FHD/Fast IPS,非光沢/DP,HDMI/sRGB 99%/縦横回転,高さ調整/0.5ms/360Hz/AMD FreeSyn"
+    },
+    {
+      "asin": "B08VRCQDGX",
+      "id": "mon-dell-020",
+      "name": "C2422HE",
+      "file": "monitor-dell-search.ts",
+      "reason": "unavailable",
+      "amazonTitle": "Dell C2422HE 23.8インチ ビデオ会議 モニター ディスプレイ (3年間無輝点交換保証/FHD/IPS 非光沢/USB-C DisplayPort HDMI/sRGB 99%/縦横回転 高さ調整/LANポート(RJ45)/ドッ"
+    },
+    {
+      "asin": "B09CGY99X5",
+      "id": "mon-dell-025",
+      "name": "S2722QC",
+      "file": "monitor-dell-search.ts",
+      "reason": "unavailable",
+      "amazonTitle": "Dell S2722QC 27インチ 4K モニター (3年間無輝点交換保証/IPS非光沢/USB Type-C・HDMIx2/sRGB 99%/縦横回転・高さ調整/4ms/AMD FreeSync/スピーカー付)"
+    },
+    {
+      "asin": "B0BG1NBRCY",
+      "id": "mon-lenovo-1822-004",
+      "name": "ThinkVision S22e-20 Business 21.5 Wide VA WLED L",
+      "file": "monitor-lenovo-search-1822.ts",
+      "reason": "unavailable",
+      "amazonTitle": "Lenovo ThinkVision S22e-20 モニター ビジネス 21.5型ワイド VA WLED液晶 FHD 非光沢 VESA HDMI ケーブル付き ブラック 62C6KAR1J9"
+    },
+    {
+      "asin": "B005PAI9OE",
+      "id": "mon-lenovo-1822-007",
+      "name": "ThinkVision LT1952p 19インチ ブラック - PCフラットパネル LED",
+      "file": "monitor-lenovo-search-1822.ts",
+      "reason": "unavailable",
+      "amazonTitle": "Lenovo ThinkVision LT1952p 19インチ ブラック - PCフラットパネル(LED、ブラック、Kensington、1000:1、10000000:1、0.2835 x 0.2835 mm)"
+    },
+    {
+      "asin": "B08DRRHJVW",
+      "id": "mon-lenovo-1822-008",
+      "name": "ThinkVision T22i-20 - LED - Full HD (1080p) - 21",
+      "file": "monitor-lenovo-search-1822.ts",
+      "reason": "unavailable",
+      "amazonTitle": "Lenovo ThinkVision T22i-20 - LEDモニター - フルHD (1080p) - 21.5インチ"
+    },
+    {
+      "asin": "B06XYLDND3",
+      "id": "mon-lenovo-1822-015",
+      "name": "Japan ThinkVision T22i-10 61A9MAR1JP",
+      "file": "monitor-lenovo-search-1822.ts",
+      "reason": "unavailable",
+      "amazonTitle": "レノボ・ジャパン 61A9MAR1JP ThinkVision T22i-10"
+    },
+    {
+      "asin": "B000XSE4OW",
+      "id": "mon-lenovo-1822-023",
+      "name": "ThinkVision L194 Wide",
+      "file": "monitor-lenovo-search-1822.ts",
+      "reason": "unavailable",
+      "amazonTitle": "ThinkVision L194 Wideモニター"
+    },
+    {
+      "asin": "B093R3GTMN",
+      "id": "mon-lenovo-26p2-017",
+      "name": "L27e-30 27\\",
+      "file": "monitor-lenovo-search-26plus-page2.ts",
+      "reason": "unavailable",
+      "amazonTitle": "Lenovo L27e-30 27インチ FHD LEDバックライト付きLCD FreeSyncモニター、超薄型、3サイドニアエッジレスフレーム、HDMIおよびVGA、チルト、VESAマウント、広角ビューイング。"
+    },
+    {
+      "asin": "B0DLT7CJV1",
+      "id": "mon-lenovo-26p2-039",
+      "name": "L32p-30 32インチ クラス 4K UHD LED - 16:9 - レイヴンブラック",
+      "file": "monitor-lenovo-search-26plus-page2.ts",
+      "reason": "unavailable",
+      "amazonTitle": "Lenovo L32p-30 32インチ クラス 4K UHD LED モニター - 16:9 - レイヴンブラック"
+    },
+    {
+      "asin": "B0DCYQ1WMW",
+      "id": "mon-lenovo-26-009",
+      "name": "L27i-4A (27.0 Inch IPS WLED LCD FHD 100Hz 1ms Ma",
+      "file": "monitor-lenovo-search-26plus.ts",
+      "reason": "unavailable",
+      "amazonTitle": "Lenovo L27i-4A モニター (27.0インチ IPS WLED液晶 FHD 100Hz 1ms 非光沢 チルト対応 VESA) グレー 67BEKAC1JP"
+    },
+    {
+      "asin": "B00M40R476",
+      "id": "mon-lenovo-26-015",
+      "name": "Display LI2821 Wide 18201659 28\\",
+      "file": "monitor-lenovo-search-26plus.ts",
+      "reason": "unavailable",
+      "amazonTitle": "Lenovo ディスプレイ モニター LI2821 Wide 18201659 28インチ / 4K 対応 / 3840x2160"
+    },
+    {
+      "asin": "B0CD2C55M5",
+      "id": "mon-lenovo-26-017",
+      "name": "G34w-30 (34\\",
+      "file": "monitor-lenovo-search-26plus.ts",
+      "reason": "unavailable",
+      "amazonTitle": "Lenovo ゲーミング モニター G34w-30 (34インチ VA WLED液晶 UWQHD 湾曲ディスプレイ 1500R 0.5ms MPRT 165Hz 非光沢 高さ調整 チルト対応 VESA DisplayPort ケーブル付) "
+    },
+    {
+      "asin": "B0CP376Q5C",
+      "id": "mon-lenovo-26-030",
+      "name": "27-inch Legion Y27qf-30 (67A7GAC3JP), 27-inch Wi",
+      "file": "monitor-lenovo-search-26plus.ts",
+      "reason": "unavailable",
+      "amazonTitle": "【公式・直販】 モニター 27インチ ディスプレイ パソコン PCモニター Lenovo Legion Y27qf-30 QHD IPS WLEDゲーミング液晶 ノングレア HDMI スピーカー搭載 3年保証"
+    },
+    {
+      "asin": "B0038I4PTS",
+      "id": "mon-lenovo-p2-024",
+      "name": "4015HB1 ThinkVision L2461x Wide",
+      "file": "monitor-lenovo-search-page2.ts",
+      "reason": "unavailable",
+      "amazonTitle": "4015HB1 ThinkVision L2461x Wide モニター"
+    },
+    {
+      "asin": "B001G79UXY",
+      "id": "mon-lenovo-p2-025",
+      "name": "4421HB2 ThinkVision L2440x Wide",
+      "file": "monitor-lenovo-search-page2.ts",
+      "reason": "unavailable",
+      "amazonTitle": "4421HB2 ThinkVision L2440x Wideモニター"
+    },
+    {
+      "asin": "B0HBVT2TDK",
+      "id": "mon-lenovo-002",
+      "name": "ThinkCentre Tiny-in-One 24 Gen 4",
+      "file": "monitor-lenovo-search.ts",
+      "reason": "refurbished-title",
+      "amazonTitle": "【整備済み品】Lenovo ThinkCentre Tiny-in-One 24 Gen 4 23.8インチ 液晶モニター フルHD（1920×1080）IPS 非光沢 Webカメラ内蔵 マイク内蔵 スピーカー内蔵 DisplayPort "
+    },
+    {
+      "asin": "B08QHYD2BP",
+      "id": "mon-lenovo-004",
+      "name": "T23d-10",
+      "file": "monitor-lenovo-search.ts",
+      "reason": "unavailable",
+      "amazonTitle": "レノボ 22.5型 ワイド WUXGA (1920×1200) IPS パネル ノングレア LEDバックライト ディスプレイ ThinkVision T23d-10 61C3MAR6JP"
+    },
+    {
+      "asin": "B0D32DXWWK",
+      "id": "mon-lenovo-006",
+      "name": "S24e-20",
+      "file": "monitor-lenovo-search.ts",
+      "reason": "refurbished-title",
+      "amazonTitle": "【整備済み品】 レノボジャパン ThinkVision S24e-20 62AEKAR2J9"
+    },
+    {
+      "asin": "B07PS5YJ2H",
+      "id": "mon-lenovo-014",
+      "name": "Legion Y25f 24.5インチ ゲーミング 65D9GAC4JP",
+      "file": "monitor-lenovo-search.ts",
+      "reason": "unavailable",
+      "amazonTitle": "レノボ･ジャパン (Lenovo JAPAN) 65D9GAC4JP Legion Y25f 24.5型ワイド ゲーミング液晶モニター [1920×1080/TNパネル/DisplayPort・HDMI] 非光沢"
+    },
+    {
+      "asin": "B0F8F1GXCV",
+      "id": "mon-lenovo-035",
+      "name": "L24-4e",
+      "file": "monitor-lenovo-search.ts",
+      "reason": "unavailable",
+      "amazonTitle": "Lenovo L24-4e - 23.8インチ FHD (IPS、100Hz、4ms、HDMI VGA、HDMIケーブル) - ブラック。"
+    },
+    {
+      "asin": "B01IALGW2U",
+      "id": "mon-lg-001",
+      "name": "27UD58-B",
+      "file": "monitor-lg-display-bestsellers.ts",
+      "reason": "unavailable",
+      "amazonTitle": "【Amazon.co.jp限定】LG モニター ディスプレイ 27UD58-B 27インチ/4K/IPS 非光沢/HDMI×2、DisplayPort/FreeSync対応/ブルーライト低減機能"
+    },
+    {
+      "asin": "B01L8H204W",
+      "id": "mon-lg-002",
+      "name": "24UD58-B",
+      "file": "monitor-lg-display-bestsellers.ts",
+      "reason": "unavailable",
+      "amazonTitle": "LG モニター ディスプレイ 24UD58-B 23.8インチ/4K(3840×2160)/IPS 非光沢/HDMI×2、DisplayPort/ブルーライト低減機能/3年安心・無輝点保証"
+    },
+    {
+      "asin": "B078XXYDWZ",
+      "id": "mon-lg-003",
+      "name": "27UK850-W",
+      "file": "monitor-lg-display-bestsellers.ts",
+      "reason": "unavailable",
+      "amazonTitle": "LG モニター ディスプレイ 27UK850-W 27インチ/4K/HDR対応/IPS非光沢/USB-Type-C、HDMI×2、DisplayPort/スピーカー搭載/FreeSync、高さ調節、ピボット対応"
+    },
+    {
+      "asin": "B01LY1A3ER",
+      "id": "mon-lg-004",
+      "name": "34UC79G-B",
+      "file": "monitor-lg-display-bestsellers.ts",
+      "reason": "unavailable",
+      "amazonTitle": "LG ゲーミング モニター ディスプレイ 34UC79G-B 34インチ/21:9 曲面 ウルトラワイド/IPS 非光沢/144Hz/DisplayPort×1,HDMI×2"
+    },
+    {
+      "asin": "B075ZWRH6Z",
+      "id": "mon-lg-005",
+      "name": "43UD79T-B",
+      "file": "monitor-lg-display-bestsellers.ts",
+      "reason": "unavailable",
+      "amazonTitle": "LG スマートモニター 27SR73U-W/LG MyView Smart Monitor / 27インチ 4K / webOS 23 / IPS / 約10.7億色表示(8bit+FRC) / DCI-P3 90% / アンチグレア / "
+    },
+    {
+      "asin": "B071D1HN9Y",
+      "id": "mon-lg-006",
+      "name": "24MP59G-P",
+      "file": "monitor-lg-display-bestsellers.ts",
+      "reason": "unavailable",
+      "amazonTitle": "LG ゲーミング モニター ディスプレイ 24MP59G-P 23.8インチ/フルHD/IPS非光沢/1ms(MBR)/DisplayPort・HDMI・D-Sub"
+    },
+    {
+      "asin": "B073S5HDGY",
+      "id": "mon-lg-007",
+      "name": "32UD99-W",
+      "file": "monitor-lg-display-bestsellers.ts",
+      "reason": "unavailable",
+      "amazonTitle": "LG モニター ディスプレイ 32UD99-W 31.5インチ/4K(3840×2160)/HDR対応/IPS非光沢/USB Type-C、HDMI×2、DisplayPort/スピーカー搭載/高さ調節、ピボット対応"
+    },
+    {
+      "asin": "B078XYFG2V",
+      "id": "mon-lg-008",
+      "name": "27UK600-W",
+      "file": "monitor-lg-display-bestsellers.ts",
+      "reason": "unavailable",
+      "amazonTitle": "【Amazon.co.jp限定】LG モニター ディスプレイ 27UK600-W 27インチ/4K/HDR10対応(標準輝度:350cd/㎡)/IPS非光沢/HDMI×2、DisplayPort"
+    },
+    {
+      "asin": "B071DB2KQZ",
+      "id": "mon-lg-009",
+      "name": "29UM69G-B",
+      "file": "monitor-lg-display-bestsellers.ts",
+      "reason": "unavailable",
+      "amazonTitle": "LG ゲーミング モニター 29UM69G-B 29インチ/21:9 ウルトラワイド/IPS非光沢/1ms(MBR)/スピーカー/USB Type-C・DisplayPort・HDMI"
+    },
+    {
+      "asin": "B0791XQDZS",
+      "id": "mon-lg-010",
+      "name": "27UK650-W",
+      "file": "monitor-lg-display-bestsellers.ts",
+      "reason": "unavailable",
+      "amazonTitle": "LG モニター ディスプレイ 27UK650-W 27インチ/4K/HDR10対応(標準輝度:350cd/㎡)/IPS非光沢/HDMI×2、DisplayPort/高さ調節、ピボット対応"
+    },
+    {
+      "asin": "B0787HV5XP",
+      "id": "mon-lg-013",
+      "name": "32GK850G-B",
+      "file": "monitor-lg-display-bestsellers.ts",
+      "reason": "unavailable",
+      "amazonTitle": "LG ゲーミングモニター ディスプレイ 32GK850G-B 31.5インチ/WQHD/VA非光沢/144Hz/G-Sync対応/DisplayPort・HDMI/高さ調節、ピボット対応"
+    },
+    {
+      "asin": "B0721XWT78",
+      "id": "mon-lg-015",
+      "name": "34UC89G-B",
+      "file": "monitor-lg-display-bestsellers.ts",
+      "reason": "unavailable",
+      "amazonTitle": "LG ゲーミング ディスプレイ モニター 34UC89G-B 34インチ/21:9 曲面Ultra Wide/IPS 非光沢/144Hz/G-Sync対応/DisplayPort,HDMI,USB"
+    },
+    {
+      "asin": "B0BW8W1VN3",
+      "id": "mon-gift-024",
+      "name": "B247Ybmiprzxv",
+      "file": "monitor-most-gifted.ts",
+      "reason": "unavailable",
+      "amazonTitle": "Acer スタンダードモニターVero 23.8インチB247Ybmiprzxv フルHD IPS 4ms(GTG) 75Hz ピボット機能 高さ調整 スピーカー ヘッドホン端子 エコデザイン再生プラ35%使用"
+    },
+    {
+      "asin": "B0DSW3DT36",
+      "id": "mon-gift-025",
+      "name": "27型 4K ゲーミングモニター",
+      "file": "monitor-most-gifted.ts",
+      "reason": "unavailable",
+      "amazonTitle": "AESNO 27インチ ゲーミング モニター IPS 4K 144Hz パソコン モニター 1ms(GTG) 120%sRGB 350cd/m² UHD(3840x2160) 非光沢/HDR/Freesync/傾斜調整/広い視野角/VESA"
+    },
+    {
+      "asin": "B09PQHH6ST",
+      "id": "mon-philips-014",
+      "name": "223V7QJAB/11",
+      "file": "monitor-philips-search.ts",
+      "reason": "refurbished-title",
+      "amazonTitle": "【整備済み品】 PHILIPS 223V7QJAB/11 21.5型ワイド液晶ディスプレイ ブラック （フルHD/DP/HDMI/D-Sub/スピーカー搭載） PS/Switch(整備済み品)"
+    },
+    {
+      "asin": "B0GZSG3ZB8",
+      "id": "mon-philips-015",
+      "name": "243V7",
+      "file": "monitor-philips-search.ts",
+      "reason": "refurbished-title",
+      "amazonTitle": "【整備済み品】 PHILIPS 243V7 23.8インチ 液晶モニター フルHD（1920×1080）IPS 非光沢 DisplayPort/HDMI/VGA スピーカー内蔵 狭額縁 VESA対応 LowBlueモード Flicker-F"
+    },
+    {
+      "asin": "B0GZSQ3NC8",
+      "id": "mon-philips-016",
+      "name": "273V7QDAB/11",
+      "file": "monitor-philips-search.ts",
+      "reason": "refurbished-title",
+      "amazonTitle": "【整備済み品】PHILIPS 273V7QDAB/11 27インチ 液晶モニター フルHD（1920×1080）IPS 非光沢 HDMI/DVI-D/VGA スピーカー内蔵 狭額縁 VESA対応 LowBlueモード Flicker-Fre"
+    },
+    {
+      "asin": "B09FX72TT3",
+      "id": "mon-philips-022",
+      "name": "243V5QHABA/11",
+      "file": "monitor-philips-search.ts",
+      "reason": "refurbished-title",
+      "amazonTitle": "【整備済み品】 Philips(フィリップス) 23.6型ワイド液晶ディスプレイ ブラック 243V5QHABA/11 FHD HDMI PS/Switch 対応(1920*1080)(整備済み品)"
+    },
+    {
+      "asin": "B0BYRZQ7WN",
+      "id": "mon-philips-023",
+      "name": "273V7QDAB/11",
+      "file": "monitor-philips-search.ts",
+      "reason": "refurbished-title",
+      "amazonTitle": "【整備済み品】 Philips(フィリップス) 27型ワイド液晶ディスプレイ ブラック 273V7QDAB/11 スピーカー付 IPSパネル 1920×1080/DVI HDMI D-Sub (整備済み品)"
+    },
+    {
+      "asin": "B0CM5P2Y9J",
+      "id": "mon-pg-016",
+      "name": "32M2V",
+      "file": "monitor-premium-gaming.ts",
+      "reason": "unavailable",
+      "amazonTitle": "INNOCN 32M2V ミニLED 4K ゲーミング モニター 32インチ QD量子ドット技術 HDR1000@144Hz 1MS Display Port/USB-C 90W/HDMI対応 スピーカー付き UHD 動画編集 VESA ブ"
+    },
+    {
+      "asin": "B0FND9VR2H",
+      "id": "mon-pg-024",
+      "name": "24G11ZE/11",
+      "file": "monitor-premium-gaming.ts",
+      "reason": "unavailable",
+      "amazonTitle": "AOC ゲーミングモニター 24G11ZE/11, 23.8インチ, フルHD/1920x1080@240Hz, 応答速度0.3ms(MPRT), Fast IPS, HDMI2.0 x 1/ DP1.4x1,ブルーライト低減, フリッカー"
+    },
+    {
+      "asin": "B094VJT99S",
+      "id": "mon-hfr144-p2-037",
+      "name": "GigaCrysta 23.8インチ",
+      "file": "monitor-refresh144-search-page2.ts",
+      "reason": "unavailable",
+      "amazonTitle": "アイ・オー・データ IODATA ゲーミングモニター 23.8インチ FHD 1080p GigaCrysta 165Hz 1ms ADSパネル (AMD FreeSync/HDMI×3/DisplayPort/スピーカー付/高さ調整/縦横"
+    },
+    {
+      "asin": "B0GPXBK782",
+      "id": "mon-hfr144-p2-041",
+      "name": "21.5インチ 液晶 JN-215V120F-HSPC6 | VAパネル,フルHD(1920×1",
+      "file": "monitor-refresh144-search-page2.ts",
+      "reason": "unavailable",
+      "amazonTitle": "JAPANNEXT 21.5インチ 液晶モニター JN-215V120F-HSPC6 | VAパネル,フルHD(1920×1080)解像度,HDMI,DP,USB-C(最大65W給電),sRGB:99%,HDR,高さ調整,ピボット(縦回転)"
+    },
+    {
+      "asin": "B0B1D216VX",
+      "id": "mon-hfr144-p2-054",
+      "name": "JN-T215FLG144FHD 21.5 inch 144Hz 1ms Full HD TN ",
+      "file": "monitor-refresh144-search-page2.ts",
+      "reason": "unavailable",
+      "amazonTitle": "JAPANNEXT 21.5インチ ゲーミングモニター 144Hz 1ms フルHD 1920x1080解像度 TN パネル ディスプレイ (HDMI/DisplayPort/VESA対応/ブルーライトカット / 視野角170°) JN-T"
+    },
+    {
+      "asin": "B0H117XWS8",
+      "id": "mon-s22120-032",
+      "name": "Smart AI 24U411SB-B 24 inch / Full HD (1920 x 10",
+      "file": "monitor-search-22-120.ts",
+      "reason": "unavailable",
+      "amazonTitle": "LG スマートモニター LG Smart Monitor AI 24U411SB-B 24インチ/フルHD(1920×1080)/120Hz/IPS/sRGB 99%/HDR/アンチグレア/webOS/Wi-Fi 5/Bluetooth5."
+    },
+    {
+      "asin": "B084B948TK",
+      "id": "mon-s22120-047",
+      "name": "WQHD LCD OmegaLine B247YUbmiipprx 23.8 IPS Matte",
+      "file": "monitor-search-22-120.ts",
+      "reason": "unavailable",
+      "amazonTitle": "Acer WQHD液晶ディスプレイ OmegaLine B247YUbmiipprx 23.8型 IPS 非光沢 2560×1440 WQHD 300cd 4ms HDMI ハイト・スイベル・ピボット機能"
+    }
+  ],
+  "errors": [],
+  "removedBlocks": 1
+}

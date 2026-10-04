@@ -1,0 +1,972 @@
+{
+  "fetchedAt": "2026-08-14T13:30:42.614Z",
+  "sourceUrl": "https://www.amazon.co.jp/s?k=%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4&rh=p_123%3A391242%2Cp_n_g-101013577303111%3A18161460051",
+  "searchPage": 1,
+  "scrapeMethod": "browser",
+  "monitors": [
+    {
+      "amazonRank": 1,
+      "asin": "B0H1PWX6SN",
+      "price": 19800,
+      "title": "Lenovo LOQ 27Q-10 Monitor (27-inch IPS WLED LCD, QHD (2560 x 1440), 180Hz, 0.5ms (MPRT), 1ms (GtG) Glossy, Tilt Compatible, VESA, Luna Gray 68F3GACBJP",
+      "image": "https://m.media-amazon.com/images/I/71zS6MEikGL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 2,
+      "asin": "B0G64CW3LL",
+      "price": 25800,
+      "title": "Lenovo Gaming Monitor Legion 27Q-15 27-Inch/QHD/Fast IPS/240Hz/1 ms (GtG)/HDMI 2.1 x 2, DP 1.4 x 1/HDR10/AMD FreeSync Premium/Vertical and Horizontal Rotation, Height Adjustment/5-Year Warranty in",
+      "image": "https://m.media-amazon.com/images/I/71FiXbzdoQL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 3,
+      "asin": "B0G42Z3577",
+      "price": 12980,
+      "title": "Lenovo L27-41 Monitor, 27-Inch, Full HD/IPS Panel/HDMI 1.4 x 1, VGA/Tilt Adjustment/VESA Compatible",
+      "image": "https://m.media-amazon.com/images/I/61IFEULXkjL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 4,
+      "asin": "B0G64DFTWR",
+      "price": 56800,
+      "title": "Lenovo OLED Gaming Monitor Legion Pro 27Q-15 26.5\" QD-OLED Panel/280hz/0.03ms (GtG) DisplayHDR True Black 400/DCI-P3 99%/AMD FreeSync Premium Pro / Vertical and Horizontal Rotation, Height Adjustment",
+      "image": "https://m.media-amazon.com/images/I/71YcGs7B6vL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 5,
+      "asin": "B0G41B5K4R",
+      "price": 15800,
+      "title": "Lenovo Legion R27s Gaming Monitor, 27-Inch, Full HD/IPS Panel/144Hz/1ms (MPRT)/HDMI 2.1x1, DP1.2x1/VESA Media Sync/Tilt Compatible/Japanese",
+      "image": "https://m.media-amazon.com/images/I/714K9-UYlcL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 6,
+      "asin": "B0CGLML3M6",
+      "price": 55931,
+      "title": "Lenovo Japan ThinkVision T32p-30 63D2GAR1JP",
+      "image": "https://m.media-amazon.com/images/I/61S5eRhhtfL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 7,
+      "asin": "B0CVMRMJVY",
+      "price": 22190,
+      "title": "Lenovo Y27f-30 Monitor (27.0\" IPS WLED LCD FHD 240Hz 0.5ms Matte Tilt VESA Black 67A6GAC3JP",
+      "image": "https://m.media-amazon.com/images/I/71mYrP2UsXL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 8,
+      "asin": "B0CVNCWGQ8",
+      "price": 44980,
+      "title": "Lenovo L32p-30 31.5-inch (66C9UAC1JP) (31.5-inch Wide UHD IPS WLED LCD Monitor) Display PC Monitor",
+      "image": "https://m.media-amazon.com/images/I/71qQ3dtho7L._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 9,
+      "asin": "B0DCYQ1WMW",
+      "price": 25800,
+      "title": "Lenovo L27i-4A Monitor (27.0 Inch IPS WLED LCD FHD 100Hz 1ms Matte Tilt Compatible VESA) Gray 67BEKAC1JP",
+      "image": "https://m.media-amazon.com/images/I/61DIMvdJ4FL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 10,
+      "asin": "B0DBVB6G53",
+      "price": 23998,
+      "title": "Lenovo 67B5GAC1JP R27i-30 Gaming Monitor (27.0-inch IPS WLED LCD, FHD, 165Hz, 0.5ms, Matte, Tilt Compatible, VESA) Black",
+      "image": "https://m.media-amazon.com/images/I/71Neue-e2kL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 11,
+      "asin": "B0G633NVHW",
+      "price": 42800,
+      "title": "Lenovo Gaming Monitor Legion 27U-15 27-Inch/Dual Resolution (Full HD/4K)/Fast IPS Panel/320Hz (Full HD), 160Hz (4K)/1ms (GtG)/HDMI 2.1 x 2, DP 1.4 x 1/HDR10/DCI-P3 95%/NVIDIA G-SYNC Compatible",
+      "image": "https://m.media-amazon.com/images/I/71879HIIt0L._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 12,
+      "asin": "B0DBV5MZ62",
+      "price": 35354,
+      "title": "Lenovo Gaming Monitor R27q-30 Monitor (27.0 Inch IPS WLED LCD QHD 165Hz 0.5ms Matte Finish Tilt Support VESA) Black 67B4GAC1JP",
+      "image": "https://m.media-amazon.com/images/I/71oBTGV3GtL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 13,
+      "asin": "B0GZ333LB5",
+      "price": 31790,
+      "title": "Lenovo ThinkVision E27q-40 64BDGAR4JP Monitor Display (27 QHD Matte IPS HDMI DisplayPort Tilt Swivel Pivot Height Adjustable Vesa Built-in Speaker 3 Black",
+      "image": "https://m.media-amazon.com/images/I/51jCojHxlqL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 14,
+      "asin": "B0FTVB3V15",
+      "price": 30391,
+      "title": "Lenovo L27-4e Monitor - 27\" Flat IPS FullHD Display - 100Hz Refresh Rate - 4ms Response Time - HDMI 1.4 - VGA - Tilt Stand - Raven Black",
+      "image": "https://m.media-amazon.com/images/I/71F00DzOAlL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 15,
+      "asin": "B00M40R476",
+      "price": null,
+      "title": "Lenovo Display Monitor LI2821 Wide 18201659 28\" / 4K Compatible / 3840x2160",
+      "image": "https://m.media-amazon.com/images/I/81K6-JVFazL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 16,
+      "asin": "B0CGLJB8BG",
+      "price": 28427,
+      "title": "Lenovo Japan ThinkVision E27q-20 62D0GAR1JP",
+      "image": "https://m.media-amazon.com/images/I/51l3jXwOhvL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 17,
+      "asin": "B0CD2C55M5",
+      "price": null,
+      "title": "Lenovo Gaming Monitor G34w-30 (34\" VA WLED LCD UWQHD Curved Display 1500R 0.5ms MPRT 165Hz Matte Height Adjustable Tilt VESA DisplayPort Cable Black 66F1GAC1JP",
+      "image": "https://m.media-amazon.com/images/I/61uYEz95zdL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 18,
+      "asin": "B0DQVJF9GM",
+      "price": 52252,
+      "title": "Lenovo Legion Y27qf-30 Gaming Monitor 27\" QHD Display 250Hz 0.5ms Response, AMD FreeSync Premium, 400 Nits, Lift/Tilt/Pivot/Swivel Stand, HDMI 2.1 and DisplayPort 1.4, 400nits, Raven Black",
+      "image": "https://m.media-amazon.com/images/I/719iutunHhL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 19,
+      "asin": "B0DJTXKX7P",
+      "price": 47985,
+      "title": "Lenovo L27q-4A Monitor, 27\" IPS QHD Resolution, Flat, 4 Side Borderless, 2X HDMI 2.0, DP 1.4, Audio Output, 100Hz, HDR10, 1ms MPRT, 99% sRGB, 350nits, Speaker, 100mm",
+      "image": "https://m.media-amazon.com/images/I/61YXDZPmMDL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 20,
+      "asin": "B0GZQND3TT",
+      "price": 44968,
+      "title": "Lenovo Legion LOQ 32Q-10 Gaming Monitor 80cm QHD Flat VA 180Hz 0.5ms MPRT AMD FreeSync HDR10 Tilt Stand HDMI 2.1 DP 1.4 2x Raven Black",
+      "image": "https://m.media-amazon.com/images/I/71AXD-utWaL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 21,
+      "asin": "B0BD65ZXG3",
+      "price": null,
+      "title": "Lenovo ThinkVision P27q-30 27\" Class WQHD LED Monitor - 16:9 - Raven Black",
+      "image": "https://m.media-amazon.com/images/I/51GjLUYuIfL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 22,
+      "asin": "B0CGLG9CPD",
+      "price": 102550,
+      "title": "Lenovo Japan ThinkVision P27u-20 62CBRAR6JP",
+      "image": "https://m.media-amazon.com/images/I/41wZImBbkWL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 23,
+      "asin": "B0BN1YNVQR",
+      "price": 52968,
+      "title": "Lenovo Legion Y27h-30 Monitor - Gaming Monitor - 27\" QHD Display - Overclock 180z Refresh Rate Artery Software - AMD FreeSync Premium - 0.5ms MPRT - Raven Black Near Edgeless Design",
+      "image": "https://m.media-amazon.com/images/I/71Y+bF+HhWL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 24,
+      "asin": "B0DP1G8R18",
+      "price": 91192,
+      "title": "Lenovo L27h-4A Monitor, 27\" QHD IPS Panel Display, 100Hz, HDR10, USB-C- Waves MaxxAudio, 1ms MPRT, Cloud Gray Near Edgeless Design",
+      "image": "https://m.media-amazon.com/images/I/71npQBWJ5cL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 25,
+      "asin": "B0GJ6SV9M6",
+      "price": 85623,
+      "title": "Lenovo ThinkVision T34WD-40 34\" Class UW-QHD Curved Screen LED Monitor - 21:9 - Eclipse Black",
+      "image": "https://m.media-amazon.com/images/I/71WE2XODUXL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 26,
+      "asin": "B0GJFNK7QC",
+      "price": 48925,
+      "title": "Lenovo ThinkVision T27-40 27\" Class Full HD LED Monitor - 16:9 - Eclipse Black",
+      "image": "https://m.media-amazon.com/images/I/61k-PVqS25L._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 27,
+      "asin": "B0FB9B5F3Y",
+      "price": 88133,
+      "title": "P27Q 27 QHD 2560x1440 IPS Display, Anti-Glare, 16:9 Extreme Mode 4ms Response Time Up to 120Hz Refresh Rate 99 sRGB, 99 BT.709, 98 DCIP3, 10bit 5~+23.5 Tilt, 45 Rotation, 90~ 90P ivot",
+      "image": "https://m.media-amazon.com/images/I/51-ZD93K0iL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 28,
+      "asin": "B0FTVC78FT",
+      "price": 57285,
+      "title": "Lenovo Legion 27QD-10 Gaming Monitor - 27\" QHD IPS Display - 240Hz Refresh Rate - 0.5ms MPRT - 99% sRGB - AMD FreeSync Premium - Ergonomic Stand",
+      "image": "https://m.media-amazon.com/images/I/81IgFr9zKjL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 29,
+      "asin": "B0CGTK2RVK",
+      "price": 73099,
+      "title": "Lenovo Legion R27q-30 Gaming Monitor 27\" QHD Display 180Hz 0.5ms Response, AMD FreeSync Premium, Lift/Tilt/Pivot/Swivel Stand, HDMI 2.1 and DisplayPort 1.4, 350nits, Raven Black",
+      "image": "https://m.media-amazon.com/images/I/71RKTHvdd5L._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 30,
+      "asin": "B0CP376Q5C",
+      "price": null,
+      "title": "27-inch Legion Y27qf-30 (67A7GAC3JP), 27-inch Wide QHD IPS WLED LCD Gaming Monitor, Display, PC Monitor, Computer Monitor",
+      "image": "https://m.media-amazon.com/images/I/61w0VaK0J9L._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 31,
+      "asin": "B0CH11GLR1",
+      "price": 69095,
+      "title": "Lenovo ThinkVision S27i-30 27 Full HD LED Monitor - 16:9 - Storm Grey",
+      "image": "https://m.media-amazon.com/images/I/61S59oFRPqL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 32,
+      "asin": "B0DCZBBD6M",
+      "price": null,
+      "title": "Lenovo L27q-4A Monitor (27.0\" IPS WLED LCD, QHD 100Hz, 1ms Matte, Tilt Support, VESA) Gray 67BFGAC6JP",
+      "image": "https://m.media-amazon.com/images/I/61EOOSqqJ6L._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 33,
+      "asin": "B0FN86D4QX",
+      "price": 65206,
+      "title": "Lenovo ThinkVision T27-40 27\" Class Full HD LED Monitor - 16:9 - Eclipse Black",
+      "image": "https://m.media-amazon.com/images/I/71EYNaA-szL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 34,
+      "asin": "B07988L39H",
+      "price": 70167,
+      "title": "Lenovo THINKVISION T22V 21.5\" 19X10 6MS CAM",
+      "image": "https://m.media-amazon.com/images/I/51p-AsjlWYL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 35,
+      "asin": "B0GR1RGFFZ",
+      "price": 76673,
+      "title": "Lenovo ThinkVision P27q-30 27インチ WQHD LED モニター - スタンドなし - 3年保証 (63A2GAR1U2)",
+      "image": "https://m.media-amazon.com/images/I/513TTEfRSFL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 36,
+      "asin": "B0G2BCLT3H",
+      "price": 63777,
+      "title": "Lenovo 27インチ ThinkVision S27i-30、1920x1080解像度、1300:1コントラスト比、アセットタグ付き。",
+      "image": "https://m.media-amazon.com/images/I/81h7gPzFnJL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 37,
+      "asin": "B08Z5JNL1C",
+      "price": 78255,
+      "title": "Lenovo G27-20 27\" Gaming Monitor FHD (1920 x 1080) IPS 144Hz 1ms FreeSync Premium & NVIDIA G-SYNC Near Edgeless VESA Mount Height and Tilt Adjustment HDMI DP 66C2GCC1US Black",
+      "image": "https://m.media-amazon.com/images/I/61sCKLtlnqL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 38,
+      "asin": "B0CYHTK9JD",
+      "price": 61109,
+      "title": "Lenovo ThinkVision T27i-30 27\" Class Full HD LED Monitor - 16:9 - Black",
+      "image": "https://m.media-amazon.com/images/I/51y66gZP+EL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 39,
+      "asin": "B0CK5MBVBY",
+      "price": 130397,
+      "title": "Lenovo Legion Y32p-30 Monitor - Gaming Monitor - 31.5\" UHD IPS Display - 144Hz - DisplayHDR 400 - AMD FreeSync Premium - 0.2ms MPRT - Raven Black - Near Edgeless Design",
+      "image": "https://m.media-amazon.com/images/I/71tXjjyZGcL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 40,
+      "asin": "B09C885VBG",
+      "price": 79354,
+      "title": "Lenovo ThinkVision S27q-10 27\" QHD LED Backlight",
+      "image": "https://m.media-amazon.com/images/I/51m1NLKFq9L._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 41,
+      "asin": "B0CVN36JXY",
+      "price": null,
+      "title": "Lenovo Legion Y27h-30 QHD IPS WLED Gaming LCD, Non-Glare, HDMI Speaker, 27-inch Display, PC, PC Monitor, Official and Direct Sales",
+      "image": "https://m.media-amazon.com/images/I/61U8rh+l-dL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 42,
+      "asin": "B085S89955",
+      "price": 106394,
+      "title": "T32P-20",
+      "image": "https://m.media-amazon.com/images/I/61ojKRBdWzL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 43,
+      "asin": "B08BDWNC8Q",
+      "price": 90412,
+      "title": "Lenovo Q27h-10 27\" Monitor, QHD (2560 x 1440), IPS, LED Backlight, 16:9, AMD FreeSync, USB-C, 4 Side Borderless, 75Hz, 4ms Response Time, 99% sRGB, Tilt, HDMI, DP 1.2, Low Blue Light, 66A7GCC2US",
+      "image": "https://m.media-amazon.com/images/I/61uy89WgofL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 45,
+      "asin": "B09RVF4CGQ",
+      "price": 85627,
+      "title": "Lenovo 27IN QHD THINKVISION P27H-28",
+      "image": "https://m.media-amazon.com/images/I/51c6Ek6XfrL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 46,
+      "asin": "B0CLSSG57W",
+      "price": null,
+      "title": "Lenovo 27\" Legion R27fc-30 LED Display, Full HD, Black, 1920 x 1080",
+      "image": "https://m.media-amazon.com/images/I/71zi+MU8PaL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 47,
+      "asin": "B09S6KWHFQ",
+      "price": 124519,
+      "title": "Lenovo ThinkVision P27u-20 - LED Monitor - 27\" (27\" Visible) - 3840 x 2160 4K @ 60 Hz - IPS - 450 cd/m² - 1000:1-4 ms - Thunderbolt 4, 2xHDMI, DisplayPort - Speakers - Raven Black",
+      "image": "https://m.media-amazon.com/images/I/61mnlPAALuL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 48,
+      "asin": "B0BGQDTM53",
+      "price": 82809,
+      "title": "Lenovo 27\" QHD 2560X1440 3SIDE Near Edgeless Display",
+      "image": "https://m.media-amazon.com/images/I/516bDfLrUGL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    }
+  ],
+  "excluded": [
+    {
+      "amazonRank": 44,
+      "asin": "B08BP9R5V5",
+      "price": 69100,
+      "title": "JUOIANTANG NCH FHD LED Backlit L",
+      "image": "https://m.media-amazon.com/images/I/81bUlWOIU2L._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    }
+  ],
+  "raw": [
+    {
+      "amazonRank": 1,
+      "asin": "B0H1PWX6SN",
+      "price": 19800,
+      "title": "Lenovo LOQ 27Q-10 Monitor (27-inch IPS WLED LCD, QHD (2560 x 1440), 180Hz, 0.5ms (MPRT), 1ms (GtG) Glossy, Tilt Compatible, VESA, Luna Gray 68F3GACBJP",
+      "image": "https://m.media-amazon.com/images/I/71zS6MEikGL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 2,
+      "asin": "B0G64CW3LL",
+      "price": 25800,
+      "title": "Lenovo Gaming Monitor Legion 27Q-15 27-Inch/QHD/Fast IPS/240Hz/1 ms (GtG)/HDMI 2.1 x 2, DP 1.4 x 1/HDR10/AMD FreeSync Premium/Vertical and Horizontal Rotation, Height Adjustment/5-Year Warranty in",
+      "image": "https://m.media-amazon.com/images/I/71FiXbzdoQL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 3,
+      "asin": "B0G42Z3577",
+      "price": 12980,
+      "title": "Lenovo L27-41 Monitor, 27-Inch, Full HD/IPS Panel/HDMI 1.4 x 1, VGA/Tilt Adjustment/VESA Compatible",
+      "image": "https://m.media-amazon.com/images/I/61IFEULXkjL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 4,
+      "asin": "B0G64DFTWR",
+      "price": 56800,
+      "title": "Lenovo OLED Gaming Monitor Legion Pro 27Q-15 26.5\" QD-OLED Panel/280hz/0.03ms (GtG) DisplayHDR True Black 400/DCI-P3 99%/AMD FreeSync Premium Pro / Vertical and Horizontal Rotation, Height Adjustment",
+      "image": "https://m.media-amazon.com/images/I/71YcGs7B6vL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 5,
+      "asin": "B0G41B5K4R",
+      "price": 15800,
+      "title": "Lenovo Legion R27s Gaming Monitor, 27-Inch, Full HD/IPS Panel/144Hz/1ms (MPRT)/HDMI 2.1x1, DP1.2x1/VESA Media Sync/Tilt Compatible/Japanese",
+      "image": "https://m.media-amazon.com/images/I/714K9-UYlcL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 6,
+      "asin": "B0CGLML3M6",
+      "price": 55931,
+      "title": "Lenovo Japan ThinkVision T32p-30 63D2GAR1JP",
+      "image": "https://m.media-amazon.com/images/I/61S5eRhhtfL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 7,
+      "asin": "B0CVMRMJVY",
+      "price": 22190,
+      "title": "Lenovo Y27f-30 Monitor (27.0\" IPS WLED LCD FHD 240Hz 0.5ms Matte Tilt VESA Black 67A6GAC3JP",
+      "image": "https://m.media-amazon.com/images/I/71mYrP2UsXL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 8,
+      "asin": "B0CVNCWGQ8",
+      "price": 44980,
+      "title": "Lenovo L32p-30 31.5-inch (66C9UAC1JP) (31.5-inch Wide UHD IPS WLED LCD Monitor) Display PC Monitor",
+      "image": "https://m.media-amazon.com/images/I/71qQ3dtho7L._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 9,
+      "asin": "B0DCYQ1WMW",
+      "price": 25800,
+      "title": "Lenovo L27i-4A Monitor (27.0 Inch IPS WLED LCD FHD 100Hz 1ms Matte Tilt Compatible VESA) Gray 67BEKAC1JP",
+      "image": "https://m.media-amazon.com/images/I/61DIMvdJ4FL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 10,
+      "asin": "B0DBVB6G53",
+      "price": 23998,
+      "title": "Lenovo 67B5GAC1JP R27i-30 Gaming Monitor (27.0-inch IPS WLED LCD, FHD, 165Hz, 0.5ms, Matte, Tilt Compatible, VESA) Black",
+      "image": "https://m.media-amazon.com/images/I/71Neue-e2kL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 11,
+      "asin": "B0G633NVHW",
+      "price": 42800,
+      "title": "Lenovo Gaming Monitor Legion 27U-15 27-Inch/Dual Resolution (Full HD/4K)/Fast IPS Panel/320Hz (Full HD), 160Hz (4K)/1ms (GtG)/HDMI 2.1 x 2, DP 1.4 x 1/HDR10/DCI-P3 95%/NVIDIA G-SYNC Compatible",
+      "image": "https://m.media-amazon.com/images/I/71879HIIt0L._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 12,
+      "asin": "B0DBV5MZ62",
+      "price": 35354,
+      "title": "Lenovo Gaming Monitor R27q-30 Monitor (27.0 Inch IPS WLED LCD QHD 165Hz 0.5ms Matte Finish Tilt Support VESA) Black 67B4GAC1JP",
+      "image": "https://m.media-amazon.com/images/I/71oBTGV3GtL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 13,
+      "asin": "B0GZ333LB5",
+      "price": 31790,
+      "title": "Lenovo ThinkVision E27q-40 64BDGAR4JP Monitor Display (27 QHD Matte IPS HDMI DisplayPort Tilt Swivel Pivot Height Adjustable Vesa Built-in Speaker 3 Black",
+      "image": "https://m.media-amazon.com/images/I/51jCojHxlqL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 14,
+      "asin": "B0FTVB3V15",
+      "price": 30391,
+      "title": "Lenovo L27-4e Monitor - 27\" Flat IPS FullHD Display - 100Hz Refresh Rate - 4ms Response Time - HDMI 1.4 - VGA - Tilt Stand - Raven Black",
+      "image": "https://m.media-amazon.com/images/I/71F00DzOAlL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 15,
+      "asin": "B00M40R476",
+      "price": null,
+      "title": "Lenovo Display Monitor LI2821 Wide 18201659 28\" / 4K Compatible / 3840x2160",
+      "image": "https://m.media-amazon.com/images/I/81K6-JVFazL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 16,
+      "asin": "B0CGLJB8BG",
+      "price": 28427,
+      "title": "Lenovo Japan ThinkVision E27q-20 62D0GAR1JP",
+      "image": "https://m.media-amazon.com/images/I/51l3jXwOhvL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 17,
+      "asin": "B0CD2C55M5",
+      "price": null,
+      "title": "Lenovo Gaming Monitor G34w-30 (34\" VA WLED LCD UWQHD Curved Display 1500R 0.5ms MPRT 165Hz Matte Height Adjustable Tilt VESA DisplayPort Cable Black 66F1GAC1JP",
+      "image": "https://m.media-amazon.com/images/I/61uYEz95zdL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 18,
+      "asin": "B0DQVJF9GM",
+      "price": 52252,
+      "title": "Lenovo Legion Y27qf-30 Gaming Monitor 27\" QHD Display 250Hz 0.5ms Response, AMD FreeSync Premium, 400 Nits, Lift/Tilt/Pivot/Swivel Stand, HDMI 2.1 and DisplayPort 1.4, 400nits, Raven Black",
+      "image": "https://m.media-amazon.com/images/I/719iutunHhL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 19,
+      "asin": "B0DJTXKX7P",
+      "price": 47985,
+      "title": "Lenovo L27q-4A Monitor, 27\" IPS QHD Resolution, Flat, 4 Side Borderless, 2X HDMI 2.0, DP 1.4, Audio Output, 100Hz, HDR10, 1ms MPRT, 99% sRGB, 350nits, Speaker, 100mm",
+      "image": "https://m.media-amazon.com/images/I/61YXDZPmMDL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 20,
+      "asin": "B0GZQND3TT",
+      "price": 44968,
+      "title": "Lenovo Legion LOQ 32Q-10 Gaming Monitor 80cm QHD Flat VA 180Hz 0.5ms MPRT AMD FreeSync HDR10 Tilt Stand HDMI 2.1 DP 1.4 2x Raven Black",
+      "image": "https://m.media-amazon.com/images/I/71AXD-utWaL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 21,
+      "asin": "B0BD65ZXG3",
+      "price": null,
+      "title": "Lenovo ThinkVision P27q-30 27\" Class WQHD LED Monitor - 16:9 - Raven Black",
+      "image": "https://m.media-amazon.com/images/I/51GjLUYuIfL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 22,
+      "asin": "B0CGLG9CPD",
+      "price": 102550,
+      "title": "Lenovo Japan ThinkVision P27u-20 62CBRAR6JP",
+      "image": "https://m.media-amazon.com/images/I/41wZImBbkWL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 23,
+      "asin": "B0BN1YNVQR",
+      "price": 52968,
+      "title": "Lenovo Legion Y27h-30 Monitor - Gaming Monitor - 27\" QHD Display - Overclock 180z Refresh Rate Artery Software - AMD FreeSync Premium - 0.5ms MPRT - Raven Black Near Edgeless Design",
+      "image": "https://m.media-amazon.com/images/I/71Y+bF+HhWL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 24,
+      "asin": "B0DP1G8R18",
+      "price": 91192,
+      "title": "Lenovo L27h-4A Monitor, 27\" QHD IPS Panel Display, 100Hz, HDR10, USB-C- Waves MaxxAudio, 1ms MPRT, Cloud Gray Near Edgeless Design",
+      "image": "https://m.media-amazon.com/images/I/71npQBWJ5cL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 25,
+      "asin": "B0GJ6SV9M6",
+      "price": 85623,
+      "title": "Lenovo ThinkVision T34WD-40 34\" Class UW-QHD Curved Screen LED Monitor - 21:9 - Eclipse Black",
+      "image": "https://m.media-amazon.com/images/I/71WE2XODUXL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 26,
+      "asin": "B0GJFNK7QC",
+      "price": 48925,
+      "title": "Lenovo ThinkVision T27-40 27\" Class Full HD LED Monitor - 16:9 - Eclipse Black",
+      "image": "https://m.media-amazon.com/images/I/61k-PVqS25L._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 27,
+      "asin": "B0FB9B5F3Y",
+      "price": 88133,
+      "title": "P27Q 27 QHD 2560x1440 IPS Display, Anti-Glare, 16:9 Extreme Mode 4ms Response Time Up to 120Hz Refresh Rate 99 sRGB, 99 BT.709, 98 DCIP3, 10bit 5~+23.5 Tilt, 45 Rotation, 90~ 90P ivot",
+      "image": "https://m.media-amazon.com/images/I/51-ZD93K0iL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 28,
+      "asin": "B0FTVC78FT",
+      "price": 57285,
+      "title": "Lenovo Legion 27QD-10 Gaming Monitor - 27\" QHD IPS Display - 240Hz Refresh Rate - 0.5ms MPRT - 99% sRGB - AMD FreeSync Premium - Ergonomic Stand",
+      "image": "https://m.media-amazon.com/images/I/81IgFr9zKjL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 29,
+      "asin": "B0CGTK2RVK",
+      "price": 73099,
+      "title": "Lenovo Legion R27q-30 Gaming Monitor 27\" QHD Display 180Hz 0.5ms Response, AMD FreeSync Premium, Lift/Tilt/Pivot/Swivel Stand, HDMI 2.1 and DisplayPort 1.4, 350nits, Raven Black",
+      "image": "https://m.media-amazon.com/images/I/71RKTHvdd5L._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 30,
+      "asin": "B0CP376Q5C",
+      "price": null,
+      "title": "27-inch Legion Y27qf-30 (67A7GAC3JP), 27-inch Wide QHD IPS WLED LCD Gaming Monitor, Display, PC Monitor, Computer Monitor",
+      "image": "https://m.media-amazon.com/images/I/61w0VaK0J9L._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 31,
+      "asin": "B0CH11GLR1",
+      "price": 69095,
+      "title": "Lenovo ThinkVision S27i-30 27 Full HD LED Monitor - 16:9 - Storm Grey",
+      "image": "https://m.media-amazon.com/images/I/61S59oFRPqL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 32,
+      "asin": "B0DCZBBD6M",
+      "price": null,
+      "title": "Lenovo L27q-4A Monitor (27.0\" IPS WLED LCD, QHD 100Hz, 1ms Matte, Tilt Support, VESA) Gray 67BFGAC6JP",
+      "image": "https://m.media-amazon.com/images/I/61EOOSqqJ6L._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 33,
+      "asin": "B0FN86D4QX",
+      "price": 65206,
+      "title": "Lenovo ThinkVision T27-40 27\" Class Full HD LED Monitor - 16:9 - Eclipse Black",
+      "image": "https://m.media-amazon.com/images/I/71EYNaA-szL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 34,
+      "asin": "B07988L39H",
+      "price": 70167,
+      "title": "Lenovo THINKVISION T22V 21.5\" 19X10 6MS CAM",
+      "image": "https://m.media-amazon.com/images/I/51p-AsjlWYL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 35,
+      "asin": "B0GR1RGFFZ",
+      "price": 76673,
+      "title": "Lenovo ThinkVision P27q-30 27インチ WQHD LED モニター - スタンドなし - 3年保証 (63A2GAR1U2)",
+      "image": "https://m.media-amazon.com/images/I/513TTEfRSFL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 36,
+      "asin": "B0G2BCLT3H",
+      "price": 63777,
+      "title": "Lenovo 27インチ ThinkVision S27i-30、1920x1080解像度、1300:1コントラスト比、アセットタグ付き。",
+      "image": "https://m.media-amazon.com/images/I/81h7gPzFnJL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 37,
+      "asin": "B08Z5JNL1C",
+      "price": 78255,
+      "title": "Lenovo G27-20 27\" Gaming Monitor FHD (1920 x 1080) IPS 144Hz 1ms FreeSync Premium & NVIDIA G-SYNC Near Edgeless VESA Mount Height and Tilt Adjustment HDMI DP 66C2GCC1US Black",
+      "image": "https://m.media-amazon.com/images/I/61sCKLtlnqL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 38,
+      "asin": "B0CYHTK9JD",
+      "price": 61109,
+      "title": "Lenovo ThinkVision T27i-30 27\" Class Full HD LED Monitor - 16:9 - Black",
+      "image": "https://m.media-amazon.com/images/I/51y66gZP+EL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 39,
+      "asin": "B0CK5MBVBY",
+      "price": 130397,
+      "title": "Lenovo Legion Y32p-30 Monitor - Gaming Monitor - 31.5\" UHD IPS Display - 144Hz - DisplayHDR 400 - AMD FreeSync Premium - 0.2ms MPRT - Raven Black - Near Edgeless Design",
+      "image": "https://m.media-amazon.com/images/I/71tXjjyZGcL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 40,
+      "asin": "B09C885VBG",
+      "price": 79354,
+      "title": "Lenovo ThinkVision S27q-10 27\" QHD LED Backlight",
+      "image": "https://m.media-amazon.com/images/I/51m1NLKFq9L._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 41,
+      "asin": "B0CVN36JXY",
+      "price": null,
+      "title": "Lenovo Legion Y27h-30 QHD IPS WLED Gaming LCD, Non-Glare, HDMI Speaker, 27-inch Display, PC, PC Monitor, Official and Direct Sales",
+      "image": "https://m.media-amazon.com/images/I/61U8rh+l-dL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 42,
+      "asin": "B085S89955",
+      "price": 106394,
+      "title": "T32P-20",
+      "image": "https://m.media-amazon.com/images/I/61ojKRBdWzL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 43,
+      "asin": "B08BDWNC8Q",
+      "price": 90412,
+      "title": "Lenovo Q27h-10 27\" Monitor, QHD (2560 x 1440), IPS, LED Backlight, 16:9, AMD FreeSync, USB-C, 4 Side Borderless, 75Hz, 4ms Response Time, 99% sRGB, Tilt, HDMI, DP 1.2, Low Blue Light, 66A7GCC2US",
+      "image": "https://m.media-amazon.com/images/I/61uy89WgofL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 44,
+      "asin": "B08BP9R5V5",
+      "price": 69100,
+      "title": "JUOIANTANG NCH FHD LED Backlit L",
+      "image": "https://m.media-amazon.com/images/I/81bUlWOIU2L._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 45,
+      "asin": "B09RVF4CGQ",
+      "price": 85627,
+      "title": "Lenovo 27IN QHD THINKVISION P27H-28",
+      "image": "https://m.media-amazon.com/images/I/51c6Ek6XfrL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 46,
+      "asin": "B0CLSSG57W",
+      "price": null,
+      "title": "Lenovo 27\" Legion R27fc-30 LED Display, Full HD, Black, 1920 x 1080",
+      "image": "https://m.media-amazon.com/images/I/71zi+MU8PaL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 47,
+      "asin": "B09S6KWHFQ",
+      "price": 124519,
+      "title": "Lenovo ThinkVision P27u-20 - LED Monitor - 27\" (27\" Visible) - 3840 x 2160 4K @ 60 Hz - IPS - 450 cd/m² - 1000:1-4 ms - Thunderbolt 4, 2xHDMI, DisplayPort - Speakers - Raven Black",
+      "image": "https://m.media-amazon.com/images/I/61mnlPAALuL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 48,
+      "asin": "B0BGQDTM53",
+      "price": 82809,
+      "title": "Lenovo 27\" QHD 2560X1440 3SIDE Near Edgeless Display",
+      "image": "https://m.media-amazon.com/images/I/516bDfLrUGL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    }
+  ]
+}

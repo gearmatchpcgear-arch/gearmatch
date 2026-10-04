@@ -1,0 +1,82 @@
+{
+  "B09Q5SHDR3": {
+    "power": "単3形 乾電池（付属）",
+    "source": "Logitech Signature M650 公式（1x AA）"
+  },
+  "B09WV6D7SM": {
+    "power": "単3形 乾電池（付属）",
+    "source": "Logitech LIFT 公式（1x AA）"
+  },
+  "B09J46764W": {
+    "power": "単3形 乾電池（付属）",
+    "source": "Logitech M221 公式（1x AA）"
+  },
+  "B0GVDZCKTN": {
+    "power": "電池式（単3形乾電池 1本）",
+    "source": "ELECOM OSMOD8 公式（単3形アルカリ/マンガン/ニッケル水素）"
+  },
+  "B0GJ8FWK42": {
+    "power": "電池式（単3形乾電池 1本）",
+    "source": "Logitech Signature Comfort M840 公式（1x AA）"
+  },
+  "B0171QQ7FM": {
+    "power": "電池式（単3形乾電池 1本）",
+    "source": "ELECOM M-DT2DRBK 公式（単3形アルカリ乾電池×1）"
+  },
+  "B00J8Y2EFS": {
+    "power": "有線給電",
+    "source": "ELECOM M-K6URBK/RS 公式（有線USB・USB給電）"
+  },
+  "B0CFL9BVKX": {
+    "power": "単3形乾電池x1",
+    "source": "Ewin トラックボールマウス EW-WL159S 公式（単3形アルカリ乾電池×1）"
+  },
+  "B07DVC25R2": {
+    "power": "単3形乾電池x1",
+    "source": "Logicool G G304 公式（単3形アルカリ乾電池×1）"
+  },
+  "B07D3GRQC8": {
+    "power": "単3形乾電池x1",
+    "source": "Logicool G G304rWH 公式（単3形アルカリ乾電池×1）"
+  },
+  "B099MXK6P8": {
+    "power": "乾電池",
+    "source": "Logicool G G304-BL 公式（単3形アルカリ乾電池×1）"
+  },
+  "B07SYKKP47": {
+    "power": "充電式（内蔵バッテリー）",
+    "source": "Logicool G G703h 公式（内蔵バッテリー・POWERPLAY対応）"
+  },
+  "B0D25MNB15": {
+    "power": "有線給電",
+    "source": "MSI FORGE GM100 MS0716 公式（有線USB・USB給電）"
+  },
+  "B0FXCCV2NQ": {
+    "power": "充電式（内蔵バッテリー）",
+    "source": "MSI FORGE GM340 W NAVY MS0808 公式（USB-C充電・内蔵バッテリー・最大82時間）"
+  },
+  "B0BY1R8DSZ": {
+    "power": "有線給電",
+    "source": "ASUS TUF Gaming M3 Gen II 公式（有線USB・USB給電）"
+  },
+  "B0FX3ZV6WD": {
+    "power": "充電式（内蔵バッテリー）",
+    "source": "ELECOM M-PN10MBMSABK Precisionist 公式（USB-C充電・内蔵バッテリー）"
+  },
+  "B088P8QYWN": {
+    "power": "単3形乾電池x1",
+    "source": "ELECOM M-XGM10DBBK/EC EX-G 公式（単3形アルカリ/マンガン/ニッケル水素 いずれか1本）"
+  },
+  "B0DKT8S1XC": {
+    "power": "充電式（内蔵バッテリー）",
+    "source": "MSI VERSA 300 W MS0731 公式（USB Type-C充電・内蔵バッテリー・最大50時間）"
+  },
+  "B00Z9V0NKC": {
+    "power": "有線給電",
+    "source": "BENGOO ゲーミングマウス 有線 公式（USB給電）"
+  },
+  "B0BB5S6DYD": {
+    "power": "充電式（内蔵バッテリー）",
+    "source": "ELECOM V custom VM500 M-VM500BK 公式（USB Type-C充電・内蔵バッテリー）"
+  }
+}

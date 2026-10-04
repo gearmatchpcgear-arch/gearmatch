@@ -1,0 +1,1455 @@
+[
+  {
+    "id": "mic-bs-001",
+    "name": "SoloCast 2",
+    "asin": "B0FLKJ7FH7",
+    "file": "mic-bestsellers.ts",
+    "missing": [
+      "サンプルレート"
+    ],
+    "values": {
+      "指向性": "単一指向性 (カーディオイド)",
+      "周波数特性": "20Hz-20kHz",
+      "端子": "USB",
+      "サンプルレート": "—"
+    },
+    "shouldFix": [
+      "サンプルレート"
+    ]
+  },
+  {
+    "id": "mic-bs-002",
+    "name": "U30K",
+    "asin": "B0GJZ1TCQP",
+    "file": "mic-bestsellers.ts",
+    "missing": [
+      "周波数特性",
+      "サンプルレート"
+    ],
+    "values": {
+      "指向性": "全指向性 (360°集音)",
+      "周波数特性": "—",
+      "端子": "USB",
+      "サンプルレート": "—"
+    },
+    "shouldFix": [
+      "周波数特性",
+      "サンプルレート"
+    ]
+  },
+  {
+    "id": "mic-bs-003",
+    "name": "Mic Mini 2 (2 TX + 1 RX + 充電ケース)",
+    "asin": "B0G39C97WQ",
+    "file": "mic-bestsellers.ts",
+    "missing": [
+      "指向性",
+      "周波数特性",
+      "サンプルレート"
+    ],
+    "values": {
+      "指向性": "—",
+      "周波数特性": "—",
+      "端子": "Lightning / USB-C / 3.5mm TRS",
+      "サンプルレート": "—"
+    },
+    "shouldFix": [
+      "指向性",
+      "周波数特性",
+      "サンプルレート"
+    ]
+  },
+  {
+    "id": "mic-bs-004",
+    "name": "K669B",
+    "asin": "B075PJ7V3V",
+    "file": "mic-bestsellers.ts",
+    "missing": [
+      "サンプルレート"
+    ],
+    "values": {
+      "指向性": "単一指向性",
+      "周波数特性": "20Hz-20kHz",
+      "端子": "USB",
+      "サンプルレート": "—"
+    },
+    "shouldFix": [
+      "サンプルレート"
+    ]
+  },
+  {
+    "id": "mic-bs-005",
+    "name": "Blue Snowball iCE",
+    "asin": "B0822PSXCN",
+    "file": "mic-bestsellers.ts",
+    "missing": [
+      "サンプルレート"
+    ],
+    "values": {
+      "指向性": "単一指向性",
+      "周波数特性": "40Hz-18kHz",
+      "端子": "USB",
+      "サンプルレート": "—"
+    },
+    "shouldFix": [
+      "サンプルレート"
+    ]
+  },
+  {
+    "id": "mic-bs-006",
+    "name": "QuadCast S RGB",
+    "asin": "B08G8WH435",
+    "file": "mic-bestsellers.ts",
+    "missing": [
+      "サンプルレート"
+    ],
+    "values": {
+      "指向性": "4パターン (単一/双/全/ステレオ)",
+      "周波数特性": "20Hz-20kHz",
+      "端子": "USB",
+      "サンプルレート": "—"
+    },
+    "shouldFix": [
+      "サンプルレート"
+    ]
+  },
+  {
+    "id": "mic-bs-007",
+    "name": "USB ミニ ピンマイク",
+    "asin": "B0CHV2QZX7",
+    "file": "mic-bestsellers.ts",
+    "missing": [
+      "サンプルレート"
+    ],
+    "values": {
+      "指向性": "全指向性",
+      "周波数特性": "20Hz-20kHz",
+      "端子": "USB",
+      "サンプルレート": "—"
+    },
+    "shouldFix": [
+      "サンプルレート"
+    ]
+  },
+  {
+    "id": "mic-bs-009",
+    "name": "MM-MCU01BK",
+    "asin": "B013SYV6P2",
+    "file": "mic-bestsellers.ts",
+    "missing": [
+      "サンプルレート"
+    ],
+    "values": {
+      "指向性": "全指向性",
+      "周波数特性": "80Hz-20kHz",
+      "端子": "USB",
+      "サンプルレート": "—"
+    },
+    "shouldFix": [
+      "サンプルレート"
+    ]
+  },
+  {
+    "id": "mic-cnd2-002",
+    "name": "コンデンサーマイク USB 卓上 PC マイク 192kHz/24bit 録音 2段階ノイズキャ",
+    "asin": "B0FKM9BS9H",
+    "file": "mic-condenser-bestsellers-page2.ts",
+    "missing": [
+      "サンプルレート"
+    ],
+    "values": {
+      "指向性": "単一指向性",
+      "周波数特性": "20Hz-20kHz",
+      "端子": "USB Type-C",
+      "サンプルレート": "—"
+    },
+    "shouldFix": [
+      "サンプルレート"
+    ]
+  },
+  {
+    "id": "mic-cnd2-003",
+    "name": "Profile USB",
+    "asin": "B0BTPYCD86",
+    "file": "mic-condenser-bestsellers-page2.ts",
+    "missing": [
+      "サンプルレート"
+    ],
+    "values": {
+      "指向性": "単一指向性 (カーディオイド)",
+      "周波数特性": "20Hz-20kHz",
+      "端子": "USB",
+      "サンプルレート": "—"
+    },
+    "shouldFix": [
+      "サンプルレート"
+    ]
+  },
+  {
+    "id": "mic-cnd2-004",
+    "name": "GamerWave",
+    "asin": "B0C32W4ZH7",
+    "file": "mic-condenser-bestsellers-page2.ts",
+    "missing": [
+      "サンプルレート"
+    ],
+    "values": {
+      "指向性": "単一指向性",
+      "周波数特性": "50Hz-20kHz",
+      "端子": "USB",
+      "サンプルレート": "—"
+    },
+    "shouldFix": [
+      "サンプルレート"
+    ]
+  },
+  {
+    "id": "mic-cnd2-005",
+    "name": "RGBライト PCマイク USB ゲーム マイク Windows MacOS スマホ PS4/P",
+    "asin": "B0GWXVJQ9N",
+    "file": "mic-condenser-bestsellers-page2.ts",
+    "missing": [
+      "指向性",
+      "周波数特性",
+      "サンプルレート"
+    ],
+    "values": {
+      "指向性": "—",
+      "周波数特性": "—",
+      "端子": "USB",
+      "サンプルレート": "—"
+    },
+    "shouldFix": [
+      "指向性",
+      "周波数特性",
+      "サンプルレート"
+    ]
+  },
+  {
+    "id": "mic-cnd2-006",
+    "name": "Wave:3",
+    "asin": "B0GQRSQ86L",
+    "file": "mic-condenser-bestsellers-page2.ts",
+    "missing": [
+      "サンプルレート"
+    ],
+    "values": {
+      "指向性": "単一指向性 (カーディオイド)",
+      "周波数特性": "80Hz-20kHz",
+      "端子": "USB",
+      "サンプルレート": "—"
+    },
+    "shouldFix": [
+      "サンプルレート"
+    ]
+  },
+  {
+    "id": "mic-cnd2-007",
+    "name": "USB ゲーミングマイク *Phoneマイク コンデンサーマイクミュートボタン カーディオイド指",
+    "asin": "B0CMV914QV",
+    "file": "mic-condenser-bestsellers-page2.ts",
+    "missing": [
+      "サンプルレート"
+    ],
+    "values": {
+      "指向性": "単一指向性",
+      "周波数特性": "20Hz-20kHz",
+      "端子": "USB",
+      "サンプルレート": "—"
+    },
+    "shouldFix": [
+      "サンプルレート"
+    ]
+  },
+  {
+    "id": "mic-cnd2-008",
+    "name": "USB ゲーミングマイク *Phoneマイク コンデンサーマイクミュートボタン カーディオイド指",
+    "asin": "B0DHZFZY2N",
+    "file": "mic-condenser-bestsellers-page2.ts",
+    "missing": [
+      "サンプルレート"
+    ],
+    "values": {
+      "指向性": "単一指向性",
+      "周波数特性": "20Hz-20kHz",
+      "端子": "USB",
+      "サンプルレート": "—"
+    },
+    "shouldFix": [
+      "サンプルレート"
+    ]
+  },
+  {
+    "id": "mic-cnd2-010",
+    "name": "TM-250U",
+    "asin": "B093LFS9QF",
+    "file": "mic-condenser-bestsellers-page2.ts",
+    "missing": [
+      "サンプルレート"
+    ],
+    "values": {
+      "指向性": "超単一指向性",
+      "周波数特性": "20Hz-20kHz",
+      "端子": "USB",
+      "サンプルレート": "—"
+    },
+    "shouldFix": [
+      "サンプルレート"
+    ]
+  },
+  {
+    "id": "mic-cnd2-012",
+    "name": "QuadCast",
+    "asin": "B07NZZZ746",
+    "file": "mic-condenser-bestsellers-page2.ts",
+    "missing": [
+      "サンプルレート"
+    ],
+    "values": {
+      "指向性": "4パターン (単一/双/全/ステレオ)",
+      "周波数特性": "20Hz-20kHz",
+      "端子": "USB",
+      "サンプルレート": "—"
+    },
+    "shouldFix": [
+      "サンプルレート"
+    ]
+  },
+  {
+    "id": "mic-cnd2-013",
+    "name": "K690",
+    "asin": "B09XDH2P6P",
+    "file": "mic-condenser-bestsellers-page2.ts",
+    "missing": [
+      "サンプルレート"
+    ],
+    "values": {
+      "指向性": "ステレオ (極性調整可能)",
+      "周波数特性": "20Hz-20kHz",
+      "端子": "USB",
+      "サンプルレート": "—"
+    },
+    "shouldFix": [
+      "サンプルレート"
+    ]
+  },
+  {
+    "id": "mic-cnd2-014",
+    "name": "Am7",
+    "asin": "B08P411XR5",
+    "file": "mic-condenser-bestsellers-page2.ts",
+    "missing": [
+      "サンプルレート"
+    ],
+    "values": {
+      "指向性": "ステレオ",
+      "周波数特性": "35Hz-20kHz",
+      "端子": "USB Type-C",
+      "サンプルレート": "—"
+    },
+    "shouldFix": [
+      "サンプルレート"
+    ]
+  },
+  {
+    "id": "mic-cnd2-015",
+    "name": "ECM-999",
+    "asin": "B07KT8X3XQ",
+    "file": "mic-condenser-bestsellers-page2.ts",
+    "missing": [
+      "端子",
+      "サンプルレート"
+    ],
+    "values": {
+      "指向性": "全指向性",
+      "周波数特性": "20Hz-20kHz",
+      "端子": "—",
+      "サンプルレート": "—"
+    },
+    "shouldFix": [
+      "端子"
+    ]
+  },
+  {
+    "id": "mic-cnd2-016",
+    "name": "auriq01",
+    "asin": "B0FGJYCPRT",
+    "file": "mic-condenser-bestsellers-page2.ts",
+    "missing": [
+      "指向性",
+      "サンプルレート"
+    ],
+    "values": {
+      "指向性": "—",
+      "周波数特性": "20Hz-20kHz",
+      "端子": "XLR",
+      "サンプルレート": "—"
+    },
+    "shouldFix": [
+      "指向性"
+    ]
+  },
+  {
+    "id": "mic-cnd2-017",
+    "name": "ワイヤレスピンマイク (3in1)",
+    "asin": "B0H6Q4TK8K",
+    "file": "mic-condenser-bestsellers-page2.ts",
+    "missing": [
+      "周波数特性",
+      "サンプルレート"
+    ],
+    "values": {
+      "指向性": "全指向性 (360°)",
+      "周波数特性": "—",
+      "端子": "USB Type-C",
+      "サンプルレート": "—"
+    },
+    "shouldFix": [
+      "周波数特性",
+      "サンプルレート"
+    ]
+  },
+  {
+    "id": "mic-cnd2-018",
+    "name": "SoloCast (ホワイト)",
+    "asin": "B09XQVB4XC",
+    "file": "mic-condenser-bestsellers-page2.ts",
+    "missing": [
+      "サンプルレート"
+    ],
+    "values": {
+      "指向性": "単一指向性 (カーディオイド)",
+      "周波数特性": "20Hz-20kHz",
+      "端子": "USB",
+      "サンプルレート": "—"
+    },
+    "shouldFix": [
+      "サンプルレート"
+    ]
+  },
+  {
+    "id": "mic-cnd2-019",
+    "name": "AT875R",
+    "asin": "B000BQ79W0",
+    "file": "mic-condenser-bestsellers-page2.ts",
+    "missing": [
+      "指向性",
+      "サンプルレート"
+    ],
+    "values": {
+      "指向性": "—",
+      "周波数特性": "100Hz-16kHz",
+      "端子": "XLR",
+      "サンプルレート": "—"
+    },
+    "shouldFix": [
+      "指向性"
+    ]
+  },
+  {
+    "id": "mic-cnd2-020",
+    "name": "クリップマイク ピンマイク マイクロフォン 長さ120mm ジャック 3.5mm φプラグ iP",
+    "asin": "B07MJZ7XQ5",
+    "file": "mic-condenser-bestsellers-page2.ts",
+    "missing": [
+      "指向性",
+      "周波数特性",
+      "サンプルレート"
+    ],
+    "values": {
+      "指向性": "—",
+      "周波数特性": "—",
+      "端子": "3.5mmミニプラグ",
+      "サンプルレート": "—"
+    },
+    "shouldFix": [
+      "指向性",
+      "周波数特性"
+    ]
+  },
+  {
+    "id": "mic-cnd2-021",
+    "name": "USB コンデンサーマイク (セット)",
+    "asin": "B0051O2Y72",
+    "file": "mic-condenser-bestsellers-page2.ts",
+    "missing": [
+      "サンプルレート"
+    ],
+    "values": {
+      "指向性": "単一指向性 (カーディオイド)",
+      "周波数特性": "20Hz-20kHz",
+      "端子": "USB",
+      "サンプルレート": "—"
+    },
+    "shouldFix": [
+      "サンプルレート"
+    ]
+  },
+  {
+    "id": "mic-cnd2-022",
+    "name": "HM-100",
+    "asin": "B099NY1425",
+    "file": "mic-condenser-bestsellers-page2.ts",
+    "missing": [
+      "指向性",
+      "周波数特性",
+      "サンプルレート"
+    ],
+    "values": {
+      "指向性": "—",
+      "周波数特性": "—",
+      "端子": "3.5mm",
+      "サンプルレート": "—"
+    },
+    "shouldFix": [
+      "指向性",
+      "周波数特性"
+    ]
+  },
+  {
+    "id": "mic-cnd-001",
+    "name": "USBコンデンサーマイク",
+    "asin": "B0CL9BTQRF",
+    "file": "mic-condenser-bestsellers.ts",
+    "missing": [
+      "サンプルレート"
+    ],
+    "values": {
+      "指向性": "単一指向性 (カーディオイド)",
+      "周波数特性": "30Hz-20kHz",
+      "端子": "USB",
+      "サンプルレート": "—"
+    },
+    "shouldFix": [
+      "サンプルレート"
+    ]
+  },
+  {
+    "id": "mic-cnd-002",
+    "name": "USB コンデンサーマイク",
+    "asin": "B092JB6XR3",
+    "file": "mic-condenser-bestsellers.ts",
+    "missing": [
+      "サンプルレート"
+    ],
+    "values": {
+      "指向性": "単一指向性",
+      "周波数特性": "20Hz-20kHz",
+      "端子": "USB",
+      "サンプルレート": "—"
+    },
+    "shouldFix": [
+      "サンプルレート"
+    ]
+  },
+  {
+    "id": "mic-cnd-004",
+    "name": "QuadCast2",
+    "asin": "B0DXW278KB",
+    "file": "mic-condenser-bestsellers.ts",
+    "missing": [
+      "サンプルレート"
+    ],
+    "values": {
+      "指向性": "単一指向性 (カーディオイド)",
+      "周波数特性": "20Hz-20kHz",
+      "端子": "USB",
+      "サンプルレート": "—"
+    },
+    "shouldFix": [
+      "サンプルレート"
+    ]
+  },
+  {
+    "id": "mic-cnd-005",
+    "name": "コンデンサーマイク ABS製 24bit/96kHz RGBライト 単一指向性 ノイズ低減 20",
+    "asin": "B0FG7DVV62",
+    "file": "mic-condenser-bestsellers.ts",
+    "missing": [
+      "端子",
+      "サンプルレート"
+    ],
+    "values": {
+      "指向性": "単一指向性",
+      "周波数特性": "20Hz-20kHz",
+      "端子": "—",
+      "サンプルレート": "—"
+    },
+    "shouldFix": [
+      "端子"
+    ]
+  },
+  {
+    "id": "mic-cnd-006",
+    "name": "QUANTUM STREAM",
+    "asin": "B09VGCZHG4",
+    "file": "mic-condenser-bestsellers.ts",
+    "missing": [
+      "指向性",
+      "サンプルレート"
+    ],
+    "values": {
+      "指向性": "—",
+      "周波数特性": "20Hz-20kHz",
+      "端子": "USB",
+      "サンプルレート": "—"
+    },
+    "shouldFix": [
+      "指向性",
+      "サンプルレート"
+    ]
+  },
+  {
+    "id": "mic-cnd-007",
+    "name": "HS-MC09UBK",
+    "asin": "B09BN9N1P3",
+    "file": "mic-condenser-bestsellers.ts",
+    "missing": [
+      "指向性",
+      "サンプルレート"
+    ],
+    "values": {
+      "指向性": "—",
+      "周波数特性": "20Hz-20kHz",
+      "端子": "USB",
+      "サンプルレート": "—"
+    },
+    "shouldFix": [
+      "指向性",
+      "サンプルレート"
+    ]
+  },
+  {
+    "id": "mic-cnd-008",
+    "name": "DuoCast",
+    "asin": "B0B119XZBK",
+    "file": "mic-condenser-bestsellers.ts",
+    "missing": [
+      "指向性",
+      "サンプルレート"
+    ],
+    "values": {
+      "指向性": "—",
+      "周波数特性": "20Hz-20kHz",
+      "端子": "USB",
+      "サンプルレート": "—"
+    },
+    "shouldFix": [
+      "指向性",
+      "サンプルレート"
+    ]
+  },
+  {
+    "id": "mic-cnd-009",
+    "name": "AT2020USB-X",
+    "asin": "B0B823S1NR",
+    "file": "mic-condenser-bestsellers.ts",
+    "missing": [
+      "指向性",
+      "サンプルレート"
+    ],
+    "values": {
+      "指向性": "—",
+      "周波数特性": "20Hz-20kHz",
+      "端子": "USB Type-C",
+      "サンプルレート": "—"
+    },
+    "shouldFix": [
+      "指向性",
+      "サンプルレート"
+    ]
+  },
+  {
+    "id": "mic-cnd-010",
+    "name": "AU-A04",
+    "asin": "B07GLWQS61",
+    "file": "mic-condenser-bestsellers.ts",
+    "missing": [
+      "指向性",
+      "サンプルレート"
+    ],
+    "values": {
+      "指向性": "—",
+      "周波数特性": "20Hz-20kHz",
+      "端子": "USB",
+      "サンプルレート": "—"
+    },
+    "shouldFix": [
+      "指向性",
+      "サンプルレート"
+    ]
+  },
+  {
+    "id": "mic-cnd-012",
+    "name": "マイク コンデンサーマイク PCマイク 単一指向性 エコー機能付き 会議用 ゲーム 実況 タブレ",
+    "asin": "B0F9FM4MVH",
+    "file": "mic-condenser-bestsellers.ts",
+    "missing": [
+      "端子",
+      "サンプルレート"
+    ],
+    "values": {
+      "指向性": "単一指向性",
+      "周波数特性": "20Hz-20kHz",
+      "端子": "—",
+      "サンプルレート": "—"
+    },
+    "shouldFix": [
+      "端子"
+    ]
+  },
+  {
+    "id": "mic-cnd-013",
+    "name": "QuadCast2S",
+    "asin": "B0DG9X4WHW",
+    "file": "mic-condenser-bestsellers.ts",
+    "missing": [
+      "サンプルレート"
+    ],
+    "values": {
+      "指向性": "4パターン (単一/双/全/ステレオ)",
+      "周波数特性": "20Hz-20kHz",
+      "端子": "USB",
+      "サンプルレート": "—"
+    },
+    "shouldFix": [
+      "サンプルレート"
+    ]
+  },
+  {
+    "id": "mic-cnd-014",
+    "name": "コンデンサーマイク USB マイク ゲーミングマイク PC マイク 卓上 192kHz/24bi",
+    "asin": "B0DJR3CHKM",
+    "file": "mic-condenser-bestsellers.ts",
+    "missing": [
+      "サンプルレート"
+    ],
+    "values": {
+      "指向性": "単一指向性",
+      "周波数特性": "44Hz-192Hz",
+      "端子": "USB",
+      "サンプルレート": "—"
+    },
+    "shouldFix": [
+      "サンプルレート"
+    ]
+  },
+  {
+    "id": "mic-cnd-015",
+    "name": "ECM-TL3",
+    "asin": "B004KVIZFM",
+    "file": "mic-condenser-bestsellers.ts",
+    "missing": [
+      "指向性",
+      "端子",
+      "サンプルレート"
+    ],
+    "values": {
+      "指向性": "—",
+      "周波数特性": "100Hz-15kHz",
+      "端子": "—",
+      "サンプルレート": "—"
+    },
+    "shouldFix": [
+      "指向性",
+      "端子"
+    ]
+  },
+  {
+    "id": "mic-cnd-016",
+    "name": "MPM-2000U",
+    "asin": "B01GJ9IUNY",
+    "file": "mic-condenser-bestsellers.ts",
+    "missing": [
+      "指向性",
+      "サンプルレート"
+    ],
+    "values": {
+      "指向性": "—",
+      "周波数特性": "20Hz-20kHz",
+      "端子": "USB",
+      "サンプルレート": "—"
+    },
+    "shouldFix": [
+      "指向性",
+      "サンプルレート"
+    ]
+  },
+  {
+    "id": "mic-cnd-017",
+    "name": "K670",
+    "asin": "B079HRX2ZP",
+    "file": "mic-condenser-bestsellers.ts",
+    "missing": [
+      "サンプルレート"
+    ],
+    "values": {
+      "指向性": "単一指向性",
+      "周波数特性": "50Hz-15kHz",
+      "端子": "USB",
+      "サンプルレート": "—"
+    },
+    "shouldFix": [
+      "サンプルレート"
+    ]
+  },
+  {
+    "id": "mic-cnd-018",
+    "name": "AT2035",
+    "asin": "B002T45X1G",
+    "file": "mic-condenser-bestsellers.ts",
+    "missing": [
+      "端子",
+      "サンプルレート"
+    ],
+    "values": {
+      "指向性": "単一指向性",
+      "周波数特性": "20Hz-20kHz",
+      "端子": "—",
+      "サンプルレート": "—"
+    },
+    "shouldFix": [
+      "端子"
+    ]
+  },
+  {
+    "id": "mic-cnd-019",
+    "name": "ピンマイク 有線 マイク コンデンサーType-C端子 全指向性 スマホ/PC/タブレット対応 ",
+    "asin": "B0FL6R2JSJ",
+    "file": "mic-condenser-bestsellers.ts",
+    "missing": [
+      "周波数特性",
+      "サンプルレート"
+    ],
+    "values": {
+      "指向性": "全指向性",
+      "周波数特性": "—",
+      "端子": "USB Type-C",
+      "サンプルレート": "—"
+    },
+    "shouldFix": [
+      "周波数特性",
+      "サンプルレート"
+    ]
+  },
+  {
+    "id": "mic-cnd-020",
+    "name": "EasySing Mic Mini Duo",
+    "asin": "B0H3TD27ZS",
+    "file": "mic-condenser-bestsellers.ts",
+    "missing": [
+      "指向性",
+      "周波数特性",
+      "端子",
+      "サンプルレート"
+    ],
+    "values": {
+      "指向性": "—",
+      "周波数特性": "—",
+      "端子": "—",
+      "サンプルレート": "—"
+    },
+    "shouldFix": [
+      "指向性",
+      "周波数特性",
+      "端子"
+    ]
+  },
+  {
+    "id": "mic-cnd-021",
+    "name": "MV88+",
+    "asin": "B08G7T3Q9S",
+    "file": "mic-condenser-bestsellers.ts",
+    "missing": [
+      "サンプルレート"
+    ],
+    "values": {
+      "指向性": "ステレオ",
+      "周波数特性": "20Hz-20kHz",
+      "端子": "USB",
+      "サンプルレート": "—"
+    },
+    "shouldFix": [
+      "サンプルレート"
+    ]
+  },
+  {
+    "id": "mic-cnd-022",
+    "name": "QUANTUM STREAM TALK",
+    "asin": "B0CTSX8HFS",
+    "file": "mic-condenser-bestsellers.ts",
+    "missing": [
+      "指向性",
+      "サンプルレート"
+    ],
+    "values": {
+      "指向性": "—",
+      "周波数特性": "50Hz-12kHz",
+      "端子": "USB",
+      "サンプルレート": "—"
+    },
+    "shouldFix": [
+      "指向性",
+      "サンプルレート"
+    ]
+  },
+  {
+    "id": "mic-cnd-023",
+    "name": "YETI ORB",
+    "asin": "B0CRV2C7HD",
+    "file": "mic-condenser-bestsellers.ts",
+    "missing": [
+      "指向性",
+      "サンプルレート"
+    ],
+    "values": {
+      "指向性": "—",
+      "周波数特性": "70Hz-20kHz",
+      "端子": "USB",
+      "サンプルレート": "—"
+    },
+    "shouldFix": [
+      "指向性",
+      "サンプルレート"
+    ]
+  },
+  {
+    "id": "mic-cnd-024",
+    "name": "USBマイク コンデンサーマイク 192kHz/24bit 16mm高感度 カーディオイド DS",
+    "asin": "B0H6MV2KPH",
+    "file": "mic-condenser-bestsellers.ts",
+    "missing": [
+      "サンプルレート"
+    ],
+    "values": {
+      "指向性": "単一指向性",
+      "周波数特性": "20Hz-20kHz",
+      "端子": "USB Type-C",
+      "サンプルレート": "—"
+    },
+    "shouldFix": [
+      "サンプルレート"
+    ]
+  },
+  {
+    "id": "mic-cnd-025",
+    "name": "コンデンサーマイク USB 卓上 PC マイク 192kHz/24bit 録音 2段階ノイズキャ",
+    "asin": "B0FKMLH98W",
+    "file": "mic-condenser-bestsellers.ts",
+    "missing": [
+      "サンプルレート"
+    ],
+    "values": {
+      "指向性": "単一指向性",
+      "周波数特性": "20Hz-20kHz",
+      "端子": "USB Type-C",
+      "サンプルレート": "—"
+    },
+    "shouldFix": [
+      "サンプルレート"
+    ]
+  },
+  {
+    "id": "mic-cnd-026",
+    "name": "ECM-PCV80U",
+    "asin": "B005M2HDA6",
+    "file": "mic-condenser-bestsellers.ts",
+    "missing": [
+      "指向性",
+      "サンプルレート"
+    ],
+    "values": {
+      "指向性": "—",
+      "周波数特性": "80Hz-15kHz",
+      "端子": "USB",
+      "サンプルレート": "—"
+    },
+    "shouldFix": [
+      "指向性",
+      "サンプルレート"
+    ]
+  },
+  {
+    "id": "mic-dyn2-002",
+    "name": "TKY-93",
+    "asin": "B0G5D9JT5G",
+    "file": "mic-dynamic-bestsellers-page2.ts",
+    "missing": [
+      "周波数特性",
+      "サンプルレート"
+    ],
+    "values": {
+      "指向性": "単一指向性",
+      "周波数特性": "—",
+      "端子": "XLR",
+      "サンプルレート": "—"
+    },
+    "shouldFix": [
+      "周波数特性"
+    ]
+  },
+  {
+    "id": "mic-dyn-001",
+    "name": "K688CT",
+    "asin": "B0DNJGTMBK",
+    "file": "mic-dynamic-bestsellers.ts",
+    "missing": [
+      "サンプルレート"
+    ],
+    "values": {
+      "指向性": "単一指向性 (カーディオイド)",
+      "周波数特性": "70Hz-15kHz",
+      "端子": "USB",
+      "サンプルレート": "—"
+    },
+    "shouldFix": [
+      "サンプルレート"
+    ]
+  },
+  {
+    "id": "mic-dyn-003",
+    "name": "MV7",
+    "asin": "B0CYYZ78NJ",
+    "file": "mic-dynamic-bestsellers.ts",
+    "missing": [
+      "サンプルレート"
+    ],
+    "values": {
+      "指向性": "単一指向性 (カーディオイド)",
+      "周波数特性": "50Hz-16kHz",
+      "端子": "USB",
+      "サンプルレート": "—"
+    },
+    "shouldFix": [
+      "サンプルレート"
+    ]
+  },
+  {
+    "id": "mic-dyn-005",
+    "name": "PartyBox Wireless Mic",
+    "asin": "B0CXHQHW4R",
+    "file": "mic-dynamic-bestsellers.ts",
+    "missing": [
+      "周波数特性",
+      "サンプルレート"
+    ],
+    "values": {
+      "指向性": "単一指向性 (カーディオイド)",
+      "周波数特性": "—",
+      "端子": "2.4GHz ワイヤレス",
+      "サンプルレート": "—"
+    },
+    "shouldFix": [
+      "周波数特性",
+      "サンプルレート"
+    ]
+  },
+  {
+    "id": "mic-dyn-010",
+    "name": "MV6",
+    "asin": "B0DDP2HT3F",
+    "file": "mic-dynamic-bestsellers.ts",
+    "missing": [
+      "サンプルレート"
+    ],
+    "values": {
+      "指向性": "単一指向性 (カーディオイド)",
+      "周波数特性": "50Hz-15kHz",
+      "端子": "USB",
+      "サンプルレート": "—"
+    },
+    "shouldFix": [
+      "サンプルレート"
+    ]
+  },
+  {
+    "id": "mic-dyn-011",
+    "name": "XM8500",
+    "asin": "B0002KZAKS",
+    "file": "mic-dynamic-bestsellers.ts",
+    "missing": [
+      "指向性",
+      "端子",
+      "サンプルレート"
+    ],
+    "values": {
+      "指向性": "—",
+      "周波数特性": "80Hz-15kHz",
+      "端子": "—",
+      "サンプルレート": "—"
+    },
+    "shouldFix": [
+      "指向性",
+      "端子"
+    ]
+  },
+  {
+    "id": "mic-dyn-012",
+    "name": "PD200XS",
+    "asin": "B0CX8H5XYW",
+    "file": "mic-dynamic-bestsellers.ts",
+    "missing": [
+      "サンプルレート"
+    ],
+    "values": {
+      "指向性": "単一指向性 (カーディオイド)",
+      "周波数特性": "40Hz-16kHz",
+      "端子": "USB",
+      "サンプルレート": "—"
+    },
+    "shouldFix": [
+      "サンプルレート"
+    ]
+  },
+  {
+    "id": "mic-dyn-013",
+    "name": "ダイナミックマイク 13ftケーブル付き 金属製手持ちハート型 有線 歌/舞台/パーティー用 カ",
+    "asin": "B08762VJFD",
+    "file": "mic-dynamic-bestsellers.ts",
+    "missing": [
+      "指向性",
+      "端子",
+      "サンプルレート"
+    ],
+    "values": {
+      "指向性": "—",
+      "周波数特性": "50Hz-18kHz",
+      "端子": "—",
+      "サンプルレート": "—"
+    },
+    "shouldFix": [
+      "指向性",
+      "端子"
+    ]
+  },
+  {
+    "id": "mic-dyn-014",
+    "name": "CM-2000",
+    "asin": "B000R8KFUU",
+    "file": "mic-dynamic-bestsellers.ts",
+    "missing": [
+      "指向性",
+      "サンプルレート"
+    ],
+    "values": {
+      "指向性": "—",
+      "周波数特性": "50Hz-15kHz",
+      "端子": "XLR",
+      "サンプルレート": "—"
+    },
+    "shouldFix": [
+      "指向性"
+    ]
+  },
+  {
+    "id": "mic-dyn-015",
+    "name": "XS 1",
+    "asin": "B07GCHX2YS",
+    "file": "mic-dynamic-bestsellers.ts",
+    "missing": [
+      "端子",
+      "サンプルレート"
+    ],
+    "values": {
+      "指向性": "単一指向性 (カーディオイド)",
+      "周波数特性": "100Hz-18kHz",
+      "端子": "—",
+      "サンプルレート": "—"
+    },
+    "shouldFix": [
+      "端子"
+    ]
+  },
+  {
+    "id": "mic-dyn-016",
+    "name": "PD100XS",
+    "asin": "B0F1F3PZJF",
+    "file": "mic-dynamic-bestsellers.ts",
+    "missing": [
+      "サンプルレート"
+    ],
+    "values": {
+      "指向性": "単一指向性 (カーディオイド)",
+      "周波数特性": "40Hz-16kHz",
+      "端子": "USB",
+      "サンプルレート": "—"
+    },
+    "shouldFix": [
+      "サンプルレート"
+    ]
+  },
+  {
+    "id": "mic-dyn-019",
+    "name": "JYX カラオケ ダイナミックマイク 単一指向性 PAシステム スピーカー 会議/カラオケ/スピ",
+    "asin": "B09TZWQBMM",
+    "file": "mic-dynamic-bestsellers.ts",
+    "missing": [
+      "周波数特性",
+      "サンプルレート"
+    ],
+    "values": {
+      "指向性": "単一指向性 (カーディオイド)",
+      "周波数特性": "—",
+      "端子": "6.3mm標準プラグ",
+      "サンプルレート": "—"
+    },
+    "shouldFix": [
+      "周波数特性"
+    ]
+  },
+  {
+    "id": "mic-dyn-020",
+    "name": "TD510",
+    "asin": "B0GJP76J2M",
+    "file": "mic-dynamic-bestsellers.ts",
+    "missing": [
+      "サンプルレート"
+    ],
+    "values": {
+      "指向性": "単一指向性 (カーディオイド)",
+      "周波数特性": "20Hz-20kHz",
+      "端子": "USB",
+      "サンプルレート": "—"
+    },
+    "shouldFix": [
+      "サンプルレート"
+    ]
+  },
+  {
+    "id": "mic-dyn-021",
+    "name": "K380S",
+    "asin": "B08X41Z9WC",
+    "file": "mic-dynamic-bestsellers.ts",
+    "missing": [
+      "指向性",
+      "周波数特性",
+      "サンプルレート"
+    ],
+    "values": {
+      "指向性": "—",
+      "周波数特性": "—",
+      "端子": "6.3mm標準プラグ",
+      "サンプルレート": "—"
+    },
+    "shouldFix": [
+      "指向性",
+      "周波数特性"
+    ]
+  },
+  {
+    "id": "mic-dyn-024",
+    "name": "ダイナミックマイク XLR/USB接続、ノイズ低減ゲーミングマイク、単一指向性、音量調節・残響調",
+    "asin": "B0GX7GK558",
+    "file": "mic-dynamic-bestsellers.ts",
+    "missing": [
+      "周波数特性",
+      "サンプルレート"
+    ],
+    "values": {
+      "指向性": "単一指向性 (カーディオイド)",
+      "周波数特性": "—",
+      "端子": "USB",
+      "サンプルレート": "—"
+    },
+    "shouldFix": [
+      "周波数特性",
+      "サンプルレート"
+    ]
+  },
+  {
+    "id": "mic-dyn-025",
+    "name": "ダイナミックマイク ワイヤレスマイク ハンズマイク カラオケマイク 無線マイク 2人用 UHF ",
+    "asin": "B0D8KF3PV2",
+    "file": "mic-dynamic-bestsellers.ts",
+    "missing": [
+      "指向性",
+      "周波数特性",
+      "サンプルレート"
+    ],
+    "values": {
+      "指向性": "—",
+      "周波数特性": "—",
+      "端子": "6.3mm標準プラグ",
+      "サンプルレート": "—"
+    },
+    "shouldFix": [
+      "指向性",
+      "周波数特性"
+    ]
+  },
+  {
+    "id": "mic-dyn-026",
+    "name": "ダイナミックマイク ワイヤレスマイク ハンズマイク カラオケマイク 無線マイク 2人用 UHF ",
+    "asin": "B0D83QTHHV",
+    "file": "mic-dynamic-bestsellers.ts",
+    "missing": [
+      "指向性",
+      "周波数特性",
+      "サンプルレート"
+    ],
+    "values": {
+      "指向性": "—",
+      "周波数特性": "—",
+      "端子": "6.3mm標準プラグ",
+      "サンプルレート": "—"
+    },
+    "shouldFix": [
+      "指向性",
+      "周波数特性"
+    ]
+  },
+  {
+    "id": "mic-dyn-029",
+    "name": "FT-DM7",
+    "asin": "B0G34LCW2F",
+    "file": "mic-dynamic-bestsellers.ts",
+    "missing": [
+      "周波数特性",
+      "端子",
+      "サンプルレート"
+    ],
+    "values": {
+      "指向性": "単一指向性 (カーディオイド)",
+      "周波数特性": "—",
+      "端子": "—",
+      "サンプルレート": "—"
+    },
+    "shouldFix": [
+      "周波数特性",
+      "端子"
+    ]
+  },
+  {
+    "id": "mic-dyn-030",
+    "name": "D10",
+    "asin": "B00TTQM94Q",
+    "file": "mic-dynamic-bestsellers.ts",
+    "missing": [
+      "サンプルレート"
+    ],
+    "values": {
+      "指向性": "単一指向性 (カーディオイド)",
+      "周波数特性": "70Hz-15kHz",
+      "端子": "USB",
+      "サンプルレート": "—"
+    },
+    "shouldFix": [
+      "サンプルレート"
+    ]
+  },
+  {
+    "id": "mic-dyn-034",
+    "name": "AT-X3",
+    "asin": "B0002ERG6K",
+    "file": "mic-dynamic-bestsellers.ts",
+    "missing": [
+      "指向性",
+      "端子",
+      "サンプルレート"
+    ],
+    "values": {
+      "指向性": "—",
+      "周波数特性": "50Hz-18kHz",
+      "端子": "—",
+      "サンプルレート": "—"
+    },
+    "shouldFix": [
+      "指向性",
+      "端子"
+    ]
+  },
+  {
+    "id": "mic-dyn-038",
+    "name": "TD510",
+    "asin": "B0CCVBQRFX",
+    "file": "mic-dynamic-bestsellers.ts",
+    "missing": [
+      "サンプルレート"
+    ],
+    "values": {
+      "指向性": "単一指向性 (カーディオイド)",
+      "周波数特性": "20Hz-20kHz",
+      "端子": "USB",
+      "サンプルレート": "—"
+    },
+    "shouldFix": [
+      "サンプルレート"
+    ]
+  },
+  {
+    "id": "mic-dyn-040",
+    "name": "USB/XLR ゲーミング ダイナミック マイク ポッドキャスト録音用 PC コンピューター ゲ",
+    "asin": "B0DP2C53RF",
+    "file": "mic-dynamic-bestsellers.ts",
+    "missing": [
+      "指向性",
+      "サンプルレート"
+    ],
+    "values": {
+      "指向性": "—",
+      "周波数特性": "50Hz-16kHz",
+      "端子": "USB",
+      "サンプルレート": "—"
+    },
+    "shouldFix": [
+      "指向性",
+      "サンプルレート"
+    ]
+  },
+  {
+    "id": "mic-dyn-041",
+    "name": "D5-Y3",
+    "asin": "B08V8S2NJQ",
+    "file": "mic-dynamic-bestsellers.ts",
+    "missing": [
+      "端子",
+      "サンプルレート"
+    ],
+    "values": {
+      "指向性": "単一指向性 (カーディオイド)",
+      "周波数特性": "70Hz-20kHz",
+      "端子": "—",
+      "サンプルレート": "—"
+    },
+    "shouldFix": [
+      "端子"
+    ]
+  },
+  {
+    "id": "mic-dyn-042",
+    "name": "USB XLR ダイナミックマイク 192kHz/24bit ポッドキャスト用PCマイク 単一指",
+    "asin": "B0F2HR9SZT",
+    "file": "mic-dynamic-bestsellers.ts",
+    "missing": [
+      "サンプルレート"
+    ],
+    "values": {
+      "指向性": "単一指向性 (カーディオイド)",
+      "周波数特性": "40Hz-16kHz",
+      "端子": "USB",
+      "サンプルレート": "—"
+    },
+    "shouldFix": [
+      "サンプルレート"
+    ]
+  },
+  {
+    "id": "mic-dyn-051",
+    "name": "ANM-865",
+    "asin": "B07MW2Z1CD",
+    "file": "mic-dynamic-bestsellers.ts",
+    "missing": [
+      "指向性",
+      "サンプルレート"
+    ],
+    "values": {
+      "指向性": "—",
+      "周波数特性": "100Hz-15kHz",
+      "端子": "6.3mm標準プラグ",
+      "サンプルレート": "—"
+    },
+    "shouldFix": [
+      "指向性"
+    ]
+  }
+]

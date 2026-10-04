@@ -1,0 +1,134 @@
+{
+  "B0GY45PG1F": {
+    "brand": "Padholds",
+    "connection": "有線 USB",
+    "reading": "光学式",
+    "power": "有線給電",
+    "buttonCount": "3"
+  },
+  "B0GMWL5KWX": {
+    "name": "Ring Mouse RMWTB200",
+    "brand": "Futuristec",
+    "connection": "Bluetooth",
+    "reading": "光学式",
+    "power": "充電式（内蔵バッテリー）",
+    "buttonCount": "3"
+  },
+  "B0HCNS2DDW": {
+    "name": "Arc Mouse",
+    "connection": "Bluetooth",
+    "reading": "光学式",
+    "power": "充電式（内蔵バッテリー）",
+    "buttonCount": "3"
+  },
+  "B0GT8P1Z7S": {
+    "name": "Arc Mouse",
+    "connection": "Bluetooth",
+    "reading": "光学式",
+    "power": "充電式（内蔵バッテリー）",
+    "buttonCount": "3"
+  },
+  "B0GYQW8PZ7": {
+    "connection": "Bluetooth 5.4 / 2.4GHz (USBレシーバー)",
+    "reading": "光学式",
+    "power": "充電式 (USB-C)",
+    "buttonCount": "3"
+  },
+  "B0CBCPB2T1": {
+    "name": "Viper V3 HyperSpeed",
+    "brand": "Razer",
+    "connection": "2.4GHz (HyperSpeed Wireless)",
+    "reading": "光学式",
+    "power": "単3形 乾電池×1",
+    "buttonCount": "6"
+  },
+  "B0H6LDM4T4": {
+    "name": "A39R",
+    "brand": "Redbean",
+    "connection": "Bluetooth / 2.4GHz (USBレシーバー)",
+    "reading": "光学式",
+    "power": "充電式 (USB-C)",
+    "buttonCount": "5"
+  },
+  "B0HC2V1SHC": {
+    "connection": "2.4GHz (USBレシーバー)",
+    "reading": "光学式",
+    "power": "充電式（内蔵バッテリー）",
+    "buttonCount": "3"
+  },
+  "B0H73YH8BF": {
+    "connection": "Bluetooth 5.0 / 2.4GHz (USBレシーバー)",
+    "reading": "光学式",
+    "power": "充電式 (USB-C)",
+    "buttonCount": "3"
+  },
+  "B0GTM4P3XS": {
+    "brand": "Philips",
+    "connection": "Bluetooth 5.0 / 2.4GHz (USBレシーバー)",
+    "reading": "光学式",
+    "power": "充電式 (USB-C)",
+    "buttonCount": "7"
+  },
+  "B0GTXF3L34": {
+    "connection": "2.4GHz (USBレシーバー)",
+    "reading": "光学式",
+    "power": "充電式（内蔵バッテリー）",
+    "buttonCount": "6"
+  },
+  "B0CGCXNF6F": {
+    "name": "Pebble Mouse 2 M350S",
+    "brand": "Logicool",
+    "connection": "Bluetooth",
+    "reading": "光学式",
+    "power": "単3形 乾電池×1",
+    "buttonCount": "5"
+  },
+  "B0H2975Z5T": {
+    "name": "350",
+    "brand": "Lenovo",
+    "connection": "Bluetooth 5.3",
+    "reading": "光学式",
+    "power": "単3形 乾電池×1",
+    "buttonCount": "3"
+  },
+  "B0GTYD1H7N": {
+    "connection": "Bluetooth 5.2 / 2.4GHz (USBレシーバー)",
+    "reading": "光学式",
+    "power": "充電式 (USB-C)",
+    "buttonCount": "5"
+  },
+  "B0H8YXFGQQ": {
+    "connection": "Bluetooth 5.3 / 2.4GHz (USBレシーバー)",
+    "reading": "光学式",
+    "power": "充電式 (USB-C)",
+    "buttonCount": "3"
+  },
+  "B0H98WLQZ9": {
+    "name": "BTM010L",
+    "brand": "TPPT",
+    "connection": "Bluetooth",
+    "reading": "光学式",
+    "power": "充電式 (USB-C)",
+    "buttonCount": "5"
+  },
+  "B0HCNLM1TW": {
+    "connection": "Bluetooth 5.4 / 2.4GHz (USBレシーバー)",
+    "reading": "光学式",
+    "power": "充電式 (USB-C)",
+    "buttonCount": "3"
+  },
+  "B0H6X1JLTB": {
+    "connection": "Bluetooth / 2.4GHz (USBレシーバー)",
+    "reading": "光学式",
+    "power": "充電式 (USB-C)",
+    "buttonCount": "3"
+  },
+  "B0H6WTGMPR": {
+    "name": "EZ4-MAWS223BK",
+    "brand": "ELECOM",
+    "connection": "2.4GHz (USBレシーバー)",
+    "reading": "光学式",
+    "power": "充電式 (USB-C)",
+    "buttonCount": "5"
+  }
+}

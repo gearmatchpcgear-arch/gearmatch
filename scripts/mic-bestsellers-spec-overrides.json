@@ -1,0 +1,165 @@
+{
+  "B0B823S1NR": {
+    "name": "AT2020USB-X",
+    "brand": "オーディオテクニカ",
+    "connection": "USB Type-C",
+    "polar": "単一指向性 (カーディオイド)",
+    "type": "コンデンサー",
+    "sampleRate": "96kHz/24bit",
+    "frequency": "20Hz-20kHz",
+    "micFilterTags": ["stand", "condenser"],
+    "features": {
+      "ミュートボタン": "対応",
+      "音量調整": "対応",
+      "イヤホンジャック": "対応"
+    }
+  },
+  "B0DXW278KB": {
+    "name": "QuadCast2",
+    "brand": "HyperX",
+    "connection": "USB",
+    "polar": "単一指向性 (カーディオイド)",
+    "type": "コンデンサー",
+    "sampleRate": "96kHz/24bit",
+    "frequency": "20Hz-20kHz",
+    "micFilterTags": ["stand", "condenser"]
+  },
+  "B0BVVX5FBD": {
+    "name": "AM8",
+    "brand": "FIFINE",
+    "connection": "USB / XLR",
+    "polar": "単一指向性 (カーディオイド)",
+    "type": "ダイナミック",
+    "micFilterTags": ["dynamic", "stand"]
+  },
+  "B097PDS4Y4": {
+    "name": "HS-MC07UBK",
+    "brand": "エレコム",
+    "connection": "USB",
+    "polar": "単一指向性 (カーディオイド)",
+    "type": "コンデンサー",
+    "micFilterTags": ["stand", "condenser"],
+    "features": {
+      "ミュートボタン": "対応",
+      "LED": "対応"
+    }
+  },
+  "B09KNKBCQK": {
+    "name": "A6V",
+    "brand": "FIFINE",
+    "connection": "USB",
+    "polar": "単一指向性 (カーディオイド)",
+    "type": "コンデンサー",
+    "micFilterTags": ["stand", "condenser"]
+  },
+  "B01HGGWB7K": {
+    "name": "HS-MC06BK",
+    "brand": "エレコム",
+    "connection": "3.5mmミニプラグ",
+    "polar": "全指向性",
+    "type": "コンデンサー",
+    "micFilterTags": ["pin", "condenser"]
+  },
+  "B0D4Z8LWXC": {
+    "name": "EJoy Uni",
+    "brand": "COMICA",
+    "connection": "USB",
+    "polar": "単一指向性 (カーディオイド)",
+    "type": "コンデンサー",
+    "micFilterTags": ["stand", "condenser"],
+    "features": {
+      "RGBライティング": "対応",
+      "ミュートボタン": "対応"
+    }
+  },
+  "B0CMTQPWQ8": {
+    "name": "Seiren V3 Mini",
+    "brand": "Razer",
+    "connection": "USB",
+    "polar": "単一指向性 (カーディオイド)",
+    "type": "コンデンサー",
+    "sampleRate": "48kHz/24bit",
+    "frequency": "20Hz-20kHz",
+    "micFilterTags": ["stand", "condenser"],
+    "features": {
+      "ミュートボタン": "タップ式ミュートセンサー"
+    }
+  },
+  "B0B6FTQTS8": {
+    "name": "K054",
+    "brand": "FIFINE",
+    "connection": "USB",
+    "polar": "単一指向性 (カーディオイド)",
+    "type": "コンデンサー",
+    "micFilterTags": ["stand", "condenser"],
+    "features": {
+      "ミュートボタン": "対応",
+      "音量調整": "対応"
+    }
+  },
+  "B0BYZFL8RJ": {
+    "name": "DM30 RGB",
+    "brand": "MAONO",
+    "connection": "USB",
+    "polar": "単一指向性 (カーディオイド)",
+    "type": "コンデンサー",
+    "micFilterTags": ["stand", "condenser"],
+    "features": {
+      "RGBライティング": "対応",
+      "イヤホンジャック": "対応"
+    }
+  },
+  "B0BTGLP2G5": {
+    "name": "HS-MC14UBK",
+    "brand": "エレコム",
+    "connection": "USB",
+    "polar": "単一指向性 (カーディオイド)",
+    "type": "コンデンサー",
+    "micFilterTags": ["stand", "condenser"],
+    "features": {
+      "ミュートボタン": "タッチミュート",
+      "ポップガード": "付属"
+    }
+  },
+  "B0FLKJ7FH7": {
+    "name": "SoloCast 2",
+    "brand": "HyperX",
+    "connection": "USB",
+    "polar": "単一指向性 (カーディオイド)",
+    "type": "コンデンサー",
+    "sampleRate": "48kHz/16bit",
+    "frequency": "20Hz-20kHz",
+    "micFilterTags": ["stand", "condenser"]
+  },
+  "B0G39C97WQ": {
+    "name": "Mic Mini 2 (2 TX + 1 RX + 充電ケース)",
+    "brand": "DJI",
+    "connection": "2.4GHzワイヤレス / Lightning / USB-C / 3.5mm TRS",
+    "polar": "全指向性",
+    "type": "ワイヤレスピンマイク",
+    "sampleRate": "24bit / 48kHz",
+    "frequency": "20Hz-20kHz",
+    "micFilterTags": ["wireless", "pin", "condenser"]
+  },
+  "B0GJZ1TCQP": {
+    "name": "U30K",
+    "brand": "—",
+    "tagline": "360°全指向性集音・ワンタッチミュート・RGBライティング・卓上スタンド付きの有線USBマイク",
+    "connection": "USB",
+    "polar": "全指向性 (360°集音)",
+    "type": "コンデンサー",
+    "micFilterTags": ["stand", "condenser"]
+  },
+  "B0DP54XTCG": {
+    "name": "PD100X",
+    "brand": "MAONO",
+    "connection": "USB / XLR",
+    "polar": "単一指向性 (カーディオイド)",
+    "type": "ダイナミック",
+    "micFilterTags": ["dynamic", "stand"],
+    "features": {
+      "ミュートボタン": "対応",
+      "ノイズキャンセリング": "対応"
+    }
+  }
+}

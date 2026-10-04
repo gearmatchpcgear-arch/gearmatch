@@ -1,0 +1,384 @@
+{
+  "scanned": 2728,
+  "crossCategory": 0,
+  "titleMismatch": 44,
+  "imageMismatch": 2,
+  "pollutedIndexImage": 0,
+  "crossCategoryItems": [],
+  "titleMismatchItems": [
+    {
+      "id": "ai-search-033",
+      "file": "audio-interface-bestsellers.ts",
+      "category": "audio-interface",
+      "name": "ポータブルギター録音インターフェース",
+      "asin": "B0GQYDYLXY",
+      "amazonTitle": "24bit/192kHz オーディオインターフェース ギター、ポータブルなUSB-CおよびLightning対応ギター録音インターフェース | クリアで遅延のない音質、ドライバー不要、iPhone、iPad、Mac、Android、PCに対"
+    },
+    {
+      "id": "ai-rank-065",
+      "file": "audio-interface-bestsellers.ts",
+      "category": "audio-interface",
+      "name": "4ch ストリーミングミキサー",
+      "asin": "B0FQNX9GGV",
+      "amazonTitle": "Audio Mixer with Mute Button, Streaming Audio Interface, 4 Channels, Preamplifier, XLR Input, USB Connection, Plug & Pla"
+    },
+    {
+      "id": "chair-akr-72dwq4",
+      "file": "gaming-chair-akracing-store.ts",
+      "category": "gaming-chair",
+      "name": "オフィスチェア Pro-X JP グレー 国産高耐久PUレザーリクライニング エルゴノミクス JIS規格 5年保証",
+      "asin": "B0DQ72DWQ4",
+      "amazonTitle": "Pro-X JPシリーズ"
+    },
+    {
+      "id": "chair-akr-qk77yh",
+      "file": "gaming-chair-akracing-store.ts",
+      "category": "gaming-chair",
+      "name": "遊戯施設向け高耐久チェア MJ Grey ファシリティチェア ゲーミングチェア デスクチェア 勉強椅子 学習椅子 グレイ 灰 MJ 高耐久PUレザー 135度リクライニング 在宅 リモート",
+      "asin": "B0H4QK77YH",
+      "amazonTitle": "MJ Greyシリーズ"
+    },
+    {
+      "id": "chair-akr-zc81rv",
+      "file": "gaming-chair-akracing-store.ts",
+      "category": "gaming-chair",
+      "name": "ゲーミングチェア Overture パープル 高耐久PUレザー リクライニング エルゴノミクス JIS規格 5年保証",
+      "asin": "B07BZC81RV",
+      "amazonTitle": "Overtureシリーズ"
+    },
+    {
+      "id": "chair-akr-jtj394",
+      "file": "gaming-chair-akracing-store.ts",
+      "category": "gaming-chair",
+      "name": "ゲーミングチェア デスクチェア 勉強机 勉強椅子 学習机 学習椅子 レッド 赤 Nitro V2 高耐久PUレザー 180度リクライニング 在宅 リモート 5年保証",
+      "asin": "B086JTJ394",
+      "amazonTitle": "Nitro V2シリーズ"
+    },
+    {
+      "id": "chair-akr-8e3j3g",
+      "file": "gaming-chair-akracing-store.ts",
+      "category": "gaming-chair",
+      "name": "ゲーミングチェア Wolf レッド ファブリックリクライニング エルゴノミクス JIS規格 5年保証",
+      "asin": "B01G8E3J3G",
+      "amazonTitle": "Wolfシリーズ"
+    },
+    {
+      "id": "chair-akr-2y1z2b",
+      "file": "gaming-chair-akracing-store.ts",
+      "category": "gaming-chair",
+      "name": "ゲーミングチェア Eclair オレンジ 高耐久PUレザー 180度リクライニング エルゴノミクス JIS規格 5年保証",
+      "asin": "B0F62Y1Z2B",
+      "amazonTitle": "Eclairシリーズ"
+    },
+    {
+      "id": "chair-akr-tgc45r",
+      "file": "gaming-chair-akracing-store.ts",
+      "category": "gaming-chair",
+      "name": "Faura インディゴ スエード調ファブリックリクライニング エルゴノミクス JIS規格 5年保証",
+      "asin": "B0GFTGC45R",
+      "amazonTitle": "Fauraシリーズ"
+    },
+    {
+      "id": "chair-akr-qhnk83",
+      "file": "gaming-chair-akracing-store.ts",
+      "category": "gaming-chair",
+      "name": "ゲーミングチェア Pro-X V2 Giants 読売ジャイアンツ 高耐久PUレザーリクライニング 1年保証",
+      "asin": "B094QHNK83",
+      "amazonTitle": "Pro-X V2 ジャイアンツ"
+    },
+    {
+      "id": "chair-akr-943plq",
+      "file": "gaming-chair-akracing-store.ts",
+      "category": "gaming-chair",
+      "name": "ゲーミングチェア Pro-X V2 Dragons 中日ドラゴンズ 高耐久PUレザー リクライニング",
+      "asin": "B0CZ943PLQ",
+      "amazonTitle": "Pro-X V2ドラゴンズ"
+    },
+    {
+      "id": "chair-akr-dry84q",
+      "file": "gaming-chair-akracing-store.ts",
+      "category": "gaming-chair",
+      "name": "ゲーミングチェア Pro-X V2 Lions 埼玉西武ライオンズ 高耐久PUレザー リクライニング",
+      "asin": "B0GXDRY84Q",
+      "amazonTitle": "Pro-X V2 ライオンズ"
+    },
+    {
+      "id": "chair-akr-np6cnx",
+      "file": "gaming-chair-akracing-store.ts",
+      "category": "gaming-chair",
+      "name": "ゲーミングチェア サッカー日本代表ver. 高耐久PUレザーリクライニング",
+      "asin": "B0B6NP6CNX",
+      "amazonTitle": "サッカー日本代表ver."
+    },
+    {
+      "id": "chair-akr-lq86pl",
+      "file": "gaming-chair-akracing-store.ts",
+      "category": "gaming-chair",
+      "name": "ゲーミングチェア FC東京2024 PVCレザーリクライニング Jリーグ",
+      "asin": "B0H2LQ86PL",
+      "amazonTitle": "FC東京2024"
+    },
+    {
+      "id": "chair-sr-062",
+      "file": "gaming-chair-search.ts",
+      "category": "gaming-chair",
+      "name": "ゲーミングベッドチェア 170度 リクライニング 日本ブランド ロッキング機能 ファブリック フ",
+      "asin": "B0DMZFV57P",
+      "amazonTitle": "SIHOO M57 メッシュチェア オフィスチェア 人間工学 椅子 疲れない デスクチェア ブラック | 「S字立体背もたれ 3Dアームレスト 可動式ランバーサポート 126°リクライニング 2Dヘッドレスト」pcチェア メッシュ パソコン"
+    },
+    {
+      "id": "k-bs-024",
+      "file": "keyboard-bestsellers.ts",
+      "category": "keyboard",
+      "name": "Ewin キーボード ワイヤレス 折りたたみ bluetoothとusb無線両対応 標準JIS日本語配列 ios mac win対応",
+      "asin": "B0DK5GRBFY",
+      "amazonTitle": "エレコム メカニカルキーボード Leggero 静音 有線 テンキーレス Nキーロールオーバー対応 5000万回高耐久スイッチ採用 赤軸 ブラック TK-MC30UKPBK"
+    },
+    {
+      "id": "k-gbs-003",
+      "file": "keyboard-gaming-bestsellers.ts",
+      "category": "keyboard",
+      "name": "Logicool G PRO ゲーミングキーボード G-PKB-002LNd テンキーレス リニア 赤軸 日本語配列",
+      "asin": "B0BC135WFD",
+      "amazonTitle": "Pulsar Gaming Gears [Pro Series] PCMK 3HE TKL Something Edition ゲーミング キーボード JIS 日本語配列 91キー 磁気スイッチ 8K Polling Rate【国内正規品】"
+    },
+    {
+      "id": "k-gbs-010",
+      "file": "keyboard-gaming-bestsellers.ts",
+      "category": "keyboard",
+      "name": "TURTLE BEACH ラピッドトリガー 搭載 ゲーミングキーボード Vulcan II TKL Pro リアクタップ(SOCDクリーナ…",
+      "asin": "B0BC135WFD",
+      "amazonTitle": "Pulsar Gaming Gears [Pro Series] PCMK 3HE TKL Something Edition ゲーミング キーボード JIS 日本語配列 91キー 磁気スイッチ 8K Polling Rate【国内正規品】"
+    },
+    {
+      "id": "k-gnr-p2-056",
+      "file": "keyboard-gaming-new-releases-page2.ts",
+      "category": "keyboard",
+      "name": "片手マクロキーボード 3キー+ノブ",
+      "asin": "B0H3QRWLLV",
+      "amazonTitle": "片手マクロキーボード USBミニキーパッド プログラム可能なキーパッド ミニメカニカルキーボード 押せるノブ付き カスタムキー 赤いスイッチ OS PCゲーム用 (キー3個、ノブ1個)"
+    },
+    {
+      "id": "k-gnr-p2-065",
+      "file": "keyboard-gaming-new-releases-page2.ts",
+      "category": "keyboard",
+      "name": "EPOMAKER TH80 V2 PRO ワイヤレスゲーミングキーボード 画面＆ノブ付き10000mAh 2.4GHz/BT/USB-C RGB",
+      "asin": "B0GL8558SZ",
+      "amazonTitle": "ATTACK SHARK R68HE R5 Ultra ゲーミングキーボードマウスセット ラピッドトリガー 8K 0.005mmRT精度 氷忍 | e-スポーツセット カーボンファイバー Nordic52840 PAW3950MAX 0.1"
+    },
+    {
+      "id": "k-nr2-065",
+      "file": "keyboard-new-releases-page2.ts",
+      "category": "keyboard",
+      "name": "ミニキーボード 有線 78キー（白）",
+      "asin": "B0GV2PT85S",
+      "amazonTitle": "【USB Type-C対応】ミニキーボード 有線 78キー 薄型 静音 高耐久レーザー刻印 軽量230g プロ仕様 ゼロ遅延 オフィス対応 (白)"
+    },
+    {
+      "id": "k-nr2-069",
+      "file": "keyboard-new-releases-page2.ts",
+      "category": "keyboard",
+      "name": "88キー USB 有線キーボード（トラックボール内蔵）",
+      "asin": "B0H8TRGL4J",
+      "amazonTitle": "光学式トラックボールと産業用制御システム用の 3 ボタン設計を内蔵した 88Key 人間工学に基づいた USB 有線キーボード トラックボール付き産業用 USB キーボード"
+    },
+    {
+      "id": "k-nr-013",
+      "file": "keyboard-new-releases.ts",
+      "category": "keyboard",
+      "name": "Acogedor 小型スマホ用キーボード、Bluetooth・有線接続対応、ノートPC・タブレット・スマホ用充電式キーボード、コンパクトサ…",
+      "asin": "B0GXSLC6FN",
+      "amazonTitle": "Acogedor 小型スマホ用キーボード、Bluetooth・有線接続対応、ノートPC・タブレット・スマホ用充電式キーボード、コンパクトサイズ、旅行に持ち運びやすい (バックライト付きブラック)"
+    },
+    {
+      "id": "k-nr-016",
+      "file": "keyboard-new-releases.ts",
+      "category": "keyboard",
+      "name": "SENECESLI 韓国語キーボード、78キーUSB有線超スリム軽量こぼれ防止人間工学に基づいたチルトデザイン、色あせ防止PCラップトップ…",
+      "asin": "B0GYK62QS1",
+      "amazonTitle": "SENECESLI 韓国語キーボード、78キーUSB有線超スリム軽量こぼれ防止人間工学に基づいたチルトデザイン、色あせ防止PCラップトップデスクトホームオフィスタイピング用"
+    },
+    {
+      "id": "k-nr-017",
+      "file": "keyboard-new-releases.ts",
+      "category": "keyboard",
+      "name": "Acogedor 小型 Bluetooth キーボード",
+      "asin": "B0GX14MGRS",
+      "amazonTitle": "M5Stack 公式 CardKB v1.1 ミニ 50キー QWERTY キーボード ユニット ATMega8A MCU I2C RGB LED搭載 UIFlow対応プログラマブル MEGA8A M5Stack用キーボード 小型 IoT入"
+    },
+    {
+      "id": "k-tbl-030",
+      "file": "keyboard-tablet-bestsellers.ts",
+      "category": "keyboard",
+      "name": "Ewin アップルモデル専用/Bluetooth & 2.4GHz対応 ワイヤレスミニキーボード JIS日本語配列 タッチパッド＆マウスホ…",
+      "asin": "B0F9FPR8MQ",
+      "amazonTitle": "HOU 対応 iPad mini 6/7(A17 Pro)キーボード付きケース | 【業界超薄・軽量】0-180°角度調整、マグネット充電、残量表示、傷や摩耗に強いセミシリコンPU生地、開口部なし設計、【英语配列】"
+    },
+    {
+      "id": "mic-bs2-067",
+      "file": "mic-bestsellers-page2.ts",
+      "category": "mic",
+      "name": "USBピンマイク 小型 全指向性 高感度 防風 録音 会議 カラオケ対応",
+      "asin": "B0GTVG1FBT",
+      "amazonTitle": "USB ピンマイク 小型全方向性マイクロフォン 高感度 防風 録音・会議・カラオケ・インタビュー・VLOG・ゲーム実況対応"
+    },
+    {
+      "id": "mic-dyn2-061",
+      "file": "mic-dynamic-bestsellers-page2.ts",
+      "category": "mic",
+      "name": "TOA DM-1200ハンド型ダイナミックマイク DM-1200",
+      "asin": "B0GQGP99Y7",
+      "amazonTitle": "TOA DM-1200 Hand Type Dynamic Microphone DM-1200"
+    },
+    {
+      "id": "mic-dyn-009",
+      "file": "mic-dynamic-bestsellers.ts",
+      "category": "mic",
+      "name": "SM58",
+      "asin": "B000GUBOYU",
+      "amazonTitle": "Switch2/Switch用 カラオケマイク【2026年NEWモデル・2本セット】 2.0US"
+    },
+    {
+      "id": "arm-bs-024",
+      "file": "monitor-arm-bestsellers.ts",
+      "category": "monitor-arm",
+      "name": "無重力モニターアーム Pro",
+      "asin": "B09LV6VVHQ",
+      "amazonTitle": "BONTEC デュアルモニターアーム 13～32インチ対応 各アーム耐荷重10kg VESA75×75・100×100mm クランプ・グロメット式 | 高さ調整・スイベル・チルト・360°回転に対応、ケーブル管理付き、デスク周りをすっきり整"
+    },
+    {
+      "id": "mon-bs2-003",
+      "file": "monitor-bestsellers-page2.ts",
+      "category": "monitor",
+      "name": "EV2740S-AMZBK",
+      "asin": "B0FSR8RKDF",
+      "amazonTitle": "IODATA GCFX ゲーミングモニター 24.5型 240Hz 1ms (HDMI/DP/VESA/チルト角調整) EX-GD251UH | HFSパネル, HDR対応"
+    },
+    {
+      "id": "mon-bs2-007",
+      "file": "monitor-bestsellers-page2.ts",
+      "category": "monitor",
+      "name": "15.6型 モバイルモニター",
+      "asin": "B0DZNM8V94",
+      "amazonTitle": "【Switch2ドック不要】cocopar モバイルモニター 16インチ 144Hz 2.5K 100%sRGB 450nits 670g 軽量 | 2560×1600 16:10 120Hz HDR FreeSync VESA対応 非光沢"
+    },
+    {
+      "id": "mon-lenovo-1822-021",
+      "file": "monitor-lenovo-search-1822.ts",
+      "category": "monitor",
+      "name": "19.5\\",
+      "asin": "B01B5EFJ1Y",
+      "amazonTitle": "19.5\" E2054 Monitor"
+    },
+    {
+      "id": "mon-lenovo-26-042",
+      "file": "monitor-lenovo-search-26plus.ts",
+      "category": "monitor",
+      "name": "ThinkVision T32p-20",
+      "asin": "B085S89955",
+      "amazonTitle": "T32P-20"
+    },
+    {
+      "id": "mon-nr2-014",
+      "file": "monitor-new-releases-page2.ts",
+      "category": "monitor",
+      "name": "15.6型 デュアルモバイルモニター",
+      "asin": "B0GTD6N932",
+      "amazonTitle": "15.6インチ ディアルモバイルモニター【ケーブル一本接続可能】 2画面 ノートパソコン用 1080P ポータブルディスプレイ USB-C接続 全パソコン対応 アルミ製拡張スクリーン Windows、Mac、Chrome対応 P7pro"
+    },
+    {
+      "id": "mon-nr-015",
+      "file": "monitor-new-releases.ts",
+      "category": "monitor",
+      "name": "KIMOCA 7インチ モバイルモニター IPS液晶 1024×600",
+      "asin": "B0GYMYCTXL",
+      "amazonTitle": "【整備済み品】 富士通 VL-E22-8T 21.5インチワイド 液晶モニター ディスプレイ 解像度1920x1080 フルHD IPSパネル ディスプレイポート/HDMI/VGA/VESA/スピーカ内蔵/角度調整/ブラック(Ymer)"
+    },
+    {
+      "id": "mon-hfr144-p2-043",
+      "file": "monitor-refresh144-search-page2.ts",
+      "category": "monitor",
+      "name": "18.5型 モバイルモニター",
+      "asin": "B0DP46W461",
+      "amazonTitle": "Coolhood 18.5 Inch Mobile Monitor, Mobile Display Gaming Monitor 100% sRGB 120Hz 1920x1080 FHD HDR Mode, FreeSync, VESA "
+    },
+    {
+      "id": "mon-hfr144-p2-049",
+      "file": "monitor-refresh144-search-page2.ts",
+      "category": "monitor",
+      "name": "18.5\\",
+      "asin": "B0CB45H7XP",
+      "amazonTitle": "18.5\" Portable Monitor Ultra Thin 0.3\" 1080P IPS Glossy 120Hz Gaming Monitor USB-C HDMI Connectivity External Display Sl"
+    },
+    {
+      "id": "mon-hfr144-071",
+      "file": "monitor-refresh144-search.ts",
+      "category": "monitor",
+      "name": "18.5型 モバイルモニター",
+      "asin": "B0FZR7BRBY",
+      "amazonTitle": "Newsoul Mobile Monitor, 18.5 inches, 120 Hz, Portable Monitor, Gaming Monitor, Large Screen, 125% RGB Wide Color Gamut, "
+    },
+    {
+      "id": "mon-hfr144-090",
+      "file": "monitor-refresh144-search.ts",
+      "category": "monitor",
+      "name": "18.5型 モバイルモニター",
+      "asin": "B0DP46W461",
+      "amazonTitle": "Coolhood 18.5 Inch Mobile Monitor, Mobile Display Gaming Monitor 100% sRGB 120Hz 1920x1080 FHD HDR Mode, FreeSync, VESA "
+    },
+    {
+      "id": "mon-hfr144-096",
+      "file": "monitor-refresh144-search.ts",
+      "category": "monitor",
+      "name": "18.5\\",
+      "asin": "B0CB45H7XP",
+      "amazonTitle": "18.5\" Portable Monitor Ultra Thin 0.3\" 1080P IPS Glossy 120Hz Gaming Monitor USB-C HDMI Connectivity External Display Sl"
+    },
+    {
+      "id": "mon-s22120-050",
+      "file": "monitor-search-22-120.ts",
+      "category": "monitor",
+      "name": "23.8型 モバイルモニター",
+      "asin": "B0F7J54214",
+      "amazonTitle": "23.8 Inch Portable Monitor, 1080P Mobile Monitor 120Hz FHD HDR Plug and Play HDMI IPS Mobile Display with Dual Speakers,"
+    },
+    {
+      "id": "m-gbs-033",
+      "file": "mouse-gaming-bestsellers.ts",
+      "category": "mouse",
+      "name": "Rival 3 Gen 2",
+      "asin": "B08PY5GRTS",
+      "amazonTitle": "レイザー】Razer DEATHADDER ESSENTIAL 有線ゲーミングマウス 6,400 DPI ５ボタン 高耐久 (Black) [並行輸入品]"
+    },
+    {
+      "id": "m-pb-075",
+      "file": "mouse-popular-brands.ts",
+      "category": "mouse",
+      "name": "HP超薄型BluetoothマウスSe。",
+      "asin": "B01FO4DN7S",
+      "amazonTitle": "HP Ultra Thin Bluetooth Mouse Se"
+    }
+  ],
+  "imageMismatchItems": [
+    {
+      "id": "mon-lenovo-001",
+      "file": "monitor-lenovo-search.ts",
+      "category": "monitor",
+      "name": "L24-41",
+      "asin": "B0G42QB93M",
+      "cardImage": "https://m.media-amazon.com/images/I/610o5mrvwQL._AC_SL1500_.jpg",
+      "indexImage": "https://m.media-amazon.com/images/I/71tdguv6GFL._AC_SL1500_.jpg"
+    },
+    {
+      "id": "mon-lenovo-002",
+      "file": "monitor-lenovo-search.ts",
+      "category": "monitor",
+      "name": "ThinkCentre Tiny-in-One 24 Gen 4",
+      "asin": "B0HBVT2TDK",
+      "cardImage": "https://m.media-amazon.com/images/I/61yVcc5gM-L._AC_SL1500_.jpg",
+      "indexImage": "https://m.media-amazon.com/images/I/61-xrY136pL._AC_SL1500_.jpg"
+    }
+  ],
+  "pollutedIndexImageItems": [],
+  "generatedAt": "2026-08-16T10:24:47.824Z"
+}

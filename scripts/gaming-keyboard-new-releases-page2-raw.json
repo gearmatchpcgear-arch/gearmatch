@@ -1,0 +1,579 @@
+{
+  "fetchedAt": "2026-08-14T01:17:38.650Z",
+  "url": "https://www.amazon.co.jp/gp/new-releases/computers/2151972051/ref=zg_bsnr_pg_2_computers?ie=UTF8&pg=2",
+  "keyboards": [
+    {
+      "amazonRank": 51,
+      "asin": "B0H7JGLPD2",
+      "title": "ゲーミングキーボード 0.005mmラピッドトリガー 磁気スイッチ キーボード 有線 XZILEX ポーリングレート8000Hz対応 0.125ms超低遅延 68キー テンキーレス カスタマイズ可能 日本語Webドライバー セミ透明キーキャップ 英語",
+      "rating": 4.6,
+      "reviews": 3,
+      "price": 12980,
+      "image": "https://m.media-amazon.com/images/I/71Pg-++tREL._AC_SL1500_.jpg",
+      "rank": 51
+    },
+    {
+      "amazonRank": 52,
+      "asin": "B0GTYWXPZ6",
+      "title": "RK ROYAL KLUDGE RK84 有線 75% RGB ホットスワップ対応メカニカルゲーミングキーボード、US QWERTY レイアウト | 84キーコンパクトTKLゲーミングキーボード Mac/Win対応プログラマブルソフトウェア付属、吸音",
+      "rating": 5,
+      "reviews": 3,
+      "price": 7499,
+      "image": "https://m.media-amazon.com/images/I/61d-h7dpG4L._AC_SL1500_.jpg",
+      "rank": 52
+    },
+    {
+      "amazonRank": 53,
+      "asin": "B0G39189M1",
+      "title": "センチュリー 「RACEN」磁気スイッチ式 日本語配列 テンキーレスゲーミングキーボード 色：ホワイト CRC-GKMGRT01WT2_FP ラピッドトリガー 国内サポート キートップ／スイッチリムーバー付き",
+      "rating": 5,
+      "reviews": 3,
+      "price": 9980,
+      "image": "https://m.media-amazon.com/images/I/71EbpyKkFIL._AC_SL1500_.jpg",
+      "rank": 53
+    },
+    {
+      "amazonRank": 54,
+      "asin": "B0GSRDR1DR",
+      "title": "センチュリー 「RACEN」磁気スイッチ式 日本語配列 テンキーレスゲーミングキーボード 色：ホワイト CRC-GKMGRT01WT2_FP ラピッドトリガー 国内サポート キートップ／スイッチリムーバー付き",
+      "rating": 2.9,
+      "reviews": 4,
+      "price": 9900,
+      "image": "https://m.media-amazon.com/images/I/61LbBZjqdoL._AC_SL1500_.jpg",
+      "rank": 54
+    },
+    {
+      "amazonRank": 55,
+      "asin": "B0GTV7RS88",
+      "title": "RK ROYAL KLUDGE RK920 フルサイズ メカニカルキーボード 有線・RGBバックライト搭載、US QWERTY レイアウト | 104キーコンピュータキーボード、ホットスワップ対応カスタムスイッチ、ダブルショットPBTキ​​ーキャップ、アンチゴースト機能搭載ゲーミングキーボード PC/Mac対応",
+      "rating": 5,
+      "reviews": 1,
+      "price": 11999,
+      "image": "https://m.media-amazon.com/images/I/61ZNdHiRxXL._AC_SL1500_.jpg",
+      "rank": 55
+    },
+    {
+      "amazonRank": 56,
+      "asin": "B0H3QRWLLV",
+      "title": "片手マクロキーボード USBミニキーパッド プログラム可能なキーパッド ミニメカニカルキーボード 押せるノブ付き カスタムキー 赤いスイッチ OS PCゲーム用 (キー3個、ノブ1個)",
+      "rating": 4,
+      "reviews": 0,
+      "price": 1423,
+      "image": "https://m.media-amazon.com/images/I/61lguqGsROL._AC_SL1500_.jpg",
+      "rank": 56
+    },
+    {
+      "amazonRank": 58,
+      "asin": "B0H3BVSHSB",
+      "title": "プログラマブル2キーメカニカルキーボードノブ付き、ホットスワップ可能なブルースイッチ、カスタマイズ可能なマクロキー、取り外し可能なケーブル、ゲームや作業用",
+      "rating": 4,
+      "reviews": 0,
+      "price": 1455,
+      "image": "https://m.media-amazon.com/images/I/81acCeJfGJL._AC_SL1500_.jpg",
+      "rank": 58
+    },
+    {
+      "amazonRank": 59,
+      "asin": "B0H6WGQQV8",
+      "title": "0.005mmラピッドトリガー搭載 GravaStar Mercury V75 ゲーミングキーボード クリアブラック 有線 75%レイアウト | カスタムUFO磁気スイッチ ポーリングレート8000Hz対応 0.125ms超低遅延 磁気式スイッチ 透",
+      "rating": 4,
+      "reviews": 0,
+      "price": 26980,
+      "image": "https://m.media-amazon.com/images/I/71AqpDidLvL._AC_SL1500_.jpg",
+      "rank": 59
+    },
+    {
+      "amazonRank": 60,
+      "asin": "B0GVYPKVHV",
+      "title": "【Amazon.co.jp限定】 Logicool G 8000Hz ラピッドトリガー ホットスワップ G512 X 98 ゲーミングキーボード リニア ガスケットマウント 日本語配列 G512X-98-LNWHd アクチュエーションポイント 調整可能 有線 磁気式アナログスイッチ メカニカル LIGHTSYNC RGB テンキー キーボード 国内正規品 ※Amazon限定の壁紙ダウンロード付き",
+      "rating": 3.9,
+      "reviews": 20,
+      "price": 13970,
+      "image": "https://m.media-amazon.com/images/I/81WPnp9thsL._AC_SL1500_.jpg",
+      "rank": 60
+    },
+    {
+      "amazonRank": 61,
+      "asin": "B0GJ8S81TB",
+      "title": "【Amazon.co.jp限定】 Logicool G 8000Hz ラピッドトリガー ホットスワップ G512 X 98 ゲーミングキーボード リニア ガスケットマウント 日本語配列 G512X-98-LNWHd アクチュエーションポイント 調整可能 有線 磁気式アナログスイッチ メカニカル LIGHTSYNC RGB テンキー キーボード 国内正規品 ※Amazon限定の壁紙ダウンロード付き",
+      "rating": 3.9,
+      "reviews": 20,
+      "price": 32800,
+      "image": "https://m.media-amazon.com/images/I/61+EWfuK07L._AC_SL1500_.jpg",
+      "rank": 61
+    },
+    {
+      "amazonRank": 62,
+      "asin": "B0GYS8XGGS",
+      "title": "Razer(レイザー) ラピッドトリガー 搭載 Huntsman V3 Pro JP 調整可能なアクチュエーション搭載のアナログ ゲーミングキーボード オプティカルスイッチ 押下圧 40G リストレスト付属 日本語配列 ハンツマンブイスリープロ ジェイピー【日本正規代理店保証品】",
+      "rating": 4,
+      "reviews": 52,
+      "price": 30218,
+      "image": "https://m.media-amazon.com/images/I/71k+10lN3ML._AC_SL1500_.jpg",
+      "rank": 62
+    },
+    {
+      "amazonRank": 63,
+      "asin": "B0GL71RMDH",
+      "title": "Razer(レイザー) ラピッドトリガー 搭載 Huntsman V3 Pro JP 調整可能なアクチュエーション搭載のアナログ ゲーミングキーボード オプティカルスイッチ 押下圧 40G リストレスト付属 日本語配列 ハンツマンブイスリープロ ジェイピー【日本正規代理店保証品】",
+      "rating": 4,
+      "reviews": 52,
+      "price": 36980,
+      "image": "https://m.media-amazon.com/images/I/71j9o9powXL._AC_SL1500_.jpg",
+      "rank": 63
+    },
+    {
+      "amazonRank": 64,
+      "asin": "B0GWD2D7S3",
+      "title": "【Amazon.co.jp限定】TURTLE BEACH Command Series KB7 ゲーミングキーボード 有線 TKL 英語US配列｜4.3インチタッチスクリーン搭載｜ホールエフェクトスイッチ｜8Kポーリングレート｜RGBライティング｜ロープロファイル｜Windows対応【メーカー保証2年+代理店保証6ヶ月】",
+      "rating": 3,
+      "reviews": 23,
+      "price": 29800,
+      "image": "https://m.media-amazon.com/images/I/71B1-t4xuRL._AC_SL1500_.jpg",
+      "rank": 64
+    },
+    {
+      "amazonRank": 65,
+      "asin": "B0GL8558SZ",
+      "title": "ATTACK SHARK R68HE R5 Ultra ゲーミングキーボードマウスセット ラピッドトリガー 8K 0.005mmRT精度 氷忍 | e-スポーツセット カーボンファイバー Nordic52840 PAW3950MAX 0.125ms低遅延 8000Hz 磁気スイッチ 0.08msディレイ CNC RGB サイドライト ホットスワップ 国内正規品 有線キーボード&無線マウス",
+      "rating": 4.7,
+      "reviews": 118,
+      "price": 24099,
+      "image": "https://m.media-amazon.com/images/I/71Eylvf-QtL._AC_SL1500_.jpg",
+      "rank": 65
+    },
+    {
+      "amazonRank": 66,
+      "asin": "B0GTQ2J4MX",
+      "title": "ATTACK SHARK R68HE R5 Ultra ゲーミングキーボードマウスセット ラピッドトリガー 8K 0.005mmRT精度 氷忍 | e-スポーツセット カーボンファイバー Nordic52840 PAW3950MAX 0.125ms低遅延 8000Hz 磁気スイッチ 0.08msディレイ CNC RGB サイドライト ホットスワップ 国内正規品 有線キーボード&無線マウス",
+      "rating": 4.3,
+      "reviews": 9,
+      "price": 24099,
+      "image": "https://m.media-amazon.com/images/I/71dijq-08oL._AC_SL1500_.jpg",
+      "rank": 66
+    },
+    {
+      "amazonRank": 67,
+      "asin": "B0H28JZ135",
+      "title": "【Amazon.co.jp限定】ASUS ROG Strix Morph 96 Wireless Gaming Keyboard ブラック / 96%レイアウトゲーミングキーボード/日本語配列/メカニカルスイッチ/スピードタップモード/ホットスワップ対応/エルゴノミクス/トライモード接続/ABS/ブラウザ上で設定が可能/国内正規品",
+      "rating": 4.6,
+      "reviews": 3,
+      "price": 26096,
+      "image": "https://m.media-amazon.com/images/I/71hwRpbbgqL._AC_SL1500_.jpg",
+      "rank": 67
+    },
+    {
+      "amazonRank": 68,
+      "asin": "B0GCFHZC7S",
+      "title": "KiiBOOM Phantom98 Lite 96% ワイヤレス ゲーミングキーボード VIAプログラマブル対応 クリーミーガスケット構造 かわいいキーボード 8000mAhバッテリー メカニカルキーボード NKRO ホットスワップ対応 RGBバックライト付き Windows/Mac対応 (Clear, Mossy Silent Switch)",
+      "rating": 4.8,
+      "reviews": 56,
+      "price": 19450,
+      "image": "https://m.media-amazon.com/images/I/61r4BTsQJKL._AC_SL1500_.jpg",
+      "rank": 68
+    },
+    {
+      "amazonRank": 69,
+      "asin": "B0GLYNHB9L",
+      "title": "EPOMAKER HE108 ラピトリ ホール効果ゲーミングキーボード 8Kポーリング＆128Kスキャン SOCD & DKS ホットスワップ対応 | 2.4GHz/BT/USB有線 108キーフルサイズ 0.005mmアクチュエーションポイント 調整可能 高速トリガー カスタムRGB ガスケット 10000mAh Windows Mac対応 (White)",
+      "rating": 4.4,
+      "reviews": 14,
+      "price": 16800,
+      "image": "https://m.media-amazon.com/images/I/61sZX0uUe0L._AC_SL1500_.jpg",
+      "rank": 69
+    },
+    {
+      "amazonRank": 70,
+      "asin": "B0GYVHJ5R2",
+      "title": "DAREU FLEX75 ゲーミングキーボード 無線 ガスケット メカニカルキーボード 75% テンキーレス 英語配列 2.4Gワイヤレス/Bluetooth/有線USB接続可能 ホットスワップ対応 音量調節ノブ付き 赤兎軸（リニア類赤軸） 白/ホワイト 技適認証取得【1年間メーカー保証】",
+      "rating": 4.5,
+      "reviews": 41,
+      "price": 8960,
+      "image": "https://m.media-amazon.com/images/I/61ja-kbcERL._AC_SL1500_.jpg",
+      "rank": 70
+    },
+    {
+      "amazonRank": 71,
+      "asin": "B0GNMGY3V7",
+      "title": "REALFORCE × 猫麦とろろ GX1 Plus Keyboard 45g 日本語配列 ブラック 2色成形 昇華印刷 静電容量無接点方式 ラピッドトリガー 8000Hz 最速0.1mm作動 PBT リアルフォース 日本製 かな無し アクリルスタンド同梱 X1PCT1",
+      "rating": 4.9,
+      "reviews": 11,
+      "price": 47800,
+      "image": "https://m.media-amazon.com/images/I/61d7SbgWItL._AC_SL1500_.jpg",
+      "rank": 71
+    },
+    {
+      "amazonRank": 72,
+      "asin": "B0G4N4K5W5",
+      "title": "CORSAIR GALLEON 100 SD有線メカニカルキーボード日本語配列 – 黒 CH-912A31I-JP | Elgato Stream Deckの統合、潤滑済みホットスワップ可能なMLXパルス・トッキー・キースイッチ、PBTダブルショット",
+      "rating": 4.3,
+      "reviews": 16,
+      "price": 47146,
+      "image": "https://m.media-amazon.com/images/I/71aydEKxr3L._AC_SL1500_.jpg",
+      "rank": 72
+    },
+    {
+      "amazonRank": 73,
+      "asin": "B0HC6RCJRT",
+      "title": "NuPhy Air75 V3 ホットスワップ対応 ワイヤレスメカニカルキーボード 84キー 75％配列 カスタムロープロファイルキーボード ノブ付き RGBバックライト ガスケットマウント Bluetooth/2.4GHz/USB-C対応、ブラック、",
+      "rating": 1,
+      "reviews": 1,
+      "price": 24420,
+      "image": "https://m.media-amazon.com/images/I/61pv1QsPs5L._AC_SL1500_.jpg",
+      "rank": 73
+    },
+    {
+      "amazonRank": 74,
+      "asin": "B0H3VF5MMT",
+      "title": "YUNZII WOOD84 ワイヤレスメカニカルキーボード 75%レイアウト 木製 ゲーミングキーボード BT/2.4G/USB-C 3モード RGBバックライト トレイマウント構造 ホットスワップ対応 カスタムキーボード PBT昇華印刷キーキャップ Mac/Windows対応 (ウッドカラー, キャンディリニアスイッチ)",
+      "rating": 4.5,
+      "reviews": 45,
+      "price": 24420,
+      "image": "https://m.media-amazon.com/images/I/717CnPEVyRL._AC_SL1500_.jpg",
+      "rank": 74
+    },
+    {
+      "amazonRank": 75,
+      "asin": "B0GTLFFPR5",
+      "title": "YUNZII WOOD84 ワイヤレスメカニカルキーボード 75%レイアウト 木製 ゲーミングキーボード BT/2.4G/USB-C 3モード RGBバックライト トレイマウント構造 ホットスワップ対応 カスタムキーボード PBT昇華印刷キーキャップ Mac/Windows対応 (ウッドカラー, キャンディリニアスイッチ)",
+      "rating": 4.5,
+      "reviews": 45,
+      "price": 15553,
+      "image": "https://m.media-amazon.com/images/I/71gylzY7HKL._AC_SL1500_.jpg",
+      "rank": 75
+    },
+    {
+      "amazonRank": 76,
+      "asin": "B0H26J5W2T",
+      "title": "YUNZII C98 ワイヤレスメカニカルキーボード テンキー付き 透明Maoキャップ 98キー BT5.0/2.4GHz/USB-C ホットスワップ ガスケットマウント キーボード カスタムRGBバックライト搭載 可愛いケーキ Win/Mac対応 技適認証取得 (パープル, キャンディスイッチ)",
+      "rating": 4.8,
+      "reviews": 26,
+      "price": 16342,
+      "image": "https://m.media-amazon.com/images/I/71s09r80FkL._AC_SL1500_.jpg",
+      "rank": 76
+    },
+    {
+      "amazonRank": 77,
+      "asin": "B0GZZCKP9J",
+      "title": "Womier M98 ワイヤレスメカニカルキーボード 無線 96％レイアウト ゲーミングキーボード テンキー付き ガスケット 画面とノブ付き | BT/2.4G/USB-C接続、ホットスワップ対応、8000mAhバッテリー搭載、ゲーミング用",
+      "rating": 5,
+      "reviews": 2,
+      "price": 12599,
+      "image": "https://m.media-amazon.com/images/I/61Tus64Vq8L._AC_SL1500_.jpg",
+      "rank": 77
+    },
+    {
+      "amazonRank": 78,
+      "asin": "B0GS1ZKBJV",
+      "title": "【日本正規代理店】EverGlide AE68 Pro Black Translucent ラピッドトリガーキーボード",
+      "rating": 4,
+      "reviews": 0,
+      "price": 8909,
+      "image": "https://m.media-amazon.com/images/I/71sOilLySiL._AC_SL1500_.jpg",
+      "rank": 78
+    },
+    {
+      "amazonRank": 79,
+      "asin": "B0H2LTK7QQ",
+      "title": "XEANIXIE OU108 メカニカルキーボード JIS 日本語配列 青軸 | 有線 108 キー フルサイズ LEDバックライト ホットスワップ アルミ合金パネル テンキー付き Windows/PS4/PS5対応 ゲーミング・オフィス兼用 ブラッ",
+      "rating": 4,
+      "reviews": 0,
+      "price": 6999,
+      "image": "https://m.media-amazon.com/images/I/61VNYkMItTL._AC_SL1500_.jpg",
+      "rank": 79
+    },
+    {
+      "amazonRank": 80,
+      "asin": "B0H1ZNBCR4",
+      "title": "AJAZZ AK820V2 ゲーミングキーボード 75% ラピッドトリガー Hall Effect 磁気スイッチ 0.001mm RT 8KHzポーリングレート 0.08ms超低遅延 USB-C有線 SOCD DKS RS END対応 RGBバックラ",
+      "rating": 4,
+      "reviews": 0,
+      "price": 9380,
+      "image": "https://m.media-amazon.com/images/I/61GKkOknndL._AC_SL1500_.jpg",
+      "rank": 80
+    }
+  ],
+  "excluded": [
+    {
+      "amazonRank": 57,
+      "asin": "B0H1HTW363",
+      "title": "Itisyou 2個セットタブレット用コントローラー 6ボタンゲームパッド 多機能電子機器スタンド タブレットやスマートフォンに対応",
+      "rating": 4,
+      "reviews": 0,
+      "price": 1689,
+      "image": "https://m.media-amazon.com/images/I/61vQnBMR+UL._AC_SL1500_.jpg"
+    }
+  ],
+  "raw": [
+    {
+      "amazonRank": 51,
+      "asin": "B0H7JGLPD2",
+      "title": "ゲーミングキーボード 0.005mmラピッドトリガー 磁気スイッチ キーボード 有線 XZILEX ポーリングレート8000Hz対応 0.125ms超低遅延 68キー テンキーレス カスタマイズ可能 日本語Webドライバー セミ透明キーキャップ 英語",
+      "rating": 4.6,
+      "reviews": 3,
+      "price": 12980,
+      "image": "https://m.media-amazon.com/images/I/71Pg-++tREL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 52,
+      "asin": "B0GTYWXPZ6",
+      "title": "RK ROYAL KLUDGE RK84 有線 75% RGB ホットスワップ対応メカニカルゲーミングキーボード、US QWERTY レイアウト | 84キーコンパクトTKLゲーミングキーボード Mac/Win対応プログラマブルソフトウェア付属、吸音",
+      "rating": 5,
+      "reviews": 3,
+      "price": 7499,
+      "image": "https://m.media-amazon.com/images/I/61d-h7dpG4L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 53,
+      "asin": "B0G39189M1",
+      "title": "センチュリー 「RACEN」磁気スイッチ式 日本語配列 テンキーレスゲーミングキーボード 色：ホワイト CRC-GKMGRT01WT2_FP ラピッドトリガー 国内サポート キートップ／スイッチリムーバー付き",
+      "rating": 5,
+      "reviews": 3,
+      "price": 9980,
+      "image": "https://m.media-amazon.com/images/I/71EbpyKkFIL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 54,
+      "asin": "B0GSRDR1DR",
+      "title": "センチュリー 「RACEN」磁気スイッチ式 日本語配列 テンキーレスゲーミングキーボード 色：ホワイト CRC-GKMGRT01WT2_FP ラピッドトリガー 国内サポート キートップ／スイッチリムーバー付き",
+      "rating": 2.9,
+      "reviews": 4,
+      "price": 9900,
+      "image": "https://m.media-amazon.com/images/I/61LbBZjqdoL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 55,
+      "asin": "B0GTV7RS88",
+      "title": "RK ROYAL KLUDGE RK920 フルサイズ メカニカルキーボード 有線・RGBバックライト搭載、US QWERTY レイアウト | 104キーコンピュータキーボード、ホットスワップ対応カスタムスイッチ、ダブルショットPBTキ​​ーキャップ、アンチゴースト機能搭載ゲーミングキーボード PC/Mac対応",
+      "rating": 5,
+      "reviews": 1,
+      "price": 11999,
+      "image": "https://m.media-amazon.com/images/I/61ZNdHiRxXL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 56,
+      "asin": "B0H3QRWLLV",
+      "title": "片手マクロキーボード USBミニキーパッド プログラム可能なキーパッド ミニメカニカルキーボード 押せるノブ付き カスタムキー 赤いスイッチ OS PCゲーム用 (キー3個、ノブ1個)",
+      "rating": 4,
+      "reviews": 0,
+      "price": 1423,
+      "image": "https://m.media-amazon.com/images/I/61lguqGsROL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 57,
+      "asin": "B0H1HTW363",
+      "title": "Itisyou 2個セットタブレット用コントローラー 6ボタンゲームパッド 多機能電子機器スタンド タブレットやスマートフォンに対応",
+      "rating": 4,
+      "reviews": 0,
+      "price": 1689,
+      "image": "https://m.media-amazon.com/images/I/61vQnBMR+UL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 58,
+      "asin": "B0H3BVSHSB",
+      "title": "プログラマブル2キーメカニカルキーボードノブ付き、ホットスワップ可能なブルースイッチ、カスタマイズ可能なマクロキー、取り外し可能なケーブル、ゲームや作業用",
+      "rating": 4,
+      "reviews": 0,
+      "price": 1455,
+      "image": "https://m.media-amazon.com/images/I/81acCeJfGJL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 59,
+      "asin": "B0H6WGQQV8",
+      "title": "0.005mmラピッドトリガー搭載 GravaStar Mercury V75 ゲーミングキーボード クリアブラック 有線 75%レイアウト | カスタムUFO磁気スイッチ ポーリングレート8000Hz対応 0.125ms超低遅延 磁気式スイッチ 透",
+      "rating": 4,
+      "reviews": 0,
+      "price": 26980,
+      "image": "https://m.media-amazon.com/images/I/71AqpDidLvL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 60,
+      "asin": "B0GVYPKVHV",
+      "title": "【Amazon.co.jp限定】 Logicool G 8000Hz ラピッドトリガー ホットスワップ G512 X 98 ゲーミングキーボード リニア ガスケットマウント 日本語配列 G512X-98-LNWHd アクチュエーションポイント 調整可能 有線 磁気式アナログスイッチ メカニカル LIGHTSYNC RGB テンキー キーボード 国内正規品 ※Amazon限定の壁紙ダウンロード付き",
+      "rating": 3.9,
+      "reviews": 20,
+      "price": 13970,
+      "image": "https://m.media-amazon.com/images/I/81WPnp9thsL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 61,
+      "asin": "B0GJ8S81TB",
+      "title": "【Amazon.co.jp限定】 Logicool G 8000Hz ラピッドトリガー ホットスワップ G512 X 98 ゲーミングキーボード リニア ガスケットマウント 日本語配列 G512X-98-LNWHd アクチュエーションポイント 調整可能 有線 磁気式アナログスイッチ メカニカル LIGHTSYNC RGB テンキー キーボード 国内正規品 ※Amazon限定の壁紙ダウンロード付き",
+      "rating": 3.9,
+      "reviews": 20,
+      "price": 32800,
+      "image": "https://m.media-amazon.com/images/I/61+EWfuK07L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 62,
+      "asin": "B0GYS8XGGS",
+      "title": "Razer(レイザー) ラピッドトリガー 搭載 Huntsman V3 Pro JP 調整可能なアクチュエーション搭載のアナログ ゲーミングキーボード オプティカルスイッチ 押下圧 40G リストレスト付属 日本語配列 ハンツマンブイスリープロ ジェイピー【日本正規代理店保証品】",
+      "rating": 4,
+      "reviews": 52,
+      "price": 30218,
+      "image": "https://m.media-amazon.com/images/I/71k+10lN3ML._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 63,
+      "asin": "B0GL71RMDH",
+      "title": "Razer(レイザー) ラピッドトリガー 搭載 Huntsman V3 Pro JP 調整可能なアクチュエーション搭載のアナログ ゲーミングキーボード オプティカルスイッチ 押下圧 40G リストレスト付属 日本語配列 ハンツマンブイスリープロ ジェイピー【日本正規代理店保証品】",
+      "rating": 4,
+      "reviews": 52,
+      "price": 36980,
+      "image": "https://m.media-amazon.com/images/I/71j9o9powXL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 64,
+      "asin": "B0GWD2D7S3",
+      "title": "【Amazon.co.jp限定】TURTLE BEACH Command Series KB7 ゲーミングキーボード 有線 TKL 英語US配列｜4.3インチタッチスクリーン搭載｜ホールエフェクトスイッチ｜8Kポーリングレート｜RGBライティング｜ロープロファイル｜Windows対応【メーカー保証2年+代理店保証6ヶ月】",
+      "rating": 3,
+      "reviews": 23,
+      "price": 29800,
+      "image": "https://m.media-amazon.com/images/I/71B1-t4xuRL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 65,
+      "asin": "B0GL8558SZ",
+      "title": "ATTACK SHARK R68HE R5 Ultra ゲーミングキーボードマウスセット ラピッドトリガー 8K 0.005mmRT精度 氷忍 | e-スポーツセット カーボンファイバー Nordic52840 PAW3950MAX 0.125ms低遅延 8000Hz 磁気スイッチ 0.08msディレイ CNC RGB サイドライト ホットスワップ 国内正規品 有線キーボード&無線マウス",
+      "rating": 4.7,
+      "reviews": 118,
+      "price": 24099,
+      "image": "https://m.media-amazon.com/images/I/71Eylvf-QtL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 66,
+      "asin": "B0GTQ2J4MX",
+      "title": "ATTACK SHARK R68HE R5 Ultra ゲーミングキーボードマウスセット ラピッドトリガー 8K 0.005mmRT精度 氷忍 | e-スポーツセット カーボンファイバー Nordic52840 PAW3950MAX 0.125ms低遅延 8000Hz 磁気スイッチ 0.08msディレイ CNC RGB サイドライト ホットスワップ 国内正規品 有線キーボード&無線マウス",
+      "rating": 4.3,
+      "reviews": 9,
+      "price": 24099,
+      "image": "https://m.media-amazon.com/images/I/71dijq-08oL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 67,
+      "asin": "B0H28JZ135",
+      "title": "【Amazon.co.jp限定】ASUS ROG Strix Morph 96 Wireless Gaming Keyboard ブラック / 96%レイアウトゲーミングキーボード/日本語配列/メカニカルスイッチ/スピードタップモード/ホットスワップ対応/エルゴノミクス/トライモード接続/ABS/ブラウザ上で設定が可能/国内正規品",
+      "rating": 4.6,
+      "reviews": 3,
+      "price": 26096,
+      "image": "https://m.media-amazon.com/images/I/71hwRpbbgqL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 68,
+      "asin": "B0GCFHZC7S",
+      "title": "KiiBOOM Phantom98 Lite 96% ワイヤレス ゲーミングキーボード VIAプログラマブル対応 クリーミーガスケット構造 かわいいキーボード 8000mAhバッテリー メカニカルキーボード NKRO ホットスワップ対応 RGBバックライト付き Windows/Mac対応 (Clear, Mossy Silent Switch)",
+      "rating": 4.8,
+      "reviews": 56,
+      "price": 19450,
+      "image": "https://m.media-amazon.com/images/I/61r4BTsQJKL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 69,
+      "asin": "B0GLYNHB9L",
+      "title": "EPOMAKER HE108 ラピトリ ホール効果ゲーミングキーボード 8Kポーリング＆128Kスキャン SOCD & DKS ホットスワップ対応 | 2.4GHz/BT/USB有線 108キーフルサイズ 0.005mmアクチュエーションポイント 調整可能 高速トリガー カスタムRGB ガスケット 10000mAh Windows Mac対応 (White)",
+      "rating": 4.4,
+      "reviews": 14,
+      "price": 16800,
+      "image": "https://m.media-amazon.com/images/I/61sZX0uUe0L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 70,
+      "asin": "B0GYVHJ5R2",
+      "title": "DAREU FLEX75 ゲーミングキーボード 無線 ガスケット メカニカルキーボード 75% テンキーレス 英語配列 2.4Gワイヤレス/Bluetooth/有線USB接続可能 ホットスワップ対応 音量調節ノブ付き 赤兎軸（リニア類赤軸） 白/ホワイト 技適認証取得【1年間メーカー保証】",
+      "rating": 4.5,
+      "reviews": 41,
+      "price": 8960,
+      "image": "https://m.media-amazon.com/images/I/61ja-kbcERL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 71,
+      "asin": "B0GNMGY3V7",
+      "title": "REALFORCE × 猫麦とろろ GX1 Plus Keyboard 45g 日本語配列 ブラック 2色成形 昇華印刷 静電容量無接点方式 ラピッドトリガー 8000Hz 最速0.1mm作動 PBT リアルフォース 日本製 かな無し アクリルスタンド同梱 X1PCT1",
+      "rating": 4.9,
+      "reviews": 11,
+      "price": 47800,
+      "image": "https://m.media-amazon.com/images/I/61d7SbgWItL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 72,
+      "asin": "B0G4N4K5W5",
+      "title": "CORSAIR GALLEON 100 SD有線メカニカルキーボード日本語配列 – 黒 CH-912A31I-JP | Elgato Stream Deckの統合、潤滑済みホットスワップ可能なMLXパルス・トッキー・キースイッチ、PBTダブルショット",
+      "rating": 4.3,
+      "reviews": 16,
+      "price": 47146,
+      "image": "https://m.media-amazon.com/images/I/71aydEKxr3L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 73,
+      "asin": "B0HC6RCJRT",
+      "title": "NuPhy Air75 V3 ホットスワップ対応 ワイヤレスメカニカルキーボード 84キー 75％配列 カスタムロープロファイルキーボード ノブ付き RGBバックライト ガスケットマウント Bluetooth/2.4GHz/USB-C対応、ブラック、",
+      "rating": 1,
+      "reviews": 1,
+      "price": 24420,
+      "image": "https://m.media-amazon.com/images/I/61pv1QsPs5L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 74,
+      "asin": "B0H3VF5MMT",
+      "title": "YUNZII WOOD84 ワイヤレスメカニカルキーボード 75%レイアウト 木製 ゲーミングキーボード BT/2.4G/USB-C 3モード RGBバックライト トレイマウント構造 ホットスワップ対応 カスタムキーボード PBT昇華印刷キーキャップ Mac/Windows対応 (ウッドカラー, キャンディリニアスイッチ)",
+      "rating": 4.5,
+      "reviews": 45,
+      "price": 24420,
+      "image": "https://m.media-amazon.com/images/I/717CnPEVyRL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 75,
+      "asin": "B0GTLFFPR5",
+      "title": "YUNZII WOOD84 ワイヤレスメカニカルキーボード 75%レイアウト 木製 ゲーミングキーボード BT/2.4G/USB-C 3モード RGBバックライト トレイマウント構造 ホットスワップ対応 カスタムキーボード PBT昇華印刷キーキャップ Mac/Windows対応 (ウッドカラー, キャンディリニアスイッチ)",
+      "rating": 4.5,
+      "reviews": 45,
+      "price": 15553,
+      "image": "https://m.media-amazon.com/images/I/71gylzY7HKL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 76,
+      "asin": "B0H26J5W2T",
+      "title": "YUNZII C98 ワイヤレスメカニカルキーボード テンキー付き 透明Maoキャップ 98キー BT5.0/2.4GHz/USB-C ホットスワップ ガスケットマウント キーボード カスタムRGBバックライト搭載 可愛いケーキ Win/Mac対応 技適認証取得 (パープル, キャンディスイッチ)",
+      "rating": 4.8,
+      "reviews": 26,
+      "price": 16342,
+      "image": "https://m.media-amazon.com/images/I/71s09r80FkL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 77,
+      "asin": "B0GZZCKP9J",
+      "title": "Womier M98 ワイヤレスメカニカルキーボード 無線 96％レイアウト ゲーミングキーボード テンキー付き ガスケット 画面とノブ付き | BT/2.4G/USB-C接続、ホットスワップ対応、8000mAhバッテリー搭載、ゲーミング用",
+      "rating": 5,
+      "reviews": 2,
+      "price": 12599,
+      "image": "https://m.media-amazon.com/images/I/61Tus64Vq8L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 78,
+      "asin": "B0GS1ZKBJV",
+      "title": "【日本正規代理店】EverGlide AE68 Pro Black Translucent ラピッドトリガーキーボード",
+      "rating": 4,
+      "reviews": 0,
+      "price": 8909,
+      "image": "https://m.media-amazon.com/images/I/71sOilLySiL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 79,
+      "asin": "B0H2LTK7QQ",
+      "title": "XEANIXIE OU108 メカニカルキーボード JIS 日本語配列 青軸 | 有線 108 キー フルサイズ LEDバックライト ホットスワップ アルミ合金パネル テンキー付き Windows/PS4/PS5対応 ゲーミング・オフィス兼用 ブラッ",
+      "rating": 4,
+      "reviews": 0,
+      "price": 6999,
+      "image": "https://m.media-amazon.com/images/I/61VNYkMItTL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 80,
+      "asin": "B0H1ZNBCR4",
+      "title": "AJAZZ AK820V2 ゲーミングキーボード 75% ラピッドトリガー Hall Effect 磁気スイッチ 0.001mm RT 8KHzポーリングレート 0.08ms超低遅延 USB-C有線 SOCD DKS RS END対応 RGBバックラ",
+      "rating": 4,
+      "reviews": 0,
+      "price": 9380,
+      "image": "https://m.media-amazon.com/images/I/61GKkOknndL._AC_SL1500_.jpg"
+    }
+  ]
+}

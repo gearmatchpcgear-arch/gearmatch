@@ -1,0 +1,34 @@
+{
+  "summary": {
+    "totalAudioInterfaces": 165,
+    "gadgetIssues": 2,
+    "knownSpecIssues": 0,
+    "outputMixed": 0,
+    "channelIoNotation": 0,
+    "missingKnown": 2,
+    "generatedAt": "2026-08-18T13:04:23.839Z"
+  },
+  "gadgetIssues": [
+    {
+      "id": "ai-search-050",
+      "name": "mioXM",
+      "asin": "B083XS3HV7",
+      "field": "—",
+      "known": null,
+      "issues": [
+        "field_missing"
+      ]
+    },
+    {
+      "id": "ai-rank-030",
+      "name": "iRig 2",
+      "asin": "B00UV71Y4I",
+      "field": "—",
+      "known": null,
+      "issues": [
+        "field_missing"
+      ]
+    }
+  ],
+  "knownIssues": []
+}

@@ -1,0 +1,66 @@
+{
+  "B0H1JVHGD3": {
+    "name": "Slint M-TM25MBMSABK",
+    "brand": "ELECOM",
+    "connection": "Bluetooth / 2.4GHz (USBレシーバー)",
+    "reading": "BlueLED",
+    "power": "充電式 (USB-C)",
+    "buttonCount": "5"
+  },
+  "B0H74SGFVW": {
+    "connection": "Bluetooth 5.4 / 2.4GHz (USBレシーバー)",
+    "reading": "光学式",
+    "power": "充電式 (USB-C)",
+    "buttonCount": "3"
+  },
+  "B0GPPKQRML": {
+    "connection": "Bluetooth / 2.4GHz (USBレシーバー)",
+    "reading": "光学式",
+    "power": "充電式 (USB)",
+    "buttonCount": "6"
+  },
+  "B0H7LM2MV5": {
+    "connection": "Bluetooth / 2.4GHz (USBレシーバー)",
+    "reading": "光学式",
+    "power": "充電式 (USB)",
+    "buttonCount": "6"
+  },
+  "B0GJ8FWK42": {
+    "name": "Signature Comfort Plus M840L",
+    "brand": "Logicool",
+    "connection": "2.4GHz (Logi Bolt) / Bluetooth",
+    "reading": "光学式",
+    "power": "単3形 乾電池×1",
+    "buttonCount": "6"
+  },
+  "B0GVDZCKTN": {
+    "name": "OSMOD8 M-MY50MBSBK-G",
+    "brand": "ELECOM",
+    "connection": "Bluetooth / 2.4GHz (USBレシーバー)",
+    "reading": "BlueLED",
+    "power": "単3形 乾電池×1",
+    "buttonCount": "8"
+  },
+  "B0GL22BBQ7": {
+    "name": "Mobi Fold MF900",
+    "brand": "Logicool",
+    "connection": "2.4GHz (Logi Bolt) / Bluetooth",
+    "reading": "光学式",
+    "power": "充電式 (USB-C)",
+    "buttonCount": "5"
+  },
+  "B0GVYRXBTJ": {
+    "brand": "Technet",
+    "connection": "Bluetooth / 2.4GHz (USBレシーバー)",
+    "reading": "光学式",
+    "power": "充電式 (USB-C)",
+    "buttonCount": "6"
+  },
+  "B0GZYS8KX7": {
+    "brand": "Buffalo",
+    "connection": "Bluetooth 5.1",
+    "reading": "BlueLED",
+    "power": "単3形 乾電池×1",
+    "buttonCount": "3"
+  }
+}

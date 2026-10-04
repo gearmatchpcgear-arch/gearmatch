@@ -1,0 +1,32 @@
+{
+  "B08G1RNRWJ": {
+    "asin": "B08G1RNRWJ",
+    "image": "https://m.media-amazon.com/images/I/41X+3AWM3qL._AC_SL1500_.jpg",
+    "fetchedAt": "2026-08-14T13:07:25.715Z",
+    "source": "html"
+  },
+  "B08DP5BNDH": {
+    "asin": "B08DP5BNDH",
+    "image": "https://m.media-amazon.com/images/I/51RGw-mJOPL._AC_SL1500_.jpg",
+    "fetchedAt": "2026-08-14T13:07:47.047Z",
+    "source": "html"
+  },
+  "B0CGLGPLPL": {
+    "asin": "B0CGLGPLPL",
+    "image": "https://m.media-amazon.com/images/I/51kbg3shhPL._AC_SL1500_.jpg",
+    "fetchedAt": "2026-08-14T13:08:17.994Z",
+    "source": "html"
+  },
+  "B0G42NGPTD": {
+    "asin": "B0G42NGPTD",
+    "image": "https://m.media-amazon.com/images/I/71enTa9RXGL._AC_SL1500_.jpg",
+    "fetchedAt": "2026-09-16T11:32:39.636Z",
+    "source": "html"
+  },
+  "B0BZWLJFTD": {
+    "asin": "B0BZWLJFTD",
+    "image": "https://m.media-amazon.com/images/I/611+HieXa2L._AC_SL1500_.jpg",
+    "fetchedAt": "2026-09-16T11:34:09.299Z",
+    "source": "html"
+  }
+}

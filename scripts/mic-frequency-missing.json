@@ -1,0 +1,142 @@
+[
+  {
+    "id": "mic-bs-002",
+    "name": "U30K",
+    "brand": "—",
+    "asin": "B0GJZ1TCQP",
+    "file": "mic-bestsellers.ts"
+  },
+  {
+    "id": "mic-bs-003",
+    "name": "Mic Mini 2 (2 TX + 1 RX + 充電ケース)",
+    "brand": "DJI",
+    "asin": "B0G39C97WQ",
+    "file": "mic-bestsellers.ts"
+  },
+  {
+    "id": "mic-bs-010",
+    "name": "M0",
+    "brand": "EMEET",
+    "asin": "B07Q3FQ8K6",
+    "file": "mic-bestsellers.ts"
+  },
+  {
+    "id": "mic-cnd2-005",
+    "name": "RGBライト PCマイク USB ゲーム マイク Windows MacOS スマホ PS4/P",
+    "brand": "FerBuee",
+    "asin": "B0GWXVJQ9N",
+    "file": "mic-condenser-bestsellers-page2.ts"
+  },
+  {
+    "id": "mic-cnd2-017",
+    "name": "ワイヤレスピンマイク (3in1)",
+    "brand": "—",
+    "asin": "B0H6Q4TK8K",
+    "file": "mic-condenser-bestsellers-page2.ts"
+  },
+  {
+    "id": "mic-cnd2-020",
+    "name": "クリップマイク ピンマイク マイクロフォン 長さ120mm ジャック 3.5mm φプラグ iP",
+    "brand": "Rosebe",
+    "asin": "B07MJZ7XQ5",
+    "file": "mic-condenser-bestsellers-page2.ts"
+  },
+  {
+    "id": "mic-cnd2-022",
+    "name": "HM-100",
+    "brand": "—",
+    "asin": "B099NY1425",
+    "file": "mic-condenser-bestsellers-page2.ts"
+  },
+  {
+    "id": "mic-cnd-019",
+    "name": "ピンマイク 有線 マイク コンデンサーType-C端子 全指向性 スマホ/PC/タブレット対応 ",
+    "brand": "—",
+    "asin": "B0FL6R2JSJ",
+    "file": "mic-condenser-bestsellers.ts"
+  },
+  {
+    "id": "mic-cnd-020",
+    "name": "EasySing Mic Mini Duo",
+    "brand": "JBL",
+    "asin": "B0H3TD27ZS",
+    "file": "mic-condenser-bestsellers.ts"
+  },
+  {
+    "id": "mic-dyn2-002",
+    "name": "TKY-93",
+    "brand": "MEDIACOM",
+    "asin": "B0G5D9JT5G",
+    "file": "mic-dynamic-bestsellers-page2.ts"
+  },
+  {
+    "id": "mic-dyn-005",
+    "name": "PartyBox Wireless Mic",
+    "brand": "JBL",
+    "asin": "B0CXHQHW4R",
+    "file": "mic-dynamic-bestsellers.ts"
+  },
+  {
+    "id": "mic-dyn-006",
+    "name": "Switch2/Switch用 カラオケマイク【2026年NEWモデル・2本セット】 2.0US",
+    "brand": "Elnicec",
+    "asin": "B000GUBOYU",
+    "file": "mic-dynamic-bestsellers.ts"
+  },
+  {
+    "id": "mic-dyn-007",
+    "name": "Switch2/Switch用 カラオケマイク【2026年NEWモデル・2本セット】 2.0US",
+    "brand": "Elnicec",
+    "asin": "B0D7PC1VZK",
+    "file": "mic-dynamic-bestsellers.ts"
+  },
+  {
+    "id": "mic-dyn-019",
+    "name": "JYX カラオケ ダイナミックマイク 単一指向性 PAシステム スピーカー 会議/カラオケ/スピ",
+    "brand": "—",
+    "asin": "B09TZWQBMM",
+    "file": "mic-dynamic-bestsellers.ts"
+  },
+  {
+    "id": "mic-dyn-021",
+    "name": "K380S",
+    "brand": "—",
+    "asin": "B08X41Z9WC",
+    "file": "mic-dynamic-bestsellers.ts"
+  },
+  {
+    "id": "mic-dyn-024",
+    "name": "ダイナミックマイク XLR/USB接続、ノイズ低減ゲーミングマイク、単一指向性、音量調節・残響調",
+    "brand": "—",
+    "asin": "B0GX7GK558",
+    "file": "mic-dynamic-bestsellers.ts"
+  },
+  {
+    "id": "mic-dyn-025",
+    "name": "ダイナミックマイク ワイヤレスマイク ハンズマイク カラオケマイク 無線マイク 2人用 UHF ",
+    "brand": "XIAOKOA",
+    "asin": "B0D8KF3PV2",
+    "file": "mic-dynamic-bestsellers.ts"
+  },
+  {
+    "id": "mic-dyn-026",
+    "name": "ダイナミックマイク ワイヤレスマイク ハンズマイク カラオケマイク 無線マイク 2人用 UHF ",
+    "brand": "XIAOKOA",
+    "asin": "B0D83QTHHV",
+    "file": "mic-dynamic-bestsellers.ts"
+  },
+  {
+    "id": "mic-dyn-028",
+    "name": "キングジム スピーカー付きマイク 会議用 マイク 無線 スピーカー＆マイク一体型 拡声器 SPM",
+    "brand": "—",
+    "asin": "B09FF8426V",
+    "file": "mic-dynamic-bestsellers.ts"
+  },
+  {
+    "id": "mic-dyn-029",
+    "name": "FT-DM7",
+    "brand": "—",
+    "asin": "B0G34LCW2F",
+    "file": "mic-dynamic-bestsellers.ts"
+  }
+]

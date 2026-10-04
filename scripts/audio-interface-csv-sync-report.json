@@ -1,0 +1,651 @@
+{
+  "csvPath": "D:\\ダウンロード\\audio_interfaces.csv",
+  "csvHeader": [
+    "ID",
+    "カード名",
+    "商品説明",
+    "価格",
+    "入力端子",
+    "PC接続",
+    "ファンタム電源",
+    "システム要件",
+    "サンプリングレート",
+    "",
+    ""
+  ],
+  "csvRowCount": 164,
+  "existingGadgetCount": 164,
+  "updated": [
+    {
+      "id": "ai-rank-001",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-011",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-060",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-061",
+      "inputTier": null
+    },
+    {
+      "id": "ai-rank-002",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-012",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-020",
+      "inputTier": "4入力"
+    },
+    {
+      "id": "ai-search-030",
+      "inputTier": null
+    },
+    {
+      "id": "ai-rank-003",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-043",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-062",
+      "inputTier": null
+    },
+    {
+      "id": "ai-rank-004",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-013",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-021",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-031",
+      "inputTier": null
+    },
+    {
+      "id": "ai-rank-005",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-032",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-051",
+      "inputTier": null
+    },
+    {
+      "id": "ai-rank-006",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-006",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-014",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-022",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-033",
+      "inputTier": null
+    },
+    {
+      "id": "ai-rank-007",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-023",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-052",
+      "inputTier": null
+    },
+    {
+      "id": "ai-rank-008",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-024",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-034",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-035",
+      "inputTier": "8入力"
+    },
+    {
+      "id": "ai-search-044",
+      "inputTier": null
+    },
+    {
+      "id": "ai-rank-010",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-036",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-053",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-063",
+      "inputTier": null
+    },
+    {
+      "id": "ai-rank-011",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-015",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-025",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-064",
+      "inputTier": null
+    },
+    {
+      "id": "ai-rank-012",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-001",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-016",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-037",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-054",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-007",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-017",
+      "inputTier": "4入力"
+    },
+    {
+      "id": "ai-search-026",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-038",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-055",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-065",
+      "inputTier": null
+    },
+    {
+      "id": "ai-rank-014",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-045",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-056",
+      "inputTier": null
+    },
+    {
+      "id": "ai-rank-015",
+      "inputTier": "4入力"
+    },
+    {
+      "id": "ai-search-002",
+      "inputTier": "8入力"
+    },
+    {
+      "id": "ai-rank-016",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-046",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-066",
+      "inputTier": null
+    },
+    {
+      "id": "ai-rank-017",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-003",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-027",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-057",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-067",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-018",
+      "inputTier": "18入力"
+    },
+    {
+      "id": "ai-search-047",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-068",
+      "inputTier": "4入力"
+    },
+    {
+      "id": "ai-rank-019",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-004",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-028",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-039",
+      "inputTier": null
+    },
+    {
+      "id": "ai-rank-020",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-008",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-040",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-058",
+      "inputTier": "8入力"
+    },
+    {
+      "id": "ai-rank-021",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-009",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-048",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-005",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-010",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-041",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-059",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-069",
+      "inputTier": null
+    },
+    {
+      "id": "ai-rank-023",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-019",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-029",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-042",
+      "inputTier": "4入力"
+    },
+    {
+      "id": "ai-search-070",
+      "inputTier": null
+    },
+    {
+      "id": "ai-rank-025",
+      "inputTier": null
+    },
+    {
+      "id": "ai-rank-026",
+      "inputTier": "10端子以上"
+    },
+    {
+      "id": "ai-rank-027",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-071",
+      "inputTier": null
+    },
+    {
+      "id": "ai-rank-028",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-072",
+      "inputTier": null
+    },
+    {
+      "id": "ai-rank-029",
+      "inputTier": null
+    },
+    {
+      "id": "ai-rank-030",
+      "inputTier": null
+    },
+    {
+      "id": "ai-rank-031",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-073",
+      "inputTier": null
+    },
+    {
+      "id": "ai-rank-032",
+      "inputTier": null
+    },
+    {
+      "id": "ai-rank-033",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-074",
+      "inputTier": null
+    },
+    {
+      "id": "ai-rank-037",
+      "inputTier": "4ポート"
+    },
+    {
+      "id": "ai-search-075",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-076",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-077",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-078",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-079",
+      "inputTier": null
+    },
+    {
+      "id": "ai-rank-051",
+      "inputTier": null
+    },
+    {
+      "id": "ai-rank-052",
+      "inputTier": null
+    },
+    {
+      "id": "ai-rank-053",
+      "inputTier": "4ポート"
+    },
+    {
+      "id": "ai-rank-056",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-080",
+      "inputTier": null
+    },
+    {
+      "id": "ai-rank-057",
+      "inputTier": null
+    },
+    {
+      "id": "ai-rank-058",
+      "inputTier": null
+    },
+    {
+      "id": "ai-rank-059",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-081",
+      "inputTier": null
+    },
+    {
+      "id": "ai-rank-060",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-082",
+      "inputTier": null
+    },
+    {
+      "id": "ai-rank-061",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-083",
+      "inputTier": null
+    },
+    {
+      "id": "ai-rank-062",
+      "inputTier": null
+    },
+    {
+      "id": "ai-rank-063",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-084",
+      "inputTier": null
+    },
+    {
+      "id": "ai-rank-064",
+      "inputTier": null
+    },
+    {
+      "id": "ai-rank-065",
+      "inputTier": null
+    },
+    {
+      "id": "ai-rank-066",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-086",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-087",
+      "inputTier": null
+    },
+    {
+      "id": "ai-rank-068",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-088",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-089",
+      "inputTier": null
+    },
+    {
+      "id": "ai-rank-071",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-090",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-091",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-092",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-093",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-094",
+      "inputTier": null
+    },
+    {
+      "id": "ai-rank-077",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-095",
+      "inputTier": null
+    },
+    {
+      "id": "ai-rank-079",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-096",
+      "inputTier": null
+    },
+    {
+      "id": "ai-rank-080",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-097",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-098",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-099",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-100",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-101",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-104",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-105",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-106",
+      "inputTier": "4入力"
+    },
+    {
+      "id": "ai-search-107",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-108",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-109",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-110",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-111",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-112",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-114",
+      "inputTier": null
+    },
+    {
+      "id": "ai-search-115",
+      "inputTier": null
+    }
+  ],
+  "skippedMissingInCsv": [],
+  "skippedMissingInLib": [],
+  "csvOnlyNotInserted": []
+}

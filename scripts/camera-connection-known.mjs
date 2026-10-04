@@ -1,0 +1,31 @@
+/**
+ * Verified camera connection types (Amazon / manufacturer specs).
+ * @type {Record<string, string>}
+ */
+export const CAMERA_CONNECTION_KNOWN = {
+  B0DM5YP22D: "USB-C / USB-A",
+  B0FSRHJ7MX: "USB-C / USB-A",
+  B0GX94B2T6: "USB-C",
+  B0DNK381B3: "USB-C",
+  B0GQZ5SST2: "USB-C / USB-A",
+  B0DQ8TNZ4J: "USB-C",
+  B0DQ196WLW: "USB-C",
+  B0DQ8H68YT: "USB-C",
+  B0CGLP26ZR: "USB-A",
+  B0CZ6XY78Y: "USB-C",
+  B0D664SDC2: "USB-A",
+  B0F1SJR713: "USB-A",
+  B0DGXFNVLD: "USB-A",
+  B0DT9HH3YV: "USB-A",
+  B0CXP79CT3: "USB-C",
+  B0G63LXK6R: "USB-C",
+  B0FW41MQXP: "USB-A / USB-C",
+  B0B74YV167: "USB-A",
+  B078J9MR75: "USB-A (USB 2.0)",
+  B0CY1N6HX1: "USB-A",
+  B0BYCPNT1F: "USB-C / USB-A",
+  B0GS547F91: "USB-C",
+  B0FR4C867S: "USB-A",
+  B0GL2BVCKW: "USB-C",
+  B0FG7RDZGZ: "USB-A",
+}

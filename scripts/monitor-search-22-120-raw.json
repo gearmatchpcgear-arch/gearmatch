@@ -1,0 +1,2391 @@
+{
+  "fetchedAt": "2026-08-13T22:17:21.779Z",
+  "source": "browser-cdp-all-pages",
+  "sourceUrl": "https://www.amazon.co.jp/s?k=%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4&rh=p_n_g-101017397084111%3A214854510051%2Cp_n_g-101013577303111%3A18161464051",
+  "monitors": [
+    {
+      "amazonRank": 1,
+      "asin": "B0CNK91XLQ",
+      "title": "Minifire 24-inch USB-C 120Hz Monitor IPS Built-in Speaker HDR10 Adaptive Sync VESA Compatible Frameless Type-C/HDMI Speaker Included Tilt Adjustable Business Use Five-Year Warranty (USB Type-C Cable",
+      "rating": 4,
+      "reviews": 455,
+      "price": 12999,
+      "image": "https://m.media-amazon.com/images/I/71VR8zB2CYL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 2,
+      "asin": "B0DL5X394K",
+      "title": "Acer Monitor 24.5-inch Full HD Matte IPS 120Hz 1ms (VRB) sRGB 99% AdaptiveSync HDMI 1.4 Mini D-Sub 15 Pin No Speaker or Headphone Port VESA Mount Compatible Zero Frame Design 3-Year Warranty (Panel 1",
+      "rating": 4.4,
+      "reviews": 59,
+      "price": 11990,
+      "image": "https://m.media-amazon.com/images/I/61N+kF++m4L._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 3,
+      "asin": "B0GR8NLC94",
+      "title": "FeuVision FSID24BF1AE PC Monitor, 23.8 inches, IPS Full HD, 120 Hz, USB Type-C, PD65W Power Supply, Height Adjustable, Elevation Stand",
+      "rating": 4,
+      "reviews": 0,
+      "price": 18480,
+      "image": "https://m.media-amazon.com/images/I/71bbXSsXTIL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 4,
+      "asin": "B0FCQPC9FQ",
+      "title": "【Amazon.co.jp Exclusive】PHILIPS LCD Display PC Monitor (23.8 Inches / IPS / FHD / 120Hz / 1ms / 5-Year Warranty / HDMI, USB Type-C (65W) / Tilt / Height-Adjustable / Anti-flicker / Blue Light",
+      "rating": 4.2,
+      "reviews": 77,
+      "price": 19506,
+      "image": "https://m.media-amazon.com/images/I/618NtTAWhhL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 5,
+      "asin": "B0GNR572Y6",
+      "title": "iiyama ProLite XB2491HS-B1J Monitor Display, 23.8-Inch, Full HD, IPS Type, Height Adjustment, Angle Adjustment, Vertical Rotation, HDMI DisplayPort Cable Included, Domestic Support",
+      "rating": 4.5,
+      "reviews": 8,
+      "price": 19800,
+      "image": "https://m.media-amazon.com/images/I/7156019AR6L._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 6,
+      "asin": "B0DNDXMLR7",
+      "title": "【Amazon.co.jp Exclusive】ASUS Monitor / VY249HGR Eye Care Monitor / 23.8 Inch FHD (1920 x 1080) / IPS / 120Hz (OC) / SmoothMotion / 1ms (MPRT) / Adaptive Sync / Blue Light Reduction / Flicker-Free",
+      "rating": 4.2,
+      "reviews": 298,
+      "price": 12580,
+      "image": "https://m.media-amazon.com/images/I/71T7FXVO9ZL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 7,
+      "asin": "B0FV856B9M",
+      "title": "PHILIPS LCD PC Monitor (23.8 inch / IPS / FHD / 120Hz / 1ms / 5 year warranty / HDMI, DVI-D, VGA / Tilt / SoftBlue / Flicker-Free / Blue Light Reduction AdaptiveSync / Slim Bezel / Work from Home",
+      "rating": 4.5,
+      "reviews": 31,
+      "price": 12800,
+      "image": "https://m.media-amazon.com/images/I/61kUfLQOfkL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 8,
+      "asin": "B0F6XXRRGF",
+      "title": "【Amazon.co.jp Exclusive】 ASUS Monitor VA249QGS / 23.8\" / IPS/Full HD/Height Adjustment, Swivel, Rotate/Frameless/120Hz/Adaptive-Sync/1ms MPRT/HDMI/DisplayPort/VGA/Blue Light Reduction/Flicker-Free",
+      "rating": 4.2,
+      "reviews": 74,
+      "price": 17480,
+      "image": "https://m.media-amazon.com/images/I/71zhefAehWL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 9,
+      "asin": "B0DJNJN6PK",
+      "title": "【Amazon.co.jp Limited】MSI PRO MP251W E2 Monitor, 24.5 Inch / Full HD / IPS Panel / 120Hz / HDMI / MSI Power Link / DisplayPort / D-sub / Anti Flicker / Blue Light Reduction / Integrated Speakers / HDR",
+      "rating": 4.6,
+      "reviews": 153,
+      "price": 17800,
+      "image": "https://m.media-amazon.com/images/I/514oFsBXUSL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 10,
+      "asin": "B0H9RJNG1V",
+      "title": "モニター 22インチ PCモニター 120Hz 1ms(OD) フルHD 1080P VAパネル非光沢 DCI-P3 85% sRGBカバー率100% 10bit(8bit＋FRC) ブルーライト軽減 スリムベゼル VESA対応 傾き調整 HDMIケーブル付属 P220F",
+      "rating": 5,
+      "reviews": 1,
+      "price": 14980,
+      "image": "https://m.media-amazon.com/images/I/81hSDLT8zNL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 11,
+      "asin": "B0GXB3SNLH",
+      "title": "MAGICRAVEN Wireless Mobile Monitor, 23.8 Inches, Full HD, 1080P, 5,000 mAh Battery, 100 Hz, Portable Display, IPS LCD Panel, USB-C, Mini HDMI, Compatible with Windows, Mac, iPhones, Smartphones, etc | ワイヤレスモバイルディスプレイ、120Hz、非光沢IPSパネル、自動回転、自立スタンド・VESA、薄型軽量、ポータブルモニター、無線＆有線対応、Type-C/Mini HDMI搭載、Win/Mac/iPhone/スマホ/S-witch/PS5対応",
+      "rating": 4.4,
+      "reviews": 32,
+      "price": 61999,
+      "image": "https://m.media-amazon.com/images/I/7110i0Xm8ZL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 12,
+      "asin": "B0GNYVHJ99",
+      "title": "iiyama ProLite XB2492HSU-B1J Monitor Display, 23.8-Inch, Full HD, IPS Type, Height Adjustment, Angle Adjustment, Vertical Rotation, HDMI DisplayPort, USB Hub, Cable Included",
+      "rating": 5,
+      "reviews": 2,
+      "price": 17980,
+      "image": "https://m.media-amazon.com/images/I/713qcOgiJBL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 13,
+      "asin": "B0FH24FR2N",
+      "title": "PHILIPS LCD PC Monitor (23.8 Inches / IPS / FHD / 120Hz / 1ms / 5 year warranty / HDMI, D-Sub / Tilt / Blue light reduction / Resource-saving package / AdaptiveSync / SDG compliant / Cable included",
+      "rating": 4.1,
+      "reviews": 13,
+      "price": 11480,
+      "image": "https://m.media-amazon.com/images/I/71ymH71qeEL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 14,
+      "asin": "B0GQGSCFWM",
+      "title": "iiyama ProLite X2492HSU-B1J Monitor Display, 23.8-Inch, Full HD, IPS Type, Angle Adjustment, HDMI DisplayPort, USB Hub Included, Cable Included",
+      "rating": 5,
+      "reviews": 2,
+      "price": 14578,
+      "image": "https://m.media-amazon.com/images/I/716hgWyzbDL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 15,
+      "asin": "B0F61CSNGQ",
+      "title": "JAPANNEXT JN-IPS238G120F-C6 23.8\" Gaming Monitor | IPS panel, 120 Hz compatible, Full HD (1920 x 1080) resolution, 0.5 ms (MPRT), HDMI, DP, USB Type-C (up to 65 W power), HDR",
+      "rating": 3.2,
+      "reviews": 2,
+      "price": 18980,
+      "image": "https://m.media-amazon.com/images/I/71iQDPNLWiL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 16,
+      "asin": "B0H8RQ82WJ",
+      "title": "BenQ GW2490P 23.8インチ フルHD IPS 120Hz アイケアモニター | ノングレア ブルーライト軽減 3辺ウルトラスリムベゼル 自動調光機能 フリッカーフリー sRGB 99% TUV認証 VESA MediaSync 本体3年保証（パネル・バックライト1年） ベンキュージャパン",
+      "rating": 4.3,
+      "reviews": 275,
+      "price": 23619,
+      "image": "https://m.media-amazon.com/images/I/61tpREJTdkL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 17,
+      "asin": "B0FX3S9D1N",
+      "title": "JAPANNEXT 23.8\" White Color LCD Monitor JN-238IPS120F-HSPC6-W | IPS Panel, 120 Hz Compatible, Full HD, HDMI, DisplayPort, USB-C, sRGB: 100%, HDR, PS5, Full HD: 120 Hz Connection",
+      "rating": 4.6,
+      "reviews": 3,
+      "price": 19073,
+      "image": "https://m.media-amazon.com/images/I/71RHQgliidL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 18,
+      "asin": "B0DT438HWJ",
+      "title": "Pixio PX246Wave Blue 24\" 120hz FHD IPS HDMI Gaming Monitor Blue Pixio | ディスプレイ サブモニター pcモニター ゲームモニター monitor gaming 23.8インチ スピーカー内蔵 blue ぴくしお ps5 switch2 ゲーミングpc モニター台",
+      "rating": 4.5,
+      "reviews": 143,
+      "price": 18980,
+      "image": "https://m.media-amazon.com/images/I/71P1QFMqEQL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 19,
+      "asin": "B0GWKZWV6N",
+      "title": "XUNDEFINED 21.5-Inch PC Monitor, 120Hz Full HD, LCD Display, Matte VA Panel, Built-in Speaker, 110% RGB FreeSync Compatible, Blue Light Reduction, Flicker Free, HDMI + VGA Port, Tilt Adjustment, VESA",
+      "rating": 4.1,
+      "reviews": 263,
+      "price": 9980,
+      "image": "https://m.media-amazon.com/images/I/71Ti0hYzQFL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 20,
+      "asin": "B0DMDQVRPT",
+      "title": "Acer Monitor 23.8 Inch Full HD Non-Gloss IPS 120Hz 1ms (VRB) sRGB 99% AdaptiveSync HDMI 1.4 Mini D-Sub 15 Pin Speaker/Headphone Port Audio Input Port VESA Mount Compatible Zero Frame Design 3-Year",
+      "rating": 4.2,
+      "reviews": 50,
+      "price": 12980,
+      "image": "https://m.media-amazon.com/images/I/61xg3OGIrIL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 21,
+      "asin": "B0H7147ZCB",
+      "title": "MSI Business Monitor PRO MP225 E12L 21.45 Inch Full HD/IPS/120Hz/1ms/Adaptive-Sync/HDMI 1.4b/D-Sub/VESA100",
+      "rating": 4,
+      "reviews": 0,
+      "price": 12800,
+      "image": "https://m.media-amazon.com/images/I/71Gs6231DeL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 22,
+      "asin": "B0H3NNB52H",
+      "title": "XUNDEFINED 21.5 Inch Monitor Full HD (1920 x 1080) 120Hz Ultra Thin LCD Monitor Built-in Speaker, VA Panel, Non-glare, 100% RGB 4000:1 Contrast Ratio, Adaptive Sync Compatible, Blue Light Reduction",
+      "rating": 4.6,
+      "reviews": 9,
+      "price": 11980,
+      "image": "https://m.media-amazon.com/images/I/71nTwqm72QL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 23,
+      "asin": "B0GVDCH1DD",
+      "title": "Philips 24B2U3601/11 LCD Display PC Monitor (WQHD/23.8 inches/IPS/120Hz/1ms/HDMI, DP, Type-C (PD90W)/Height Adjustment/Daisy Chain Compatible/RJ45/AdaptiveSync/TCO10/Cable Included/Energy Star)",
+      "rating": 5,
+      "reviews": 2,
+      "price": 34141,
+      "image": "https://m.media-amazon.com/images/I/61JwxKGFmWL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 24,
+      "asin": "B0DRC23SSG",
+      "title": "FeuVision Monitor 24-inch 120Hz Full HD 1080p IPS Display 3-Side Ultra-Narrow Bezel & Ultra-Thin PC Monitor Non-Glare Blue Light Reduction Angle Adjustment sRGB 99% Adaptive Sync Compatible VESA HDMI | Adaptive Sync 対応 VESA 3辺超狭額&超薄型, pc モニター, 非光沢 ブルーライト軽減, 角度調節, sRGB 99%, HDMI&VGAポート",
+      "rating": 4.1,
+      "reviews": 129,
+      "price": 11280,
+      "image": "https://m.media-amazon.com/images/I/71XaJxUDaJL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 25,
+      "asin": "B0DNS71Y9Q",
+      "title": "EVICIV QLED Mobile Monitor, 23.8 inch, 120 Hz, Large Screen, Mobile Display, USB-C Powered, FHD, 1080P, 1000:1, 100% RGB, Non-Glossy, Slim, Portable Monitor, Standing Stand, HDR, VESA Compatible, Wall Mounted, Business Meeting, Home Work, Sub-Monitor, Non-glare Built-In Speaker, All Functions TypeC/Standard HDMI Devices Compatible with PC/Mac, etc. File Viewing EVC2308",
+      "rating": 4.4,
+      "reviews": 1,
+      "price": 25879,
+      "image": "https://m.media-amazon.com/images/I/71kEzx+yK7L._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 26,
+      "asin": "B0FJLBTBC4",
+      "title": "Minifire Monitor 21.5-inch PC Monitor 120Hz Full HD Non-glare LCD Display Adaptive Sync VESA Compatible Frameless HDMI*2 Blue Light Reduction Tilt Adjustment Business Use Five-Year Warranty (HDMI | LCD Adaptive Sync Frameless Five Year Warranty (Includes HDMI Cable - MF22X3AH)",
+      "rating": 4.1,
+      "reviews": 86,
+      "price": 10999,
+      "image": "https://m.media-amazon.com/images/I/71awV7ZnYpL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 27,
+      "asin": "B0G9265NX7",
+      "title": "Philips 24B2U3301/11 LCD Display Monitor (23.8 inches/IPS/FHD/120Hz/1ms/HDMI, DP, Type-C (PD90W)/Tilt/Daisy Chain Compatible/RJ45/Height Adjustment/Pivot Compatible/Built-in Power Supply/Cable/Energy Star/TCO10)",
+      "rating": 4,
+      "reviews": 0,
+      "price": 29970,
+      "image": "https://m.media-amazon.com/images/I/61JptWKRDhL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 28,
+      "asin": "B0FL6TCP99",
+      "title": "UPERFECT 23.8 Inch 120Hz Mobile Monitor Touch Panel Portable VESA Compatible 120% sRGB Portable Display Large Screen Matte Wide Color Gamut Large Sub Monitor Freestanding Stand Gaming Monitor IPS LCD",
+      "rating": 4.6,
+      "reviews": 1,
+      "price": 37793,
+      "image": "https://m.media-amazon.com/images/I/71CFZBUoxYL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 29,
+      "asin": "B0DT45MX34",
+      "title": "Pixio PX246Wave Black 24\" 120hz FHD IPS HDMI Gaming Monitor Black Pixio | ディスプレイ サブモニター pcモニター ゲームモニター monitor gaming 23.8インチ スピーカー内蔵 black ぴくしお ps5 switch2 ゲーミングpc モニター台",
+      "rating": 4.5,
+      "reviews": 143,
+      "price": 16640,
+      "image": "https://m.media-amazon.com/images/I/71-COhWww2L._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 30,
+      "asin": "B0FJ1D6PVJ",
+      "title": "ASUS VA249QGZ 23.8\" Full HD (1920x1080) IPS Monitor",
+      "rating": 3.6,
+      "reviews": 3,
+      "price": 13200,
+      "image": "https://m.media-amazon.com/images/I/41aCl4zCI8L._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 31,
+      "asin": "B0F8BVZR8X",
+      "title": "Acer Nitro Gaming Monitor 23.8\" Wide Full HD Anti-Glare IPS 120Hz 1ms (VRB) sRGB 99% AdaptiveSync Black Boost HDMI 1.4 DisplayPort 1.2 Built-in Speaker Headphone Port VESA Mount Compatible Zero Frame",
+      "rating": 4.3,
+      "reviews": 29,
+      "price": 14990,
+      "image": "https://m.media-amazon.com/images/I/614W0QSFCmL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 32,
+      "asin": "B0H117XWS8",
+      "title": "LG Smart Monitor AI 24U411SB-B 24 inch / Full HD (1920 x 1080) / 120Hz / IPS / sRGB 99% / HDR / Anti-Glare / WebOS / Wi-Fi 5 / Bluetooth 5.0 / Google Cast/ AirPlay / HDMI x 2 / USB Input x 5W+5W",
+      "rating": 4,
+      "reviews": 0,
+      "price": 29720,
+      "image": "https://m.media-amazon.com/images/I/71XylLojBdL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 33,
+      "asin": "B0GN2JX6RW",
+      "title": "Mobile Monitor 23.8 Inch 120Hz Vimonic QLED Portable Display 1080P IPS Freestanding Stand Portable | Large Screen Monitor, Non-Glossy IPS Panel, Portable Monitor, VESA, Large Sub-Monitor, Type-C and Mini HDMI, Gamer, Business",
+      "rating": 4.4,
+      "reviews": 271,
+      "price": 24586,
+      "image": "https://m.media-amazon.com/images/I/81qCbC0AqgL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 34,
+      "asin": "B0GTL4L4KV",
+      "title": "ASRock CL25FFA MN1431 25 Type FHD 1920 x 1080 IPS Panel Gaming Monitor",
+      "rating": 5,
+      "reviews": 1,
+      "price": 13111,
+      "image": "https://m.media-amazon.com/images/I/81eVNRyOahL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 35,
+      "asin": "B0FW4YVTQP",
+      "title": "Mobile Monitor 23.8 Inch 120Hz Touch Panel Vimonic QLED Portable Display | FHD Touch Monitor, Non-Glossy IPS Panel, Portable Monitor, VESA, Large Sub-Monitor, Type-C and Mini HDMI, Gamer, Business",
+      "rating": 4.4,
+      "reviews": 271,
+      "price": 37980,
+      "image": "https://m.media-amazon.com/images/I/61OJ9vMFBRL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 36,
+      "asin": "B0FQNHNMMC",
+      "title": "Pixio PX246Wave Beige 24\" 120hz FHD IPS HDMI Gaming Monitor Brown Pixio | ディスプレイ サブモニター pcモニター ゲームモニター monitor gaming 23.8インチ スピーカー内蔵 beige ぴくしお ps5 switch2 ゲーミングpc モニター台",
+      "rating": 4.5,
+      "reviews": 143,
+      "price": 18980,
+      "image": "https://m.media-amazon.com/images/I/71p43kLY6iL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 37,
+      "asin": "B0D6QB71XD",
+      "title": "IODATA Gaming Monitor 24.5-inch GigaCrysta 120Hz HFS Panel Black, Zero Bright Pixel Warranty (HDMI/DisplayPort/VESA Compatible/Tilt Angle Adjustment/Weekend Support/Japanese Manufacturer/Zero Bright",
+      "rating": 4.2,
+      "reviews": 148,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/71oFvAcFePL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 38,
+      "asin": "B0G5NB3W1B",
+      "title": "Pixio PX246 Wave Pastel Blue Gaming Monitor 23.8\" FHD 120Hz IPS Pastel Blue Light Blue Pixio HDMI VGA 4ms ps5",
+      "rating": 4.5,
+      "reviews": 143,
+      "price": 20480,
+      "image": "https://m.media-amazon.com/images/I/71P1QFMqEQL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 39,
+      "asin": "B0GWHRXL3B",
+      "title": "Dell P2426HE 23.8-Inch USB-C Hub Monitor / 1920 x 1080 / HDMI, DisplayPort, USB-C Powered/Black/Speaker: No",
+      "rating": 4,
+      "reviews": 0,
+      "price": 34100,
+      "image": "https://m.media-amazon.com/images/I/61amK7p5veL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 40,
+      "asin": "B0F18LR9N7",
+      "title": "JAPANNEXT JN-IPS238G120F-W 23.8-Inch Gaming Monitor | ホワイトモデル,IPSパネル,120Hz/0.5ms(MPRT)対応,フルHD(1920×1080)解像度,HDMI,VGA,HDR,sRGB:100%,PS5:120Hz接続,2年保証,ホワイト",
+      "rating": 4.4,
+      "reviews": 22,
+      "price": 15800,
+      "image": "https://m.media-amazon.com/images/I/81rVmEsxVBL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 41,
+      "asin": "B0GWLK9N2Y",
+      "title": "Dell P2426 24.1-inch Monitor / 1920 x 1200 / HDMI, DisplayPort, USB-C 15W Powered/Black/Speaker: No",
+      "rating": 4,
+      "reviews": 0,
+      "price": 29149,
+      "image": "https://m.media-amazon.com/images/I/61ppbJEr44L._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 42,
+      "asin": "B0GX5B7CMS",
+      "title": "LG LCD Monitor, LG Monitor 24BF410B-B, 23.8 inches, Full HD (1920 x 1080), IPS/sRGB 99%, HDR/120Hz, Anti-Glare, Blue Light Reduction Mode, Flicker Safe, Color Adjustment, Green Purchase Method, Energy",
+      "rating": 4,
+      "reviews": 0,
+      "price": 16990,
+      "image": "https://m.media-amazon.com/images/I/71PegOy1V0L._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 43,
+      "asin": "B0G5NVCXK5",
+      "title": "Pixio PX246 Wave Gaming Monitor 23.8\" Black FHD 120Hz IPS Pixio HDMI VGA 4ms PS5",
+      "rating": 4.5,
+      "reviews": 143,
+      "price": 20480,
+      "image": "https://m.media-amazon.com/images/I/71-COhWww2L._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 44,
+      "asin": "B0FGWVW6Z4",
+      "title": "DELL U2424H LCD Display 23.8 Type/1920 x 1080/HDMI, DisplayPort/Silver",
+      "rating": 4,
+      "reviews": 0,
+      "price": 34589,
+      "image": "https://m.media-amazon.com/images/I/51RIyW1o3tL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 45,
+      "asin": "B0G5NJ354Q",
+      "title": "【5-Year Warranty Included】Pixio PX246 Wave Beige Gaming Monitor 23.8 Inches Beige FHD 120Hz IPS Pixio HDMI VGA 4ms PS5",
+      "rating": 4.5,
+      "reviews": 143,
+      "price": 20480,
+      "image": "https://m.media-amazon.com/images/I/71p43kLY6iL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 46,
+      "asin": "B0FGWV9SC3",
+      "title": "DELL U2424HE LCD 23.8 inch / 1920 x 1080 / HDMI, DisplayPort/Silver/Speaker: No",
+      "rating": 4,
+      "reviews": 0,
+      "price": 44678,
+      "image": "https://m.media-amazon.com/images/I/51iTjV9ZU8L._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 47,
+      "asin": "B084B948TK",
+      "title": "Acer WQHD LCD Monitor OmegaLine B247YUbmiipprx 23.8 IPS Matte 2560x1440 WQHD 300cd 4ms HDMI Height Swivel Pivot",
+      "rating": 4.3,
+      "reviews": 28,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/7164f99Wa9L._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 48,
+      "asin": "B0F18JTGRR",
+      "title": "JAPANNEXT JN-IPS238G120F-YE 23.8\" Gaming Monitor | Yellow Model, IPS Panel, Supports 120Hz/0.5ms (MPRT), Full HD (1920 x 1080) Resolution, HDMI, VGA, HDR, sRGB: 100%",
+      "rating": 4.4,
+      "reviews": 22,
+      "price": 15282,
+      "image": "https://m.media-amazon.com/images/I/81nK7bGNXCL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 49,
+      "asin": "B0FFGT8L7C",
+      "title": "Greenhouse GH-LCW24V-BK 23.8-inch Wide Monitor, Full HD, 120 Hz, Wide Viewing Angle, 178° Top, Left, Left, and Right Speakers, DisplayPort HDMI, Low Power Consumption, Black",
+      "rating": 4,
+      "reviews": 0,
+      "price": 18272,
+      "image": "https://m.media-amazon.com/images/I/71ELaZGr7iL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 50,
+      "asin": "B0F7J54214",
+      "title": "23.8 Inch Portable Monitor, 1080P Mobile Monitor 120Hz FHD HDR Plug and Play HDMI IPS Mobile Display with Dual Speakers, Travel External Screen for PC, Tablet, Mac, Xbox, PS3/4/5",
+      "rating": 4.1,
+      "reviews": 257,
+      "price": 25900,
+      "image": "https://m.media-amazon.com/images/I/81Sa+pVw8oL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 51,
+      "asin": "B0F18DQ2VW",
+      "title": "JAPANNEXT JN-IPS238G120F-BB 23.8\" Gaming Monitor | ベイビーブルーモデル,IPSパネル,120Hz/0.5ms(MPRT)対応,フルHD(1920×1080)解像度,HDMI,VGA,HDR,sRGB:100%,PS5:120Hz接続,2年保証,ベイビーブルー",
+      "rating": 4.4,
+      "reviews": 22,
+      "price": 15282,
+      "image": "https://m.media-amazon.com/images/I/71+wx61MyML._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 52,
+      "asin": "B0GGV98K1W",
+      "title": "Philips 22-Inch Computer Monitor FHD 120Hz Overclocking IPS VESA, 22E2N1100 | 1920x1080 LED Monitor, 1ms MPRT, Adaptive Sync, HDMI 1.4, VGA, No Flicker, Low Blue Light, 4 Year Replacement Warranty",
+      "rating": 4.5,
+      "reviews": 76,
+      "price": 16433,
+      "image": "https://m.media-amazon.com/images/I/71A9eHcJyFL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 53,
+      "asin": "B0CP188Q11",
+      "title": "Dell U2424H UltraSharp 24\" Full HD (1920x1080) Monitor, 120Hz, IPS, 5ms, 100% sRGB, 2x USB-C, 2x DisplayPort, HDMI, 3x USB, 3 Anni di Garanzia, Argento",
+      "rating": 4.2,
+      "reviews": 157,
+      "price": 32658,
+      "image": "https://m.media-amazon.com/images/I/6152cmXseLL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 54,
+      "asin": "B0G5NGXRLW",
+      "title": "Pixio PX246 Wave Pastel Pink Gaming Monitor 23.8\" FHD 120Hz IPS Pastel Pink Pixio HDMI VGA 4ms ps5",
+      "rating": 4.5,
+      "reviews": 143,
+      "price": 20480,
+      "image": "https://m.media-amazon.com/images/I/71FQuWa0x7L._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 55,
+      "asin": "B0GVRCKV8J",
+      "title": "Dell P2426H 23.8-Inch Monitor /1920 x 1080/USB-C, HDMI, DisplayPort, VGA/Black/Speaker: No",
+      "rating": 4,
+      "reviews": 0,
+      "price": 30399,
+      "image": "https://m.media-amazon.com/images/I/81I6cqTkSwL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 56,
+      "asin": "B0CP18HHY1",
+      "title": "Dell U2424HE 23.8\" USB-C Hub Monitor 1920 x 1080/HDMI, DisplayPort, USB-C Powered/Silver/Speaker: No",
+      "rating": 3.7,
+      "reviews": 30,
+      "price": 42299,
+      "image": "https://m.media-amazon.com/images/I/6152cmXseLL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 57,
+      "asin": "B0DPBCDYYB",
+      "title": "MSI PRO MP252 E2 24.5\" IPS 1920 x 1080 (FHD) Gaming Office Monitor, 120Hz, Adaptive Sync, HDR Supported, HDMI, VGA Port, DisplayPort, VESA Mountable, Tilt, Speaker, 4-Sided Slim Bezel, 1ms, Black",
+      "rating": 4.6,
+      "reviews": 277,
+      "price": 19800,
+      "image": "https://m.media-amazon.com/images/I/817A427HyZL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 58,
+      "asin": "B0DC7YF7G9",
+      "title": "MSI PRO MP251 E2 24.5\" IPS 1920 x 1080 (FHD) Gaming Office Monitor, 120Hz, Adaptive Sync, HDR Supported, HDMI, VGA Port, DisplayPort, VESA Mountable, Tilt, Speaker, 1ms, Black",
+      "rating": 4.7,
+      "reviews": 178,
+      "price": 23718,
+      "image": "https://m.media-amazon.com/images/I/71It6SxJE+L._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 59,
+      "asin": "B0DYQX28HR",
+      "title": "Acer 23.8インチ FHD 1920x1080 IPS 120Hz オフィスモニター KA242Y G0bi | 1ms、AdaptiveSync、SRGB 99%、HDMI、VGA、VESAマウント可能、ブルーライトフィルター、フリッカーレステクノロジー。",
+      "rating": 4.6,
+      "reviews": 16,
+      "price": 19224,
+      "image": "https://m.media-amazon.com/images/I/71DBfOc59qL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 60,
+      "asin": "B0GWNQWXMF",
+      "title": "ASUS 24\" IPS Business Monitor (VA249QGSE) - 24\", IPS, Full HD, Frameless, 120Hz, Adaptive Sync, 1ms MPRT, HDMI, DisplayPort, VGA, Ergonomic Design, Wall Mounted, 3 Year Warranty",
+      "rating": 4,
+      "reviews": 0,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/71idEUtMUdL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 61,
+      "asin": "B0G5ZC3NDH",
+      "title": "Acer SB223Q J0bi 21.5\" Full HD 1920 x 1080 Ultra Thin Home Office Monitor | Adaptive Sync Support (FreeSync Compatible) | Up to 120Hz Refresh Rate | 1ms VRB | sRGB 99% | Tilt | HDMI 1.4 & 1 x VGA Port | 1ms、AdaptiveSync、SRGB 99%、HDMI、VGA、スピーカー、VESAマウント可能、ブルーライトフィルター、フリッカーレステクノロジー。",
+      "rating": 4.2,
+      "reviews": 7,
+      "price": 16185,
+      "image": "https://m.media-amazon.com/images/I/71Mnzoo+HNL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 62,
+      "asin": "B0GWNFCPQZ",
+      "title": "Dell P2426E 24.1\" USB-C Hub Monitor / 1920 x 1200 / HDMI, DisplayPort, USB-C Powered/Black/Speaker: No",
+      "rating": 4,
+      "reviews": 0,
+      "price": 49999,
+      "image": "https://m.media-amazon.com/images/I/61zkerfY6YL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 63,
+      "asin": "B0F5RHB9MZ",
+      "title": "AOC 24B35H3 24\" IPS Full HD (1920 x 1080) 120Hz LED Monitor Adaptive Sync VGA & HDMI Flicker Free Low Blue Light Cut HDR Support VESA Tilt Adjustable Eco Friendly",
+      "rating": 4.6,
+      "reviews": 1,
+      "price": 17980,
+      "image": "https://m.media-amazon.com/images/I/717-I45dCuL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 64,
+      "asin": "B0FKJJGSSR",
+      "title": "Philips 24E2N2100 24\" IPS FHD (1920 x 1080) 120Hz Gaming Office Monitor x1 VESA/HDMI x1 VGA Port x1 Eyecare 4 Years Replacement Warranty | 1920×1080 LEDモニター、HDMI 1.4、VGA、VESA、アダプティブ同期、ちらつきなし、低ブルーライト、4年間の交換保証",
+      "rating": 4.7,
+      "reviews": 82,
+      "price": 19096,
+      "image": "https://m.media-amazon.com/images/I/712lyvxv+YL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 65,
+      "asin": "B0FFGS1732",
+      "title": "Greenhouse GH-LCW24VH-BK 23.8-inch Wide Monitor, Elevating Stand, Full HD, 120Hz, Wide Viewing Angle, 178° Left and Right Speakers, DisplayPort HDMI, Multi-functional Stand, Low Power Consumption",
+      "rating": 4,
+      "reviews": 0,
+      "price": 19735,
+      "image": "https://m.media-amazon.com/images/I/71FENsGF7yL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 66,
+      "asin": "B0F8F3LKY2",
+      "title": "2025 Samsung S3 (S32GF) FHD 120Hz モニター IPSパネル付き フリッカーフリー アイシールドモード LS24F320GANXZA",
+      "rating": 4.6,
+      "reviews": 561,
+      "price": 28120,
+      "image": "https://m.media-amazon.com/images/I/71a3EXtOsOL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 67,
+      "asin": "B0DM6TBT9F",
+      "title": "ASUS 24\" (23.8\") 1080P VA249HG Eye Care Monitor - IPS, Full HD, 99%sRGB, Frameless, 120Hz, Adaptive Sync, 1ms, HDMI, VGA, Low Blue Light, Flicker-Free, Wall Mounted, 3 Year Warranty",
+      "rating": 4.3,
+      "reviews": 142,
+      "price": 24480,
+      "image": "https://m.media-amazon.com/images/I/71-wBceHczL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 68,
+      "asin": "B0FWHF97TT",
+      "title": "ASUS 24\" USB-C Docking Monitor (BE249CGN) - IPS, 120Hz, Frameless, RJ45, Speaker, Height Adjustable, Ergonomic, Daisy Chain, ASUS Power Sync, Eycare, VESA Wall Mounted, 3 Year Warranty",
+      "rating": 4.4,
+      "reviews": 19,
+      "price": 42553,
+      "image": "https://m.media-amazon.com/images/I/81gSTnCl5wL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 69,
+      "asin": "B0F18R25R3",
+      "title": "【Purple Model】JAPANNEXT 23.8-inch IPS Panel Gaming Monitor 120Hz/0.5ms (MPRT) Compatible Full HD (1920x1080) Resolution JN-IPS238G120F-PP HDMI VGA HDR sRGB:100% PS5:120Hz Connection 【2-Year Warranty】 | Purple Model, IPS Panel, Supports 120Hz/0.5ms (MPRT), Full HD (1920 x 1080) Resolution, HDMI, VGA, HDR, sRGB: 100%",
+      "rating": 4.4,
+      "reviews": 22,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/713EtKtxAJL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 70,
+      "asin": "B0F6LMNF7G",
+      "title": "Gawfolk 24.5\" Gaming Curved Monitor Built-in Speaker, 3000R 120Hz PC Screen Full HD 1080P, HDMI 2.0, VGA, Wall Mount Support 75*75mm | 内蔵スピーカー、HDMI 2.0、VGA、ウォールマウント互換75\\*75mm",
+      "rating": 4.4,
+      "reviews": 101,
+      "price": 19460,
+      "image": "https://m.media-amazon.com/images/I/71+WKBH32EL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 71,
+      "asin": "B0GPC1QNKV",
+      "title": "Lenovo ThinkVision P24QD-40 64B1GAR1JP Monitor (23.8 Type, IPS WQHD Matte, 48Hz-120Hz, HDMI, DisplayPort, USB, Type-C, RJ45, Tilt, Swivel Pivot, Height Adjustable 3",
+      "rating": 4,
+      "reviews": 0,
+      "price": 54710,
+      "image": "https://m.media-amazon.com/images/I/51tzMVvqSIL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 72,
+      "asin": "B0FHKDC59F",
+      "title": "LG 24U411A-B 24\" Full HD (1920x1080) IPS Computer Monitor 120Hz HDR10 Reader Mode Flicker Safe HDMI Slim Stand Base Black",
+      "rating": 4.6,
+      "reviews": 497,
+      "price": 24306,
+      "image": "https://m.media-amazon.com/images/I/71kTwM8vbWL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 73,
+      "asin": "B0F7XSYQ6K",
+      "title": "Gawfolk 24.5\" Gaming Curved Monitor Built-in Speaker, 3000R 120Hz White PC Screen Full HD 1080P, HDMI 2.0, VGA, Wall Mount Support 75*75mm | HDMI 2.0 VGAウォールマウント互換75 * 75mm内蔵スピーカー。",
+      "rating": 4.2,
+      "reviews": 62,
+      "price": 19443,
+      "image": "https://m.media-amazon.com/images/I/71IdqsogW2L._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 74,
+      "asin": "B0H7BVJGNX",
+      "title": "Acer Vero V247Y G 61cm Class フルHD LCD モニター - 16:9 - ブラック",
+      "rating": 4,
+      "reviews": 0,
+      "price": 24366,
+      "image": "https://m.media-amazon.com/images/I/71-8Rc1SWCL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 75,
+      "asin": "B0HB7KMR5F",
+      "title": "ASUS 61cm 1080P ビジネスモニター (BE249QG-R) 120Hz、スピーカー、3年保証 | 95%DCI-P3色域、人間工学に基づいたデザイン、ASUSアイケア、USBハブ&スピーカー、3年保証",
+      "rating": 4,
+      "reviews": 0,
+      "price": 35332,
+      "image": "https://m.media-amazon.com/images/I/81Bg1AagNeL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 76,
+      "asin": "B0GK87J5L7",
+      "title": "Lenovo ThinkVision T24-40 64A4MARXJP Monitor (23.8 inch IPS Full HD Matte HDMI VGA DisplayPort Tilt Swivel Pivot Height Adjustable 3",
+      "rating": 4,
+      "reviews": 0,
+      "price": 33000,
+      "image": "https://m.media-amazon.com/images/I/51ZZ3hdch4L._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 77,
+      "asin": "B0H8NQPWD6",
+      "title": "SKitphrati 23.8インチ 1080P IPS 120Hz モニター ビジネス&ゲーム用 - 内蔵調節可能な3MPウェブカメラ、マイクアレイ、デュアルスピーカー、フレームレス、アイケア、HDMI/DP/VGA/USB。",
+      "rating": 4,
+      "reviews": 0,
+      "price": 30306,
+      "image": "https://m.media-amazon.com/images/I/71ro1G79vrL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 78,
+      "asin": "B0FVD2FJP3",
+      "title": "ASRock CL25FFA 24.5\" FHD (1920 x 1080) Flat IPS Display Monitor",
+      "rating": 5,
+      "reviews": 1,
+      "price": 24478,
+      "image": "https://m.media-amazon.com/images/I/61Lk8-pGv+L._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 79,
+      "asin": "B0H46VYY2G",
+      "title": "ASUS 24\" 1080P Eye Care Monitor (VA24EHF2) - IPS, Full HD, 99%sRGB, Frameless, 120Hz, Adaptive Sync, 1ms, HDMI, VGA, Low Blue Light, Flicker-Free, Wall Mounted, 3 Year Warranty",
+      "rating": 4,
+      "reviews": 0,
+      "price": 33035,
+      "image": "https://m.media-amazon.com/images/I/714a4R0fAIL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 80,
+      "asin": "B0G3CZ2GT7",
+      "title": "ASUS 61cm 1080P ビジネスモニター (VA249QGS) - IPS、フルHD、フレームレス、120Hz、アダプティブ同期、1ms、HDMI、DisplayPort、VGA、アイケア、低ブルーライト、人間工学、VESA壁取り付け可能、3年保証",
+      "rating": 4.8,
+      "reviews": 17,
+      "price": 44671,
+      "image": "https://m.media-amazon.com/images/I/81AxU6CLcqL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 81,
+      "asin": "B0FHDVMW2P",
+      "title": "SANSUI 22\" 120Hz Monitor FHD Computer Monitor 4000:1 Contrast Ratio Adaptive Sync HDR 100% sRGB HDMI 2.1 x 2 VESA Mount Eyecare for Home/Office (ES-22X3AH, 1 HDMI Cable Included)",
+      "rating": 4.4,
+      "reviews": 195,
+      "price": 25812,
+      "image": "https://m.media-amazon.com/images/I/81T3Y0MTTBL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 82,
+      "asin": "B0GVQ3B8MH",
+      "title": "GTek 22インチ ゲーミングモニター FHD 1080P 120Hz VAパネル 1ms MPRT FreeSync/G-Sync対応 HDMI VGA オーディオイン アイケア 超スリムフラットスクリーン ゲーム&オフィス用",
+      "rating": 4,
+      "reviews": 0,
+      "price": 26445,
+      "image": "https://m.media-amazon.com/images/I/71A9FS1pepL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 83,
+      "asin": "B0CTJQKPZJ",
+      "title": "Dell UltraSharp 24 Monitor - U2424H, FHD 1080p | FHD 1080p",
+      "rating": 4.3,
+      "reviews": 63,
+      "price": 70984,
+      "image": "https://m.media-amazon.com/images/I/61HkJf8cSKL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 84,
+      "asin": "B0FM76LQLM",
+      "title": "ArcticPro 24インチ 120Hz モニター FHD 1080p コンピューターモニター IPS 99%sRGB 応答時間 1ms フレームレス ウルトラスリム VESAマウント ブルーライト防止設計 HDMIポート",
+      "rating": 4.4,
+      "reviews": 55,
+      "price": 25313,
+      "image": "https://m.media-amazon.com/images/I/719toNbRzDL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 85,
+      "asin": "B0DRBVHTTK",
+      "title": "24\" Computer Monitor, 120Hz, FHD 1080p Office and Game Monitor, 1ms Response Time, 3 Sided Frameless, Ultra Slim, VESA Mountable, Anti-Blue Light Design, HDMI, VGA | 99% sRGB、アダプティブ同期、3面フレームレス、ウルトラスリム、VESAマウント可能、アンチブルーライト、HDMI&VGAポート。",
+      "rating": 4.5,
+      "reviews": 156,
+      "price": 24929,
+      "image": "https://m.media-amazon.com/images/I/71YgWDHzfPL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 86,
+      "asin": "B0F3B7B6K6",
+      "title": "Acer Vero V247Y G 61 cm Class LCD モニター - 16:9 - ブラック",
+      "rating": 5,
+      "reviews": 3,
+      "price": 33561,
+      "image": "https://m.media-amazon.com/images/I/61r-fSmHmnL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 87,
+      "asin": "B0DHFX4MPQ",
+      "title": "ASUS 24\" 120Hz - 1080p (Full HD), IPS, 120Hz, 1ms, Adaptive Sync, Eye Care Plus, Blue Light Filter, No Flicker",
+      "rating": 4.4,
+      "reviews": 38,
+      "price": 27770,
+      "image": "https://m.media-amazon.com/images/I/81E-gg3jhlL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 88,
+      "asin": "B0CHN4JZT8",
+      "title": "ASUS TUF Gaming 24\" (23.8\" viewable) 1080P Monitor (VG249QL3A) - Full HD, 180Hz, 1ms, Fast IPS, ELMB, FreeSync Premium, G-SYNC Compatible, Speakers, DisplayPort, Height Adjustable, 3 Year Warranty",
+      "rating": 4.5,
+      "reviews": 229,
+      "price": 36522,
+      "image": "https://m.media-amazon.com/images/I/716YTdEbj8L._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 89,
+      "asin": "B0DJ28LKX9",
+      "title": "ViewSonic VA2456A-MHD 24\" IPS 1080p Monitor 120Hz, Eye Care, HDMI, DisplayPort, VGA Input for Home and Office",
+      "rating": 4.6,
+      "reviews": 147,
+      "price": 32730,
+      "image": "https://m.media-amazon.com/images/I/61j+mpnEJTL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 90,
+      "asin": "B0FQJ8CK6D",
+      "title": "ZZA 24.5インチ 120Hz カーブゲーミングモニター | FHD 1080P フレームレスデザイン AMD FreeSync ローモーションブラー アイケアテクノロジー DisplayPort & HDMI接続 VESAウォールマウント対応 - ブラック",
+      "rating": 4.1,
+      "reviews": 7,
+      "price": 26731,
+      "image": "https://m.media-amazon.com/images/I/71F3MqDAK3L._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 91,
+      "asin": "B0D2RW526R",
+      "title": "acer SB240Y G0bi 23.8\" IPS Full HD Ultra Slim Edge-to-Edge Gaming Office Monitor | Supports Adaptive Sync (FreeSync) | Refresh up to 120Hz | 1ms (VRB) | Tilt | HDMI & VGA Ports | Black",
+      "rating": 4.6,
+      "reviews": 598,
+      "price": 30172,
+      "image": "https://m.media-amazon.com/images/I/81aRnzRkLSL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 92,
+      "asin": "B0DM6RQ1JY",
+      "title": "ASUS 24\" 1080P Business Monitor (VA249QGS) - IPS, Full HD, Frameless, 120Hz, Adaptive Sync, 1ms, HDMI, DisplayPort, VGA, Eye Care, Low Blue Light, Ergonomic, VESA Wall Mounted, 3 Year Warranty",
+      "rating": 4,
+      "reviews": 0,
+      "price": 44918,
+      "image": "https://m.media-amazon.com/images/I/71uVSlhHeIL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 93,
+      "asin": "B0H296K3RT",
+      "title": "Dell Pro P P2426H 61cm FHD 120Hz ビジネスモニター、USB-C、HDMI、DisplayPort。 | アンチグレア61cm (1920×1080) モニター、アダプティブシンク、VESAマウント、デュアルフロントUSB-C、アイコンフォートテック、スリムベゼル、簡単セットアップ",
+      "rating": 5,
+      "reviews": 4,
+      "price": 53952,
+      "image": "https://m.media-amazon.com/images/I/71obIMY5e3L._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 94,
+      "asin": "B0DW5N14GV",
+      "title": "acer 24\" FHD IPS Monitor 4ms Response Time, Anti-Glare, Adaptive Sync, Integrated Speaker, VESA Mount (100x100mm) & Dockztorm USB Port Expander VGA HDMI Black",
+      "rating": 4.5,
+      "reviews": 2,
+      "price": 36997,
+      "image": "https://m.media-amazon.com/images/I/91DtA35B4RL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 95,
+      "asin": "B0GBJ9GFMG",
+      "title": "Acer Vero CB242Y G 24インチ クラス LCD モニター - 16:9 - ブラック",
+      "rating": 4,
+      "reviews": 0,
+      "price": 30338,
+      "image": "https://m.media-amazon.com/images/I/61K31lywfML._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 96,
+      "asin": "B0H4WBLWPV",
+      "title": "Lenovo ThinkVision T24-4v 61cm ウェブカメラ フルHD LEDモニター、エクリプスブラック",
+      "rating": 4,
+      "reviews": 0,
+      "price": 57848,
+      "image": "https://m.media-amazon.com/images/I/61+xPLGoZLL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 97,
+      "asin": "B0CZ3KWC3P",
+      "title": "ViewSonic VX2416A 24\" Gaming Monitor FreeSync 1080p 1ms 100Hz IPS",
+      "rating": 4.4,
+      "reviews": 28,
+      "price": 32444,
+      "image": "https://m.media-amazon.com/images/I/71k5De31qdL._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 98,
+      "asin": "B0GRPTR821",
+      "title": "Acer Vero CB242Y G 24\" Class LCD Monitor - 16:9 - Black",
+      "rating": 4,
+      "reviews": 0,
+      "price": 36980,
+      "image": "https://m.media-amazon.com/images/I/61K31lywfML._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 99,
+      "asin": "B0F16TCSVC",
+      "title": "ViewSonic VP2456A 24\" 1080p IPS Monitor Advanced Ergonomic ColorPro 100% sRGB Rec 709 Pantone Verified 14-bit 3D LUT 120Hz USB HDMI DisplayPort, 90W USB C Home",
+      "rating": 3.6,
+      "reviews": 4,
+      "price": 58156,
+      "image": "https://m.media-amazon.com/images/I/619UeXbmNtL._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 100,
+      "asin": "B0DWTT8NQL",
+      "title": "Pixio PX246 Wave Blue 24\" 120Hz Refresh Rate FHD 1080p Resolution IPS Panel 4ms GTG Response Time Gaming Monitor with Adaptive Sync",
+      "rating": 4.7,
+      "reviews": 110,
+      "price": 38843,
+      "image": "https://m.media-amazon.com/images/I/71-StbmsrpL._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 101,
+      "asin": "B0FXCJ9B3N",
+      "title": "Lenovo ThinkVision T24-40 61 cm クラス フルHD LED モニター - 16:9 - エクリプス ブラック",
+      "rating": 4,
+      "reviews": 0,
+      "price": 61721,
+      "image": "https://m.media-amazon.com/images/I/61yZs4SPSRL._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 102,
+      "asin": "B0FVFLDQJG",
+      "title": "Lenovo ThinkVision T24D-40 24インチクラスフルHD LEDモニター - 16:9 - エクリプスブラック",
+      "rating": 4,
+      "reviews": 0,
+      "price": 64827,
+      "image": "https://m.media-amazon.com/images/I/61hZo3G-uuL._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 103,
+      "asin": "B0FBH52NT7",
+      "title": "MSI PRO MP242PMG 24\" IPS 1920 x 1080 (FHD) Computer Monitor, 120Hz, Webcam, Adaptive Sync, EPEAT Silver, HDMI, DisplayPort, VGA Port, VESA Mountable, Tilt, Height Adjustable, Speaker, 1ms, Black",
+      "rating": 4.2,
+      "reviews": 15,
+      "price": 68341,
+      "image": "https://m.media-amazon.com/images/I/81TUzaBhkqL._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 104,
+      "asin": "B0DWJQCVRG",
+      "title": "Dell UltraSharp U2424H Monitor - 24\", Full HD (1080p) 1920 x 1080 at 120 Hz, 16:9 IPS, DisplayPort, Type-C, USB-C Cable Computer Monitor Screen - 1 Pack (New)",
+      "rating": 5,
+      "reviews": 1,
+      "price": 68732,
+      "image": "https://m.media-amazon.com/images/I/710hR49nKYL._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 105,
+      "asin": "B0FLVF4BXL",
+      "title": "ASRock 24.5\" CL25FFA 16:9 HDMI/VGA 120Hz FHD",
+      "rating": 5,
+      "reviews": 1,
+      "price": 56763,
+      "image": "https://m.media-amazon.com/images/I/61Lk8-pGv+L._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 106,
+      "asin": "B0FBHSFKH9",
+      "title": "MSI PRO MP272PMG 24\" IPS 1920 x 1080 (FHD) Computer Monitor, 120Hz, Webcam, Adaptive Sync, EPEAT Silver, HDMI, DisplayPort, VGA Port, VESA Mountable, Tilt, Height Adjustable, Speaker, 1ms, Black",
+      "rating": 4.2,
+      "reviews": 19,
+      "price": 78525,
+      "image": "https://m.media-amazon.com/images/I/81fXZW2R2uL._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 107,
+      "asin": "B0DS1ZLB9C",
+      "title": "ViewSonic VA2456A-MHD_H2 24\" 120Hz Dual Business Monitor w/o Stand",
+      "rating": 4.6,
+      "reviews": 27,
+      "price": 57660,
+      "image": "https://m.media-amazon.com/images/I/61pIgXUFwrL._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 108,
+      "asin": "B0FM699T5T",
+      "title": "Pixio PX246 ウェーブパープル 24インチ 120Hz リフレッシュレート FHD 1080p 解像度 IPSパネル 4ms GTG レスポンスタイム ゲーミング モニター アダプティブシンク付き",
+      "rating": 4.8,
+      "reviews": 9,
+      "price": 54807,
+      "image": "https://m.media-amazon.com/images/I/71ZxWVsOWoL._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 109,
+      "asin": "B0FV156B1P",
+      "title": "Pixio PX246 ウェーブ ベージュ 24インチ 120Hz リフレッシュレート FHD 1080p 解像度 IPS パネル 4ms GTG レスポンスタイム ゲーミング モニター アダプティブシンク付き",
+      "rating": 4.4,
+      "reviews": 36,
+      "price": 41692,
+      "image": "https://m.media-amazon.com/images/I/71e+erYivGL._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 110,
+      "asin": "B089NZ4HJ4",
+      "title": "Acer V247YU BMIIPX 24 LED LCD MON 25X14 16:9",
+      "rating": 5,
+      "reviews": 2,
+      "price": 56423,
+      "image": "https://m.media-amazon.com/images/I/61wjjVw28uL._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 111,
+      "asin": "B0FK2W43ZM",
+      "title": "Lenovo ThinkVision T24-40 24\" FHD IPS Monitor 4ms Response Time, Anti-Glare, Flicker Free, VESA Mount (100mm), Display Port, HDMI & DKZ Hub, Black (64A4MARXUS) Ergoflexy Single Mount Arm",
+      "rating": 4,
+      "reviews": 0,
+      "price": 69026,
+      "image": "https://m.media-amazon.com/images/I/61tg8YrMIzL._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 113,
+      "asin": "B0FMYPP5CS",
+      "title": "Lenovo TS-P24QD-40 23.8インチ 2560x1440 IPS 120Hz。",
+      "rating": 5,
+      "reviews": 1,
+      "price": 97932,
+      "image": "https://m.media-amazon.com/images/I/71RxLDRRTVL._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 114,
+      "asin": "B0FK2T6RYZ",
+      "title": "Lenovo ThinkVision 24\" FHD IPS Monitor 4ms Response Time, Anti-Glare, Flicker-Free, VESA Mount (100mm), Display Port, HDMI & DKZ Hub, Black, 2-Pack ErgoFlexy Dual Monitor Mount | 応答時間4ms、ちらつきなし、アンチグレア、HDMI w/DKZ USBハブ、ブラック 2パック & ErgoFlexy デュアルマウントアーム",
+      "rating": 4,
+      "reviews": 0,
+      "price": 116959,
+      "image": "https://m.media-amazon.com/images/I/61bkxS2-GjL._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 115,
+      "asin": "B0FPBDLRHV",
+      "title": "ThinkVision T24-40 23.8\" Monitor",
+      "rating": 3.8,
+      "reviews": 10,
+      "price": 51148,
+      "image": "https://m.media-amazon.com/images/I/61ECF4iPPSL._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 116,
+      "asin": "B0F1YWFNBT",
+      "title": "AOC 24B31H - 24\" Full HD Monitor, 120Hz, Adaptive Image Sync (1920x1080, 1xD-Sub, 1xHDMI 1.4x1) Black",
+      "rating": 4.6,
+      "reviews": 119,
+      "price": 73472,
+      "image": "https://m.media-amazon.com/images/I/613VQyejdaL._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 117,
+      "asin": "B0FNN97M6M",
+      "title": "iiyama 24インチ エコIPS 120Hz 1ms Eyesafe & EyeComfort認証 フルHD HDMI/DP/USB TCO10 TUV-GS Epeat Silver 高さ調節スタンド XB2492HSU-B1",
+      "rating": 4.9,
+      "reviews": 14,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/71AeFv80xlL._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 118,
+      "asin": "B0DMT5LHY8",
+      "title": "Dell U2424H LCD 23.8 Type/1920x1080/HDMI, DisplayPort/Silver/Speaker: No",
+      "rating": 4,
+      "reviews": 0,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/81waq88jlzL._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 119,
+      "asin": "B0FNQ24T2T",
+      "title": "MESWAO 23.8インチ ポータブルモニター 120Hz 1080P FHD IPS 100%sRGB USB-C HDMI プラグアンドプレイ ノートパソコン/PC/MacBook/コンソール用セカンドスクリーン 180°調節可能なスタンド VESAマウント ゲーム&仕事用",
+      "rating": 5,
+      "reviews": 1,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/71-TCEPe1fL._AC_SL1500_.jpg",
+      "searchPage": 3
+    }
+  ],
+  "excluded": [
+    {
+      "amazonRank": 112,
+      "asin": "B0BBFSYJ7D",
+      "title": "Dell U2424he Ultra Sharp 16:9 IPS 1920x1080 120hz 8ms USB-c Hub LAN Height Adjustable Tilt Swivel Pivot Vesa Hdmi Dp 3.0 3yr Wty (Adv Exch)",
+      "rating": 4,
+      "reviews": 13,
+      "price": 82815,
+      "image": "https://m.media-amazon.com/images/I/61NDAS2SWsL._AC_SL1500_.jpg",
+      "searchPage": 3
+    }
+  ],
+  "raw": [
+    {
+      "amazonRank": 1,
+      "asin": "B0CNK91XLQ",
+      "title": "Minifire 24-inch USB-C 120Hz Monitor IPS Built-in Speaker HDR10 Adaptive Sync VESA Compatible Frameless Type-C/HDMI Speaker Included Tilt Adjustable Business Use Five-Year Warranty (USB Type-C Cable",
+      "rating": 4,
+      "reviews": 455,
+      "price": 12999,
+      "image": "https://m.media-amazon.com/images/I/71VR8zB2CYL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 2,
+      "asin": "B0DL5X394K",
+      "title": "Acer Monitor 24.5-inch Full HD Matte IPS 120Hz 1ms (VRB) sRGB 99% AdaptiveSync HDMI 1.4 Mini D-Sub 15 Pin No Speaker or Headphone Port VESA Mount Compatible Zero Frame Design 3-Year Warranty (Panel 1",
+      "rating": 4.4,
+      "reviews": 59,
+      "price": 11990,
+      "image": "https://m.media-amazon.com/images/I/61N+kF++m4L._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 3,
+      "asin": "B0GR8NLC94",
+      "title": "FeuVision FSID24BF1AE PC Monitor, 23.8 inches, IPS Full HD, 120 Hz, USB Type-C, PD65W Power Supply, Height Adjustable, Elevation Stand",
+      "rating": 4,
+      "reviews": 0,
+      "price": 18480,
+      "image": "https://m.media-amazon.com/images/I/71bbXSsXTIL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 4,
+      "asin": "B0FCQPC9FQ",
+      "title": "【Amazon.co.jp Exclusive】PHILIPS LCD Display PC Monitor (23.8 Inches / IPS / FHD / 120Hz / 1ms / 5-Year Warranty / HDMI, USB Type-C (65W) / Tilt / Height-Adjustable / Anti-flicker / Blue Light",
+      "rating": 4.2,
+      "reviews": 77,
+      "price": 19506,
+      "image": "https://m.media-amazon.com/images/I/618NtTAWhhL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 5,
+      "asin": "B0GNR572Y6",
+      "title": "iiyama ProLite XB2491HS-B1J Monitor Display, 23.8-Inch, Full HD, IPS Type, Height Adjustment, Angle Adjustment, Vertical Rotation, HDMI DisplayPort Cable Included, Domestic Support",
+      "rating": 4.5,
+      "reviews": 8,
+      "price": 19800,
+      "image": "https://m.media-amazon.com/images/I/7156019AR6L._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 6,
+      "asin": "B0DNDXMLR7",
+      "title": "【Amazon.co.jp Exclusive】ASUS Monitor / VY249HGR Eye Care Monitor / 23.8 Inch FHD (1920 x 1080) / IPS / 120Hz (OC) / SmoothMotion / 1ms (MPRT) / Adaptive Sync / Blue Light Reduction / Flicker-Free",
+      "rating": 4.2,
+      "reviews": 298,
+      "price": 12580,
+      "image": "https://m.media-amazon.com/images/I/71T7FXVO9ZL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 7,
+      "asin": "B0FV856B9M",
+      "title": "PHILIPS LCD PC Monitor (23.8 inch / IPS / FHD / 120Hz / 1ms / 5 year warranty / HDMI, DVI-D, VGA / Tilt / SoftBlue / Flicker-Free / Blue Light Reduction AdaptiveSync / Slim Bezel / Work from Home",
+      "rating": 4.5,
+      "reviews": 31,
+      "price": 12800,
+      "image": "https://m.media-amazon.com/images/I/61kUfLQOfkL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 8,
+      "asin": "B0F6XXRRGF",
+      "title": "【Amazon.co.jp Exclusive】 ASUS Monitor VA249QGS / 23.8\" / IPS/Full HD/Height Adjustment, Swivel, Rotate/Frameless/120Hz/Adaptive-Sync/1ms MPRT/HDMI/DisplayPort/VGA/Blue Light Reduction/Flicker-Free",
+      "rating": 4.2,
+      "reviews": 74,
+      "price": 17480,
+      "image": "https://m.media-amazon.com/images/I/71zhefAehWL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 9,
+      "asin": "B0DJNJN6PK",
+      "title": "【Amazon.co.jp Limited】MSI PRO MP251W E2 Monitor, 24.5 Inch / Full HD / IPS Panel / 120Hz / HDMI / MSI Power Link / DisplayPort / D-sub / Anti Flicker / Blue Light Reduction / Integrated Speakers / HDR",
+      "rating": 4.6,
+      "reviews": 153,
+      "price": 17800,
+      "image": "https://m.media-amazon.com/images/I/514oFsBXUSL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 10,
+      "asin": "B0H9RJNG1V",
+      "title": "モニター 22インチ PCモニター 120Hz 1ms(OD) フルHD 1080P VAパネル非光沢 DCI-P3 85% sRGBカバー率100% 10bit(8bit＋FRC) ブルーライト軽減 スリムベゼル VESA対応 傾き調整 HDMIケーブル付属 P220F",
+      "rating": 5,
+      "reviews": 1,
+      "price": 14980,
+      "image": "https://m.media-amazon.com/images/I/81hSDLT8zNL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 11,
+      "asin": "B0GXB3SNLH",
+      "title": "MAGICRAVEN Wireless Mobile Monitor, 23.8 Inches, Full HD, 1080P, 5,000 mAh Battery, 100 Hz, Portable Display, IPS LCD Panel, USB-C, Mini HDMI, Compatible with Windows, Mac, iPhones, Smartphones, etc | ワイヤレスモバイルディスプレイ、120Hz、非光沢IPSパネル、自動回転、自立スタンド・VESA、薄型軽量、ポータブルモニター、無線＆有線対応、Type-C/Mini HDMI搭載、Win/Mac/iPhone/スマホ/S-witch/PS5対応",
+      "rating": 4.4,
+      "reviews": 32,
+      "price": 61999,
+      "image": "https://m.media-amazon.com/images/I/7110i0Xm8ZL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 12,
+      "asin": "B0GNYVHJ99",
+      "title": "iiyama ProLite XB2492HSU-B1J Monitor Display, 23.8-Inch, Full HD, IPS Type, Height Adjustment, Angle Adjustment, Vertical Rotation, HDMI DisplayPort, USB Hub, Cable Included",
+      "rating": 5,
+      "reviews": 2,
+      "price": 17980,
+      "image": "https://m.media-amazon.com/images/I/713qcOgiJBL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 13,
+      "asin": "B0FH24FR2N",
+      "title": "PHILIPS LCD PC Monitor (23.8 Inches / IPS / FHD / 120Hz / 1ms / 5 year warranty / HDMI, D-Sub / Tilt / Blue light reduction / Resource-saving package / AdaptiveSync / SDG compliant / Cable included",
+      "rating": 4.1,
+      "reviews": 13,
+      "price": 11480,
+      "image": "https://m.media-amazon.com/images/I/71ymH71qeEL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 14,
+      "asin": "B0GQGSCFWM",
+      "title": "iiyama ProLite X2492HSU-B1J Monitor Display, 23.8-Inch, Full HD, IPS Type, Angle Adjustment, HDMI DisplayPort, USB Hub Included, Cable Included",
+      "rating": 5,
+      "reviews": 2,
+      "price": 14578,
+      "image": "https://m.media-amazon.com/images/I/716hgWyzbDL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 15,
+      "asin": "B0F61CSNGQ",
+      "title": "JAPANNEXT JN-IPS238G120F-C6 23.8\" Gaming Monitor | IPS panel, 120 Hz compatible, Full HD (1920 x 1080) resolution, 0.5 ms (MPRT), HDMI, DP, USB Type-C (up to 65 W power), HDR",
+      "rating": 3.2,
+      "reviews": 2,
+      "price": 18980,
+      "image": "https://m.media-amazon.com/images/I/71iQDPNLWiL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 16,
+      "asin": "B0H8RQ82WJ",
+      "title": "BenQ GW2490P 23.8インチ フルHD IPS 120Hz アイケアモニター | ノングレア ブルーライト軽減 3辺ウルトラスリムベゼル 自動調光機能 フリッカーフリー sRGB 99% TUV認証 VESA MediaSync 本体3年保証（パネル・バックライト1年） ベンキュージャパン",
+      "rating": 4.3,
+      "reviews": 275,
+      "price": 23619,
+      "image": "https://m.media-amazon.com/images/I/61tpREJTdkL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 17,
+      "asin": "B0FX3S9D1N",
+      "title": "JAPANNEXT 23.8\" White Color LCD Monitor JN-238IPS120F-HSPC6-W | IPS Panel, 120 Hz Compatible, Full HD, HDMI, DisplayPort, USB-C, sRGB: 100%, HDR, PS5, Full HD: 120 Hz Connection",
+      "rating": 4.6,
+      "reviews": 3,
+      "price": 19073,
+      "image": "https://m.media-amazon.com/images/I/71RHQgliidL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 18,
+      "asin": "B0DT438HWJ",
+      "title": "Pixio PX246Wave Blue 24\" 120hz FHD IPS HDMI Gaming Monitor Blue Pixio | ディスプレイ サブモニター pcモニター ゲームモニター monitor gaming 23.8インチ スピーカー内蔵 blue ぴくしお ps5 switch2 ゲーミングpc モニター台",
+      "rating": 4.5,
+      "reviews": 143,
+      "price": 18980,
+      "image": "https://m.media-amazon.com/images/I/71P1QFMqEQL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 19,
+      "asin": "B0GWKZWV6N",
+      "title": "XUNDEFINED 21.5-Inch PC Monitor, 120Hz Full HD, LCD Display, Matte VA Panel, Built-in Speaker, 110% RGB FreeSync Compatible, Blue Light Reduction, Flicker Free, HDMI + VGA Port, Tilt Adjustment, VESA",
+      "rating": 4.1,
+      "reviews": 263,
+      "price": 9980,
+      "image": "https://m.media-amazon.com/images/I/71Ti0hYzQFL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 20,
+      "asin": "B0DMDQVRPT",
+      "title": "Acer Monitor 23.8 Inch Full HD Non-Gloss IPS 120Hz 1ms (VRB) sRGB 99% AdaptiveSync HDMI 1.4 Mini D-Sub 15 Pin Speaker/Headphone Port Audio Input Port VESA Mount Compatible Zero Frame Design 3-Year",
+      "rating": 4.2,
+      "reviews": 50,
+      "price": 12980,
+      "image": "https://m.media-amazon.com/images/I/61xg3OGIrIL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 21,
+      "asin": "B0H7147ZCB",
+      "title": "MSI Business Monitor PRO MP225 E12L 21.45 Inch Full HD/IPS/120Hz/1ms/Adaptive-Sync/HDMI 1.4b/D-Sub/VESA100",
+      "rating": 4,
+      "reviews": 0,
+      "price": 12800,
+      "image": "https://m.media-amazon.com/images/I/71Gs6231DeL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 22,
+      "asin": "B0H3NNB52H",
+      "title": "XUNDEFINED 21.5 Inch Monitor Full HD (1920 x 1080) 120Hz Ultra Thin LCD Monitor Built-in Speaker, VA Panel, Non-glare, 100% RGB 4000:1 Contrast Ratio, Adaptive Sync Compatible, Blue Light Reduction",
+      "rating": 4.6,
+      "reviews": 9,
+      "price": 11980,
+      "image": "https://m.media-amazon.com/images/I/71nTwqm72QL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 23,
+      "asin": "B0GVDCH1DD",
+      "title": "Philips 24B2U3601/11 LCD Display PC Monitor (WQHD/23.8 inches/IPS/120Hz/1ms/HDMI, DP, Type-C (PD90W)/Height Adjustment/Daisy Chain Compatible/RJ45/AdaptiveSync/TCO10/Cable Included/Energy Star)",
+      "rating": 5,
+      "reviews": 2,
+      "price": 34141,
+      "image": "https://m.media-amazon.com/images/I/61JwxKGFmWL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 24,
+      "asin": "B0DRC23SSG",
+      "title": "FeuVision Monitor 24-inch 120Hz Full HD 1080p IPS Display 3-Side Ultra-Narrow Bezel & Ultra-Thin PC Monitor Non-Glare Blue Light Reduction Angle Adjustment sRGB 99% Adaptive Sync Compatible VESA HDMI | Adaptive Sync 対応 VESA 3辺超狭額&超薄型, pc モニター, 非光沢 ブルーライト軽減, 角度調節, sRGB 99%, HDMI&VGAポート",
+      "rating": 4.1,
+      "reviews": 129,
+      "price": 11280,
+      "image": "https://m.media-amazon.com/images/I/71XaJxUDaJL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 25,
+      "asin": "B0DNS71Y9Q",
+      "title": "EVICIV QLED Mobile Monitor, 23.8 inch, 120 Hz, Large Screen, Mobile Display, USB-C Powered, FHD, 1080P, 1000:1, 100% RGB, Non-Glossy, Slim, Portable Monitor, Standing Stand, HDR, VESA Compatible, Wall Mounted, Business Meeting, Home Work, Sub-Monitor, Non-glare Built-In Speaker, All Functions TypeC/Standard HDMI Devices Compatible with PC/Mac, etc. File Viewing EVC2308",
+      "rating": 4.4,
+      "reviews": 1,
+      "price": 25879,
+      "image": "https://m.media-amazon.com/images/I/71kEzx+yK7L._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 26,
+      "asin": "B0FJLBTBC4",
+      "title": "Minifire Monitor 21.5-inch PC Monitor 120Hz Full HD Non-glare LCD Display Adaptive Sync VESA Compatible Frameless HDMI*2 Blue Light Reduction Tilt Adjustment Business Use Five-Year Warranty (HDMI | LCD Adaptive Sync Frameless Five Year Warranty (Includes HDMI Cable - MF22X3AH)",
+      "rating": 4.1,
+      "reviews": 86,
+      "price": 10999,
+      "image": "https://m.media-amazon.com/images/I/71awV7ZnYpL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 27,
+      "asin": "B0G9265NX7",
+      "title": "Philips 24B2U3301/11 LCD Display Monitor (23.8 inches/IPS/FHD/120Hz/1ms/HDMI, DP, Type-C (PD90W)/Tilt/Daisy Chain Compatible/RJ45/Height Adjustment/Pivot Compatible/Built-in Power Supply/Cable/Energy Star/TCO10)",
+      "rating": 4,
+      "reviews": 0,
+      "price": 29970,
+      "image": "https://m.media-amazon.com/images/I/61JptWKRDhL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 28,
+      "asin": "B0FL6TCP99",
+      "title": "UPERFECT 23.8 Inch 120Hz Mobile Monitor Touch Panel Portable VESA Compatible 120% sRGB Portable Display Large Screen Matte Wide Color Gamut Large Sub Monitor Freestanding Stand Gaming Monitor IPS LCD",
+      "rating": 4.6,
+      "reviews": 1,
+      "price": 37793,
+      "image": "https://m.media-amazon.com/images/I/71CFZBUoxYL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 29,
+      "asin": "B0DT45MX34",
+      "title": "Pixio PX246Wave Black 24\" 120hz FHD IPS HDMI Gaming Monitor Black Pixio | ディスプレイ サブモニター pcモニター ゲームモニター monitor gaming 23.8インチ スピーカー内蔵 black ぴくしお ps5 switch2 ゲーミングpc モニター台",
+      "rating": 4.5,
+      "reviews": 143,
+      "price": 16640,
+      "image": "https://m.media-amazon.com/images/I/71-COhWww2L._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 30,
+      "asin": "B0FJ1D6PVJ",
+      "title": "ASUS VA249QGZ 23.8\" Full HD (1920x1080) IPS Monitor",
+      "rating": 3.6,
+      "reviews": 3,
+      "price": 13200,
+      "image": "https://m.media-amazon.com/images/I/41aCl4zCI8L._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 31,
+      "asin": "B0F8BVZR8X",
+      "title": "Acer Nitro Gaming Monitor 23.8\" Wide Full HD Anti-Glare IPS 120Hz 1ms (VRB) sRGB 99% AdaptiveSync Black Boost HDMI 1.4 DisplayPort 1.2 Built-in Speaker Headphone Port VESA Mount Compatible Zero Frame",
+      "rating": 4.3,
+      "reviews": 29,
+      "price": 14990,
+      "image": "https://m.media-amazon.com/images/I/614W0QSFCmL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 32,
+      "asin": "B0H117XWS8",
+      "title": "LG Smart Monitor AI 24U411SB-B 24 inch / Full HD (1920 x 1080) / 120Hz / IPS / sRGB 99% / HDR / Anti-Glare / WebOS / Wi-Fi 5 / Bluetooth 5.0 / Google Cast/ AirPlay / HDMI x 2 / USB Input x 5W+5W",
+      "rating": 4,
+      "reviews": 0,
+      "price": 29720,
+      "image": "https://m.media-amazon.com/images/I/71XylLojBdL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 33,
+      "asin": "B0GN2JX6RW",
+      "title": "Mobile Monitor 23.8 Inch 120Hz Vimonic QLED Portable Display 1080P IPS Freestanding Stand Portable | Large Screen Monitor, Non-Glossy IPS Panel, Portable Monitor, VESA, Large Sub-Monitor, Type-C and Mini HDMI, Gamer, Business",
+      "rating": 4.4,
+      "reviews": 271,
+      "price": 24586,
+      "image": "https://m.media-amazon.com/images/I/81qCbC0AqgL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 34,
+      "asin": "B0GTL4L4KV",
+      "title": "ASRock CL25FFA MN1431 25 Type FHD 1920 x 1080 IPS Panel Gaming Monitor",
+      "rating": 5,
+      "reviews": 1,
+      "price": 13111,
+      "image": "https://m.media-amazon.com/images/I/81eVNRyOahL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 35,
+      "asin": "B0FW4YVTQP",
+      "title": "Mobile Monitor 23.8 Inch 120Hz Touch Panel Vimonic QLED Portable Display | FHD Touch Monitor, Non-Glossy IPS Panel, Portable Monitor, VESA, Large Sub-Monitor, Type-C and Mini HDMI, Gamer, Business",
+      "rating": 4.4,
+      "reviews": 271,
+      "price": 37980,
+      "image": "https://m.media-amazon.com/images/I/61OJ9vMFBRL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 36,
+      "asin": "B0FQNHNMMC",
+      "title": "Pixio PX246Wave Beige 24\" 120hz FHD IPS HDMI Gaming Monitor Brown Pixio | ディスプレイ サブモニター pcモニター ゲームモニター monitor gaming 23.8インチ スピーカー内蔵 beige ぴくしお ps5 switch2 ゲーミングpc モニター台",
+      "rating": 4.5,
+      "reviews": 143,
+      "price": 18980,
+      "image": "https://m.media-amazon.com/images/I/71p43kLY6iL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 37,
+      "asin": "B0D6QB71XD",
+      "title": "IODATA Gaming Monitor 24.5-inch GigaCrysta 120Hz HFS Panel Black, Zero Bright Pixel Warranty (HDMI/DisplayPort/VESA Compatible/Tilt Angle Adjustment/Weekend Support/Japanese Manufacturer/Zero Bright",
+      "rating": 4.2,
+      "reviews": 148,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/71oFvAcFePL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 38,
+      "asin": "B0G5NB3W1B",
+      "title": "Pixio PX246 Wave Pastel Blue Gaming Monitor 23.8\" FHD 120Hz IPS Pastel Blue Light Blue Pixio HDMI VGA 4ms ps5",
+      "rating": 4.5,
+      "reviews": 143,
+      "price": 20480,
+      "image": "https://m.media-amazon.com/images/I/71P1QFMqEQL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 39,
+      "asin": "B0GWHRXL3B",
+      "title": "Dell P2426HE 23.8-Inch USB-C Hub Monitor / 1920 x 1080 / HDMI, DisplayPort, USB-C Powered/Black/Speaker: No",
+      "rating": 4,
+      "reviews": 0,
+      "price": 34100,
+      "image": "https://m.media-amazon.com/images/I/61amK7p5veL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 40,
+      "asin": "B0F18LR9N7",
+      "title": "JAPANNEXT JN-IPS238G120F-W 23.8-Inch Gaming Monitor | ホワイトモデル,IPSパネル,120Hz/0.5ms(MPRT)対応,フルHD(1920×1080)解像度,HDMI,VGA,HDR,sRGB:100%,PS5:120Hz接続,2年保証,ホワイト",
+      "rating": 4.4,
+      "reviews": 22,
+      "price": 15800,
+      "image": "https://m.media-amazon.com/images/I/81rVmEsxVBL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 41,
+      "asin": "B0GWLK9N2Y",
+      "title": "Dell P2426 24.1-inch Monitor / 1920 x 1200 / HDMI, DisplayPort, USB-C 15W Powered/Black/Speaker: No",
+      "rating": 4,
+      "reviews": 0,
+      "price": 29149,
+      "image": "https://m.media-amazon.com/images/I/61ppbJEr44L._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 42,
+      "asin": "B0GX5B7CMS",
+      "title": "LG LCD Monitor, LG Monitor 24BF410B-B, 23.8 inches, Full HD (1920 x 1080), IPS/sRGB 99%, HDR/120Hz, Anti-Glare, Blue Light Reduction Mode, Flicker Safe, Color Adjustment, Green Purchase Method, Energy",
+      "rating": 4,
+      "reviews": 0,
+      "price": 16990,
+      "image": "https://m.media-amazon.com/images/I/71PegOy1V0L._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 43,
+      "asin": "B0G5NVCXK5",
+      "title": "Pixio PX246 Wave Gaming Monitor 23.8\" Black FHD 120Hz IPS Pixio HDMI VGA 4ms PS5",
+      "rating": 4.5,
+      "reviews": 143,
+      "price": 20480,
+      "image": "https://m.media-amazon.com/images/I/71-COhWww2L._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 44,
+      "asin": "B0FGWVW6Z4",
+      "title": "DELL U2424H LCD Display 23.8 Type/1920 x 1080/HDMI, DisplayPort/Silver",
+      "rating": 4,
+      "reviews": 0,
+      "price": 34589,
+      "image": "https://m.media-amazon.com/images/I/51RIyW1o3tL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 45,
+      "asin": "B0G5NJ354Q",
+      "title": "【5-Year Warranty Included】Pixio PX246 Wave Beige Gaming Monitor 23.8 Inches Beige FHD 120Hz IPS Pixio HDMI VGA 4ms PS5",
+      "rating": 4.5,
+      "reviews": 143,
+      "price": 20480,
+      "image": "https://m.media-amazon.com/images/I/71p43kLY6iL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 46,
+      "asin": "B0FGWV9SC3",
+      "title": "DELL U2424HE LCD 23.8 inch / 1920 x 1080 / HDMI, DisplayPort/Silver/Speaker: No",
+      "rating": 4,
+      "reviews": 0,
+      "price": 44678,
+      "image": "https://m.media-amazon.com/images/I/51iTjV9ZU8L._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 47,
+      "asin": "B084B948TK",
+      "title": "Acer WQHD LCD Monitor OmegaLine B247YUbmiipprx 23.8 IPS Matte 2560x1440 WQHD 300cd 4ms HDMI Height Swivel Pivot",
+      "rating": 4.3,
+      "reviews": 28,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/7164f99Wa9L._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 48,
+      "asin": "B0F18JTGRR",
+      "title": "JAPANNEXT JN-IPS238G120F-YE 23.8\" Gaming Monitor | Yellow Model, IPS Panel, Supports 120Hz/0.5ms (MPRT), Full HD (1920 x 1080) Resolution, HDMI, VGA, HDR, sRGB: 100%",
+      "rating": 4.4,
+      "reviews": 22,
+      "price": 15282,
+      "image": "https://m.media-amazon.com/images/I/81nK7bGNXCL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 49,
+      "asin": "B0FFGT8L7C",
+      "title": "Greenhouse GH-LCW24V-BK 23.8-inch Wide Monitor, Full HD, 120 Hz, Wide Viewing Angle, 178° Top, Left, Left, and Right Speakers, DisplayPort HDMI, Low Power Consumption, Black",
+      "rating": 4,
+      "reviews": 0,
+      "price": 18272,
+      "image": "https://m.media-amazon.com/images/I/71ELaZGr7iL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 50,
+      "asin": "B0F7J54214",
+      "title": "23.8 Inch Portable Monitor, 1080P Mobile Monitor 120Hz FHD HDR Plug and Play HDMI IPS Mobile Display with Dual Speakers, Travel External Screen for PC, Tablet, Mac, Xbox, PS3/4/5",
+      "rating": 4.1,
+      "reviews": 257,
+      "price": 25900,
+      "image": "https://m.media-amazon.com/images/I/81Sa+pVw8oL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 51,
+      "asin": "B0F18DQ2VW",
+      "title": "JAPANNEXT JN-IPS238G120F-BB 23.8\" Gaming Monitor | ベイビーブルーモデル,IPSパネル,120Hz/0.5ms(MPRT)対応,フルHD(1920×1080)解像度,HDMI,VGA,HDR,sRGB:100%,PS5:120Hz接続,2年保証,ベイビーブルー",
+      "rating": 4.4,
+      "reviews": 22,
+      "price": 15282,
+      "image": "https://m.media-amazon.com/images/I/71+wx61MyML._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 52,
+      "asin": "B0GGV98K1W",
+      "title": "Philips 22-Inch Computer Monitor FHD 120Hz Overclocking IPS VESA, 22E2N1100 | 1920x1080 LED Monitor, 1ms MPRT, Adaptive Sync, HDMI 1.4, VGA, No Flicker, Low Blue Light, 4 Year Replacement Warranty",
+      "rating": 4.5,
+      "reviews": 76,
+      "price": 16433,
+      "image": "https://m.media-amazon.com/images/I/71A9eHcJyFL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 53,
+      "asin": "B0CP188Q11",
+      "title": "Dell U2424H UltraSharp 24\" Full HD (1920x1080) Monitor, 120Hz, IPS, 5ms, 100% sRGB, 2x USB-C, 2x DisplayPort, HDMI, 3x USB, 3 Anni di Garanzia, Argento",
+      "rating": 4.2,
+      "reviews": 157,
+      "price": 32658,
+      "image": "https://m.media-amazon.com/images/I/6152cmXseLL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 54,
+      "asin": "B0G5NGXRLW",
+      "title": "Pixio PX246 Wave Pastel Pink Gaming Monitor 23.8\" FHD 120Hz IPS Pastel Pink Pixio HDMI VGA 4ms ps5",
+      "rating": 4.5,
+      "reviews": 143,
+      "price": 20480,
+      "image": "https://m.media-amazon.com/images/I/71FQuWa0x7L._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 55,
+      "asin": "B0GVRCKV8J",
+      "title": "Dell P2426H 23.8-Inch Monitor /1920 x 1080/USB-C, HDMI, DisplayPort, VGA/Black/Speaker: No",
+      "rating": 4,
+      "reviews": 0,
+      "price": 30399,
+      "image": "https://m.media-amazon.com/images/I/81I6cqTkSwL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 56,
+      "asin": "B0CP18HHY1",
+      "title": "Dell U2424HE 23.8\" USB-C Hub Monitor 1920 x 1080/HDMI, DisplayPort, USB-C Powered/Silver/Speaker: No",
+      "rating": 3.7,
+      "reviews": 30,
+      "price": 42299,
+      "image": "https://m.media-amazon.com/images/I/6152cmXseLL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 57,
+      "asin": "B0DPBCDYYB",
+      "title": "MSI PRO MP252 E2 24.5\" IPS 1920 x 1080 (FHD) Gaming Office Monitor, 120Hz, Adaptive Sync, HDR Supported, HDMI, VGA Port, DisplayPort, VESA Mountable, Tilt, Speaker, 4-Sided Slim Bezel, 1ms, Black",
+      "rating": 4.6,
+      "reviews": 277,
+      "price": 19800,
+      "image": "https://m.media-amazon.com/images/I/817A427HyZL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 58,
+      "asin": "B0DC7YF7G9",
+      "title": "MSI PRO MP251 E2 24.5\" IPS 1920 x 1080 (FHD) Gaming Office Monitor, 120Hz, Adaptive Sync, HDR Supported, HDMI, VGA Port, DisplayPort, VESA Mountable, Tilt, Speaker, 1ms, Black",
+      "rating": 4.7,
+      "reviews": 178,
+      "price": 23718,
+      "image": "https://m.media-amazon.com/images/I/71It6SxJE+L._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 59,
+      "asin": "B0DYQX28HR",
+      "title": "Acer 23.8インチ FHD 1920x1080 IPS 120Hz オフィスモニター KA242Y G0bi | 1ms、AdaptiveSync、SRGB 99%、HDMI、VGA、VESAマウント可能、ブルーライトフィルター、フリッカーレステクノロジー。",
+      "rating": 4.6,
+      "reviews": 16,
+      "price": 19224,
+      "image": "https://m.media-amazon.com/images/I/71DBfOc59qL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 60,
+      "asin": "B0GWNQWXMF",
+      "title": "ASUS 24\" IPS Business Monitor (VA249QGSE) - 24\", IPS, Full HD, Frameless, 120Hz, Adaptive Sync, 1ms MPRT, HDMI, DisplayPort, VGA, Ergonomic Design, Wall Mounted, 3 Year Warranty",
+      "rating": 4,
+      "reviews": 0,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/71idEUtMUdL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 61,
+      "asin": "B0G5ZC3NDH",
+      "title": "Acer SB223Q J0bi 21.5\" Full HD 1920 x 1080 Ultra Thin Home Office Monitor | Adaptive Sync Support (FreeSync Compatible) | Up to 120Hz Refresh Rate | 1ms VRB | sRGB 99% | Tilt | HDMI 1.4 & 1 x VGA Port | 1ms、AdaptiveSync、SRGB 99%、HDMI、VGA、スピーカー、VESAマウント可能、ブルーライトフィルター、フリッカーレステクノロジー。",
+      "rating": 4.2,
+      "reviews": 7,
+      "price": 16185,
+      "image": "https://m.media-amazon.com/images/I/71Mnzoo+HNL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 62,
+      "asin": "B0GWNFCPQZ",
+      "title": "Dell P2426E 24.1\" USB-C Hub Monitor / 1920 x 1200 / HDMI, DisplayPort, USB-C Powered/Black/Speaker: No",
+      "rating": 4,
+      "reviews": 0,
+      "price": 49999,
+      "image": "https://m.media-amazon.com/images/I/61zkerfY6YL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 63,
+      "asin": "B0F5RHB9MZ",
+      "title": "AOC 24B35H3 24\" IPS Full HD (1920 x 1080) 120Hz LED Monitor Adaptive Sync VGA & HDMI Flicker Free Low Blue Light Cut HDR Support VESA Tilt Adjustable Eco Friendly",
+      "rating": 4.6,
+      "reviews": 1,
+      "price": 17980,
+      "image": "https://m.media-amazon.com/images/I/717-I45dCuL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 64,
+      "asin": "B0FKJJGSSR",
+      "title": "Philips 24E2N2100 24\" IPS FHD (1920 x 1080) 120Hz Gaming Office Monitor x1 VESA/HDMI x1 VGA Port x1 Eyecare 4 Years Replacement Warranty | 1920×1080 LEDモニター、HDMI 1.4、VGA、VESA、アダプティブ同期、ちらつきなし、低ブルーライト、4年間の交換保証",
+      "rating": 4.7,
+      "reviews": 82,
+      "price": 19096,
+      "image": "https://m.media-amazon.com/images/I/712lyvxv+YL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 65,
+      "asin": "B0FFGS1732",
+      "title": "Greenhouse GH-LCW24VH-BK 23.8-inch Wide Monitor, Elevating Stand, Full HD, 120Hz, Wide Viewing Angle, 178° Left and Right Speakers, DisplayPort HDMI, Multi-functional Stand, Low Power Consumption",
+      "rating": 4,
+      "reviews": 0,
+      "price": 19735,
+      "image": "https://m.media-amazon.com/images/I/71FENsGF7yL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 66,
+      "asin": "B0F8F3LKY2",
+      "title": "2025 Samsung S3 (S32GF) FHD 120Hz モニター IPSパネル付き フリッカーフリー アイシールドモード LS24F320GANXZA",
+      "rating": 4.6,
+      "reviews": 561,
+      "price": 28120,
+      "image": "https://m.media-amazon.com/images/I/71a3EXtOsOL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 67,
+      "asin": "B0DM6TBT9F",
+      "title": "ASUS 24\" (23.8\") 1080P VA249HG Eye Care Monitor - IPS, Full HD, 99%sRGB, Frameless, 120Hz, Adaptive Sync, 1ms, HDMI, VGA, Low Blue Light, Flicker-Free, Wall Mounted, 3 Year Warranty",
+      "rating": 4.3,
+      "reviews": 142,
+      "price": 24480,
+      "image": "https://m.media-amazon.com/images/I/71-wBceHczL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 68,
+      "asin": "B0FWHF97TT",
+      "title": "ASUS 24\" USB-C Docking Monitor (BE249CGN) - IPS, 120Hz, Frameless, RJ45, Speaker, Height Adjustable, Ergonomic, Daisy Chain, ASUS Power Sync, Eycare, VESA Wall Mounted, 3 Year Warranty",
+      "rating": 4.4,
+      "reviews": 19,
+      "price": 42553,
+      "image": "https://m.media-amazon.com/images/I/81gSTnCl5wL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 69,
+      "asin": "B0F18R25R3",
+      "title": "【Purple Model】JAPANNEXT 23.8-inch IPS Panel Gaming Monitor 120Hz/0.5ms (MPRT) Compatible Full HD (1920x1080) Resolution JN-IPS238G120F-PP HDMI VGA HDR sRGB:100% PS5:120Hz Connection 【2-Year Warranty】 | Purple Model, IPS Panel, Supports 120Hz/0.5ms (MPRT), Full HD (1920 x 1080) Resolution, HDMI, VGA, HDR, sRGB: 100%",
+      "rating": 4.4,
+      "reviews": 22,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/713EtKtxAJL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 70,
+      "asin": "B0F6LMNF7G",
+      "title": "Gawfolk 24.5\" Gaming Curved Monitor Built-in Speaker, 3000R 120Hz PC Screen Full HD 1080P, HDMI 2.0, VGA, Wall Mount Support 75*75mm | 内蔵スピーカー、HDMI 2.0、VGA、ウォールマウント互換75\\*75mm",
+      "rating": 4.4,
+      "reviews": 101,
+      "price": 19460,
+      "image": "https://m.media-amazon.com/images/I/71+WKBH32EL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 71,
+      "asin": "B0GPC1QNKV",
+      "title": "Lenovo ThinkVision P24QD-40 64B1GAR1JP Monitor (23.8 Type, IPS WQHD Matte, 48Hz-120Hz, HDMI, DisplayPort, USB, Type-C, RJ45, Tilt, Swivel Pivot, Height Adjustable 3",
+      "rating": 4,
+      "reviews": 0,
+      "price": 54710,
+      "image": "https://m.media-amazon.com/images/I/51tzMVvqSIL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 72,
+      "asin": "B0FHKDC59F",
+      "title": "LG 24U411A-B 24\" Full HD (1920x1080) IPS Computer Monitor 120Hz HDR10 Reader Mode Flicker Safe HDMI Slim Stand Base Black",
+      "rating": 4.6,
+      "reviews": 497,
+      "price": 24306,
+      "image": "https://m.media-amazon.com/images/I/71kTwM8vbWL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 73,
+      "asin": "B0F7XSYQ6K",
+      "title": "Gawfolk 24.5\" Gaming Curved Monitor Built-in Speaker, 3000R 120Hz White PC Screen Full HD 1080P, HDMI 2.0, VGA, Wall Mount Support 75*75mm | HDMI 2.0 VGAウォールマウント互換75 * 75mm内蔵スピーカー。",
+      "rating": 4.2,
+      "reviews": 62,
+      "price": 19443,
+      "image": "https://m.media-amazon.com/images/I/71IdqsogW2L._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 74,
+      "asin": "B0H7BVJGNX",
+      "title": "Acer Vero V247Y G 61cm Class フルHD LCD モニター - 16:9 - ブラック",
+      "rating": 4,
+      "reviews": 0,
+      "price": 24366,
+      "image": "https://m.media-amazon.com/images/I/71-8Rc1SWCL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 75,
+      "asin": "B0HB7KMR5F",
+      "title": "ASUS 61cm 1080P ビジネスモニター (BE249QG-R) 120Hz、スピーカー、3年保証 | 95%DCI-P3色域、人間工学に基づいたデザイン、ASUSアイケア、USBハブ&スピーカー、3年保証",
+      "rating": 4,
+      "reviews": 0,
+      "price": 35332,
+      "image": "https://m.media-amazon.com/images/I/81Bg1AagNeL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 76,
+      "asin": "B0GK87J5L7",
+      "title": "Lenovo ThinkVision T24-40 64A4MARXJP Monitor (23.8 inch IPS Full HD Matte HDMI VGA DisplayPort Tilt Swivel Pivot Height Adjustable 3",
+      "rating": 4,
+      "reviews": 0,
+      "price": 33000,
+      "image": "https://m.media-amazon.com/images/I/51ZZ3hdch4L._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 77,
+      "asin": "B0H8NQPWD6",
+      "title": "SKitphrati 23.8インチ 1080P IPS 120Hz モニター ビジネス&ゲーム用 - 内蔵調節可能な3MPウェブカメラ、マイクアレイ、デュアルスピーカー、フレームレス、アイケア、HDMI/DP/VGA/USB。",
+      "rating": 4,
+      "reviews": 0,
+      "price": 30306,
+      "image": "https://m.media-amazon.com/images/I/71ro1G79vrL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 78,
+      "asin": "B0FVD2FJP3",
+      "title": "ASRock CL25FFA 24.5\" FHD (1920 x 1080) Flat IPS Display Monitor",
+      "rating": 5,
+      "reviews": 1,
+      "price": 24478,
+      "image": "https://m.media-amazon.com/images/I/61Lk8-pGv+L._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 79,
+      "asin": "B0H46VYY2G",
+      "title": "ASUS 24\" 1080P Eye Care Monitor (VA24EHF2) - IPS, Full HD, 99%sRGB, Frameless, 120Hz, Adaptive Sync, 1ms, HDMI, VGA, Low Blue Light, Flicker-Free, Wall Mounted, 3 Year Warranty",
+      "rating": 4,
+      "reviews": 0,
+      "price": 33035,
+      "image": "https://m.media-amazon.com/images/I/714a4R0fAIL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 80,
+      "asin": "B0G3CZ2GT7",
+      "title": "ASUS 61cm 1080P ビジネスモニター (VA249QGS) - IPS、フルHD、フレームレス、120Hz、アダプティブ同期、1ms、HDMI、DisplayPort、VGA、アイケア、低ブルーライト、人間工学、VESA壁取り付け可能、3年保証",
+      "rating": 4.8,
+      "reviews": 17,
+      "price": 44671,
+      "image": "https://m.media-amazon.com/images/I/81AxU6CLcqL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 81,
+      "asin": "B0FHDVMW2P",
+      "title": "SANSUI 22\" 120Hz Monitor FHD Computer Monitor 4000:1 Contrast Ratio Adaptive Sync HDR 100% sRGB HDMI 2.1 x 2 VESA Mount Eyecare for Home/Office (ES-22X3AH, 1 HDMI Cable Included)",
+      "rating": 4.4,
+      "reviews": 195,
+      "price": 25812,
+      "image": "https://m.media-amazon.com/images/I/81T3Y0MTTBL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 82,
+      "asin": "B0GVQ3B8MH",
+      "title": "GTek 22インチ ゲーミングモニター FHD 1080P 120Hz VAパネル 1ms MPRT FreeSync/G-Sync対応 HDMI VGA オーディオイン アイケア 超スリムフラットスクリーン ゲーム&オフィス用",
+      "rating": 4,
+      "reviews": 0,
+      "price": 26445,
+      "image": "https://m.media-amazon.com/images/I/71A9FS1pepL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 83,
+      "asin": "B0CTJQKPZJ",
+      "title": "Dell UltraSharp 24 Monitor - U2424H, FHD 1080p | FHD 1080p",
+      "rating": 4.3,
+      "reviews": 63,
+      "price": 70984,
+      "image": "https://m.media-amazon.com/images/I/61HkJf8cSKL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 84,
+      "asin": "B0FM76LQLM",
+      "title": "ArcticPro 24インチ 120Hz モニター FHD 1080p コンピューターモニター IPS 99%sRGB 応答時間 1ms フレームレス ウルトラスリム VESAマウント ブルーライト防止設計 HDMIポート",
+      "rating": 4.4,
+      "reviews": 55,
+      "price": 25313,
+      "image": "https://m.media-amazon.com/images/I/719toNbRzDL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 85,
+      "asin": "B0DRBVHTTK",
+      "title": "24\" Computer Monitor, 120Hz, FHD 1080p Office and Game Monitor, 1ms Response Time, 3 Sided Frameless, Ultra Slim, VESA Mountable, Anti-Blue Light Design, HDMI, VGA | 99% sRGB、アダプティブ同期、3面フレームレス、ウルトラスリム、VESAマウント可能、アンチブルーライト、HDMI&VGAポート。",
+      "rating": 4.5,
+      "reviews": 156,
+      "price": 24929,
+      "image": "https://m.media-amazon.com/images/I/71YgWDHzfPL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 86,
+      "asin": "B0F3B7B6K6",
+      "title": "Acer Vero V247Y G 61 cm Class LCD モニター - 16:9 - ブラック",
+      "rating": 5,
+      "reviews": 3,
+      "price": 33561,
+      "image": "https://m.media-amazon.com/images/I/61r-fSmHmnL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 87,
+      "asin": "B0DHFX4MPQ",
+      "title": "ASUS 24\" 120Hz - 1080p (Full HD), IPS, 120Hz, 1ms, Adaptive Sync, Eye Care Plus, Blue Light Filter, No Flicker",
+      "rating": 4.4,
+      "reviews": 38,
+      "price": 27770,
+      "image": "https://m.media-amazon.com/images/I/81E-gg3jhlL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 88,
+      "asin": "B0CHN4JZT8",
+      "title": "ASUS TUF Gaming 24\" (23.8\" viewable) 1080P Monitor (VG249QL3A) - Full HD, 180Hz, 1ms, Fast IPS, ELMB, FreeSync Premium, G-SYNC Compatible, Speakers, DisplayPort, Height Adjustable, 3 Year Warranty",
+      "rating": 4.5,
+      "reviews": 229,
+      "price": 36522,
+      "image": "https://m.media-amazon.com/images/I/716YTdEbj8L._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 89,
+      "asin": "B0DJ28LKX9",
+      "title": "ViewSonic VA2456A-MHD 24\" IPS 1080p Monitor 120Hz, Eye Care, HDMI, DisplayPort, VGA Input for Home and Office",
+      "rating": 4.6,
+      "reviews": 147,
+      "price": 32730,
+      "image": "https://m.media-amazon.com/images/I/61j+mpnEJTL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 90,
+      "asin": "B0FQJ8CK6D",
+      "title": "ZZA 24.5インチ 120Hz カーブゲーミングモニター | FHD 1080P フレームレスデザイン AMD FreeSync ローモーションブラー アイケアテクノロジー DisplayPort & HDMI接続 VESAウォールマウント対応 - ブラック",
+      "rating": 4.1,
+      "reviews": 7,
+      "price": 26731,
+      "image": "https://m.media-amazon.com/images/I/71F3MqDAK3L._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 91,
+      "asin": "B0D2RW526R",
+      "title": "acer SB240Y G0bi 23.8\" IPS Full HD Ultra Slim Edge-to-Edge Gaming Office Monitor | Supports Adaptive Sync (FreeSync) | Refresh up to 120Hz | 1ms (VRB) | Tilt | HDMI & VGA Ports | Black",
+      "rating": 4.6,
+      "reviews": 598,
+      "price": 30172,
+      "image": "https://m.media-amazon.com/images/I/81aRnzRkLSL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 92,
+      "asin": "B0DM6RQ1JY",
+      "title": "ASUS 24\" 1080P Business Monitor (VA249QGS) - IPS, Full HD, Frameless, 120Hz, Adaptive Sync, 1ms, HDMI, DisplayPort, VGA, Eye Care, Low Blue Light, Ergonomic, VESA Wall Mounted, 3 Year Warranty",
+      "rating": 4,
+      "reviews": 0,
+      "price": 44918,
+      "image": "https://m.media-amazon.com/images/I/71uVSlhHeIL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 93,
+      "asin": "B0H296K3RT",
+      "title": "Dell Pro P P2426H 61cm FHD 120Hz ビジネスモニター、USB-C、HDMI、DisplayPort。 | アンチグレア61cm (1920×1080) モニター、アダプティブシンク、VESAマウント、デュアルフロントUSB-C、アイコンフォートテック、スリムベゼル、簡単セットアップ",
+      "rating": 5,
+      "reviews": 4,
+      "price": 53952,
+      "image": "https://m.media-amazon.com/images/I/71obIMY5e3L._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 94,
+      "asin": "B0DW5N14GV",
+      "title": "acer 24\" FHD IPS Monitor 4ms Response Time, Anti-Glare, Adaptive Sync, Integrated Speaker, VESA Mount (100x100mm) & Dockztorm USB Port Expander VGA HDMI Black",
+      "rating": 4.5,
+      "reviews": 2,
+      "price": 36997,
+      "image": "https://m.media-amazon.com/images/I/91DtA35B4RL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 95,
+      "asin": "B0GBJ9GFMG",
+      "title": "Acer Vero CB242Y G 24インチ クラス LCD モニター - 16:9 - ブラック",
+      "rating": 4,
+      "reviews": 0,
+      "price": 30338,
+      "image": "https://m.media-amazon.com/images/I/61K31lywfML._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 96,
+      "asin": "B0H4WBLWPV",
+      "title": "Lenovo ThinkVision T24-4v 61cm ウェブカメラ フルHD LEDモニター、エクリプスブラック",
+      "rating": 4,
+      "reviews": 0,
+      "price": 57848,
+      "image": "https://m.media-amazon.com/images/I/61+xPLGoZLL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 97,
+      "asin": "B0CZ3KWC3P",
+      "title": "ViewSonic VX2416A 24\" Gaming Monitor FreeSync 1080p 1ms 100Hz IPS",
+      "rating": 4.4,
+      "reviews": 28,
+      "price": 32444,
+      "image": "https://m.media-amazon.com/images/I/71k5De31qdL._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 98,
+      "asin": "B0GRPTR821",
+      "title": "Acer Vero CB242Y G 24\" Class LCD Monitor - 16:9 - Black",
+      "rating": 4,
+      "reviews": 0,
+      "price": 36980,
+      "image": "https://m.media-amazon.com/images/I/61K31lywfML._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 99,
+      "asin": "B0F16TCSVC",
+      "title": "ViewSonic VP2456A 24\" 1080p IPS Monitor Advanced Ergonomic ColorPro 100% sRGB Rec 709 Pantone Verified 14-bit 3D LUT 120Hz USB HDMI DisplayPort, 90W USB C Home",
+      "rating": 3.6,
+      "reviews": 4,
+      "price": 58156,
+      "image": "https://m.media-amazon.com/images/I/619UeXbmNtL._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 100,
+      "asin": "B0DWTT8NQL",
+      "title": "Pixio PX246 Wave Blue 24\" 120Hz Refresh Rate FHD 1080p Resolution IPS Panel 4ms GTG Response Time Gaming Monitor with Adaptive Sync",
+      "rating": 4.7,
+      "reviews": 110,
+      "price": 38843,
+      "image": "https://m.media-amazon.com/images/I/71-StbmsrpL._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 101,
+      "asin": "B0FXCJ9B3N",
+      "title": "Lenovo ThinkVision T24-40 61 cm クラス フルHD LED モニター - 16:9 - エクリプス ブラック",
+      "rating": 4,
+      "reviews": 0,
+      "price": 61721,
+      "image": "https://m.media-amazon.com/images/I/61yZs4SPSRL._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 102,
+      "asin": "B0FVFLDQJG",
+      "title": "Lenovo ThinkVision T24D-40 24インチクラスフルHD LEDモニター - 16:9 - エクリプスブラック",
+      "rating": 4,
+      "reviews": 0,
+      "price": 64827,
+      "image": "https://m.media-amazon.com/images/I/61hZo3G-uuL._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 103,
+      "asin": "B0FBH52NT7",
+      "title": "MSI PRO MP242PMG 24\" IPS 1920 x 1080 (FHD) Computer Monitor, 120Hz, Webcam, Adaptive Sync, EPEAT Silver, HDMI, DisplayPort, VGA Port, VESA Mountable, Tilt, Height Adjustable, Speaker, 1ms, Black",
+      "rating": 4.2,
+      "reviews": 15,
+      "price": 68341,
+      "image": "https://m.media-amazon.com/images/I/81TUzaBhkqL._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 104,
+      "asin": "B0DWJQCVRG",
+      "title": "Dell UltraSharp U2424H Monitor - 24\", Full HD (1080p) 1920 x 1080 at 120 Hz, 16:9 IPS, DisplayPort, Type-C, USB-C Cable Computer Monitor Screen - 1 Pack (New)",
+      "rating": 5,
+      "reviews": 1,
+      "price": 68732,
+      "image": "https://m.media-amazon.com/images/I/710hR49nKYL._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 105,
+      "asin": "B0FLVF4BXL",
+      "title": "ASRock 24.5\" CL25FFA 16:9 HDMI/VGA 120Hz FHD",
+      "rating": 5,
+      "reviews": 1,
+      "price": 56763,
+      "image": "https://m.media-amazon.com/images/I/61Lk8-pGv+L._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 106,
+      "asin": "B0FBHSFKH9",
+      "title": "MSI PRO MP272PMG 24\" IPS 1920 x 1080 (FHD) Computer Monitor, 120Hz, Webcam, Adaptive Sync, EPEAT Silver, HDMI, DisplayPort, VGA Port, VESA Mountable, Tilt, Height Adjustable, Speaker, 1ms, Black",
+      "rating": 4.2,
+      "reviews": 19,
+      "price": 78525,
+      "image": "https://m.media-amazon.com/images/I/81fXZW2R2uL._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 107,
+      "asin": "B0DS1ZLB9C",
+      "title": "ViewSonic VA2456A-MHD_H2 24\" 120Hz Dual Business Monitor w/o Stand",
+      "rating": 4.6,
+      "reviews": 27,
+      "price": 57660,
+      "image": "https://m.media-amazon.com/images/I/61pIgXUFwrL._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 108,
+      "asin": "B0FM699T5T",
+      "title": "Pixio PX246 ウェーブパープル 24インチ 120Hz リフレッシュレート FHD 1080p 解像度 IPSパネル 4ms GTG レスポンスタイム ゲーミング モニター アダプティブシンク付き",
+      "rating": 4.8,
+      "reviews": 9,
+      "price": 54807,
+      "image": "https://m.media-amazon.com/images/I/71ZxWVsOWoL._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 109,
+      "asin": "B0FV156B1P",
+      "title": "Pixio PX246 ウェーブ ベージュ 24インチ 120Hz リフレッシュレート FHD 1080p 解像度 IPS パネル 4ms GTG レスポンスタイム ゲーミング モニター アダプティブシンク付き",
+      "rating": 4.4,
+      "reviews": 36,
+      "price": 41692,
+      "image": "https://m.media-amazon.com/images/I/71e+erYivGL._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 110,
+      "asin": "B089NZ4HJ4",
+      "title": "Acer V247YU BMIIPX 24 LED LCD MON 25X14 16:9",
+      "rating": 5,
+      "reviews": 2,
+      "price": 56423,
+      "image": "https://m.media-amazon.com/images/I/61wjjVw28uL._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 111,
+      "asin": "B0FK2W43ZM",
+      "title": "Lenovo ThinkVision T24-40 24\" FHD IPS Monitor 4ms Response Time, Anti-Glare, Flicker Free, VESA Mount (100mm), Display Port, HDMI & DKZ Hub, Black (64A4MARXUS) Ergoflexy Single Mount Arm",
+      "rating": 4,
+      "reviews": 0,
+      "price": 69026,
+      "image": "https://m.media-amazon.com/images/I/61tg8YrMIzL._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 112,
+      "asin": "B0BBFSYJ7D",
+      "title": "Dell U2424he Ultra Sharp 16:9 IPS 1920x1080 120hz 8ms USB-c Hub LAN Height Adjustable Tilt Swivel Pivot Vesa Hdmi Dp 3.0 3yr Wty (Adv Exch)",
+      "rating": 4,
+      "reviews": 13,
+      "price": 82815,
+      "image": "https://m.media-amazon.com/images/I/61NDAS2SWsL._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 113,
+      "asin": "B0FMYPP5CS",
+      "title": "Lenovo TS-P24QD-40 23.8インチ 2560x1440 IPS 120Hz。",
+      "rating": 5,
+      "reviews": 1,
+      "price": 97932,
+      "image": "https://m.media-amazon.com/images/I/71RxLDRRTVL._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 114,
+      "asin": "B0FK2T6RYZ",
+      "title": "Lenovo ThinkVision 24\" FHD IPS Monitor 4ms Response Time, Anti-Glare, Flicker-Free, VESA Mount (100mm), Display Port, HDMI & DKZ Hub, Black, 2-Pack ErgoFlexy Dual Monitor Mount | 応答時間4ms、ちらつきなし、アンチグレア、HDMI w/DKZ USBハブ、ブラック 2パック & ErgoFlexy デュアルマウントアーム",
+      "rating": 4,
+      "reviews": 0,
+      "price": 116959,
+      "image": "https://m.media-amazon.com/images/I/61bkxS2-GjL._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 115,
+      "asin": "B0FPBDLRHV",
+      "title": "ThinkVision T24-40 23.8\" Monitor",
+      "rating": 3.8,
+      "reviews": 10,
+      "price": 51148,
+      "image": "https://m.media-amazon.com/images/I/61ECF4iPPSL._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 116,
+      "asin": "B0F1YWFNBT",
+      "title": "AOC 24B31H - 24\" Full HD Monitor, 120Hz, Adaptive Image Sync (1920x1080, 1xD-Sub, 1xHDMI 1.4x1) Black",
+      "rating": 4.6,
+      "reviews": 119,
+      "price": 73472,
+      "image": "https://m.media-amazon.com/images/I/613VQyejdaL._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 117,
+      "asin": "B0FNN97M6M",
+      "title": "iiyama 24インチ エコIPS 120Hz 1ms Eyesafe & EyeComfort認証 フルHD HDMI/DP/USB TCO10 TUV-GS Epeat Silver 高さ調節スタンド XB2492HSU-B1",
+      "rating": 4.9,
+      "reviews": 14,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/71AeFv80xlL._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 118,
+      "asin": "B0DMT5LHY8",
+      "title": "Dell U2424H LCD 23.8 Type/1920x1080/HDMI, DisplayPort/Silver/Speaker: No",
+      "rating": 4,
+      "reviews": 0,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/81waq88jlzL._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 119,
+      "asin": "B0FNQ24T2T",
+      "title": "MESWAO 23.8インチ ポータブルモニター 120Hz 1080P FHD IPS 100%sRGB USB-C HDMI プラグアンドプレイ ノートパソコン/PC/MacBook/コンソール用セカンドスクリーン 180°調節可能なスタンド VESAマウント ゲーム&仕事用",
+      "rating": 5,
+      "reviews": 1,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/71-TCEPe1fL._AC_SL1500_.jpg",
+      "searchPage": 3
+    }
+  ]
+}

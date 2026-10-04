@@ -1,0 +1,59 @@
+{
+  "B09HTVCGGF": {
+    "name": "V-custom VK310S RGB",
+    "brand": "エレコム",
+    "connection": "有線 USB",
+    "layout": "テンキーレス（JIS日本語配列）",
+    "internalStructure": "メカニカル（銀軸）",
+    "power": "有線給電"
+  },
+  "B0BB62QGMV": {
+    "name": "V-custom VK310S RGB",
+    "brand": "エレコム",
+    "connection": "有線 USB",
+    "layout": "テンキーレス（JIS日本語配列）",
+    "internalStructure": "メカニカル（銀軸）",
+    "power": "有線給電"
+  },
+  "B0FNRKG942": {
+    "name": "YUNZII B87",
+    "brand": "YUNZII",
+    "connection": "Bluetooth 5.0 / 2.4GHz / USB-C",
+    "layout": "87キー（JIS日本語配列）",
+    "internalStructure": "メカニカル（ホットスワップ）",
+    "power": "充電式 (USB-C)"
+  },
+  "B07CM63BBC": {
+    "name": "e元素 z-88",
+    "brand": "e元素",
+    "connection": "有線 USB",
+    "layout": "75%（81キー・テンキーレス）",
+    "internalStructure": "メカニカル（赤軸・ホットスワップ）",
+    "power": "有線給電"
+  },
+  "B0GVDPMQW8": {
+    "name": "WOBKEY Rainy75 Pro",
+    "brand": "WOBKEY",
+    "connection": "Bluetooth / 2.4GHz / 有線 USB",
+    "layout": "75%（JIS日本語配列）",
+    "internalStructure": "メカニカル（ホットスワップ・ガスケット）",
+    "power": "充電式 (USB-C)"
+  },
+  "B0DR2NR6G5": {
+    "name": "ATTACK SHARK X68HE",
+    "brand": "ATTACK SHARK",
+    "connection": "有線 USB (8000Hz)",
+    "layout": "65%（68キー）",
+    "internalStructure": "磁気スイッチ（ラピッドトリガー 0.01mm）",
+    "power": "有線給電",
+    "hasRapidTrigger": true
+  },
+  "B0DW3V9L1T": {
+    "name": "RK ROYAL KLUDGE L75",
+    "brand": "RK ROYAL KLUDGE",
+    "connection": "Bluetooth / 2.4GHz / USB-C",
+    "layout": "75%（US配列・テンキーレス）",
+    "internalStructure": "メカニカル（ホットスワップ・ガスケット）",
+    "power": "充電式 (USB-C)"
+  }
+}

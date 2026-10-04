@@ -1,0 +1,216 @@
+{
+  "B0F5PV5B9D": {
+    "brand": "Logicool G",
+    "name": "G PRO 2 LIGHTSPEED G-PPD-002XWL-BKd",
+    "price": 14300,
+    "connection": "2.4GHz (LIGHTSPEED) / USB-C",
+    "reading": "光学式（HERO 2）",
+    "power": "充電式 (USB-C)",
+    "weight": "80 g",
+    "buttonCount": "6",
+    "image": "https://m.media-amazon.com/images/I/518phJVP92L._AC_SL1500_.jpg"
+  },
+  "B0F5PYPCCK": {
+    "brand": "Logicool G",
+    "name": "G PRO X SUPERLIGHT 2 G-PPD-004WL-BKd",
+    "price": 23500,
+    "connection": "2.4GHz (LIGHTSPEED) / USB-C",
+    "reading": "光学式（HERO 2）",
+    "power": "充電式 (USB-C)",
+    "weight": "60 g",
+    "buttonCount": "5",
+    "image": "https://m.media-amazon.com/images/I/51N6VfkcKTL._AC_SL1500_.jpg"
+  },
+  "B0F5PW7877": {
+    "brand": "Logicool G",
+    "name": "G PRO X SUPERLIGHT 2 DEX GPROXSL-WLDEXBKd",
+    "price": 23500,
+    "connection": "2.4GHz (LIGHTSPEED) / USB-C",
+    "reading": "光学式（HERO 2）",
+    "power": "充電式 (USB-C)",
+    "weight": "60 g",
+    "buttonCount": "5",
+    "image": "https://m.media-amazon.com/images/I/51p8X10ljVL._AC_SL1500_.jpg"
+  },
+  "B0FGX8N9KP": {
+    "brand": "Razer",
+    "name": "DeathAdder V4 Pro",
+    "price": 28980,
+    "connection": "2.4GHz (HyperSpeed)",
+    "reading": "光学式（Focus Pro 45K）",
+    "power": "充電式（内蔵バッテリー）",
+    "weight": "56 g",
+    "buttonCount": "6",
+    "image": "https://m.media-amazon.com/images/I/71j6PDIwegL._AC_SL1500_.jpg"
+  },
+  "B07T36TLS5": {
+    "brand": "Logicool G",
+    "name": "G903h",
+    "price": 13582,
+    "connection": "2.4GHz (LIGHTSPEED)",
+    "reading": "光学式（HERO 25K）",
+    "power": "充電式（内蔵バッテリー）",
+    "weight": "110 g",
+    "buttonCount": "11",
+    "image": "https://m.media-amazon.com/images/I/5121I8ZNcZL._AC_SL1500_.jpg"
+  },
+  "B0DRNT3FP1": {
+    "brand": "AIM1",
+    "name": "AIM1 Shigure",
+    "price": 14980,
+    "reading": "光学式（PAW3395）",
+    "power": "単3形乾電池×1本",
+    "weight": "45 g",
+    "buttonCount": "2",
+    "image": "https://m.media-amazon.com/images/I/518wZsyNnlL._AC_SL1500_.jpg"
+  },
+  "B0FCYF4VNS": {
+    "brand": "LAMZU",
+    "name": "MAYA REJECT",
+    "price": 19800,
+    "connection": "2.4GHz (USBレシーバー) / USB-C",
+    "reading": "光学式",
+    "power": "充電式 (USB-C)",
+    "weight": "45 g",
+    "buttonCount": "6",
+    "image": "https://m.media-amazon.com/images/I/71bcVRD3XCL._AC_SL1500_.jpg"
+  },
+  "B0F31Z6RN8": {
+    "brand": "LAMZU",
+    "name": "MAYA X REJECT",
+    "price": 19800,
+    "connection": "2.4GHz (USBレシーバー) / USB-C",
+    "reading": "光学式",
+    "power": "充電式 (USB-C)",
+    "weight": "47 g",
+    "buttonCount": "6",
+    "image": "https://m.media-amazon.com/images/I/61H2IVx2CPL._AC_SL1500_.jpg"
+  },
+  "B0DHRYVQM7": {
+    "brand": "Pulsar",
+    "name": "X2 v3",
+    "price": 14960,
+    "connection": "2.4GHz (USBレシーバー)",
+    "reading": "光学式",
+    "power": "充電式（内蔵バッテリー）",
+    "weight": "52 g",
+    "buttonCount": "5",
+    "image": "https://m.media-amazon.com/images/I/51gt+c1FXOL._AC_SL1500_.jpg"
+  },
+  "B0BHL3B2VF": {
+    "brand": "Logicool G",
+    "name": "G502XWL-CRBK",
+    "price": 17600,
+    "connection": "2.4GHz (LIGHTSPEED) / USB-C",
+    "reading": "光学式（HERO 25K）",
+    "power": "充電式 (USB-C)",
+    "weight": "102 g",
+    "buttonCount": "13",
+    "image": "https://m.media-amazon.com/images/I/61NTCA2g+6L._AC_SL1500_.jpg"
+  },
+  "B0H69JYZ9K": {
+    "brand": "Philips",
+    "name": "SPK9618",
+    "price": 4686,
+    "connection": "2.4GHz (USBレシーバー) / Bluetooth / USB-C / 有線",
+    "reading": "光学式（16K DPI）",
+    "power": "充電式 (USB-C)",
+    "weight": "53 g",
+    "buttonCount": "6",
+    "image": "https://m.media-amazon.com/images/I/61p2BvrH9mL._AC_SL1500_.jpg"
+  },
+  "B0GMGF2YNX": {
+    "brand": "STORIA",
+    "name": "STORIA Kikyo",
+    "price": 14960,
+    "reading": "光学式（PAW3950）",
+    "power": "充電式 (USB-C)",
+    "weight": "50 g",
+    "image": "https://m.media-amazon.com/images/I/51+XtnGP+4L._AC_SL1500_.jpg"
+  },
+  "B0GKFPNTR4": {
+    "brand": "STORIA",
+    "name": "STORIA Shion",
+    "price": 16830,
+    "reading": "光学式（PAW3950）",
+    "power": "充電式 (USB-C)",
+    "weight": "50 g",
+    "buttonCount": "2",
+    "image": "https://m.media-amazon.com/images/I/61AYsXkDaZL._AC_SL1500_.jpg"
+  },
+  "B0BY1R8DSZ": {
+    "brand": "ASUS",
+    "name": "TUF Gaming M3 Gen II",
+    "price": 3336,
+    "connection": "有線 USB",
+    "reading": "光学式（8K DPI）",
+    "power": "有線給電",
+    "weight": "59 g",
+    "buttonCount": "6",
+    "image": "https://m.media-amazon.com/images/I/815fm88gq2L._AC_SL1500_.jpg"
+  },
+  "B0FR8LPP2K": {
+    "brand": "Logicool",
+    "name": "MX MASTER 4",
+    "price": 19900,
+    "connection": "Bluetooth / USB-C",
+    "reading": "光学式（8K DPI）",
+    "power": "充電式 (USB-C)",
+    "weight": "150 g",
+    "buttonCount": "8",
+    "image": "https://m.media-amazon.com/images/I/61BPuOamilL._AC_SL1500_.jpg"
+  },
+  "B0DWMQ6NLY": {
+    "brand": "BenQ",
+    "name": "ZA13-DW",
+    "price": 19800,
+    "connection": "2.4GHz (USBレシーバー)",
+    "reading": "光学式（PAW3950）",
+    "weight": "65 g",
+    "buttonCount": "7",
+    "image": "https://m.media-amazon.com/images/I/51XI1QI5+9L._AC_SL1500_.jpg"
+  },
+  "B0BKP2XWY5": {
+    "brand": "Logicool",
+    "name": "M550MBKs",
+    "price": 4000,
+    "connection": "Bluetooth",
+    "reading": "光学式",
+    "power": "単3形乾電池×1本",
+    "weight": "97 g",
+    "buttonCount": "3",
+    "image": "https://m.media-amazon.com/images/I/618q9UO6GIL._AC_SL1500_.jpg"
+  },
+  "B0BW414LJL": {
+    "brand": "Razer",
+    "name": "Naga V2 Pro",
+    "price": 28800,
+    "connection": "2.4GHz (HyperSpeed) / Bluetooth",
+    "reading": "光学式",
+    "power": "充電式（内蔵バッテリー）",
+    "weight": "134 g",
+    "buttonCount": "20",
+    "image": "https://m.media-amazon.com/images/I/71D9cxs+rXL._AC_SL1500_.jpg"
+  },
+  "B0FGX8XFKG": {
+    "brand": "Razer",
+    "name": "DeathAdder V4 Pro",
+    "price": 28980,
+    "connection": "2.4GHz (HyperSpeed)",
+    "reading": "光学式（Focus Pro 45K）",
+    "power": "充電式（内蔵バッテリー）",
+    "weight": "57 g",
+    "buttonCount": "6",
+    "image": "https://m.media-amazon.com/images/I/61puImkKkfL._AC_SL1500_.jpg"
+  },
+  "B0CVRGCGWJ": {
+    "brand": "Razer",
+    "name": "Viper V3 Pro",
+    "price": 26480,
+    "connection": "2.4GHz (HyperSpeed)",
+    "reading": "光学式（Focus Pro 35K）",
+    "weight": "54 g",
+    "buttonCount": "8",
+    "image": "https://m.media-amazon.com/images/I/61BJ2MpgTTL._AC_SL1500_.jpg"
+  }
+}

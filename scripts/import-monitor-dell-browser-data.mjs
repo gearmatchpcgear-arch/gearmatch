@@ -1,0 +1,69 @@
+/**
+ * Browser-scraped Dell monitor search → monitor-dell-search-raw.json
+ */
+import { writeFileSync } from "fs"
+import { join, dirname } from "path"
+import { fileURLToPath } from "url"
+import { normalizeAmazonImageUrl } from "./amazon-image.mjs"
+import { isMonitorAccessory } from "./fetch-monitor-bestsellers.mjs"
+
+const __dirname = dirname(fileURLToPath(import.meta.url))
+const OUT_PATH = join(__dirname, "monitor-dell-search-raw.json")
+const BASE_URL =
+  "https://www.amazon.co.jp/s?i=computers&rh=n%3A2151982051%2Cp_123%3A241862"
+
+const BROWSER_ITEMS = [
+  { amazonRank: 1, asin: "B07F8Z2WFL", image: "https://m.media-amazon.com/images/I/71gRa1I86ZL._AC_UL320_.jpg", price: 29800, rating: 4.5, reviews: 0, title: "P Series P2219H [Professional Series 21.5-Inch Wide Monitor]" },
+  { amazonRank: 2, asin: "B0FPF1HGT8", image: "https://m.media-amazon.com/images/I/71iLuNyaz5L._AC_UL320_.jpg", price: 32800, rating: 4.5, reviews: 0, title: "Dell S2725DC 27\" Monitor | 無輝点3年保証/QHD/IPS,非光沢/USB-Cx1,HDMIx1,DP1.4x1/sRGB 99%/縦横回転,高さ調整/1ms,144Hz/AMD FreeSync/内蔵スピーカー" },
+  { amazonRank: 3, asin: "B0G6JV85HG", image: "https://m.media-amazon.com/images/I/81Z4kNI2m-L._AC_UL320_.jpg", price: 17980, rating: 4, reviews: 0, title: "Dell SE2426HG 23.8-Inch Gaming Monitor (Amazon.co.jp Exclusive) | 3 year warranty/FHD/IPS, Matte/HDMIx2, DPx1/sRGB99%/Tilt adjustment/0.5ms,240Hz/AMD FreeSync Premium" },
+  { amazonRank: 4, asin: "B0G6JMQK17", image: "https://m.media-amazon.com/images/I/712+djqVlIL._AC_UL320_.jpg", price: 14980, rating: 4.4, reviews: 0, title: "Dell SE2426H 23.8\" Monitor | 3 year warranty/FHD/IPS, non-glossy/HDMIx2/Tilt adjustment/1ms,144Hz/AMD FreeSync" },
+  { amazonRank: 5, asin: "B0GR4RLMKR", image: "https://m.media-amazon.com/images/I/716GLBIaGjL._AC_UL320_.jpg", price: 19980, rating: 4.3, reviews: 0, title: "Dell S2425HSM 23.8\" Monitor | 無輝点3年保証/FHD/IPS,非光沢/HDMIx2/sRGB 99%/縦横回転,高さ調整/1ms,144Hz/AMD FreeSync/内蔵スピーカー" },
+  { amazonRank: 6, asin: "B0F23DY221", image: "https://m.media-amazon.com/images/I/71jeWSQcpRL._AC_UL320_.jpg", price: 74580, rating: 4.2, reviews: 0, title: "Dell AW2725Q 26.7\" Organic EL Alienware Gaming Monitor (3-Year Zero Bright Dot Warranty/4K/QD-OLED Anti-Reflection/DP1.4x1, HDMI2.1x2/DCI-P3 95%/Vertical and Horizontal Rotation, Height Adjustment | 無輝点3年保証/4K/QD-OLED抗反射/DPx1,HDMIx2/DCI-P3 95%/縦横回転,高さ調整/0.03ms,240Hz/Free-Sync Premium Pro,VESA DisplayHDR True Black 400" },
+  { amazonRank: 7, asin: "B0GR4Q6FL4", image: "https://m.media-amazon.com/images/I/710wTX832IL._AC_UL320_.jpg", price: 64980, rating: 4.4, reviews: 0, title: "Dell S3425DW 34\" Curved Monitor | 無輝点3年保証/WQHD/VA非光沢,1800R曲面/USB Type-Cx1,HDMIx2/DCI-P3 95%/1ms,120Hz/FreeSync Premium/HDR10/内蔵スピーカー/高さ調整" },
+  { amazonRank: 8, asin: "B0GR4M23MF", image: "https://m.media-amazon.com/images/I/7180Ks-incL._AC_UL320_.jpg", price: 10980, rating: 3.8, reviews: 0, title: "Dell SE2225HM 21.5\" Monitor | FHD/VA, non-glossy, HDMI 1.4 x 1, VGA x 1, Tilt adjustment" },
+  { amazonRank: 9, asin: "B0C3ZV4H7L", image: "https://m.media-amazon.com/images/I/61sVHUSfV0L._AC_UL320_.jpg", price: null, rating: 4.4, reviews: 0, title: "Dell AW2523HF 24.5\" Alienware Gaming Monitor (3-Year Zero Bright Pixel Replacement Warranty/FHD/Fast IPS Matte/DP, HDMI/sRGB 99%/Vertical/Horizontal Rotation, Height Adjustment/0.5ms/360Hz/AMD" },
+  { amazonRank: 10, asin: "B0F4PDMS9G", image: "https://m.media-amazon.com/images/I/51ha0slRNfL._AC_UL320_.jpg", price: 15598, rating: 4.2, reviews: 0, title: "Dell Pro 24 E2425HSM 23.8-inch Height Adjustable Swivel Speaker-equipped Monitor VESA100 Monitor Arm Compatible 1920×1080 100Hz HDMI DisplayPort VGA 3-Year Warranty HDMI Cable Included" },
+  { amazonRank: 11, asin: "B0H6J2QR7N", image: "https://m.media-amazon.com/images/I/61E-8LGCjeL._AC_UL320_.jpg", price: 54980, rating: 4.4, reviews: 0, title: "Dell Alienware AW3426DWM 34インチ曲面 ゲーミングモニター | 無輝点3年保証/WQHD/VA,非光沢,1500R曲面/HDMIx2,DP1.4x1/DCI-P3 95%/高さ調整,傾き/1ms,240Hz/FreeSync Premium,DisplayHDR 400" },
+  { amazonRank: 12, asin: "B0F23FHHRK", image: "https://m.media-amazon.com/images/I/71ed01WGG9L._AC_UL320_.jpg", price: 34980, rating: 3.5, reviews: 0, title: "Amazon.co.jp Exclusive: Dell AW3225DM-A 31.5-Inch Curved Alienware Gaming Monitor (5-Year Bright Spot Warranty/QHD/VA Non-Glossy, 1500R Curve/DP 1.4 x 1, HDMI 2.1 x 2/DCI-P3 95%/Height Adjustment | 無輝点5年保証/QHD/VA非光沢,1500R曲面/DP1.4x1,HDMI2.1x2/DCI-P3 95%/高さ調整,傾き/1ms,180Hz(DP),144Hz(HDMI)/FreeSync,VESA DisplayHDR 400" },
+  { amazonRank: 13, asin: "B0FN6T9R4N", image: "https://m.media-amazon.com/images/I/71XFsCMF5KL._AC_UL320_.jpg", price: 6000, rating: 4, reviews: 0, title: "[Refurbished] Dell Monitor 17-inch Space Saving E1715S (SXGAHD 1280 x 1024/TN Non-Glossy/VGA/DP)(Ymer-Shop)" },
+  { amazonRank: 14, asin: "B0F4PFD9LX", image: "https://m.media-amazon.com/images/I/51HVJeQhQ-L._AC_UL320_.jpg", price: 13370, rating: 4.3, reviews: 0, title: "Dell Dell Pro 24 E2425HM 24\" (23.8\") Full HD IPS Monitor 100Hz 1920x1080 HDMI/DisplayPort/VGA Black with 1 HDMI cable and 1 DisplayPort cable each included" },
+  { amazonRank: 15, asin: "B0F4P9F74G", image: "https://m.media-amazon.com/images/I/51kNEo5nIGL._AC_UL320_.jpg", price: 128960, rating: 3.5, reviews: 0, title: "Dell LCD U3225QE 31.5 / 3840 x 2160 / HDMI, DisplayPort, USB-C / Silver / Speaker: No" },
+  { amazonRank: 16, asin: "B0F6CCKNMR", image: "https://m.media-amazon.com/images/I/712PzMK+WZL._AC_UL320_.jpg", price: 8990, rating: 5, reviews: 0, title: "[Refurbished] Dell P2418HZm 23.8-Inch Wide LED LCD Monitor, Thin, 1920 x 1080 Full HD IPS Panel, Display Port/HDMI/D-Sub(VGA)/VESA Compliant" },
+  { amazonRank: 17, asin: "B0GR9F5TNY", image: "https://m.media-amazon.com/images/I/71P1cQhGHCL._AC_UL320_.jpg", price: 64980, rating: 4.5, reviews: 0, title: "Dell AW2726DM 26.5-inch OLED Alienware Gaming Monitor (3 year limited warranty matte / QHD/QD-OLED, anti-reflective/DP 1.4x1, HDMI x 2/DCI-P3 99% / Vertical and horizontal rotation, height adjustment/0.03ms, 240Hz (DP), 120Hz (HDMI)/AMD FreeSync Premium)" },
+  { amazonRank: 18, asin: "B0F4PDQYKB", image: "https://m.media-amazon.com/images/I/61NTTmk2OJL._AC_UL320_.jpg", price: 13267, rating: 4.4, reviews: 0, title: "Dell LCD E2225HSM 21.5 / 1920 x 1080 / HDMI, DisplayPort, VGA/Black/Speaker: Yes" },
+  { amazonRank: 19, asin: "B0F4P9D1L1", image: "https://m.media-amazon.com/images/I/41OvvuhpKzL._AC_UL320_.jpg", price: 92980, rating: 4.5, reviews: 0, title: "Dell Digital High-End U2725QE [LCD Display 27 inches/3840×2160/Silver]" },
+  { amazonRank: 20, asin: "B08VRCQDGX", image: "https://m.media-amazon.com/images/I/81bjQoSvKXL._AC_UL320_.jpg", price: null, rating: 3.5, reviews: 0, title: "Dell C2422HE 23.8-inch Video Conference Monitor Display, 3-Year No Dead Pixel Replacement Warranty/FHD/IPS Matte/USB-C DisplayPort HDMI/99% sRGB/Vertical and Horizontal Rotation, Height Adjustment/LAN" },
+  { amazonRank: 21, asin: "B0DH4G2TWF", image: "https://m.media-amazon.com/images/I/61NG-KccR5L._AC_UL320_.jpg", price: 46999, rating: 3.8, reviews: 0, title: "Dell 23.8\" Touch Monitor P2424HT 23.8 / 1920 x 1080 / HDMI, DisplayPort, USB-C / Black/Speaker: Yes Touch Panel" },
+  { amazonRank: 22, asin: "B0F4PDLB7J", image: "https://m.media-amazon.com/images/I/61UNmChzS5L._AC_UL320_.jpg", price: 11366, rating: 3.9, reviews: 0, title: "Dell LCD E2225HM 21.5 Type/1920x1080/HDMI, DisplayPort, VGA/Black/Speaker: No" },
+  { amazonRank: 23, asin: "B0D1CT7ZW4", image: "https://m.media-amazon.com/images/I/71H2AvEWTYL._AC_UL320_.jpg", price: null, rating: 4.6, reviews: 0, title: "Dell P2425HE 23.8-inch USB-C Hub Monitor / 1920×1080 / HDMI, DisplayPort, USB-C Power Delivery / Black / No Speaker (Manufacturer 3-Year Warranty, Good Item Early Delivery Service Warranty Included)" },
+  { amazonRank: 24, asin: "B0GMTWSYQW", image: "https://m.media-amazon.com/images/I/61bTLzrgr2L._AC_UL320_.jpg", price: 15800, rating: 5, reviews: 0, title: "[Refurbished] Dell P2425H 23.8-inch Monitor / Full HD (1920 x 1080) / IPS Non-glossy 100Hz / USB-C, HDMI, DisplayPort, VGA/USB Hub, Height Adjustment, Pivot VESA Compatible [Accessories: Power Cable" },
+  { amazonRank: 25, asin: "B09CGY99X5", image: "https://m.media-amazon.com/images/I/71a9hbfk12L._AC_UL320_.jpg", price: null, rating: 4.4, reviews: 0, title: "Dell S2722QC 27-Inch 4K Monitor (3-Year Zero Bright Pixel Replacement Warranty/IPS Matte/USB Type-C, HDMI x 2/99% sRGB/Vertical/Horizontal Rotation, Height Adjustment/4ms/AMD FreeSync/Speaker Included" },
+]
+
+const raw = BROWSER_ITEMS.map((item) => ({
+  ...item,
+  image: normalizeAmazonImageUrl(item.image),
+  reviews: item.reviews ?? 0,
+}))
+
+const excluded = raw.filter((item) => isMonitorAccessory(item.title))
+const monitors = raw.filter((item) => !isMonitorAccessory(item.title))
+
+writeFileSync(
+  OUT_PATH,
+  JSON.stringify(
+    {
+      fetchedAt: new Date().toISOString(),
+      sourceUrl: BASE_URL,
+      totalPages: 1,
+      scrapeMethod: "browser",
+      monitors,
+      excluded,
+      raw,
+    },
+    null,
+    2,
+  ),
+)
+
+console.log(`Wrote ${OUT_PATH}: kept=${monitors.length}, excluded=${excluded.length}`)

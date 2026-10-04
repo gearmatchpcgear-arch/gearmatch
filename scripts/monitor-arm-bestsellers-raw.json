@@ -1,0 +1,261 @@
+{
+  "fetchedAt": "2026-08-14T00:23:33.725Z",
+  "url": "https://www.amazon.co.jp/gp/bestsellers/computers/10351517051",
+  "totalOnPage": 30,
+  "included": 20,
+  "excluded": 10,
+  "excludedItems": [
+    {
+      "rank": 8,
+      "asin": "B07SYPF134",
+      "title": "ZepSon モニターアーム補強プレート 取付部硬さ強化対策 デスク保護 傷防止 滑り止めシート付き 黒色"
+    },
+    {
+      "rank": 13,
+      "asin": "B0FYGD7SDW",
+      "title": "アーキス(Archiss) モニターアーム補強プレート 固定 (クランプ式/グロメット式 対応) 傷防止 デスク保護 滑り止めシート付 ブラック AS-MABO05"
+    },
+    {
+      "rank": 14,
+      "asin": "B00CWXQRHS",
+      "title": "ノートパソコンアーム 17インチまでノートpc アーム 両用式 モニターアーム 安定性UPトレイ付き ガススプリング式 17-30インチモニター対応 耐荷重2-9kg VESA75mm/100mm H100-FP | VESA規格適合,ゲーミング,テレワーク"
+    },
+    {
+      "rank": 15,
+      "asin": "B0FN7MFV1K",
+      "title": "ノートパソコンアーム 17インチまでノートpc アーム 両用式 モニターアーム 安定性UPトレイ付き ガススプリング式 17-30インチモニター対応 耐荷重2-9kg VESA75mm/100mm H100-FP | VESA規格適合,ゲーミング,テレワーク"
+    },
+    {
+      "rank": 17,
+      "asin": "B09BQBSL5J",
+      "title": "Pholiten モニターアーム補強プレート 取付部硬さ強化対策 デスク保護 傷防止 滑り止めシート付き MD6T"
+    },
+    {
+      "rank": 22,
+      "asin": "B0FVSRQRZ3",
+      "title": "THEARK デュアル PC モニター アーム 2画面 液晶ディスプレイ アーム スプリング式 ノートパソコン 縦 上下 配置 液タブ ロング 組み立て簡単 モニタースタンド17～32インチ対応 最大耐荷重9kg MS012 (ブラック)"
+    },
+    {
+      "rank": 23,
+      "asin": "B0G2B1KHFZ",
+      "title": "THEARK デュアル PC モニター アーム 2画面 液晶ディスプレイ アーム スプリング式 ノートパソコン 縦 上下 配置 液タブ ロング 組み立て簡単 モニタースタンド17～32インチ対応 最大耐荷重9kg MS012 (ブラック)"
+    },
+    {
+      "rank": 28,
+      "asin": "B0DCVWK5RY",
+      "title": "エレコム モニターアーム VESA アダプタ VESA非対応のモニター用 対応サイズ13~27インチまで 厚さ26.5~60mmまで 重さ約8kgまで DPA-DPK1327BK"
+    },
+    {
+      "rank": 29,
+      "asin": "B0CRYTQ3PP",
+      "title": "エレコム モニターアーム VESA アダプタ VESA非対応のモニター用 対応サイズ13~27インチまで 厚さ26.5~60mmまで 重さ約8kgまで DPA-DPK1327BK"
+    },
+    {
+      "rank": 30,
+      "asin": "B07MC5TCS8",
+      "title": "ERGOTRON エルゴトロン クイックリリース ブラケット 15.9kgまで VESA規格対応 60-589-060"
+    }
+  ],
+  "monitorArms": [
+    {
+      "amazonRank": 1,
+      "rank": 1,
+      "asin": "B0CQXMT3QC",
+      "title": "Amazonベーシック モニターアーム シングル デスクマウント ガススプリング式 テンション調整可能 15~インチモニターに対応 耐荷重2.0kg~7.0kg VESA 75 × 75/100 × 100 ブラック",
+      "rating": 3.9,
+      "reviews": 1238,
+      "price": 2919,
+      "image": "https://m.media-amazon.com/images/I/511QVoYojOL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 2,
+      "rank": 2,
+      "asin": "B00CWXRI44",
+      "title": "Pixio モニターアーム PS1S Waveブラック シングル 17-32インチ VESA 耐荷重9kg ガススプリング式 黒 クランプ | black デュアル デュアルモニター 2画面 monitor arm ノートパソコン アーム ディスプレ",
+      "rating": 4.3,
+      "reviews": 434,
+      "price": 8980,
+      "image": "https://m.media-amazon.com/images/I/518HO1ULN7L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 3,
+      "rank": 3,
+      "asin": "B07W532F8J",
+      "title": "ERGOTRON エルゴトロン LX モニターアーム デスクマウント マットブラック 34インチ(3.2-11.3kg)まで VESA規格対応 45-241-224【日本正規代理店保証品】 | シングル 耐荷重3.2-11.3kgまで メカニカルスプリング式 クランプ式 VESA規格 人間工学的デザイン 世界中で選ばれる定番モデル",
+      "rating": 4.2,
+      "reviews": 1766,
+      "price": 3699,
+      "image": "https://m.media-amazon.com/images/I/6187d2GHR7L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 4,
+      "rank": 4,
+      "asin": "B07Q8TJ2KL",
+      "title": "ERGOTRON エルゴトロン LX モニターアーム デスクマウント マットブラック 34インチ(3.2-11.3kg)まで VESA規格対応 45-241-224【日本正規代理店保証品】 | シングル 耐荷重3.2-11.3kgまで メカニカルスプリング式 クランプ式 VESA規格 人間工学的デザイン 世界中で選ばれる定番モデル",
+      "rating": 4.6,
+      "reviews": 16403,
+      "price": 18200,
+      "image": "https://m.media-amazon.com/images/I/610HqQsInRL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 5,
+      "rank": 5,
+      "asin": "B0GHT7N1HT",
+      "title": "NB ERGONOMIC モニターアーム シングル アーム型 A5 ブラック 17~32インチ対応 耐荷重9kg | VESA規格適合,テレワーク,ゲーミング向け",
+      "rating": 4.3,
+      "reviews": 319,
+      "price": 3280,
+      "image": "https://m.media-amazon.com/images/I/61h0qKX0JZL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 6,
+      "rank": 6,
+      "asin": "B09DSCG8DC",
+      "title": "エレコム モニターアーム シングルアーム 17~32インチ対応 耐荷重:9kg ガス式 VESA規格対応 ブラック DPA-SS02BK",
+      "rating": 4.1,
+      "reviews": 2093,
+      "price": 4490,
+      "image": "https://m.media-amazon.com/images/I/51A-CNbw-7L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 7,
+      "rank": 7,
+      "asin": "B08CXNR4QY",
+      "title": "NB ERGONOMIC モニターアーム シングル 場所をとらないポール型 最大32インチ / 耐荷重9kg クランプ式・グロメット式対応 H100-G ディープグレー | VESA規格適合,ゲーミング,テレワーク",
+      "rating": 4.4,
+      "reviews": 1522,
+      "price": 2480,
+      "image": "https://m.media-amazon.com/images/I/51SpEJDs0cL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 9,
+      "rank": 9,
+      "asin": "B08SVW59KT",
+      "title": "ERGOMAKER デュアルモニターアーム ディスプレイアーム シングル 2画面 クランプ・グロメット両取付 耐荷重10KG 多角度調節 | 13~27インチモニター対応 シングルパソコンアーム 多角度調節 ケーブル収納機能VESA:75x75/100x100mm 在宅ワーク ゲーミング デスク周り 便利グッズ デスク上のスペースをスッキリ",
+      "rating": 4,
+      "reviews": 2091,
+      "price": 2960,
+      "image": "https://m.media-amazon.com/images/I/517NFw8CLbL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 10,
+      "rank": 10,
+      "asin": "B0B5Z5WQZL",
+      "title": "ERGOMAKER デュアルモニターアーム ディスプレイアーム シングル 2画面 クランプ・グロメット両取付 耐荷重10KG 多角度調節 | 13~27インチモニター対応 シングルパソコンアーム 多角度調節 ケーブル収納機能VESA:75x75/100x100mm 在宅ワーク ゲーミング デスク周り 便利グッズ デスク上のスペースをスッキリ",
+      "rating": 4.1,
+      "reviews": 415,
+      "price": 1999,
+      "image": "https://m.media-amazon.com/images/I/511z5GX27hL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 11,
+      "rank": 11,
+      "asin": "B07Z7ZGHD5",
+      "title": "THEARK モニターアーム シングル PC モニター アーム 液晶ディスプレイ アーム スプリング式 モニタースタンド17～32インチ対応 最大耐荷重9kg MS011とライト付きのMS001D選択可能 (白い, MS011-ライト効果無し)",
+      "rating": 3.9,
+      "reviews": 14042,
+      "price": 2899,
+      "image": "https://m.media-amazon.com/images/I/71-wm9+nUIL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 12,
+      "rank": 12,
+      "asin": "B0GWMJ2R4T",
+      "title": "THEARK モニターアーム シングル PC モニター アーム 液晶ディスプレイ アーム スプリング式 モニタースタンド17～32インチ対応 最大耐荷重9kg MS011とライト付きのMS001D選択可能 (白い, MS011-ライト効果無し)",
+      "rating": 4.4,
+      "reviews": 34,
+      "price": 3280,
+      "image": "https://m.media-amazon.com/images/I/51WVuuhEPmL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 16,
+      "rank": 16,
+      "asin": "B0CSJWLGQD",
+      "title": "HUANUO (ファーノー) モニターアーム ロング 13-35インチ対応 10kg高耐荷重 高い位置 長い ポール | 多角度調節 配線収納 VESA 75x75mm 100x100mm対応 シングル ディスプレイアームPCアーム クランプ式 グロ",
+      "rating": 4.1,
+      "reviews": 224,
+      "price": 3999,
+      "image": "https://m.media-amazon.com/images/I/41Egro1txSL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 18,
+      "rank": 18,
+      "asin": "B0DSL5BZGY",
+      "title": "BONTEC モニターアーム シングル ガススプリング式 耐荷重9kg VESA75×75・100×100mm Cクランプ・グロメット式 | チルト・スイベル・360°回転に対応、液晶ディスプレイの位置を柔軟に調整でき、デスク上の省スペース化をサポー",
+      "rating": 4.5,
+      "reviews": 4114,
+      "price": 2999,
+      "image": "https://m.media-amazon.com/images/I/61A2uZP2B+L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 19,
+      "rank": 19,
+      "asin": "B0BTDCZT1M",
+      "title": "HUANUO (ファーノー) モニターアーム ディスプレイアーム 1画面 シングル 10～32型 耐荷重1～8kg | VESA75×75mm/100×100mm グロメット&クランプ式 多角度調節可能 在宅ワーク ゲーミング デスク周り 便利グッズ",
+      "rating": 4.1,
+      "reviews": 300,
+      "price": 2079,
+      "image": "https://m.media-amazon.com/images/I/51t8kdfiaKL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 20,
+      "rank": 20,
+      "asin": "B07QXW47NW",
+      "title": "suptek 支柱取付け シングルモニターアーム ディスプレイアーム ポール取り付け 13-27インチ対応 耐荷重9kg VESA規格75-100mm MD6DB",
+      "rating": 4,
+      "reviews": 478,
+      "price": 2000,
+      "image": "https://m.media-amazon.com/images/I/51xhmzytXlL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 21,
+      "rank": 21,
+      "asin": "B08LD23JD1",
+      "title": "Bracwiser PCモニターアーム ディスプレイアーム モニターアーム 4軸 水平多関節 13-32インチ対応 グロメット式＆クランプ式 VESA規格75-100mm 耐荷重10KG MD7421",
+      "rating": 4.1,
+      "reviews": 1498,
+      "price": 2600,
+      "image": "https://m.media-amazon.com/images/I/51EUpBLnkzL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 24,
+      "rank": 24,
+      "asin": "B09LV6VVHQ",
+      "title": "COFO 無重力モニターアーム Pro シングル 17〜40インチ、2.5〜14kg対応 角度/高さ 上下左右 調整可能 ダブルメカニカルスプリング式 デスク設置用 スチール アルミ合金製 ブラック",
+      "rating": 4.3,
+      "reviews": 2442,
+      "price": 2849,
+      "image": "https://m.media-amazon.com/images/I/61WQDbSvceL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 25,
+      "rank": 25,
+      "asin": "B0DX24CSWD",
+      "title": "COFO 無重力モニターアーム Pro シングル 17〜40インチ、2.5〜14kg対応 角度/高さ 上下左右 調整可能 ダブルメカニカルスプリング式 デスク設置用 スチール アルミ合金製 ブラック",
+      "rating": 4.2,
+      "reviews": 198,
+      "price": 21980,
+      "image": "https://m.media-amazon.com/images/I/51eeX6T2gIL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 26,
+      "rank": 26,
+      "asin": "B0GJC2CLJL",
+      "title": "KOORUI モニター アーム デスクマウント ディスプレイ アーム 1画面 シングル VESAアーム クランプ式&グロメット式 PCモニターアーム 17～32型 耐荷重9kg 多角度調節 ケーブル管理",
+      "rating": 4.4,
+      "reviews": 6,
+      "price": 6989,
+      "image": "https://m.media-amazon.com/images/I/41GvDaFF+OL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 27,
+      "rank": 27,
+      "asin": "B0C22Z91LY",
+      "title": "KOORUI モニター アーム デスクマウント ディスプレイ アーム 1画面 シングル VESAアーム クランプ式&グロメット式 PCモニターアーム 17～32型 耐荷重9kg 多角度調節 ケーブル管理",
+      "rating": 3.7,
+      "reviews": 756,
+      "price": 3998,
+      "image": "https://m.media-amazon.com/images/I/51QolG53TRL._AC_SL1500_.jpg"
+    }
+  ]
+}

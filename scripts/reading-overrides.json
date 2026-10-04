@@ -1,0 +1,98 @@
+{
+  "B0FR8LPP2K": {
+    "reading": "Darkfield",
+    "source": "Logitech MX Master 4 公式仕様（Darkfield high precision）"
+  },
+  "B0FJRCJ1SN": {
+    "reading": "BlueLED",
+    "source": "ELECOM M-MY35MBSBK OSMOD Six 公式（読み取り方式: Blue LED）"
+  },
+  "B0C2YD9T62": {
+    "reading": "光学式",
+    "source": "Logitech M240 公式仕様（Smooth optical tracking）"
+  },
+  "B0H1JVHGD3": {
+    "reading": "BlueLED",
+    "source": "ELECOM M-TM25MBMSABK Slint 公式（読み取り方式: BlueLED）"
+  },
+  "B09J46764W": {
+    "reading": "光学式",
+    "source": "Logitech M221 公式仕様（Advanced Optical Tracking）"
+  },
+  "B0DKTPLRZ6": {
+    "reading": "光学式",
+    "source": "Logitech M196 公式仕様（Optical IR LED sensor）"
+  },
+  "B0DKTNG9RX": {
+    "reading": "光学式",
+    "source": "Logitech M196 公式仕様（Optical IR LED sensor）"
+  },
+  "B09WV6D7SM": {
+    "reading": "光学式",
+    "source": "Logitech LIFT M800 公式仕様（Advanced Optical Tracking）"
+  },
+  "B0D145ZTTC": {
+    "reading": "光学式",
+    "source": "Logitech M331 公式仕様（High Precision Optical Tracking）"
+  },
+  "B08YJ1Y1LZ": {
+    "reading": "BlueLED",
+    "source": "ELECOM M-BL27UBKBK 公式（BlueLED / 光学センサー方式）"
+  },
+  "B0GJ8FWK42": {
+    "reading": "光学式",
+    "source": "Logitech Signature Comfort M840 公式仕様（Pluto optical sensor）"
+  },
+  "B0GVDZCKTN": {
+    "reading": "BlueLED",
+    "source": "ELECOM M-MY50MBSBK-G OSMOD8 公式（読み取り方式: BlueLED）"
+  },
+  "B0GJBLL518": {
+    "reading": "光学式",
+    "source": "Amazon商品説明（高精度センサー・汎用光学式ワイヤレスマウス）"
+  },
+  "B0F317VK5Z": {
+    "reading": "光学式",
+    "source": "Amazon商品説明（高精度センサー・汎用光学式ワイヤレスマウス）"
+  },
+  "B0FJRGXPY6": {
+    "reading": "BlueLED",
+    "source": "ELECOM M-MY35MBSAWH OSMOD Six 公式（読み取り方式: Blue LED）"
+  },
+  "B0FX3ZV6WD": {
+    "reading": "光学式",
+    "source": "ELECOM M-PN10MBMSABK Precisionist 公式（Ultimate IR LED / 高性能IR LEDセンサー）"
+  },
+  "B0FXCCV2NQ": {
+    "reading": "光学式",
+    "source": "MSI FORGE GM340 W NAVY MS0808 公式（PixArt PAW3311 光学センサー）"
+  },
+  "B088P8QYWN": {
+    "reading": "BlueLED",
+    "source": "ELECOM M-XGM10DBBK/EC EX-G 公式（Blue LED / 光学式）"
+  },
+  "B07SYKKP47": {
+    "reading": "光学式",
+    "source": "Logicool G G703h 公式（HERO 25K 光学センサー）"
+  },
+  "B07D3GRQC8": {
+    "reading": "光学式",
+    "source": "Logicool G G304rWH 公式（HERO 12K 光学センサー）"
+  },
+  "B099MXK6P8": {
+    "reading": "光学式",
+    "source": "Logicool G G304-BL 公式（HERO 12K 光学センサー）"
+  },
+  "B0DKT8S1XC": {
+    "reading": "光学式",
+    "source": "MSI VERSA 300 W MS0731 公式（PixArt PAW-3104DB 光学センサー）"
+  },
+  "B00Z9V0NKC": {
+    "reading": "光学式",
+    "source": "BENGOO ゲーミングマウス 有線 公式（光学式・1200〜3600 DPI 4段階）"
+  },
+  "B0BB5S6DYD": {
+    "reading": "光学式",
+    "source": "ELECOM V custom VM500 M-VM500BK 公式（PixArt PAW3311 光学センサー）"
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "totalGadgets": 1897,
+  "targetGadgets": 1897,
+  "uniqueAsins": 1897,
+  "asinsToFetch": 1897,
+  "missingRating": 0,
+  "missingReviews": 19,
+  "missingBoth": 0,
+  "fetched": 1773,
+  "failed": 124,
+  "blocksUpdated": 1211,
+  "fileUpdates": [
+    {
+      "file": "audio-interface-bestsellers.ts",
+      "blocks": 87
+    },
+    {
+      "file": "camera-bestsellers.ts",
+      "blocks": 51
+    },
+    {
+      "file": "camera-streaming-search.ts",
+      "blocks": 41
+    },
+    {
+      "file": "gadgets.ts",
+      "blocks": 18
+    },
+    {
+      "file": "gaming-chair-akracing-store.ts",
+      "blocks": 6
+    },
+    {
+      "file": "gaming-chair-new-releases.ts",
+      "blocks": 5
+    },
+    {
+      "file": "gaming-chair-search-page3.ts",
+      "blocks": 9
+    },
+    {
+      "file": "gaming-chair-search-page4.ts",
+      "blocks": 11
+    },
+    {
+      "file": "gaming-chair-search.ts",
+      "blocks": 40
+    },
+    {
+      "file": "gaming-chairs.ts",
+      "blocks": 30
+    },
+    {
+      "file": "keyboard-bestsellers-page2.ts",
+      "blocks": 20
+    },
+    {
+      "file": "keyboard-bestsellers.ts",
+      "blocks": 19
+    },
+    {
+      "file": "keyboard-gaming-bestsellers-page2.ts",
+      "blocks": 15
+    },
+    {
+      "file": "keyboard-gaming-bestsellers.ts",
+      "blocks": 24
+    },
+    {
+      "file": "keyboard-gaming-most-gifted-page2.ts",
+      "blocks": 11
+    },
+    {
+      "file": "keyboard-gaming-most-gifted.ts",
+      "blocks": 16
+    },
+    {
+      "file": "keyboard-gaming-new-releases-page1.ts",
+      "blocks": 14
+    },
+    {
+      "file": "keyboard-gaming-new-releases-page2.ts",
+      "blocks": 19
+    },
+    {
+      "file": "keyboard-gpro-page3.ts",
+      "blocks": 8
+    },
+    {
+      "file": "keyboard-new-releases-page2.ts",
+      "blocks": 2
+    },
+    {
+      "file": "keyboard-new-releases.ts",
+      "blocks": 6
+    },
+    {
+      "file": "keyboard-tablet-bestsellers.ts",
+      "blocks": 34
+    },
+    {
+      "file": "mic-bestsellers-page2.ts",
+      "blocks": 13
+    },
+    {
+      "file": "mic-bestsellers.ts",
+      "blocks": 10
+    },
+    {
+      "file": "mic-computers-search-streaming.ts",
+      "blocks": 21
+    },
+    {
+      "file": "mic-computers-search.ts",
+      "blocks": 17
+    },
+    {
+      "file": "mic-condenser-bestsellers-page2.ts",
+      "blocks": 13
+    },
+    {
+      "file": "mic-condenser-bestsellers.ts",
+      "blocks": 18
+    },
+    {
+      "file": "mic-dynamic-bestsellers-page2.ts",
+      "blocks": 5
+    },
+    {
+      "file": "mic-dynamic-bestsellers.ts",
+      "blocks": 9
+    },
+    {
+      "file": "mic-dynamic-new-releases.ts",
+      "blocks": 2
+    },
+    {
+      "file": "mic-most-gifted-page2.ts",
+      "blocks": 8
+    },
+    {
+      "file": "mic-most-gifted.ts",
+      "blocks": 16
+    },
+    {
+      "file": "monitor-acer-search.ts",
+      "blocks": 14
+    },
+    {
+      "file": "monitor-arm-bestsellers.ts",
+      "blocks": 49
+    },
+    {
+      "file": "monitor-arm-new-releases-page2.ts",
+      "blocks": 6
+    },
+    {
+      "file": "monitor-arm-new-releases.ts",
+      "blocks": 15
+    },
+    {
+      "file": "monitor-asus-search.ts",
+      "blocks": 8
+    },
+    {
+      "file": "monitor-bestsellers-page2.ts",
+      "blocks": 3
+    },
+    {
+      "file": "monitor-bestsellers.ts",
+      "blocks": 22
+    },
+    {
+      "file": "monitor-dell-search.ts",
+      "blocks": 9
+    },
+    {
+      "file": "monitor-lenovo-search-1822.ts",
+      "blocks": 3
+    },
+    {
+      "file": "monitor-lenovo-search-26plus-page2.ts",
+      "blocks": 3
+    },
+    {
+      "file": "monitor-lenovo-search-26plus.ts",
+      "blocks": 12
+    },
+    {
+      "file": "monitor-lenovo-search.ts",
+      "blocks": 5
+    },
+    {
+      "file": "monitor-most-gifted.ts",
+      "blocks": 12
+    },
+    {
+      "file": "monitor-new-releases-page2.ts",
+      "blocks": 17
+    },
+    {
+      "file": "monitor-new-releases.ts",
+      "blocks": 22
+    },
+    {
+      "file": "monitor-philips-search.ts",
+      "blocks": 5
+    },
+    {
+      "file": "monitor-premium-gaming.ts",
+      "blocks": 14
+    },
+    {
+      "file": "monitor-refresh144-search-page2.ts",
+      "blocks": 22
+    },
+    {
+      "file": "monitor-refresh144-search.ts",
+      "blocks": 22
+    },
+    {
+      "file": "monitor-search-22-120.ts",
+      "blocks": 58
+    },
+    {
+      "file": "mouse-bestsellers.ts",
+      "blocks": 73
+    },
+    {
+      "file": "mouse-g-pro-search.ts",
+      "blocks": 15
+    },
+    {
+      "file": "mouse-gaming-bestsellers.ts",
+      "blocks": 30
+    },
+    {
+      "file": "mouse-gaming-new-releases-page2.ts",
+      "blocks": 7
+    },
+    {
+      "file": "mouse-gaming-new-releases.ts",
+      "blocks": 12
+    },
+    {
+      "file": "mouse-gpro-page3.ts",
+      "blocks": 13
+    },
+    {
+      "file": "mouse-new-releases-page2.ts",
+      "blocks": 11
+    },
+    {
+      "file": "mouse-new-releases.ts",
+      "blocks": 16
+    },
+    {
+      "file": "mouse-popular-brands.ts",
+      "blocks": 95
+    }
+  ],
+  "completedAt": "2026-09-20T23:49:54.135Z"
+}

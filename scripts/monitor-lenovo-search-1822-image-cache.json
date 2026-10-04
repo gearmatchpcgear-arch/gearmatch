@@ -1,0 +1,38 @@
+{
+  "B0FYPJVF6S": {
+    "asin": "B0FYPJVF6S",
+    "image": "https://m.media-amazon.com/images/I/71s63XijwmL._AC_SL1500_.jpg",
+    "fetchedAt": "2026-08-14T13:44:53.800Z",
+    "source": "html"
+  },
+  "B000A6MYPS": {
+    "asin": "B000A6MYPS",
+    "image": "https://m.media-amazon.com/images/I/21pSVKFlnNL._AC_SL1500_.jpg",
+    "fetchedAt": "2026-08-14T13:45:07.162Z",
+    "source": "html"
+  },
+  "B0D4F6H377": {
+    "asin": "B0D4F6H377",
+    "image": "https://m.media-amazon.com/images/I/615VAUd82lL._AC_SL1500_.jpg",
+    "fetchedAt": "2026-09-16T11:41:35.109Z",
+    "source": "html"
+  },
+  "B0C1T7LJBB": {
+    "asin": "B0C1T7LJBB",
+    "image": "https://m.media-amazon.com/images/I/61r24cBG3wL._AC_SL1500_.jpg",
+    "fetchedAt": "2026-09-16T11:41:59.398Z",
+    "source": "html"
+  },
+  "B0GH2PMX77": {
+    "asin": "B0GH2PMX77",
+    "image": "https://m.media-amazon.com/images/I/41WjOwK3muL._AC_SL1500_.jpg",
+    "fetchedAt": "2026-09-16T11:42:48.262Z",
+    "source": "html"
+  },
+  "B0FY3H12G6": {
+    "asin": "B0FY3H12G6",
+    "image": "https://m.media-amazon.com/images/I/61KM-0bJzCL._AC_SL1500_.jpg",
+    "fetchedAt": "2026-09-16T11:42:56.006Z",
+    "source": "html"
+  }
+}

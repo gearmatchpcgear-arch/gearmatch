@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600" fill="none">
+  <rect width="800" height="600" fill="#E8EDF5"/>
+  <rect x="250" y="180" width="300" height="120" rx="12" fill="#CBD5E1" stroke="#94A3B8" stroke-width="4"/>
+  <circle cx="310" cy="240" r="18" fill="#94A3B8"/>
+  <circle cx="370" cy="240" r="18" fill="#94A3B8"/>
+  <rect x="430" y="222" width="90" height="36" rx="6" fill="#94A3B8"/>
+  <path d="M400 300v40" stroke="#64748B" stroke-width="8" stroke-linecap="round"/>
+  <rect x="360" y="340" width="80" height="24" rx="4" fill="#64748B"/>
+  <text x="400" y="520" text-anchor="middle" fill="#64748B" font-family="system-ui,sans-serif" font-size="24" font-weight="600">Audio IF</text>
+</svg>

@@ -1,0 +1,23 @@
+{
+  "mode": "apply",
+  "checked": 1,
+  "ok": 0,
+  "fixes": 0,
+  "unresolved": 1,
+  "fixList": [],
+  "unresolvedList": [
+    {
+      "block": "{\n    id: \"m-nr2-005\",\n    category: \"mouse\",\n    name: \"【驚きのスリム＆Type-C 充電式 】マウス 無線 Bluetooth 5.4 静音 小型 ワイヤレスマウス 2.4GHz 3段階DPI…\",\n    brand: \"—\",\n    tagline: \"【驚きのスリム＆Type-C 充電式 】マウス 無線 Bluetooth 5.4 静音 小型 ワイヤレスマウス 2.4GHz 3段階DPI切替 省エネ 瞬時接続 7色ライト付き 小型 光学式 高耐久性 Mac/Windows/Surface/パソコン/Mac 対応\",\n    price: 999,\n    rating: 4.9,\n    reviews: 14,\n    image: \"https://m.media-amazon.com/images/I/51sg4w7nrEL._AC_SL1500_.jpg\",\n    connection: \"2.4GHz (USBレシーバー) / Bluetooth\",\n    mouseSpreadsheetButtonCount: \"3ボタン\",\n    purchaseUrl: \"https://www.amazon.co.jp/dp/B0GYQW8PZ7\",\n    mouseUsage: \"productivity\",\n    mouseFilterTags: [\"reading-optical\"],\n    highlights: [\n      { label: \"重量\", value: \"60 g\" },\n      { label: \"最大DPI\", value: \"—\" },\n      { label: \"読み取り方式\", value: \"光学式\" },\n      { label: \"ポーリングレート\", value: \"—\" },\n    ],\n    compat: [],\n    specGroups: [\n      { title: \"サイズ / 重量\", rows: [\n          { label: \"重量\", value: \"60 g\" },\n        ]},\n      { title: \"センサー / 入力\", rows: [\n          { label: \"最大 DPI\", value: \"—\" },\n          { label: \"ポーリングレート\", value: \"—\" },\n          { label: \"読み取り方式\", value: \"光学式\" },\n          { label: \"ボタン数\", value: \"3ボタン\" },\n        ]},\n      { title: \"接続 / 電源\", rows: [\n          { label: \"接続方式\", value: \"2.4GHz (USBレシーバー) / Bluetooth\" },\n          { label: \"電源\", value: \"充電式\" },\n        ]},\n    ],\n  },",
+      "id": "m-nr2-005",
+      "category": "mouse",
+      "name": "【驚きのスリム＆Type-C 充電式 】マウス 無線 Bluetooth 5.4 静音 小型 ワイヤレスマウス 2.4GHz 3段階DPI…",
+      "brand": "—",
+      "tagline": "【驚きのスリム＆Type-C 充電式 】マウス 無線 Bluetooth 5.4 静音 小型 ワイヤレスマウス 2.4GHz 3段階DPI切替 省エネ 瞬時接続 7色ライト付き 小型 光学式 高耐久性 Mac/Windows/Surface/パソコン/Mac 対応",
+      "image": "https://m.media-amazon.com/images/I/51sg4w7nrEL._AC_SL1500_.jpg",
+      "asin": "B0GYQW8PZ7",
+      "file": "mouse-new-releases-page2.ts",
+      "issue": "no-live-title"
+    }
+  ],
+  "generatedAt": "2026-09-21T13:02:03.831Z"
+}

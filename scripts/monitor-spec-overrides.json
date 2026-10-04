@@ -1,0 +1,161 @@
+{
+  "B07ZNTHZHZ": {
+    "name": "EVC-1506S モバイルモニター",
+    "brand": "EVICIV",
+    "tagline": "15.6型FHD・IPS非光沢・USB Type-C/Mini HDMI対応のポータブルモニター（自立スタンド付き）",
+    "connection": "USB Type-C / Mini HDMI",
+    "screenSize": "15.6 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "refreshRate": "60 Hz",
+    "panel": "IPS 非光沢",
+    "weight": "780 g",
+    "monitorFilterTags": ["res-fhd", "refresh-60", "port-hdmi", "port-usb-c"]
+  },
+  "B0D1K8H4F5": {
+    "name": "15.6型 モバイルモニター",
+    "brand": "KEEPTIME",
+    "tagline": "15.6型FHD・超薄型5mm・570g・IPSノングレア・USB Type-C/Mini HDMI対応",
+    "connection": "USB Type-C / Mini HDMI",
+    "screenSize": "15.6 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "refreshRate": "60 Hz",
+    "panel": "IPS ノングレア",
+    "weight": "570 g",
+    "monitorFilterTags": ["res-fhd", "refresh-60", "port-hdmi", "port-usb-c"]
+  },
+  "B0D9K624F9": {
+    "name": "H24V27",
+    "brand": "KTC",
+    "tagline": "24型FHD 100Hz・VAパネル HDR10・Adaptive Sync対応デスクトップモニター",
+    "connection": "HDMI 1.4 / VGA",
+    "screenSize": "24 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "refreshRate": "100 Hz",
+    "panel": "VA / HDR10",
+    "weight": "3,200 g",
+    "monitorFilterTags": ["size-24", "res-fhd", "refresh-100", "port-hdmi"]
+  },
+  "B0FPF1HGT8": {
+    "name": "S2725DC",
+    "brand": "Dell",
+    "tagline": "27型QHD 144Hz・IPS非光沢・USB-C給電対応・無輝点3年保証",
+    "connection": "USB Type-C / HDMI / DisplayPort 1.4",
+    "screenSize": "27 インチ",
+    "resolution": "2560 x 1440 (QHD)",
+    "refreshRate": "144 Hz",
+    "panel": "IPS 非光沢",
+    "weight": "6,200 g",
+    "monitorFilterTags": ["size-27", "res-wqhd", "refresh-144-plus", "port-hdmi", "port-dp", "port-usb-c", "port-usb-c-pd"]
+  },
+  "B0DNDXMLR7": {
+    "name": "VY249HGR",
+    "brand": "ASUS",
+    "tagline": "23.8型FHD 120Hz(OC)・IPS・Eye Care・Adaptive Sync対応（Amazon.co.jp限定）",
+    "connection": "HDMI / VGA",
+    "screenSize": "23.8 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "refreshRate": "120 Hz (OC)",
+    "panel": "IPS / 1ms (MPRT)",
+    "weight": "3,500 g",
+    "monitorFilterTags": ["size-238", "res-fhd", "refresh-100", "port-hdmi"]
+  },
+  "B0CDBS93QZ": {
+    "name": "PRO MP2412",
+    "brand": "MSI",
+    "tagline": "23.8型FHD 100Hz・VAパネル・HDMI/DP対応（Amazon.co.jp限定）",
+    "connection": "HDMI / DisplayPort",
+    "screenSize": "23.8 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "refreshRate": "100 Hz",
+    "panel": "VA 非光沢",
+    "monitorFilterTags": ["size-238", "res-fhd", "refresh-100", "port-hdmi", "port-dp"]
+  },
+  "B0CPXQQLL2": {
+    "name": "LCD-A221XDB",
+    "brand": "IO DATA",
+    "tagline": "23.8型FHD・ADSパネル非光沢・HDMI/アナログRGB・スピーカー内蔵（Amazon.co.jp限定）",
+    "connection": "HDMI / アナログRGB (D-sub)",
+    "screenSize": "23.8 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "refreshRate": "60 Hz",
+    "panel": "ADS 非光沢",
+    "monitorFilterTags": ["size-238", "res-fhd", "refresh-60", "port-hdmi"]
+  },
+  "B0GCC92XD8": {
+    "name": "A24i",
+    "brand": "Xiaomi",
+    "tagline": "24型FHD 144Hz・IPS sRGB 99%・TÜV低ブルーライト対応",
+    "connection": "HDMI",
+    "screenSize": "24 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "refreshRate": "144 Hz",
+    "panel": "IPS",
+    "monitorFilterTags": ["size-24", "res-fhd", "refresh-144-plus", "port-hdmi"]
+  },
+  "B0D9KGG1B6": {
+    "name": "H27T22S",
+    "brand": "KTC",
+    "tagline": "27型WQHD 200Hz・Fast IPS・HDR400・FreeSync/G-Sync Compatible",
+    "connection": "HDMI 2.0 x2 / DisplayPort 1.4 x2",
+    "screenSize": "27 インチ",
+    "resolution": "2560 x 1440 (QHD)",
+    "refreshRate": "200 Hz",
+    "panel": "Fast IPS",
+    "monitorFilterTags": ["size-27", "res-wqhd", "refresh-144-plus", "port-hdmi", "port-dp"]
+  },
+  "B0DZ6LG8PZ": {
+    "name": "AF340H3",
+    "brand": "Amzfast",
+    "tagline": "34型UWQHD 240Hz・曲面VA・HDR400・Adaptive Sync対応",
+    "connection": "HDMI 2.1 FRL x2",
+    "screenSize": "34 インチ",
+    "resolution": "3440 x 1440 (UWQHD)",
+    "refreshRate": "240 Hz",
+    "panel": "VA 曲面",
+    "monitorFilterTags": ["size-315-plus", "res-uwqhd", "refresh-240-plus", "port-hdmi"]
+  },
+  "B0G6JV85HG": {
+    "name": "SE2426HG",
+    "brand": "Dell",
+    "tagline": "23.8型FHD 240Hz・IPS・FreeSync Premium（Amazon.co.jp限定）",
+    "connection": "HDMI x2 / DisplayPort",
+    "screenSize": "23.8 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "refreshRate": "240 Hz",
+    "panel": "IPS 非光沢",
+    "monitorFilterTags": ["size-238", "res-fhd", "refresh-240-plus", "port-hdmi", "port-dp"]
+  },
+  "B0FCQPC9FQ": {
+    "name": "24E1N1100A",
+    "brand": "PHILIPS",
+    "tagline": "23.8型FHD 120Hz・IPS・USB Type-C 65W給電・5年保証（Amazon.co.jp限定）",
+    "connection": "HDMI / USB Type-C (65W PD)",
+    "screenSize": "23.8 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "refreshRate": "120 Hz",
+    "panel": "IPS",
+    "monitorFilterTags": ["size-238", "res-fhd", "refresh-100", "port-hdmi", "port-usb-c", "port-usb-c-pd"]
+  },
+  "B0G6JMQK17": {
+    "name": "SE2426H",
+    "brand": "Dell",
+    "tagline": "23.8型FHD 144Hz・IPS非光沢・FreeSync対応",
+    "connection": "HDMI x2",
+    "screenSize": "23.8 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "refreshRate": "144 Hz",
+    "panel": "IPS 非光沢",
+    "monitorFilterTags": ["size-238", "res-fhd", "refresh-144-plus", "port-hdmi"]
+  },
+  "B0DMN94Q8M": {
+    "name": "RM-G276N",
+    "brand": "REGZA",
+    "tagline": "27型WQHD 240Hz・Fast IPS・HDR10・Adaptive Sync対応",
+    "connection": "HDMI",
+    "screenSize": "27 インチ",
+    "resolution": "2560 x 1440 (QHD)",
+    "refreshRate": "240 Hz",
+    "panel": "Fast IPS",
+    "monitorFilterTags": ["size-27", "res-wqhd", "refresh-240-plus", "port-hdmi"]
+  }
+}

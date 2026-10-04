@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600" fill="none">
+  <rect width="800" height="600" fill="#E8EDF5"/>
+  <rect x="360" y="140" width="80" height="160" rx="40" fill="#CBD5E1" stroke="#94A3B8" stroke-width="4"/>
+  <path d="M320 300c0 44 36 80 80 80s80-36 80-80" stroke="#94A3B8" stroke-width="8" stroke-linecap="round"/>
+  <line x1="400" y1="380" x2="400" y2="430" stroke="#94A3B8" stroke-width="8" stroke-linecap="round"/>
+  <line x1="340" y1="430" x2="460" y2="430" stroke="#94A3B8" stroke-width="8" stroke-linecap="round"/>
+  <text x="400" y="520" text-anchor="middle" fill="#64748B" font-family="system-ui,sans-serif" font-size="28" font-weight="600">ޤ�</text>
+</svg>

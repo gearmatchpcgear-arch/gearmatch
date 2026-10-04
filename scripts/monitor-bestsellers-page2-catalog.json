@@ -1,0 +1,997 @@
+[
+  {
+    "rank": 51,
+    "name": "MFG27C1",
+    "brand": "Minifire",
+    "price": 15999,
+    "tagline": "27型FHD 200Hz・1500R曲面VA・AMD FreeSync HDR10・DP/HDMI",
+    "connection": "DisplayPort / HDMI",
+    "screenSize": "27 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "refreshRate": "200 Hz",
+    "panel": "VA 曲面 (1500R)",
+    "monitorFilterTags": [
+      "size-27",
+      "res-fhd",
+      "refresh-144-plus",
+      "port-hdmi",
+      "port-dp"
+    ],
+    "asin": "B0DC46F5HK"
+  },
+  {
+    "rank": 52,
+    "name": "E2212H",
+    "brand": "KOORUI",
+    "price": 10800,
+    "tagline": "21.5型FHD 120Hz・VA非光沢・HDMI/VGA",
+    "connection": "HDMI / VGA",
+    "screenSize": "21.5 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "refreshRate": "120 Hz",
+    "panel": "VA 非光沢",
+    "monitorFilterTags": [
+      "res-fhd",
+      "refresh-100",
+      "port-hdmi"
+    ],
+    "asin": "B0C6DSXXJV"
+  },
+  {
+    "rank": 53,
+    "name": "EV2740S-AMZBK",
+    "brand": "EIZO",
+    "price": 73800,
+    "tagline": "27型4K IPS・FlexScan・USB Type-C 60W給電・DP/HDMI",
+    "connection": "USB Type-C (60W PD) / DisplayPort / HDMI",
+    "screenSize": "27 インチ",
+    "resolution": "3840 x 2160 (4K UHD)",
+    "refreshRate": "60 Hz",
+    "panel": "IPS",
+    "monitorFilterTags": [
+      "size-27",
+      "res-4k",
+      "refresh-60",
+      "port-hdmi",
+      "port-dp",
+      "port-usb-c",
+      "port-usb-c-pd"
+    ],
+    "asin": "B0FSR8RKDF"
+  },
+  {
+    "rank": 54,
+    "name": "EX-GD251UH",
+    "brand": "IODATA",
+    "price": 17891,
+    "tagline": "24.5型FHD 240Hz・1ms・HFSパネル・GCFXゲーミング・HDMI/DP",
+    "connection": "HDMI / DisplayPort",
+    "screenSize": "24.5 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "refreshRate": "240 Hz",
+    "panel": "HFS",
+    "monitorFilterTags": [
+      "size-24",
+      "res-fhd",
+      "refresh-240-plus",
+      "port-hdmi",
+      "port-dp"
+    ],
+    "asin": "B0FLC2Y42B"
+  },
+  {
+    "rank": 55,
+    "name": "DP-FF164S-B",
+    "brand": "IRIS OHYAMA",
+    "price": 18586,
+    "tagline": "15.6型FHD・自立スタンド・スピーカー内蔵・Type-C/Mini HDMI",
+    "connection": "USB Type-C / Mini HDMI",
+    "screenSize": "15.6 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "refreshRate": "60 Hz",
+    "panel": "IPS",
+    "monitorFilterTags": [
+      "res-fhd",
+      "refresh-60",
+      "port-hdmi",
+      "port-usb-c"
+    ],
+    "asin": "B0DNQ7BDT7"
+  },
+  {
+    "rank": 56,
+    "name": "18.5型 120Hz モバイルモニター",
+    "brand": "UPERFECT",
+    "price": 17453,
+    "tagline": "18.5型FHD 120Hz・IPS非光沢・100% sRGB・Type-C/Mini HDMI",
+    "connection": "USB Type-C / Mini HDMI",
+    "screenSize": "18.5 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "refreshRate": "120 Hz",
+    "panel": "IPS 非光沢",
+    "monitorFilterTags": [
+      "res-fhd",
+      "refresh-100",
+      "port-hdmi",
+      "port-usb-c"
+    ],
+    "asin": "B0G5WLZPTL"
+  },
+  {
+    "rank": 57,
+    "name": "15.6型 モバイルモニター",
+    "brand": "LivElect",
+    "price": 7549,
+    "tagline": "15.6型FHD・IPS非光沢・自立型・Type-C/Mini HDMI",
+    "connection": "USB Type-C / Mini HDMI",
+    "screenSize": "15.6 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "refreshRate": "60 Hz",
+    "panel": "IPS 非光沢",
+    "monitorFilterTags": [
+      "res-fhd",
+      "refresh-60",
+      "port-hdmi",
+      "port-usb-c"
+    ],
+    "asin": "B0DZNM8V94"
+  },
+  {
+    "rank": 58,
+    "name": "C-16QH",
+    "brand": "cocopar",
+    "price": 19999,
+    "tagline": "16型2.5K WQXGA 144Hz・IPS非光沢・Type-C/Mini HDMI",
+    "connection": "USB Type-C / Mini HDMI",
+    "screenSize": "16 インチ",
+    "resolution": "2560 x 1600 (WQXGA / 2.5K)",
+    "refreshRate": "144 Hz",
+    "panel": "IPS 非光沢",
+    "monitorFilterTags": [
+      "res-wqhd",
+      "refresh-144-plus",
+      "port-hdmi",
+      "port-usb-c"
+    ],
+    "asin": "B0GYHL3RQ5"
+  },
+  {
+    "rank": 59,
+    "name": "27U711B-B",
+    "brand": "LG",
+    "price": 37900,
+    "tagline": "27型4K IPS・DCI-P3 90%・HDR・HDMI/DP",
+    "connection": "HDMI / DisplayPort",
+    "screenSize": "27 インチ",
+    "resolution": "3840 x 2160 (4K UHD)",
+    "refreshRate": "60 Hz",
+    "panel": "IPS",
+    "monitorFilterTags": [
+      "size-27",
+      "res-4k",
+      "refresh-60",
+      "port-hdmi",
+      "port-dp"
+    ],
+    "asin": "B0GYPVGG2D"
+  },
+  {
+    "rank": 60,
+    "name": "EX-D242SA-F",
+    "brand": "IODATA",
+    "price": 17980,
+    "tagline": "23.8型FHD 100Hz・AHVAピボット・HDMI/DP",
+    "connection": "HDMI / DisplayPort",
+    "screenSize": "23.8 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "refreshRate": "100 Hz",
+    "panel": "AHVA",
+    "monitorFilterTags": [
+      "size-238",
+      "res-fhd",
+      "refresh-100",
+      "port-hdmi",
+      "port-dp"
+    ],
+    "asin": "B0F32NVN1T"
+  },
+  {
+    "rank": 61,
+    "name": "24G4",
+    "brand": "AOC",
+    "price": 13455,
+    "tagline": "23.8型FHD 180Hz・Fast IPS・G-Sync Compatible・HDMI 2.0/DP 1.4",
+    "connection": "HDMI 2.0 / DisplayPort 1.4",
+    "screenSize": "23.8 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "refreshRate": "180 Hz",
+    "panel": "Fast IPS",
+    "monitorFilterTags": [
+      "size-238",
+      "res-fhd",
+      "refresh-144-plus",
+      "port-hdmi",
+      "port-dp"
+    ],
+    "asin": "B0CPF8B7V7"
+  },
+  {
+    "rank": 62,
+    "name": "15.6型 デュアルモバイルモニター",
+    "brand": "UPERFECT",
+    "price": 27528,
+    "tagline": "15.6型FHD×2・折りたたみデュアル・IPS・Type-C/Mini HDMI",
+    "connection": "USB Type-C / Mini HDMI",
+    "screenSize": "15.6 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "refreshRate": "60 Hz",
+    "panel": "IPS",
+    "monitorFilterTags": [
+      "res-fhd",
+      "refresh-60",
+      "port-hdmi",
+      "port-usb-c"
+    ],
+    "asin": "B0DK1F8RGD"
+  },
+  {
+    "rank": 63,
+    "name": "G2711P",
+    "brand": "KOORUI",
+    "price": 12770,
+    "tagline": "27型FHD 200Hz・Fast IPS・HDR400・HDMI/DP",
+    "connection": "HDMI / DisplayPort",
+    "screenSize": "27 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "refreshRate": "200 Hz",
+    "panel": "Fast IPS",
+    "monitorFilterTags": [
+      "size-27",
+      "res-fhd",
+      "refresh-144-plus",
+      "port-hdmi",
+      "port-dp"
+    ],
+    "asin": "B0GRGRV5JS"
+  },
+  {
+    "rank": 64,
+    "name": "GW2490",
+    "brand": "BenQ",
+    "price": 17091,
+    "tagline": "23.8型FHD 100Hz・IPS・アイケア・HDMI/DP",
+    "connection": "HDMI / DisplayPort",
+    "screenSize": "23.8 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "refreshRate": "100 Hz",
+    "panel": "IPS",
+    "monitorFilterTags": [
+      "size-238",
+      "res-fhd",
+      "refresh-100",
+      "port-hdmi",
+      "port-dp"
+    ],
+    "asin": "B0CTMC2ZQH"
+  },
+  {
+    "rank": 65,
+    "name": "EX-GDQ271UA",
+    "brand": "IODATA",
+    "price": 29381,
+    "tagline": "27型WQHD 275Hz・AHVA・GigaCrysta GCFX・HDMI/DP",
+    "connection": "HDMI / DisplayPort",
+    "screenSize": "27 インチ",
+    "resolution": "2560 x 1440 (QHD)",
+    "refreshRate": "275 Hz",
+    "panel": "AHVA",
+    "monitorFilterTags": [
+      "size-27",
+      "res-wqhd",
+      "refresh-240-plus",
+      "port-hdmi",
+      "port-dp"
+    ],
+    "asin": "B0FRS96GV9"
+  },
+  {
+    "rank": 66,
+    "name": "29U511A-B",
+    "brand": "LG",
+    "price": 26686,
+    "tagline": "29型UWFHD 100Hz・IPSウルトラワイド・HDMI",
+    "connection": "HDMI",
+    "screenSize": "29 インチ",
+    "resolution": "2560 x 1080 (UWFHD)",
+    "refreshRate": "100 Hz",
+    "panel": "IPS",
+    "monitorFilterTags": [
+      "size-27",
+      "res-fhd",
+      "refresh-100",
+      "port-hdmi"
+    ],
+    "asin": "B0F6D19M1C"
+  },
+  {
+    "rank": 67,
+    "name": "15.6型 144Hz ゲーミングモバイル",
+    "brand": "ARZOPA",
+    "price": 15999,
+    "tagline": "15.6型FHD 144Hz・IPS・Type-C/Mini HDMI",
+    "connection": "USB Type-C / Mini HDMI",
+    "screenSize": "15.6 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "refreshRate": "144 Hz",
+    "panel": "IPS",
+    "monitorFilterTags": [
+      "res-fhd",
+      "refresh-144-plus",
+      "port-hdmi",
+      "port-usb-c"
+    ],
+    "asin": "B0B2RCT6CR"
+  },
+  {
+    "rank": 68,
+    "name": "H27F7",
+    "brand": "KTC",
+    "price": 19980,
+    "tagline": "27型FHD 240Hz・Fast IPS・ゲーミングモニター・HDMI/DP",
+    "connection": "HDMI / DisplayPort",
+    "screenSize": "27 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "refreshRate": "240 Hz",
+    "panel": "Fast IPS",
+    "monitorFilterTags": [
+      "size-27",
+      "res-fhd",
+      "refresh-240-plus",
+      "port-hdmi",
+      "port-dp"
+    ],
+    "asin": "B0FNCVVM8B"
+  },
+  {
+    "rank": 69,
+    "name": "PRO MP273AW",
+    "brand": "MSI",
+    "price": 17800,
+    "tagline": "27型FHD 100Hz・IPSホワイト・HDMI/DP",
+    "connection": "HDMI / DisplayPort",
+    "screenSize": "27 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "refreshRate": "100 Hz",
+    "panel": "IPS",
+    "monitorFilterTags": [
+      "size-27",
+      "res-fhd",
+      "refresh-100",
+      "port-hdmi",
+      "port-dp"
+    ],
+    "asin": "B0CV7M63LH"
+  },
+  {
+    "rank": 70,
+    "name": "ROG Swift OLED PG27AQDM",
+    "brand": "ASUS",
+    "price": 118000,
+    "tagline": "26.5型QHD 240Hz・OLED・ROG Swift・HDMI/DP",
+    "connection": "HDMI / DisplayPort",
+    "screenSize": "26.5 インチ",
+    "resolution": "2560 x 1440 (QHD)",
+    "refreshRate": "240 Hz",
+    "panel": "OLED",
+    "monitorFilterTags": [
+      "size-27",
+      "res-wqhd",
+      "refresh-240-plus",
+      "port-hdmi",
+      "port-dp"
+    ],
+    "asin": "B0C32SVFDQ"
+  },
+  {
+    "rank": 71,
+    "name": "271E1D/11",
+    "brand": "Philips",
+    "price": 16800,
+    "tagline": "27型FHD・IPS・HDMI/DVI/D-sub",
+    "connection": "HDMI / DVI / D-sub",
+    "screenSize": "27 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "refreshRate": "60 Hz",
+    "panel": "IPS",
+    "monitorFilterTags": [
+      "size-27",
+      "res-fhd",
+      "refresh-60",
+      "port-hdmi"
+    ],
+    "asin": "B07V5BHZLW"
+  },
+  {
+    "rank": 72,
+    "name": "27M2U",
+    "brand": "Innocn",
+    "price": 49800,
+    "tagline": "27型4K MiniLED・USB Type-C 90W給電・HDMI/DP",
+    "connection": "USB Type-C (90W PD) / HDMI / DisplayPort",
+    "screenSize": "27 インチ",
+    "resolution": "3840 x 2160 (4K UHD)",
+    "refreshRate": "60 Hz",
+    "panel": "MiniLED",
+    "monitorFilterTags": [
+      "size-27",
+      "res-4k",
+      "refresh-60",
+      "port-hdmi",
+      "port-dp",
+      "port-usb-c",
+      "port-usb-c-pd"
+    ],
+    "asin": "B0B2P49LJX"
+  },
+  {
+    "rank": 73,
+    "name": "27G2E5/11",
+    "brand": "AOC",
+    "price": 15800,
+    "tagline": "27型FHD 75Hz・IPS・HDMI/DisplayPort",
+    "connection": "HDMI / DisplayPort",
+    "screenSize": "27 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "refreshRate": "75 Hz",
+    "panel": "IPS",
+    "monitorFilterTags": [
+      "size-27",
+      "res-fhd",
+      "refresh-100",
+      "port-hdmi",
+      "port-dp"
+    ],
+    "asin": "B08HLL1FN7"
+  },
+  {
+    "rank": 74,
+    "name": "PX277 PRO",
+    "brand": "Pixio",
+    "price": 34980,
+    "tagline": "27型WQHD 165Hz・Fast IPS・USB Type-C 65W・HDMI/DP",
+    "connection": "USB Type-C (65W PD) / HDMI / DisplayPort",
+    "screenSize": "27 インチ",
+    "resolution": "2560 x 1440 (QHD)",
+    "refreshRate": "165 Hz",
+    "panel": "Fast IPS",
+    "monitorFilterTags": [
+      "size-27",
+      "res-wqhd",
+      "refresh-144-plus",
+      "port-hdmi",
+      "port-dp",
+      "port-usb-c",
+      "port-usb-c-pd"
+    ],
+    "asin": "B0BK7Q3J8N"
+  },
+  {
+    "rank": 75,
+    "name": "EX-GD254U",
+    "brand": "IODATA",
+    "price": 29980,
+    "tagline": "24.5型FHD 320Hz・AHVA・GigaCrysta GCFX・HDMI/DP",
+    "connection": "HDMI / DisplayPort",
+    "screenSize": "24.5 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "refreshRate": "320 Hz",
+    "panel": "AHVA",
+    "monitorFilterTags": [
+      "size-24",
+      "res-fhd",
+      "refresh-240-plus",
+      "port-hdmi",
+      "port-dp"
+    ],
+    "asin": "B0FX42YJQC"
+  },
+  {
+    "rank": 76,
+    "name": "NK-133",
+    "brand": "kksmart",
+    "price": 14999,
+    "tagline": "13.3型2.5K WQXGA・IPS・自立型・Type-C/Mini HDMI",
+    "connection": "USB Type-C / Mini HDMI",
+    "screenSize": "13.3 インチ",
+    "resolution": "2560 x 1600 (WQXGA / 2.5K)",
+    "refreshRate": "60 Hz",
+    "panel": "IPS",
+    "monitorFilterTags": [
+      "res-wqhd",
+      "refresh-60",
+      "port-hdmi",
+      "port-usb-c"
+    ],
+    "asin": "B09MHQNH18"
+  },
+  {
+    "rank": 77,
+    "name": "S3425DW",
+    "brand": "Dell",
+    "price": 64980,
+    "tagline": "34型UWQHD 120Hz・1800R曲面VA・USB Type-C・HDMI",
+    "connection": "USB Type-C / HDMI",
+    "screenSize": "34 インチ",
+    "resolution": "3440 x 1440 (UWQHD)",
+    "refreshRate": "120 Hz",
+    "panel": "VA 非光沢 (1800R 曲面)",
+    "monitorFilterTags": [
+      "size-315-plus",
+      "res-uwqhd",
+      "refresh-100",
+      "refresh-144-plus",
+      "port-hdmi",
+      "port-usb-c",
+      "port-usb-c-pd"
+    ],
+    "asin": "B0GR4Q6FL4"
+  },
+  {
+    "rank": 78,
+    "name": "G-133Q",
+    "brand": "Upperizon",
+    "price": 11998,
+    "tagline": "13.3型2K WQXGA 16:10・IPS・Type-C/Mini HDMI",
+    "connection": "USB Type-C / Mini HDMI",
+    "screenSize": "13.3 インチ",
+    "resolution": "2560 x 1600 (WQXGA / 2K)",
+    "refreshRate": "60 Hz",
+    "panel": "IPS 非光沢",
+    "monitorFilterTags": [
+      "res-wqhd",
+      "refresh-60",
+      "port-hdmi",
+      "port-usb-c"
+    ],
+    "asin": "B0DFLQG2S3"
+  },
+  {
+    "rank": 79,
+    "name": "14型 モバイルモニター",
+    "brand": "VisionOwl",
+    "price": 14999,
+    "tagline": "14型1200P (1920×1200)・IPS超薄型・Type-C/Mini HDMI",
+    "connection": "USB Type-C / Mini HDMI",
+    "screenSize": "14 インチ",
+    "resolution": "1920 x 1200 (1200P)",
+    "refreshRate": "60 Hz",
+    "panel": "IPS",
+    "monitorFilterTags": [
+      "res-fhd",
+      "refresh-60",
+      "port-hdmi",
+      "port-usb-c"
+    ],
+    "asin": "B09TGZCV4N"
+  },
+  {
+    "rank": 80,
+    "name": "10.5型 モバイルモニター",
+    "brand": "Dopesplay",
+    "price": 9499,
+    "tagline": "10.5型1920×1280・IPS・Type-C/Mini HDMI",
+    "connection": "USB Type-C / Mini HDMI",
+    "screenSize": "10.5 インチ",
+    "resolution": "1920 x 1280 (FHD)",
+    "refreshRate": "60 Hz",
+    "panel": "IPS",
+    "monitorFilterTags": [
+      "res-fhd",
+      "refresh-60",
+      "port-hdmi",
+      "port-usb-c"
+    ],
+    "asin": "B0DPFYHXR9"
+  },
+  {
+    "rank": 81,
+    "name": "EW2880U",
+    "brand": "BenQ",
+    "price": 38800,
+    "tagline": "28型4K IPS・USB Type-C 60W・エンタメモニター・HDMI/DP",
+    "connection": "USB Type-C (60W PD) / HDMI / DisplayPort",
+    "screenSize": "28 インチ",
+    "resolution": "3840 x 2160 (4K UHD)",
+    "refreshRate": "60 Hz",
+    "panel": "IPS",
+    "monitorFilterTags": [
+      "size-27",
+      "res-4k",
+      "refresh-60",
+      "port-hdmi",
+      "port-dp",
+      "port-usb-c",
+      "port-usb-c-pd"
+    ],
+    "asin": "B09M3GLDY2"
+  },
+  {
+    "rank": 82,
+    "name": "EX-GDQ271JA",
+    "brand": "IODATA",
+    "price": 32800,
+    "tagline": "27型WQHD 180Hz・AHVA・GigaCrysta・HDMI/DP",
+    "connection": "HDMI / DisplayPort",
+    "screenSize": "27 インチ",
+    "resolution": "2560 x 1440 (QHD)",
+    "refreshRate": "180 Hz",
+    "panel": "AHVA",
+    "monitorFilterTags": [
+      "size-27",
+      "res-wqhd",
+      "refresh-144-plus",
+      "port-hdmi",
+      "port-dp"
+    ],
+    "asin": "B0CH7ZWQD5"
+  },
+  {
+    "rank": 83,
+    "name": "XL2546K",
+    "brand": "BenQ ZOWIE",
+    "price": 59800,
+    "tagline": "24.5型FHD 240Hz・TN・e-Sports向け・HDMI/DP",
+    "connection": "HDMI / DisplayPort",
+    "screenSize": "24.5 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "refreshRate": "240 Hz",
+    "panel": "TN",
+    "monitorFilterTags": [
+      "size-24",
+      "res-fhd",
+      "refresh-240-plus",
+      "port-hdmi",
+      "port-dp"
+    ],
+    "asin": "B08KGM1SJ8"
+  },
+  {
+    "rank": 84,
+    "name": "27GP850-B",
+    "brand": "LG",
+    "price": 42800,
+    "tagline": "27型WQHD 165Hz・Nano IPS・HDMI/DP",
+    "connection": "HDMI / DisplayPort",
+    "screenSize": "27 インチ",
+    "resolution": "2560 x 1440 (QHD)",
+    "refreshRate": "165 Hz",
+    "panel": "Nano IPS",
+    "monitorFilterTags": [
+      "size-27",
+      "res-wqhd",
+      "refresh-144-plus",
+      "port-hdmi",
+      "port-dp"
+    ],
+    "asin": "B093MTSTKD"
+  },
+  {
+    "rank": 85,
+    "name": "EK270Bbix",
+    "brand": "Acer",
+    "price": 14980,
+    "tagline": "27型FHD 75Hz・IPS・HDMI/VGA",
+    "connection": "HDMI / VGA",
+    "screenSize": "27 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "refreshRate": "75 Hz",
+    "panel": "IPS",
+    "monitorFilterTags": [
+      "size-27",
+      "res-fhd",
+      "refresh-100",
+      "port-hdmi"
+    ],
+    "asin": "B08WLS4VQ5"
+  },
+  {
+    "rank": 86,
+    "name": "JN-IPS2800UHDR",
+    "brand": "JAPANNEXT",
+    "price": 26980,
+    "tagline": "28型4K IPS・HDR・HDMI/DP",
+    "connection": "HDMI / DisplayPort",
+    "screenSize": "28 インチ",
+    "resolution": "3840 x 2160 (4K UHD)",
+    "refreshRate": "60 Hz",
+    "panel": "IPS",
+    "monitorFilterTags": [
+      "size-27",
+      "res-4k",
+      "refresh-60",
+      "port-hdmi",
+      "port-dp"
+    ],
+    "asin": "B08WK8Y8L5"
+  },
+  {
+    "rank": 87,
+    "name": "VX2428",
+    "brand": "ViewSonic",
+    "price": 16980,
+    "tagline": "23.8型FHD 180Hz・Fast IPS・HDMI/DP",
+    "connection": "HDMI / DisplayPort",
+    "screenSize": "23.8 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "refreshRate": "180 Hz",
+    "panel": "Fast IPS",
+    "monitorFilterTags": [
+      "size-238",
+      "res-fhd",
+      "refresh-144-plus",
+      "port-hdmi",
+      "port-dp"
+    ],
+    "asin": "B0CNXTWVN5"
+  },
+  {
+    "rank": 88,
+    "name": "AW2524HF",
+    "brand": "Dell",
+    "price": 89800,
+    "tagline": "24.5型FHD 500Hz・Fast IPS・Alienware・DP/HDMI",
+    "connection": "DisplayPort / HDMI",
+    "screenSize": "24.5 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "refreshRate": "500 Hz",
+    "panel": "Fast IPS",
+    "monitorFilterTags": [
+      "size-24",
+      "res-fhd",
+      "refresh-240-plus",
+      "port-hdmi",
+      "port-dp"
+    ],
+    "asin": "B0CHM9KR2L"
+  },
+  {
+    "rank": 89,
+    "name": "17.3型 2K 144Hz モバイル",
+    "brand": "EVICIV",
+    "price": 22980,
+    "tagline": "17.3型QHD 144Hz・IPS・Type-C/Mini HDMI",
+    "connection": "USB Type-C / Mini HDMI",
+    "screenSize": "17.3 インチ",
+    "resolution": "2560 x 1440 (QHD)",
+    "refreshRate": "144 Hz",
+    "panel": "IPS",
+    "monitorFilterTags": [
+      "res-wqhd",
+      "refresh-144-plus",
+      "port-hdmi",
+      "port-usb-c"
+    ],
+    "asin": "B0BBMLMCQT"
+  },
+  {
+    "rank": 90,
+    "name": "Modern MD271UL",
+    "brand": "MSI",
+    "price": 32800,
+    "tagline": "27型4K IPS・USB Type-C・HDMI/DP",
+    "connection": "USB Type-C / HDMI / DisplayPort",
+    "screenSize": "27 インチ",
+    "resolution": "3840 x 2160 (4K UHD)",
+    "refreshRate": "60 Hz",
+    "panel": "IPS",
+    "monitorFilterTags": [
+      "size-27",
+      "res-4k",
+      "refresh-60",
+      "port-hdmi",
+      "port-dp",
+      "port-usb-c"
+    ],
+    "asin": "B0C15K7C5S"
+  },
+  {
+    "rank": 91,
+    "name": "ProArt PA278QV",
+    "brand": "ASUS",
+    "price": 39800,
+    "tagline": "27型WQHD IPS・ProArt・HDMI/DP/DVI",
+    "connection": "HDMI / DisplayPort / DVI",
+    "screenSize": "27 インチ",
+    "resolution": "2560 x 1440 (QHD)",
+    "refreshRate": "60 Hz",
+    "panel": "IPS",
+    "monitorFilterTags": [
+      "size-27",
+      "res-wqhd",
+      "refresh-60",
+      "port-hdmi",
+      "port-dp"
+    ],
+    "asin": "B088BH4X5W"
+  },
+  {
+    "rank": 92,
+    "name": "EX-LDC151DBM",
+    "brand": "IODATA",
+    "price": 19800,
+    "tagline": "15.6型FHD・ADSパネル・モバイル・Type-C/Mini HDMI",
+    "connection": "USB Type-C / Mini HDMI",
+    "screenSize": "15.6 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "refreshRate": "60 Hz",
+    "panel": "ADS",
+    "monitorFilterTags": [
+      "res-fhd",
+      "refresh-60",
+      "port-hdmi",
+      "port-usb-c"
+    ],
+    "asin": "B08GKCD2NW"
+  },
+  {
+    "rank": 93,
+    "name": "CU34G2X/11",
+    "brand": "AOC",
+    "price": 44800,
+    "tagline": "34型UWQHD 144Hz・VA曲面・HDMI/DP",
+    "connection": "HDMI / DisplayPort",
+    "screenSize": "34 インチ",
+    "resolution": "3440 x 1440 (UWQHD)",
+    "refreshRate": "144 Hz",
+    "panel": "VA 曲面",
+    "monitorFilterTags": [
+      "size-315-plus",
+      "res-uwqhd",
+      "refresh-144-plus",
+      "port-hdmi",
+      "port-dp"
+    ],
+    "asin": "B087612T9B"
+  },
+  {
+    "rank": 94,
+    "name": "24E4",
+    "brand": "KOORUI",
+    "price": 13980,
+    "tagline": "23.8型FHD 165Hz・VA・Adaptive Sync・HDMI/DP",
+    "connection": "HDMI / DisplayPort",
+    "screenSize": "23.8 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "refreshRate": "165 Hz",
+    "panel": "VA",
+    "monitorFilterTags": [
+      "size-238",
+      "res-fhd",
+      "refresh-144-plus",
+      "port-hdmi",
+      "port-dp"
+    ],
+    "asin": "B0CKVJDGSV"
+  },
+  {
+    "rank": 95,
+    "name": "32UN880-B",
+    "brand": "LG",
+    "price": 62800,
+    "tagline": "31.5型4K IPS・ERGOアーム・USB Type-C・HDMI/DP",
+    "connection": "USB Type-C / HDMI / DisplayPort",
+    "screenSize": "31.5 インチ",
+    "resolution": "3840 x 2160 (4K UHD)",
+    "refreshRate": "60 Hz",
+    "panel": "IPS",
+    "monitorFilterTags": [
+      "size-315-plus",
+      "res-4k",
+      "refresh-60",
+      "port-hdmi",
+      "port-dp",
+      "port-usb-c"
+    ],
+    "asin": "B08DNQXFPG"
+  },
+  {
+    "rank": 96,
+    "name": "EX2710S",
+    "brand": "BenQ",
+    "price": 29800,
+    "tagline": "27型FHD 165Hz・IPS・treVoloスピーカー・HDMI/DP",
+    "connection": "HDMI / DisplayPort",
+    "screenSize": "27 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "refreshRate": "165 Hz",
+    "panel": "IPS",
+    "monitorFilterTags": [
+      "size-27",
+      "res-fhd",
+      "refresh-144-plus",
+      "port-hdmi",
+      "port-dp"
+    ],
+    "asin": "B099545PH8"
+  },
+  {
+    "rank": 97,
+    "name": "EV2795-BK",
+    "brand": "EIZO",
+    "price": 88000,
+    "tagline": "27型WQHD IPS・FlexScan・USB Type-C 70W・LAN/DP/HDMI",
+    "connection": "USB Type-C (70W PD) / LAN / DisplayPort / HDMI",
+    "screenSize": "27 インチ",
+    "resolution": "2560 x 1440 (QHD)",
+    "refreshRate": "60 Hz",
+    "panel": "IPS",
+    "monitorFilterTags": [
+      "size-27",
+      "res-wqhd",
+      "refresh-60",
+      "port-hdmi",
+      "port-dp",
+      "port-usb-c",
+      "port-usb-c-pd"
+    ],
+    "asin": "B08CMRR74S"
+  },
+  {
+    "rank": 98,
+    "name": "M24f",
+    "brand": "HP",
+    "price": 15800,
+    "tagline": "23.8型FHD 75Hz・IPS超薄型・HDMI/VGA",
+    "connection": "HDMI / VGA",
+    "screenSize": "23.8 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "refreshRate": "75 Hz",
+    "panel": "IPS",
+    "monitorFilterTags": [
+      "size-238",
+      "res-fhd",
+      "refresh-100",
+      "port-hdmi"
+    ],
+    "asin": "B097SLKH5G"
+  },
+  {
+    "rank": 99,
+    "name": "27型 100Hz モニター",
+    "brand": "Amazon Basics",
+    "price": 13980,
+    "tagline": "27型FHD 100Hz・IPS・HDMI/VGA",
+    "connection": "HDMI / VGA",
+    "screenSize": "27 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "refreshRate": "100 Hz",
+    "panel": "IPS",
+    "monitorFilterTags": [
+      "size-27",
+      "res-fhd",
+      "refresh-100",
+      "port-hdmi"
+    ],
+    "asin": "B0CP928BL3"
+  },
+  {
+    "rank": 100,
+    "name": "MFG25X1",
+    "brand": "Minifire",
+    "price": 17999,
+    "tagline": "24.5型FHD 240Hz・Fast IPS・ゲーミング・HDMI/DP",
+    "connection": "HDMI / DisplayPort",
+    "screenSize": "24.5 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "refreshRate": "240 Hz",
+    "panel": "Fast IPS",
+    "monitorFilterTags": [
+      "size-24",
+      "res-fhd",
+      "refresh-240-plus",
+      "port-hdmi",
+      "port-dp"
+    ],
+    "asin": "B0DY15G5W8"
+  }
+]

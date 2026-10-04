@@ -1,0 +1,294 @@
+{
+  "fetchedAt": "2026-08-14T01:12:31.092Z",
+  "url": "https://www.amazon.co.jp/gp/bestsellers/computers/5595709051",
+  "monitors": [
+    {
+      "amazonRank": 1,
+      "asin": "B01IALGW2U",
+      "title": "【Amazon.co.jp限定】LG モニター ディスプレイ 27UD58-B 27インチ/4K/IPS 非光沢/HDMI×2、DisplayPort/FreeSync対応/ブルーライト低減機能",
+      "rating": 3.7,
+      "reviews": 220,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/61VB7CxWylL._AC_SL1500_.jpg",
+      "rank": 1
+    },
+    {
+      "amazonRank": 2,
+      "asin": "B01L8H204W",
+      "title": "LG モニター ディスプレイ 24UD58-B 23.8インチ/4K(3840×2160)/IPS 非光沢/HDMI×2、DisplayPort/ブルーライト低減機能/3年安心・無輝点保証",
+      "rating": 4.3,
+      "reviews": 687,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/71YJl6b-A8L._AC_SL1500_.jpg",
+      "rank": 2
+    },
+    {
+      "amazonRank": 3,
+      "asin": "B078XXYDWZ",
+      "title": "LG モニター ディスプレイ 27UK850-W 27インチ/4K/HDR対応/IPS非光沢/USB-Type-C、HDMI×2、DisplayPort/スピーカー搭載/FreeSync、高さ調節、ピボット対応",
+      "rating": 4.1,
+      "reviews": 245,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/71P5Qk98NeL._AC_SL1500_.jpg",
+      "rank": 3
+    },
+    {
+      "amazonRank": 4,
+      "asin": "B01LY1A3ER",
+      "title": "LG ゲーミング モニター ディスプレイ 34UC79G-B 34インチ/21:9 曲面 ウルトラワイド/IPS 非光沢/144Hz/DisplayPort×1,HDMI×2",
+      "rating": 4.3,
+      "reviews": 158,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/618GZpD-nnL._AC_SL1500_.jpg",
+      "rank": 4
+    },
+    {
+      "amazonRank": 5,
+      "asin": "B075ZWRH6Z",
+      "title": "【Amazon.co.jp限定】LG モニター ディスプレイ 43UD79T-B 42.5インチ/4K/IPS非光沢/HDMI×4・DP・USB Type-C・RS-232C/スピーカー/ブルーライト低減",
+      "rating": 4.1,
+      "reviews": 221,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/71ovQCOU5TL._AC_SL1500_.jpg",
+      "rank": 5
+    },
+    {
+      "amazonRank": 6,
+      "asin": "B071D1HN9Y",
+      "title": "LG ゲーミング モニター ディスプレイ 24MP59G-P 23.8インチ/フルHD/IPS非光沢/1ms(MBR)/DisplayPort・HDMI・D-Sub",
+      "rating": 4.1,
+      "reviews": 108,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/615jbhPGw9L._AC_SL1500_.jpg",
+      "rank": 6
+    },
+    {
+      "amazonRank": 7,
+      "asin": "B073S5HDGY",
+      "title": "LG モニター ディスプレイ 32UD99-W 31.5インチ/4K(3840×2160)/HDR対応/IPS非光沢/USB Type-C、HDMI×2、DisplayPort/スピーカー搭載/高さ調節、ピボット対応",
+      "rating": 3.1,
+      "reviews": 76,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/71krWtPjOAL._AC_SL1500_.jpg",
+      "rank": 7
+    },
+    {
+      "amazonRank": 8,
+      "asin": "B078XYFG2V",
+      "title": "【Amazon.co.jp限定】LG モニター ディスプレイ 27UK600-W 27インチ/4K/HDR10対応(標準輝度:350cd/㎡)/IPS非光沢/HDMI×2、DisplayPort",
+      "rating": 3.4,
+      "reviews": 119,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/71H2aug3WRL._AC_SL1500_.jpg",
+      "rank": 8
+    },
+    {
+      "amazonRank": 9,
+      "asin": "B071DB2KQZ",
+      "title": "LG ゲーミング モニター 29UM69G-B 29インチ/21:9 ウルトラワイド/IPS非光沢/1ms(MBR)/スピーカー/USB Type-C・DisplayPort・HDMI",
+      "rating": 4.1,
+      "reviews": 137,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/61eQv1qpTvL._AC_SL1500_.jpg",
+      "rank": 9
+    },
+    {
+      "amazonRank": 10,
+      "asin": "B0791XQDZS",
+      "title": "LG モニター ディスプレイ 27UK650-W 27インチ/4K/HDR10対応(標準輝度:350cd/㎡)/IPS非光沢/HDMI×2、DisplayPort/高さ調節、ピボット対応",
+      "rating": 3.7,
+      "reviews": 34,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/71O70bn-7zL._AC_SL1500_.jpg",
+      "rank": 10
+    },
+    {
+      "amazonRank": 11,
+      "asin": "B078YHRHQ7",
+      "title": "【Amazon.co.jp限定】LG モニター ディスプレイ 32UD60-B 31.5インチ/4K/VA 非光沢/HDMI、DisplayPort/スピーカー搭載/高さ調節対応",
+      "rating": 3.6,
+      "reviews": 53,
+      "price": 29800,
+      "image": "https://m.media-amazon.com/images/I/61MZAwzvX1L._AC_SL1500_.jpg",
+      "rank": 11
+    },
+    {
+      "amazonRank": 12,
+      "asin": "B06ZYNGK21",
+      "title": "LG ゲーミング モニター ディスプレイ 24GM79G-B 24インチ/フルHD/TN非光沢/144Hz/2ms(1ms MBR)/DisplayPort×1・HDMI×2",
+      "rating": 4.2,
+      "reviews": 44,
+      "price": 29800,
+      "image": "https://m.media-amazon.com/images/I/71h2f0j5BxL._AC_SL1500_.jpg",
+      "rank": 12
+    },
+    {
+      "amazonRank": 13,
+      "asin": "B0787HV5XP",
+      "title": "LG ゲーミングモニター ディスプレイ 32GK850G-B 31.5インチ/WQHD/VA非光沢/144Hz/G-Sync対応/DisplayPort・HDMI/高さ調節、ピボット対応",
+      "rating": 3.2,
+      "reviews": 8,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/71bQWBehlHL._AC_SL1500_.jpg",
+      "rank": 13
+    },
+    {
+      "amazonRank": 14,
+      "asin": "B071CGGTJY",
+      "title": "LG ゲーミング モニター ディスプレイ 27MP59G-P 27インチ/フルHD/IPS非光沢/5ms(1ms MBR)/DisplayPort・HDMI・D-Sub",
+      "rating": 4.4,
+      "reviews": 18,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/71cbWB17VnL._AC_SL1500_.jpg",
+      "rank": 14
+    },
+    {
+      "amazonRank": 15,
+      "asin": "B0721XWT78",
+      "title": "LG ゲーミング ディスプレイ モニター 34UC89G-B 34インチ/21:9 曲面Ultra Wide/IPS 非光沢/144Hz/G-Sync対応/DisplayPort,HDMI,USB",
+      "rating": 3.9,
+      "reviews": 20,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/61JC1Ea-pFL._AC_SL1500_.jpg",
+      "rank": 15
+    }
+  ],
+  "excluded": [],
+  "raw": [
+    {
+      "amazonRank": 1,
+      "asin": "B01IALGW2U",
+      "title": "【Amazon.co.jp限定】LG モニター ディスプレイ 27UD58-B 27インチ/4K/IPS 非光沢/HDMI×2、DisplayPort/FreeSync対応/ブルーライト低減機能",
+      "rating": 3.7,
+      "reviews": 220,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/61VB7CxWylL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 2,
+      "asin": "B01L8H204W",
+      "title": "LG モニター ディスプレイ 24UD58-B 23.8インチ/4K(3840×2160)/IPS 非光沢/HDMI×2、DisplayPort/ブルーライト低減機能/3年安心・無輝点保証",
+      "rating": 4.3,
+      "reviews": 687,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/71YJl6b-A8L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 3,
+      "asin": "B078XXYDWZ",
+      "title": "LG モニター ディスプレイ 27UK850-W 27インチ/4K/HDR対応/IPS非光沢/USB-Type-C、HDMI×2、DisplayPort/スピーカー搭載/FreeSync、高さ調節、ピボット対応",
+      "rating": 4.1,
+      "reviews": 245,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/71P5Qk98NeL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 4,
+      "asin": "B01LY1A3ER",
+      "title": "LG ゲーミング モニター ディスプレイ 34UC79G-B 34インチ/21:9 曲面 ウルトラワイド/IPS 非光沢/144Hz/DisplayPort×1,HDMI×2",
+      "rating": 4.3,
+      "reviews": 158,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/618GZpD-nnL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 5,
+      "asin": "B075ZWRH6Z",
+      "title": "【Amazon.co.jp限定】LG モニター ディスプレイ 43UD79T-B 42.5インチ/4K/IPS非光沢/HDMI×4・DP・USB Type-C・RS-232C/スピーカー/ブルーライト低減",
+      "rating": 4.1,
+      "reviews": 221,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/71ovQCOU5TL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 6,
+      "asin": "B071D1HN9Y",
+      "title": "LG ゲーミング モニター ディスプレイ 24MP59G-P 23.8インチ/フルHD/IPS非光沢/1ms(MBR)/DisplayPort・HDMI・D-Sub",
+      "rating": 4.1,
+      "reviews": 108,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/615jbhPGw9L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 7,
+      "asin": "B073S5HDGY",
+      "title": "LG モニター ディスプレイ 32UD99-W 31.5インチ/4K(3840×2160)/HDR対応/IPS非光沢/USB Type-C、HDMI×2、DisplayPort/スピーカー搭載/高さ調節、ピボット対応",
+      "rating": 3.1,
+      "reviews": 76,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/71krWtPjOAL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 8,
+      "asin": "B078XYFG2V",
+      "title": "【Amazon.co.jp限定】LG モニター ディスプレイ 27UK600-W 27インチ/4K/HDR10対応(標準輝度:350cd/㎡)/IPS非光沢/HDMI×2、DisplayPort",
+      "rating": 3.4,
+      "reviews": 119,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/71H2aug3WRL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 9,
+      "asin": "B071DB2KQZ",
+      "title": "LG ゲーミング モニター 29UM69G-B 29インチ/21:9 ウルトラワイド/IPS非光沢/1ms(MBR)/スピーカー/USB Type-C・DisplayPort・HDMI",
+      "rating": 4.1,
+      "reviews": 137,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/61eQv1qpTvL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 10,
+      "asin": "B0791XQDZS",
+      "title": "LG モニター ディスプレイ 27UK650-W 27インチ/4K/HDR10対応(標準輝度:350cd/㎡)/IPS非光沢/HDMI×2、DisplayPort/高さ調節、ピボット対応",
+      "rating": 3.7,
+      "reviews": 34,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/71O70bn-7zL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 11,
+      "asin": "B078YHRHQ7",
+      "title": "【Amazon.co.jp限定】LG モニター ディスプレイ 32UD60-B 31.5インチ/4K/VA 非光沢/HDMI、DisplayPort/スピーカー搭載/高さ調節対応",
+      "rating": 3.6,
+      "reviews": 53,
+      "price": 29800,
+      "image": "https://m.media-amazon.com/images/I/61MZAwzvX1L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 12,
+      "asin": "B06ZYNGK21",
+      "title": "LG ゲーミング モニター ディスプレイ 24GM79G-B 24インチ/フルHD/TN非光沢/144Hz/2ms(1ms MBR)/DisplayPort×1・HDMI×2",
+      "rating": 4.2,
+      "reviews": 44,
+      "price": 29800,
+      "image": "https://m.media-amazon.com/images/I/71h2f0j5BxL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 13,
+      "asin": "B0787HV5XP",
+      "title": "LG ゲーミングモニター ディスプレイ 32GK850G-B 31.5インチ/WQHD/VA非光沢/144Hz/G-Sync対応/DisplayPort・HDMI/高さ調節、ピボット対応",
+      "rating": 3.2,
+      "reviews": 8,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/71bQWBehlHL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 14,
+      "asin": "B071CGGTJY",
+      "title": "LG ゲーミング モニター ディスプレイ 27MP59G-P 27インチ/フルHD/IPS非光沢/5ms(1ms MBR)/DisplayPort・HDMI・D-Sub",
+      "rating": 4.4,
+      "reviews": 18,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/71cbWB17VnL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 15,
+      "asin": "B0721XWT78",
+      "title": "LG ゲーミング ディスプレイ モニター 34UC89G-B 34インチ/21:9 曲面Ultra Wide/IPS 非光沢/144Hz/G-Sync対応/DisplayPort,HDMI,USB",
+      "rating": 3.9,
+      "reviews": 20,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/61JC1Ea-pFL._AC_SL1500_.jpg"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "B0D9MCK4R8": {
+    "name": "QuadCast2",
+    "brand": "HyperX",
+    "price": 22591,
+    "connection": "USB",
+    "polar": "指向性切替対応 (マルチパターン)",
+    "type": "コンデンサー",
+    "micFilterTags": ["stand", "condenser"],
+    "features": {
+      "RGBライティング": "対応",
+      "ミュート": "タップミュートセンサー"
+    }
+  },
+  "B0DXW278KB": {
+    "name": "QuadCast2",
+    "brand": "HyperX",
+    "polar": "指向性切替対応 (マルチパターン)",
+    "type": "コンデンサー",
+    "micFilterTags": ["stand", "condenser"]
+  },
+  "B0B119XZBK": {
+    "name": "DuoCast",
+    "brand": "HyperX",
+    "connection": "USB",
+    "polar": "指向性切替対応 (マルチパターン)",
+    "type": "コンデンサー",
+    "micFilterTags": ["stand", "condenser"]
+  },
+  "B0CRV2C7HD": {
+    "name": "Yeti ORB",
+    "brand": "Logicool G",
+    "connection": "USB",
+    "polar": "単一指向性 (カーディオイド)",
+    "type": "コンデンサー",
+    "micFilterTags": ["stand", "condenser"]
+  },
+  "B0GS5Q54Z3": {
+    "name": "GRAPHT XLR",
+    "brand": "GRAPHT",
+    "connection": "XLR",
+    "polar": "単一指向性 (カーディオイド)",
+    "type": "コンデンサー",
+    "micFilterTags": ["condenser"]
+  }
+}

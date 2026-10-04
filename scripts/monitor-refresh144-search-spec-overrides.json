@@ -1,0 +1,67 @@
+{
+  "B096Y284KC": {
+    "name": "MAG 245F X24",
+    "brand": "MSI",
+    "price": 23800,
+    "screenSize": "23.8 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "panel": "RAPID IPS",
+    "refreshRate": "240 Hz",
+    "responseTime": "0.5 ms (GtG)",
+    "connection": "HDMI 2.0 / DisplayPort 1.2a",
+    "features": "HDR / FreeSync Premium / VESA100 / 3年保証",
+    "tagline": "23.8\" FHD 240Hz RAPID IPS"
+  },
+  "B0FX4Z1YX1": {
+    "name": "23.8インチ IPS 144Hz",
+    "brand": "Acer",
+    "price": 11980,
+    "screenSize": "23.8 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "panel": "IPS",
+    "refreshRate": "144 Hz",
+    "responseTime": "1 ms (VRB)",
+    "connection": "HDMI / ミニD-Sub (VGA)",
+    "features": "非光沢 / sRGB 99% / AMD FreeSync / スピーカー内蔵 / ゼロフレーム",
+    "tagline": "23.8\" FHD 144Hz IPS"
+  },
+  "B0GGXHTLCX": {
+    "name": "23.8インチ IPS 144Hz",
+    "brand": "KTC",
+    "price": 12980,
+    "screenSize": "23.8 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "panel": "IPS",
+    "refreshRate": "144 Hz",
+    "responseTime": "—",
+    "connection": "HDMI 1.4 / DisplayPort 1.2",
+    "features": "HDR10 / sRGB 103% / Adaptive Sync / 低ブルーライト",
+    "tagline": "23.8\" FHD 144Hz IPS"
+  },
+  "B0GJSFGF54": {
+    "name": "MAG 255F X24",
+    "brand": "MSI",
+    "screenSize": "24.5 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "panel": "RAPID IPS",
+    "refreshRate": "240 Hz",
+    "responseTime": "0.5 ms (GtG)",
+    "connection": "HDMI 2.0b / DisplayPort 1.2a",
+    "features": "HDR / Adaptive-Sync / VESA100"
+  },
+  "B0FX4V8L8N": {
+    "name": "Nitro VG270X3bmiipx",
+    "brand": "Acer",
+    "screenSize": "24.5 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "panel": "IPS",
+    "refreshRate": "240 Hz",
+    "responseTime": "0.5 ms (GtG)",
+    "connection": "HDMI 2.1 / DisplayPort 1.4",
+    "features": "AMD FreeSync Premium / HDR10 / ゼロフレーム"
+  },
+  "B0813TDWJB": { "price": 28980 },
+  "B0FSBYTJ28": { "price": 12500 },
+  "B094VJT99S": { "price": 26800 },
+  "B07LH1ZDSL": { "price": 12580 }
+}

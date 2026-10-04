@@ -1,0 +1,204 @@
+id,name,指向性,接続方式,周波数特性,マイクタイプ,サンプルレート,価格,マイク感度,その他機能,追加機能
+mic-blue-yeti,Blue Yeti,指向性切替対応 (マルチパターン),USB Type-A,20Hz-20kHz,コンデンサー,48 kHz,18480,-,-,-
+mic-shure-sm7b,SM7B,単一指向性,XLR,50Hz-20kHz,ダイナミック,-,58800,-,-,-
+mic-bs-006,USBマイク 超コンパクト設計 USB 直挿し PCマイク,全指向性,USB Type-A,-,コンデンサー,-,375,-,-,-
+mic-bs-007,DUNGZDUZ USBマイク ノートPC・デスクトップ用 高感度 クリア通話 プラグ&プレイ 小…,全指向性,USB Type-A,50Hz-15kHz,コンデンサー,48kHz,1799,-,-,-
+mic-bs-011,DUNGZDUZ USBマイク ノートPC・デスクトップ用 高感度 クリア通話 プラグ&プレイ 小…,全指向性,USB Type-A,50Hz-15kHz,コンデンサー,-,1799,-,-,-
+mic-bs-012,USB PCマイク 高感度 スタンド付 全指向性 360°集音 ワンタッチミュート プラグ&プレイ…,全指向性,USB Type-A,70Hz-10kHz,コンデンサー,-,2299,-,ノイズキャンセリング,-
+mic-bs-015,MM-MCU06BKN,単一指向性,USB Type-A,70Hz-10kHz,コンデンサー,-,2082,-,-,-
+mic-bs-016,ピンマイク usb 直挿し pcマイク 無指向性 高感度 360°集音 角度調整可能 フレキシブル…,全指向性,USB Type-A,-,コンデンサー,-,1699,-,-,-
+mic-bs-017,STM30WH,単一指向性,3.5mm,-,ピックアップマイク,-,2200,-,-,-
+mic-bs-018,タイプＣマイク USB C クリップ式ラベリア マイク 1.5M,全指向性,USB Type-C,100Hz-10kHz,ピンマイク,-,2790,-,-,-
+mic-bs-021,Zyrvox PCマイク USBコンデンサーマイク 高感度 卓上 全指向性 360°集音 ワンタッ…,全指向性,USB Type-A,-,コンデンサー,-,2598,-,ノイズキャンセリング,-
+mic-bs-022,USBマイク 超コンパクト USB直挿し PCマイク 世界最小クラス 全指向性 Skype/VOI…,全指向性,USB Type-A,-,コンデンサー,-,375,-,-,-
+mic-bs-024,USB コンデンサーマイク ゲーミングマイク PCマイク RGBライト プラグ&プレイ ミュート …,単一指向性,USB Type-A,-,コンデンサー,24bit / 96kHz,5784,-,-,-
+mic-bs2-051,Luna Plus,全指向性,USB Type-A / Bluetooth,50Hz-16kHz,会議用スピーカーフォン,48KHｚ,10999,-,ノイズキャンセリング,-
+mic-bs2-054,K053,単一指向性,USB Type-A,50Hz-16kHz,コンデンサー,48KHｚ,2999,-,-,-
+mic-bs2-055,USB-Cミニマイク Mac mini M4/M4 Pro・MacBook対応 Plug&Play…,全指向性,USB Type-C,50Hz-15kHz,コンデンサー,-,1769,-,-,-
+mic-bs2-056,Seiren V3 Mini White,単一指向性,USB Type-A,-,コンデンサー,96kHz,8381,-,-,-
+mic-bs2-057,Luna,全指向性,USB Type-A / Bluetooth / AUX,-20kHz,会議用スピーカーフォン,-,8999,-,ノイズキャンセリング,-
+mic-bs2-059,PowerConf S3,全指向性,USB Type-C / Bluetooth,-,会議用スピーカーフォン,-,-,-,ノイズキャンセリング,-
+mic-bs2-060,MM-MCU03BKN,単一指向性,USB Type-A,70Hz-15kHz,コンデンサー,-,3181,-,-,-
+mic-bs2-061,PC USBマイク コンデンサーマイク 会議用 卓上 360°集音 フレキシブルアーム プラグ&プレイ,全指向性,USB Type-A,-,コンデンサー,-,2998,-,-,-
+mic-bs2-062,デスクトップマイク ピンマイク USB直挿し PCマイク 全指向性 フレキシブルアーム コンパクト,全指向性,USB Type-A,-,ピンマイク,-,980,-,-,-
+mic-bs2-063,ワイヤレスピンマイク (2個セット),全指向性,USB Type-C / 2.4GHz ワイヤレス,-,ピンマイク,48kHz/24bit,3980,-,-,-
+mic-bs2-067,USBピンマイク 小型 全指向性 高感度 防風 録音 会議 カラオケ対応,全指向性,USB Type-A,-,ピンマイク,-,559,-,-,-
+mic-bs2-068,HS-SP02M2BK,全指向性,USB Type-A,20Hz-20kHz,会議用スピーカーフォン,-,7454,-,ノイズキャンセリング,-
+mic-bs2-069,MO-MIC04U-B,全指向性,USB Type-A / 3.5mm,-,コンデンサー,-,1480,-,ノイズキャンセリング,-
+mic-bs2-070,USB-C グースネックマイク Type-C 卓上 マイク MacBook/iPhone/iPad対応,単一指向性,USB Type-C,20Hz-16kHz,コンデンサー,24bit / 96kHz,2690,-,-,-
+mic-bs2-072,ラベリアマイク USB-C コンデンサーマイク iPhone 16/15 & Android Ty…,全指向性,USB Type-C,20Hz-16kHz,ピンマイク,24bit / 96kHz,2499,-,-,-
+mic-bs2-074,PC USBマイク コンデンサーマイク 会議用 卓上 360°集音,全指向性,USB Type-A,100Hz-16kHz,コンデンサー,24bit / 96kHz,1680,-,-,-
+mic-bs2-077,PC用USBマイク 単一指向性 ラベリアクリップ式ミニピンマイク USB-A 1.2m,単一指向性,USB Type-A,96kHz,ピンマイク,24bit / 96kHz,1750,-,-,-
+mic-bs2-080,400-MC011,全指向性,USB Type-A,100Hz-10kHz,コンデンサー,-,4980,-,-,-
+mic-mg-002,K054,単一指向性,USB Type-A,50Hz-18kHz,コンデンサー,-,4099,-,-,-
+mic-mg-003,A6T,単一指向性,USB Type-C,60Hz-18kHz,コンデンサー,192kHz,7999,-,-,-
+mic-mg-004,USBスタンドマイク,全指向性,USB Type-A,100Hz-10kHz,コンデンサー,-,2710,-,ノイズキャンセリング,-
+mic-mg-005,Sync 20+,全指向性,USB Type-C / Bluetooth,-,会議用スピーカーフォン,-,24555,-,-,-
+mic-mg-006,SP300,全指向性,USB Type-C / Bluetooth,-,会議用スピーカーフォン,-,6799,-,ノイズキャンセリング,-
+mic-mg-007,SoloCast 2,単一指向性,USB Type-C,20Hz-20kHz,コンデンサー,96KHz,8982,-,-,-
+mic-mg-008,HS-MC07UBK,単一指向性,USB Type-A,100Hz-10kHz,コンデンサー,-,1027,-,-,-
+mic-mg-013,Mic Mini 2,全指向性,Bluetooth,-,ピンマイク,-,14520,-,ノイズキャンセリング,-
+mic-mg-015,MO-MIC04L-W,全指向性,USB Type-A / 3.5mm,-,コンデンサー,-,1480,-,ノイズキャンセリング,-
+mic-mg-016,YVC-331,単一指向性,USB Type-A,190Hz-20kHz,会議用スピーカーフォン,-,50607,-,ノイズキャンセリング,-
+mic-mg-017,Seiren X,超単一指向性,USB Type-A,20Hz-20kHz,コンデンサー,44.1kHz/48kHz/96kHz,2710,-,ノイズキャンセリング,-
+mic-mg-018,U30K,全指向性,USB Type-C / USB Type-A,-,コンデンサー,-,2710,-,ノイズキャンセリング,-
+mic-mg-019,DM30 RGB,単一指向性,USB Type-A,20Hz-20kHz,コンデンサー,24bit/48kHz,8499,-,-,-
+mic-mg-021,SP300U,全指向性,USB Type-C,-,会議用スピーカーフォン,-,6799,-,ノイズキャンセリング,-
+mic-mg-022,STM30BK,単一指向性,3.5mm,-,ピックアップマイク,-,2200,-,-,-
+mic-mg-025,Speak 710 MS,全指向性,USB Type-A / Bluetooth,-,会議用スピーカーフォン,-,14780,-,ノイズキャンセリング,-
+mic-mg-026,PD100X,単一指向性,USB Type-C / XLR,40Hz-16kHz,ダイナミック,48kHz/24bit,6944,-,ノイズキャンセリング,-
+mic-mg-027,AIRHUG,全指向性,USB Type-A / Bluetooth,100Hz-24kHz,ハンドヘルド型内蔵マイク,48kHz,5999,-,ノイズキャンセリング,-
+mic-mg-028,AT9933USB,全指向性,USB Type-A,40Hz-16kHz,コンデンサー,-,2700,-,-,-
+mic-mg-029,HS-MC06BK,全指向性,3.5mm,100Hz-10kHz,コンデンサー,-,608,-,-,-
+mic-mg-030,K054,単一指向性,USB Type-A,50Hz-18kHz,コンデンサー,-,4099,-,-,-
+mic-mg2-051,ROG Carnyx C501,単一指向性,USB Type-A,20Hz-20kHz,コンデンサー,192kHz/24-bit,21500,-,ノイズキャンセリング,-
+mic-mg2-053,PowerConf S330,全指向性,USB Type-C,-,会議用スピーカーフォン,-,5680,-,ノイズキャンセリング,-
+mic-mg2-055,ピンマイク 単一指向性マイク ゲーミングマイク イヤホン PC ゲーム実況 配信 Zoom Sky…,単一指向性,3.5mm,-,ピンマイク,-,1199,-,-,-
+mic-mg2-060,USBマイク コンデンサーマイク TC310+ RGB 単一指向性 ゲーム実況 配信 Zoom P…,単一指向性,USB Type-C / XLR,-,ダイナミック,-,5499,-,ノイズキャンセリング,-
+mic-mg2-061,TC310+,単一指向性,USB Type-A,-,コンデンサー,-,5499,-,ノイズキャンセリング,-
+mic-mg2-062,M2,全指向性,USB Type-A / Bluetooth / AUX,-,テーブルアレイマイク,-,23900,-,ノイズキャンセリング,-
+mic-mg2-063,EJoy Uni S,単一指向性,USB Type-C,20Hz-20kHz,コンデンサー,24bit/48kHz,6382,-,ノイズキャンセリング,-
+mic-mg2-065,USBスピーカーフォン,全指向性,USB Type-A,-,会議用スピーカーフォン,-,-,-,ノイズキャンセリング,-
+mic-mg2-066,XS LAV USB-C,全指向性,USB Type-C,100Hz-5kHz,ピンマイク,-,1148,-,-,-
+mic-mg2-072,MM-MC28,全指向性,USB Type-A / Bluetooth,100Hz-5kHz,会議用スピーカーフォン,-,23669,-,-,-
+mic-mg2-075,USB卓上マイク,全指向性,USB Type-C,20Hz-16kHz,コンデンサー,-,1148,-,-,-
+mic-mg2-080,400-MC003,全指向性,USB Type-A,20Hz-16kHz,テーブルアレイ型,-,-,-,-,-
+mic-srch-0006,Zyrvox PCマイク K6,全指向性,USB Type-A,-,コンデンサー,-,2599,-,-,-
+mic-srch-0009,DuoCast,全指向性,USB Type-C,20Hz-20kHz,テーブルアレイ,24ビット/96kHz,12837,-,-,-
+mic-srch-0018,QuadCast2,４モード,USB Type-A,-,コンデンサー,-,22591,-,-,-
+mic-srch-0019,SoloCast,単一指向性,USB Type-A,60Hz-19kHz,コンデンサー,96kHz、ビットレート24bit,27164,-,-,-
+mic-srch-0021,AT2020USB-X,単一指向性,USB Type-C,60Hz-19kHz,コンデンサー,96kHz/24bit,18480,-,-,-
+mic-srch-0051,PD200X,単一指向性,USB Type-A / XLR,40Hz-16kHz,ダイナミック,96kHz、ビットレート24bit,11699,-,ノイズキャンセリング,-
+mic-srch-0054,Snowball,単一指向性,USB Type-A,40Hz-18kHz,コンデンサー,48kHz/16bit,-,-,-,-
+mic-srch-0062,QuadCast,超単一指向性,USB Type-A,60Hz-19kHz,ダイナミック,96kHz、ビットレート24bit,17800,-,-,-
+mic-srch-0071,SteelSeries Alias,超単一指向性,USB Type-A,60Hz-19kHz,ダイナミック,96kHz、ビットレート24bit,27703,-,-,-
+mic-srch-0074,Snowball,単一指向性,USB Type-A,60Hz-19kHz,コンデンサー,96kHz、ビットレート24bit,-,-,-,-
+mic-srch-0076,Yeti GX,単一指向性,USB Type-C,20Hz-20kHz,ダイナミック,96kHz、ビットレート24bit,24890,-,ノイズキャンセリング,-
+mic-srch-0081,NZXT CAPSULE WHITE Cardioid USB Microphone AP-WUM…,単一指向性,USB Type-A,96kHz,コンデンサー,24bit / 96kHz,-,-,-,-
+mic-srch-0083,Yeti GX,超単一指向性,USB Type-C,60Hz-19kHz,ダイナミック,96kHz、ビットレート24bit,27164,-,ノイズキャンセリング,-
+mic-srch-0097,Professional USB Condenser Microphone PC Micropho…,単一指向性,USB Type-A,20Hz-40kHz,コンデンサー,192kHz,-,-,-,-
+mic-srch-0109,SteelSeries Alias,全指向性,USB Type-A,20Hz-40kHz,コンデンサー,192kHz,26185,-,ノイズキャンセリング,-
+mic-srch-0148,GOWENIC 360 無指向性ピックアップ付き USB PC マイク、ワンタッチミュート、ノイズ…,全指向性,USB Type-A,50Hz-20kHz,コンデンサー,192kHz,2103,-,-,-
+mic-srch-0227,USBマイク コンピューターマイク 360°集音 PC ノートパソコン 黒,全指向性,USB Type-A,20Hz-40kHz,会議用スピーカーフォン,192kHz,5279,-,-,-
+mic-srch-0255,PC用USBコンデンサーマイク RGBゲーミングマイク プラグアンドプレイ カーディオイドピックア…,単一指向性,USB Type-A,20Hz-40kHz,コンデンサー,192kHz,8640,-,ノイズキャンセリング,-
+mic-srch-0314,tegongse ゲーミングUSBマイク 30Hz~16kHz周波数 PC用 ブームアームとLED…,全指向性,USB Type-C,20Hz-40kHz,コンデンサー,192kHz,4190,-,ノイズキャンセリング,-
+mic-srch-0327,VBESTLIFE USBノイズキャンセリングマイク、2チャンネルゲーミングマイク、360°サウン…,全指向性,USB Type-A,20Hz-40kHz,コンデンサー,192kHz,3525,-,ノイズキャンセリング,-
+mic-srch-0350,JEOZBM BM700 USBコンデンサーマイク コンピューター用 Hi‑Fi カーディオイドマ…,単一指向性,USB Type-A,-,コンデンサー,192kHz/24bit,10810,-,-,-
+mic-srch-0351,"TALOMEN USB Condenser Microphone, RGB Glow, Cardi…",単一指向性,USB Type-C,60Hz-18kHz,コンデンサー,192kHz,10440,-,-,-
+mic-srch-0360,RGYBAO ゲーミングUSBマイク,単一指向性,USB Type-C,30Hz-16kHz,コンデンサー,192kHz,9343,-,-,-
+mic-srch-0381,Samnuerly USBマイク,全指向性,USB Type-A,20Hz-16kHz,コンデンサー,192kHz/24-bit,14129,-,-,-
+mic-srch-0426,USBデスクトップマイク 全指向性PCマイク ストリーミング/ポッドキャスティング ボーカル録音/…,全指向性,USB Type-A,20Hz-16kHz,コンデンサー,192kHz/24-bit,1828,-,-,-
+mic-srch-0449,USBマイク USB会議スピーカー 360°全方向スピーカーフォンマイク オンライン会議 ゲーム …,全指向性,USB Type-A,20Hz-16kHz,コンデンサー,192kHz/24-bit,2719,-,-,-
+mic-srch-0636,NGS MS120 USBカーディオイドUSBマイク ストリーミング/ポッドキャスト/ゲーム用 レ…,単一指向性,USB Type-A,20Hz-16kHz,コンデンサー,192kHz/24-bit,10026,-,-,-
+mic-srch-0796,USBマイク 全指向性USBマイク ゲーム用 ノートパソコン PCマイク スイッチ付き,全指向性,USB Type-A,20Hz-16kHz,コンデンサー,192kHz/24-bit,978,-,-,-
+mic-srch-0907,RVB USB Cardioid Microphoneコンピューター電話、光削減ノイズ、トランスミ…,単一指向性,USB Type-A,80Hz-20kHz,コンデンサー,192kHz/24-bit,8085,-,-,-
+mic-srch-0937,CANYON Lorgar Voicer 521 プロフェッショナル カーディオイド USB-C …,超単一指向性,USB Type-C,20Hz-20kHz,コンデンサー,-,14955,-,-,-
+mic-srch-0991,V2 X USB コンデンサーマイク,超単一指向性,USB Type-C,-,コンデンサー,-,33204,-,ノイズキャンセリング,-
+mic-srch-1015,“2025 New Arrival・Technological Innovation” Zyrvo…,全指向性,USB Type-A,-,コンデンサー,-,2599,-,-,-
+mic-strm-0004,Seiren V3 Mini,単一指向性,USB Type-A,-,コンデンサー,48kHz,6880,-,-,-
+mic-strm-0011,GRAPHT Compact-Mic XLR Streamer Edition,指向性切替対応 (マルチパターン),XLR,-,コンデンサー,48kHz,21940,-,-,-
+mic-strm-0012,【2025 New Release・Enhanced Sound Quality】BILIWAL …,全指向性,USB Type-C,-,ピンマイク,-,3680,-,-,-
+mic-strm-0013,QuadCast2,４モード,USB Type-C,20Hz-20kHz,コンデンサー,96kHz/24bit,22800,-,-,-
+mic-strm-0014,AM8T,単一指向性,USB Type-C / XLR,50Hz-16kHz,ダイナミック,48kHz/16bit,10799,-,ノイズキャンセリング,-
+mic-strm-0027,QuadCast2S,指向性切替対応 (4パターン),USB Type-C,20Hz-20kHz,コンデンサー,48kHz/16bit,29716,-,-,-
+mic-strm-0031,AM8TW XLR/USB Gaming Microphone Set for Streaming…,単一指向性,USB Type-C / XLR,50Hz-16kHz,ダイナミック,-,11199,-,ノイズキャンセリング,-
+mic-strm-0032,FlipCast Dynamic Microphone XLR/USB Dual Connecti…,単一指向性,USB Type-C / XLR,-20kHz,ダイナミック,-,31980,-,ノイズキャンセリング,-
+mic-strm-0033,Sanwa Supply MM-MCTC02NC Noise Canceling USB Micr…,単一指向性,USB Type-C,50Hz-20kHz,コンデンサー,48kHz/24bit,8640,-,ノイズキャンセリング,-
+mic-strm-0039,FIFINE USB/XLRダイナミックマイク AM8TP,単一指向性,USB Type-C / XLR,50Hz-16kHz,ダイナミック,-,11199,-,-,-
+mic-strm-0042,Seiren V3 Chroma,超単一指向性,USB Type-C,40Hz-16kHz,コンデンサー,-,21980,-,-,-
+mic-strm-0047,MAONO PD200X,単一指向性,USB Type-C / XLR,40Hz-16kHz,ダイナミック,-,12699,-,ノイズキャンセリング,-
+mic-strm-0050,Alias Pro,単一指向性,USB Type-C / XLR,-,コンデンサー,-,38495,-,ノイズキャンセリング,-
+mic-strm-0051,GRAPHT XLR,超単一指向性,XLR,100Hz-10kHz,コンデンサー,44.1kHz、/48kHz,14960,-,-,-
+mic-strm-0055,Snowball BM250W,単一指向性,USB Type-A,-,コンデンサー,44.1kHz、/48kHz,-,-,-,-
+mic-strm-0057,Audio-Technica USB Microphone PC Microphone Conde…,単一指向性,USB Type-A,-,コンデンサー,44.1kHz、/48kHz,17000,-,-,-
+mic-strm-0061,Elgato Wave: 3 - Premium USB Capacity - Microphon…,単一指向性,USB Type-C,70Hz-20kHz,コンデンサー,48kHz、96kHz,20565,-,-,-
+mic-strm-0062,Elgato Wave:1 - Premium Cardioid USB Condenser Mi…,単一指向性,USB Type-C,70Hz-20kHz,コンデンサー,48kHz,-,-,-,-
+mic-strm-0069,NZXT CAPSULE BLACK,単一指向性,USB Type-A / XLR,96kHz,コンデンサー,24bit / 96kHz,-,-,ノイズキャンセリング,-
+mic-strm-0070,Yeti GX,超単一指向性,USB Type-A,60Hz-19kHz,ダイナミック,96kHz、ビットレート24bit,28882,-,ノイズキャンセリング,-
+mic-strm-0071,Audio-Technica ATR2100x-USB USB Microphone for Te…,単一指向性,USB Type-C / XLR,20Hz-20kHz,ダイナミック,24bit / 192kHz,28200,-,-,-
+mic-strm-0074,AKG Pro Audio Ara Professional USB-C Condenser Mi…,2モード (単一/全指向性),USB Type-C,20Hz-20kHz,コンデンサー,96kHz,11917,-,-,-
+mic-strm-0077,Audio Technica Condenser Microphone AT2020USB-XP …,単一指向性,USB Type-C,-,コンデンサー,24bit / 192kHz,28200,-,ノイズキャンセリング,-
+mic-strm-0078,RODE Microphones Road Microphones Pod Microphone …,単一指向性,USB Type-C / XLR,20Hz-20kHz,ダイナミック,48kHz,40000,-,ノイズキャンセリング,-
+mic-strm-0081,FEELWORLD VM1 Pink Gaming PC Microphone USB Conde…,単一指向性,USB Type-C,50Hz-16kHz,コンデンサー,48kHz,11009,-,ノイズキャンセリング,-
+mic-strm-0088,SHURE MV88+ ステレオ USB マイクロホン,４モード,USB Type-A,-,コンデンサー,-,23380,-,-,-
+mic-strm-0089,AVerMedia USB Microphone Record with Cardioid Pat…,単一指向性,USB Type-A,100Hz-16kHz,コンデンサー,192kHz/24bit,3575,-,-,-
+mic-strm-0095,Blapsuro USBコンピュータマイク M8,全指向性,USB Type-A,100Hz-16kHz,コンデンサー,192kHz/24bit,3575,-,ノイズキャンセリング,-
+mic-strm-0106,BRIBAT USBコンデンサーマイク,単一指向性,USB Type-A,20Hz-20kHz,コンデンサー,192kHz/24bit,8039,-,ノイズキャンセリング,-
+mic-strm-0113,JLab JBuds Talk USB Gaming Streaming Microphone W…,全指向性,USB Type-C / USB Type-A,20Hz-20kHz,コンデンサー,192kHz/24bit,11255,-,-,-
+mic-strm-0133,Adesso Xtream M1,単一指向性,USB Type-A,20Hz-20kHz,ダイナミック,192kHz/24bit,7654,-,-,-
+mic-strm-0135,AVerMedia USB Microphone Streaming Podcasting Gam…,単一指向性,USB Type-C,20Hz-20kHz,コンデンサー,192kHz/24bit,12523,-,ノイズキャンセリング,-
+mic-strm-0142,FIFINE K658 USBゲーミングダイナミックマイク,単一指向性,USB Type-C,20Hz-20kHz,ダイナミック,192kHz/24bit,18349,-,ノイズキャンセリング,-
+mic-strm-0162,JLab Epic Talk USB ゲーミングストリーミングマイク,４モード,USB Type-A / 3.5mm,20Hz-20kHz,トライカプセルアレイ,192kHz/24bit,20908,-,-,-
+mic-strm-0163,"WMT USB Microphone, Condenser Gaming Microphone f…",単一指向性,USB Type-C,-,コンデンサー,192kHz,13168,-,ノイズキャンセリング,-
+mic-strm-0166,MAILANGSHI 192kHz/32bitダイナミックマイク PC用 USB/XLR ゲーミン…,単一指向性,USB Type-C / XLR,-,ダイナミック,192kHz/32ビット,23330,-,-,-
+mic-strm-0168,CHERRY UM 3.0 USB Microphone Podcast Streaming Ho…,単一指向性,USB Type-C,20Hz-20kHz,コンデンサー,96KHz,16449,-,-,-
+mic-strm-0169,Yeti GX,超単一指向性,USB Type-C,20Hz-20kHz,ダイナミック,96kHz/24bit,33353,-,ノイズキャンセリング,-
+mic-strm-0172,Thronmax MDrill One Pro 96kHz/24bit Multi-Directi…,全指向性,USB Type-A,20Hz-20kHz,コンデンサー,96kHz/24bit,-,-,-,-
+mic-strm-0173,Mars Gaming MMIC-CX Professional Studio Microphon…,単一指向性,USB Type-A,20Hz-20kHz,コンデンサー,48KHｚ,12947,-,ノイズキャンセリング,-
+mic-strm-0180,Movo WebMic-HD,単一指向性,USB Type-A,-,コンデンサー,-,12454,-,ノイズキャンセリング,-
+mic-strm-0182,ENHANCE USB Microphone for PC - Omnidirectional C…,全指向性,USB Type-A,100Hz-10kHz,コンデンサー,16bit/48kHz,12579,-,-,-
+mic-strm-0186,RIG M100 HD Streaming Microphone - USB Microphone…,単一指向性,USB Type-A,100Hz-10kHz,コンデンサー,16bit/48kHz,22068,-,ノイズキャンセリング,-
+mic-strm-0194,ENDORFY Solum Voice S,単一指向性,USB Type-A,80Hz-20kHz,コンデンサー,192kHz/24bit,18340,-,-,-
+mic-strm-0202,JARO J100-CB,単一指向性,USB Type-A,80Hz-20kHz,コンデンサー,192kHz/24bit,19266,-,ノイズキャンセリング,-
+mic-strm-0210,ASUS ROG Carnyx,単一指向性,USB Type-A,20Hz-20kHz,コンデンサー,24bit / 192kHz,-,-,ノイズキャンセリング,-
+mic-strm-0211,Thronmax Mdrill Zero Plus 96kHz/24bit Multi-Direc…,全指向性,USB Type-A,20Hz-20kHz,コンデンサー,96kHz/24bit,9000,-,-,-
+mic-strm-0212,Blue Yeti,指向性切替対応 (マルチパターン),USB Type-A,-,コンデンサー,48kHz,34946,-,-,-
+mic-cnd-001,USBコンデンサーマイク,単一指向性,USB Type-C,-,コンデンサー,96kHz/24bit,3867,-,-,-
+microphone-audio-technica-at2020,オーディオテクニカ AT2020,単一指向性,XLR,20Hz-20kHz,コンデンサー,-,13200,−37dB,-,-
+mic-cnd-005,コンデンサーマイク ABS製 24bit/96kHz RGBライト 単一指向性 ノイズ低減 20,単一指向性,USB Type-C,-,コンデンサー,96kHz,2959,-,ノイズキャンセリング,-
+mic-cnd-006,QUANTUM STREAM,2モード (全/単一指向性),USB Type-C,-,コンデンサー,44.1kHz/48kHz/96kHz,7900,-,-,-
+mic-cnd-007,HS-MC09UBK,全指向性,USB Type-A,20Hz-20kHz,コンデンサー,192kHz/24bit,1300,-,-,-
+mic-cnd-010,AU-A04,単一指向性,USB Type-A,30Hz-19kHz,コンデンサー,192kHz/24bit,7699,-,-,-
+mic-cnd-011,AT4040,単一指向性,XLR,20Hz-20kHz,コンデンサー,-,39600,-,-,-
+mic-cnd-012,マイク コンデンサーマイク PCマイク 単一指向性 エコー機能付き 会議用 ゲーム 実況 タブレ,単一指向性,USB Type-C,-,コンデンサー,48kHz/16bit,5287,-,ノイズキャンセリング,ミュート機能
+mic-cnd-014,コンデンサーマイク USB マイク ゲーミングマイク PC マイク 卓上 192kHz/24bi,超単一指向性,USB Type-C,-,コンデンサー,192kHz/24bit,2299,-,ノイズキャンセリング,-
+mic-cnd-015,ECM-TL3,全指向性,3.5mm,100Hz-10kHz,コンデンサー,-,1727,-,-,-
+mic-cnd-016,MPM-2000U,単一指向性,USB Type-A,20Hz-17kHz,コンデンサー,48kHz/16bit,7999,-,ノイズキャンセリング,-
+mic-cnd-017,K670,単一指向性,USB Type-A,50Hz-15kHz,コンデンサー,-,3200,-,ノイズキャンセリング,-
+mic-cnd-018,AT2035,単一指向性,XLR,20Hz-20kHz,コンデンサー,-,19800,-,ノイズキャンセリング,-
+mic-cnd-019,ピンマイク 有線 マイク コンデンサーType-C端子 全指向性 スマホ/PC/タブレット対応,全指向性,USB Type-C,-,コンデンサー,-,558,-,-,-
+mic-cnd-020,EasySing Mic Mini Duo,単一指向性,USB Type-C / Bluetooth,50Hz-15kHz,ピンマイク,-,27000,-,ノイズキャンセリング,-
+mic-cnd-021,MV88+,４モード,USB Type-C / Lightning,-,コンデンサー,48kHz/24bit,29750,-,-,-
+mic-cnd-022,QUANTUM STREAM TALK,超単一指向性,USB Type-C,50Hz-12kHz,コンデンサー,44.1kHz / 48kHz / 96kHz,6930,-,-,-
+mic-cnd-023,YETI ORB,単一指向性,USB Type-C,70Hz-20kHz,コンデンサー,48kHz,7900,-,ノイズキャンセリング,-
+mic-cnd-024,USBマイク コンデンサーマイク 192kHz/24bit 16mm高感度 カーディオイド DS,単一指向性,USB Type-C,80Hz-15kHz,コンデンサー,192kHz/24bit,1804,-,ノイズキャンセリング,-
+mic-cnd-026,ECM-PCV80U,単一指向性,USB Type-A,80Hz-15kHz,コンデンサー,-,-,-,-,-
+microphone-rode-nt1-5th-gen,RODE NT1（第5世代）,単一指向性,USB Type-C / XLR,20Hz-20kHz,コンデンサー,192kHz,42060,-32dB,-,-
+mic-cnd2-001,PRO35,単一指向性,XLR,50Hz-18kHz,コンデンサー,-,13155,-,-,-
+mic-cnd2-002,コンデンサーマイク USB 卓上 PC マイク 192kHz/24bit 録音 2段階ノイズキャ,単一指向性,USB Type-C,-,コンデンサー,192kHz/24bit,699,-,-,-
+mic-cnd2-003,Profile USB,単一指向性,USB Type-C,-,コンデンサー,-,15445,-,-,-
+mic-cnd2-004,GamerWave,単一指向性,USB Type-C,50Hz-20kHz,コンデンサー,-,7700,-,ノイズキャンセリング,-
+mic-cnd2-005,RGBライト PCマイク USB ゲーム マイク Windows MacOS スマホ PS4/P,単一指向性,USB Type-C,-,コンデンサー,192khz,2000,-,-,-
+mic-cnd2-006,Wave:3,超単一指向性,USB Type-C,70Hz-20kHz,コンデンサー,48kHz,28980,-,ノイズキャンセリング,-
+mic-cnd2-007,USB ゲーミングマイク *Phoneマイク コンデンサーマイクミュートボタン カーディオイド指,全指向性,USB Type-C,-18kHz,コンデンサー,48kHz/16bit,9609,-,-,-
+mic-cnd2-010,TM-250U,超単一指向性,USB Type-C,-,コンデンサー,48kHz/16bit,7480,-,-,-
+mic-cnd2-011,AT9901,単一指向性,3.5mm,-,コンデンサー,48kHz,3400,-,-,-
+mic-cnd2-014,Am7,単一指向性,USB Type-C,-,コンデンサー,48kHz,11490,-,-,-
+mic-cnd2-015,ECM-999,全指向性,XLR,20Hz-20kHz,コンデンサー,-,5535,-,-,-
+mic-cnd2-016,auriq01,全指向性,XLR,20Hz-20kHz,コンデンサー,-,42000,-,ASMR,-
+mic-cnd2-017,ワイヤレスピンマイク (3in1),全指向性,USB Type-C / 3.5mm / Lightning,-,コンデンサー,-,1399,-,-,-
+mic-cnd2-018,SoloCast (ホワイト),単一指向性,USB Type-A,-,コンデンサー,48kHz/16bit,-,-,-,-
+mic-cnd2-019,AT875R,超単一指向性,XLR,90Hz-20kHz,コンデンサー,-,22222,-,-,-
+mic-cnd2-020,クリップマイク ピンマイク マイクロフォン 長さ120mm ジャック 3.5mm φプラグ iP,全指向性,3.5mm,-,ピンマイク,-,990,-,-,-
+mic-dyn-001,K688CT,単一指向性,USB Type-C / XLR,50Hz-16kHz,ダイナミック,48kHz/16bit,12899,-,-,-
+mic-dyn-002,AT2040,超単一指向性,XLR,80Hz-16kHz,ダイナミック,-,13200,-,-,-
+mic-dyn-003,MV7+,単一指向性,USB Type-C / XLR,50Hz-16kHz,ダイナミック,48kHz/16bit,47000,−55dB,ノイズキャンセリング,-
+mic-dyn-005,SM7dB,単一指向性,XLR,50Hz-20kHz,ダイナミック,-,75800,-,ノイズキャンセリング,-
+mic-dyn-007,PartyBox Wireless Mic 2-Piece Set/2.4GHz Wire…,単一指向性,2.4GHz ワイヤレス,50Hz-15kHz,ワイヤレスダイナミックマイク,-,17700,-,-,-
+mic-dyn-009,SHURE SM58SE,単一指向性,XLR,50Hz-20kHz,ダイナミック,-,16010,-,ノイズキャンセリング,-
+mic-dyn-010,MV6,単一指向性,USB Type-C,50Hz-15kHz,ダイナミック,44.1kHz、/48kHz,24749,-,ノイズキャンセリング,ミュート機能
+mic-dyn-014,PD200XS,単一指向性,USB Type-C / XLR,40Hz-16kHz,ダイナミック,-,13980,-,ノイズキャンセリング,-
+mic-dyn-017,BETA 58A,超単一指向性,XLR,50Hz-16kHz,ダイナミック,-,21700,-,-,-
+mic-dyn-021,e 945,超単一指向性,XLR,40Hz-18kHz,ダイナミック,-,22500,-,-,-
+mic-dyn-024,e 935,単一指向性,XLR,40Hz-18kHz,ダイナミック,-,22600,-,-,-
+mic-dyn2-053,PGA48-XLR-J,単一指向性,XLR,70Hz-15kHz,ダイナミック,96kHz/24bit,7900,-,-,-
+mic-dyn2-055,e 845-S,超単一指向性,XLR,40Hz-16kHz,ダイナミック,96kHz/24bit,14864,-,-,-
+mic-dyn2-056,D5S,超単一指向性,XLR,70Hz-20kHz,ダイナミック,-,14850,-,-,-
+mic-dyn2-059,PodMic,単一指向性,XLR,20Hz-20kHz,ダイナミック,-,18000,-,-,-
+mic-dyn2-061,TOA DM-1200ハンド型ダイナミックマイク DM-1200,単一指向性,XLR,50Hz-12kHz,ダイナミック,-,12706,-,-,-
+mic-dyn2-074,PRO41,単一指向性,XLR,90Hz-16kHz,ダイナミック,-,8254,-,-,-
+mic-dyn2-075,CM5,単一指向性,AUX,15kHz,ダイナミック,-,2950,-,-,-
+mic-dyn2-076,XM1800S,単一指向性,XLR,50Hz-15kHz,ダイナミック,96kHz/24bit,6889,-,-,-
+mic-dyn2-079,Seiren V2 Pro,単一指向性,USB Type-C,20Hz-20kHz,ダイナミック,96kHz/24bit,18359,-,ノイズキャンセリング,ミュート機能
+mic-dyn-nr-01,USB/XLR ダイナミックマイク,単一指向性,USB Type-C / XLR,50Hz-18kHz,ダイナミック,-,8800,-,-,-
+mic-dyn-nr-04,AC-930,超単一指向性,XLR,50Hz-18kHz,ダイナミック,-,17590,-,-,-

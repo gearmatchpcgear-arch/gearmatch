@@ -1,0 +1,177 @@
+[
+  {
+    "id": "mic-dyn-049",
+    "name": "e 835",
+    "brand": "Sennheiser",
+    "asin": "B00006I5R7",
+    "file": "mic-dynamic-bestsellers.ts"
+  },
+  {
+    "id": "mic-dyn-031",
+    "name": "BETA 58A",
+    "brand": "SHURE",
+    "asin": "B0002BACB4",
+    "file": "mic-dynamic-bestsellers.ts"
+  },
+  {
+    "id": "mic-cnd-011",
+    "name": "AT4040",
+    "brand": "オーディオテクニカ",
+    "asin": "B0002D0BQ8",
+    "file": "mic-condenser-bestsellers.ts"
+  },
+  {
+    "id": "mic-shure-sm7b",
+    "name": "SM7B",
+    "brand": "Shure",
+    "asin": "B0002E4Z8M",
+    "file": "gadgets.ts"
+  },
+  {
+    "id": "mic-dyn-034",
+    "name": "AT-X3",
+    "brand": "オーディオテクニカ",
+    "asin": "B0002ERG6K",
+    "file": "mic-dynamic-bestsellers.ts"
+  },
+  {
+    "id": "mic-dyn-011",
+    "name": "XM8500",
+    "brand": "BEHRINGER",
+    "asin": "B0002KZAKS",
+    "file": "mic-dynamic-bestsellers.ts"
+  },
+  {
+    "id": "mic-cnd-003",
+    "name": "AT2020",
+    "brand": "オーディオテクニカ",
+    "asin": "B0006H92QK",
+    "file": "mic-condenser-bestsellers.ts"
+  },
+  {
+    "id": "mic-cnd2-019",
+    "name": "AT875R",
+    "brand": "オーディオテクニカ",
+    "asin": "B000BQ79W0",
+    "file": "mic-condenser-bestsellers-page2.ts"
+  },
+  {
+    "id": "mic-dyn-006",
+    "name": "Switch2/Switch用 カラオケマイク【2026年NEWモデル・2本セット】 2.0US",
+    "brand": "Elnicec",
+    "asin": "B000GUBOYU",
+    "file": "mic-dynamic-bestsellers.ts"
+  },
+  {
+    "id": "mic-dyn-035",
+    "name": "ゼンハイザー ダイナミックマイクロホン スーパーカーディオイド/スイッチ付 e 845-S【国内",
+    "brand": "Sennheiser",
+    "asin": "B000N94SJC",
+    "file": "mic-dynamic-bestsellers.ts"
+  },
+  {
+    "id": "mic-dyn-017",
+    "name": "ゼンハイザー ダイナミックマイクロホン XLR スーパーカーディオイド/ボーカル向け e 945",
+    "brand": "Sennheiser",
+    "asin": "B000NAXCC0",
+    "file": "mic-dynamic-bestsellers.ts"
+  },
+  {
+    "id": "mic-dyn-014",
+    "name": "CM-2000",
+    "brand": "KC",
+    "asin": "B000R8KFUU",
+    "file": "mic-dynamic-bestsellers.ts"
+  },
+  {
+    "id": "mic-dyn-039",
+    "name": "D112/C",
+    "brand": "Superlux",
+    "asin": "B000SAGSRQ",
+    "file": "mic-dynamic-bestsellers.ts"
+  },
+  {
+    "id": "mic-cnd2-011",
+    "name": "AT9901",
+    "brand": "オーディオテクニカ",
+    "asin": "B0014THK5E",
+    "file": "mic-condenser-bestsellers-page2.ts"
+  },
+  {
+    "id": "mic-cnd2-001",
+    "name": "PRO35",
+    "brand": "オーディオテクニカ",
+    "asin": "B001TOYV4M",
+    "file": "mic-condenser-bestsellers-page2.ts"
+  },
+  {
+    "id": "mic-cnd-018",
+    "name": "AT2035",
+    "brand": "オーディオテクニカ",
+    "asin": "B002T45X1G",
+    "file": "mic-condenser-bestsellers.ts"
+  },
+  {
+    "id": "mic-cnd-015",
+    "name": "ECM-TL3",
+    "brand": "ソニー",
+    "asin": "B004KVIZFM",
+    "file": "mic-condenser-bestsellers.ts"
+  },
+  {
+    "id": "mic-cnd2-021",
+    "name": "USB コンデンサーマイク (セット)",
+    "brand": "ZealSound",
+    "asin": "B0051O2Y72",
+    "file": "mic-condenser-bestsellers-page2.ts"
+  },
+  {
+    "id": "mic-cnd-026",
+    "name": "ECM-PCV80U",
+    "brand": "ソニー",
+    "asin": "B005M2HDA6",
+    "file": "mic-condenser-bestsellers.ts"
+  },
+  {
+    "id": "mic-dyn2-001",
+    "name": "MD-5A",
+    "brand": "UNI-PEX",
+    "asin": "B009GY4E2G",
+    "file": "mic-dynamic-bestsellers-page2.ts"
+  },
+  {
+    "id": "mic-dyn2-004",
+    "name": "PROH7F",
+    "brand": "Superlux",
+    "asin": "B00BLDTKBK",
+    "file": "mic-dynamic-bestsellers-page2.ts"
+  },
+  {
+    "id": "mic-dyn-030",
+    "name": "D10",
+    "brand": "—",
+    "asin": "B00TTQM94Q",
+    "file": "mic-dynamic-bestsellers.ts"
+  },
+  {
+    "id": "mic-bs-009",
+    "name": "MM-MCU01BK",
+    "brand": "サンワサプライ",
+    "asin": "B013SYV6P2",
+    "file": "mic-bestsellers.ts"
+  },
+  {
+    "id": "mic-cnd-016",
+    "name": "MPM-2000U",
+    "brand": "Marantz",
+    "asin": "B01GJ9IUNY",
+    "file": "mic-condenser-bestsellers.ts"
+  },
+  {
+    "id": "mic-dyn-009",
+    "name": "ダイナミックマイク カラオケマイク 単一指向性カーディオイド 金属製ハンド 6.35mm/3.5",
+    "brand": "TONOR",
+    "asin": "B01ISNU3X4",
+    "file": "mic-dynamic-bestsellers.ts"
+  }
+]

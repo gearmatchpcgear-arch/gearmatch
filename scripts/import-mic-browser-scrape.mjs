@@ -1,0 +1,69 @@
+/**
+ * Import browser-scraped Amazon ranking data → mic-bestsellers-raw.json
+ * Run after scraping via browser CDP (when fetch-mic-bestsellers.mjs returns 0).
+ */
+import { writeFileSync } from "fs"
+import { join, dirname } from "path"
+import { fileURLToPath } from "url"
+import { normalizeAmazonImageUrl } from "./amazon-image.mjs"
+import { isMicAccessoryTitle } from "./mic-accessory-title.mjs"
+
+const __dirname = dirname(fileURLToPath(import.meta.url))
+
+const SCRAPED = [
+  { amazonRank: 1, asin: "B0FLKJ7FH7", title: "HyperX SoloCast 2 コンデンサーマイク 内蔵ショックマウント ゲーム実況 USBマイク ブラック 日本正規代理店品 AR0A0AA | ポップフィルター,テレワーク,ストリーマー,コンテンツクリエーター,ゲームプレイヤー向け,PC,Mac,PS4,PS5対応,メーカー保証2年間,カーディオイド（単一指向性）,タップでミュート,振動ノイズを抑制", rating: 4.4, reviews: 2430, price: 8982, image: "https://images-fe.ssl-images-amazon.com/images/I/71jznpAUWgL._AC_UL600_SR600,400_.jpg" },
+  { amazonRank: 2, asin: "B0GJZ1TCQP", title: "パソコンマイク コンデンサーマイク ダイナミックマイク 全指向性 高感度 360°集音 ワンタッチミュート 小型 卓上 有線 PC会議用 | プラグアンドプレイ ソフト不要 ゲーム実況 ライブ配信 テレワーク Zoom Skype Discord Windows Mac PS4 PS5", rating: 4.7, reviews: 241, price: 2710, image: "https://images-fe.ssl-images-amazon.com/images/I/71sJ4kr1KQL._AC_UL600_SR600,400_.jpg" },
+  { amazonRank: 3, asin: "B0G39C97WQ", title: "DJI Mic Mini 2（2 TX + 1 スタンダードRX + 充電ケース） | iPhone 17/16/15＆Android／カメラ／タブレット／PC用ワイヤレスマイク 48時間駆動 400 m伝送 多色Magカバー", rating: 4.6, reviews: 524, price: 14520, image: "https://images-fe.ssl-images-amazon.com/images/I/61xDA0eTDQL._AC_UL600_SR600,400_.jpg" },
+  { amazonRank: 4, asin: "B097PDS4Y4", title: "エレコム PCマイク スタンドマイク USB フレキシブルアーム ミュートボタン付き LED搭載 ブラック HS-MC07UBK", rating: 3.4, reviews: 102, price: 1027, image: "https://images-fe.ssl-images-amazon.com/images/I/519Xb0yLM5S._AC_UL600_SR600,400_.jpg" },
+  { amazonRank: 5, asin: "B0BF8XNXV1", title: "オーディオテクニカ AT-CSP1 スピーカーフォン 会議用マイクスピーカー 有線 小型 USB PC マイク エコーキャンセラー ミュートボタン 音量調整 360°集音 オンライン会議 テレワーク ビデオ通話 在宅", rating: 4, reviews: 551, price: 3582, image: "https://images-fe.ssl-images-amazon.com/images/I/81InHO1LKLL._AC_UL600_SR600,400_.jpg" },
+  { amazonRank: 6, asin: "B01HGGWB7K", title: "エレコム コンデンサーマイク 3.5mm接続 パソコンマイク クリップ付 1.6m HS-MC06BK", rating: 3.9, reviews: 375, price: 608, image: "https://images-fe.ssl-images-amazon.com/images/I/51YJ2NWCPiL._AC_UL600_SR600,400_.jpg" },
+  { amazonRank: 7, asin: "B0BVVX5FBD", title: "FIFINE USB/XLRダイナミックマイク 単一指向性 PC/PS4/PS5対応 ゲーミング/配信用 黒 AM8 | 接続簡単 音声モニター/ワンタッチ式ミュート/デュアル音量調節機能搭載", rating: 4.2, reviews: 288, price: 9099, image: "https://images-fe.ssl-images-amazon.com/images/I/61hGerNcY1L._AC_UL600_SR600,400_.jpg" },
+  { amazonRank: 8, asin: "B09KNKBCQK", title: "FIFINE USBコンデンサーマイク RGBライティング 単一指向性 プラグ&プレイ PC/PS4/PS5マイク USB-C to Aケーブル付属 ワンタッチミュート YouTube Skype Discord Zoom 録音 ゲーム実況 A6V", rating: 4.3, reviews: 822, price: 5699, image: "https://images-fe.ssl-images-amazon.com/images/I/71laV06lutL._AC_UL600_SR600,400_.jpg" },
+  { amazonRank: 9, asin: "B07ZSDXHJZ", title: "Anker PowerConf (グレー) 【会議用マイクスピーカー】 | スピーカーフォン オンライン会議 テレワーク Bluetooth エコーキャンセリング ノイズキャンセリング 全指向性マイク", rating: 4.4, reviews: 3184, price: 12200, image: "https://images-fe.ssl-images-amazon.com/images/I/71mGLBr5hXL._AC_UL600_SR600,400_.jpg" },
+  { amazonRank: 10, asin: "B0DXW278KB", title: "HyperX QuadCast2 コンデンサーマイク USBマイク ゲーム実況 テレワーク ライブ配信 フロスト 日本正規代理店品 AN1D9AA | 24bit/96KHzのスタジオレベルの音質,LEDステータスインジケーター", rating: 4.6, reviews: 1219, price: 22800, image: "https://images-fe.ssl-images-amazon.com/images/I/51x+qqX44-L._AC_UL600_SR600,400_.jpg" },
+  { amazonRank: 11, asin: "B0D4Z8LWXC", title: "COMICA USBコンデンサーマイク ゲーミングマイクアーム付き単一指向性 RGB光りワンタッチミュートweb会議ライブ配信 EJoy Uni(白)", rating: 4.2, reviews: 380, price: 6599, image: "https://images-fe.ssl-images-amazon.com/images/I/61M6ZFyoWBL._AC_UL600_SR600,400_.jpg" },
+  { amazonRank: 12, asin: "B0CMTQPWQ8", title: "Razer レイザー Seiren V3 Mini コンデンサーマイク 超コンパクト設計 タップ式ミュートセンサー ゲーミングマイク USB マイク 配信 セイレーン ブイスリー ミニ【日本正規代理店保証品】", rating: 4.6, reviews: 754, price: 6964, image: "https://images-fe.ssl-images-amazon.com/images/I/61YoVaG-ShL._AC_UL600_SR600,400_.jpg" },
+  { amazonRank: 13, asin: "B0CNVZ27YH", title: "DUNGZDUZ USBマイク ノートPC・デスクトップ用 高感度 クリア通話 プラグ&プレイ 小型 コンパクト", rating: 4, reviews: 1122, price: 1799, image: "https://images-fe.ssl-images-amazon.com/images/I/51CuBiCQGrL._AC_UL600_SR600,400_.jpg" },
+  { amazonRank: 14, asin: "B0GKX5TXSX", title: "USB PCマイク 高感度 スタンド付 全指向性 360°集音 ワンタッチミュート プラグ&プレイ コンパクト", rating: 4.6, reviews: 45, price: 2299, image: "https://images-fe.ssl-images-amazon.com/images/I/61RMQs4WOeL._AC_UL600_SR600,400_.jpg" },
+  { amazonRank: 15, asin: "B0BW4BN69P", title: "EMEET M0Plus スピーカーフォン 会議用マイクスピーカー | Bluetooth対応 4つのAIマイク360˚全方向集音マイク エコー・ノイズのキャンセリング 連結機能付き 16人まで対応 USB-C接続", rating: 4.1, reviews: 2341, price: 6999, image: "https://images-fe.ssl-images-amazon.com/images/I/71fUCtgWRfL._AC_UL600_SR600,400_.jpg" },
+  { amazonRank: 16, asin: "B09X5G7B8S", title: "EMEET M1A スピーカーフォン 360˚全方向集音 会議用マイクスピーカー | 双方向通話 ノイズキャンセリング 全指向性集音マイク 5-8人会議対応 Skype/Zoom/Facetime/Wechat通話アプリ対応 USB C/USB A接続", rating: 4.3, reviews: 350, price: 6599, image: "https://images-fe.ssl-images-amazon.com/images/I/81crovCVOOL._AC_UL600_SR600,400_.jpg" },
+  { amazonRank: 17, asin: "B0BTGLP2G5", title: "エレコム コンデンサーマイク USB接続 タッチミュート/マイクアーム固定/LED/ポップガード 単一指向性 ブラック HS-MC14UBK", rating: 4, reviews: 160, price: 3600, image: "https://images-fe.ssl-images-amazon.com/images/I/61V3Wpk6rfL._AC_UL600_SR600,400_.jpg" },
+  { amazonRank: 18, asin: "B0B823S1NR", title: "オーディオテクニカ AT2020USB-X コンデンサーマイク ミュートボタン付き 音量調整 イヤホン出力 USB-Type-C ドライバー不要 ゲーミング 配信用 USB マイク", rating: 4.5, reviews: 810, price: 18480, image: "https://images-fe.ssl-images-amazon.com/images/I/61UtbvnnncL._AC_UL600_SR600,400_.jpg" },
+  { amazonRank: 19, asin: "B0BXSPQL3W", title: "サンワサプライ(Sanwa Supply) USBマイクロホン MM-MCU06BKN", rating: 4.1, reviews: 30, price: 2082, image: "https://images-fe.ssl-images-amazon.com/images/I/61MUUP5ZRoL._AC_UL600_SR600,400_.jpg" },
+  { amazonRank: 20, asin: "B0CHTVQK9D", title: "MillSO ピンマイク usb 直挿し pcマイク 無指向性 高感度 360°集音 角度調整可能 フレキシブルアーム コンパクト 小型マイク 外付けマイク 有線 多人数 WEB会議 通話 録音に Skype ZOOM You Tube", rating: 4.1, reviews: 239, price: 1699, image: "https://images-fe.ssl-images-amazon.com/images/I/51Zrlbz8OdL._AC_UL600_SR600,400_.jpg" },
+  { amazonRank: 21, asin: "B0DW8NRNBH", title: "SEIKO セイコー ピックアップマイク ホワイト STM30WH", rating: 4.4, reviews: 23, price: 2200, image: "https://images-fe.ssl-images-amazon.com/images/I/41RnT1O6ZQL._AC_UL600_SR600,400_.jpg" },
+  { amazonRank: 22, asin: "B081K96ZLW", title: "ヤマハ ユニファイドコミュニケーションマイクスピーカーシステム YVC-330", rating: 4.6, reviews: 324, price: 57800, image: "https://images-fe.ssl-images-amazon.com/images/I/81BhSO1fWgL._AC_UL600_SR600,400_.jpg" },
+  { amazonRank: 23, asin: "B07ZQB2VF3", title: "Cubilux タイプＣマイク USB C クリップ式ラベリア マイク 1.5M", rating: 4.2, reviews: 638, price: 2790, image: "https://images-fe.ssl-images-amazon.com/images/I/61jjmCbCo4L._AC_UL600_SR600,400_.jpg" },
+  { amazonRank: 24, asin: "B0B6FTQTS8", title: "FIFINE USBコンデンサーマイク 単一指向性 全段式グースネック 卓上用/会議用/パソコン用 K054 | 音量調節可能 ミュートボタン付き オンライン会議 ライブ配信 ゲーム実況 テレワーク", rating: 4.3, reviews: 127, price: 4099, image: "https://images-fe.ssl-images-amazon.com/images/I/61y1+d8gYZL._AC_UL600_SR600,400_.jpg" },
+  { amazonRank: 25, asin: "B0BYZFL8RJ", title: "MAONO USB コンデンサーマイク ゲーミングマイク PC マイク 専用ソフトウェア RGBライティング ヘッドホン出力端子あり 単一指向性 プラグ＆プレイ(DM30 RGB)", rating: 4.3, reviews: 827, price: 8499, image: "https://images-fe.ssl-images-amazon.com/images/I/61ZSs0HzAiL._AC_UL600_SR600,400_.jpg" },
+  { amazonRank: 26, asin: "B0GWCCMMLR", title: "Zyrvox PCマイク USBコンデンサーマイク 高感度 卓上 全指向性 360°集音 ワンタッチミュート プラグ&プレイ コンパクト", rating: 5, reviews: 55, price: 2598, image: "https://images-fe.ssl-images-amazon.com/images/I/71QMw1FnkVL._AC_UL600_SR600,400_.jpg" },
+  { amazonRank: 27, asin: "B0CGJBP96B", title: "USBマイク 超コンパクト USB直挿し PCマイク 世界最小クラス 全指向性 Skype/VOIP音声認識", rating: 3.4, reviews: 148, price: 375, image: "https://images-fe.ssl-images-amazon.com/images/I/41hspqpJA+L._AC_UL600_SR600,400_.jpg" },
+  { amazonRank: 28, asin: "B0DP54XTCG", title: "MAONO XLR/USB ゲーミングマイク ノイズキャンセリング PCマイク ポッドキャスト ストリーミング用 ダイナミックマイク ミュートボタン 単一指向性 PD100X", rating: 4.4, reviews: 2210, price: 6944, image: "https://images-fe.ssl-images-amazon.com/images/I/61VscaoyfML._AC_UL600_SR600,400_.jpg" },
+  { amazonRank: 29, asin: "B0F9KPQ55B", title: "ZealSound USB コンデンサーマイク ゲーミングマイク PCマイク RGBライト プラグ&プレイ ミュート 単一指向性 ライブ配信 Web会議 ゲーム実況 Skype Discord", rating: 3.8, reviews: 69, price: 5784, image: "https://images-fe.ssl-images-amazon.com/images/I/51FlsWaUyLL._AC_UL600_SR600,400_.jpg" },
+  { amazonRank: 30, asin: "B00ANI7HI2", title: "Jabra SPEAK510 MS Bluetooth ポータブル会議用スピーカーフォン Microsoft認証 【日本正規代理店】", rating: 4.5, reviews: 6174, price: 15853, image: "https://images-fe.ssl-images-amazon.com/images/I/51yHLN0rQKL._AC_UL600_SR600,400_.jpg" },
+]
+
+const normalized = SCRAPED.map((item) => ({
+  ...item,
+  image: item.image ? normalizeAmazonImageUrl(item.image) : "",
+}))
+
+const excluded = normalized.filter((item) => isMicAccessoryTitle(item.title))
+const microphones = normalized.filter((item) => !isMicAccessoryTitle(item.title))
+
+writeFileSync(
+  join(__dirname, "mic-bestsellers-raw.json"),
+  JSON.stringify(
+    {
+      fetchedAt: new Date().toISOString(),
+      source: "browser-scrape",
+      microphones,
+      excluded,
+      raw: normalized,
+    },
+    null,
+    2,
+  ),
+)
+
+console.log(`Wrote ${microphones.length} mics, excluded ${excluded.length}`)

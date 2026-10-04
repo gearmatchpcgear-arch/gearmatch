@@ -1,0 +1,548 @@
+{
+  "fetchedAt": "2026-08-13T14:09:55.785Z",
+  "microphones": [
+    {
+      "amazonRank": 51,
+      "asin": "B001TOYV4M",
+      "title": "オーディオテクニカ PRO35 コンデンサーマイク XLR 金管楽器用/サックス/トランペット/楽器用マイクホルダー付属/バックエレクトレット/単一指向性 / 145dBの高耐入力 / ローカットスイッチ/ウインドスクリーン付属/ファントム電源対応 / 【国内正規品】 ブラック",
+      "rating": 4.2,
+      "reviews": 116,
+      "price": 13155,
+      "image": "https://m.media-amazon.com/images/I/71ycCLJLkkL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 52,
+      "asin": "B0FKM9BS9H",
+      "title": "コンデンサーマイク USB 卓上 PC マイク 192kHz/24bit 録音 2段階ノイズキャンセリング機能搭載 カーディオイド 8種類RGB 16mmマイクヘッド 静音モード リバーブモード Hi-Fi Type-C接続 録音 ゲーム ナレーション 会議 生放送 歌唱",
+      "rating": 3,
+      "reviews": 9,
+      "price": 699,
+      "image": "https://m.media-amazon.com/images/I/71IRirVfJ5L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 53,
+      "asin": "B0BTPYCD86",
+      "title": "Sennheiser ゼンハイザー Profile USBマイクロホン 【国内正規品】 700065 ポッドキャスター ストリーマー ゲーマー",
+      "rating": 4.5,
+      "reviews": 988,
+      "price": 15445,
+      "image": "https://m.media-amazon.com/images/I/51QZ0rHYw6L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 54,
+      "asin": "B0C32W4ZH7",
+      "title": "MAONO USB コンデンサーマイク ゲーミングマイク ノイズキャンセリング PC マイク ミュートボタン 単一指向性 RGBライティング 音量コントロール プラグ＆プレイ パソコンマイク ゲーム実況 ライブ配信 ポットキャスト ストリーミング Skype Discord Zoom Windows Mac PS4/PS5対応 GamerWave DGM20 ピンク",
+      "rating": 4.6,
+      "reviews": 28,
+      "price": 7700,
+      "image": "https://m.media-amazon.com/images/I/61XM3P1cpnL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 55,
+      "asin": "B0GWXVJQ9N",
+      "title": "FerBuee RGBライト PCマイク USB ゲーム マイク Windows MacOS スマホ PS4/PS5等対応 ゲーム実況 生放送 カラオケ 録音 配信などに適用 ミュートボタン 音量調整 ヘッドホンモニタジャック付き 日本語取扱説明書付き",
+      "rating": 4.2,
+      "reviews": 52,
+      "price": 2000,
+      "image": "https://m.media-amazon.com/images/I/71BCG5RaUBL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 56,
+      "asin": "B0GQRSQ86L",
+      "title": "Elgato Wave:3 – Wave FX Processor、オンボードDSP、Clipguard 2.0、VST insertsを搭載したプレミアムUSBコンデンサーマイク（配信＆ポッドキャスト向け）– PC&Mac対応",
+      "rating": 5,
+      "reviews": 1,
+      "price": 28980,
+      "image": "https://m.media-amazon.com/images/I/61ngUaydY-L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 57,
+      "asin": "B0CMV914QV",
+      "title": "Zealsound USB ゲーミングマイク *Phoneマイク コンデンサーマイクミュートボタン カーディオイド指向性 RGB光り プラグ＆プレイ パソコン 実況 ライブ配信 ポットキャスト ストリーミング Skype Discord Zoom Windows/Mac/PS4/5対応（黒）",
+      "rating": 4.6,
+      "reviews": 232,
+      "price": 9609,
+      "image": "https://m.media-amazon.com/images/I/61TCDCssHmL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 58,
+      "asin": "B0DHZFZY2N",
+      "title": "Zealsound USB ゲーミングマイク *Phoneマイク コンデンサーマイクミュートボタン カーディオイド指向性 RGB光り プラグ＆プレイ パソコン 実況 ライブ配信 ポットキャスト ストリーミング Skype Discord Zoom Windows/Mac/PS4/5対応（黒）",
+      "rating": 4,
+      "reviews": 170,
+      "price": 4790,
+      "image": "https://m.media-amazon.com/images/I/71c1xl2bywL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 59,
+      "asin": "B0G8XDVZH8",
+      "title": "[セット商品]オーディオテクニカ ホワイト マイク&マイクケーブル AT2020 CWH BX3/3.0 WH コンデンサーマイク XLR キャノン",
+      "rating": 4,
+      "reviews": 81,
+      "price": 23624,
+      "image": "https://m.media-amazon.com/images/I/4158dAdSgWL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 60,
+      "asin": "B093LFS9QF",
+      "title": "TASCAM(タスカム) TM-250U 超単一指向性 コンデンサーマイク USBマイク Youtube ウェブ会議 テレワーク ライブ配信 PS4 PS5 ゲーミング ゲーム実況 カラオケ ポケカラ",
+      "rating": 4,
+      "reviews": 81,
+      "price": 7480,
+      "image": "https://m.media-amazon.com/images/I/71PrMMopxKL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 61,
+      "asin": "B0014THK5E",
+      "title": "オーディオテクニカ ステレオマイクロホン AT9901",
+      "rating": 4.1,
+      "reviews": 223,
+      "price": 3400,
+      "image": "https://m.media-amazon.com/images/I/51ehYNISYbL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 62,
+      "asin": "B07NZZZ746",
+      "title": "HyperX QuadCast スタンドアロンマイク ストリーマー/コンテンツクリエーター/ゲーマー向け/PC,PS4使用可能 2年保証 HX-MICQC-BK ( 4P5P6AA )",
+      "rating": 4.6,
+      "reviews": 35434,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/614IJyh+5OL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 63,
+      "asin": "B09XDH2P6P",
+      "title": "FIFINE USBマイク コンデンサーマイク ステレオレコーディングマイク パソコン録音 ゲーム実況 ASMR ライブ配信 K690 | ミュートボタンと音声モニター可能な3.5mmイヤホン端子付き 極性調整可能 Skype Discord Zoom PC Windows Macに対応 PS4に対応 ボーカル YouTube ストリーミング ポッドキャスト ブラックカラー",
+      "rating": 4.5,
+      "reviews": 3362,
+      "price": 10499,
+      "image": "https://m.media-amazon.com/images/I/61thLSN9XWL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 64,
+      "asin": "B08NXFNDVK",
+      "title": "FIFINE USBマイク コンデンサーマイク ステレオレコーディングマイク パソコン録音 ゲーム実況 ASMR ライブ配信 K690 | ミュートボタンと音声モニター可能な3.5mmイヤホン端子付き 極性調整可能 Skype Discord Zoom PC Windows Macに対応 PS4に対応 ボーカル YouTube ストリーミング ポッドキャスト ブラックカラー",
+      "rating": 4.4,
+      "reviews": 300,
+      "price": 10499,
+      "image": "https://m.media-amazon.com/images/I/611s11rNgLL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 65,
+      "asin": "B08P411XR5",
+      "title": "ZOOM(ズーム) Am7 Androidスマホマイク USB Type-C ブラック | 専用風防付属,外付け, ステレオ録音, 配信,Vlog,インタビュー, セルフィー",
+      "rating": 3.6,
+      "reviews": 133,
+      "price": 11490,
+      "image": "https://m.media-amazon.com/images/I/61CXOa1GWLL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 66,
+      "asin": "B07KT8X3XQ",
+      "title": "Superlux 測定用 無指向性コンデンサーマイクロホン ECM-999 ブラック",
+      "rating": 4.4,
+      "reviews": 105,
+      "price": 5535,
+      "image": "https://m.media-amazon.com/images/I/510vc4xqiuL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 67,
+      "asin": "B0FGJYCPRT",
+      "title": "asmrlabo XLR耳型バイノーラルマイク「auriq01 Pro」（Primo EM272マイクカプセル搭載）（ブラック）asmr 環境音",
+      "rating": 4.6,
+      "reviews": 6,
+      "price": 42000,
+      "image": "https://m.media-amazon.com/images/I/617tf+sTQAL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 68,
+      "asin": "B0H6Q4TK8K",
+      "title": "ピンマイク スマホマイク 3in1受信機 Type-C/Lightning/3.5mm対応 コードレス プラグ＆プレイ 瞬時接続 ノイズ軽減 360°全指向性集音 音画同期 2人同時収音 Type-C充電 Vlog撮影 動画配信 ライブ配信 インタビ",
+      "rating": 4.6,
+      "reviews": 80,
+      "price": 1399,
+      "image": "https://m.media-amazon.com/images/I/617DlkcZwKL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 69,
+      "asin": "B0FQTRJ4GH",
+      "title": "SHURE 楽器用マイクロホン SM57-LCE ダイナミック マイクロフォン ドラム 打楽器 楽器アンプ 【国内正規品】",
+      "rating": 4.6,
+      "reviews": 80,
+      "price": 26790,
+      "image": "https://m.media-amazon.com/images/I/61DE3FpP8jL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 70,
+      "asin": "B000CZ0R3S",
+      "title": "SHURE 楽器用マイクロホン SM57-LCE ダイナミック マイクロフォン ドラム 打楽器 楽器アンプ 【国内正規品】",
+      "rating": 4.6,
+      "reviews": 866,
+      "price": 15100,
+      "image": "https://m.media-amazon.com/images/I/41dqAr9dkdL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 71,
+      "asin": "B09XQVB4XC",
+      "title": "ハイパーエックス SoloCast USBスタンドアロンマイク ホワイト テレワーク/ストリーマー/コンテンツクリエーター/ゲーマー向け/PC,PS4,PS5使用可能 メーカー 2年保証 519T2AA",
+      "rating": 4.2,
+      "reviews": 1623,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/61rbC5XiL5L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 72,
+      "asin": "B01GE2L1SC",
+      "title": "オーディオテクニカ AT875R ショットガンマイク XLR コンデンサーマイク ファンタム電源 放送 制作 カメラ 【国内正規品】",
+      "rating": 4,
+      "reviews": 396,
+      "price": 22222,
+      "image": "https://m.media-amazon.com/images/I/71Dpj5dCzmL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 73,
+      "asin": "B000BQ79W0",
+      "title": "オーディオテクニカ AT875R ショットガンマイク XLR コンデンサーマイク ファンタム電源 放送 制作 カメラ 【国内正規品】",
+      "rating": 4.6,
+      "reviews": 827,
+      "price": 22222,
+      "image": "https://m.media-amazon.com/images/I/61y4gLYXY3L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 74,
+      "asin": "B07MJZ7XQ5",
+      "title": "Rosebe クリップマイク ピンマイク マイクロフォン 長さ120mm ジャック 3.5mm φプラグ iPhone/iPad/Android/カメラ 対応[ブラック]",
+      "rating": 3.4,
+      "reviews": 30,
+      "price": 990,
+      "image": "https://m.media-amazon.com/images/I/519DKvY-x6L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 75,
+      "asin": "B0FSZGKX8Q",
+      "title": "JP Number ピンマイク バス運転手 アナウンス 専用 後頭部掛け式 3.5mm／6.5mm変換プラグ付き",
+      "rating": 2.6,
+      "reviews": 4,
+      "price": 1649,
+      "image": "https://m.media-amazon.com/images/I/51qlMah0dqL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 76,
+      "asin": "B0051O2Y72",
+      "title": "ZeaLSound USBマイクセット、コンデンサーマイク、PCマイク、アームスタンド付属、カーディオイド指向性、プラグアンドプレイ、ワンタッチミュート、エコー機能、YouTube/Zoom/Tiktok/Skype録音、ゲームプレイ、ライブ配信、リモートワーク、オンライン会議に最適、Windows/MacOS/PS4/PS5に完全対応（黒）",
+      "rating": 4.6,
+      "reviews": 86,
+      "price": 5999,
+      "image": "https://m.media-amazon.com/images/I/818bflD3GSL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 77,
+      "asin": "B0C1Z5DWNJ",
+      "title": "ZeaLSound USBマイクセット、コンデンサーマイク、PCマイク、アームスタンド付属、カーディオイド指向性、プラグアンドプレイ、ワンタッチミュート、エコー機能、YouTube/Zoom/Tiktok/Skype録音、ゲームプレイ、ライブ配信、リモートワーク、オンライン会議に最適、Windows/MacOS/PS4/PS5に完全対応（黒）",
+      "rating": 4.2,
+      "reviews": 74,
+      "price": 5999,
+      "image": "https://m.media-amazon.com/images/I/71aAsc0WQkL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 78,
+      "asin": "B00IVPG0SW",
+      "title": "SHURE シュア SM35-XLR パフォーマンス用 ヘッドセット コンデンサーマイクロホン インラインRPM400プリアンプ （XLR接続変換用）付属 【国内正規品/メーカー保証2年】",
+      "rating": 4.3,
+      "reviews": 437,
+      "price": 26000,
+      "image": "https://m.media-amazon.com/images/I/51msJkZY3IL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 79,
+      "asin": "B08GYC4PGY",
+      "title": "路線バス運転手用ピンマイク ＨＭ?１００ (1枚)",
+      "rating": 4.4,
+      "reviews": 2,
+      "price": 1709,
+      "image": "https://m.media-amazon.com/images/I/61uCWAiqx3L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 80,
+      "asin": "B099NY1425",
+      "title": "路線バス運転手用ピンマイク ＨＭ?１００ (1枚)",
+      "rating": 3.6,
+      "reviews": 56,
+      "price": 1709,
+      "image": "https://m.media-amazon.com/images/I/615yzGNI7jL._AC_SL1500_.jpg"
+    }
+  ],
+  "excluded": [],
+  "raw": [
+    {
+      "amazonRank": 51,
+      "asin": "B001TOYV4M",
+      "title": "オーディオテクニカ PRO35 コンデンサーマイク XLR 金管楽器用/サックス/トランペット/楽器用マイクホルダー付属/バックエレクトレット/単一指向性 / 145dBの高耐入力 / ローカットスイッチ/ウインドスクリーン付属/ファントム電源対応 / 【国内正規品】 ブラック",
+      "rating": 4.2,
+      "reviews": 116,
+      "price": 13155,
+      "image": "https://m.media-amazon.com/images/I/71ycCLJLkkL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 52,
+      "asin": "B0FKM9BS9H",
+      "title": "コンデンサーマイク USB 卓上 PC マイク 192kHz/24bit 録音 2段階ノイズキャンセリング機能搭載 カーディオイド 8種類RGB 16mmマイクヘッド 静音モード リバーブモード Hi-Fi Type-C接続 録音 ゲーム ナレーション 会議 生放送 歌唱",
+      "rating": 3,
+      "reviews": 9,
+      "price": 699,
+      "image": "https://m.media-amazon.com/images/I/71IRirVfJ5L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 53,
+      "asin": "B0BTPYCD86",
+      "title": "Sennheiser ゼンハイザー Profile USBマイクロホン 【国内正規品】 700065 ポッドキャスター ストリーマー ゲーマー",
+      "rating": 4.5,
+      "reviews": 988,
+      "price": 15445,
+      "image": "https://m.media-amazon.com/images/I/51QZ0rHYw6L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 54,
+      "asin": "B0C32W4ZH7",
+      "title": "MAONO USB コンデンサーマイク ゲーミングマイク ノイズキャンセリング PC マイク ミュートボタン 単一指向性 RGBライティング 音量コントロール プラグ＆プレイ パソコンマイク ゲーム実況 ライブ配信 ポットキャスト ストリーミング Skype Discord Zoom Windows Mac PS4/PS5対応 GamerWave DGM20 ピンク",
+      "rating": 4.6,
+      "reviews": 28,
+      "price": 7700,
+      "image": "https://m.media-amazon.com/images/I/61XM3P1cpnL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 55,
+      "asin": "B0GWXVJQ9N",
+      "title": "FerBuee RGBライト PCマイク USB ゲーム マイク Windows MacOS スマホ PS4/PS5等対応 ゲーム実況 生放送 カラオケ 録音 配信などに適用 ミュートボタン 音量調整 ヘッドホンモニタジャック付き 日本語取扱説明書付き",
+      "rating": 4.2,
+      "reviews": 52,
+      "price": 2000,
+      "image": "https://m.media-amazon.com/images/I/71BCG5RaUBL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 56,
+      "asin": "B0GQRSQ86L",
+      "title": "Elgato Wave:3 – Wave FX Processor、オンボードDSP、Clipguard 2.0、VST insertsを搭載したプレミアムUSBコンデンサーマイク（配信＆ポッドキャスト向け）– PC&Mac対応",
+      "rating": 5,
+      "reviews": 1,
+      "price": 28980,
+      "image": "https://m.media-amazon.com/images/I/61ngUaydY-L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 57,
+      "asin": "B0CMV914QV",
+      "title": "Zealsound USB ゲーミングマイク *Phoneマイク コンデンサーマイクミュートボタン カーディオイド指向性 RGB光り プラグ＆プレイ パソコン 実況 ライブ配信 ポットキャスト ストリーミング Skype Discord Zoom Windows/Mac/PS4/5対応（黒）",
+      "rating": 4.6,
+      "reviews": 232,
+      "price": 9609,
+      "image": "https://m.media-amazon.com/images/I/61TCDCssHmL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 58,
+      "asin": "B0DHZFZY2N",
+      "title": "Zealsound USB ゲーミングマイク *Phoneマイク コンデンサーマイクミュートボタン カーディオイド指向性 RGB光り プラグ＆プレイ パソコン 実況 ライブ配信 ポットキャスト ストリーミング Skype Discord Zoom Windows/Mac/PS4/5対応（黒）",
+      "rating": 4,
+      "reviews": 170,
+      "price": 4790,
+      "image": "https://m.media-amazon.com/images/I/71c1xl2bywL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 59,
+      "asin": "B0G8XDVZH8",
+      "title": "[セット商品]オーディオテクニカ ホワイト マイク&マイクケーブル AT2020 CWH BX3/3.0 WH コンデンサーマイク XLR キャノン",
+      "rating": 4,
+      "reviews": 81,
+      "price": 23624,
+      "image": "https://m.media-amazon.com/images/I/4158dAdSgWL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 60,
+      "asin": "B093LFS9QF",
+      "title": "TASCAM(タスカム) TM-250U 超単一指向性 コンデンサーマイク USBマイク Youtube ウェブ会議 テレワーク ライブ配信 PS4 PS5 ゲーミング ゲーム実況 カラオケ ポケカラ",
+      "rating": 4,
+      "reviews": 81,
+      "price": 7480,
+      "image": "https://m.media-amazon.com/images/I/71PrMMopxKL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 61,
+      "asin": "B0014THK5E",
+      "title": "オーディオテクニカ ステレオマイクロホン AT9901",
+      "rating": 4.1,
+      "reviews": 223,
+      "price": 3400,
+      "image": "https://m.media-amazon.com/images/I/51ehYNISYbL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 62,
+      "asin": "B07NZZZ746",
+      "title": "HyperX QuadCast スタンドアロンマイク ストリーマー/コンテンツクリエーター/ゲーマー向け/PC,PS4使用可能 2年保証 HX-MICQC-BK ( 4P5P6AA )",
+      "rating": 4.6,
+      "reviews": 35434,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/614IJyh+5OL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 63,
+      "asin": "B09XDH2P6P",
+      "title": "FIFINE USBマイク コンデンサーマイク ステレオレコーディングマイク パソコン録音 ゲーム実況 ASMR ライブ配信 K690 | ミュートボタンと音声モニター可能な3.5mmイヤホン端子付き 極性調整可能 Skype Discord Zoom PC Windows Macに対応 PS4に対応 ボーカル YouTube ストリーミング ポッドキャスト ブラックカラー",
+      "rating": 4.5,
+      "reviews": 3362,
+      "price": 10499,
+      "image": "https://m.media-amazon.com/images/I/61thLSN9XWL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 64,
+      "asin": "B08NXFNDVK",
+      "title": "FIFINE USBマイク コンデンサーマイク ステレオレコーディングマイク パソコン録音 ゲーム実況 ASMR ライブ配信 K690 | ミュートボタンと音声モニター可能な3.5mmイヤホン端子付き 極性調整可能 Skype Discord Zoom PC Windows Macに対応 PS4に対応 ボーカル YouTube ストリーミング ポッドキャスト ブラックカラー",
+      "rating": 4.4,
+      "reviews": 300,
+      "price": 10499,
+      "image": "https://m.media-amazon.com/images/I/611s11rNgLL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 65,
+      "asin": "B08P411XR5",
+      "title": "ZOOM(ズーム) Am7 Androidスマホマイク USB Type-C ブラック | 専用風防付属,外付け, ステレオ録音, 配信,Vlog,インタビュー, セルフィー",
+      "rating": 3.6,
+      "reviews": 133,
+      "price": 11490,
+      "image": "https://m.media-amazon.com/images/I/61CXOa1GWLL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 66,
+      "asin": "B07KT8X3XQ",
+      "title": "Superlux 測定用 無指向性コンデンサーマイクロホン ECM-999 ブラック",
+      "rating": 4.4,
+      "reviews": 105,
+      "price": 5535,
+      "image": "https://m.media-amazon.com/images/I/510vc4xqiuL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 67,
+      "asin": "B0FGJYCPRT",
+      "title": "asmrlabo XLR耳型バイノーラルマイク「auriq01 Pro」（Primo EM272マイクカプセル搭載）（ブラック）asmr 環境音",
+      "rating": 4.6,
+      "reviews": 6,
+      "price": 42000,
+      "image": "https://m.media-amazon.com/images/I/617tf+sTQAL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 68,
+      "asin": "B0H6Q4TK8K",
+      "title": "ピンマイク スマホマイク 3in1受信機 Type-C/Lightning/3.5mm対応 コードレス プラグ＆プレイ 瞬時接続 ノイズ軽減 360°全指向性集音 音画同期 2人同時収音 Type-C充電 Vlog撮影 動画配信 ライブ配信 インタビ",
+      "rating": 4.6,
+      "reviews": 80,
+      "price": 1399,
+      "image": "https://m.media-amazon.com/images/I/617DlkcZwKL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 69,
+      "asin": "B0FQTRJ4GH",
+      "title": "SHURE 楽器用マイクロホン SM57-LCE ダイナミック マイクロフォン ドラム 打楽器 楽器アンプ 【国内正規品】",
+      "rating": 4.6,
+      "reviews": 80,
+      "price": 26790,
+      "image": "https://m.media-amazon.com/images/I/61DE3FpP8jL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 70,
+      "asin": "B000CZ0R3S",
+      "title": "SHURE 楽器用マイクロホン SM57-LCE ダイナミック マイクロフォン ドラム 打楽器 楽器アンプ 【国内正規品】",
+      "rating": 4.6,
+      "reviews": 866,
+      "price": 15100,
+      "image": "https://m.media-amazon.com/images/I/41dqAr9dkdL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 71,
+      "asin": "B09XQVB4XC",
+      "title": "ハイパーエックス SoloCast USBスタンドアロンマイク ホワイト テレワーク/ストリーマー/コンテンツクリエーター/ゲーマー向け/PC,PS4,PS5使用可能 メーカー 2年保証 519T2AA",
+      "rating": 4.2,
+      "reviews": 1623,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/61rbC5XiL5L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 72,
+      "asin": "B01GE2L1SC",
+      "title": "オーディオテクニカ AT875R ショットガンマイク XLR コンデンサーマイク ファンタム電源 放送 制作 カメラ 【国内正規品】",
+      "rating": 4,
+      "reviews": 396,
+      "price": 22222,
+      "image": "https://m.media-amazon.com/images/I/71Dpj5dCzmL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 73,
+      "asin": "B000BQ79W0",
+      "title": "オーディオテクニカ AT875R ショットガンマイク XLR コンデンサーマイク ファンタム電源 放送 制作 カメラ 【国内正規品】",
+      "rating": 4.6,
+      "reviews": 827,
+      "price": 22222,
+      "image": "https://m.media-amazon.com/images/I/61y4gLYXY3L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 74,
+      "asin": "B07MJZ7XQ5",
+      "title": "Rosebe クリップマイク ピンマイク マイクロフォン 長さ120mm ジャック 3.5mm φプラグ iPhone/iPad/Android/カメラ 対応[ブラック]",
+      "rating": 3.4,
+      "reviews": 30,
+      "price": 990,
+      "image": "https://m.media-amazon.com/images/I/519DKvY-x6L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 75,
+      "asin": "B0FSZGKX8Q",
+      "title": "JP Number ピンマイク バス運転手 アナウンス 専用 後頭部掛け式 3.5mm／6.5mm変換プラグ付き",
+      "rating": 2.6,
+      "reviews": 4,
+      "price": 1649,
+      "image": "https://m.media-amazon.com/images/I/51qlMah0dqL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 76,
+      "asin": "B0051O2Y72",
+      "title": "ZeaLSound USBマイクセット、コンデンサーマイク、PCマイク、アームスタンド付属、カーディオイド指向性、プラグアンドプレイ、ワンタッチミュート、エコー機能、YouTube/Zoom/Tiktok/Skype録音、ゲームプレイ、ライブ配信、リモートワーク、オンライン会議に最適、Windows/MacOS/PS4/PS5に完全対応（黒）",
+      "rating": 4.6,
+      "reviews": 86,
+      "price": 5999,
+      "image": "https://m.media-amazon.com/images/I/818bflD3GSL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 77,
+      "asin": "B0C1Z5DWNJ",
+      "title": "ZeaLSound USBマイクセット、コンデンサーマイク、PCマイク、アームスタンド付属、カーディオイド指向性、プラグアンドプレイ、ワンタッチミュート、エコー機能、YouTube/Zoom/Tiktok/Skype録音、ゲームプレイ、ライブ配信、リモートワーク、オンライン会議に最適、Windows/MacOS/PS4/PS5に完全対応（黒）",
+      "rating": 4.2,
+      "reviews": 74,
+      "price": 5999,
+      "image": "https://m.media-amazon.com/images/I/71aAsc0WQkL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 78,
+      "asin": "B00IVPG0SW",
+      "title": "SHURE シュア SM35-XLR パフォーマンス用 ヘッドセット コンデンサーマイクロホン インラインRPM400プリアンプ （XLR接続変換用）付属 【国内正規品/メーカー保証2年】",
+      "rating": 4.3,
+      "reviews": 437,
+      "price": 26000,
+      "image": "https://m.media-amazon.com/images/I/51msJkZY3IL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 79,
+      "asin": "B08GYC4PGY",
+      "title": "路線バス運転手用ピンマイク ＨＭ?１００ (1枚)",
+      "rating": 4.4,
+      "reviews": 2,
+      "price": 1709,
+      "image": "https://m.media-amazon.com/images/I/61uCWAiqx3L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 80,
+      "asin": "B099NY1425",
+      "title": "路線バス運転手用ピンマイク ＨＭ?１００ (1枚)",
+      "rating": 3.6,
+      "reviews": 56,
+      "price": 1709,
+      "image": "https://m.media-amazon.com/images/I/615yzGNI7jL._AC_SL1500_.jpg"
+    }
+  ]
+}

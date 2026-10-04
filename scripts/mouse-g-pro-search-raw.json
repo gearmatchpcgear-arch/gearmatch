@@ -1,0 +1,1014 @@
+{
+  "fetchedAt": "2026-08-14T11:48:39.895Z",
+  "sourceUrl": "https://www.amazon.co.jp/gpro/s?k=gpro",
+  "totalPages": 1,
+  "scrapeMethod": "browser",
+  "mice": [
+    {
+      "amazonRank": 1,
+      "asin": "B0F5PV5B9D",
+      "image": "https://m.media-amazon.com/images/I/518phJVP92L._AC_SL1500_.jpg",
+      "price": 14300,
+      "rating": 4.8,
+      "reviews": 0,
+      "title": "【Set Purchase】【Amazon.co.jp Exclusive】Logicool G Pro 2 LIGHTSPEED Wireless Gaming Mouse G-PPD-002XWL-BKd 2.8 oz (80 g) Authentic Product *Includes Amazon Exclusive Wallpaper Download + Gaming Mouse",
+      "rank": 1
+    },
+    {
+      "amazonRank": 2,
+      "asin": "B0F5PYPCCK",
+      "image": "https://m.media-amazon.com/images/I/51N6VfkcKTL._AC_SL1500_.jpg",
+      "price": 23500,
+      "rating": 5,
+      "reviews": 0,
+      "title": "【Set Purchase】【Amazon.co.jp Exclusive】Logicool G 8000Hz Symmetric Left and Right PRO X SUPERLIGHT 2 Wireless Gaming Mouse G-PPD-004WL-BKd 60g Genuine Japanese Product *Amazon.co.jp Exclusive Wallpaper",
+      "rank": 2
+    },
+    {
+      "amazonRank": 4,
+      "asin": "B0F5PW7877",
+      "image": "https://m.media-amazon.com/images/I/51p8X10ljVL._AC_SL1500_.jpg",
+      "price": 23500,
+      "rating": 4,
+      "reviews": 0,
+      "title": "【Set Purchase】【Amazon.co.jp Exclusive】Logicool G 8000Hz Right Hand PRO X SUPERLIGHT 2 DEX Wireless Gaming Mouse GPROXSL-WLDEXBKd 60g Genuine Japanese Product *Includes Amazon Exclusive Wallpaper",
+      "rank": 3
+    },
+    {
+      "amazonRank": 5,
+      "asin": "B0D9VVJ967",
+      "image": "https://m.media-amazon.com/images/I/51tqDjEoETL._AC_SL1500_.jpg",
+      "price": 14200,
+      "rating": 4.4,
+      "reviews": 0,
+      "title": "【Amazon.co.jp Exclusive】 Logicool G PRO 2 LIGHTSPEED 44K DPI Wireless Gaming Mouse G-PPD-002XWL-BKd, Lightweight 2.8 oz (80 g), LIGHTFORCE Hybrid Switch, HERO2 Sensor, USB Type-C, 95 Hours of | ワイヤレス 44K DPI 軽量 80g LIGHTFORCE ハイブリッドスイッチ HERO2 センサー USB Type-C 95時間 POWERPLAY 充電 FPS ゲーミング マウス ブラック 壁紙ダウンロード付き 国内正規品",
+      "rank": 4
+    },
+    {
+      "amazonRank": 6,
+      "asin": "B0GGX35X72",
+      "image": "https://m.media-amazon.com/images/I/61bPoEYL6RL._AC_SL1500_.jpg",
+      "price": 26500,
+      "rating": 4.5,
+      "reviews": 0,
+      "title": "【Amazon.co.jp Exclusive】Logicool G RapidTrigger PRO X2 SUPERSTRIKE LIGHTSPEED Gaming Mouse G-PPD-004WL-STRKd 8000Hz Polling Rate Lightweight 2.15 oz (61 g) Haptic Induction Trigger System HITS USB | ラピッドトリガー 8000Hz ポーリングレート 軽量 61g ハプティック誘導トリガーシステム HITS 90時間 HERO2 USB Type-C 充電 POWERPLAY ワイヤレス ゲーミング マウス 壁紙ダウンロード付き 国内正規品",
+      "rank": 5
+    },
+    {
+      "amazonRank": 7,
+      "asin": "B0FPRQPGT7",
+      "image": "https://m.media-amazon.com/images/I/51nEL5eX9UL._AC_SL1500_.jpg",
+      "price": 16445,
+      "rating": 4.5,
+      "reviews": 0,
+      "title": "Logicool G PRO X SUPERLIGHT 2 SE 44K DPI Wireless Gaming Mouse G-PPD-004WLSE-BK, Lightweight 2.1 oz (60 g), LIGHTFORCE, Hybrid Switches, LIGHTSPEED HERO2 Sensor, USB Type-C, 88 Hours Continuous Use",
+      "rank": 6
+    },
+    {
+      "amazonRank": 8,
+      "asin": "B0DF2P3F6V",
+      "image": "https://m.media-amazon.com/images/I/51tqDjEoETL._AC_SL1500_.jpg",
+      "price": 13327,
+      "rating": 4.4,
+      "reviews": 0,
+      "title": "Logicool G PRO 2 LIGHTSPEED 44K DPI Wireless Gaming Mouse G-PPD-002XWL-BK, Lightweight 2.8 oz (80 g), LIGHTFORCE Hybrid Switch, HERO2 Sensor, USB Type-C, 95 Hours of Continuous Use, POWERPLAY Wireless",
+      "rank": 7
+    },
+    {
+      "amazonRank": 9,
+      "asin": "B0FPRZTG3G",
+      "image": "https://m.media-amazon.com/images/I/51yijJiwCqL._AC_SL1500_.jpg",
+      "price": 16445,
+      "rating": 4.5,
+      "reviews": 0,
+      "title": "Logicool G PRO X SUPERLIGHT 2 SE 44K DPI Wireless Gaming Mouse G-PPD-004WLSE-WH, Lightweight 2.1 oz (60 g), LIGHTFORCE, Hybrid Switch, LIGHTSPEED HERO2 Sensor, USB Type-C, 88 Hours Continuous Use",
+      "rank": 8
+    },
+    {
+      "amazonRank": 10,
+      "asin": "B0DF2B7TTJ",
+      "image": "https://m.media-amazon.com/images/I/51UonxhjjDL._AC_SL1500_.jpg",
+      "price": 13327,
+      "rating": 4.4,
+      "reviews": 0,
+      "title": "Logicool G PRO 2 Lightspeed 44K DPI Wireless Gaming Mouse G-PPD-002XWL-MG, Lightweight 2.8 oz (80 g), LIGHTFORCE Hybrid Switch, HERO2 Sensor, USB Type-C, 95 Hours of Continuous Use, Powerplay Wireless",
+      "rank": 9
+    },
+    {
+      "amazonRank": 12,
+      "asin": "B0DF2J64VN",
+      "image": "https://m.media-amazon.com/images/I/51YpsPns6tL._AC_SL1500_.jpg",
+      "price": 13327,
+      "rating": 4.4,
+      "reviews": 0,
+      "title": "Logicool G PRO 2 Lightspeed 44K DPI Wireless Gaming Mouse G-PPD-002XWL-WH, Lightweight 2.8 oz (80 g), LIGHTFORCE Hybrid Switch, HERO2 Sensor, USB Type-C, 95 Hours Continuous Use, Powerplay Wireless",
+      "rank": 10
+    },
+    {
+      "amazonRank": 13,
+      "asin": "B0D21Q6QG4",
+      "image": "https://m.media-amazon.com/images/I/51aHtlvwrGL._AC_SL1500_.jpg",
+      "price": 24500,
+      "rating": 4.5,
+      "reviews": 0,
+      "title": "【Amazon.co.jp限定】 Logicool G 8000Hz Left and Right Symmetric PRO X SUPERLIGHT 2 Wireless Gaming Mouse G-PPD-004WL-BKd 44K DPI 8K Polling Rate Lightweight 2.1 oz (60 g) LIGHTFORCE Hybrid Switch | 8000Hz ポーリングレート ワイヤレス 軽量 60g LIGHTFORCE ハイブリッドスイッチ HERO2 センサー USB Type-C 充電 POWERPLAY 対応 ゲーミング マウス ブラック 国内正規品 壁紙ダウンロード付き",
+      "rank": 11
+    },
+    {
+      "amazonRank": 14,
+      "asin": "B0GGWQ7HZ2",
+      "image": "https://m.media-amazon.com/images/I/61bPoEYL6RL._AC_SL1500_.jpg",
+      "price": 25800,
+      "rating": 4.5,
+      "reviews": 0,
+      "title": "Logicool G Rapid Trigger PRO X2 SUPERSTRIKE LIGHTSPEED Gaming Mouse, G-PPD-004WL-STRK 8000, Polling Rate, Lightweight, 2.2 oz (61 g), Haptic Induction Trigger System, HITS, 90 Hours Continuous Use | 8000Hz ポーリングレート 軽量 61g ハプティック誘導トリガーシステム HITS 90時間連続利用可能 HERO2 センサー USB Type-C 充電 POWERPLAY ワイヤレス ゲーミング マウス PC ホワイト 国内正規品",
+      "rank": 12
+    },
+    {
+      "amazonRank": 15,
+      "asin": "B0GTWJM48D",
+      "image": "https://m.media-amazon.com/images/I/510-BuaT96L._AC_SL1500_.jpg",
+      "price": 24500,
+      "rating": 4.4,
+      "reviews": 0,
+      "title": "Logicool G-PPD-004WL-CY G 8000Hz Polling Rate PRO X SUPERLIGHT 2 Wireless Gaming Mouse, Lightweight, 2.1 oz (60 g), LIGHTFORCE Hybrid Switch, LIGHTSPEED HERO2 Sensor, USB Type-C Charging, POWERPLAY | 軽量 60g LIGHTFORCE ハイブリッドスイッチ LIGHTSPEED HERO2 センサー USB Type-C 充電 POWERPLAY 対応 ゲーミング マウス シアン ブルー 国内正規品",
+      "rank": 13
+    },
+    {
+      "amazonRank": 16,
+      "asin": "B0D9VWPG1T",
+      "image": "https://m.media-amazon.com/images/I/61CFuum7uvL._AC_SL1500_.jpg",
+      "price": 24500,
+      "rating": 4.6,
+      "reviews": 0,
+      "title": "Logicool G Pro X Superlight 2 DEX Gaming Mouse GPROXSL-WLDEXBKd (Amazon.co.jp Exclusive) | 8000Hz ポーリングレート 右手 44K DPI ワイヤレス ゲーミング マウス エルゴノミクス 軽量 60g LIGHTFORCE ハイブリッドスイッチ LIGHTSPEED USB Type-C 充電 壁紙ダウンロード 国内正規品",
+      "rank": 14
+    },
+    {
+      "amazonRank": 17,
+      "asin": "B0CGR24WQH",
+      "image": "https://m.media-amazon.com/images/I/51Z7dYH0POL._AC_SL1500_.jpg",
+      "price": 21091,
+      "rating": 4.5,
+      "reviews": 0,
+      "title": "Logicool G PRO X SUPERLIGHT 2 G-PPD-004WL-MG Wireless Gaming Mouse, 4,000 Hz Polling Rate, Light, 2.1 oz (60 g), LIGHTFORCE Hybrid Switches, LIGHTSPEED, HERO 2 Sensor, USB Type-C Charging, Magenta | 軽量 60g LIGHTFORCE ハイブリッドスイッチ LIGHTSPEED HERO2 センサー USB Type-C 充電 POWERPLAY 対応 ゲーミング マウス マゼンタ ファイナルファンタジー XIV 推奨モデル 国内正規品",
+      "rank": 15
+    },
+    {
+      "amazonRank": 19,
+      "asin": "B0FG6M4DFP",
+      "image": "https://m.media-amazon.com/images/I/51nEL5eX9UL._AC_SL1500_.jpg",
+      "price": 18600,
+      "rating": 4.5,
+      "reviews": 0,
+      "title": "【Amazon.co.jp Exclusive】Logicool G PRO SUPERLIGHT Wireless Gaming Mouse G-PPD-004WLSE-BKd, Lightweight, Type-C Charging, Powerplay Compatible, Gaming Mouse, Rechargeable, Wireless, Authentic Japanese | 軽量 Type-C 充電 POWERPLAY 対応 ゲーミング マウス 充電式 無線 ブラック 壁紙ダウンロード付き 国内正規品",
+      "rank": 16
+    },
+    {
+      "amazonRank": 20,
+      "asin": "B08CKZNCPP",
+      "image": "https://m.media-amazon.com/images/I/3142nM2rNYL._AC_SL1500_.jpg",
+      "price": 12474,
+      "rating": 4.6,
+      "reviews": 0,
+      "title": "Logicool G Pro Lightspeed Wireless Gaming Mouse G-PPD-002WLr, Gaming Mouse, Lightweight 2.8 oz (80 g), HERO 25K Sensor, Powerplay Charging Compatible, Wireless, Symmetrical, FPS, PC, Windows, Mac",
+      "rank": 17
+    },
+    {
+      "amazonRank": 21,
+      "asin": "B07M5DK18R",
+      "image": "https://m.media-amazon.com/images/I/51ySu55JzAL._AC_SL1500_.jpg",
+      "price": 13500,
+      "rating": 4.5,
+      "reviews": 0,
+      "title": "Logitch Logitech G Pro Wireless Mouse LIGHTSPEED Wireless Gaming Mouse",
+      "rank": 18
+    },
+    {
+      "amazonRank": 22,
+      "asin": "B0FG74B2PC",
+      "image": "https://m.media-amazon.com/images/I/51Gn4GWV7mL._AC_SL1500_.jpg",
+      "price": 24500,
+      "rating": 4.4,
+      "reviews": 0,
+      "title": "Logicool G-PPD-004WLCO-BKd G-8000Hz Polling Rate, PRO X Superlight 2c Compact Wireless Gaming Mouse, Lightweight, 1.8 oz (51 g), LIGHTSPEED HERO2 Sensor, USB Type-C Charging, POWERPLAY, Black",
+      "rank": 19
+    },
+    {
+      "amazonRank": 23,
+      "asin": "B0CGR5B9FS",
+      "image": "https://m.media-amazon.com/images/I/51aHtlvwrGL._AC_SL1500_.jpg",
+      "price": 21091,
+      "rating": 4.5,
+      "reviews": 0,
+      "title": "Logicool G PRO X SUPERLIGHT 2 G-PPD-004WL-BK Wireless Gaming Mouse, 4,000 Hz Polling Rate, 2.1 oz (60 g), LIGHTFORCE Hybrid Switches, LIGHTSPEED, HERO 2 Sensor, USB Type-C Charging, Supports POWERPLAY | 軽量 60g LIGHTFORCE ハイブリッドスイッチ LIGHTSPEED HERO2 センサー USB Type-C 充電 POWERPLAY 対応 ゲーミング マウス ブラック ファイナルファンタジー XIV 推奨モデル 国内正規品",
+      "rank": 20
+    },
+    {
+      "amazonRank": 24,
+      "asin": "B08MVQ6G49",
+      "image": "https://m.media-amazon.com/images/I/61ykKLbddNL._AC_SL1500_.jpg",
+      "price": null,
+      "rating": 4.6,
+      "reviews": 0,
+      "title": "Logicool G PRO X SUPERLIGHT Wireless Gaming Mouse, G-PPD-003WL-WH, Under 2.2 oz (63 g), Lightweight, LIGHTSPEED, HERO 25K Sensor, POWERPLAY, Wireless, Charging Compatible, Gaming Mouse, White, PC",
+      "rank": 21
+    },
+    {
+      "amazonRank": 26,
+      "asin": "B0BHDHQTD8",
+      "image": "https://m.media-amazon.com/images/I/41mNB8ie0eL._AC_SL1500_.jpg",
+      "price": null,
+      "rating": 4.6,
+      "reviews": 0,
+      "title": "Logicool G PRO X Superlight Wireless Gaming Mouse, G-PPD-003WL-RD, Under 2.2 oz (63 g), Lightweight, LIGHTSPEED, HERO 25K Sensor, Powerplay, Wireless, Charging Compatible, Gaming Mouse, Red, for PC",
+      "rank": 22
+    },
+    {
+      "amazonRank": 27,
+      "asin": "B0FNMVZCP9",
+      "image": "https://m.media-amazon.com/images/I/51yLYGE4STL._AC_SL1500_.jpg",
+      "price": 22200,
+      "rating": 4.4,
+      "reviews": 0,
+      "title": "Logicool G-PPD-004WLCO-WH G 8,000 Hz Polling Rate PRO X SUPERLIGHT 2C Compact Wireless Gaming Mouse, Lightweight 1.8 oz (51 g) LightForce Hybrid Switch, Lightspeed Hero 2 Sensor, USB Type-C Charging",
+      "rank": 23
+    },
+    {
+      "amazonRank": 29,
+      "asin": "B0FNMYDBSX",
+      "image": "https://m.media-amazon.com/images/I/51Gn4GWV7mL._AC_SL1500_.jpg",
+      "price": 22200,
+      "rating": 4.4,
+      "reviews": 0,
+      "title": "Logicool G-PPD-004WLCO-BK G 8,000 Hz Polling Rate PRO X SUPERLIGHT 2C Compact Wireless Gaming Mouse, Lightweight, 1.8 oz (51 g), LightForce Hybrid Switch, LIGHTSPEED HERO2 Sensor, USB Type-C Charging",
+      "rank": 24
+    },
+    {
+      "amazonRank": 30,
+      "asin": "B07DVC25R2",
+      "image": "https://m.media-amazon.com/images/I/51uIMsNFRHL._AC_SL1500_.jpg",
+      "price": 4718,
+      "rating": 4.4,
+      "reviews": 0,
+      "title": "Logicool G Gaming Mouse G304 Lightspeed Wireless Gaming Mouse, Lightweight 3.5 oz (99 g), HERO 12K Sensor, 6 Programmable Buttons, 250 Hours of Continuous Use, Black, Compatible with PC, Windows, Mac",
+      "rank": 25
+    },
+    {
+      "amazonRank": 36,
+      "asin": "B0BC13CZ13",
+      "image": "https://m.media-amazon.com/images/I/3142nM2rNYL._AC_SL1500_.jpg",
+      "price": 15729,
+      "rating": 4.5,
+      "reviews": 0,
+      "title": "【Amazon.co.jp Exclusive】 Logicool G PRO LIGHTSPEED Wireless Gaming Mouse G-PPD-002WLrd, Lightweight 80g, HERO 25K Sensor, POWERPLAY Charging Compatible, Wireless, Symmetrical, FPS, PC, Windows, Mac",
+      "rank": 26
+    },
+    {
+      "amazonRank": 37,
+      "asin": "B08LVCQLSH",
+      "image": "https://m.media-amazon.com/images/I/41l9QIbAVSL._AC_SL1500_.jpg",
+      "price": null,
+      "rating": 4.6,
+      "reviews": 0,
+      "title": "Logicool G PRO X SUPERLIGHT Wireless Gaming Mouse G-PPD-003WL-BK, Lightweight, Less Than 2.2 oz (63 g), LIGHTSPEED, HERO 25K Sensor, POWERPLAY, Wireless, Charging Compatible, Gaming Mouse, Black, PC",
+      "rank": 27
+    },
+    {
+      "amazonRank": 43,
+      "asin": "B08CL19PSH",
+      "image": "https://m.media-amazon.com/images/I/41SoR5dfZbL._AC_SL1500_.jpg",
+      "price": null,
+      "rating": 4.4,
+      "reviews": 0,
+      "title": "Logicool G USB Pro Gaming Mouse, Wired, HERO 25K Sensor, For FPS, 2.9 oz (83 g), Lightweight, LIGHTSYNC RGB, 6 Program Buttons, G-PPD-001t, Authentic Japanese Product, Final Fantasy XIV Recommended",
+      "rank": 28
+    },
+    {
+      "amazonRank": 48,
+      "asin": "B0GJ92D4LY",
+      "image": "https://m.media-amazon.com/images/I/51d+ya-1cuL._AC_SL1500_.jpg",
+      "price": 11800,
+      "rating": 4.3,
+      "reviews": 0,
+      "title": "Logicool G Gaming Mouse, G304X Superlight Lightspeed Wireless Gaming Mouse, 2.0 oz (59 g), HERO 44K Sensor, LIGHTSYNC, RGB, 130 Hours of Continuous Usage, USB Type-C Charging, Bluetooth Compatible, PC | 軽量 59g HERO 44Kセンサー LIGHTSYNC RGB 130時間連続利用可能 LIGHTSPEED USB Type-C 充電 Bluetooth 対応 ゲーミング マウス PC ホワイト 壁紙ダウンロード付き 国内正規品",
+      "rank": 29
+    },
+    {
+      "amazonRank": 52,
+      "asin": "B0F32P4R9X",
+      "image": "https://m.media-amazon.com/images/I/51plZKLYfoL._AC_SL1500_.jpg",
+      "price": 17270,
+      "rating": 3.6,
+      "reviews": 0,
+      "title": "Logicool G PRO 2 LIGHTSPEED 44K DPI Wireless Gaming Mouse, G-PPD-002XWL-BKd, Lightweight, 2.8 oz (80 g), LIGHTFORCE Hybrid Switch, HERO2 Sensor, USB Type-C, 95 Hours Continuous Usage, Powerplay Charging, FPS",
+      "rank": 30
+    }
+  ],
+  "excluded": [
+    {
+      "amazonRank": 3,
+      "asin": "B07B9HR5CR",
+      "image": "https://m.media-amazon.com/images/I/61Xfc4ItK6L._AC_SL1500_.jpg",
+      "price": 34800,
+      "rating": 4.4,
+      "reviews": 0,
+      "title": "Logicool G29 Driving Force Shifter | PS5 PS4 PC ステアリングコントローラー レーシング ゲーム ハンドル ドライビングフォース 壁紙ダウンロード付き 国内正規品"
+    },
+    {
+      "amazonRank": 11,
+      "asin": "B0H3ZPN3QT",
+      "image": "https://m.media-amazon.com/images/I/61wGNoK9XNL._AC_SL1500_.jpg",
+      "price": 8980,
+      "rating": 4.5,
+      "reviews": 0,
+      "title": "Philips SPK7858 Wireless Mouse, Bluetooth 5.0, USB-C USB-A Compatible, Quiet, Rechargeable, Up to 100 Hours of Use, Side Wheel, Side Scroll, 7 Buttons, 3D Wheel, 5 Level DPI Switching, Right-Handed"
+    },
+    {
+      "amazonRank": 18,
+      "asin": "B0GSV7FZ5G",
+      "image": "https://m.media-amazon.com/images/I/41aQwvJzAUL._AC_SL1500_.jpg",
+      "price": 25300,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Logicool G Rapid Trigger PRO X2 SUPERSTRIKE LIGHTSPEED Gaming Mouse + Mouse Pad G240 Cloth Surface [G-PPD-004WL-STRKd + G240f] 8000Hz Polling Rate, Lightweight, 61g Haptic Induction Trigger System, USB Type-C Charging, Black Genuine Product"
+    },
+    {
+      "amazonRank": 25,
+      "asin": "B0BC135WFD",
+      "image": "https://m.media-amazon.com/images/I/61eSkWURkIL._AC_SL1500_.jpg",
+      "price": 14108,
+      "rating": 4.4,
+      "reviews": 0,
+      "title": "Logicool G PRO G-PKB-002LNd Gaming Keyboard, Numeric Keyless, Linear Red Axe, Japanese Layout | 静かなタイピング GXスイッチ 有線 メカニカルキーボード LIGHTSYNC RGB 充電 着脱式ケーブル ブラック ゲーミング キーボード 壁紙ダウンロード付き 国内正規品"
+    },
+    {
+      "amazonRank": 31,
+      "asin": "B0BC142H1L",
+      "image": "https://m.media-amazon.com/images/I/51wwGHhv+lL._AC_SL1500_.jpg",
+      "price": 13764,
+      "rating": 4.2,
+      "reviews": 0,
+      "title": "【Amazon.co.jp限定】Logicool G PRO X Gaming Headset G-PHS-003d Gaming Headset Dolby 7.1ch Surround Sound 3.5mm Wired with Microphone Blue VO!CE Equipped Lightweight Headphones Headphones PS5 PS4 PC Switch | 7.1ch サラウンドサウンド Dolby 3.5mm 有線 マイク付き Blue VO!CE搭載 軽量 ヘッドホン ヘッドフォン PS5 PS4 PC Switch 2 ゲーミング ヘッドセットブラック 壁紙ダウンロード付き 国内正規品"
+    },
+    {
+      "amazonRank": 32,
+      "asin": "B09Q8BJNW1",
+      "image": "https://m.media-amazon.com/images/I/61iNMHtOckL._AC_SL1500_.jpg",
+      "price": 11645,
+      "rating": 4.6,
+      "reviews": 0,
+      "title": "Logicool G PRO Gaming Keyboard, Tenkeyless, GX Switch, Linear, Wired, Mechanical Keyboard, Silent, Japanese Layout, LIGHTSYNC RGB, Detachable Cable, G-PKB-002LN Authentic Japanese Product"
+    },
+    {
+      "amazonRank": 33,
+      "asin": "B07SYKKP47",
+      "image": "https://m.media-amazon.com/images/I/41I--98xeJL._AC_SL1500_.jpg",
+      "price": 8455,
+      "rating": 4.6,
+      "reviews": 0,
+      "title": "Logicool G Wireless Gaming Mouse G703h Lightspeed HERO 25K Sensor Ergonomics LIGHTSYNC RGB Powerplay Wireless Charging Compatible Gaming Mouse Rechargeable Wireless PC Windows Mac Black G703 Authentic"
+    },
+    {
+      "amazonRank": 34,
+      "asin": "B0D9VVL9DY",
+      "image": "https://m.media-amazon.com/images/I/61+9VKaKYIL._AC_SL1500_.jpg",
+      "price": 25980,
+      "rating": 4.4,
+      "reviews": 0,
+      "title": "【Amazon.co.jp限定】Logicool G Rapid Trigger PRO X TKL RAPID Gaming Keyboard, Adjustable Actuation Point, 35g Pressure, Japanese Layout, G-PKB-TKL-RTBKd, Wired, Tenkeyless, Magnetic Analog Switch, Gaming | ラピッドトリガー アクチュエーションポイント 調整可能 押下圧 35g 日本語配列 有線 テンキーレス 磁気式アナログスイッチ ゲーミング キーボード メカニカルキーボード ブラック 壁紙ダウンロード付き 国内正規品"
+    },
+    {
+      "amazonRank": 35,
+      "asin": "B09Q83ZRZW",
+      "image": "https://m.media-amazon.com/images/I/61Y+YG99t9L._AC_SL1500_.jpg",
+      "price": 11000,
+      "rating": 4.4,
+      "reviews": 0,
+      "title": "Logicool G PRO Gaming Keyboard, Tenkeyless, GX Switch, Clicky, Wired, Mechanical Keyboard, Silent, Japanese Layout, LIGHTSYNC RGB, Detachable Cable, G-PKB-002CK, Authentic Japanese Product"
+    },
+    {
+      "amazonRank": 38,
+      "asin": "B0DQSZ16RW",
+      "image": "https://m.media-amazon.com/images/I/61K8lre00RL._AC_SL1500_.jpg",
+      "price": 4200,
+      "rating": 3.8,
+      "reviews": 0,
+      "title": "Logicool G 8000Hz PRO LIGHTSPEED Wireless 8K Polling Rate USB Receiver G-PRO-WL-4KRC Gaming Mouse PRO 2 LIGHTSPEED/PRO X SUPERLIGHT 2 / PRO X SUPERLIGHT DEX Compatible Gaming Mouse Dongle Domestic"
+    },
+    {
+      "amazonRank": 39,
+      "asin": "B0CWHKJ79R",
+      "image": "https://m.media-amazon.com/images/I/61tiD1zEJ5L._AC_SL1500_.jpg",
+      "price": 1280,
+      "rating": 3.6,
+      "reviews": 0,
+      "title": "PTFE Mouse Sole for SURUGA Logicool G PRO X SUPERLIGHT2, G PRO X2 SUPERSTRIKE | For Gaming, Gaming Mouse, Smooth Gliding Surface, Improve Mouse Speed, Rounded Edge, Reduce Snagging with Mouse Pad"
+    },
+    {
+      "amazonRank": 40,
+      "asin": "B0D21R5317",
+      "image": "https://m.media-amazon.com/images/I/71wiPhSQnVL._AC_SL1500_.jpg",
+      "price": 31879,
+      "rating": 4.3,
+      "reviews": 0,
+      "title": "【Amazon.co.jp Exclusive】 Logicool G PRO X 2 LIGHTSPEED Wireless Gaming Headset G-PHS-005WLBKd with Graphene Drivers, Built-in Microphone, Bluetooth, 3.5mm Wired Support, Dolby 7.1ch, 50 Hours of | グラフェンドライバー 搭載 マイク付き ワイヤレス Bluetooth 3.5mm 有線 Dolby 7.1ch 50時間連続使用可能 軽量 PS5 PS4 Switch2 ブラック 壁紙ダウンロード付き 国内正規品"
+    },
+    {
+      "amazonRank": 41,
+      "asin": "B0CKT4ZRFH",
+      "image": "https://m.media-amazon.com/images/I/41rdkEkcXHL._AC_SL1500_.jpg",
+      "price": 1300,
+      "rating": 4.2,
+      "reviews": 0,
+      "title": "EsportsTiger Mouse Sole, ICE Mouse Feet, Logicool G PRO X2, Superstrike, Lightspeed/G PRO X, Superlight 2, Wireless, White, Ice Gaming Mouse, Enhanced Slide, 1 Set, Random Shipping"
+    },
+    {
+      "amazonRank": 44,
+      "asin": "B0DXQGCKJP",
+      "image": "https://m.media-amazon.com/images/I/51SWqGeCl3L._AC_SL1500_.jpg",
+      "price": 16800,
+      "rating": 4.2,
+      "reviews": 0,
+      "title": "Logicool G Gaming Mouse Pad POWERPLAY 2 Wireless Charging System G-PMP-SE-001 Cross Surface Gaming Mouse PRO X SUPERLIGHT 2 / G PRO SUPERLIGHT DEX / G502XWL / G703h / G309WL Compatible Domestic"
+    },
+    {
+      "amazonRank": 45,
+      "asin": "B0DFY27SBD",
+      "image": "https://m.media-amazon.com/images/I/71MzHR9SlcL._AC_SL1500_.jpg",
+      "price": 1780,
+      "rating": 4.4,
+      "reviews": 0,
+      "title": "【E-sports Team Exclusive Development】REJECT Mouse Grip Grip Tape YOROI Universal Mouse Anti-slip Gaming Mouse for FPS PC Games UNIVERSAL GRIP TAPE \"YOROI\" (Pre-cut for Gaming Mouse)"
+    },
+    {
+      "amazonRank": 46,
+      "asin": "B08VS7T3V1",
+      "image": "https://m.media-amazon.com/images/I/71RUV3DF6+L._AC_SL1500_.jpg",
+      "price": 1480,
+      "rating": 4.4,
+      "reviews": 0,
+      "title": "Hotline Games 2.0 PLUS Anti Slip Tape for Logicool G PRO X Superlight Wireless Logitech G PRO X Superlight Wireless GPRO X Superlight Wireless GPRO X Superlight Wireless Mouse Gaming Mice - Non-slip Grip Tape Pre-Cut - 1 Set"
+    },
+    {
+      "amazonRank": 47,
+      "asin": "B0DRNRHN2D",
+      "image": "https://m.media-amazon.com/images/I/51rRz7qVr+L._AC_SL1500_.jpg",
+      "price": 14980,
+      "rating": 4.6,
+      "reviews": 0,
+      "title": "AIM1 Shigure Black Gaming Mouse, Wireless Mouse, Symmetrical, 1.6 oz (45 g), Polling Rate, 8,000 Hz, 26,000 DPI, PAW3395, 80 Hours of Operation, Supports Wireless/Wired"
+    },
+    {
+      "amazonRank": 49,
+      "asin": "B0GCC7TQ3D",
+      "image": "https://m.media-amazon.com/images/I/61fPqQWtXfL._AC_SL1500_.jpg",
+      "price": 17480,
+      "rating": 4.7,
+      "reviews": 0,
+      "title": "Razer Viper V3 Pro SE Gaming Mouse, 1000Hz Dongle Included, Wireless, Ultra Lightweight 2.0 oz (54 g), 2nd Generation Focus Pro 35K Sensor, 35000DPI Up to 95 Hours of Operation, High Speed Wireless, Optical Switch, 6 Buttons, USB Type C Cable - PVC, Viper, Buisley Pro ESE"
+    },
+    {
+      "amazonRank": 50,
+      "asin": "B0GLM7WKVH",
+      "image": "https://m.media-amazon.com/images/I/71UvLd6bHAL._AC_SL1500_.jpg",
+      "price": 26980,
+      "rating": 4.4,
+      "reviews": 0,
+      "title": "Razer Viper V4 Pro Gaming Mouse, 1.7 oz (49 g), Ultra Lightweight, 8,000 Hz Dongle Included, Wireless, HyperSpeed Wireless, 3rd Generation, Razer Focus Pro, Optical Sensor, 50,000 DPI, 4th Generation"
+    },
+    {
+      "amazonRank": 51,
+      "asin": "B0FB31J9NZ",
+      "image": "https://m.media-amazon.com/images/I/61QQdadfqYL._AC_SL1500_.jpg",
+      "price": 2980,
+      "rating": 4.2,
+      "reviews": 0,
+      "title": "Mouse Sole for Logicool G PRO X SUPERLIGHT2 Wireless Gaming Mouse with Super Round Edge Processing, Professional Specifications (G PRO X SUPERLIGHT2, FUJI_WHITE (Glass Material)) | Gaming, Gaming Mouse, Durable Glass Material, Low Coefficient of Friction, Super Round Edge, Reduce Snagging with Mouse Pad"
+    },
+    {
+      "amazonRank": 53,
+      "asin": "B0CGRQ4ML7",
+      "image": "https://m.media-amazon.com/images/I/61yEFE4pA-L._AC_SL1500_.jpg",
+      "price": 21091,
+      "rating": 4.4,
+      "reviews": 0,
+      "title": "Logicool G PRO X TKL LIGHTSPEED Wireless Gaming Keyboard, Tenkeyless, GX Switch, Linear Mechanical Keyboard, Bluetooth, Silent, Japanese Layout, LIGHTSYNC RGB, Detachable Cable, Black, Authentic"
+    },
+    {
+      "amazonRank": 54,
+      "asin": "B0G7ZGXWS6",
+      "image": "https://m.media-amazon.com/images/I/71sdqdRkwsL._AC_SL1500_.jpg",
+      "price": 19400,
+      "rating": 4.7,
+      "reviews": 0,
+      "title": "Logitech MX Master 4 Advanced Wireless Mouse, Quiet, Rechargeable, Wireless, MX2400, Graphite, Japanese Official Product *Amazon.co.jp Limited Includes Wallpaper Download + MP10GR Mouse Pad, Water"
+    },
+    {
+      "amazonRank": 55,
+      "asin": "B0GD7HD23X",
+      "image": "https://m.media-amazon.com/images/I/71IrsnvrYuL._AC_SL1500_.jpg",
+      "price": 8400,
+      "rating": 3.9,
+      "reviews": 0,
+      "title": "【Amazon.co.jp Exclusive】 Logitech Quiet Wireless Trackball Mouse M575SPd + Mouse Pad MP10GR [ M575SPd + MP10GR ] Bluetooth Logibolt Wireless Windows Mac iPad OS Chrome Black M575 M575SP Genuine"
+    },
+    {
+      "amazonRank": 56,
+      "asin": "B0H69JYZ9K",
+      "image": "https://m.media-amazon.com/images/I/61p2BvrH9mL._AC_SL1500_.jpg",
+      "price": 4686,
+      "rating": 4.9,
+      "reviews": 0,
+      "title": "フィリップス EVNIA ワイヤレス ゲーミングマウス SPK9618 黒 53g 超軽量 最大16K DPI 1Kポーリングレート 左右対称 充電式 | 無線/有線両対応 Bluetooth/2.4g/USB-C接続 ６段階DPI調節 1ms低遅延 6個プログラムボタン サイドボタン付き エルゴノミクス 両手利き 高耐久 PC windows mac用 ゲーム用 Type-C充電 最大70時間動作"
+    }
+  ],
+  "raw": [
+    {
+      "amazonRank": 1,
+      "asin": "B0F5PV5B9D",
+      "image": "https://m.media-amazon.com/images/I/518phJVP92L._AC_SL1500_.jpg",
+      "price": 14300,
+      "rating": 4.8,
+      "reviews": 0,
+      "title": "【Set Purchase】【Amazon.co.jp Exclusive】Logicool G Pro 2 LIGHTSPEED Wireless Gaming Mouse G-PPD-002XWL-BKd 2.8 oz (80 g) Authentic Product *Includes Amazon Exclusive Wallpaper Download + Gaming Mouse"
+    },
+    {
+      "amazonRank": 2,
+      "asin": "B0F5PYPCCK",
+      "image": "https://m.media-amazon.com/images/I/51N6VfkcKTL._AC_SL1500_.jpg",
+      "price": 23500,
+      "rating": 5,
+      "reviews": 0,
+      "title": "【Set Purchase】【Amazon.co.jp Exclusive】Logicool G 8000Hz Symmetric Left and Right PRO X SUPERLIGHT 2 Wireless Gaming Mouse G-PPD-004WL-BKd 60g Genuine Japanese Product *Amazon.co.jp Exclusive Wallpaper"
+    },
+    {
+      "amazonRank": 3,
+      "asin": "B07B9HR5CR",
+      "image": "https://m.media-amazon.com/images/I/61Xfc4ItK6L._AC_SL1500_.jpg",
+      "price": 34800,
+      "rating": 4.4,
+      "reviews": 0,
+      "title": "Logicool G29 Driving Force Shifter | PS5 PS4 PC ステアリングコントローラー レーシング ゲーム ハンドル ドライビングフォース 壁紙ダウンロード付き 国内正規品"
+    },
+    {
+      "amazonRank": 4,
+      "asin": "B0F5PW7877",
+      "image": "https://m.media-amazon.com/images/I/51p8X10ljVL._AC_SL1500_.jpg",
+      "price": 23500,
+      "rating": 4,
+      "reviews": 0,
+      "title": "【Set Purchase】【Amazon.co.jp Exclusive】Logicool G 8000Hz Right Hand PRO X SUPERLIGHT 2 DEX Wireless Gaming Mouse GPROXSL-WLDEXBKd 60g Genuine Japanese Product *Includes Amazon Exclusive Wallpaper"
+    },
+    {
+      "amazonRank": 5,
+      "asin": "B0D9VVJ967",
+      "image": "https://m.media-amazon.com/images/I/51tqDjEoETL._AC_SL1500_.jpg",
+      "price": 14200,
+      "rating": 4.4,
+      "reviews": 0,
+      "title": "【Amazon.co.jp Exclusive】 Logicool G PRO 2 LIGHTSPEED 44K DPI Wireless Gaming Mouse G-PPD-002XWL-BKd, Lightweight 2.8 oz (80 g), LIGHTFORCE Hybrid Switch, HERO2 Sensor, USB Type-C, 95 Hours of | ワイヤレス 44K DPI 軽量 80g LIGHTFORCE ハイブリッドスイッチ HERO2 センサー USB Type-C 95時間 POWERPLAY 充電 FPS ゲーミング マウス ブラック 壁紙ダウンロード付き 国内正規品"
+    },
+    {
+      "amazonRank": 6,
+      "asin": "B0GGX35X72",
+      "image": "https://m.media-amazon.com/images/I/61bPoEYL6RL._AC_SL1500_.jpg",
+      "price": 26500,
+      "rating": 4.5,
+      "reviews": 0,
+      "title": "【Amazon.co.jp Exclusive】Logicool G RapidTrigger PRO X2 SUPERSTRIKE LIGHTSPEED Gaming Mouse G-PPD-004WL-STRKd 8000Hz Polling Rate Lightweight 2.15 oz (61 g) Haptic Induction Trigger System HITS USB | ラピッドトリガー 8000Hz ポーリングレート 軽量 61g ハプティック誘導トリガーシステム HITS 90時間 HERO2 USB Type-C 充電 POWERPLAY ワイヤレス ゲーミング マウス 壁紙ダウンロード付き 国内正規品"
+    },
+    {
+      "amazonRank": 7,
+      "asin": "B0FPRQPGT7",
+      "image": "https://m.media-amazon.com/images/I/51nEL5eX9UL._AC_SL1500_.jpg",
+      "price": 16445,
+      "rating": 4.5,
+      "reviews": 0,
+      "title": "Logicool G PRO X SUPERLIGHT 2 SE 44K DPI Wireless Gaming Mouse G-PPD-004WLSE-BK, Lightweight 2.1 oz (60 g), LIGHTFORCE, Hybrid Switches, LIGHTSPEED HERO2 Sensor, USB Type-C, 88 Hours Continuous Use"
+    },
+    {
+      "amazonRank": 8,
+      "asin": "B0DF2P3F6V",
+      "image": "https://m.media-amazon.com/images/I/51tqDjEoETL._AC_SL1500_.jpg",
+      "price": 13327,
+      "rating": 4.4,
+      "reviews": 0,
+      "title": "Logicool G PRO 2 LIGHTSPEED 44K DPI Wireless Gaming Mouse G-PPD-002XWL-BK, Lightweight 2.8 oz (80 g), LIGHTFORCE Hybrid Switch, HERO2 Sensor, USB Type-C, 95 Hours of Continuous Use, POWERPLAY Wireless"
+    },
+    {
+      "amazonRank": 9,
+      "asin": "B0FPRZTG3G",
+      "image": "https://m.media-amazon.com/images/I/51yijJiwCqL._AC_SL1500_.jpg",
+      "price": 16445,
+      "rating": 4.5,
+      "reviews": 0,
+      "title": "Logicool G PRO X SUPERLIGHT 2 SE 44K DPI Wireless Gaming Mouse G-PPD-004WLSE-WH, Lightweight 2.1 oz (60 g), LIGHTFORCE, Hybrid Switch, LIGHTSPEED HERO2 Sensor, USB Type-C, 88 Hours Continuous Use"
+    },
+    {
+      "amazonRank": 10,
+      "asin": "B0DF2B7TTJ",
+      "image": "https://m.media-amazon.com/images/I/51UonxhjjDL._AC_SL1500_.jpg",
+      "price": 13327,
+      "rating": 4.4,
+      "reviews": 0,
+      "title": "Logicool G PRO 2 Lightspeed 44K DPI Wireless Gaming Mouse G-PPD-002XWL-MG, Lightweight 2.8 oz (80 g), LIGHTFORCE Hybrid Switch, HERO2 Sensor, USB Type-C, 95 Hours of Continuous Use, Powerplay Wireless"
+    },
+    {
+      "amazonRank": 11,
+      "asin": "B0H3ZPN3QT",
+      "image": "https://m.media-amazon.com/images/I/61wGNoK9XNL._AC_SL1500_.jpg",
+      "price": 8980,
+      "rating": 4.5,
+      "reviews": 0,
+      "title": "Philips SPK7858 Wireless Mouse, Bluetooth 5.0, USB-C USB-A Compatible, Quiet, Rechargeable, Up to 100 Hours of Use, Side Wheel, Side Scroll, 7 Buttons, 3D Wheel, 5 Level DPI Switching, Right-Handed"
+    },
+    {
+      "amazonRank": 12,
+      "asin": "B0DF2J64VN",
+      "image": "https://m.media-amazon.com/images/I/51YpsPns6tL._AC_SL1500_.jpg",
+      "price": 13327,
+      "rating": 4.4,
+      "reviews": 0,
+      "title": "Logicool G PRO 2 Lightspeed 44K DPI Wireless Gaming Mouse G-PPD-002XWL-WH, Lightweight 2.8 oz (80 g), LIGHTFORCE Hybrid Switch, HERO2 Sensor, USB Type-C, 95 Hours Continuous Use, Powerplay Wireless"
+    },
+    {
+      "amazonRank": 13,
+      "asin": "B0D21Q6QG4",
+      "image": "https://m.media-amazon.com/images/I/51aHtlvwrGL._AC_SL1500_.jpg",
+      "price": 24500,
+      "rating": 4.5,
+      "reviews": 0,
+      "title": "【Amazon.co.jp限定】 Logicool G 8000Hz Left and Right Symmetric PRO X SUPERLIGHT 2 Wireless Gaming Mouse G-PPD-004WL-BKd 44K DPI 8K Polling Rate Lightweight 2.1 oz (60 g) LIGHTFORCE Hybrid Switch | 8000Hz ポーリングレート ワイヤレス 軽量 60g LIGHTFORCE ハイブリッドスイッチ HERO2 センサー USB Type-C 充電 POWERPLAY 対応 ゲーミング マウス ブラック 国内正規品 壁紙ダウンロード付き"
+    },
+    {
+      "amazonRank": 14,
+      "asin": "B0GGWQ7HZ2",
+      "image": "https://m.media-amazon.com/images/I/61bPoEYL6RL._AC_SL1500_.jpg",
+      "price": 25800,
+      "rating": 4.5,
+      "reviews": 0,
+      "title": "Logicool G Rapid Trigger PRO X2 SUPERSTRIKE LIGHTSPEED Gaming Mouse, G-PPD-004WL-STRK 8000, Polling Rate, Lightweight, 2.2 oz (61 g), Haptic Induction Trigger System, HITS, 90 Hours Continuous Use | 8000Hz ポーリングレート 軽量 61g ハプティック誘導トリガーシステム HITS 90時間連続利用可能 HERO2 センサー USB Type-C 充電 POWERPLAY ワイヤレス ゲーミング マウス PC ホワイト 国内正規品"
+    },
+    {
+      "amazonRank": 15,
+      "asin": "B0GTWJM48D",
+      "image": "https://m.media-amazon.com/images/I/510-BuaT96L._AC_SL1500_.jpg",
+      "price": 24500,
+      "rating": 4.4,
+      "reviews": 0,
+      "title": "Logicool G-PPD-004WL-CY G 8000Hz Polling Rate PRO X SUPERLIGHT 2 Wireless Gaming Mouse, Lightweight, 2.1 oz (60 g), LIGHTFORCE Hybrid Switch, LIGHTSPEED HERO2 Sensor, USB Type-C Charging, POWERPLAY | 軽量 60g LIGHTFORCE ハイブリッドスイッチ LIGHTSPEED HERO2 センサー USB Type-C 充電 POWERPLAY 対応 ゲーミング マウス シアン ブルー 国内正規品"
+    },
+    {
+      "amazonRank": 16,
+      "asin": "B0D9VWPG1T",
+      "image": "https://m.media-amazon.com/images/I/61CFuum7uvL._AC_SL1500_.jpg",
+      "price": 24500,
+      "rating": 4.6,
+      "reviews": 0,
+      "title": "Logicool G Pro X Superlight 2 DEX Gaming Mouse GPROXSL-WLDEXBKd (Amazon.co.jp Exclusive) | 8000Hz ポーリングレート 右手 44K DPI ワイヤレス ゲーミング マウス エルゴノミクス 軽量 60g LIGHTFORCE ハイブリッドスイッチ LIGHTSPEED USB Type-C 充電 壁紙ダウンロード 国内正規品"
+    },
+    {
+      "amazonRank": 17,
+      "asin": "B0CGR24WQH",
+      "image": "https://m.media-amazon.com/images/I/51Z7dYH0POL._AC_SL1500_.jpg",
+      "price": 21091,
+      "rating": 4.5,
+      "reviews": 0,
+      "title": "Logicool G PRO X SUPERLIGHT 2 G-PPD-004WL-MG Wireless Gaming Mouse, 4,000 Hz Polling Rate, Light, 2.1 oz (60 g), LIGHTFORCE Hybrid Switches, LIGHTSPEED, HERO 2 Sensor, USB Type-C Charging, Magenta | 軽量 60g LIGHTFORCE ハイブリッドスイッチ LIGHTSPEED HERO2 センサー USB Type-C 充電 POWERPLAY 対応 ゲーミング マウス マゼンタ ファイナルファンタジー XIV 推奨モデル 国内正規品"
+    },
+    {
+      "amazonRank": 18,
+      "asin": "B0GSV7FZ5G",
+      "image": "https://m.media-amazon.com/images/I/41aQwvJzAUL._AC_SL1500_.jpg",
+      "price": 25300,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Logicool G Rapid Trigger PRO X2 SUPERSTRIKE LIGHTSPEED Gaming Mouse + Mouse Pad G240 Cloth Surface [G-PPD-004WL-STRKd + G240f] 8000Hz Polling Rate, Lightweight, 61g Haptic Induction Trigger System, USB Type-C Charging, Black Genuine Product"
+    },
+    {
+      "amazonRank": 19,
+      "asin": "B0FG6M4DFP",
+      "image": "https://m.media-amazon.com/images/I/51nEL5eX9UL._AC_SL1500_.jpg",
+      "price": 18600,
+      "rating": 4.5,
+      "reviews": 0,
+      "title": "【Amazon.co.jp Exclusive】Logicool G PRO SUPERLIGHT Wireless Gaming Mouse G-PPD-004WLSE-BKd, Lightweight, Type-C Charging, Powerplay Compatible, Gaming Mouse, Rechargeable, Wireless, Authentic Japanese | 軽量 Type-C 充電 POWERPLAY 対応 ゲーミング マウス 充電式 無線 ブラック 壁紙ダウンロード付き 国内正規品"
+    },
+    {
+      "amazonRank": 20,
+      "asin": "B08CKZNCPP",
+      "image": "https://m.media-amazon.com/images/I/3142nM2rNYL._AC_SL1500_.jpg",
+      "price": 12474,
+      "rating": 4.6,
+      "reviews": 0,
+      "title": "Logicool G Pro Lightspeed Wireless Gaming Mouse G-PPD-002WLr, Gaming Mouse, Lightweight 2.8 oz (80 g), HERO 25K Sensor, Powerplay Charging Compatible, Wireless, Symmetrical, FPS, PC, Windows, Mac"
+    },
+    {
+      "amazonRank": 21,
+      "asin": "B07M5DK18R",
+      "image": "https://m.media-amazon.com/images/I/51ySu55JzAL._AC_SL1500_.jpg",
+      "price": 13500,
+      "rating": 4.5,
+      "reviews": 0,
+      "title": "Logitch Logitech G Pro Wireless Mouse LIGHTSPEED Wireless Gaming Mouse"
+    },
+    {
+      "amazonRank": 22,
+      "asin": "B0FG74B2PC",
+      "image": "https://m.media-amazon.com/images/I/51Gn4GWV7mL._AC_SL1500_.jpg",
+      "price": 24500,
+      "rating": 4.4,
+      "reviews": 0,
+      "title": "Logicool G-PPD-004WLCO-BKd G-8000Hz Polling Rate, PRO X Superlight 2c Compact Wireless Gaming Mouse, Lightweight, 1.8 oz (51 g), LIGHTSPEED HERO2 Sensor, USB Type-C Charging, POWERPLAY, Black"
+    },
+    {
+      "amazonRank": 23,
+      "asin": "B0CGR5B9FS",
+      "image": "https://m.media-amazon.com/images/I/51aHtlvwrGL._AC_SL1500_.jpg",
+      "price": 21091,
+      "rating": 4.5,
+      "reviews": 0,
+      "title": "Logicool G PRO X SUPERLIGHT 2 G-PPD-004WL-BK Wireless Gaming Mouse, 4,000 Hz Polling Rate, 2.1 oz (60 g), LIGHTFORCE Hybrid Switches, LIGHTSPEED, HERO 2 Sensor, USB Type-C Charging, Supports POWERPLAY | 軽量 60g LIGHTFORCE ハイブリッドスイッチ LIGHTSPEED HERO2 センサー USB Type-C 充電 POWERPLAY 対応 ゲーミング マウス ブラック ファイナルファンタジー XIV 推奨モデル 国内正規品"
+    },
+    {
+      "amazonRank": 24,
+      "asin": "B08MVQ6G49",
+      "image": "https://m.media-amazon.com/images/I/61ykKLbddNL._AC_SL1500_.jpg",
+      "price": null,
+      "rating": 4.6,
+      "reviews": 0,
+      "title": "Logicool G PRO X SUPERLIGHT Wireless Gaming Mouse, G-PPD-003WL-WH, Under 2.2 oz (63 g), Lightweight, LIGHTSPEED, HERO 25K Sensor, POWERPLAY, Wireless, Charging Compatible, Gaming Mouse, White, PC"
+    },
+    {
+      "amazonRank": 25,
+      "asin": "B0BC135WFD",
+      "image": "https://m.media-amazon.com/images/I/61eSkWURkIL._AC_SL1500_.jpg",
+      "price": 14108,
+      "rating": 4.4,
+      "reviews": 0,
+      "title": "Logicool G PRO G-PKB-002LNd Gaming Keyboard, Numeric Keyless, Linear Red Axe, Japanese Layout | 静かなタイピング GXスイッチ 有線 メカニカルキーボード LIGHTSYNC RGB 充電 着脱式ケーブル ブラック ゲーミング キーボード 壁紙ダウンロード付き 国内正規品"
+    },
+    {
+      "amazonRank": 26,
+      "asin": "B0BHDHQTD8",
+      "image": "https://m.media-amazon.com/images/I/41mNB8ie0eL._AC_SL1500_.jpg",
+      "price": null,
+      "rating": 4.6,
+      "reviews": 0,
+      "title": "Logicool G PRO X Superlight Wireless Gaming Mouse, G-PPD-003WL-RD, Under 2.2 oz (63 g), Lightweight, LIGHTSPEED, HERO 25K Sensor, Powerplay, Wireless, Charging Compatible, Gaming Mouse, Red, for PC"
+    },
+    {
+      "amazonRank": 27,
+      "asin": "B0FNMVZCP9",
+      "image": "https://m.media-amazon.com/images/I/51yLYGE4STL._AC_SL1500_.jpg",
+      "price": 22200,
+      "rating": 4.4,
+      "reviews": 0,
+      "title": "Logicool G-PPD-004WLCO-WH G 8,000 Hz Polling Rate PRO X SUPERLIGHT 2C Compact Wireless Gaming Mouse, Lightweight 1.8 oz (51 g) LightForce Hybrid Switch, Lightspeed Hero 2 Sensor, USB Type-C Charging"
+    },
+    {
+      "amazonRank": 29,
+      "asin": "B0FNMYDBSX",
+      "image": "https://m.media-amazon.com/images/I/51Gn4GWV7mL._AC_SL1500_.jpg",
+      "price": 22200,
+      "rating": 4.4,
+      "reviews": 0,
+      "title": "Logicool G-PPD-004WLCO-BK G 8,000 Hz Polling Rate PRO X SUPERLIGHT 2C Compact Wireless Gaming Mouse, Lightweight, 1.8 oz (51 g), LightForce Hybrid Switch, LIGHTSPEED HERO2 Sensor, USB Type-C Charging"
+    },
+    {
+      "amazonRank": 30,
+      "asin": "B07DVC25R2",
+      "image": "https://m.media-amazon.com/images/I/51uIMsNFRHL._AC_SL1500_.jpg",
+      "price": 4718,
+      "rating": 4.4,
+      "reviews": 0,
+      "title": "Logicool G Gaming Mouse G304 Lightspeed Wireless Gaming Mouse, Lightweight 3.5 oz (99 g), HERO 12K Sensor, 6 Programmable Buttons, 250 Hours of Continuous Use, Black, Compatible with PC, Windows, Mac"
+    },
+    {
+      "amazonRank": 31,
+      "asin": "B0BC142H1L",
+      "image": "https://m.media-amazon.com/images/I/51wwGHhv+lL._AC_SL1500_.jpg",
+      "price": 13764,
+      "rating": 4.2,
+      "reviews": 0,
+      "title": "【Amazon.co.jp限定】Logicool G PRO X Gaming Headset G-PHS-003d Gaming Headset Dolby 7.1ch Surround Sound 3.5mm Wired with Microphone Blue VO!CE Equipped Lightweight Headphones Headphones PS5 PS4 PC Switch | 7.1ch サラウンドサウンド Dolby 3.5mm 有線 マイク付き Blue VO!CE搭載 軽量 ヘッドホン ヘッドフォン PS5 PS4 PC Switch 2 ゲーミング ヘッドセットブラック 壁紙ダウンロード付き 国内正規品"
+    },
+    {
+      "amazonRank": 32,
+      "asin": "B09Q8BJNW1",
+      "image": "https://m.media-amazon.com/images/I/61iNMHtOckL._AC_SL1500_.jpg",
+      "price": 11645,
+      "rating": 4.6,
+      "reviews": 0,
+      "title": "Logicool G PRO Gaming Keyboard, Tenkeyless, GX Switch, Linear, Wired, Mechanical Keyboard, Silent, Japanese Layout, LIGHTSYNC RGB, Detachable Cable, G-PKB-002LN Authentic Japanese Product"
+    },
+    {
+      "amazonRank": 33,
+      "asin": "B07SYKKP47",
+      "image": "https://m.media-amazon.com/images/I/41I--98xeJL._AC_SL1500_.jpg",
+      "price": 8455,
+      "rating": 4.6,
+      "reviews": 0,
+      "title": "Logicool G Wireless Gaming Mouse G703h Lightspeed HERO 25K Sensor Ergonomics LIGHTSYNC RGB Powerplay Wireless Charging Compatible Gaming Mouse Rechargeable Wireless PC Windows Mac Black G703 Authentic"
+    },
+    {
+      "amazonRank": 34,
+      "asin": "B0D9VVL9DY",
+      "image": "https://m.media-amazon.com/images/I/61+9VKaKYIL._AC_SL1500_.jpg",
+      "price": 25980,
+      "rating": 4.4,
+      "reviews": 0,
+      "title": "【Amazon.co.jp限定】Logicool G Rapid Trigger PRO X TKL RAPID Gaming Keyboard, Adjustable Actuation Point, 35g Pressure, Japanese Layout, G-PKB-TKL-RTBKd, Wired, Tenkeyless, Magnetic Analog Switch, Gaming | ラピッドトリガー アクチュエーションポイント 調整可能 押下圧 35g 日本語配列 有線 テンキーレス 磁気式アナログスイッチ ゲーミング キーボード メカニカルキーボード ブラック 壁紙ダウンロード付き 国内正規品"
+    },
+    {
+      "amazonRank": 35,
+      "asin": "B09Q83ZRZW",
+      "image": "https://m.media-amazon.com/images/I/61Y+YG99t9L._AC_SL1500_.jpg",
+      "price": 11000,
+      "rating": 4.4,
+      "reviews": 0,
+      "title": "Logicool G PRO Gaming Keyboard, Tenkeyless, GX Switch, Clicky, Wired, Mechanical Keyboard, Silent, Japanese Layout, LIGHTSYNC RGB, Detachable Cable, G-PKB-002CK, Authentic Japanese Product"
+    },
+    {
+      "amazonRank": 36,
+      "asin": "B0BC13CZ13",
+      "image": "https://m.media-amazon.com/images/I/3142nM2rNYL._AC_SL1500_.jpg",
+      "price": 15729,
+      "rating": 4.5,
+      "reviews": 0,
+      "title": "【Amazon.co.jp Exclusive】 Logicool G PRO LIGHTSPEED Wireless Gaming Mouse G-PPD-002WLrd, Lightweight 80g, HERO 25K Sensor, POWERPLAY Charging Compatible, Wireless, Symmetrical, FPS, PC, Windows, Mac"
+    },
+    {
+      "amazonRank": 37,
+      "asin": "B08LVCQLSH",
+      "image": "https://m.media-amazon.com/images/I/41l9QIbAVSL._AC_SL1500_.jpg",
+      "price": null,
+      "rating": 4.6,
+      "reviews": 0,
+      "title": "Logicool G PRO X SUPERLIGHT Wireless Gaming Mouse G-PPD-003WL-BK, Lightweight, Less Than 2.2 oz (63 g), LIGHTSPEED, HERO 25K Sensor, POWERPLAY, Wireless, Charging Compatible, Gaming Mouse, Black, PC"
+    },
+    {
+      "amazonRank": 38,
+      "asin": "B0DQSZ16RW",
+      "image": "https://m.media-amazon.com/images/I/61K8lre00RL._AC_SL1500_.jpg",
+      "price": 4200,
+      "rating": 3.8,
+      "reviews": 0,
+      "title": "Logicool G 8000Hz PRO LIGHTSPEED Wireless 8K Polling Rate USB Receiver G-PRO-WL-4KRC Gaming Mouse PRO 2 LIGHTSPEED/PRO X SUPERLIGHT 2 / PRO X SUPERLIGHT DEX Compatible Gaming Mouse Dongle Domestic"
+    },
+    {
+      "amazonRank": 39,
+      "asin": "B0CWHKJ79R",
+      "image": "https://m.media-amazon.com/images/I/61tiD1zEJ5L._AC_SL1500_.jpg",
+      "price": 1280,
+      "rating": 3.6,
+      "reviews": 0,
+      "title": "PTFE Mouse Sole for SURUGA Logicool G PRO X SUPERLIGHT2, G PRO X2 SUPERSTRIKE | For Gaming, Gaming Mouse, Smooth Gliding Surface, Improve Mouse Speed, Rounded Edge, Reduce Snagging with Mouse Pad"
+    },
+    {
+      "amazonRank": 40,
+      "asin": "B0D21R5317",
+      "image": "https://m.media-amazon.com/images/I/71wiPhSQnVL._AC_SL1500_.jpg",
+      "price": 31879,
+      "rating": 4.3,
+      "reviews": 0,
+      "title": "【Amazon.co.jp Exclusive】 Logicool G PRO X 2 LIGHTSPEED Wireless Gaming Headset G-PHS-005WLBKd with Graphene Drivers, Built-in Microphone, Bluetooth, 3.5mm Wired Support, Dolby 7.1ch, 50 Hours of | グラフェンドライバー 搭載 マイク付き ワイヤレス Bluetooth 3.5mm 有線 Dolby 7.1ch 50時間連続使用可能 軽量 PS5 PS4 Switch2 ブラック 壁紙ダウンロード付き 国内正規品"
+    },
+    {
+      "amazonRank": 41,
+      "asin": "B0CKT4ZRFH",
+      "image": "https://m.media-amazon.com/images/I/41rdkEkcXHL._AC_SL1500_.jpg",
+      "price": 1300,
+      "rating": 4.2,
+      "reviews": 0,
+      "title": "EsportsTiger Mouse Sole, ICE Mouse Feet, Logicool G PRO X2, Superstrike, Lightspeed/G PRO X, Superlight 2, Wireless, White, Ice Gaming Mouse, Enhanced Slide, 1 Set, Random Shipping"
+    },
+    {
+      "amazonRank": 43,
+      "asin": "B08CL19PSH",
+      "image": "https://m.media-amazon.com/images/I/41SoR5dfZbL._AC_SL1500_.jpg",
+      "price": null,
+      "rating": 4.4,
+      "reviews": 0,
+      "title": "Logicool G USB Pro Gaming Mouse, Wired, HERO 25K Sensor, For FPS, 2.9 oz (83 g), Lightweight, LIGHTSYNC RGB, 6 Program Buttons, G-PPD-001t, Authentic Japanese Product, Final Fantasy XIV Recommended"
+    },
+    {
+      "amazonRank": 44,
+      "asin": "B0DXQGCKJP",
+      "image": "https://m.media-amazon.com/images/I/51SWqGeCl3L._AC_SL1500_.jpg",
+      "price": 16800,
+      "rating": 4.2,
+      "reviews": 0,
+      "title": "Logicool G Gaming Mouse Pad POWERPLAY 2 Wireless Charging System G-PMP-SE-001 Cross Surface Gaming Mouse PRO X SUPERLIGHT 2 / G PRO SUPERLIGHT DEX / G502XWL / G703h / G309WL Compatible Domestic"
+    },
+    {
+      "amazonRank": 45,
+      "asin": "B0DFY27SBD",
+      "image": "https://m.media-amazon.com/images/I/71MzHR9SlcL._AC_SL1500_.jpg",
+      "price": 1780,
+      "rating": 4.4,
+      "reviews": 0,
+      "title": "【E-sports Team Exclusive Development】REJECT Mouse Grip Grip Tape YOROI Universal Mouse Anti-slip Gaming Mouse for FPS PC Games UNIVERSAL GRIP TAPE \"YOROI\" (Pre-cut for Gaming Mouse)"
+    },
+    {
+      "amazonRank": 46,
+      "asin": "B08VS7T3V1",
+      "image": "https://m.media-amazon.com/images/I/71RUV3DF6+L._AC_SL1500_.jpg",
+      "price": 1480,
+      "rating": 4.4,
+      "reviews": 0,
+      "title": "Hotline Games 2.0 PLUS Anti Slip Tape for Logicool G PRO X Superlight Wireless Logitech G PRO X Superlight Wireless GPRO X Superlight Wireless GPRO X Superlight Wireless Mouse Gaming Mice - Non-slip Grip Tape Pre-Cut - 1 Set"
+    },
+    {
+      "amazonRank": 47,
+      "asin": "B0DRNRHN2D",
+      "image": "https://m.media-amazon.com/images/I/51rRz7qVr+L._AC_SL1500_.jpg",
+      "price": 14980,
+      "rating": 4.6,
+      "reviews": 0,
+      "title": "AIM1 Shigure Black Gaming Mouse, Wireless Mouse, Symmetrical, 1.6 oz (45 g), Polling Rate, 8,000 Hz, 26,000 DPI, PAW3395, 80 Hours of Operation, Supports Wireless/Wired"
+    },
+    {
+      "amazonRank": 48,
+      "asin": "B0GJ92D4LY",
+      "image": "https://m.media-amazon.com/images/I/51d+ya-1cuL._AC_SL1500_.jpg",
+      "price": 11800,
+      "rating": 4.3,
+      "reviews": 0,
+      "title": "Logicool G Gaming Mouse, G304X Superlight Lightspeed Wireless Gaming Mouse, 2.0 oz (59 g), HERO 44K Sensor, LIGHTSYNC, RGB, 130 Hours of Continuous Usage, USB Type-C Charging, Bluetooth Compatible, PC | 軽量 59g HERO 44Kセンサー LIGHTSYNC RGB 130時間連続利用可能 LIGHTSPEED USB Type-C 充電 Bluetooth 対応 ゲーミング マウス PC ホワイト 壁紙ダウンロード付き 国内正規品"
+    },
+    {
+      "amazonRank": 49,
+      "asin": "B0GCC7TQ3D",
+      "image": "https://m.media-amazon.com/images/I/61fPqQWtXfL._AC_SL1500_.jpg",
+      "price": 17480,
+      "rating": 4.7,
+      "reviews": 0,
+      "title": "Razer Viper V3 Pro SE Gaming Mouse, 1000Hz Dongle Included, Wireless, Ultra Lightweight 2.0 oz (54 g), 2nd Generation Focus Pro 35K Sensor, 35000DPI Up to 95 Hours of Operation, High Speed Wireless, Optical Switch, 6 Buttons, USB Type C Cable - PVC, Viper, Buisley Pro ESE"
+    },
+    {
+      "amazonRank": 50,
+      "asin": "B0GLM7WKVH",
+      "image": "https://m.media-amazon.com/images/I/71UvLd6bHAL._AC_SL1500_.jpg",
+      "price": 26980,
+      "rating": 4.4,
+      "reviews": 0,
+      "title": "Razer Viper V4 Pro Gaming Mouse, 1.7 oz (49 g), Ultra Lightweight, 8,000 Hz Dongle Included, Wireless, HyperSpeed Wireless, 3rd Generation, Razer Focus Pro, Optical Sensor, 50,000 DPI, 4th Generation"
+    },
+    {
+      "amazonRank": 51,
+      "asin": "B0FB31J9NZ",
+      "image": "https://m.media-amazon.com/images/I/61QQdadfqYL._AC_SL1500_.jpg",
+      "price": 2980,
+      "rating": 4.2,
+      "reviews": 0,
+      "title": "Mouse Sole for Logicool G PRO X SUPERLIGHT2 Wireless Gaming Mouse with Super Round Edge Processing, Professional Specifications (G PRO X SUPERLIGHT2, FUJI_WHITE (Glass Material)) | Gaming, Gaming Mouse, Durable Glass Material, Low Coefficient of Friction, Super Round Edge, Reduce Snagging with Mouse Pad"
+    },
+    {
+      "amazonRank": 52,
+      "asin": "B0F32P4R9X",
+      "image": "https://m.media-amazon.com/images/I/51plZKLYfoL._AC_SL1500_.jpg",
+      "price": 17270,
+      "rating": 3.6,
+      "reviews": 0,
+      "title": "Logicool G PRO 2 LIGHTSPEED 44K DPI Wireless Gaming Mouse, G-PPD-002XWL-BKd, Lightweight, 2.8 oz (80 g), LIGHTFORCE Hybrid Switch, HERO2 Sensor, USB Type-C, 95 Hours Continuous Usage, Powerplay Charging, FPS"
+    },
+    {
+      "amazonRank": 53,
+      "asin": "B0CGRQ4ML7",
+      "image": "https://m.media-amazon.com/images/I/61yEFE4pA-L._AC_SL1500_.jpg",
+      "price": 21091,
+      "rating": 4.4,
+      "reviews": 0,
+      "title": "Logicool G PRO X TKL LIGHTSPEED Wireless Gaming Keyboard, Tenkeyless, GX Switch, Linear Mechanical Keyboard, Bluetooth, Silent, Japanese Layout, LIGHTSYNC RGB, Detachable Cable, Black, Authentic"
+    },
+    {
+      "amazonRank": 54,
+      "asin": "B0G7ZGXWS6",
+      "image": "https://m.media-amazon.com/images/I/71sdqdRkwsL._AC_SL1500_.jpg",
+      "price": 19400,
+      "rating": 4.7,
+      "reviews": 0,
+      "title": "Logitech MX Master 4 Advanced Wireless Mouse, Quiet, Rechargeable, Wireless, MX2400, Graphite, Japanese Official Product *Amazon.co.jp Limited Includes Wallpaper Download + MP10GR Mouse Pad, Water"
+    },
+    {
+      "amazonRank": 55,
+      "asin": "B0GD7HD23X",
+      "image": "https://m.media-amazon.com/images/I/71IrsnvrYuL._AC_SL1500_.jpg",
+      "price": 8400,
+      "rating": 3.9,
+      "reviews": 0,
+      "title": "【Amazon.co.jp Exclusive】 Logitech Quiet Wireless Trackball Mouse M575SPd + Mouse Pad MP10GR [ M575SPd + MP10GR ] Bluetooth Logibolt Wireless Windows Mac iPad OS Chrome Black M575 M575SP Genuine"
+    },
+    {
+      "amazonRank": 56,
+      "asin": "B0H69JYZ9K",
+      "image": "https://m.media-amazon.com/images/I/61p2BvrH9mL._AC_SL1500_.jpg",
+      "price": 4686,
+      "rating": 4.9,
+      "reviews": 0,
+      "title": "フィリップス EVNIA ワイヤレス ゲーミングマウス SPK9618 黒 53g 超軽量 最大16K DPI 1Kポーリングレート 左右対称 充電式 | 無線/有線両対応 Bluetooth/2.4g/USB-C接続 ６段階DPI調節 1ms低遅延 6個プログラムボタン サイドボタン付き エルゴノミクス 両手利き 高耐久 PC windows mac用 ゲーム用 Type-C充電 最大70時間動作"
+    }
+  ]
+}

@@ -1,0 +1,771 @@
+{
+  "fetchedAt": "2026-08-14T13:19:39.376Z",
+  "sourceUrl": "https://www.amazon.co.jp/s?k=%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4&rh=p_n_g-101013577303111%3A18161464051%2Cp_123%3A391242&dc&page=2",
+  "searchPage": 2,
+  "scrapeMethod": "browser",
+  "monitors": [
+    {
+      "amazonRank": 48,
+      "asin": "B0BXH2P9Q9",
+      "price": 53573,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo T24v-30 - LED-Monitor - 24\"",
+      "image": "https://m.media-amazon.com/images/I/51TZzv69n4L._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 49,
+      "asin": "B0C1ZXL1CW",
+      "price": 54967,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ThinkVision T24i-30 23.8p TS",
+      "image": "https://m.media-amazon.com/images/I/51WF8dkTsML._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 50,
+      "asin": "B0FXCJ9B3N",
+      "price": 61721,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ThinkVision T24-40 61 cm クラス フルHD LED モニター - 16:9 - エクリプス ブラック",
+      "image": "https://m.media-amazon.com/images/I/61yZs4SPSRL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 51,
+      "asin": "B0H4WBLWPV",
+      "price": 57848,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ThinkVision T24-4v 61cm ウェブカメラ フルHD LEDモニター、エクリプスブラック",
+      "image": "https://m.media-amazon.com/images/I/61+xPLGoZLL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 52,
+      "asin": "B0C8BHWKKB",
+      "price": 50587,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo 63D8MAR3US 23.8\" Fhd IP Panel, Naturalmntr Low Blue Light with 2mp Ir+rgb Camera",
+      "image": "https://m.media-amazon.com/images/I/61npaZUbquL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 53,
+      "asin": "B09PRRCC8Y",
+      "price": 72176,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ThinkVision E24q-20 23.8\" WQHD WLED LCD Monitor - 16:9 - Raven Black",
+      "image": "https://m.media-amazon.com/images/I/61GJDZAu5HL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 54,
+      "asin": "B09LHZYQTL",
+      "price": 68769,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ThinkVision E24q-20 23.8\" WQHD WLED LCD Monitor - 16:9 - Raven Black",
+      "image": "https://m.media-amazon.com/images/I/612UxeJaePL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 55,
+      "asin": "B0FNLDBHFR",
+      "price": 48358,
+      "rating": 4,
+      "reviews": 0,
+      "title": "ThinkVision T24-40 23.8\" Monitor",
+      "image": "https://m.media-amazon.com/images/I/61iLRRl-t0L._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 56,
+      "asin": "B0FTJJYLXT",
+      "price": 59288,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ThinkVision 24インチ FHD IPS モニター 100Hzリフレッシュレート、VESAマウント。 | 応答時間4ms、ちらつきなし、アンチグレア、HDMI & DKZ ハブポートエキスパンダー、(64B5KAT1UZ)、ブラック。",
+      "image": "https://m.media-amazon.com/images/I/61g3QnWPnSL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 57,
+      "asin": "B0CM2B16DL",
+      "price": 55268,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ThinkVision E24q-30 Computer Monitor 60.5 cm (23.8\") 2560 x 1440 Pixels 2K Ultra HD LED Black",
+      "image": "https://m.media-amazon.com/images/I/61kRtNE3X+L._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 58,
+      "asin": "B0C7HGFC37",
+      "price": 82671,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo 23.8\" IPS 2560X1440 1000:1 THINKVISION P24H-30 HDMI DP USB BLK",
+      "image": "https://m.media-amazon.com/images/I/611esKek25L._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 59,
+      "asin": "B08LW45Q1W",
+      "price": 65846,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ThinkCentre Tiny-in-One 24 Gen 4 23.8\" FHD WLED LCD Monitor - 16:9 - IPS - 1920 x 1080 - 250 Nit - 4 ms",
+      "image": "https://m.media-amazon.com/images/I/61yVcc5gM-L._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 60,
+      "asin": "B0FVFLDQJG",
+      "price": 64827,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ThinkVision T24D-40 24インチクラスフルHD LEDモニター - 16:9 - エクリプスブラック",
+      "image": "https://m.media-amazon.com/images/I/61hZo3G-uuL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 61,
+      "asin": "B0BGPW9PQZ",
+      "price": null,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ThinkVision E24-29 23.8インチ 16:9 フルHD VA WLED LCDモニター、レイブンブラック",
+      "image": "https://m.media-amazon.com/images/I/61RViFMbx-L._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 62,
+      "asin": "B08DSMWS7X",
+      "price": 61571,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo T24V-20 D20238FT0 23.8インチ WEBカメラ内蔵 モニター",
+      "image": "https://m.media-amazon.com/images/I/61EaMZRkYWL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 63,
+      "asin": "B0CFQYWWLC",
+      "price": 79394,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo 12NBGAR1US Thinkcentre Tio24 Gen5 Syst Touch 23.8\" Monitor",
+      "image": "https://m.media-amazon.com/images/I/61w87TdNHxL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 64,
+      "asin": "B0BG8SV1M7",
+      "price": 61303,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ThinkVision T24m-20 24\" Class Webcam Full HD LCD Monitor - 16:9 - Raven Black",
+      "image": "https://m.media-amazon.com/images/I/711yW0U13OL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 65,
+      "asin": "B0D3M7XX2P",
+      "price": 69920,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo Legion R25f-30 25\" Class Full HD Gaming LED Monitor - 16:9 - Raven Black",
+      "image": "https://m.media-amazon.com/images/I/71RdFwNXChL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 66,
+      "asin": "B01ITJKQXE",
+      "price": 87423,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Tiny-In-One 24 Equipped With Led Panel, Lift And Tilt Stand, Display Port Connec by Lenovo",
+      "image": "https://m.media-amazon.com/images/I/61vKmp86XsL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 67,
+      "asin": "B0DQR9V8X2",
+      "price": 116306,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ThinkVision T24i 23.8インチ FHD IPS WLED-バックライトLCD 1920 x 1080 4ms 60Hz 2パック HDMI/VGA/DisplayPort/USBハブ/レイブンブラック",
+      "image": "https://m.media-amazon.com/images/I/81Dupnz9kwL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 68,
+      "asin": "B0DF83VJV6",
+      "price": 108472,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo L24i-4A LED display 60.5 cm (23.8\") 1920 x 1080 pixels Full HD Gray",
+      "image": "https://m.media-amazon.com/images/I/6164fgzVq2L._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 69,
+      "asin": "B0FLQ8KQC7",
+      "price": 105867,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo 24-10 60.5cm (23.8\") FHD IPS ゲーミングモニター HDMI/DP 1ms 240Hz FreeSync (68C4GAC4EU)",
+      "image": "https://m.media-amazon.com/images/I/71QO1B082rL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 70,
+      "asin": "B0D42VCK5Q",
+      "price": 81346,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ThinkVision S24e-20 23.8\" Full HD WLED LCD Monitor 2 Pack 250 Nit, FreeSync, 1920 x 1080, Vertical Alignment, HDMI-VGA, Raven Black",
+      "image": "https://m.media-amazon.com/images/I/91yjaUl0j4L._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 71,
+      "asin": "B0038I4PTS",
+      "price": 73856,
+      "rating": 4,
+      "reviews": 0,
+      "title": "4015HB1 ThinkVision L2461x Wide モニター",
+      "image": "https://m.media-amazon.com/images/I/31PoJ171VVL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 72,
+      "asin": "B001G79UXY",
+      "price": 96370,
+      "rating": 4,
+      "reviews": 0,
+      "title": "4421HB2 ThinkVision L2440x Wideモニター",
+      "image": "https://m.media-amazon.com/images/I/210KRZ+SIvL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 73,
+      "asin": "B07QGR8BPF",
+      "price": 122285,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo Legion Y25f-10 24.5\" FHD LCD Gaming Monitor Adjustable Stand 65D9GAC4US",
+      "image": "https://m.media-amazon.com/images/I/51ZboJYu0AL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 74,
+      "asin": "B0CBD9SM1F",
+      "price": 76098,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo thinkcentre Tiny-in-one January 24",
+      "image": "https://m.media-amazon.com/images/I/51JjcexLnZL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 75,
+      "asin": "B0878ZV4PC",
+      "price": 102446,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ThinkVision P24q-20 23.8\" WQHD WLED LCD Monitor - 16:9 - Raven Black - IPS - 2560 x 1440 - 4 ms",
+      "image": "https://m.media-amazon.com/images/I/61lbXM1ofAL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 76,
+      "asin": "B0G2T2V6JJ",
+      "price": null,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo Legion 24-10 Gaming Monitor, 24\" Flat IPS Full HD Display, 240Hz, 0.5ms MPRT, AMD FreeSync Premium, HDR10, Lift/Tilt/Pivot/Swivel Stand, 2X HDMI 2.1, DP 1.4",
+      "image": "https://m.media-amazon.com/images/I/81ymegNKuVL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 77,
+      "asin": "B0FK2T6RYZ",
+      "price": 116959,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ThinkVision 24\" FHD IPS Monitor 4ms Response Time, Anti-Glare, Flicker-Free, VESA Mount (100mm), Display Port, HDMI & DKZ Hub, Black, 2-Pack",
+      "image": "https://m.media-amazon.com/images/I/61bkxS2-GjL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 78,
+      "asin": "B0FMYPP5CS",
+      "price": 97932,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo TS-P24QD-40 23.8インチ 2560x1440 IPS 120Hz。",
+      "image": "https://m.media-amazon.com/images/I/71RxLDRRTVL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 79,
+      "asin": "B0DT4JYTXL",
+      "price": 168585,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo Legion R24e - 23.8インチ ゲーミングモニター (FHD、IPS、180Hz、0.5ms、HDMI+DP、HDMIケーブル、AMD FreeSync) チルト調整 - ブラック",
+      "image": "https://m.media-amazon.com/images/I/714W470xuFL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 80,
+      "asin": "B099QB6815",
+      "price": 102172,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ThinkVision T24t-20 60.5 cm (23.8\") 1920 x 1080 pixels Full HD LED Black",
+      "image": "https://m.media-amazon.com/images/I/51wHymWWGmL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 81,
+      "asin": "B087V7K6MY",
+      "price": 113363,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo P24H-20 (A19238QP1) 23.8\" Monitor - HDMI",
+      "image": "https://m.media-amazon.com/images/I/513I9rocTYL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 82,
+      "asin": "B098XLPDC8",
+      "price": 121013,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ThinkVision P24h-2L 23.8\" WQHD WLED LCD Monitor - 16:9 - Raven Black",
+      "image": "https://m.media-amazon.com/images/I/71CD-hBjG5L._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 83,
+      "asin": "B0BNSYF7FK",
+      "price": null,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo G24e-20 23.8\" Full HD WLED Gaming Monitor - 16:9 - Black",
+      "image": "https://m.media-amazon.com/images/I/61IMtI31CTL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 84,
+      "asin": "B0CYW4JJZW",
+      "price": 152707,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo C24d-20 (白) (24インチ) WUX",
+      "image": "https://m.media-amazon.com/images/I/61GOrKGu7eL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 85,
+      "asin": "B09QCL771L",
+      "price": null,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ThinkVision T24T-20 23.8\" LCD Touchscreen Monitor - 16:9-4ms Extreme Mode",
+      "image": "https://m.media-amazon.com/images/I/61-mj5wy9DL._AC_SL1500_.jpg",
+      "searchPage": 2
+    }
+  ],
+  "excluded": [],
+  "raw": [
+    {
+      "amazonRank": 48,
+      "asin": "B0BXH2P9Q9",
+      "price": 53573,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo T24v-30 - LED-Monitor - 24\"",
+      "image": "https://m.media-amazon.com/images/I/51TZzv69n4L._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 49,
+      "asin": "B0C1ZXL1CW",
+      "price": 54967,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ThinkVision T24i-30 23.8p TS",
+      "image": "https://m.media-amazon.com/images/I/51WF8dkTsML._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 50,
+      "asin": "B0FXCJ9B3N",
+      "price": 61721,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ThinkVision T24-40 61 cm クラス フルHD LED モニター - 16:9 - エクリプス ブラック",
+      "image": "https://m.media-amazon.com/images/I/61yZs4SPSRL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 51,
+      "asin": "B0H4WBLWPV",
+      "price": 57848,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ThinkVision T24-4v 61cm ウェブカメラ フルHD LEDモニター、エクリプスブラック",
+      "image": "https://m.media-amazon.com/images/I/61+xPLGoZLL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 52,
+      "asin": "B0C8BHWKKB",
+      "price": 50587,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo 63D8MAR3US 23.8\" Fhd IP Panel, Naturalmntr Low Blue Light with 2mp Ir+rgb Camera",
+      "image": "https://m.media-amazon.com/images/I/61npaZUbquL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 53,
+      "asin": "B09PRRCC8Y",
+      "price": 72176,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ThinkVision E24q-20 23.8\" WQHD WLED LCD Monitor - 16:9 - Raven Black",
+      "image": "https://m.media-amazon.com/images/I/61GJDZAu5HL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 54,
+      "asin": "B09LHZYQTL",
+      "price": 68769,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ThinkVision E24q-20 23.8\" WQHD WLED LCD Monitor - 16:9 - Raven Black",
+      "image": "https://m.media-amazon.com/images/I/612UxeJaePL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 55,
+      "asin": "B0FNLDBHFR",
+      "price": 48358,
+      "rating": 4,
+      "reviews": 0,
+      "title": "ThinkVision T24-40 23.8\" Monitor",
+      "image": "https://m.media-amazon.com/images/I/61iLRRl-t0L._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 56,
+      "asin": "B0FTJJYLXT",
+      "price": 59288,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ThinkVision 24インチ FHD IPS モニター 100Hzリフレッシュレート、VESAマウント。 | 応答時間4ms、ちらつきなし、アンチグレア、HDMI & DKZ ハブポートエキスパンダー、(64B5KAT1UZ)、ブラック。",
+      "image": "https://m.media-amazon.com/images/I/61g3QnWPnSL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 57,
+      "asin": "B0CM2B16DL",
+      "price": 55268,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ThinkVision E24q-30 Computer Monitor 60.5 cm (23.8\") 2560 x 1440 Pixels 2K Ultra HD LED Black",
+      "image": "https://m.media-amazon.com/images/I/61kRtNE3X+L._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 58,
+      "asin": "B0C7HGFC37",
+      "price": 82671,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo 23.8\" IPS 2560X1440 1000:1 THINKVISION P24H-30 HDMI DP USB BLK",
+      "image": "https://m.media-amazon.com/images/I/611esKek25L._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 59,
+      "asin": "B08LW45Q1W",
+      "price": 65846,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ThinkCentre Tiny-in-One 24 Gen 4 23.8\" FHD WLED LCD Monitor - 16:9 - IPS - 1920 x 1080 - 250 Nit - 4 ms",
+      "image": "https://m.media-amazon.com/images/I/61yVcc5gM-L._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 60,
+      "asin": "B0FVFLDQJG",
+      "price": 64827,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ThinkVision T24D-40 24インチクラスフルHD LEDモニター - 16:9 - エクリプスブラック",
+      "image": "https://m.media-amazon.com/images/I/61hZo3G-uuL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 61,
+      "asin": "B0BGPW9PQZ",
+      "price": null,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ThinkVision E24-29 23.8インチ 16:9 フルHD VA WLED LCDモニター、レイブンブラック",
+      "image": "https://m.media-amazon.com/images/I/61RViFMbx-L._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 62,
+      "asin": "B08DSMWS7X",
+      "price": 61571,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo T24V-20 D20238FT0 23.8インチ WEBカメラ内蔵 モニター",
+      "image": "https://m.media-amazon.com/images/I/61EaMZRkYWL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 63,
+      "asin": "B0CFQYWWLC",
+      "price": 79394,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo 12NBGAR1US Thinkcentre Tio24 Gen5 Syst Touch 23.8\" Monitor",
+      "image": "https://m.media-amazon.com/images/I/61w87TdNHxL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 64,
+      "asin": "B0BG8SV1M7",
+      "price": 61303,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ThinkVision T24m-20 24\" Class Webcam Full HD LCD Monitor - 16:9 - Raven Black",
+      "image": "https://m.media-amazon.com/images/I/711yW0U13OL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 65,
+      "asin": "B0D3M7XX2P",
+      "price": 69920,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo Legion R25f-30 25\" Class Full HD Gaming LED Monitor - 16:9 - Raven Black",
+      "image": "https://m.media-amazon.com/images/I/71RdFwNXChL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 66,
+      "asin": "B01ITJKQXE",
+      "price": 87423,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Tiny-In-One 24 Equipped With Led Panel, Lift And Tilt Stand, Display Port Connec by Lenovo",
+      "image": "https://m.media-amazon.com/images/I/61vKmp86XsL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 67,
+      "asin": "B0DQR9V8X2",
+      "price": 116306,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ThinkVision T24i 23.8インチ FHD IPS WLED-バックライトLCD 1920 x 1080 4ms 60Hz 2パック HDMI/VGA/DisplayPort/USBハブ/レイブンブラック",
+      "image": "https://m.media-amazon.com/images/I/81Dupnz9kwL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 68,
+      "asin": "B0DF83VJV6",
+      "price": 108472,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo L24i-4A LED display 60.5 cm (23.8\") 1920 x 1080 pixels Full HD Gray",
+      "image": "https://m.media-amazon.com/images/I/6164fgzVq2L._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 69,
+      "asin": "B0FLQ8KQC7",
+      "price": 105867,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo 24-10 60.5cm (23.8\") FHD IPS ゲーミングモニター HDMI/DP 1ms 240Hz FreeSync (68C4GAC4EU)",
+      "image": "https://m.media-amazon.com/images/I/71QO1B082rL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 70,
+      "asin": "B0D42VCK5Q",
+      "price": 81346,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ThinkVision S24e-20 23.8\" Full HD WLED LCD Monitor 2 Pack 250 Nit, FreeSync, 1920 x 1080, Vertical Alignment, HDMI-VGA, Raven Black",
+      "image": "https://m.media-amazon.com/images/I/91yjaUl0j4L._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 71,
+      "asin": "B0038I4PTS",
+      "price": 73856,
+      "rating": 4,
+      "reviews": 0,
+      "title": "4015HB1 ThinkVision L2461x Wide モニター",
+      "image": "https://m.media-amazon.com/images/I/31PoJ171VVL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 72,
+      "asin": "B001G79UXY",
+      "price": 96370,
+      "rating": 4,
+      "reviews": 0,
+      "title": "4421HB2 ThinkVision L2440x Wideモニター",
+      "image": "https://m.media-amazon.com/images/I/210KRZ+SIvL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 73,
+      "asin": "B07QGR8BPF",
+      "price": 122285,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo Legion Y25f-10 24.5\" FHD LCD Gaming Monitor Adjustable Stand 65D9GAC4US",
+      "image": "https://m.media-amazon.com/images/I/51ZboJYu0AL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 74,
+      "asin": "B0CBD9SM1F",
+      "price": 76098,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo thinkcentre Tiny-in-one January 24",
+      "image": "https://m.media-amazon.com/images/I/51JjcexLnZL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 75,
+      "asin": "B0878ZV4PC",
+      "price": 102446,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ThinkVision P24q-20 23.8\" WQHD WLED LCD Monitor - 16:9 - Raven Black - IPS - 2560 x 1440 - 4 ms",
+      "image": "https://m.media-amazon.com/images/I/61lbXM1ofAL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 76,
+      "asin": "B0G2T2V6JJ",
+      "price": null,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo Legion 24-10 Gaming Monitor, 24\" Flat IPS Full HD Display, 240Hz, 0.5ms MPRT, AMD FreeSync Premium, HDR10, Lift/Tilt/Pivot/Swivel Stand, 2X HDMI 2.1, DP 1.4",
+      "image": "https://m.media-amazon.com/images/I/81ymegNKuVL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 77,
+      "asin": "B0FK2T6RYZ",
+      "price": 116959,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ThinkVision 24\" FHD IPS Monitor 4ms Response Time, Anti-Glare, Flicker-Free, VESA Mount (100mm), Display Port, HDMI & DKZ Hub, Black, 2-Pack",
+      "image": "https://m.media-amazon.com/images/I/61bkxS2-GjL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 78,
+      "asin": "B0FMYPP5CS",
+      "price": 97932,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo TS-P24QD-40 23.8インチ 2560x1440 IPS 120Hz。",
+      "image": "https://m.media-amazon.com/images/I/71RxLDRRTVL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 79,
+      "asin": "B0DT4JYTXL",
+      "price": 168585,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo Legion R24e - 23.8インチ ゲーミングモニター (FHD、IPS、180Hz、0.5ms、HDMI+DP、HDMIケーブル、AMD FreeSync) チルト調整 - ブラック",
+      "image": "https://m.media-amazon.com/images/I/714W470xuFL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 80,
+      "asin": "B099QB6815",
+      "price": 102172,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ThinkVision T24t-20 60.5 cm (23.8\") 1920 x 1080 pixels Full HD LED Black",
+      "image": "https://m.media-amazon.com/images/I/51wHymWWGmL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 81,
+      "asin": "B087V7K6MY",
+      "price": 113363,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo P24H-20 (A19238QP1) 23.8\" Monitor - HDMI",
+      "image": "https://m.media-amazon.com/images/I/513I9rocTYL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 82,
+      "asin": "B098XLPDC8",
+      "price": 121013,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ThinkVision P24h-2L 23.8\" WQHD WLED LCD Monitor - 16:9 - Raven Black",
+      "image": "https://m.media-amazon.com/images/I/71CD-hBjG5L._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 83,
+      "asin": "B0BNSYF7FK",
+      "price": null,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo G24e-20 23.8\" Full HD WLED Gaming Monitor - 16:9 - Black",
+      "image": "https://m.media-amazon.com/images/I/61IMtI31CTL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 84,
+      "asin": "B0CYW4JJZW",
+      "price": 152707,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo C24d-20 (白) (24インチ) WUX",
+      "image": "https://m.media-amazon.com/images/I/61GOrKGu7eL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 85,
+      "asin": "B09QCL771L",
+      "price": null,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ThinkVision T24T-20 23.8\" LCD Touchscreen Monitor - 16:9-4ms Extreme Mode",
+      "image": "https://m.media-amazon.com/images/I/61-mj5wy9DL._AC_SL1500_.jpg",
+      "searchPage": 2
+    }
+  ]
+}

@@ -1,0 +1,263 @@
+{
+  "B082TSZ27D": {
+    "name": "HHKB Professional HYBRID Type-S",
+    "brand": "PFU",
+    "tagline": "静電容量無接点 Type-S 静音・Bluetooth/USB-C ハイブリッド（JIS 69キー）",
+    "layout": "コンパクト（60% / JIS 69キー）",
+    "internalStructure": "静電容量無接点方式（Type-S 静音）",
+    "keycaps": "PBT",
+    "power": "有線給電 / 単3形乾電池×2本",
+    "connection": "Bluetooth / USB Type-C",
+    "keyboardFilterTags": ["tenkeyless", "kb-keycap-pbt-double"]
+  },
+  "B00FIYCYCU": {
+    "name": "TK-FCM062BK",
+    "brand": "ELECOM",
+    "tagline": "1000万回高耐久・メンブレン式有線フルキーボード",
+    "layout": "フルサイズ（JIS 108キー）",
+    "internalStructure": "メンブレン",
+    "keycaps": "ABS",
+    "power": "有線給電",
+    "connection": "有線 USB"
+  },
+  "B0CKDJRHW7": {
+    "name": "WAVE KEYS K820",
+    "brand": "Logicool",
+    "tagline": "エルゴノミック・波型デザインのBluetooth/Logi Boltキーボード（JIS）",
+    "layout": "フルサイズ（エルゴノミクス / JIS日本語配列）",
+    "internalStructure": "メンブレン",
+    "keycaps": "—",
+    "power": "単3形乾電池×2本",
+    "connection": "2.4GHz (Logi Bolt) / Bluetooth"
+  },
+  "B0CSD6L32Q": {
+    "name": "TK-CM10DMKBK",
+    "brand": "ELECOM",
+    "tagline": "抗菌・Caps Lock無効化スイッチ付きコンパクトワイヤレス",
+    "layout": "コンパクト（JIS日本語配列）",
+    "internalStructure": "メンブレン",
+    "keycaps": "—",
+    "power": "単3形乾電池×2本",
+    "connection": "2.4GHz (USBレシーバー)"
+  },
+  "B010M21V6W": {
+    "name": "BSKBU14WH",
+    "brand": "Buffalo",
+    "tagline": "有線USB接続のシンプルフルキーボード（ホワイト）",
+    "layout": "フルサイズ（JIS日本語配列）",
+    "internalStructure": "メンブレン",
+    "keycaps": "—",
+    "power": "有線給電",
+    "connection": "有線 USB"
+  },
+  "B0C53QFZ98": {
+    "name": "Ewin 折りたたみ Bluetooth",
+    "brand": "Ewin",
+    "tagline": "JIS配列・タッチパッド・3台同時切替（別SKU）",
+    "layout": "折りたたみ（JIS日本語配列）",
+    "internalStructure": "パンタグラフ（シザースイッチ）",
+    "keycaps": "—",
+    "power": "充電式 (USB-C)",
+    "connection": "Bluetooth",
+    "keyboardFilterTags": ["kb-structure-scissor"]
+  },
+  "B08ZYQHLMT": {
+    "name": "PERIBOARD-106MJP",
+    "brand": "Perixx",
+    "tagline": "ヴィンテージデザイン・有線USBフルキー（JIS）",
+    "layout": "フルサイズ（JIS日本語配列）",
+    "internalStructure": "メンブレン",
+    "keycaps": "—",
+    "power": "有線給電",
+    "connection": "有線 USB"
+  },
+  "B0FPD1ZY3J": {
+    "name": "iClever DK03",
+    "brand": "iClever",
+    "tagline": "Bluetooth・2.4GHz デュアルモード JISフルサイズ（Type-C充電）",
+    "layout": "フルサイズ（JIS日本語配列）",
+    "internalStructure": "パンタグラフ（シザースイッチ）",
+    "keycaps": "—",
+    "power": "充電式 (USB-C)",
+    "connection": "2.4GHz / Bluetooth",
+    "keyboardFilterTags": ["kb-structure-scissor"]
+  },
+  "B09WDJNBT1": {
+    "name": "Arteck 2.4G ワイヤレス",
+    "brand": "Arteck",
+    "tagline": "超薄型コンパクト・2.4GHzワイヤレス",
+    "layout": "コンパクト",
+    "internalStructure": "—",
+    "keycaps": "—",
+    "power": "充電式 (USB-C)",
+    "connection": "2.4GHz (USBレシーバー)"
+  },
+  "B0C3QZ7P2P": {
+    "name": "KEY PALETTO TK-FS10BMKIBK",
+    "brand": "ELECOM",
+    "tagline": "子供用・プログラミング学習向け Bluetooth 抗菌キーパレット",
+    "layout": "コンパクト（JIS日本語配列）",
+    "internalStructure": "メンブレン",
+    "keycaps": "—",
+    "power": "単3形乾電池×2本",
+    "connection": "Bluetooth"
+  },
+  "B0B1Q5T5TQ": {
+    "name": "MX MECHANICAL MINI KX850CT",
+    "brand": "Logicool",
+    "tagline": "茶軸タクタイル・Logi Bolt/Bluetooth テンキーレス（別SKU）",
+    "layout": "テンキーレス（JIS日本語配列）",
+    "internalStructure": "メカニカル（茶軸タクタイル）",
+    "keycaps": "—",
+    "power": "充電式 (USB-C)",
+    "connection": "2.4GHz (Logi Bolt) / Bluetooth",
+    "keyboardFilterTags": ["tenkeyless"]
+  },
+  "B0BG4ZW7VM": {
+    "name": "MX MECHANICAL MINI for Mac",
+    "brand": "Logicool",
+    "tagline": "Mac向けメカニカルミニ・Logi Bolt/Bluetooth",
+    "layout": "テンキーレス",
+    "internalStructure": "メカニカル",
+    "keycaps": "—",
+    "power": "充電式 (USB-C)",
+    "connection": "2.4GHz (Logi Bolt) / Bluetooth",
+    "keyboardFilterTags": ["tenkeyless"]
+  },
+  "B0B3QHNY7F": {
+    "name": "REALFORCE R3S R3SA11",
+    "brand": "REALFORCE",
+    "tagline": "45g 静電容量無接点 フルサイズ JIS配列",
+    "layout": "フルサイズ（JIS日本語配列）",
+    "internalStructure": "静電容量無接点方式（45g）",
+    "keycaps": "PBT",
+    "power": "有線給電",
+    "connection": "有線 USB",
+    "keyboardFilterTags": ["kb-keycap-pbt"]
+  },
+  "B073TSKFRX": {
+    "name": "Arteck ステンレス 2.4G",
+    "brand": "Arteck",
+    "tagline": "ステンレススチール・超薄型フルサイズ 2.4GHz（JIS）",
+    "layout": "フルサイズ（JIS日本語配列）",
+    "internalStructure": "—",
+    "keycaps": "—",
+    "power": "充電式 (USB-C)",
+    "connection": "2.4GHz (USBレシーバー)"
+  },
+  "B0FNR6SLDV": {
+    "name": "REALFORCE R4 R4HA11",
+    "brand": "REALFORCE",
+    "tagline": "45g 静電容量無接点 ハイブリッド フルサイズ JIS",
+    "layout": "フルサイズ（JIS日本語配列）",
+    "internalStructure": "静電容量無接点方式（45g）",
+    "keycaps": "PBT",
+    "power": "有線給電 / 単3形乾電池×2本",
+    "connection": "有線 USB / Bluetooth",
+    "keyboardFilterTags": ["kb-keycap-pbt"]
+  },
+  "B0CLD5BMLS": {
+    "name": "Ewin Android 折りたたみ",
+    "brand": "Ewin",
+    "tagline": "Android専用 折りたたみ Bluetooth 5.1 JIS",
+    "layout": "折りたたみ（JIS日本語配列）",
+    "internalStructure": "パンタグラフ（シザースイッチ）",
+    "keycaps": "—",
+    "power": "充電式 (USB-C)",
+    "connection": "Bluetooth 5.1",
+    "keyboardFilterTags": ["kb-structure-scissor"]
+  },
+  "B00ZQNBTQK": {
+    "name": "K400 Plus",
+    "brand": "Logicool",
+    "tagline": "タッチパッド内蔵・Unifying 2.4GHz ワイヤレス",
+    "layout": "コンパクト（JIS日本語配列）",
+    "internalStructure": "メンブレン",
+    "keycaps": "—",
+    "power": "単3形乾電池×2本",
+    "connection": "2.4GHz (Unifying USBレシーバー)"
+  },
+  "B0B86TRNNF": {
+    "name": "SIGNATURE K650",
+    "brand": "Logicool",
+    "tagline": "パームレスト一体型・Logi Bolt/Bluetooth フルサイズ",
+    "layout": "フルサイズ（JIS日本語配列）",
+    "internalStructure": "メンブレン",
+    "keycaps": "—",
+    "power": "単3形乾電池×2本",
+    "connection": "2.4GHz (Logi Bolt) / Bluetooth"
+  },
+  "B0FDGGXFZZ": {
+    "name": "Nillkin 折りたたみ Bluetooth",
+    "brand": "Nillkin",
+    "tagline": "折りたたみ式 iPad/タブレット向け Bluetooth キーボード",
+    "layout": "折りたたみ",
+    "internalStructure": "—",
+    "keycaps": "—",
+    "power": "充電式 (USB-C)",
+    "connection": "Bluetooth"
+  },
+  "B0F374DNL4": {
+    "name": "Omikamo 折りたたみ Bluetooth",
+    "brand": "Omikamo",
+    "tagline": "JIS配列・マルチペアリング 折りたたみワイヤレス",
+    "layout": "折りたたみ（JIS日本語配列）",
+    "internalStructure": "パンタグラフ（シザースイッチ）",
+    "keycaps": "—",
+    "power": "充電式 (USB-C)",
+    "connection": "Bluetooth",
+    "keyboardFilterTags": ["kb-structure-scissor"]
+  },
+  "B0H3NG2P8C": {
+    "name": "Ewin EW-NKB303",
+    "brand": "Ewin",
+    "tagline": "折りたたみ・タッチパッド・テンキー付き 3台切替（別SKU）",
+    "layout": "折りたたみ（JIS日本語配列・テンキー付き）",
+    "internalStructure": "パンタグラフ（シザースイッチ）",
+    "keycaps": "—",
+    "power": "充電式 (USB-C)",
+    "connection": "Bluetooth",
+    "keyboardFilterTags": ["kb-structure-scissor"]
+  },
+  "B09K6YGV93": {
+    "name": "K780",
+    "brand": "Logicool",
+    "tagline": "Easy-Switch・Unifying/Bluetooth マルチデバイス対応",
+    "layout": "フルサイズ（JIS日本語配列）",
+    "internalStructure": "メンブレン",
+    "keycaps": "—",
+    "power": "単3形乾電池×2本",
+    "connection": "2.4GHz (Unifying) / Bluetooth"
+  },
+  "B01H2VY13G": {
+    "name": "K780",
+    "brand": "Logicool",
+    "tagline": "Easy-Switch・Unifying/Bluetooth（別SKU）",
+    "layout": "フルサイズ（JIS日本語配列）",
+    "internalStructure": "メンブレン",
+    "keycaps": "—",
+    "power": "単3形乾電池×2本",
+    "connection": "2.4GHz (Unifying) / Bluetooth"
+  },
+  "B09GBC1H4Z": {
+    "name": "HP 230 Wireless",
+    "brand": "HP",
+    "tagline": "静音・薄型フルサイズ US配列 2.4GHz",
+    "layout": "フルサイズ（US英語配列）",
+    "internalStructure": "メンブレン",
+    "keycaps": "—",
+    "power": "単3形乾電池×2本",
+    "connection": "2.4GHz (USBレシーバー)"
+  },
+  "B0GTYMLBPF": {
+    "name": "iClever DK20",
+    "brand": "iClever",
+    "tagline": "Bluetooth・2.4GHz デュアルモード JIS テンキー付き静音",
+    "layout": "フルサイズ（JIS日本語配列）",
+    "internalStructure": "パンタグラフ（シザースイッチ）",
+    "keycaps": "—",
+    "power": "充電式 (USB-C)",
+    "connection": "2.4GHz / Bluetooth",
+    "keyboardFilterTags": ["kb-structure-scissor"]
+  }
+}

@@ -1,0 +1,176 @@
+ID,カード名,商品説明,価格,入力端子,PC接続,ファンタム電源,システム要件,サンプリングレート
+ai-rank-001,Focusrite Scarlett Solo 第4世代,USBオーディオインターフェース ギタリスト、ボーカリスト、プロデューサー用 高忠実度 スタジオ品質録音 録音に必要なすべてのソフトウェア,18490,XLR、TRS,USB Type-C,対応 (+48V),"Windows , macOS , iOS",192kHz
+ai-rank-002,AT-UMX3,"USB オーディオミキサー オーディオインターフェース ブラック
+配信機材 DTM 音楽制作 USB Type-C",19800,"XLR/TRSコンボ, 6.35ｍｍ",USB Type-C,対応 (+48V),"Windows, macOS, iOS, Android",192kHz
+ai-rank-003,M-AUDIO M-Track Solo,"USB オーディオインターフェース
+録音、ライブ配信、ポッドキャストをクリアな音質で届けるXLR、ライン、DI入力。プロフェッショナル向けソフトウェア付属",6600,"XLR/TRSコンボ, 6.35ｍｍ",USB Type-C,対応 (+48V),"Windows, macOS",48kHz
+ai-rank-004,AG03MK2 LSPK WHITE,AG03MK2 LSPK WHITE ライブストリーミングパッケージ iPhone配信オリジナルセット -アームスタンド、マイクケーブル、AUXケーブル、USB2ポートACアダプタ、USBケーブル(C-A),48800,"XLR/TRSコンボ, 6.35ｍｍ、3.5ｍｍ",USB Type-C (USB 2.0),対応 (+48V ),"Windows, macOS, iOS,",192kHz
+ai-rank-005,MOTU M2,2in 2out USBオーディオインターフェース 国内正規品 USB-DAC ゲーミング iPhone/iPad対応 歌枠配信 ギター接続 DAWソフト＆エフェクト付属,35970,"XLR/TRSコンボ, 6.35ｍｍ",USB Type-C,対応 (+48V),"Windows, macOS",192kHz
+ai-rank-006,YAMAHA ZG02,ゲーム/配信用オーディオミキサー ゲームストリーミングミキサー,23555,XLR/TRSコンボ,USB Type-C,対応 (+48V),,48kHz
+ai-rank-007,ZOOM AMS-22,"USBオーディオインターフェース 2in/2out 軽量85g 超小型
+USB Type-C 24bit/96kHz ライブ配信 音楽制作 DTM スマホ/PC対応",9900,XLR/TRSコンボ、3.5ｍｍ,USB Type-C,対応 (+48V),"Windows, macOS, iOS, Android",96kHz
+ai-rank-008,Babyface Pro FS,RME USB Audio Interface Babyface Pro FS [Domestic Genuine Product] Silver,132000,"XLR/TRSコンボ, 6.35ｍｍ、ADAT",USB Type-A / Type-C,対応 (+48V),"Windows, macOS, iOS, Android",192kHz
+ai-rank-010,Arturia MiniFuse 2,Arturia アートリア 音楽制作ソフト付属 デュアル・オーディオ&MIDIインターフェイス,17600,"XLR/TRSコンボ, 6.35ｍｍ",USB Type-C,対応 (+48V),"Windows, macOS",192kHz
+ai-rank-011,DILVO STREAM MIX LITE,ディルヴォ ゲーミング オーディオ ミキサー オーディオインターフェース Bluetooth対応 PC PS4 PS5 iPhone スマホ対応 ポッドキャスト RGB機能付き ボイスチェンジャー カスタム効果音 ライブ配信 機材 実況 XLRマイク接続 生放送 白 USB-C接続,6980,"XLR/TRSコンボ, 6.35ｍｍ",USB Type-C,対応 (+48V),"Windows, macOS, iOS, Android",44.1kHz
+ai-rank-014,BEHRINGER UM2,USBオーディオインターフェイス UM2オーディオインターフェース・usbオーディオインターフェース。自宅レコーディング・ライブ配信に。USB接続・ファンタム電源対応。DTM初心者向け,7700,"XLR/TRSコンボ, 6.35ｍｍ",USB Type-A,対応 (+48V),"Windows, macOS",48kHz
+ai-rank-015,Roland BRIDGE CAST,ゲーミングDACアンプ/オーディオインターフェース/配信/ゲーミングミキサー/オーディオミキサー/Mac/Windows/ブリッジキャスト/,37400,XLR、AUX,USB Type-C,対応 (+48V / 各XLR),"Windows, macOS",96kHz
+ai-rank-016,URX22C,"Yamaha URX22C USB 3.1 Audio Interface, 32bit/192kHz, 2 in/2 Out, Music Production, Recording, Distribution, Loopback …",28600,"XLR/TRSコンボ, 6.35ｍｍ",USB Type-C (USB 3.1),対応 (+48V / 各入力),"Windows, macOS",192kHz
+ai-rank-017,Scarlett Solo 第3世代,Focusrite Audio Interface 2 IN/2 OUT 24bit/192kHz Scarlett Solo (3rd Gen) [Domestic Genuine Product],19500,"XLR/TRSコンボ, 6.35ｍｍ",USB Type-C (USB 2.0),対応 (+48V),Windows、macOS、Linux,192kHz
+ai-rank-019,YAMAHA UR22MK3,USB2.0 オーディオインターフェース 24bit/192kHz 2イン/2アウト 音楽制作 レコーディング 配信 ループバック機能 ホワイト,19800,"XLR/TRSコンボ, 6.35ｍｍ",USB Type-C (USB 2.0),対応 (+48V / 各入力),"Windows, macOS、ios",192kHz
+ai-rank-020,UR12MK3,USB2.0 オーディオインターフェース 24bit/192kHz 2イン/2アウト 音楽制作 レコーディング 配信 ループバック機能 ブラック,16500,"XLR/TRSコンボ, 6.35ｍｍ",USB Type-C (USB 2.0),対応 (+48V),"Windows, macOS、ios",192kHz
+ai-rank-021,Steinberg UR22mkII,Steinberg スタインバーグ 2x2 USB2.0 24bit/192kHz オーディオインターフェース,26600,"XLR/TRSコンボ, 6.35ｍｍ",USB Type-C (USB 2.0),対応 (+48V / 各入力),"Windows, macOS, iOS",192kHz
+ai-rank-023,BEHRINGER UCA222,オーディオインターフェース・usbオーディオ。自宅レコーディング・ライブ配信に。USB接続・RCA入出力。DTM初心者向け。新学期の音楽制作にも,3256,RCA,USB Type-A (USB 1.1),非対応,"Windows, macOS",48kHz
+ai-rank-025,Roland Rubix24,USBオーディオ・インターフェース Rubix24,18091,XLR/TRSコンボ,USB Type-A,対応 (+48V),"Windows, macOS, iOS",192kHz
+ai-rank-026,Behringer UMC1820,"18入力20出力 オーディオインターフェイス UMC1820 U-PHORIA
+オーディオインターフェース・DTM・宅録・配信・ポッドキャスト。自宅レコーディング・ライブ配信・弾き語りの録音に。USB接続・ファンタム電源対応・ダイレクトモニタリング",32545,"XLR/TRSコンボ, 6.35ｍｍ、ADAT",USB Type-A (USB 2.0),対応 (+48V),,96kHz
+ai-rank-027,Maonocaster E2 (AU-E2),ゲーミングオーディオミキサー オーディオインターフェース ミュート ボイスチェンジャー リバーブ PC/スマホ/マイク/ヘッドホン対応 オーディオミキサー ゲーム用 配信 ポッドキャスト 実況 XLR接続 RGB機能 ポータブル一 ミキサー,7999,XLR、3.5ｍｍ、Bluetooth,USB Type-C,対応 (+48V),"Windows, macOS, Android",
+ai-rank-028,Shure MVX2U（第二世代）,ヘッドホン出力付きXLR-USB変換アダプター USB-C Mfi認証 iPhone iPad Mac Windows iOS Android DSP オートレベルモード リアルタイムデノイザー 60dBゲイン 48Vファンタム電源【国内正規品/メーカー2年保証】,21900,XLR,USB Type-C (USB 2.0),対応 (+48V),"Windows, macOS, iOS, Android",192kHz
+ai-rank-029,Behringer UCA202,オーディオインターフェース・usbオーディオインターフェース。自宅レコーディング・ライブ配信に。USB接続・RCA入出力,4400,RCA,USB Type-A (USB 1.1),非対応,"Windows, macOS",48kHz
+ai-rank-030,iRig 2,IK Multimedia iRig 2 iRig Series 2.8 x 1.5 x 0.8 inches (7.2 x 3.9 x 2.1 cm) Domestic Authentic Product,6910,6.35mm,3.5mm,非対応,"Windows, macOS",
+ai-rank-031,AudioBox Go,Fender AudioBox Go Audio Interface Fender,11180,"XLR/TRSコンボ, 6.35ｍｍ",USB Type-C (USB 2.0),対応 (+48V),"Windows, macOS",96kHz
+ai-rank-032,Universal Audio Volt 176,【1in2out / 1176コンプ】 オーディオインターフェイス ヴィンテージプリアンプ DTM 国内正規品,29430,XLR/TRSコンボ,USB Type-C,対応 (+48V),"Windows, macOS",192kHz
+ai-rank-033,ゲーミングオーディオミキサー Leymibor,オーディオインターフェース ミュート ゲーム 録音対応 RGB機能付き 音声バランス技術 ボイスチェンジャー PC/PS4/PS5対応 ゲーミングミキサー ライブ配信 音楽創作適用 ボイスチェンジャー/48Vファンタム電源/カスタム効果音機能 XLR機材対応,6599,"XLR,3.5mm",USB Type-C,対応 (+48V),Win / Mac,
+ai-rank-037,TASCAM US-4X4HR,"TASCAM US-4X4HR 4Mic, 4IN/4OUT 24bit/192kHz High Resolution USB Audio/MIDI Interface",39600,XLR,USB Type-C (USB 2.0),対応 (+48V / 各入力),"Windows, macOS, iOS",192kHz
+ai-rank-051,Mini 2ch USBオーディオIF,USB オーディオ インターフェイス、レコーディング、ストリーミング、ポッドキャスティング用、XLR/48V ファンタム電源搭載,4290,XLR/TRSコンボ,USB Type-C,対応 (+48V),"Windows, macOS",48kHz
+ai-rank-052,SSL2+ MKII オーディオインターフェース,ソリッド・ステート・ロジック/SSL2+MKⅡ オーディオインターフェース,47212,"XLR/TRSコンボ, 6.35ｍｍ",USB Type-C (USB 2.0),対応 (+48V),"Windows, macOS",192kHz
+ai-rank-053,Audient iD4 mkII,「iD4mkII」2in/2out USB3.0対応オーディオ・インターフェース,33506,"XLR,TRS,ADAT",USB Type-C (USB 3.0),対応 (+48V),"Windows, macOS, iOS",96kHz
+ai-rank-057,TASCAM US-366,オーディオインターフェイス DSPミキサー搭載 96/192kHz対応 USB2.0,6578,"XLR、TRS,3.5mm",USB Type-C,,"Windows, macOS",192kHz
+ai-rank-058,MAONO PS22 LITE,オーディオミキサー XLR入力 ルーティング DAW 楽器/パソコン/スマホ/ヘッドホン対応 音楽制作 ホームスタジオ 配信 ポッドキャスト インターフェース 小型 ポータブル一,9599,"XLR, TRS",USB Type-C,対応 (+48V),"Windows, macOS, iOS, Android",192kHz
+ai-rank-059,RODE Microphones ロードキャスタープロ II,RODE Microphones RCPII Road Caster Pro II Black Audio Mixer,115000,"XLR/TRSコンボ, Bluetooth",USB Type-C,,"Windows, macOS, iOS",48kHz
+ai-rank-060,PreSonus Revelator io24,USB-C オーディオインターフェイス。音楽制作とストリーミング用。内蔵ミキサーと使いやすいエフェクトプリセットに加え、Studio One DAWレコーディングソフトウェア付き,31575,"XLR,TRS",USB Type-C,対応 (+48V),"Windows, macOS",96kHz
+ai-rank-061,NearStream AMIX20U,オーディオインターフェース USB オーディオミキサー ゲーミングミキサー PC/スマホ/タブレット RGBライティング XLR/6.35mmコンボ入力 AUX Bluetooth マイク/ヘッドホン/楽器用 ノイズ低減 ループバック機能 ボイスチェンジャー カスタマイズ効果音,12980,"XLR/TRSコンボ, Bluetooth,3.5mm",USB Type-C,対応 (+48V),"Windows, macOS, iOS, Android",
+ai-rank-062,Quantum LT2,"オーディオインターフェイス USB-C フェンダー
+またはプロデューサー。 使いやすいソフトウェア、Fender Studioアプリ、アンプ、FXパックが含まれており、スタジオ品質の録音を作成できます。",17986,"XLR/TRSコンボ, 6.35ｍｍ",USB Type-C (USB 2.0),対応 (+48V),"Windows, macOS,",192kHz
+ai-rank-063,ZOOM UAC-232,"USBオーディオインターフェース 2イン2アウト32bitフロート対応, ゲイン調整不要, 2イン/2アウト, 最大192kHz/24・32bit, 100mW高出力ヘッドフォン, MIDI端子搭載, 縦置き・横置き両対応, LOOPBACK/アプリ対応",24900,"XLR/TRSコンボ, 6.35ｍｍ",USB Type-C,対応 (+48V),"Windows, macOS, iOS",192kHz
+ai-rank-064,LEWITT CONNECT 2,USB オーディオミキサー オーディオインターフェース 薄型軽量 配信機材 DTM 音楽制作 ヘッドホン出力 USB Type-C XLR TRS対応,25140,"XLR,TRS",USB Type-C,対応 (+48V),"Windows, macOS, iOS",96kHz
+ai-rank-065,MAONO AME2A,オーディオインターフェース ポッドキャストステレオミキサー XLR/3.5MM/6.35接続 paステージ機器用 ポータブルオールインワンセット 配信機材 マイク付属,11800,"XLR、TRS, 3.5mm",USB Type-C,対応 (+48V),"Windows, macOS, iOS, Android",
+ai-rank-066,GIGAPORT eX,"ESI GIGAPORT eX USB 3.1 Type-C Connection, Supports 24bit/192kHz, USB Mobile Audio Interface",34651,6.35mm TRS×4,USB Type-C (USB 3.1),非対応,"Windows, macOS, iOS",192kHz
+ai-rank-068,BOMGE U204 USB オーディオインターフェイス,コンピュータ音楽録音用 2x2 ギターオーディオインターフェイス Mac 用 32Bit/192kHz ポッドキャストストリーミング ボーカリストプロデューサー用 48V ファントム付き,7290,"XLR/TRSコンボ, Bluetooth,3.5mm",USB Type-C,対応 (+48V),"Windows, macOS",192kHz
+ai-rank-071,ヤマハ URX44V,USB-C オーディオインターフェイス 32bit/192kHz 6イン/4アウト HDMI搭載,114899,"XLR/TRSコンボ,、3.5mm",USB Type-C,対応 (+48V),"Windows, macOS",192kHz
+ai-rank-077,iRig HD X,iPhone、iPad、Mac、PCに対応した高品質モバイル・ギター・インターフェース,20800,6.35mm,USB Type-C,非対応,"Windows, macOS",96kHz
+ai-rank-079,CONNECT 2,Connect 2オーディオインターフェース,31800,XLR,USB Type-C,対応 (+48V),"Windows, macOS, iOS",96kHz
+ai-rank-080,Focusrite Scarlett 18i20,"オーディオインターフェイス 第4世代 フォーカスライト
+26-In 26-Out、8マイクプリアンプ、2つのHi-Z入力、デュアルADAT、S/PDIF、MIDI、ワードクロック、トークバックマイク、オートゲイン、クリップセーフ",93000,"XLR/TRSコンボ, 6.35ｍｍ",USB Type-C,対応 (+48V / 各XLR),"Windows, macOS, iOS",192kHz
+ai-search-001,Arturia MiniFuse 1,Arturia アートリア 音楽制作ソフト付属 ポータブル・オーディオインターフェイス MiniFuse 1,12205,"XLR/TRSコンボ, 6.35ｍｍ",USB Type-C (USB 2.0),対応 (+48V),"Windows, macOS",192kHz
+ai-search-002,Volt 876 USB Audio Interface,UNIVERSAL AUDIO Volt 876 USB Audio Interface Volt Series,158500,"XLR/TRSコンボ, 6.35ｍｍ",USB Type-C,対応 (+48V / 各入力),"Windows, macOS",192kHz
+ai-search-003,YAMAHA UR12MK3W,SB2.0 オーディオインターフェース 24bit/192kHz 2イン/2アウト 音楽制作 レコーディング 配信 ループバック機能 ホワイト,16500,"XLR/TRSコンボ, 6.35ｍｍ",USB Type-C,対応 (+48V),"Windows, macOS",192kHz
+ai-search-004,Elgato Wave XLR MK.2,XLRマイク用USBオーディオインターフェイス＆DSPミキサー、80dBゲイン、オンボードエフェクト、LEDフィードバック、タッチミュート、Stream Deck、PC＆Mac対応,28980,XLR×1,USB Type-C,,"Windows, macOS",48kHz
+ai-search-005,Steinberg UR44,6 x 4 USB 2.0 オーディオインターフェース UR44,19800,"XLR/TRSコンボ, 6.35ｍｍ",USB Type-A,対応 (+48V / 各入力),"Windows, macOS",192kHz
+ai-search-006,BRIDGE CAST ONE,ゲーミングDACアンプ/オーディオインターフェース/配信/ゲーミングミキサー/Mac/Windows / PS5 / ボイチェン,25580,XLR×1,USB Type-C,対応 (+48V),"Windows, macOS",
+ai-search-007,UR22C,USB3.0 オーディオインターフェイス UR22C,29500,XLR/TRSコンボ,USB Type-C (USB 3.0),対応 (+48V),"Windows, macOS",192kHz
+ai-search-008,iRig USB,iRigシリーズ 9.9*4.2*2.5cm 国内正規品,13884,6.35ｍｍ,USB Type-C,非対応,"Windows, macOS",48kHz
+ai-search-009,AG06MK2 W,ヤマハ(YAMAHA) ライブストリーミングミキサー 6チャンネル ホワイト,29650,"XLR/TRSコンボ, 6.35ｍｍ",USB Type-C (USB 2.0),対応 (+48V / CH1-2),"Windows, macOS",192kHz
+ai-search-010,Audient iD14mkII,10in/6out USB3.0対応オーディオ・インターフェース[国内正規品],49115,"XLR/TRSコンボ 、3.5ｍｍ, ADAT",USB Type-C (USB 3.0),対応 (+48V),"Windows, macOS, iOS",96kHz
+ai-search-011,TOPPING E 2x2 OTG,2in/2out オーディオインターフェース オーディオミキサー 配信機材 DTM MIX 音楽制作 歌枠配信/歌ってみた AUX OTG USB Type-C 光デジタル モニター機能/iPhone/iPad/スマートフォン/Androidタブレット/PC/マイク/ヘッドホン/ギター接続 楽器対応,34650,XLR/TRSコンボ、6.35mm,USB Type-C (USB 2.0),対応 (+48V),"Windows, macOS",192kHz
+ai-search-012,GO:MIXER STUDIO,GOMIXERST オーディオミキサー オーディオインターフェース 楽曲制作 レコーディング iPhone/iPad/Mac/Windows対応 USB-Cバスパワー動作,34364,"XLR, 6.35mm 、3.5ｍｍ",USB Type-C,対応 (+48V),"Windows, macOS",192kHz
+ai-search-013,Rubix22,Rubix22 USB AUDIO INTERFACE オーディオインターフェイス,14364,XLR/TRSコンボ×2,USB Type-A,対応 (+48V),Windows,192kHz
+ai-search-014,E1X2 OTG,1in / 2out オーディオインターフェース オーディオミキサー 配信機材 DTM MIX 音楽制作 歌枠配信/歌ってみた USB Type-C モニター機能/iPhone/iPad/Androidタブレット/PC/マイク/ヘッドホン/ギター接続 楽器対応,26730,XLR/TRSコンボ,USB Type-C (USB 2.0),対応 (+48V),"Windows, macOS",192kHz
+ai-search-015,XENYX 502S,アナログミキサー・オーディオミキサー。自宅レコーディング・ライブ配信・弾き語りの録音に。USB接続・XENYXマイクプリアンプ・ファンタム電源対応,11800,"XLR,TRS、 6.35mm",USB,対応 (+48V),,
+ai-search-016,Antelope Audio Zenith 2,"USB-Cオーディオインターフェイス（ライブ配信／ポッドキャスティング対応）
+スタジオグレード・マイクプリアンプ搭載、USB-Cオーディオインターフェイス、ギター・ボーカル録音、音楽制作、ポッドキャスト、ライブ配信、エフェクト/プリセット対応",42900,XLR/TRSコンボ,USB Type-C (USB 2.0),対応 (+48V),"Windows, macOS, iOS, Android",192kHz
+ai-search-017,Behringer UMC404HD,4入力4出力 MIDI/USBオーディオインターフェース,25300,XLR/TRSコンボ,USB Type-C (USB 2.0),対応 (+48V),"Windows, macOS",192kHz
+ai-search-018,MOTU UltraLite mk5,18in 22out USB-C オーディオインターフェース デジタルミキサー兼AD/DAコンバーター USB-DAC ゲーム実況配信機材 iPhone/iPad対応 ギター接続 DAWソフト＆エフェクト付属,129800,"XLR/TRSコンボ, 6.35mm, ADAT",USB Type-C (USB 2.0),対応 (+48V / 各XLR),"Windows, macOS",192kHz
+ai-search-019,Behringer U-PHORIA UMC202HD,"2入力 2出力 24bit192kHz BEHRINGER U-PHORIA UMC202HD
+オーディオインターフェース・オーディオいんたーフェース・DTM・宅録・配信。自宅レコーディング・ライブ配信・弾き語りの録音に。USB接続・ファンタム電源対応・ダイレクトモニタリング",15950,XLR/TRSコンボ,USB,対応 (+48V),"Windows, macOS",192kHz
+ai-search-020,Rubix44,Rubix44 4in/4out 24bit/192kHz対応 Mac/Windows/iPad対応 配信/録音/DTM/レコーディング ハイレゾサウンド,30000,XLR/TRSコンボ,USB,対応 (+48V),"Windows, macOS",192kHz
+ai-search-021,PlayAUDIO1U,iConnectivity PlayAUDIO1U Audio/MIDI interface,218680,"XLR/TRSコンボ×2, 6.35mm",USB Type-A (USB 2.0),対応 (+48V),"Windows, macOS, iOS",192kHz
+ai-search-022,Scarlett 2i2 第3世代,フォーカスライト オーディオインターフェース 2イン/2アウト 24bit/192kHz,30980,XLR/TRSコンボ,USB Type-C,対応 (+48V),"Windows, macOS、Linux",192kHz
+ai-search-023,POLAR GO,ポータブル・オーディオインターフェイス POLAR GO 内蔵ステレオマイク/USB-C給電 & バッテリー駆動/コンボXLR/¼インチ入力,12980,"XLR/TRSコンボ, 内蔵ステレオマイク",USB Type-C,対応 (+48V),"Windows, macOS, iOS, Android",96kHz
+ai-search-024,audient iD24 10in/14out USBオーディオインターフェース,Audient iD24 10in/14out USB Audio Interface,68200,"XLR/TRSコンボ, 6.35mm, ADAT",USB Type-C (USB 3.0),対応 (+48V),"Windows, macOS",96kHz
+ai-search-025,Behringer XENYX 802S,アナログミキサー・オーディオミキサー。自宅レコーディング・ライブ配信・弾き語りの録音に。USB接続・XENYXマイクプリアンプ,14800,"XLR、TRS, RCA",USB,非搭載,,
+ai-search-026,Quantum LT4,音楽制作用の4x2 USB-Cオーディオインターフェイス。 デュアルMAX-HDマイクプリアンプ、デュアル楽器入力、低レイテンシドライバー,22458,"XLR/TRSコンボ, 6.35mm",USB Type-C,,"Windows, macOS",192kHz
+ai-search-027,BOMGE USBオーディオインターフェース SOLO,XLR/48Vファントムパワー、32ビット/192kHzハイファイ、ギタリスト、ボーカリスト、ポッドキャスター、プロデューサー、プラグアンドプレイ(U202P),5290,XLR/TRSコンボ,USB Type-A,対応 (+48V),"Windows, macOS",192kHz
+ai-search-028,XLR Dock MK.2,ストリームデッキ+、オーディオインターフェイス用80dBゲイン、ファントムパワー、クリップガード2.0、オンボードボイスエフェクトとEQ、Wave Linkソフトウェアで動作、USB-C,24021,XLR,USB Type-C (Stream Deck + 経由),対応 (+48V),"Windows, macOS",48kHz
+ai-search-029,IK Multimedia AXE I/O ONE,I/Oシリーズ 13*14.5*5.2cm 国内正規品,25300,XLR/TRSコンボ,USB Type-C (USB 2.0),非搭載,Windows,192kHz
+ai-search-030,EVO 4,Audient Audient EVO4 2in/2out Audio Interface,24970,"XLR/TRSコンボ, 6.35mm",USB Type-C,対応 (+48V),"Windows, macOS, iOS",96kHz
+ai-search-031,UMC204HD,2入力 4出力 24bit 192kHz BEHRINGER U-PHORIA UMC204HDオーディオインターフェース・usbオーディオインターフェース・midi インターフェース・DTM・宅録。自宅レコーディング・ライブ配信・弾き語りの録音に。USB接続・ファンタム電源対応・ダイレクトモニタリング,18700,XLR/TRSコンボ,USB Type-A,対応 (+48V),"Windows, macOS",192kHz
+ai-search-032,KORG microAUDIO 722,2ch IN (XLRコンボ) 2cn OUT/ 24bit 192kHz対応/USB-C/MIDI端子/音楽制作ソフト同梱/レコーディング ライブ配信/ヴィンテージアナログフィルター内蔵,27500,XLR/TRSコンボ,USB Type-C,対応 (+48V),"Windows, macOS, iOS, Android",192kHz
+ai-search-033,COOLSELL G47,24bit/192kHz オーディオインターフェース ギター、ポータブルなUSB-CおよびLightning対応ギター録音インターフェースクリアで遅延のない音質、ドライバー不要、iPhone、iPad、Mac、Android、PCに対応、楽器録音、マイク録音,6999,6.35mm、3.5mm,USB Type-C,,"Windows, macOS, iOS, Android",192kHz
+ai-search-034,Teenage Engineering TX-6 ポータブルミキサー マルチチャンネルオーディオインターフェイス,"ポータブルミキサー マルチチャンネルオーディオインターフェイス
+【国内正規品】 6ステレオ入力 内蔵バッテリー ライブミックス シンセミックス モバイルスタジオ 持ち運び",161700,3.5ｍｍ,USB Type-C,,"Windows, macOS",48kHz
+ai-search-035,Fender Quantum LT 16,16インチ 8-out USB-C オーディオインターフェース 音楽制作用 8つのMAX-HDマイクプリアンプ 14ライン入力 低レイテンシドライバー ループバック バランス出力 ヘッドホンアンプ、Mac&PC,68530,"XLR/TRSコンボ, 6.35mm , TRSライン",USB Type-C,,"Windows, macOS",192kHz
+ai-search-036,TONOR TX510 オーディオインターフェース,ダブルXLRチャンネルオーディオミキサー（RGB 付き）、コンテンツクリエイター向け、ループバックボタン、スタジオ録音、プロ用プリアンプ、ライブストリーミング、配信、コンテンツ作成用,9999,XLR/TRSコンボ,USB Type-C,,"Windows, macOS",192kHz
+ai-search-037,MiniFuse 2 OTG,デュアル・オーディオインターフェイス MiniFuse 2 OTG スマホやタブレットに直接接続/コンパクト/軽量/幅広い⽤途に対応するソフトウェアスイートを同梱,24213,XLR/TRSコンボ,USB Type-C (USB 2.0),対応 (+48V),"Windows, macOS",48kHz
+ai-search-038,Audient iD44mkII,USBオーディオインターフェイス,113200,"XLR、6.35ｍｍ, ADAT,",USB Type-C,対応 (+48V),"Windows, macOS",96kHz
+ai-search-039,IK Multimedia iRig Pro Duo I/O,USBオーディオインターフェイス、TRSバランス&ヘッドフォン出力、オーディオミキサーから24ビット、音楽スタジオ、レコーディング、ポッドキャスト、ストリーミング,39356,XLR/TRSコンボ,USB Type-C,対応 (+48V),"Windows, macOS, iOS, Android",48kHz
+ai-search-040,Reloop FLUX DVSインターフェース,Serato DJ Pro対応デジタルビニールシステム (DVS),69900,RCAステレオ,USB Type-C (USB 2.0),非対応,"Windows, macOS",96kHz
+ai-search-041,TC-HELICON GO XLR MINI,オンライン配信用ミキサー ＆ USBオーディオインターフェイス,31900,XLR/TRSコンボ、3.5ｍｍ,USB Type-A,対応 (+24V),Windows,48kHz
+ai-search-042,Volt 476P,UNIVERSAL AUDIO Volt 476P USB Audio Interface Volt Series,70400,XLR/TRSコンボ,USB Type-C (USB 2.0),対応 (+48V),"Windows, macOS, iOS",192kHz
+ai-search-043,iRig Stream,2チャンネル録画&ライブストリーミングオーディオインターフェイス。iPhone、iPad、Android、Mac/PC用,23986,XLR/TRSコンボ、RCA,USB Type-C,,"Windows, macOS, iOS, Android",96kHz
+ai-search-044,TC Helicon Go XLR,"ネット配信用マルチエフェクトオーディオインターフェイス GO XLR【国内正規品】
+オーディオインターフェース・DTM・宅録・配信・ポッドキャスト。自宅レコーディング・ライブ配信・弾き語りの録音に。USB接続・ファンタム電源対応・ダイレクトモニタリング",59800,XLR,USB Type-A,対応 (+48V),Windows,
+ai-search-045,Link I/O,エレキギター＆ベース用オーディオインターフェイス Link I/O,15844,6.35mm,USB Type-C,非対応,"Windows, macOS, iOS, Android",96kHz
+ai-search-046,Apollo Twin X DUO Gen 2,Gen 2 with UAD Analog Classics Pro Apolloデスクトップ 国内正規品,206041,"XLR/TRSコンボ, 6.35mm, ADAT",Thunderbolt,対応 (+48V ）,"Windows, macOS",192kHz
+ai-search-047,URX44C,USB3.1 オーディオインターフェース 32bit/192kHz 6イン/4アウト 音楽制作 レコーディング 配信 ループバック機能,50000,"XLR/TRSコンボ, 6.35mm",USB Type-C,,"Windows, macOS, iOS",192kHz
+ai-search-048,Steinberg IXO12,2x2 USB 2.0 24ビット/192kHz オーディオインターフェース Cubase AI、Cubasis LE、Steinberg Plusソフトウェア付き,36460,XLR/TRSコンボ、6.35mm,USB Type-C,対応 (+48V),"Windows, macOS, iOS",192kHz
+ai-search-051,AG03MK2,AG03MK2 LSPK WHITE Live Streaming Package iPhone Original Set,48800,XLR/TRSコンボ、6.35mm,USB Type-C,,"Windows, macOS, iOS",
+ai-search-052,U24XL,【24bit - 2 x 2 USBオーディオインターフェース】,19444,"TRS,6.35mm",USB Type-A,,"Windows, macOS",48kHz
+ai-search-053,APOLLO SOLO USB Heritage Edition,USB Heritage Edition Apolloデスクトップ 国内正規品,118800,XLR/TRSコンボ,USB Type-C,,Windows,
+ai-search-054,MAYA44USB+,ESI MAYA44USB+ 【4 x 4 USB Audio Interface】,17018,6.35mm,USB Type-A (USB 2.0),,"Windows, macOS",96kHz
+ai-search-055,Phono Plus USB,プリアンプ搭載USBオーディオ・インターフェイス USB Phono Plus 【国内正規輸入品】,16720,RCA,USB Type-A,非対応,"Windows, macOS",48kHz
+ai-search-056,BEHRINGER XENYX 302USB,ミキサー・オーディオインターフェース・usb電源・DTM・宅録。自宅レコーディング・ライブ配信・弾き語りの録音に。USB接続・XENYXマイクプリアンプ・ヘッドホン出力,11000,XLR/TRSコンボ、RCA,USB Type-A,対応 (+15V),"Windows, macOS",
+ai-search-057,KYXAIN ギターオーディオインターフェース,48K/24ビット 1/4インチステレオV2付き,6566,6.35mm×1,USB Type-C,非対応,"Windows, macOS, iOS, Android、Linux",48kHz
+ai-search-058,Audient evo 16,24in/24out USBオーディオインターフェイス,89980,"XLR/TRSコンボ, 6.35ｍｍ、",USB Type-C,対応 (+48V ),"Windows, macOS",192kHz
+ai-search-059,Vocaster Two,オーディオインターフェイス ポッドキャスト フォーカスライト,24817,3.5mm、bluetooth,USB,非対応,"Windows, macOS",48kHz
+ai-search-060,Zoom TAC-2R,2チャンネル Thunderbolt オーディオインターフェース,57482,XLR/TRSコンボ,Thunderbolt,対応 (+48V),macOS 10.14–13,192kHz
+ai-search-061,AMS-24,134g 2in/4out　DGP2026受賞 USB Type-C 2系統ヘッドホン 電池駆動 24bit/96kHz ライブ配信ゲーム実況 スマホ/PC対応【国内正規品】,14300,XLR/TRSコンボ,USB Type-C,対応 (+48V),"Windows, macOS, iOS, Android",96kHz
+ai-search-062,AT-UMX3 WH,USB オーディオミキサー オーディオインターフェース 配信機材 DTM 音楽制作 USB Type-C スマホ/タブレット対応 PS4 PS5 【公式限定カラー】,21780,XLR/TRSコンボ,USB Type-C,対応 (+48V),"Windows, macOS, iOS, Android",192kHz
+ai-search-063,MiNiSTUDIO CREATOR US-42W,ポッドキャスト ボイスエフェクト 効果音再生 Youtube 配信機材 ミキサー ゲーミング ゲーム実況 カラオケ,11550,XLR/TRSコンボ、3.5ｍｍ,USB Type-A,対応 (+48V),"Windows, macOS",96kHz
+ai-search-064,M-Track Duo,"M-Audio USB Audio Interface, Music Production Software, Mac Win DTM DAW, Low Noise, Live Distribution, Playback, Home…",7700,"XLR/TRSコンボ, 6.35ｍｍ、",USB,対応 (+48V),"Windows, macOS",48kHz
+ai-search-065,SC8,音声ミキサー PC/PS4/PS5対応 ゲーミング/配信用 XLR/AUX機材対応 黒 SC8音声バランス技術 48Vファンタム電源/RGBライト/ボイスチェンジャー/ カスタム効果音など多機能付き USB+AUXケーブル付き(Type-Cアタブターあり) パソコン/XLR/AUX機器適用,11299,"XLR,3.5mm",USB Type-C,対応 (+48V),"Windows, macOS, iOS, Android",48kHz
+ai-search-066,ヤマハ AG03MK2,ライブストリーミングミキサー 3チャンネル ブラック,23280,"XLR×1, 6.3mm",USB Type-C (USB 2.0),対応 (+48V),"Windows, macOS, iOS, Android",192kHz
+ai-search-067,Roland BRIDGE CAST,ゲーミングDACアンプ/オーディオインターフェース/配信/ゲーミングミキサー/オーディオミキサー/Mac/Windows/ブリッジキャスト/,36532,"XLR, 3.5mm",USB Type-C,対応 (+48V),"Windows, macOS,iOS",96kHz
+ai-search-068,AMS-44,"USB オーディオインターフェース 軽量 177g 4in/4out コンボ入力
+4系統 USB Type-C 2系統ヘッドホン 電池駆動 24bit/96kHz ライブ配信 音楽制作 DTM スマホ/PC対応",18274,XLR/TRSコンボ,USB Type-C,対応 (+48V),"Windows, macOS, iOS, Android",96kHz
+ai-search-069,M4,4in 4out USBオーディオインターフェース 国内正規品 USB-DAC ゲーミング iPhone/iPad対応 歌枠配信 ギター接続 DAWソフト＆エフェクト付属,47960,XLR/TRSコンボ、6.35ｍｍ,USB Type-C (USB 2.0),対応 (+48V),"Windows, macOS",192kHz
+ai-search-070,MiNiSTUDIO PERSONAL US-32W,ポッドキャスト ボイスエフェクト 効果音再生 Youtube 配信機材 ミキサー ゲーミング ゲーム実況 カラオケ,7700,XLR,USB Type-A,,"Windows, macOS",192kHz
+ai-search-071,iXZ,マイク ギターインターフェース iPad/iPhone/iPod touch/Android用 Youtube ポケカラ 音楽制作 生配信,,XLR、6.35ｍｍ、3.5ｍｍ,3.5ｍｍ,対応 (+48V),iOS、android,192kHz
+ai-search-072,UR22MK3 B,USB2.0 オーディオインターフェース 24bit/192kHz 2イン/2アウト 音楽制作 レコーディング 配信 ループバック機能 ブラック,22000,"XLR/TRSコンボ, 6.35mm",USB Type-C,対応 (+48V),"Windows, macOS, iOS",192kHz
+ai-search-073,MVX2U,デジタルオーディオインターフェース ヘッドホン出力付きXLR-USB変換アダプター : ダイナミックマイク/コンデンサーマイク/配信(ストリーミング) / ボーカル・楽器録音(レコーディング) / モニタリング/ファンタム電源（最大48V） / ゲイン（最大60dB） / デスクトップアプリ/USB-Cケーブル付属【国内正規品/メーカー2年保証】,17400,XLR,USB Type-C,対応 (+48V),"Windows, macOS",48kHz
+ai-search-074,E 2x2 OTG,2in/2out オーディオインターフェース オーディオミキサー 配信機材 DTM MIX 音楽制作 歌枠配信/歌ってみた AUX OTG USB Type-C 光デジタル モニター機能/iPhone/iPad/スマートフォン/Androidタブレット/PC/マイク/ヘッドホン/ギター接続 楽器対応 ライブ/ストリーミング/ゲーム実況,34650,"XLR/TRSコンボ, 6.35mm,",USB Type-C,対応 (+48V),"Windows, macOS, iOS, Android",192kHz
+ai-search-075,BOMGE M12 オーディオインターフェース,2チャンネルミキサー、XLR/3.5mmマイク入力、48V電源、PCレコーディング/スタジオ/ライブ用サウンドカード,3490,XLR/TRSコンボ、3.5ｍｍ,USB Type-C,対応 (+48V),"Windows, macOS",
+ai-search-076,MicroAUDIO 22,2ch IN (XLRコンボ) 2cn OUT/ 24bit 192kHz対応/USB-C/音楽制作ソフト同梱/レコーディング ライブ配信,22000,XLR/TRSコンボ,USB Type-C,対応 (+48V),"Windows, macOS",192kHz
+ai-search-077,Razer Audio Mixer,オーディオミキサー ミュートボタン付き ストリーミング配信 オーディオインターフェース 4チャンネル プリアンプ XLR入力 USB接続 プラグ&プレイ グランドループアイソレーター2つ付属 Chroma RGB搭載 【日本正規代理店保証品】,16800,XLR/TRSコンボ、3.5ｍｍ,USB Type-C,対応 (+48V),Windows,
+ai-search-078,UMC22,マイクプリアンプ搭載 USBオーディオインターフェイス UMC22オーディオインターフェース・インターフェース・オーディオいんたーフェイス pc・usbオーディオインターフェース。自宅レコーディング・ライブ配信に。USB接続・ファンタム電源対応,9100,"XLR/TRSコンボ, 6.35mm",USB Type-A,対応 (+48V),"Windows, macOS",48kHz
+ai-search-079,US-2X2HR,"2Mic, 2IN/2OUT 24bit/192kHzハイレゾ USBオーディオ/MIDIインターフェース",26730,XLR/TRSコンボ,USB Type-C (USB 2.0),対応 (+48V),"Windows, macOS, iOS",192kHz
+ai-search-080,AMIX40U,USB オーディオミキサー PC LCD XLR/6.35mmコンボ入力 AUX Bluetooth マイク/ヘッドホン/楽器用 ノイズキャンセリング 低遅延モニタリング ループバック EQプリセット リバーブ調整 2人同時収録 音声配信/ポッドキャスト収録/音楽制作/ゲーム実況用 Windows/Mac/Android/iOS,19980,XLR/TRSコンボ、3.5mm、bluetooth,USB Type-C,対応 (+48V),"Windows, macOS, iOS, Android",
+ai-search-081,USB Audio Interface XLR/48V with Phantom Powe…,SOLO XLR/48Vファントムパワー、32ビット/192kHzハイファイ、ギタリスト、ボーカリスト、ポッドキャスター、プロデューサー、プラグアンドプレイ(U202P)のスタジオオーディオミキサーインターフェイス用,7490,XLR/TRSコンボ,USB Type-C,対応 (+48V),"Windows, macOS",192kHz
+ai-search-082,UR242,4x2 USB2.0 オーディオインターフェース UR242 インターネット配信に便利な機能搭載 ヘッドホン端子付き 音楽制作アプリケーション付き,11980,"XLR/TRSコンボ, 6.35mm",USB Type-A,対応 (+48V),"Windows, macOS, iOS",192kHz
+ai-search-083,AG03,"Yamaha AG03 Web Casting Mixer, Audio Interface, 3 Channels, Convenient Internet Distribution, Compatible with Cubasis…",,XLR×1,USB Type-A (USB 2.0),対応 (+48V),"Windows, macOS, iOS, Android",48kHz
+ai-search-084,Synido USB-C オーディオインターフェース,音楽録音・配信・ポッドキャスト用 XLR/ライン入力対応 24bit/48kHz 48Vファンタム電源 2チャンネル,6475,XLR/TRSコンボ,USB Type-C,対応 (+48V),"Windows, macOS, iOS",48kHz
+ai-search-085,コンパクトUSBオーディオIF,TC Helicon Compact USB Audio Interface Ideal for Game Streaming Built-in Studio-Grade Effects to Enhance Headset Micr…,5037,XLR/TRSコンボ×1,USB,,Win / Mac,
+ai-search-086,BOMGE BMG11S USB オーディオインターフェイス,24 ビット/192 kHz)、XLR、48 V ファンタム電源付き — 高忠実度、スタジオ品質のレコーディング,5990,XLR/TRSコンボ、6.35ｍｍ,USB Type-C,対応 (+48V),"Windows, macOS, iOS, Android、Linux",192kHz
+ai-search-087,IXO12,"Steinberg USB 2.0 Audio Interface, 24bit/192kHz, White, IXO12 W",,"XLR/TRSコンボ×1, Hi-Z Inst×1",USB Type-C (USB 2.0),対応 (+48V),"Windows 10/11, macOS 11+, iOS",192kHz
+ai-search-088,CONNECT 6,"SB DTM 音楽制作 録音 生配信 ループバック CubaseLE
+【国内正規品】 配信ミキサー ループバック マイク入力 ライン入力 ヘッドホン出力 低遅延モニタリング 宅録 Mac対応 Windows対応 ボーカル録音 ポッドキャスト ホームスタジオ 持ち運び",42900,XLR/TRSコンボ,USB Type-C,対応 (+48V),,48kHz
+ai-search-089,Synido Live Duet USB-C オーディオインターフェース,録音・配信・ポッドキャスト用 デュアルXLR入力 24bit/48kHz対応 48Vファンタム電源 2チャンネル パープル,9227,XLR/TRSコンボ、3.5ｍｍ,USB Type-C,対応 (+48V),Win / Mac,48kHz
+ai-search-090,UR-RT2,24bit/192kHz対応 USBオーディオインターフェイス UR-RT2 RND社製トランスフォーマーを採用し、より太く艶(つや)のある音質での録音を実現,30228,XLR/TRSコンボ、6.35ｍｍ,USB Type-A,対応 (+48V),Win / Mac、iOS,192kHz
+ai-search-092,IXO22,スタインバーグ Steinberg USB2.0 オーディオインターフェイス 24bit/192kHz,,XLR/TRSコンボ,USB Type-C (USB 2.0),,"Windows, macOS",192kHz
+ai-search-093,HyperX Audio Mixer,10IN/2OUT 24bit/192kHzハイレゾ USBオーディオ/MIDIインターフェース Youtube 音楽制作 生配信 DTM,26800,XLR/TRSコンボ,USB Type-A,対応 (+48V),"Windows, macOS,iOS",192kHz
+ai-search-094,BOOM,USB-C 音楽制作【国内正規品】 2入力2出力 ループバック バスパワー マイク入力 ライン入力 ヘッドホン出力 低遅延モニタリング 宅録 配信 Mac対応 Windows対応 ボーカル録音,39600,"XLR/TRSコンボ,6.35mm",USB Type-C,非対応,"Windows, macOS",192kHz
+ai-search-095,Amber i4,"USB-Cオーディオインターフェース24 bit/192 kHz対応, 4イン/4アウト",33333,"XLR/TRSコンボ,6.35mm",USB Type-C,,"Windows, macOS,Linux",192kHz
+ai-search-096,iRig 2,IK Multimedia iRig 2 Audio Interface for Smartphones and Tablets IKM-OT-00042N,,TRS,3.5mm,非対応,"Windows, macOS",
+ai-search-097,Series 102i,TASCAM SERIES 102i 10 IN/2 OUT 24 bit/192 kHz High Resolution USB Audio/MIDI Interface Youtube Music Production Live …,29700,XLR,USB Type-A,対応 (+48V),"Windows, macOS,iOS",192kHz
+ai-search-098,Sonic Cube II,オーディオインターフェース OTG対応 USB Type-C XLR入力 DTM楽器 MAC/パソコン/スマホ対応 音楽制作 ホームスタジオ ライブ配信 生放送 ギターアンプモデリング & DSPエフェクト内蔵,9900,"XLR/TRSコンボ,6.35mm",USB Type-C,対応 (+48V),"Windows, macOS,iOS,Android",48kHz
+ai-search-099,U-44,ZOOM U-44 Handy Portable Audio Interface [Manufacturer 3-Year Extended Warranty],14800,XLR/TRSコンボ,USB Type-A,対応 (+48V),"Windows, macOS",48kHz
+ai-search-100,BOMGE U202 USBオーディオインターフェイス,マイクプリアンプXLR/TSR/TSポート付き、48V、32ビット/192kHz解像度、コンピューター録音、ストリーミング、ポッドキャスティング,6290,XLR/TRSコンボ,USB Type-C,対応 (+48V),"Windows, macOS",192kHz
+ai-search-101,KOMPLETE AUDIO 1,【国内正規品】 マイク入力 ライン入力 ヘッドホン出力 低遅延モニタリング 宅録 配信 Mac対応 Windows対応 ボーカル録音 ポッドキャスト ホームスタジオ 持ち運び,9480,"XLR, 6.35mm",USB Type-A,対応 (+48V),"Windows, macOS",192kHz
+ai-search-102,Series 208i,"TASCAM SERIES 208i 20 in / 8 out, 24 bit/192 kHz High Resolution USB Audio/MIDI Interface, Youtube Music Production, …",,"XLR×8, ライン×12",USB,,Win / Mac,192kHz
+ai-search-103,AudioBox USB 96,"PreSonus オーディオインターフェース AudioBox USB 96 (インターフェース単体, Blue)",,XLR/TRSコンボ×2,USB,,Win / Mac,
+ai-search-105,TC HELICON GO TWIN,オーディオ/MIDIインターフェース GO TWIN 【国内正規品】,19800,XLR/TRSコンボ,USB-miniB,対応 (+48V),"Windows, macOS,iOS",48kHz
+ai-search-106,MOTU 828,28in 32out USB-C 第五世代 オーディオインターフェース デジタルミキサー兼AD/DAコンバーター USB-DAC 録音配信機材 iPhone/iPad対応 ギター接続 DAWソフト＆エフェクト付属,189750,"XLR/TRSコンボ, 6.35mm , ADAT",USB Type-C,対応 (+48V),"Windows, macOS",192kHz
+ai-search-107,Positive Grid RIFF,録音 DTM RIFF【国内正規品】 ベース入力 低遅延 アンプシミュレーター連携,16390,6.35mm,USB,非対応,"Windows, macOS,iOS",96kHz
+ai-search-108,UR-RT4,Steinberg 24bit/192kHz対応 USBオーディオインターフェイス UR-RT4,,XLR/TRSコンボ、6.35ｍｍ,USB Type-A,対応 (+48V),"Windows, macOS,iOS",192kHz
+ai-search-109,iRig Stream Pro,ストリーミングオーディオインターフェース、インラインマルチ入力ミキサー、プロ品質のストリーミングに必要なすべての機能を手のひらに。,36413,XLR/TRSコンボ、RCA、3.5mm,USB Type-C,対応 (+48V),"Windows, macOS,iOS,Android",96kHz
+ai-search-110,ポータブルオーディオIF,ライブ配信・DJ出力・音楽制作に最適なポータブルオーディオインターフェース。USB-C接続、24bit/48kHz対応。ギター入力とヘッドホンモニタリングを搭載したコンパクトモデル,,6.35mm×1,USB Type-C,,Win / Mac,
+ai-search-111,Apogee BOOM,USB オーディオインターフェース 2イン3アウト（ヘッドフォン 0オーム出力） Mac & Windows対応 24bit/192kHz ハードウェアDSP搭載 USB Type-C対応 ダイナミックマイクに最適,39600,XLR/TRSコンボ、6.35ｍｍ,USB Type-C,対応 (+48V),"Windows, macOS,iOS",192kHz
+ai-search-112,SHURE MOTIV MVi,オーディオインターフェース MOTIVシリーズ Mvi iPhone iPad Android PC 対応 24bit/48kHz MVIA-LTG-A 【国内正規品】,,XLR/TRSコンボ,USB Type-C,対応 (+48V),"Windows, macOS,iOS,Android",48kHz
+ai-search-113,PBS-4,Vestax ライブ配信向け オーディオインターフェイス PBS-4 ステミキ/ビデオセレクト機能付き,,"XLR×2, RCA×2",USB,,Win / Mac,
+ai-search-114,Fluid Audio SRI-2,オーディオインターフェース 2入力 2出力 24bit 192kHz USB バランス入力 バランス出力 ブラック Roland レコーディング ハイレゾ,31242,XLR/TRSコンボ,USB Type-A,,Windows,192kHz
+ai-search-115,MV-Mixer,Saramonic USB Dual Channel 24-Bit / 192kHz Audio Interface Black MV-Mixer,19799,XLR/TRSコンボ,USB Type-C,対応 (+48V),"Windows, macOS",192kHz
+ai-search-116,Apollo Twin MKII,Universal Audio Apollo Twin MKII/Duo,,"XLR/TRSコンボ×2, Hi-Z×1, ADAT",USB,,Win,
+audio-interface-roland-bridge-cast-x,BRIDGE CAST X,X/HDMIビデオキャプチャ/ゲーミングDACアンプ/オーディオインターフェース/配信/ゲーミングミキサー/Mac/Windows / 2PC配信,65800,"XLR, HDMI ×2, USB Type-C ×2, AUX",USB Type-C (Win/Mac/PS5/Switch),対応 (+48V),"Windows, macOS, PS5, Switch",96kHz
+audio-interface-ssl2-mk2,SSL2 MkⅡ,ソリッド・ステート・ロジック/SSL2 MkⅡ オーディオインターフェース,39600,XLR/TRSコンボ ×2、Hi-Z (6.35mm) ×2,USB Type-C (Win/Mac/iOS),対応 (+48V),"Windows, macOS, iOS",192kHz
+audio-interface-ua-volt-276,Universal Audio Volt 276,【2in2out / 1176コンプ】 オーディオインターフェイス ヴィンテージプリアンプ DTM 国内正規品,49500,XLR/TRSコンボ,USB,対応 (+48V),"Windows, macOS, iOS",192kHz
+audio-interface-yamaha-ag06mk2-b,AG06MK2 B,6チャンネルの豊富な入力と直感的な操作性を備えた、ライブ配信・制作向けミキサー型オーディオインターフェース。,23798,"XLR/TRSコンボ, AUX, TRRS",USB Type-C (Win/Mac/iOS),対応 (+48V),"Windows, macOS, iOS",192kHz
+audio-interface-yamaha-urx22-w,URX22 W,4.3インチLCDタッチパネルと強力なエフェクト処理を本体に凝縮した、32bit/192kHz対応の次世代配信ミキサー。,39600,"XLR/TRSコンボ ×2, Hi-Z ×1, AUX, USB",USB Type-C (Win/Mac/iOS),対応 (+48V),"Windows, macOS, iOS",192kHz

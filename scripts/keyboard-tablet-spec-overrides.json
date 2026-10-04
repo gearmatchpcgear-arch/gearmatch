@@ -1,0 +1,100 @@
+{
+  "B0H41H7ZN7": {
+    "name": "BSKBB105BK",
+    "brand": "Buffalo",
+    "connection": "Bluetooth 5.0",
+    "layout": "JIS日本語配列（フルサイズ）",
+    "internalStructure": "メンブレン",
+    "compatibility": "Windows / Mac / iPadOS / iOS / Android / PS4",
+    "power": "単3形乾電池×2本"
+  },
+  "B09C2319L4": {
+    "name": "BSKBB105BK",
+    "brand": "Buffalo",
+    "connection": "Bluetooth 5.0",
+    "layout": "JIS日本語配列（フルサイズ）",
+    "internalStructure": "メンブレン",
+    "compatibility": "Windows / Mac / iPadOS / iOS / Android / PS4",
+    "power": "単3形乾電池×2本"
+  },
+  "B0924HZS3T": {
+    "name": "Ewin Bluetooth キーボード（スタンド付き）",
+    "brand": "Ewin",
+    "connection": "Bluetooth",
+    "layout": "JIS日本語配列",
+    "internalStructure": "パンタグラフ (シザー)・タッチパッド搭載",
+    "compatibility": "iPad / iPhone / タブレット / スマホ 汎用",
+    "power": "充電式 (USB-C)"
+  },
+  "B08DD75796": {
+    "name": "Ewin iPad 10.2/10.5インチ キーボード",
+    "brand": "Ewin",
+    "connection": "Bluetooth",
+    "layout": "JIS日本語配列",
+    "internalStructure": "パンタグラフ (シザー)・タッチパッド搭載",
+    "compatibility": "iPad 10.2 / 10.5インチ（第7〜9世代 / Air 第3世代）",
+    "power": "充電式 (USB-C)"
+  },
+  "B0H1MHXKZ6": {
+    "name": "Smart Keyboard（iPad 第9世代）",
+    "brand": "Apple",
+    "connection": "Smart Connector (Apple)",
+    "layout": "JIS日本語配列",
+    "internalStructure": "パンタグラフ (シザー)",
+    "compatibility": "iPad 10.2インチ 第9世代",
+    "power": "本体給電 (Smart Connector)",
+    "isUsed": true
+  },
+  "B0DXF9BM8R": {
+    "name": "Smart Keyboard（iPad 第9世代）",
+    "brand": "Apple",
+    "connection": "Smart Connector (Apple)",
+    "layout": "JIS日本語配列",
+    "internalStructure": "パンタグラフ (シザー)",
+    "compatibility": "iPad 10.2インチ 第9世代",
+    "power": "本体給電 (Smart Connector)",
+    "isUsed": true
+  },
+  "B0FX9SSLMT": {
+    "name": "ESR Shift iPad Air キーボード",
+    "brand": "ESR",
+    "connection": "Bluetooth",
+    "layout": "JIS日本語配列",
+    "internalStructure": "パンタグラフ (シザー)・タッチパッド搭載",
+    "compatibility": "iPad Air 11インチ (M2 / M3 / M4)"
+  },
+  "B0HBJPZ1C3": {
+    "name": "ESR Rebound iPad Air キーボード",
+    "brand": "ESR",
+    "connection": "Bluetooth",
+    "layout": "JIS日本語配列",
+    "internalStructure": "パンタグラフ (シザー)・タッチパッド搭載",
+    "compatibility": "iPad Air 11 / iPad Pro 11インチ"
+  },
+  "B0D62KFJN5": {
+    "name": "KEYS TO GO 2 for iPad",
+    "brand": "Logicool",
+    "connection": "Bluetooth",
+    "layout": "JIS日本語配列（コンパクト）",
+    "internalStructure": "低プロファイル・シザー",
+    "compatibility": "iPad 汎用",
+    "power": "充電式 (USB-C)"
+  },
+  "B0D4TZ7ZG4": {
+    "name": "Surface Pro キーボード",
+    "brand": "Microsoft",
+    "connection": "Surface Connect",
+    "layout": "JIS日本語配列",
+    "internalStructure": "パンタグラフ (シザー)・タッチパッド搭載",
+    "compatibility": "Surface Pro 8 / 9 / 10 / X / 11",
+    "power": "本体給電 (Surface Connect)"
+  },
+  "B0FJM32HGN": {
+    "name": "Ewin 折りたたみ Bluetooth キーボード",
+    "brand": "Ewin",
+    "connection": "Bluetooth",
+    "layout": "JIS日本語配列（折りたたみ）",
+    "internalStructure": "パンタグラフ (シザー)・タッチパッド搭載",
+    "compatibility": "iPad / タブレット / スマホ 汎用"
+  }
+}

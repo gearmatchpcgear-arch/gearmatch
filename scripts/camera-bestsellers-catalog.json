@@ -1,0 +1,5678 @@
+{
+  "fetchedAt": "2026-08-13T23:49:03.410Z",
+  "catalog": [
+    {
+      "id": "cam-bs-001",
+      "rank": 1,
+      "asin": "B07M6Y7355",
+      "rating": 4.2,
+      "reviews": 32138,
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B07M6Y7355",
+      "name": "C960",
+      "brand": "EMEET",
+      "tagline": "1080p / 30fps・90°画角・固定フォーカス・デュアルマイク (ノイズキャンセリング)",
+      "price": 2599,
+      "connection": "USB-A",
+      "resolution": "1080p / 30fps",
+      "fieldOfView": "90°",
+      "focusType": "固定フォーカス",
+      "microphone": "デュアルマイク (ノイズキャンセリング)",
+      "connector": "USB-A",
+      "frameRate": "30fps",
+      "dimensions": "90 × 45 × 45 mm",
+      "weight": "118 g",
+      "image": "https://m.media-amazon.com/images/I/61F+5bd0PUL._AC_SL1500_.jpg",
+      "highlights": [
+        {
+          "label": "解像度",
+          "value": "1080p / 30fps"
+        },
+        {
+          "label": "画角",
+          "value": "90°"
+        },
+        {
+          "label": "フォーカス",
+          "value": "固定フォーカス"
+        },
+        {
+          "label": "マイク",
+          "value": "デュアルマイク (ノイズキャンセリング)"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "サイズ / 重量",
+          "rows": [
+            {
+              "label": "寸法",
+              "value": "90 × 45 × 45 mm"
+            },
+            {
+              "label": "重量",
+              "value": "118 g"
+            }
+          ]
+        },
+        {
+          "title": "映像",
+          "rows": [
+            {
+              "label": "解像度",
+              "value": "1080p / 30fps"
+            },
+            {
+              "label": "フレームレート",
+              "value": "30fps"
+            },
+            {
+              "label": "画角",
+              "value": "90°"
+            },
+            {
+              "label": "フォーカス",
+              "value": "固定フォーカス"
+            },
+            {
+              "label": "マイク",
+              "value": "デュアルマイク (ノイズキャンセリング)"
+            }
+          ]
+        },
+        {
+          "title": "接続",
+          "rows": [
+            {
+              "label": "接続端子",
+              "value": "USB-A"
+            },
+            {
+              "label": "Amazon売れ筋",
+              "value": "Webカメラ #1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cam-bs-002",
+      "rank": 2,
+      "asin": "B0D21FZ5KN",
+      "rating": 4.1,
+      "reviews": 547,
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0D21FZ5KN",
+      "name": "C270nd",
+      "brand": "Logicool",
+      "tagline": "720p / 30fps・60°画角・固定フォーカス・モノラルマイク (ノイズリダクション)",
+      "price": 2490,
+      "connection": "USB-A",
+      "resolution": "720p / 30fps",
+      "fieldOfView": "60°",
+      "focusType": "固定フォーカス",
+      "microphone": "モノラルマイク (ノイズリダクション)",
+      "connector": "USB-A",
+      "frameRate": "30fps",
+      "dimensions": "72 × 52 × 19 mm",
+      "weight": "75 g",
+      "image": "https://m.media-amazon.com/images/I/51BdAtSHHkL._AC_SL1500_.jpg",
+      "highlights": [
+        {
+          "label": "解像度",
+          "value": "720p / 30fps"
+        },
+        {
+          "label": "画角",
+          "value": "60°"
+        },
+        {
+          "label": "フォーカス",
+          "value": "固定フォーカス"
+        },
+        {
+          "label": "マイク",
+          "value": "モノラルマイク (ノイズリダクション)"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "サイズ / 重量",
+          "rows": [
+            {
+              "label": "寸法",
+              "value": "72 × 52 × 19 mm"
+            },
+            {
+              "label": "重量",
+              "value": "75 g"
+            }
+          ]
+        },
+        {
+          "title": "映像",
+          "rows": [
+            {
+              "label": "解像度",
+              "value": "720p / 30fps"
+            },
+            {
+              "label": "フレームレート",
+              "value": "30fps"
+            },
+            {
+              "label": "画角",
+              "value": "60°"
+            },
+            {
+              "label": "フォーカス",
+              "value": "固定フォーカス"
+            },
+            {
+              "label": "マイク",
+              "value": "モノラルマイク (ノイズリダクション)"
+            }
+          ]
+        },
+        {
+          "title": "接続",
+          "rows": [
+            {
+              "label": "接続端子",
+              "value": "USB-A"
+            },
+            {
+              "label": "Amazon売れ筋",
+              "value": "Webカメラ #2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cam-bs-003",
+      "rank": 3,
+      "asin": "B07QQR6G5N",
+      "rating": 4.4,
+      "reviews": 7223,
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B07QQR6G5N",
+      "name": "C920n",
+      "brand": "Logicool",
+      "tagline": "フルHD 1080p・78°画角・オートフォーカス・デュアルステレオマイクの定番ウェブカメラ",
+      "price": 5200,
+      "connection": "USB-A",
+      "resolution": "1080p / 30fps",
+      "fieldOfView": "78°",
+      "focusType": "オートフォーカス",
+      "microphone": "デュアルステレオマイク",
+      "connector": "USB-A",
+      "frameRate": "30fps",
+      "dimensions": "94 × 71 × 43.3 mm",
+      "weight": "162 g",
+      "image": "https://m.media-amazon.com/images/I/61FLOm0OiLL._AC_SL1500_.jpg",
+      "highlights": [
+        {
+          "label": "解像度",
+          "value": "1080p / 30fps"
+        },
+        {
+          "label": "画角",
+          "value": "78°"
+        },
+        {
+          "label": "フォーカス",
+          "value": "オートフォーカス"
+        },
+        {
+          "label": "マイク",
+          "value": "デュアルステレオマイク"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "サイズ / 重量",
+          "rows": [
+            {
+              "label": "寸法",
+              "value": "94 × 71 × 43.3 mm"
+            },
+            {
+              "label": "重量",
+              "value": "162 g"
+            }
+          ]
+        },
+        {
+          "title": "映像",
+          "rows": [
+            {
+              "label": "解像度",
+              "value": "1080p / 30fps"
+            },
+            {
+              "label": "フレームレート",
+              "value": "30fps"
+            },
+            {
+              "label": "画角",
+              "value": "78°"
+            },
+            {
+              "label": "フォーカス",
+              "value": "オートフォーカス"
+            },
+            {
+              "label": "マイク",
+              "value": "デュアルステレオマイク"
+            }
+          ]
+        },
+        {
+          "title": "接続",
+          "rows": [
+            {
+              "label": "接続端子",
+              "value": "USB-A"
+            },
+            {
+              "label": "Amazon売れ筋",
+              "value": "Webカメラ #3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cam-bs-004",
+      "rank": 4,
+      "asin": "B09MHPFV4Q",
+      "rating": 4.4,
+      "reviews": 900,
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B09MHPFV4Q",
+      "name": "PowerConf C200",
+      "brand": "Anker",
+      "tagline": "2K画質・65°/78°/95°画角切替・AIノイズリダクション搭載のコンパクトウェブカメラ",
+      "price": 6980,
+      "connection": "USB-C (本体) / USB-A (PC側)",
+      "resolution": "2K / 30fps",
+      "fieldOfView": "65°/78°/95°",
+      "focusType": "オートフォーカス",
+      "microphone": "デュアルマイク (AIノイズリダクション)",
+      "connector": "USB-C (本体) / USB-A (PC側)",
+      "frameRate": "30fps",
+      "dimensions": "55 × 51 × 41 mm",
+      "weight": "83 g",
+      "image": "https://m.media-amazon.com/images/I/71xjnX1ckgL._AC_SL1500_.jpg",
+      "highlights": [
+        {
+          "label": "解像度",
+          "value": "2K / 30fps"
+        },
+        {
+          "label": "画角",
+          "value": "65°/78°/95°"
+        },
+        {
+          "label": "フォーカス",
+          "value": "オートフォーカス"
+        },
+        {
+          "label": "マイク",
+          "value": "デュアルマイク (AIノイズリダクション)"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "サイズ / 重量",
+          "rows": [
+            {
+              "label": "寸法",
+              "value": "55 × 51 × 41 mm"
+            },
+            {
+              "label": "重量",
+              "value": "83 g"
+            }
+          ]
+        },
+        {
+          "title": "映像",
+          "rows": [
+            {
+              "label": "解像度",
+              "value": "2K / 30fps"
+            },
+            {
+              "label": "フレームレート",
+              "value": "30fps"
+            },
+            {
+              "label": "画角",
+              "value": "65°/78°/95°"
+            },
+            {
+              "label": "フォーカス",
+              "value": "オートフォーカス"
+            },
+            {
+              "label": "マイク",
+              "value": "デュアルマイク (AIノイズリダクション)"
+            }
+          ]
+        },
+        {
+          "title": "接続",
+          "rows": [
+            {
+              "label": "接続端子",
+              "value": "USB-C (本体) / USB-A (PC側)"
+            },
+            {
+              "label": "Amazon売れ筋",
+              "value": "Webカメラ #4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cam-bs-005",
+      "rank": 5,
+      "asin": "B0C76ZD7KV",
+      "rating": 4.1,
+      "reviews": 6376,
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0C76ZD7KV",
+      "name": "FineCam Lite",
+      "brand": "UGREEN",
+      "tagline": "1080p / 30fps・85°画角・固定フォーカス・内蔵マイク",
+      "price": 1949,
+      "connection": "USB-A",
+      "resolution": "1080p / 30fps",
+      "fieldOfView": "85°",
+      "focusType": "固定フォーカス",
+      "microphone": "内蔵マイク",
+      "connector": "USB-A",
+      "frameRate": "30fps",
+      "dimensions": "5.8 × 11.4 × 12.2 cm",
+      "weight": "—",
+      "image": "https://m.media-amazon.com/images/I/61OOmC0MH7L._AC_SL1500_.jpg",
+      "highlights": [
+        {
+          "label": "解像度",
+          "value": "1080p / 30fps"
+        },
+        {
+          "label": "画角",
+          "value": "85°"
+        },
+        {
+          "label": "フォーカス",
+          "value": "固定フォーカス"
+        },
+        {
+          "label": "マイク",
+          "value": "内蔵マイク"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "サイズ / 重量",
+          "rows": [
+            {
+              "label": "寸法",
+              "value": "5.8 × 11.4 × 12.2 cm"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        },
+        {
+          "title": "映像",
+          "rows": [
+            {
+              "label": "解像度",
+              "value": "1080p / 30fps"
+            },
+            {
+              "label": "フレームレート",
+              "value": "30fps"
+            },
+            {
+              "label": "画角",
+              "value": "85°"
+            },
+            {
+              "label": "フォーカス",
+              "value": "固定フォーカス"
+            },
+            {
+              "label": "マイク",
+              "value": "内蔵マイク"
+            }
+          ]
+        },
+        {
+          "title": "接続",
+          "rows": [
+            {
+              "label": "接続端子",
+              "value": "USB-A"
+            },
+            {
+              "label": "Amazon売れ筋",
+              "value": "Webカメラ #5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cam-bs-006",
+      "rank": 6,
+      "asin": "B0BKTJ9X2H",
+      "rating": 4,
+      "reviews": 1077,
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0BKTJ9X2H",
+      "name": "Brio 100",
+      "brand": "Logicool",
+      "tagline": "1080p / 30fps・65°画角・固定フォーカス・モノラルマイク",
+      "price": 1830,
+      "connection": "USB-A",
+      "resolution": "1080p / 30fps",
+      "fieldOfView": "65°",
+      "focusType": "固定フォーカス",
+      "microphone": "モノラルマイク",
+      "connector": "USB-A",
+      "frameRate": "30fps",
+      "dimensions": "49 × 49 × 45 mm",
+      "weight": "75 g",
+      "image": "https://m.media-amazon.com/images/I/51s64c4REDL._AC_SL1500_.jpg",
+      "highlights": [
+        {
+          "label": "解像度",
+          "value": "1080p / 30fps"
+        },
+        {
+          "label": "画角",
+          "value": "65°"
+        },
+        {
+          "label": "フォーカス",
+          "value": "固定フォーカス"
+        },
+        {
+          "label": "マイク",
+          "value": "モノラルマイク"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "サイズ / 重量",
+          "rows": [
+            {
+              "label": "寸法",
+              "value": "49 × 49 × 45 mm"
+            },
+            {
+              "label": "重量",
+              "value": "75 g"
+            }
+          ]
+        },
+        {
+          "title": "映像",
+          "rows": [
+            {
+              "label": "解像度",
+              "value": "1080p / 30fps"
+            },
+            {
+              "label": "フレームレート",
+              "value": "30fps"
+            },
+            {
+              "label": "画角",
+              "value": "65°"
+            },
+            {
+              "label": "フォーカス",
+              "value": "固定フォーカス"
+            },
+            {
+              "label": "マイク",
+              "value": "モノラルマイク"
+            }
+          ]
+        },
+        {
+          "title": "接続",
+          "rows": [
+            {
+              "label": "接続端子",
+              "value": "USB-A"
+            },
+            {
+              "label": "Amazon売れ筋",
+              "value": "Webカメラ #6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cam-bs-007",
+      "rank": 7,
+      "asin": "B0CGLGQ9PD",
+      "rating": 4.3,
+      "reviews": 238,
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0CGLGQ9PD",
+      "name": "Brio 100",
+      "brand": "Logicool",
+      "tagline": "1080p / 30fps・65°画角・固定フォーカス・モノラルマイク",
+      "price": 3900,
+      "connection": "USB-A",
+      "resolution": "1080p / 30fps",
+      "fieldOfView": "65°",
+      "focusType": "固定フォーカス",
+      "microphone": "モノラルマイク",
+      "connector": "USB-A",
+      "frameRate": "30fps",
+      "dimensions": "—",
+      "weight": "—",
+      "image": "https://m.media-amazon.com/images/I/51qVgy7rFoL._AC_SL1500_.jpg",
+      "highlights": [
+        {
+          "label": "解像度",
+          "value": "1080p / 30fps"
+        },
+        {
+          "label": "画角",
+          "value": "65°"
+        },
+        {
+          "label": "フォーカス",
+          "value": "固定フォーカス"
+        },
+        {
+          "label": "マイク",
+          "value": "モノラルマイク"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "サイズ / 重量",
+          "rows": [
+            {
+              "label": "寸法",
+              "value": "—"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        },
+        {
+          "title": "映像",
+          "rows": [
+            {
+              "label": "解像度",
+              "value": "1080p / 30fps"
+            },
+            {
+              "label": "フレームレート",
+              "value": "30fps"
+            },
+            {
+              "label": "画角",
+              "value": "65°"
+            },
+            {
+              "label": "フォーカス",
+              "value": "固定フォーカス"
+            },
+            {
+              "label": "マイク",
+              "value": "モノラルマイク"
+            }
+          ]
+        },
+        {
+          "title": "接続",
+          "rows": [
+            {
+              "label": "接続端子",
+              "value": "USB-A"
+            },
+            {
+              "label": "Amazon売れ筋",
+              "value": "Webカメラ #7"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cam-bs-008",
+      "rank": 8,
+      "asin": "B0DT9MMZTL",
+      "rating": 4.4,
+      "reviews": 2162,
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0DT9MMZTL",
+      "name": "UCAM-CF20FBBK",
+      "brand": "ELECOM",
+      "tagline": "1080p / 30fps・78°画角・固定フォーカス・内蔵マイク",
+      "price": 3734,
+      "connection": "USB-A",
+      "resolution": "1080p / 30fps",
+      "fieldOfView": "78°",
+      "focusType": "固定フォーカス",
+      "microphone": "内蔵マイク",
+      "connector": "USB-A",
+      "frameRate": "30fps",
+      "dimensions": "—",
+      "weight": "—",
+      "image": "https://m.media-amazon.com/images/I/619KR4eEZkL._AC_SL1500_.jpg",
+      "highlights": [
+        {
+          "label": "解像度",
+          "value": "1080p / 30fps"
+        },
+        {
+          "label": "画角",
+          "value": "78°"
+        },
+        {
+          "label": "フォーカス",
+          "value": "固定フォーカス"
+        },
+        {
+          "label": "マイク",
+          "value": "内蔵マイク"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "サイズ / 重量",
+          "rows": [
+            {
+              "label": "寸法",
+              "value": "—"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        },
+        {
+          "title": "映像",
+          "rows": [
+            {
+              "label": "解像度",
+              "value": "1080p / 30fps"
+            },
+            {
+              "label": "フレームレート",
+              "value": "30fps"
+            },
+            {
+              "label": "画角",
+              "value": "78°"
+            },
+            {
+              "label": "フォーカス",
+              "value": "固定フォーカス"
+            },
+            {
+              "label": "マイク",
+              "value": "内蔵マイク"
+            }
+          ]
+        },
+        {
+          "title": "接続",
+          "rows": [
+            {
+              "label": "接続端子",
+              "value": "USB-A"
+            },
+            {
+              "label": "Amazon売れ筋",
+              "value": "Webカメラ #8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cam-bs-009",
+      "rank": 9,
+      "asin": "B08TG5SBH7",
+      "rating": 4.2,
+      "reviews": 1088,
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B08TG5SBH7",
+      "name": "UCAM-CF20FBBK",
+      "brand": "ELECOM",
+      "tagline": "1080p / 30fps・78°画角・固定フォーカス・内蔵マイク",
+      "price": 6980,
+      "connection": "USB-A",
+      "resolution": "1080p / 30fps",
+      "fieldOfView": "78°",
+      "focusType": "固定フォーカス",
+      "microphone": "内蔵マイク",
+      "connector": "USB-A",
+      "frameRate": "30fps",
+      "dimensions": "10 × 2.7 × 6.4 cm",
+      "weight": "—",
+      "image": "https://m.media-amazon.com/images/I/61iKPW6-F4L._AC_SL1500_.jpg",
+      "highlights": [
+        {
+          "label": "解像度",
+          "value": "1080p / 30fps"
+        },
+        {
+          "label": "画角",
+          "value": "78°"
+        },
+        {
+          "label": "フォーカス",
+          "value": "固定フォーカス"
+        },
+        {
+          "label": "マイク",
+          "value": "内蔵マイク"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "サイズ / 重量",
+          "rows": [
+            {
+              "label": "寸法",
+              "value": "10 × 2.7 × 6.4 cm"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        },
+        {
+          "title": "映像",
+          "rows": [
+            {
+              "label": "解像度",
+              "value": "1080p / 30fps"
+            },
+            {
+              "label": "フレームレート",
+              "value": "30fps"
+            },
+            {
+              "label": "画角",
+              "value": "78°"
+            },
+            {
+              "label": "フォーカス",
+              "value": "固定フォーカス"
+            },
+            {
+              "label": "マイク",
+              "value": "内蔵マイク"
+            }
+          ]
+        },
+        {
+          "title": "接続",
+          "rows": [
+            {
+              "label": "接続端子",
+              "value": "USB-A"
+            },
+            {
+              "label": "Amazon売れ筋",
+              "value": "Webカメラ #9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cam-bs-010",
+      "rank": 10,
+      "asin": "B0GS5Y4FBF",
+      "rating": 4.5,
+      "reviews": 75,
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0GS5Y4FBF",
+      "name": "4K Webカメラ",
+      "brand": "AOC",
+      "tagline": "4K / 30fps・99°画角・オートフォーカス・内蔵マイク",
+      "price": 6980,
+      "connection": "USB-A",
+      "resolution": "4K / 30fps",
+      "fieldOfView": "99°",
+      "focusType": "オートフォーカス",
+      "microphone": "内蔵マイク",
+      "connector": "USB-A",
+      "frameRate": "60fps (1080p)",
+      "dimensions": "9 × 3.2 × 3.3 cm",
+      "weight": "—",
+      "image": "https://m.media-amazon.com/images/I/61t1XOERA-L._AC_SL1500_.jpg",
+      "highlights": [
+        {
+          "label": "解像度",
+          "value": "4K / 30fps"
+        },
+        {
+          "label": "画角",
+          "value": "99°"
+        },
+        {
+          "label": "フォーカス",
+          "value": "オートフォーカス"
+        },
+        {
+          "label": "マイク",
+          "value": "内蔵マイク"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "サイズ / 重量",
+          "rows": [
+            {
+              "label": "寸法",
+              "value": "9 × 3.2 × 3.3 cm"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        },
+        {
+          "title": "映像",
+          "rows": [
+            {
+              "label": "解像度",
+              "value": "4K / 30fps"
+            },
+            {
+              "label": "フレームレート",
+              "value": "60fps (1080p)"
+            },
+            {
+              "label": "画角",
+              "value": "99°"
+            },
+            {
+              "label": "フォーカス",
+              "value": "オートフォーカス"
+            },
+            {
+              "label": "マイク",
+              "value": "内蔵マイク"
+            }
+          ]
+        },
+        {
+          "title": "接続",
+          "rows": [
+            {
+              "label": "接続端子",
+              "value": "USB-A"
+            },
+            {
+              "label": "Amazon売れ筋",
+              "value": "Webカメラ #10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cam-bs-011",
+      "rank": 11,
+      "asin": "B0GSVRGKG7",
+      "rating": 4.8,
+      "reviews": 70,
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0GSVRGKG7",
+      "name": "4K Webカメラ",
+      "brand": "AOC",
+      "tagline": "4K / 30fps・99°画角・オートフォーカス・内蔵マイク",
+      "price": 7219,
+      "connection": "USB-A",
+      "resolution": "4K / 30fps",
+      "fieldOfView": "99°",
+      "focusType": "オートフォーカス",
+      "microphone": "内蔵マイク",
+      "connector": "USB-A",
+      "frameRate": "60fps (1080p)",
+      "dimensions": "—",
+      "weight": "—",
+      "image": "https://m.media-amazon.com/images/I/61hAJjAvbKL._AC_SL1500_.jpg",
+      "highlights": [
+        {
+          "label": "解像度",
+          "value": "4K / 30fps"
+        },
+        {
+          "label": "画角",
+          "value": "99°"
+        },
+        {
+          "label": "フォーカス",
+          "value": "オートフォーカス"
+        },
+        {
+          "label": "マイク",
+          "value": "内蔵マイク"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "サイズ / 重量",
+          "rows": [
+            {
+              "label": "寸法",
+              "value": "—"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        },
+        {
+          "title": "映像",
+          "rows": [
+            {
+              "label": "解像度",
+              "value": "4K / 30fps"
+            },
+            {
+              "label": "フレームレート",
+              "value": "60fps (1080p)"
+            },
+            {
+              "label": "画角",
+              "value": "99°"
+            },
+            {
+              "label": "フォーカス",
+              "value": "オートフォーカス"
+            },
+            {
+              "label": "マイク",
+              "value": "内蔵マイク"
+            }
+          ]
+        },
+        {
+          "title": "接続",
+          "rows": [
+            {
+              "label": "接続端子",
+              "value": "USB-A"
+            },
+            {
+              "label": "Amazon売れ筋",
+              "value": "Webカメラ #11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cam-bs-012",
+      "rank": 12,
+      "asin": "B09241T966",
+      "rating": 4,
+      "reviews": 1937,
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B09241T966",
+      "name": "BSW305MBK",
+      "brand": "Buffalo",
+      "tagline": "1080p / 30fps・81°画角・固定フォーカス・内蔵マイク",
+      "price": 2780,
+      "connection": "USB-A",
+      "resolution": "1080p / 30fps",
+      "fieldOfView": "81°",
+      "focusType": "固定フォーカス",
+      "microphone": "内蔵マイク",
+      "connector": "USB-A",
+      "frameRate": "30fps",
+      "dimensions": "8 × 5.1 × 5 cm",
+      "weight": "—",
+      "image": "https://m.media-amazon.com/images/I/41xeSX5O0kS._AC_SL1500_.jpg",
+      "highlights": [
+        {
+          "label": "解像度",
+          "value": "1080p / 30fps"
+        },
+        {
+          "label": "画角",
+          "value": "81°"
+        },
+        {
+          "label": "フォーカス",
+          "value": "固定フォーカス"
+        },
+        {
+          "label": "マイク",
+          "value": "内蔵マイク"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "サイズ / 重量",
+          "rows": [
+            {
+              "label": "寸法",
+              "value": "8 × 5.1 × 5 cm"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        },
+        {
+          "title": "映像",
+          "rows": [
+            {
+              "label": "解像度",
+              "value": "1080p / 30fps"
+            },
+            {
+              "label": "フレームレート",
+              "value": "30fps"
+            },
+            {
+              "label": "画角",
+              "value": "81°"
+            },
+            {
+              "label": "フォーカス",
+              "value": "固定フォーカス"
+            },
+            {
+              "label": "マイク",
+              "value": "内蔵マイク"
+            }
+          ]
+        },
+        {
+          "title": "接続",
+          "rows": [
+            {
+              "label": "接続端子",
+              "value": "USB-A"
+            },
+            {
+              "label": "Amazon売れ筋",
+              "value": "Webカメラ #12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cam-bs-013",
+      "rank": 13,
+      "asin": "B078JJVC4J",
+      "rating": 3.8,
+      "reviews": 609,
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B078JJVC4J",
+      "name": "4K Webカメラ",
+      "brand": "AOC",
+      "tagline": "4K / 30fps・99°画角・固定フォーカス・内蔵マイク",
+      "price": 3068,
+      "connection": "USB-A",
+      "resolution": "4K / 30fps",
+      "fieldOfView": "99°",
+      "focusType": "固定フォーカス",
+      "microphone": "内蔵マイク",
+      "connector": "USB-A",
+      "frameRate": "30fps",
+      "dimensions": "6 × 3.9 × 5.2 cm",
+      "weight": "—",
+      "image": "https://m.media-amazon.com/images/I/51PbTI1r3ML._AC_SL1500_.jpg",
+      "highlights": [
+        {
+          "label": "解像度",
+          "value": "4K / 30fps"
+        },
+        {
+          "label": "画角",
+          "value": "99°"
+        },
+        {
+          "label": "フォーカス",
+          "value": "固定フォーカス"
+        },
+        {
+          "label": "マイク",
+          "value": "内蔵マイク"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "サイズ / 重量",
+          "rows": [
+            {
+              "label": "寸法",
+              "value": "6 × 3.9 × 5.2 cm"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        },
+        {
+          "title": "映像",
+          "rows": [
+            {
+              "label": "解像度",
+              "value": "4K / 30fps"
+            },
+            {
+              "label": "フレームレート",
+              "value": "30fps"
+            },
+            {
+              "label": "画角",
+              "value": "99°"
+            },
+            {
+              "label": "フォーカス",
+              "value": "固定フォーカス"
+            },
+            {
+              "label": "マイク",
+              "value": "内蔵マイク"
+            }
+          ]
+        },
+        {
+          "title": "接続",
+          "rows": [
+            {
+              "label": "接続端子",
+              "value": "USB-A"
+            },
+            {
+              "label": "Amazon売れ筋",
+              "value": "Webカメラ #13"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cam-bs-014",
+      "rank": 14,
+      "asin": "B0GGJ2ZKC1",
+      "rating": 4.7,
+      "reviews": 3176,
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0GGJ2ZKC1",
+      "name": "4K Webカメラ",
+      "brand": "AOC",
+      "tagline": "4K / 30fps・99°画角・固定フォーカス・内蔵マイク",
+      "price": 5143,
+      "connection": "USB-A",
+      "resolution": "4K / 30fps",
+      "fieldOfView": "99°",
+      "focusType": "固定フォーカス",
+      "microphone": "内蔵マイク",
+      "connector": "USB-A",
+      "frameRate": "30fps",
+      "dimensions": "—",
+      "weight": "—",
+      "image": "https://m.media-amazon.com/images/I/61t2DDONFfL._AC_SL1500_.jpg",
+      "highlights": [
+        {
+          "label": "解像度",
+          "value": "4K / 30fps"
+        },
+        {
+          "label": "画角",
+          "value": "99°"
+        },
+        {
+          "label": "フォーカス",
+          "value": "固定フォーカス"
+        },
+        {
+          "label": "マイク",
+          "value": "内蔵マイク"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "サイズ / 重量",
+          "rows": [
+            {
+              "label": "寸法",
+              "value": "—"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        },
+        {
+          "title": "映像",
+          "rows": [
+            {
+              "label": "解像度",
+              "value": "4K / 30fps"
+            },
+            {
+              "label": "フレームレート",
+              "value": "30fps"
+            },
+            {
+              "label": "画角",
+              "value": "99°"
+            },
+            {
+              "label": "フォーカス",
+              "value": "固定フォーカス"
+            },
+            {
+              "label": "マイク",
+              "value": "内蔵マイク"
+            }
+          ]
+        },
+        {
+          "title": "接続",
+          "rows": [
+            {
+              "label": "接続端子",
+              "value": "USB-A"
+            },
+            {
+              "label": "Amazon売れ筋",
+              "value": "Webカメラ #14"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cam-bs-015",
+      "rank": 15,
+      "asin": "B0GGDYW7TS",
+      "rating": 4,
+      "reviews": 25,
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0GGDYW7TS",
+      "name": "Full HD 1080p 200万画素 広角95° 小型 クリップ/スタンド式 固定フォーカス",
+      "brand": "—",
+      "tagline": "1080p / 30fps・95°画角・固定フォーカス・内蔵マイク",
+      "price": 1480,
+      "connection": "—",
+      "resolution": "1080p / 30fps",
+      "fieldOfView": "95°",
+      "focusType": "固定フォーカス",
+      "microphone": "内蔵マイク",
+      "connector": "—",
+      "frameRate": "30fps",
+      "dimensions": "—",
+      "weight": "—",
+      "image": "https://m.media-amazon.com/images/I/61AX-+9o+9L._AC_SL1500_.jpg",
+      "highlights": [
+        {
+          "label": "解像度",
+          "value": "1080p / 30fps"
+        },
+        {
+          "label": "画角",
+          "value": "95°"
+        },
+        {
+          "label": "フォーカス",
+          "value": "固定フォーカス"
+        },
+        {
+          "label": "マイク",
+          "value": "内蔵マイク"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "サイズ / 重量",
+          "rows": [
+            {
+              "label": "寸法",
+              "value": "—"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        },
+        {
+          "title": "映像",
+          "rows": [
+            {
+              "label": "解像度",
+              "value": "1080p / 30fps"
+            },
+            {
+              "label": "フレームレート",
+              "value": "30fps"
+            },
+            {
+              "label": "画角",
+              "value": "95°"
+            },
+            {
+              "label": "フォーカス",
+              "value": "固定フォーカス"
+            },
+            {
+              "label": "マイク",
+              "value": "内蔵マイク"
+            }
+          ]
+        },
+        {
+          "title": "接続",
+          "rows": [
+            {
+              "label": "接続端子",
+              "value": "—"
+            },
+            {
+              "label": "Amazon売れ筋",
+              "value": "Webカメラ #15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cam-bs-016",
+      "rank": 16,
+      "asin": "B0D2XS2KZC",
+      "rating": 4.3,
+      "reviews": 160,
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0D2XS2KZC",
+      "name": "S600",
+      "brand": "EMEET",
+      "tagline": "4K / 30fps・73°画角・オートフォーカス・AIノイズキャンセリングマイク",
+      "price": 8999,
+      "connection": "USB-A",
+      "resolution": "4K / 30fps",
+      "fieldOfView": "73°",
+      "focusType": "オートフォーカス",
+      "microphone": "AIノイズキャンセリングマイク",
+      "connector": "USB-A",
+      "frameRate": "60fps (1080p)",
+      "dimensions": "—",
+      "weight": "—",
+      "image": "https://m.media-amazon.com/images/I/61TdMwHZIAL._AC_SL1500_.jpg",
+      "highlights": [
+        {
+          "label": "解像度",
+          "value": "4K / 30fps"
+        },
+        {
+          "label": "画角",
+          "value": "73°"
+        },
+        {
+          "label": "フォーカス",
+          "value": "オートフォーカス"
+        },
+        {
+          "label": "マイク",
+          "value": "AIノイズキャンセリングマイク"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "サイズ / 重量",
+          "rows": [
+            {
+              "label": "寸法",
+              "value": "—"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        },
+        {
+          "title": "映像",
+          "rows": [
+            {
+              "label": "解像度",
+              "value": "4K / 30fps"
+            },
+            {
+              "label": "フレームレート",
+              "value": "60fps (1080p)"
+            },
+            {
+              "label": "画角",
+              "value": "73°"
+            },
+            {
+              "label": "フォーカス",
+              "value": "オートフォーカス"
+            },
+            {
+              "label": "マイク",
+              "value": "AIノイズキャンセリングマイク"
+            }
+          ]
+        },
+        {
+          "title": "接続",
+          "rows": [
+            {
+              "label": "接続端子",
+              "value": "USB-A"
+            },
+            {
+              "label": "Amazon売れ筋",
+              "value": "Webカメラ #16"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cam-bs-017",
+      "rank": 17,
+      "asin": "B07QMKND9M",
+      "rating": 4.2,
+      "reviews": 9141,
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B07QMKND9M",
+      "name": "C270n",
+      "brand": "Logicool",
+      "tagline": "720p / 30fps・60°画角・固定フォーカス・モノラルマイク (ノイズリダクション)",
+      "price": 2707,
+      "connection": "USB-A",
+      "resolution": "720p / 30fps",
+      "fieldOfView": "60°",
+      "focusType": "固定フォーカス",
+      "microphone": "モノラルマイク (ノイズリダクション)",
+      "connector": "USB-A",
+      "frameRate": "30fps",
+      "dimensions": "72 × 52 × 19 mm",
+      "weight": "75 g",
+      "image": "https://m.media-amazon.com/images/I/51BdAtSHHkL._AC_SL1500_.jpg",
+      "highlights": [
+        {
+          "label": "解像度",
+          "value": "720p / 30fps"
+        },
+        {
+          "label": "画角",
+          "value": "60°"
+        },
+        {
+          "label": "フォーカス",
+          "value": "固定フォーカス"
+        },
+        {
+          "label": "マイク",
+          "value": "モノラルマイク (ノイズリダクション)"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "サイズ / 重量",
+          "rows": [
+            {
+              "label": "寸法",
+              "value": "72 × 52 × 19 mm"
+            },
+            {
+              "label": "重量",
+              "value": "75 g"
+            }
+          ]
+        },
+        {
+          "title": "映像",
+          "rows": [
+            {
+              "label": "解像度",
+              "value": "720p / 30fps"
+            },
+            {
+              "label": "フレームレート",
+              "value": "30fps"
+            },
+            {
+              "label": "画角",
+              "value": "60°"
+            },
+            {
+              "label": "フォーカス",
+              "value": "固定フォーカス"
+            },
+            {
+              "label": "マイク",
+              "value": "モノラルマイク (ノイズリダクション)"
+            }
+          ]
+        },
+        {
+          "title": "接続",
+          "rows": [
+            {
+              "label": "接続端子",
+              "value": "USB-A"
+            },
+            {
+              "label": "Amazon売れ筋",
+              "value": "Webカメラ #17"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cam-bs-018",
+      "rank": 18,
+      "asin": "B0GYL41NT6",
+      "rating": 4.7,
+      "reviews": 29,
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0GYL41NT6",
+      "name": "ボディカメラ",
+      "brand": "DAMOACAM",
+      "tagline": "1080p / 30fps・75°画角・固定フォーカス・内蔵マイク",
+      "price": 13100,
+      "connection": "USB-A",
+      "resolution": "1080p / 30fps",
+      "fieldOfView": "75°",
+      "focusType": "固定フォーカス",
+      "microphone": "内蔵マイク",
+      "connector": "USB-A",
+      "frameRate": "30fps",
+      "dimensions": "—",
+      "weight": "—",
+      "image": "https://m.media-amazon.com/images/I/61egKonRD3L._AC_SL1500_.jpg",
+      "highlights": [
+        {
+          "label": "解像度",
+          "value": "1080p / 30fps"
+        },
+        {
+          "label": "画角",
+          "value": "75°"
+        },
+        {
+          "label": "フォーカス",
+          "value": "固定フォーカス"
+        },
+        {
+          "label": "マイク",
+          "value": "内蔵マイク"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "サイズ / 重量",
+          "rows": [
+            {
+              "label": "寸法",
+              "value": "—"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        },
+        {
+          "title": "映像",
+          "rows": [
+            {
+              "label": "解像度",
+              "value": "1080p / 30fps"
+            },
+            {
+              "label": "フレームレート",
+              "value": "30fps"
+            },
+            {
+              "label": "画角",
+              "value": "75°"
+            },
+            {
+              "label": "フォーカス",
+              "value": "固定フォーカス"
+            },
+            {
+              "label": "マイク",
+              "value": "内蔵マイク"
+            }
+          ]
+        },
+        {
+          "title": "接続",
+          "rows": [
+            {
+              "label": "接続端子",
+              "value": "USB-A"
+            },
+            {
+              "label": "Amazon売れ筋",
+              "value": "Webカメラ #18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cam-bs-019",
+      "rank": 19,
+      "asin": "B07MBQ1PT3",
+      "rating": 4.2,
+      "reviews": 7300,
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B07MBQ1PT3",
+      "name": "C960",
+      "brand": "EMEET",
+      "tagline": "1080p / 30fps・90°画角・固定フォーカス・デュアルマイク (ノイズキャンセリング)",
+      "price": 2999,
+      "connection": "USB-A",
+      "resolution": "1080p / 30fps",
+      "fieldOfView": "90°",
+      "focusType": "固定フォーカス",
+      "microphone": "デュアルマイク (ノイズキャンセリング)",
+      "connector": "USB-A",
+      "frameRate": "30fps",
+      "dimensions": "12.4 × 5.2 × 6.7 cm",
+      "weight": "—",
+      "image": "https://m.media-amazon.com/images/I/715vw91kWYL._AC_SL1500_.jpg",
+      "highlights": [
+        {
+          "label": "解像度",
+          "value": "1080p / 30fps"
+        },
+        {
+          "label": "画角",
+          "value": "90°"
+        },
+        {
+          "label": "フォーカス",
+          "value": "固定フォーカス"
+        },
+        {
+          "label": "マイク",
+          "value": "デュアルマイク (ノイズキャンセリング)"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "サイズ / 重量",
+          "rows": [
+            {
+              "label": "寸法",
+              "value": "12.4 × 5.2 × 6.7 cm"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        },
+        {
+          "title": "映像",
+          "rows": [
+            {
+              "label": "解像度",
+              "value": "1080p / 30fps"
+            },
+            {
+              "label": "フレームレート",
+              "value": "30fps"
+            },
+            {
+              "label": "画角",
+              "value": "90°"
+            },
+            {
+              "label": "フォーカス",
+              "value": "固定フォーカス"
+            },
+            {
+              "label": "マイク",
+              "value": "デュアルマイク (ノイズキャンセリング)"
+            }
+          ]
+        },
+        {
+          "title": "接続",
+          "rows": [
+            {
+              "label": "接続端子",
+              "value": "USB-A"
+            },
+            {
+              "label": "Amazon売れ筋",
+              "value": "Webカメラ #19"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cam-bs-020",
+      "rank": 20,
+      "asin": "B0BTY7C1G2",
+      "rating": 4.2,
+      "reviews": 183,
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0BTY7C1G2",
+      "name": "C960",
+      "brand": "EMEET",
+      "tagline": "1080p / 30fps・90°画角・内蔵マイク",
+      "price": 4799,
+      "connection": "USB-A",
+      "resolution": "1080p / 30fps",
+      "fieldOfView": "90°",
+      "focusType": "—",
+      "microphone": "内蔵マイク",
+      "connector": "USB-A",
+      "frameRate": "30fps",
+      "dimensions": "—",
+      "weight": "—",
+      "image": "https://m.media-amazon.com/images/I/61tozarrf+L._AC_SL1500_.jpg",
+      "highlights": [
+        {
+          "label": "解像度",
+          "value": "1080p / 30fps"
+        },
+        {
+          "label": "画角",
+          "value": "90°"
+        },
+        {
+          "label": "フォーカス",
+          "value": "—"
+        },
+        {
+          "label": "マイク",
+          "value": "内蔵マイク"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "サイズ / 重量",
+          "rows": [
+            {
+              "label": "寸法",
+              "value": "—"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        },
+        {
+          "title": "映像",
+          "rows": [
+            {
+              "label": "解像度",
+              "value": "1080p / 30fps"
+            },
+            {
+              "label": "フレームレート",
+              "value": "30fps"
+            },
+            {
+              "label": "画角",
+              "value": "90°"
+            },
+            {
+              "label": "フォーカス",
+              "value": "—"
+            },
+            {
+              "label": "マイク",
+              "value": "内蔵マイク"
+            }
+          ]
+        },
+        {
+          "title": "接続",
+          "rows": [
+            {
+              "label": "接続端子",
+              "value": "USB-A"
+            },
+            {
+              "label": "Amazon売れ筋",
+              "value": "Webカメラ #20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cam-bs-021",
+      "rank": 21,
+      "asin": "B0H6X3LVWB",
+      "rating": 4.9,
+      "reviews": 78,
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0H6X3LVWB",
+      "name": "1080P フルHD マイク内蔵 ノイズキャンセリング プライバシーカバー付属 広角レンズ 自動",
+      "brand": "—",
+      "tagline": "1080p / 30fps・ノイズキャンセリングマイク",
+      "price": 2199,
+      "connection": "USB-A",
+      "resolution": "1080p / 30fps",
+      "fieldOfView": "—",
+      "focusType": "—",
+      "microphone": "ノイズキャンセリングマイク",
+      "connector": "USB-A",
+      "frameRate": "30fps",
+      "dimensions": "—",
+      "weight": "—",
+      "image": "https://m.media-amazon.com/images/I/7149ZGy0AeL._AC_SL1500_.jpg",
+      "highlights": [
+        {
+          "label": "解像度",
+          "value": "1080p / 30fps"
+        },
+        {
+          "label": "画角",
+          "value": "—"
+        },
+        {
+          "label": "フォーカス",
+          "value": "—"
+        },
+        {
+          "label": "マイク",
+          "value": "ノイズキャンセリングマイク"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "サイズ / 重量",
+          "rows": [
+            {
+              "label": "寸法",
+              "value": "—"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        },
+        {
+          "title": "映像",
+          "rows": [
+            {
+              "label": "解像度",
+              "value": "1080p / 30fps"
+            },
+            {
+              "label": "フレームレート",
+              "value": "30fps"
+            },
+            {
+              "label": "画角",
+              "value": "—"
+            },
+            {
+              "label": "フォーカス",
+              "value": "—"
+            },
+            {
+              "label": "マイク",
+              "value": "ノイズキャンセリングマイク"
+            }
+          ]
+        },
+        {
+          "title": "接続",
+          "rows": [
+            {
+              "label": "接続端子",
+              "value": "USB-A"
+            },
+            {
+              "label": "Amazon売れ筋",
+              "value": "Webカメラ #21"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cam-bs-022",
+      "rank": 22,
+      "asin": "B09KC272JC",
+      "rating": 4.1,
+      "reviews": 867,
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B09KC272JC",
+      "name": "C950",
+      "brand": "EMEET",
+      "tagline": "1080p / 30fps・70°画角・固定フォーカス・デュアルマイク",
+      "price": 2399,
+      "connection": "USB-A",
+      "resolution": "1080p / 30fps",
+      "fieldOfView": "70°",
+      "focusType": "固定フォーカス",
+      "microphone": "デュアルマイク",
+      "connector": "USB-A",
+      "frameRate": "30fps",
+      "dimensions": "80 × 40 × 40 mm",
+      "weight": "90 g",
+      "image": "https://m.media-amazon.com/images/I/51-QZpvi9sL._AC_SL1500_.jpg",
+      "highlights": [
+        {
+          "label": "解像度",
+          "value": "1080p / 30fps"
+        },
+        {
+          "label": "画角",
+          "value": "70°"
+        },
+        {
+          "label": "フォーカス",
+          "value": "固定フォーカス"
+        },
+        {
+          "label": "マイク",
+          "value": "デュアルマイク"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "サイズ / 重量",
+          "rows": [
+            {
+              "label": "寸法",
+              "value": "80 × 40 × 40 mm"
+            },
+            {
+              "label": "重量",
+              "value": "90 g"
+            }
+          ]
+        },
+        {
+          "title": "映像",
+          "rows": [
+            {
+              "label": "解像度",
+              "value": "1080p / 30fps"
+            },
+            {
+              "label": "フレームレート",
+              "value": "30fps"
+            },
+            {
+              "label": "画角",
+              "value": "70°"
+            },
+            {
+              "label": "フォーカス",
+              "value": "固定フォーカス"
+            },
+            {
+              "label": "マイク",
+              "value": "デュアルマイク"
+            }
+          ]
+        },
+        {
+          "title": "接続",
+          "rows": [
+            {
+              "label": "接続端子",
+              "value": "USB-A"
+            },
+            {
+              "label": "Amazon売れ筋",
+              "value": "Webカメラ #22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cam-bs-023",
+      "rank": 23,
+      "asin": "B0GV33PHVC",
+      "rating": 4.3,
+      "reviews": 1057,
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0GV33PHVC",
+      "name": "HD 1080P  内蔵マイク、90°広角、自動光補正機能、USBプラグアンドプレイPCカメラ、",
+      "brand": "—",
+      "tagline": "1080p / 30fps・90°画角・内蔵マイク",
+      "price": 1760,
+      "connection": "USB-A",
+      "resolution": "1080p / 30fps",
+      "fieldOfView": "90°",
+      "focusType": "—",
+      "microphone": "内蔵マイク",
+      "connector": "USB-A",
+      "frameRate": "30fps",
+      "dimensions": "10 × 5 × 5.5 cm",
+      "weight": "—",
+      "image": "https://m.media-amazon.com/images/I/61uyuvoN0qL._AC_SL1500_.jpg",
+      "highlights": [
+        {
+          "label": "解像度",
+          "value": "1080p / 30fps"
+        },
+        {
+          "label": "画角",
+          "value": "90°"
+        },
+        {
+          "label": "フォーカス",
+          "value": "—"
+        },
+        {
+          "label": "マイク",
+          "value": "内蔵マイク"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "サイズ / 重量",
+          "rows": [
+            {
+              "label": "寸法",
+              "value": "10 × 5 × 5.5 cm"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        },
+        {
+          "title": "映像",
+          "rows": [
+            {
+              "label": "解像度",
+              "value": "1080p / 30fps"
+            },
+            {
+              "label": "フレームレート",
+              "value": "30fps"
+            },
+            {
+              "label": "画角",
+              "value": "90°"
+            },
+            {
+              "label": "フォーカス",
+              "value": "—"
+            },
+            {
+              "label": "マイク",
+              "value": "内蔵マイク"
+            }
+          ]
+        },
+        {
+          "title": "接続",
+          "rows": [
+            {
+              "label": "接続端子",
+              "value": "USB-A"
+            },
+            {
+              "label": "Amazon売れ筋",
+              "value": "Webカメラ #23"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cam-bs-024",
+      "rank": 24,
+      "asin": "B0D7V9BXPH",
+      "rating": 4.2,
+      "reviews": 5842,
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0D7V9BXPH",
+      "name": "C950 4K",
+      "brand": "EMEET",
+      "tagline": "4K / 30fps・73°画角・オートフォーカス・AIノイズキャンセリングマイク",
+      "price": 5499,
+      "connection": "USB-A",
+      "resolution": "4K / 30fps",
+      "fieldOfView": "73°",
+      "focusType": "オートフォーカス",
+      "microphone": "AIノイズキャンセリングマイク",
+      "connector": "USB-A",
+      "frameRate": "60fps (1080p)",
+      "dimensions": "—",
+      "weight": "—",
+      "image": "https://m.media-amazon.com/images/I/61AYxjaE3FL._AC_SL1500_.jpg",
+      "highlights": [
+        {
+          "label": "解像度",
+          "value": "4K / 30fps"
+        },
+        {
+          "label": "画角",
+          "value": "73°"
+        },
+        {
+          "label": "フォーカス",
+          "value": "オートフォーカス"
+        },
+        {
+          "label": "マイク",
+          "value": "AIノイズキャンセリングマイク"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "サイズ / 重量",
+          "rows": [
+            {
+              "label": "寸法",
+              "value": "—"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        },
+        {
+          "title": "映像",
+          "rows": [
+            {
+              "label": "解像度",
+              "value": "4K / 30fps"
+            },
+            {
+              "label": "フレームレート",
+              "value": "60fps (1080p)"
+            },
+            {
+              "label": "画角",
+              "value": "73°"
+            },
+            {
+              "label": "フォーカス",
+              "value": "オートフォーカス"
+            },
+            {
+              "label": "マイク",
+              "value": "AIノイズキャンセリングマイク"
+            }
+          ]
+        },
+        {
+          "title": "接続",
+          "rows": [
+            {
+              "label": "接続端子",
+              "value": "USB-A"
+            },
+            {
+              "label": "Amazon売れ筋",
+              "value": "Webカメラ #24"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cam-bs-025",
+      "rank": 25,
+      "asin": "B0F9N8RBF3",
+      "rating": 4.4,
+      "reviews": 746,
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0F9N8RBF3",
+      "name": "PIXY",
+      "brand": "EMEET",
+      "tagline": "4K / 30fps・73°画角・オートフォーカス・AIノイズキャンセリングマイク",
+      "price": 16000,
+      "connection": "USB-A",
+      "resolution": "4K / 30fps",
+      "fieldOfView": "73°",
+      "focusType": "オートフォーカス",
+      "microphone": "AIノイズキャンセリングマイク",
+      "connector": "USB-A",
+      "frameRate": "60fps (1080p)",
+      "dimensions": "—",
+      "weight": "—",
+      "image": "https://m.media-amazon.com/images/I/61+Z1GoSwxL._AC_SL1500_.jpg",
+      "highlights": [
+        {
+          "label": "解像度",
+          "value": "4K / 30fps"
+        },
+        {
+          "label": "画角",
+          "value": "73°"
+        },
+        {
+          "label": "フォーカス",
+          "value": "オートフォーカス"
+        },
+        {
+          "label": "マイク",
+          "value": "AIノイズキャンセリングマイク"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "サイズ / 重量",
+          "rows": [
+            {
+              "label": "寸法",
+              "value": "—"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        },
+        {
+          "title": "映像",
+          "rows": [
+            {
+              "label": "解像度",
+              "value": "4K / 30fps"
+            },
+            {
+              "label": "フレームレート",
+              "value": "60fps (1080p)"
+            },
+            {
+              "label": "画角",
+              "value": "73°"
+            },
+            {
+              "label": "フォーカス",
+              "value": "オートフォーカス"
+            },
+            {
+              "label": "マイク",
+              "value": "AIノイズキャンセリングマイク"
+            }
+          ]
+        },
+        {
+          "title": "接続",
+          "rows": [
+            {
+              "label": "接続端子",
+              "value": "USB-A"
+            },
+            {
+              "label": "Amazon売れ筋",
+              "value": "Webカメラ #25"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cam-bs-026",
+      "rank": 26,
+      "asin": "B0CVZW78XW",
+      "rating": 4.5,
+      "reviews": 42,
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0CVZW78XW",
+      "name": "MX BRIO 700",
+      "brand": "Logicool",
+      "tagline": "4K / 30fps・65°/78°/90°画角・オートフォーカス・AIノイズキャンセリングマイク",
+      "price": 29291,
+      "connection": "USB-C",
+      "resolution": "4K / 30fps",
+      "fieldOfView": "65°/78°/90°",
+      "focusType": "オートフォーカス",
+      "microphone": "AIノイズキャンセリングマイク",
+      "connector": "USB-C",
+      "frameRate": "60fps (1080p)",
+      "dimensions": "102 × 27 × 36 mm",
+      "weight": "71 g",
+      "image": "https://m.media-amazon.com/images/I/61WQr6U3mwL._AC_SL1500_.jpg",
+      "highlights": [
+        {
+          "label": "解像度",
+          "value": "4K / 30fps"
+        },
+        {
+          "label": "画角",
+          "value": "65°/78°/90°"
+        },
+        {
+          "label": "フォーカス",
+          "value": "オートフォーカス"
+        },
+        {
+          "label": "マイク",
+          "value": "AIノイズキャンセリングマイク"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "サイズ / 重量",
+          "rows": [
+            {
+              "label": "寸法",
+              "value": "102 × 27 × 36 mm"
+            },
+            {
+              "label": "重量",
+              "value": "71 g"
+            }
+          ]
+        },
+        {
+          "title": "映像",
+          "rows": [
+            {
+              "label": "解像度",
+              "value": "4K / 30fps"
+            },
+            {
+              "label": "フレームレート",
+              "value": "60fps (1080p)"
+            },
+            {
+              "label": "画角",
+              "value": "65°/78°/90°"
+            },
+            {
+              "label": "フォーカス",
+              "value": "オートフォーカス"
+            },
+            {
+              "label": "マイク",
+              "value": "AIノイズキャンセリングマイク"
+            }
+          ]
+        },
+        {
+          "title": "接続",
+          "rows": [
+            {
+              "label": "接続端子",
+              "value": "USB-C"
+            },
+            {
+              "label": "Amazon売れ筋",
+              "value": "Webカメラ #26"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cam-bs-027",
+      "rank": 27,
+      "asin": "B07YWDP7PD",
+      "rating": 3.9,
+      "reviews": 1163,
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B07YWDP7PD",
+      "name": "BSW505MBK",
+      "brand": "Buffalo",
+      "tagline": "1080p / 30fps・120°画角・固定フォーカス・内蔵マイク",
+      "price": 2980,
+      "connection": "USB-A",
+      "resolution": "1080p / 30fps",
+      "fieldOfView": "120°",
+      "focusType": "固定フォーカス",
+      "microphone": "内蔵マイク",
+      "connector": "USB-A",
+      "frameRate": "30fps",
+      "dimensions": "8 × 5.1 × 5 cm",
+      "weight": "—",
+      "image": "https://m.media-amazon.com/images/I/51ddgLEMbyL._AC_SL1500_.jpg",
+      "highlights": [
+        {
+          "label": "解像度",
+          "value": "1080p / 30fps"
+        },
+        {
+          "label": "画角",
+          "value": "120°"
+        },
+        {
+          "label": "フォーカス",
+          "value": "固定フォーカス"
+        },
+        {
+          "label": "マイク",
+          "value": "内蔵マイク"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "サイズ / 重量",
+          "rows": [
+            {
+              "label": "寸法",
+              "value": "8 × 5.1 × 5 cm"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        },
+        {
+          "title": "映像",
+          "rows": [
+            {
+              "label": "解像度",
+              "value": "1080p / 30fps"
+            },
+            {
+              "label": "フレームレート",
+              "value": "30fps"
+            },
+            {
+              "label": "画角",
+              "value": "120°"
+            },
+            {
+              "label": "フォーカス",
+              "value": "固定フォーカス"
+            },
+            {
+              "label": "マイク",
+              "value": "内蔵マイク"
+            }
+          ]
+        },
+        {
+          "title": "接続",
+          "rows": [
+            {
+              "label": "接続端子",
+              "value": "USB-A"
+            },
+            {
+              "label": "Amazon売れ筋",
+              "value": "Webカメラ #27"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cam-bs-028",
+      "rank": 28,
+      "asin": "B08B4YCV8Y",
+      "rating": 3.5,
+      "reviews": 154,
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B08B4YCV8Y",
+      "name": "フルHD 1080P 30FPS 広角  内蔵マイク  ノイズ対策 オートフォーカス 【在宅勤務",
+      "brand": "—",
+      "tagline": "1080p / 30fps・オートフォーカス・内蔵マイク",
+      "price": 1151,
+      "connection": "USB-A",
+      "resolution": "1080p / 30fps",
+      "fieldOfView": "—",
+      "focusType": "オートフォーカス",
+      "microphone": "内蔵マイク",
+      "connector": "USB-A",
+      "frameRate": "30fps",
+      "dimensions": "—",
+      "weight": "—",
+      "image": "https://m.media-amazon.com/images/I/515ch9elvcL._AC_SL1500_.jpg",
+      "highlights": [
+        {
+          "label": "解像度",
+          "value": "1080p / 30fps"
+        },
+        {
+          "label": "画角",
+          "value": "—"
+        },
+        {
+          "label": "フォーカス",
+          "value": "オートフォーカス"
+        },
+        {
+          "label": "マイク",
+          "value": "内蔵マイク"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "サイズ / 重量",
+          "rows": [
+            {
+              "label": "寸法",
+              "value": "—"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        },
+        {
+          "title": "映像",
+          "rows": [
+            {
+              "label": "解像度",
+              "value": "1080p / 30fps"
+            },
+            {
+              "label": "フレームレート",
+              "value": "30fps"
+            },
+            {
+              "label": "画角",
+              "value": "—"
+            },
+            {
+              "label": "フォーカス",
+              "value": "オートフォーカス"
+            },
+            {
+              "label": "マイク",
+              "value": "内蔵マイク"
+            }
+          ]
+        },
+        {
+          "title": "接続",
+          "rows": [
+            {
+              "label": "接続端子",
+              "value": "USB-A"
+            },
+            {
+              "label": "Amazon売れ筋",
+              "value": "Webカメラ #28"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cam-bs-029",
+      "rank": 29,
+      "asin": "B0FSKDTVVG",
+      "rating": 3.8,
+      "reviews": 100,
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0FSKDTVVG",
+      "name": "2K Windows Hello Webカメラ",
+      "brand": "—",
+      "tagline": "2K / 30fps・ノイズキャンセリングマイク",
+      "price": 5999,
+      "connection": "USB-A",
+      "resolution": "2K / 30fps",
+      "fieldOfView": "—",
+      "focusType": "—",
+      "microphone": "ノイズキャンセリングマイク",
+      "connector": "USB-A",
+      "frameRate": "30fps",
+      "dimensions": "—",
+      "weight": "—",
+      "image": "https://m.media-amazon.com/images/I/51Lnf1OrwOL._AC_SL1500_.jpg",
+      "highlights": [
+        {
+          "label": "解像度",
+          "value": "2K / 30fps"
+        },
+        {
+          "label": "画角",
+          "value": "—"
+        },
+        {
+          "label": "フォーカス",
+          "value": "—"
+        },
+        {
+          "label": "マイク",
+          "value": "ノイズキャンセリングマイク"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "サイズ / 重量",
+          "rows": [
+            {
+              "label": "寸法",
+              "value": "—"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        },
+        {
+          "title": "映像",
+          "rows": [
+            {
+              "label": "解像度",
+              "value": "2K / 30fps"
+            },
+            {
+              "label": "フレームレート",
+              "value": "30fps"
+            },
+            {
+              "label": "画角",
+              "value": "—"
+            },
+            {
+              "label": "フォーカス",
+              "value": "—"
+            },
+            {
+              "label": "マイク",
+              "value": "ノイズキャンセリングマイク"
+            }
+          ]
+        },
+        {
+          "title": "接続",
+          "rows": [
+            {
+              "label": "接続端子",
+              "value": "USB-A"
+            },
+            {
+              "label": "Amazon売れ筋",
+              "value": "Webカメラ #29"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cam-bs-030",
+      "rank": 30,
+      "asin": "B0G3SSQMJQ",
+      "rating": 4.5,
+      "reviews": 206,
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0G3SSQMJQ",
+      "name": "Link 2C Pro",
+      "brand": "Insta360",
+      "tagline": "4K / 30fps・79°画角・オートフォーカス・AIノイズキャンセリングマイク",
+      "price": 34500,
+      "connection": "USB-C",
+      "resolution": "4K / 30fps",
+      "fieldOfView": "79°",
+      "focusType": "オートフォーカス",
+      "microphone": "AIノイズキャンセリングマイク",
+      "connector": "USB-C",
+      "frameRate": "60fps (1080p)",
+      "dimensions": "—",
+      "weight": "—",
+      "image": "https://m.media-amazon.com/images/I/51TZdllIO-L._AC_SL1500_.jpg",
+      "highlights": [
+        {
+          "label": "解像度",
+          "value": "4K / 30fps"
+        },
+        {
+          "label": "画角",
+          "value": "79°"
+        },
+        {
+          "label": "フォーカス",
+          "value": "オートフォーカス"
+        },
+        {
+          "label": "マイク",
+          "value": "AIノイズキャンセリングマイク"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "サイズ / 重量",
+          "rows": [
+            {
+              "label": "寸法",
+              "value": "—"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        },
+        {
+          "title": "映像",
+          "rows": [
+            {
+              "label": "解像度",
+              "value": "4K / 30fps"
+            },
+            {
+              "label": "フレームレート",
+              "value": "60fps (1080p)"
+            },
+            {
+              "label": "画角",
+              "value": "79°"
+            },
+            {
+              "label": "フォーカス",
+              "value": "オートフォーカス"
+            },
+            {
+              "label": "マイク",
+              "value": "AIノイズキャンセリングマイク"
+            }
+          ]
+        },
+        {
+          "title": "接続",
+          "rows": [
+            {
+              "label": "接続端子",
+              "value": "USB-C"
+            },
+            {
+              "label": "Amazon売れ筋",
+              "value": "Webカメラ #30"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cam-bs-051",
+      "rank": 51,
+      "asin": "B0GM1JWVGC",
+      "rating": 3.8,
+      "reviews": 8,
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0GM1JWVGC",
+      "name": "V02AF",
+      "brand": "NearStream",
+      "tagline": "1080p / 60fps・95°/75°/60°画角・内蔵マイク",
+      "price": 1380,
+      "connection": "USB-A",
+      "resolution": "1080p / 60fps",
+      "fieldOfView": "95°/75°/60°",
+      "focusType": "—",
+      "microphone": "内蔵マイク",
+      "connector": "USB-A",
+      "frameRate": "60fps",
+      "dimensions": "—",
+      "weight": "—",
+      "image": "https://m.media-amazon.com/images/I/61qw1wOTRNL._AC_SL1500_.jpg",
+      "highlights": [
+        {
+          "label": "解像度",
+          "value": "1080p / 60fps"
+        },
+        {
+          "label": "画角",
+          "value": "95°/75°/60°"
+        },
+        {
+          "label": "フォーカス",
+          "value": "—"
+        },
+        {
+          "label": "マイク",
+          "value": "内蔵マイク"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "サイズ / 重量",
+          "rows": [
+            {
+              "label": "寸法",
+              "value": "—"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        },
+        {
+          "title": "映像",
+          "rows": [
+            {
+              "label": "解像度",
+              "value": "1080p / 60fps"
+            },
+            {
+              "label": "フレームレート",
+              "value": "60fps"
+            },
+            {
+              "label": "画角",
+              "value": "95°/75°/60°"
+            },
+            {
+              "label": "フォーカス",
+              "value": "—"
+            },
+            {
+              "label": "マイク",
+              "value": "内蔵マイク"
+            }
+          ]
+        },
+        {
+          "title": "接続",
+          "rows": [
+            {
+              "label": "接続端子",
+              "value": "USB-A"
+            },
+            {
+              "label": "Amazon売れ筋",
+              "value": "Webカメラ #51"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cam-bs-052",
+      "rank": 52,
+      "asin": "B0DMZV9N81",
+      "rating": 4.2,
+      "reviews": 87,
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0DMZV9N81",
+      "name": "V02AF",
+      "brand": "NearStream",
+      "tagline": "1080p / 60fps・95°/75°/60°画角・内蔵マイク",
+      "price": 5499,
+      "connection": "USB-A",
+      "resolution": "1080p / 60fps",
+      "fieldOfView": "95°/75°/60°",
+      "focusType": "—",
+      "microphone": "内蔵マイク",
+      "connector": "USB-A",
+      "frameRate": "60fps",
+      "dimensions": "42 × 43 × 61 cm",
+      "weight": "—",
+      "image": "https://m.media-amazon.com/images/I/51uCaMu5d2L._AC_SL1500_.jpg",
+      "highlights": [
+        {
+          "label": "解像度",
+          "value": "1080p / 60fps"
+        },
+        {
+          "label": "画角",
+          "value": "95°/75°/60°"
+        },
+        {
+          "label": "フォーカス",
+          "value": "—"
+        },
+        {
+          "label": "マイク",
+          "value": "内蔵マイク"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "サイズ / 重量",
+          "rows": [
+            {
+              "label": "寸法",
+              "value": "42 × 43 × 61 cm"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        },
+        {
+          "title": "映像",
+          "rows": [
+            {
+              "label": "解像度",
+              "value": "1080p / 60fps"
+            },
+            {
+              "label": "フレームレート",
+              "value": "60fps"
+            },
+            {
+              "label": "画角",
+              "value": "95°/75°/60°"
+            },
+            {
+              "label": "フォーカス",
+              "value": "—"
+            },
+            {
+              "label": "マイク",
+              "value": "内蔵マイク"
+            }
+          ]
+        },
+        {
+          "title": "接続",
+          "rows": [
+            {
+              "label": "接続端子",
+              "value": "USB-A"
+            },
+            {
+              "label": "Amazon売れ筋",
+              "value": "Webカメラ #52"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cam-bs-053",
+      "rank": 53,
+      "asin": "B086R71LGW",
+      "rating": 4.4,
+      "reviews": 1777,
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B086R71LGW",
+      "name": "C980GR",
+      "brand": "Logicool",
+      "tagline": "1080p / 60fps・90°画角・オートフォーカス・内蔵マイク",
+      "price": 23980,
+      "connection": "USB-C",
+      "resolution": "1080p / 60fps",
+      "fieldOfView": "90°",
+      "focusType": "オートフォーカス",
+      "microphone": "内蔵マイク",
+      "connector": "USB-C",
+      "frameRate": "60fps",
+      "dimensions": "5.8 × 6.6 × 4.8 cm",
+      "weight": "—",
+      "image": "https://m.media-amazon.com/images/I/71sCQlUWp8L._AC_SL1500_.jpg",
+      "highlights": [
+        {
+          "label": "解像度",
+          "value": "1080p / 60fps"
+        },
+        {
+          "label": "画角",
+          "value": "90°"
+        },
+        {
+          "label": "フォーカス",
+          "value": "オートフォーカス"
+        },
+        {
+          "label": "マイク",
+          "value": "内蔵マイク"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "サイズ / 重量",
+          "rows": [
+            {
+              "label": "寸法",
+              "value": "5.8 × 6.6 × 4.8 cm"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        },
+        {
+          "title": "映像",
+          "rows": [
+            {
+              "label": "解像度",
+              "value": "1080p / 60fps"
+            },
+            {
+              "label": "フレームレート",
+              "value": "60fps"
+            },
+            {
+              "label": "画角",
+              "value": "90°"
+            },
+            {
+              "label": "フォーカス",
+              "value": "オートフォーカス"
+            },
+            {
+              "label": "マイク",
+              "value": "内蔵マイク"
+            }
+          ]
+        },
+        {
+          "title": "接続",
+          "rows": [
+            {
+              "label": "接続端子",
+              "value": "USB-C"
+            },
+            {
+              "label": "Amazon売れ筋",
+              "value": "Webカメラ #53"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cam-bs-054",
+      "rank": 54,
+      "asin": "B088TSR6YJ",
+      "rating": 4.3,
+      "reviews": 46241,
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B088TSR6YJ",
+      "name": "N60",
+      "brand": "NexiGo",
+      "tagline": "1080p / 30fps・内蔵マイク",
+      "price": 2999,
+      "connection": "USB-A",
+      "resolution": "1080p / 30fps",
+      "fieldOfView": "—",
+      "focusType": "—",
+      "microphone": "内蔵マイク",
+      "connector": "USB-A",
+      "frameRate": "30fps",
+      "dimensions": "8 × 5.5 × 6.5 cm",
+      "weight": "—",
+      "image": "https://m.media-amazon.com/images/I/516WC9mU3-L._AC_SL1500_.jpg",
+      "highlights": [
+        {
+          "label": "解像度",
+          "value": "1080p / 30fps"
+        },
+        {
+          "label": "画角",
+          "value": "—"
+        },
+        {
+          "label": "フォーカス",
+          "value": "—"
+        },
+        {
+          "label": "マイク",
+          "value": "内蔵マイク"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "サイズ / 重量",
+          "rows": [
+            {
+              "label": "寸法",
+              "value": "8 × 5.5 × 6.5 cm"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        },
+        {
+          "title": "映像",
+          "rows": [
+            {
+              "label": "解像度",
+              "value": "1080p / 30fps"
+            },
+            {
+              "label": "フレームレート",
+              "value": "30fps"
+            },
+            {
+              "label": "画角",
+              "value": "—"
+            },
+            {
+              "label": "フォーカス",
+              "value": "—"
+            },
+            {
+              "label": "マイク",
+              "value": "内蔵マイク"
+            }
+          ]
+        },
+        {
+          "title": "接続",
+          "rows": [
+            {
+              "label": "接続端子",
+              "value": "USB-A"
+            },
+            {
+              "label": "Amazon売れ筋",
+              "value": "Webカメラ #54"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cam-bs-055",
+      "rank": 55,
+      "asin": "B0BQYCMGNP",
+      "rating": 4.2,
+      "reviews": 37,
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0BQYCMGNP",
+      "name": "4K Webカメラ",
+      "brand": "DEPSTECH",
+      "tagline": "4K / 30fps・オートフォーカス・デュアルマイク",
+      "price": 5900,
+      "connection": "USB-A",
+      "resolution": "4K / 30fps",
+      "fieldOfView": "—",
+      "focusType": "オートフォーカス",
+      "microphone": "デュアルマイク",
+      "connector": "USB-A",
+      "frameRate": "30fps",
+      "dimensions": "—",
+      "weight": "—",
+      "image": "https://m.media-amazon.com/images/I/5179HTtA9PL._AC_SL1500_.jpg",
+      "highlights": [
+        {
+          "label": "解像度",
+          "value": "4K / 30fps"
+        },
+        {
+          "label": "画角",
+          "value": "—"
+        },
+        {
+          "label": "フォーカス",
+          "value": "オートフォーカス"
+        },
+        {
+          "label": "マイク",
+          "value": "デュアルマイク"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "サイズ / 重量",
+          "rows": [
+            {
+              "label": "寸法",
+              "value": "—"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        },
+        {
+          "title": "映像",
+          "rows": [
+            {
+              "label": "解像度",
+              "value": "4K / 30fps"
+            },
+            {
+              "label": "フレームレート",
+              "value": "30fps"
+            },
+            {
+              "label": "画角",
+              "value": "—"
+            },
+            {
+              "label": "フォーカス",
+              "value": "オートフォーカス"
+            },
+            {
+              "label": "マイク",
+              "value": "デュアルマイク"
+            }
+          ]
+        },
+        {
+          "title": "接続",
+          "rows": [
+            {
+              "label": "接続端子",
+              "value": "USB-A"
+            },
+            {
+              "label": "Amazon売れ筋",
+              "value": "Webカメラ #55"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cam-bs-056",
+      "rank": 56,
+      "asin": "B08QF47VQB",
+      "rating": 4.2,
+      "reviews": 1645,
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B08QF47VQB",
+      "name": "4K Webカメラ",
+      "brand": "DEPSTECH",
+      "tagline": "4K / 30fps・オートフォーカス・デュアルマイク",
+      "price": 3799,
+      "connection": "USB-A",
+      "resolution": "4K / 30fps",
+      "fieldOfView": "—",
+      "focusType": "オートフォーカス",
+      "microphone": "デュアルマイク",
+      "connector": "USB-A",
+      "frameRate": "30fps",
+      "dimensions": "—",
+      "weight": "—",
+      "image": "https://m.media-amazon.com/images/I/716IBU12OUL._AC_SL1500_.jpg",
+      "highlights": [
+        {
+          "label": "解像度",
+          "value": "4K / 30fps"
+        },
+        {
+          "label": "画角",
+          "value": "—"
+        },
+        {
+          "label": "フォーカス",
+          "value": "オートフォーカス"
+        },
+        {
+          "label": "マイク",
+          "value": "デュアルマイク"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "サイズ / 重量",
+          "rows": [
+            {
+              "label": "寸法",
+              "value": "—"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        },
+        {
+          "title": "映像",
+          "rows": [
+            {
+              "label": "解像度",
+              "value": "4K / 30fps"
+            },
+            {
+              "label": "フレームレート",
+              "value": "30fps"
+            },
+            {
+              "label": "画角",
+              "value": "—"
+            },
+            {
+              "label": "フォーカス",
+              "value": "オートフォーカス"
+            },
+            {
+              "label": "マイク",
+              "value": "デュアルマイク"
+            }
+          ]
+        },
+        {
+          "title": "接続",
+          "rows": [
+            {
+              "label": "接続端子",
+              "value": "USB-A"
+            },
+            {
+              "label": "Amazon売れ筋",
+              "value": "Webカメラ #56"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cam-bs-057",
+      "rank": 57,
+      "asin": "B0D9W7W7PZ",
+      "rating": 4.4,
+      "reviews": 1561,
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0D9W7W7PZ",
+      "name": "MEET 2",
+      "brand": "OBSBOT",
+      "tagline": "4K / 30fps・オートフォーカス・ノイズ低減マイク",
+      "price": 21800,
+      "connection": "USB-C",
+      "resolution": "4K / 30fps",
+      "fieldOfView": "—",
+      "focusType": "オートフォーカス",
+      "microphone": "ノイズ低減マイク",
+      "connector": "USB-C",
+      "frameRate": "30fps",
+      "dimensions": "—",
+      "weight": "—",
+      "image": "https://m.media-amazon.com/images/I/51fJeZhKPaL._AC_SL1500_.jpg",
+      "highlights": [
+        {
+          "label": "解像度",
+          "value": "4K / 30fps"
+        },
+        {
+          "label": "画角",
+          "value": "—"
+        },
+        {
+          "label": "フォーカス",
+          "value": "オートフォーカス"
+        },
+        {
+          "label": "マイク",
+          "value": "ノイズ低減マイク"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "サイズ / 重量",
+          "rows": [
+            {
+              "label": "寸法",
+              "value": "—"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        },
+        {
+          "title": "映像",
+          "rows": [
+            {
+              "label": "解像度",
+              "value": "4K / 30fps"
+            },
+            {
+              "label": "フレームレート",
+              "value": "30fps"
+            },
+            {
+              "label": "画角",
+              "value": "—"
+            },
+            {
+              "label": "フォーカス",
+              "value": "オートフォーカス"
+            },
+            {
+              "label": "マイク",
+              "value": "ノイズ低減マイク"
+            }
+          ]
+        },
+        {
+          "title": "接続",
+          "rows": [
+            {
+              "label": "接続端子",
+              "value": "USB-C"
+            },
+            {
+              "label": "Amazon売れ筋",
+              "value": "Webカメラ #57"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cam-bs-058",
+      "rank": 58,
+      "asin": "B0GK75YRGT",
+      "rating": 4.2,
+      "reviews": 7,
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0GK75YRGT",
+      "name": "C40",
+      "brand": "Nuroum",
+      "tagline": "4K / 30fps・120°画角・ノイズキャンセリングマイク",
+      "price": 39980,
+      "connection": "USB-A",
+      "resolution": "4K / 30fps",
+      "fieldOfView": "120°",
+      "focusType": "—",
+      "microphone": "ノイズキャンセリングマイク",
+      "connector": "USB-A",
+      "frameRate": "30fps",
+      "dimensions": "—",
+      "weight": "—",
+      "image": "https://m.media-amazon.com/images/I/610RqVFdtsL._AC_SL1500_.jpg",
+      "highlights": [
+        {
+          "label": "解像度",
+          "value": "4K / 30fps"
+        },
+        {
+          "label": "画角",
+          "value": "120°"
+        },
+        {
+          "label": "フォーカス",
+          "value": "—"
+        },
+        {
+          "label": "マイク",
+          "value": "ノイズキャンセリングマイク"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "サイズ / 重量",
+          "rows": [
+            {
+              "label": "寸法",
+              "value": "—"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        },
+        {
+          "title": "映像",
+          "rows": [
+            {
+              "label": "解像度",
+              "value": "4K / 30fps"
+            },
+            {
+              "label": "フレームレート",
+              "value": "30fps"
+            },
+            {
+              "label": "画角",
+              "value": "120°"
+            },
+            {
+              "label": "フォーカス",
+              "value": "—"
+            },
+            {
+              "label": "マイク",
+              "value": "ノイズキャンセリングマイク"
+            }
+          ]
+        },
+        {
+          "title": "接続",
+          "rows": [
+            {
+              "label": "接続端子",
+              "value": "USB-A"
+            },
+            {
+              "label": "Amazon売れ筋",
+              "value": "Webカメラ #58"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cam-bs-059",
+      "rank": 59,
+      "asin": "B0D2L7GR5L",
+      "rating": 4.3,
+      "reviews": 28,
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0D2L7GR5L",
+      "name": "C10",
+      "brand": "Nuroum",
+      "tagline": "1080p / 60fps・90°画角・内蔵マイク",
+      "price": 14980,
+      "connection": "USB-A",
+      "resolution": "1080p / 60fps",
+      "fieldOfView": "90°",
+      "focusType": "—",
+      "microphone": "内蔵マイク",
+      "connector": "USB-A",
+      "frameRate": "60fps",
+      "dimensions": "—",
+      "weight": "—",
+      "image": "https://m.media-amazon.com/images/I/61V6TofrsNL._AC_SL1500_.jpg",
+      "highlights": [
+        {
+          "label": "解像度",
+          "value": "1080p / 60fps"
+        },
+        {
+          "label": "画角",
+          "value": "90°"
+        },
+        {
+          "label": "フォーカス",
+          "value": "—"
+        },
+        {
+          "label": "マイク",
+          "value": "内蔵マイク"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "サイズ / 重量",
+          "rows": [
+            {
+              "label": "寸法",
+              "value": "—"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        },
+        {
+          "title": "映像",
+          "rows": [
+            {
+              "label": "解像度",
+              "value": "1080p / 60fps"
+            },
+            {
+              "label": "フレームレート",
+              "value": "60fps"
+            },
+            {
+              "label": "画角",
+              "value": "90°"
+            },
+            {
+              "label": "フォーカス",
+              "value": "—"
+            },
+            {
+              "label": "マイク",
+              "value": "内蔵マイク"
+            }
+          ]
+        },
+        {
+          "title": "接続",
+          "rows": [
+            {
+              "label": "接続端子",
+              "value": "USB-A"
+            },
+            {
+              "label": "Amazon売れ筋",
+              "value": "Webカメラ #59"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cam-bs-061",
+      "rank": 61,
+      "asin": "B0FX5QMB6K",
+      "rating": 3.8,
+      "reviews": 293,
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0FX5QMB6K",
+      "name": "Link 2 Pro",
+      "brand": "Insta360",
+      "tagline": "4K / 30fps・オートフォーカス・内蔵マイク",
+      "price": 6399,
+      "connection": "USB-C",
+      "resolution": "4K / 30fps",
+      "fieldOfView": "—",
+      "focusType": "オートフォーカス",
+      "microphone": "内蔵マイク",
+      "connector": "USB-C",
+      "frameRate": "60fps (1080p)",
+      "dimensions": "—",
+      "weight": "—",
+      "image": "https://m.media-amazon.com/images/I/61AlkaJb+gL._AC_SL1500_.jpg",
+      "highlights": [
+        {
+          "label": "解像度",
+          "value": "4K / 30fps"
+        },
+        {
+          "label": "画角",
+          "value": "—"
+        },
+        {
+          "label": "フォーカス",
+          "value": "オートフォーカス"
+        },
+        {
+          "label": "マイク",
+          "value": "内蔵マイク"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "サイズ / 重量",
+          "rows": [
+            {
+              "label": "寸法",
+              "value": "—"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        },
+        {
+          "title": "映像",
+          "rows": [
+            {
+              "label": "解像度",
+              "value": "4K / 30fps"
+            },
+            {
+              "label": "フレームレート",
+              "value": "60fps (1080p)"
+            },
+            {
+              "label": "画角",
+              "value": "—"
+            },
+            {
+              "label": "フォーカス",
+              "value": "オートフォーカス"
+            },
+            {
+              "label": "マイク",
+              "value": "内蔵マイク"
+            }
+          ]
+        },
+        {
+          "title": "接続",
+          "rows": [
+            {
+              "label": "接続端子",
+              "value": "USB-C"
+            },
+            {
+              "label": "Amazon売れ筋",
+              "value": "Webカメラ #61"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cam-bs-062",
+      "rank": 62,
+      "asin": "B0G3T1QKWL",
+      "rating": 4.6,
+      "reviews": 305,
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0G3T1QKWL",
+      "name": "Link 2 Pro",
+      "brand": "Insta360",
+      "tagline": "4K / 30fps・オートフォーカス・内蔵マイク",
+      "price": 42800,
+      "connection": "USB-C",
+      "resolution": "4K / 30fps",
+      "fieldOfView": "—",
+      "focusType": "オートフォーカス",
+      "microphone": "内蔵マイク",
+      "connector": "USB-C",
+      "frameRate": "60fps (1080p)",
+      "dimensions": "—",
+      "weight": "—",
+      "image": "https://m.media-amazon.com/images/I/61BmGGgAcuL._AC_SL1500_.jpg",
+      "highlights": [
+        {
+          "label": "解像度",
+          "value": "4K / 30fps"
+        },
+        {
+          "label": "画角",
+          "value": "—"
+        },
+        {
+          "label": "フォーカス",
+          "value": "オートフォーカス"
+        },
+        {
+          "label": "マイク",
+          "value": "内蔵マイク"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "サイズ / 重量",
+          "rows": [
+            {
+              "label": "寸法",
+              "value": "—"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        },
+        {
+          "title": "映像",
+          "rows": [
+            {
+              "label": "解像度",
+              "value": "4K / 30fps"
+            },
+            {
+              "label": "フレームレート",
+              "value": "60fps (1080p)"
+            },
+            {
+              "label": "画角",
+              "value": "—"
+            },
+            {
+              "label": "フォーカス",
+              "value": "オートフォーカス"
+            },
+            {
+              "label": "マイク",
+              "value": "内蔵マイク"
+            }
+          ]
+        },
+        {
+          "title": "接続",
+          "rows": [
+            {
+              "label": "接続端子",
+              "value": "USB-C"
+            },
+            {
+              "label": "Amazon売れ筋",
+              "value": "Webカメラ #62"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cam-bs-063",
+      "rank": 63,
+      "asin": "B0DKT19NKQ",
+      "rating": 4,
+      "reviews": 136,
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0DKT19NKQ",
+      "name": "書画カメラ 書が 実物投影機 :800万画素 折りたたみ式 USB 内蔵マイク 画像反転機能(の",
+      "brand": "—",
+      "tagline": "内蔵マイク",
+      "price": 8200,
+      "connection": "USB-C",
+      "resolution": "—",
+      "fieldOfView": "—",
+      "focusType": "—",
+      "microphone": "内蔵マイク",
+      "connector": "USB-C",
+      "frameRate": "—",
+      "dimensions": "—",
+      "weight": "—",
+      "image": "https://m.media-amazon.com/images/I/61f5IxF5QgL._AC_SL1500_.jpg",
+      "highlights": [
+        {
+          "label": "解像度",
+          "value": "—"
+        },
+        {
+          "label": "画角",
+          "value": "—"
+        },
+        {
+          "label": "フォーカス",
+          "value": "—"
+        },
+        {
+          "label": "マイク",
+          "value": "内蔵マイク"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "サイズ / 重量",
+          "rows": [
+            {
+              "label": "寸法",
+              "value": "—"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        },
+        {
+          "title": "映像",
+          "rows": [
+            {
+              "label": "解像度",
+              "value": "—"
+            },
+            {
+              "label": "フレームレート",
+              "value": "—"
+            },
+            {
+              "label": "画角",
+              "value": "—"
+            },
+            {
+              "label": "フォーカス",
+              "value": "—"
+            },
+            {
+              "label": "マイク",
+              "value": "内蔵マイク"
+            }
+          ]
+        },
+        {
+          "title": "接続",
+          "rows": [
+            {
+              "label": "接続端子",
+              "value": "USB-C"
+            },
+            {
+              "label": "Amazon売れ筋",
+              "value": "Webカメラ #63"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cam-bs-064",
+      "rank": 64,
+      "asin": "B0BFW55CRZ",
+      "rating": 4.1,
+      "reviews": 47,
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0BFW55CRZ",
+      "name": "Brio 90",
+      "brand": "Logicool",
+      "tagline": "1080p / 30fps・90°画角・オートフォーカス・内蔵マイク (ノイズリダクション)",
+      "price": 17800,
+      "connection": "USB-A",
+      "resolution": "1080p / 30fps",
+      "fieldOfView": "90°",
+      "focusType": "オートフォーカス",
+      "microphone": "内蔵マイク (ノイズリダクション)",
+      "connector": "USB-A",
+      "frameRate": "30fps",
+      "dimensions": "—",
+      "weight": "—",
+      "image": "https://m.media-amazon.com/images/I/51wkJ42I74L._AC_SL1500_.jpg",
+      "highlights": [
+        {
+          "label": "解像度",
+          "value": "1080p / 30fps"
+        },
+        {
+          "label": "画角",
+          "value": "90°"
+        },
+        {
+          "label": "フォーカス",
+          "value": "オートフォーカス"
+        },
+        {
+          "label": "マイク",
+          "value": "内蔵マイク (ノイズリダクション)"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "サイズ / 重量",
+          "rows": [
+            {
+              "label": "寸法",
+              "value": "—"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        },
+        {
+          "title": "映像",
+          "rows": [
+            {
+              "label": "解像度",
+              "value": "1080p / 30fps"
+            },
+            {
+              "label": "フレームレート",
+              "value": "30fps"
+            },
+            {
+              "label": "画角",
+              "value": "90°"
+            },
+            {
+              "label": "フォーカス",
+              "value": "オートフォーカス"
+            },
+            {
+              "label": "マイク",
+              "value": "内蔵マイク (ノイズリダクション)"
+            }
+          ]
+        },
+        {
+          "title": "接続",
+          "rows": [
+            {
+              "label": "接続端子",
+              "value": "USB-A"
+            },
+            {
+              "label": "Amazon売れ筋",
+              "value": "Webカメラ #64"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cam-bs-065",
+      "rank": 65,
+      "asin": "B08P81K67K",
+      "rating": 4,
+      "reviews": 10,
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B08P81K67K",
+      "name": "400-CAM086",
+      "brand": "サンワダイレクト",
+      "tagline": "1080p / 30fps・60°画角",
+      "price": 1660,
+      "connection": "USB-A",
+      "resolution": "1080p / 30fps",
+      "fieldOfView": "60°",
+      "focusType": "—",
+      "microphone": "—",
+      "connector": "USB-A",
+      "frameRate": "30fps",
+      "dimensions": "—",
+      "weight": "—",
+      "image": "https://m.media-amazon.com/images/I/51+Fmwygw2L._AC_SL1500_.jpg",
+      "highlights": [
+        {
+          "label": "解像度",
+          "value": "1080p / 30fps"
+        },
+        {
+          "label": "画角",
+          "value": "60°"
+        },
+        {
+          "label": "フォーカス",
+          "value": "—"
+        },
+        {
+          "label": "マイク",
+          "value": "—"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "サイズ / 重量",
+          "rows": [
+            {
+              "label": "寸法",
+              "value": "—"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        },
+        {
+          "title": "映像",
+          "rows": [
+            {
+              "label": "解像度",
+              "value": "1080p / 30fps"
+            },
+            {
+              "label": "フレームレート",
+              "value": "30fps"
+            },
+            {
+              "label": "画角",
+              "value": "60°"
+            },
+            {
+              "label": "フォーカス",
+              "value": "—"
+            },
+            {
+              "label": "マイク",
+              "value": "—"
+            }
+          ]
+        },
+        {
+          "title": "接続",
+          "rows": [
+            {
+              "label": "接続端子",
+              "value": "USB-A"
+            },
+            {
+              "label": "Amazon売れ筋",
+              "value": "Webカメラ #65"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cam-bs-066",
+      "rank": 66,
+      "asin": "B08TC3NR9L",
+      "rating": 3.9,
+      "reviews": 104,
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B08TC3NR9L",
+      "name": "400-CAM086",
+      "brand": "サンワダイレクト",
+      "tagline": "1080p / 30fps・60°画角",
+      "price": 4980,
+      "connection": "USB-A",
+      "resolution": "1080p / 30fps",
+      "fieldOfView": "60°",
+      "focusType": "—",
+      "microphone": "—",
+      "connector": "USB-A",
+      "frameRate": "30fps",
+      "dimensions": "—",
+      "weight": "—",
+      "image": "https://m.media-amazon.com/images/I/61Gk2NtxrLL._AC_SL1500_.jpg",
+      "highlights": [
+        {
+          "label": "解像度",
+          "value": "1080p / 30fps"
+        },
+        {
+          "label": "画角",
+          "value": "60°"
+        },
+        {
+          "label": "フォーカス",
+          "value": "—"
+        },
+        {
+          "label": "マイク",
+          "value": "—"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "サイズ / 重量",
+          "rows": [
+            {
+              "label": "寸法",
+              "value": "—"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        },
+        {
+          "title": "映像",
+          "rows": [
+            {
+              "label": "解像度",
+              "value": "1080p / 30fps"
+            },
+            {
+              "label": "フレームレート",
+              "value": "30fps"
+            },
+            {
+              "label": "画角",
+              "value": "60°"
+            },
+            {
+              "label": "フォーカス",
+              "value": "—"
+            },
+            {
+              "label": "マイク",
+              "value": "—"
+            }
+          ]
+        },
+        {
+          "title": "接続",
+          "rows": [
+            {
+              "label": "接続端子",
+              "value": "USB-A"
+            },
+            {
+              "label": "Amazon売れ筋",
+              "value": "Webカメラ #66"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cam-bs-067",
+      "rank": 67,
+      "asin": "B0H7L72NNP",
+      "rating": 4.4,
+      "reviews": 9,
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0H7L72NNP",
+      "name": "400-CAM103",
+      "brand": "サンワダイレクト",
+      "tagline": "1080p / 30fps・35°画角",
+      "price": 2480,
+      "connection": "USB-A",
+      "resolution": "1080p / 30fps",
+      "fieldOfView": "35°",
+      "focusType": "—",
+      "microphone": "—",
+      "connector": "USB-A",
+      "frameRate": "30fps",
+      "dimensions": "8 × 7 × 6 cm",
+      "weight": "—",
+      "image": "https://m.media-amazon.com/images/I/51UVj0-EKBL._AC_SL1500_.jpg",
+      "highlights": [
+        {
+          "label": "解像度",
+          "value": "1080p / 30fps"
+        },
+        {
+          "label": "画角",
+          "value": "35°"
+        },
+        {
+          "label": "フォーカス",
+          "value": "—"
+        },
+        {
+          "label": "マイク",
+          "value": "—"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "サイズ / 重量",
+          "rows": [
+            {
+              "label": "寸法",
+              "value": "8 × 7 × 6 cm"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        },
+        {
+          "title": "映像",
+          "rows": [
+            {
+              "label": "解像度",
+              "value": "1080p / 30fps"
+            },
+            {
+              "label": "フレームレート",
+              "value": "30fps"
+            },
+            {
+              "label": "画角",
+              "value": "35°"
+            },
+            {
+              "label": "フォーカス",
+              "value": "—"
+            },
+            {
+              "label": "マイク",
+              "value": "—"
+            }
+          ]
+        },
+        {
+          "title": "接続",
+          "rows": [
+            {
+              "label": "接続端子",
+              "value": "USB-A"
+            },
+            {
+              "label": "Amazon売れ筋",
+              "value": "Webカメラ #67"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cam-bs-068",
+      "rank": 68,
+      "asin": "B0BMKZK9WR",
+      "rating": 3.8,
+      "reviews": 33,
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0BMKZK9WR",
+      "name": "400-CAM103",
+      "brand": "サンワダイレクト",
+      "tagline": "1080p / 30fps・35°画角",
+      "price": 4980,
+      "connection": "USB-A",
+      "resolution": "1080p / 30fps",
+      "fieldOfView": "35°",
+      "focusType": "—",
+      "microphone": "—",
+      "connector": "USB-A",
+      "frameRate": "30fps",
+      "dimensions": "—",
+      "weight": "—",
+      "image": "https://m.media-amazon.com/images/I/611CpbVdbhL._AC_SL1500_.jpg",
+      "highlights": [
+        {
+          "label": "解像度",
+          "value": "1080p / 30fps"
+        },
+        {
+          "label": "画角",
+          "value": "35°"
+        },
+        {
+          "label": "フォーカス",
+          "value": "—"
+        },
+        {
+          "label": "マイク",
+          "value": "—"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "サイズ / 重量",
+          "rows": [
+            {
+              "label": "寸法",
+              "value": "—"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        },
+        {
+          "title": "映像",
+          "rows": [
+            {
+              "label": "解像度",
+              "value": "1080p / 30fps"
+            },
+            {
+              "label": "フレームレート",
+              "value": "30fps"
+            },
+            {
+              "label": "画角",
+              "value": "35°"
+            },
+            {
+              "label": "フォーカス",
+              "value": "—"
+            },
+            {
+              "label": "マイク",
+              "value": "—"
+            }
+          ]
+        },
+        {
+          "title": "接続",
+          "rows": [
+            {
+              "label": "接続端子",
+              "value": "USB-A"
+            },
+            {
+              "label": "Amazon売れ筋",
+              "value": "Webカメラ #68"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cam-bs-069",
+      "rank": 69,
+      "asin": "B08LN1LZX1",
+      "rating": 4.2,
+      "reviews": 985,
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B08LN1LZX1",
+      "name": "UCAM-C820ABBK",
+      "brand": "ELECOM",
+      "tagline": "1080p / 30fps・オートフォーカス・内蔵マイク",
+      "price": 4803,
+      "connection": "USB-A",
+      "resolution": "1080p / 30fps",
+      "fieldOfView": "—",
+      "focusType": "オートフォーカス",
+      "microphone": "内蔵マイク",
+      "connector": "USB-A",
+      "frameRate": "30fps",
+      "dimensions": "—",
+      "weight": "—",
+      "image": "https://m.media-amazon.com/images/I/612x96ElTSL._AC_SL1500_.jpg",
+      "highlights": [
+        {
+          "label": "解像度",
+          "value": "1080p / 30fps"
+        },
+        {
+          "label": "画角",
+          "value": "—"
+        },
+        {
+          "label": "フォーカス",
+          "value": "オートフォーカス"
+        },
+        {
+          "label": "マイク",
+          "value": "内蔵マイク"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "サイズ / 重量",
+          "rows": [
+            {
+              "label": "寸法",
+              "value": "—"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        },
+        {
+          "title": "映像",
+          "rows": [
+            {
+              "label": "解像度",
+              "value": "1080p / 30fps"
+            },
+            {
+              "label": "フレームレート",
+              "value": "30fps"
+            },
+            {
+              "label": "画角",
+              "value": "—"
+            },
+            {
+              "label": "フォーカス",
+              "value": "オートフォーカス"
+            },
+            {
+              "label": "マイク",
+              "value": "内蔵マイク"
+            }
+          ]
+        },
+        {
+          "title": "接続",
+          "rows": [
+            {
+              "label": "接続端子",
+              "value": "USB-A"
+            },
+            {
+              "label": "Amazon売れ筋",
+              "value": "Webカメラ #69"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cam-bs-070",
+      "rank": 70,
+      "asin": "B0GJ53RC61",
+      "rating": 4.5,
+      "reviews": 10,
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0GJ53RC61",
+      "name": "Tiny 3",
+      "brand": "OBSBOT",
+      "tagline": "4K / 30fps・オートフォーカス・空間オーディオマイク",
+      "price": 4999,
+      "connection": "USB-C",
+      "resolution": "4K / 30fps",
+      "fieldOfView": "—",
+      "focusType": "オートフォーカス",
+      "microphone": "空間オーディオマイク",
+      "connector": "USB-C",
+      "frameRate": "30fps",
+      "dimensions": "—",
+      "weight": "—",
+      "image": "https://m.media-amazon.com/images/I/61C0h2hE5AL._AC_SL1500_.jpg",
+      "highlights": [
+        {
+          "label": "解像度",
+          "value": "4K / 30fps"
+        },
+        {
+          "label": "画角",
+          "value": "—"
+        },
+        {
+          "label": "フォーカス",
+          "value": "オートフォーカス"
+        },
+        {
+          "label": "マイク",
+          "value": "空間オーディオマイク"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "サイズ / 重量",
+          "rows": [
+            {
+              "label": "寸法",
+              "value": "—"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        },
+        {
+          "title": "映像",
+          "rows": [
+            {
+              "label": "解像度",
+              "value": "4K / 30fps"
+            },
+            {
+              "label": "フレームレート",
+              "value": "30fps"
+            },
+            {
+              "label": "画角",
+              "value": "—"
+            },
+            {
+              "label": "フォーカス",
+              "value": "オートフォーカス"
+            },
+            {
+              "label": "マイク",
+              "value": "空間オーディオマイク"
+            }
+          ]
+        },
+        {
+          "title": "接続",
+          "rows": [
+            {
+              "label": "接続端子",
+              "value": "USB-C"
+            },
+            {
+              "label": "Amazon売れ筋",
+              "value": "Webカメラ #70"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cam-bs-071",
+      "rank": 71,
+      "asin": "B0G636CXQM",
+      "rating": 4.4,
+      "reviews": 206,
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0G636CXQM",
+      "name": "Tiny 3",
+      "brand": "OBSBOT",
+      "tagline": "4K / 30fps・オートフォーカス・空間オーディオマイク",
+      "price": 58000,
+      "connection": "USB-C",
+      "resolution": "4K / 30fps",
+      "fieldOfView": "—",
+      "focusType": "オートフォーカス",
+      "microphone": "空間オーディオマイク",
+      "connector": "USB-C",
+      "frameRate": "30fps",
+      "dimensions": "—",
+      "weight": "—",
+      "image": "https://m.media-amazon.com/images/I/51SyUcsLVCL._AC_SL1500_.jpg",
+      "highlights": [
+        {
+          "label": "解像度",
+          "value": "4K / 30fps"
+        },
+        {
+          "label": "画角",
+          "value": "—"
+        },
+        {
+          "label": "フォーカス",
+          "value": "オートフォーカス"
+        },
+        {
+          "label": "マイク",
+          "value": "空間オーディオマイク"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "サイズ / 重量",
+          "rows": [
+            {
+              "label": "寸法",
+              "value": "—"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        },
+        {
+          "title": "映像",
+          "rows": [
+            {
+              "label": "解像度",
+              "value": "4K / 30fps"
+            },
+            {
+              "label": "フレームレート",
+              "value": "30fps"
+            },
+            {
+              "label": "画角",
+              "value": "—"
+            },
+            {
+              "label": "フォーカス",
+              "value": "オートフォーカス"
+            },
+            {
+              "label": "マイク",
+              "value": "空間オーディオマイク"
+            }
+          ]
+        },
+        {
+          "title": "接続",
+          "rows": [
+            {
+              "label": "接続端子",
+              "value": "USB-C"
+            },
+            {
+              "label": "Amazon売れ筋",
+              "value": "Webカメラ #71"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cam-bs-072",
+      "rank": 72,
+      "asin": "B08FD7Z999",
+      "rating": 3.6,
+      "reviews": 19,
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B08FD7Z999",
+      "name": "夜間視力  高速 100FPS  200万画素 1080P Webかめら 広角 監視 PCカメラ",
+      "brand": "ELP",
+      "tagline": "2K / 30fps",
+      "price": 6556,
+      "connection": "USB-A",
+      "resolution": "2K / 30fps",
+      "fieldOfView": "—",
+      "focusType": "—",
+      "microphone": "—",
+      "connector": "USB-A",
+      "frameRate": "30fps",
+      "dimensions": "—",
+      "weight": "—",
+      "image": "https://m.media-amazon.com/images/I/61fAKk+1acL._AC_SL1500_.jpg",
+      "highlights": [
+        {
+          "label": "解像度",
+          "value": "2K / 30fps"
+        },
+        {
+          "label": "画角",
+          "value": "—"
+        },
+        {
+          "label": "フォーカス",
+          "value": "—"
+        },
+        {
+          "label": "マイク",
+          "value": "—"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "サイズ / 重量",
+          "rows": [
+            {
+              "label": "寸法",
+              "value": "—"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        },
+        {
+          "title": "映像",
+          "rows": [
+            {
+              "label": "解像度",
+              "value": "2K / 30fps"
+            },
+            {
+              "label": "フレームレート",
+              "value": "30fps"
+            },
+            {
+              "label": "画角",
+              "value": "—"
+            },
+            {
+              "label": "フォーカス",
+              "value": "—"
+            },
+            {
+              "label": "マイク",
+              "value": "—"
+            }
+          ]
+        },
+        {
+          "title": "接続",
+          "rows": [
+            {
+              "label": "接続端子",
+              "value": "USB-A"
+            },
+            {
+              "label": "Amazon売れ筋",
+              "value": "Webカメラ #72"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cam-bs-073",
+      "rank": 73,
+      "asin": "B07JN3NYC5",
+      "rating": 4.2,
+      "reviews": 326,
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B07JN3NYC5",
+      "name": "CMS-V43BK",
+      "brand": "サンワサプライ",
+      "tagline": "1080p / 30fps・150°画角・内蔵マイク",
+      "price": 6036,
+      "connection": "USB-A",
+      "resolution": "1080p / 30fps",
+      "fieldOfView": "150°",
+      "focusType": "—",
+      "microphone": "内蔵マイク",
+      "connector": "USB-A",
+      "frameRate": "30fps",
+      "dimensions": "—",
+      "weight": "—",
+      "image": "https://m.media-amazon.com/images/I/71nmiJqOFFL._AC_SL1500_.jpg",
+      "highlights": [
+        {
+          "label": "解像度",
+          "value": "1080p / 30fps"
+        },
+        {
+          "label": "画角",
+          "value": "150°"
+        },
+        {
+          "label": "フォーカス",
+          "value": "—"
+        },
+        {
+          "label": "マイク",
+          "value": "内蔵マイク"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "サイズ / 重量",
+          "rows": [
+            {
+              "label": "寸法",
+              "value": "—"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        },
+        {
+          "title": "映像",
+          "rows": [
+            {
+              "label": "解像度",
+              "value": "1080p / 30fps"
+            },
+            {
+              "label": "フレームレート",
+              "value": "30fps"
+            },
+            {
+              "label": "画角",
+              "value": "150°"
+            },
+            {
+              "label": "フォーカス",
+              "value": "—"
+            },
+            {
+              "label": "マイク",
+              "value": "内蔵マイク"
+            }
+          ]
+        },
+        {
+          "title": "接続",
+          "rows": [
+            {
+              "label": "接続端子",
+              "value": "USB-A"
+            },
+            {
+              "label": "Amazon売れ筋",
+              "value": "Webカメラ #73"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cam-bs-074",
+      "rank": 74,
+      "asin": "B0DK1BXJWY",
+      "rating": 4.4,
+      "reviews": 126,
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0DK1BXJWY",
+      "name": "4K NDI6/NDI/HX3 PTZカメラ AI自動追尾 20倍光学ズーム USB3.0 LA",
+      "brand": "FoMaKo",
+      "tagline": "4K / 30fps",
+      "price": 73000,
+      "connection": "USB-A",
+      "resolution": "4K / 30fps",
+      "fieldOfView": "—",
+      "focusType": "—",
+      "microphone": "—",
+      "connector": "USB-A",
+      "frameRate": "30fps",
+      "dimensions": "—",
+      "weight": "—",
+      "image": "https://m.media-amazon.com/images/I/61rVRWP4QpL._AC_SL1500_.jpg",
+      "highlights": [
+        {
+          "label": "解像度",
+          "value": "4K / 30fps"
+        },
+        {
+          "label": "画角",
+          "value": "—"
+        },
+        {
+          "label": "フォーカス",
+          "value": "—"
+        },
+        {
+          "label": "マイク",
+          "value": "—"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "サイズ / 重量",
+          "rows": [
+            {
+              "label": "寸法",
+              "value": "—"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        },
+        {
+          "title": "映像",
+          "rows": [
+            {
+              "label": "解像度",
+              "value": "4K / 30fps"
+            },
+            {
+              "label": "フレームレート",
+              "value": "30fps"
+            },
+            {
+              "label": "画角",
+              "value": "—"
+            },
+            {
+              "label": "フォーカス",
+              "value": "—"
+            },
+            {
+              "label": "マイク",
+              "value": "—"
+            }
+          ]
+        },
+        {
+          "title": "接続",
+          "rows": [
+            {
+              "label": "接続端子",
+              "value": "USB-A"
+            },
+            {
+              "label": "Amazon売れ筋",
+              "value": "Webカメラ #74"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cam-bs-075",
+      "rank": 75,
+      "asin": "B0B42JGLLC",
+      "rating": 4,
+      "reviews": 2,
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0B42JGLLC",
+      "name": "ガンカメラ 2.8-12mm可変焦点レンズ USB 100fps 光学4倍ズーム  200万画素",
+      "brand": "ELP",
+      "tagline": "4K / 60fps",
+      "price": 6880,
+      "connection": "USB-A",
+      "resolution": "4K / 60fps",
+      "fieldOfView": "—",
+      "focusType": "—",
+      "microphone": "—",
+      "connector": "USB-A",
+      "frameRate": "30fps",
+      "dimensions": "—",
+      "weight": "—",
+      "image": "https://m.media-amazon.com/images/I/71TgVkKsTrL._AC_SL1500_.jpg",
+      "highlights": [
+        {
+          "label": "解像度",
+          "value": "4K / 60fps"
+        },
+        {
+          "label": "画角",
+          "value": "—"
+        },
+        {
+          "label": "フォーカス",
+          "value": "—"
+        },
+        {
+          "label": "マイク",
+          "value": "—"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "サイズ / 重量",
+          "rows": [
+            {
+              "label": "寸法",
+              "value": "—"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        },
+        {
+          "title": "映像",
+          "rows": [
+            {
+              "label": "解像度",
+              "value": "4K / 60fps"
+            },
+            {
+              "label": "フレームレート",
+              "value": "30fps"
+            },
+            {
+              "label": "画角",
+              "value": "—"
+            },
+            {
+              "label": "フォーカス",
+              "value": "—"
+            },
+            {
+              "label": "マイク",
+              "value": "—"
+            }
+          ]
+        },
+        {
+          "title": "接続",
+          "rows": [
+            {
+              "label": "接続端子",
+              "value": "USB-A"
+            },
+            {
+              "label": "Amazon売れ筋",
+              "value": "Webカメラ #75"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cam-bs-076",
+      "rank": 76,
+      "asin": "B08L7ZLNHB",
+      "rating": 4.4,
+      "reviews": 5626,
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B08L7ZLNHB",
+      "name": "N660P",
+      "brand": "NexiGo",
+      "tagline": "1080p / 60fps・オートフォーカス・内蔵マイク",
+      "price": 4999,
+      "connection": "USB-A",
+      "resolution": "1080p / 60fps",
+      "fieldOfView": "—",
+      "focusType": "オートフォーカス",
+      "microphone": "内蔵マイク",
+      "connector": "USB-A",
+      "frameRate": "60fps",
+      "dimensions": "—",
+      "weight": "—",
+      "image": "https://m.media-amazon.com/images/I/61H5j2WNHdL._AC_SL1500_.jpg",
+      "highlights": [
+        {
+          "label": "解像度",
+          "value": "1080p / 60fps"
+        },
+        {
+          "label": "画角",
+          "value": "—"
+        },
+        {
+          "label": "フォーカス",
+          "value": "オートフォーカス"
+        },
+        {
+          "label": "マイク",
+          "value": "内蔵マイク"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "サイズ / 重量",
+          "rows": [
+            {
+              "label": "寸法",
+              "value": "—"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        },
+        {
+          "title": "映像",
+          "rows": [
+            {
+              "label": "解像度",
+              "value": "1080p / 60fps"
+            },
+            {
+              "label": "フレームレート",
+              "value": "60fps"
+            },
+            {
+              "label": "画角",
+              "value": "—"
+            },
+            {
+              "label": "フォーカス",
+              "value": "オートフォーカス"
+            },
+            {
+              "label": "マイク",
+              "value": "内蔵マイク"
+            }
+          ]
+        },
+        {
+          "title": "接続",
+          "rows": [
+            {
+              "label": "接続端子",
+              "value": "USB-A"
+            },
+            {
+              "label": "Amazon売れ筋",
+              "value": "Webカメラ #76"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cam-bs-077",
+      "rank": 77,
+      "asin": "B0B6HR1WN2",
+      "rating": 3.9,
+      "reviews": 12,
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0B6HR1WN2",
+      "name": "Cube 会議用360度広角 ギャラリーモードなど多彩なAIモード 電源&amp;ソフトウェア不",
+      "brand": "Innex",
+      "tagline": "4K / 30fps・内蔵マイク",
+      "price": 76780,
+      "connection": "USB-A",
+      "resolution": "4K / 30fps",
+      "fieldOfView": "—",
+      "focusType": "—",
+      "microphone": "内蔵マイク",
+      "connector": "USB-A",
+      "frameRate": "30fps",
+      "dimensions": "—",
+      "weight": "—",
+      "image": "https://m.media-amazon.com/images/I/71+H86cjIFL._AC_SL1500_.jpg",
+      "highlights": [
+        {
+          "label": "解像度",
+          "value": "4K / 30fps"
+        },
+        {
+          "label": "画角",
+          "value": "—"
+        },
+        {
+          "label": "フォーカス",
+          "value": "—"
+        },
+        {
+          "label": "マイク",
+          "value": "内蔵マイク"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "サイズ / 重量",
+          "rows": [
+            {
+              "label": "寸法",
+              "value": "—"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        },
+        {
+          "title": "映像",
+          "rows": [
+            {
+              "label": "解像度",
+              "value": "4K / 30fps"
+            },
+            {
+              "label": "フレームレート",
+              "value": "30fps"
+            },
+            {
+              "label": "画角",
+              "value": "—"
+            },
+            {
+              "label": "フォーカス",
+              "value": "—"
+            },
+            {
+              "label": "マイク",
+              "value": "内蔵マイク"
+            }
+          ]
+        },
+        {
+          "title": "接続",
+          "rows": [
+            {
+              "label": "接続端子",
+              "value": "USB-A"
+            },
+            {
+              "label": "Amazon売れ筋",
+              "value": "Webカメラ #77"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cam-bs-078",
+      "rank": 78,
+      "asin": "B0GFVNNWMJ",
+      "rating": 4,
+      "reviews": 37,
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0GFVNNWMJ",
+      "name": "4K Ultra HD  Windows Hello対応 顔認証 オートフォーカス",
+      "brand": "TOALLIN",
+      "tagline": "4K / 30fps・オートフォーカス・内蔵マイク",
+      "price": 11999,
+      "connection": "USB-C",
+      "resolution": "4K / 30fps",
+      "fieldOfView": "—",
+      "focusType": "オートフォーカス",
+      "microphone": "内蔵マイク",
+      "connector": "USB-C",
+      "frameRate": "30fps",
+      "dimensions": "—",
+      "weight": "—",
+      "image": "https://m.media-amazon.com/images/I/51Hd1b34IwL._AC_SL1500_.jpg",
+      "highlights": [
+        {
+          "label": "解像度",
+          "value": "4K / 30fps"
+        },
+        {
+          "label": "画角",
+          "value": "—"
+        },
+        {
+          "label": "フォーカス",
+          "value": "オートフォーカス"
+        },
+        {
+          "label": "マイク",
+          "value": "内蔵マイク"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "サイズ / 重量",
+          "rows": [
+            {
+              "label": "寸法",
+              "value": "—"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        },
+        {
+          "title": "映像",
+          "rows": [
+            {
+              "label": "解像度",
+              "value": "4K / 30fps"
+            },
+            {
+              "label": "フレームレート",
+              "value": "30fps"
+            },
+            {
+              "label": "画角",
+              "value": "—"
+            },
+            {
+              "label": "フォーカス",
+              "value": "オートフォーカス"
+            },
+            {
+              "label": "マイク",
+              "value": "内蔵マイク"
+            }
+          ]
+        },
+        {
+          "title": "接続",
+          "rows": [
+            {
+              "label": "接続端子",
+              "value": "USB-C"
+            },
+            {
+              "label": "Amazon売れ筋",
+              "value": "Webカメラ #78"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cam-bs-079",
+      "rank": 79,
+      "asin": "B0DDCJBZWQ",
+      "rating": 4.4,
+      "reviews": 444,
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0DDCJBZWQ",
+      "name": "4K  リングライト一体型800万画素超広視野角 1080P@60FPS ストリーミング PC用",
+      "brand": "Angetube",
+      "tagline": "4K / 60fps・オートフォーカス・AIノイズキャンセリングマイク",
+      "price": 5775,
+      "connection": "USB-A",
+      "resolution": "4K / 60fps",
+      "fieldOfView": "—",
+      "focusType": "オートフォーカス",
+      "microphone": "AIノイズキャンセリングマイク",
+      "connector": "USB-A",
+      "frameRate": "60fps",
+      "dimensions": "—",
+      "weight": "—",
+      "image": "https://m.media-amazon.com/images/I/61ptiasAjUL._AC_SL1500_.jpg",
+      "highlights": [
+        {
+          "label": "解像度",
+          "value": "4K / 60fps"
+        },
+        {
+          "label": "画角",
+          "value": "—"
+        },
+        {
+          "label": "フォーカス",
+          "value": "オートフォーカス"
+        },
+        {
+          "label": "マイク",
+          "value": "AIノイズキャンセリングマイク"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "サイズ / 重量",
+          "rows": [
+            {
+              "label": "寸法",
+              "value": "—"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        },
+        {
+          "title": "映像",
+          "rows": [
+            {
+              "label": "解像度",
+              "value": "4K / 60fps"
+            },
+            {
+              "label": "フレームレート",
+              "value": "60fps"
+            },
+            {
+              "label": "画角",
+              "value": "—"
+            },
+            {
+              "label": "フォーカス",
+              "value": "オートフォーカス"
+            },
+            {
+              "label": "マイク",
+              "value": "AIノイズキャンセリングマイク"
+            }
+          ]
+        },
+        {
+          "title": "接続",
+          "rows": [
+            {
+              "label": "接続端子",
+              "value": "USB-A"
+            },
+            {
+              "label": "Amazon売れ筋",
+              "value": "Webカメラ #79"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cam-bs-080",
+      "rank": 80,
+      "asin": "B0BP955QKZ",
+      "rating": 3.7,
+      "reviews": 4,
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0BP955QKZ",
+      "name": "400-CAM102",
+      "brand": "サンワダイレクト",
+      "tagline": "1080p / 30fps・内蔵マイク",
+      "price": 19800,
+      "connection": "USB-C / USB-A",
+      "resolution": "1080p / 30fps",
+      "fieldOfView": "—",
+      "focusType": "—",
+      "microphone": "内蔵マイク",
+      "connector": "USB-C / USB-A",
+      "frameRate": "30fps",
+      "dimensions": "6.2 × 7.7 × 7.1 cm",
+      "weight": "—",
+      "image": "https://m.media-amazon.com/images/I/71Pniiwo3lL._AC_SL1500_.jpg",
+      "highlights": [
+        {
+          "label": "解像度",
+          "value": "1080p / 30fps"
+        },
+        {
+          "label": "画角",
+          "value": "—"
+        },
+        {
+          "label": "フォーカス",
+          "value": "—"
+        },
+        {
+          "label": "マイク",
+          "value": "内蔵マイク"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "サイズ / 重量",
+          "rows": [
+            {
+              "label": "寸法",
+              "value": "6.2 × 7.7 × 7.1 cm"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        },
+        {
+          "title": "映像",
+          "rows": [
+            {
+              "label": "解像度",
+              "value": "1080p / 30fps"
+            },
+            {
+              "label": "フレームレート",
+              "value": "30fps"
+            },
+            {
+              "label": "画角",
+              "value": "—"
+            },
+            {
+              "label": "フォーカス",
+              "value": "—"
+            },
+            {
+              "label": "マイク",
+              "value": "内蔵マイク"
+            }
+          ]
+        },
+        {
+          "title": "接続",
+          "rows": [
+            {
+              "label": "接続端子",
+              "value": "USB-C / USB-A"
+            },
+            {
+              "label": "Amazon売れ筋",
+              "value": "Webカメラ #80"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cam-bs-000",
+      "rank": 0,
+      "asin": "B075YC4NHB",
+      "rating": 4.4,
+      "reviews": 0,
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B075YC4NHB",
+      "name": "BRIO C1000eR",
+      "brand": "Logicool",
+      "tagline": "RightLight 3・4K UHD・プライバシーシャッター・Windows Hello対応の定番4Kウェブカメラ",
+      "price": 22800,
+      "connection": "USB-A (USB 3.0)",
+      "resolution": "4K / 30fps",
+      "fieldOfView": "65°/78°/90°",
+      "focusType": "オートフォーカス",
+      "microphone": "全指向性 x2",
+      "connector": "USB-A",
+      "frameRate": "30fps (4K) / 60fps (1080p)",
+      "dimensions": "102 × 27 × 36 mm",
+      "weight": "63 g",
+      "image": "https://m.media-amazon.com/images/I/517+SfilMqL._AC_SL1500_.jpg",
+      "highlights": [
+        {
+          "label": "解像度",
+          "value": "4K / 30fps"
+        },
+        {
+          "label": "画角",
+          "value": "65°/78°/90°"
+        },
+        {
+          "label": "フォーカス",
+          "value": "オートフォーカス"
+        },
+        {
+          "label": "マイク",
+          "value": "全指向性 x2"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "サイズ / 重量",
+          "rows": [
+            {
+              "label": "寸法",
+              "value": "102 × 27 × 36 mm"
+            },
+            {
+              "label": "重量",
+              "value": "63 g"
+            }
+          ]
+        },
+        {
+          "title": "映像",
+          "rows": [
+            {
+              "label": "解像度",
+              "value": "4K / 30fps"
+            },
+            {
+              "label": "フレームレート",
+              "value": "30fps (4K) / 60fps (1080p)"
+            },
+            {
+              "label": "画角",
+              "value": "65°/78°/90°"
+            },
+            {
+              "label": "フォーカス",
+              "value": "オートフォーカス"
+            },
+            {
+              "label": "マイク",
+              "value": "全指向性 x2"
+            }
+          ]
+        },
+        {
+          "title": "接続",
+          "rows": [
+            {
+              "label": "接続端子",
+              "value": "USB-A"
+            },
+            {
+              "label": "Amazon売れ筋",
+              "value": "—"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cam-bs-000",
+      "rank": 0,
+      "asin": "B085TFF7M1",
+      "rating": 4.4,
+      "reviews": 0,
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B085TFF7M1",
+      "name": "C920s Pro HD",
+      "brand": "Logicool",
+      "tagline": "プライバシーシャッター付きの定番FHDウェブカメラ",
+      "price": 9240,
+      "connection": "USB-A",
+      "resolution": "1080p / 30fps",
+      "fieldOfView": "78°",
+      "focusType": "オートフォーカス",
+      "microphone": "ステレオマイク",
+      "connector": "USB-A",
+      "frameRate": "30fps",
+      "dimensions": "94 × 43 × 71 mm",
+      "weight": "162 g",
+      "image": "https://m.media-amazon.com/images/I/71YN85pLGcL._AC_SL1500_.jpg",
+      "highlights": [
+        {
+          "label": "解像度",
+          "value": "1080p / 30fps"
+        },
+        {
+          "label": "画角",
+          "value": "78°"
+        },
+        {
+          "label": "フォーカス",
+          "value": "オートフォーカス"
+        },
+        {
+          "label": "マイク",
+          "value": "ステレオマイク"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "サイズ / 重量",
+          "rows": [
+            {
+              "label": "寸法",
+              "value": "94 × 43 × 71 mm"
+            },
+            {
+              "label": "重量",
+              "value": "162 g"
+            }
+          ]
+        },
+        {
+          "title": "映像",
+          "rows": [
+            {
+              "label": "解像度",
+              "value": "1080p / 30fps"
+            },
+            {
+              "label": "フレームレート",
+              "value": "30fps"
+            },
+            {
+              "label": "画角",
+              "value": "78°"
+            },
+            {
+              "label": "フォーカス",
+              "value": "オートフォーカス"
+            },
+            {
+              "label": "マイク",
+              "value": "ステレオマイク"
+            }
+          ]
+        },
+        {
+          "title": "接続",
+          "rows": [
+            {
+              "label": "接続端子",
+              "value": "USB-A"
+            },
+            {
+              "label": "Amazon売れ筋",
+              "value": "—"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

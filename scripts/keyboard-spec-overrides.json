@@ -1,0 +1,205 @@
+{
+  "B08K2CHMWK": {
+    "name": "K295GP ワイヤレスキーボード（グラファイト）",
+    "tagline": "SilentTouch静音・耐水設計のフルサイズUnifyingワイヤレスキーボード",
+    "layout": "フルサイズ",
+    "internalStructure": "メンブレン（SilentTouch）",
+    "keycaps": "—",
+    "power": "単4形乾電池×2本",
+    "connection": "2.4GHz (Unifying USBレシーバー)"
+  },
+  "B01HGGWZMG": {
+    "name": "TK-FFCM01BK 有線キーボード",
+    "tagline": "日本語108キー・メンブレン式の低価格有線フルキーボード",
+    "layout": "フルサイズ（日本語108キー）",
+    "internalStructure": "メンブレン",
+    "keycaps": "ABS",
+    "power": "有線給電",
+    "connection": "有線 USB"
+  },
+  "B07PJW2X2F": {
+    "name": "TK-FDM110TXBK 薄型ワイヤレスキーボード",
+    "tagline": "薄型メンブレン・テンキー付きフルサイズ2.4GHzキーボード",
+    "layout": "フルサイズ",
+    "internalStructure": "薄型メンブレン",
+    "keycaps": "ABS",
+    "power": "単3形乾電池×1本",
+    "connection": "2.4GHz (USBレシーバー)"
+  },
+  "B0CT2T18PV": {
+    "name": "Amazonベーシック 有線キーボード",
+    "tagline": "日本語配列・有線USBのエントリーフルキーボード",
+    "layout": "フルサイズ（日本語配列）",
+    "internalStructure": "メンブレン",
+    "keycaps": "ABS",
+    "power": "有線給電",
+    "connection": "有線 USB"
+  },
+  "B0C65F55K5": {
+    "name": "MX KEYS S KX800s",
+    "tagline": "Perfect Stroke・スマートバックライト搭載の薄型フルサイズワイヤレス",
+    "layout": "フルサイズ",
+    "internalStructure": "Perfect Stroke シザー",
+    "keycaps": "球面ディッシュ",
+    "power": "充電式 (USB-C)",
+    "connection": "2.4GHz (Logi Bolt) / Bluetooth",
+    "keyboardFilterTags": ["kb-structure-scissor", "kb-keycap-spherical"]
+  },
+  "B081JSVYHQ": {
+    "name": "Alto Keys K98M",
+    "tagline": "UniCushionガスケット・ホットスワップ対応の98キーメカニカル",
+    "layout": "フルサイズ（98キー）",
+    "internalStructure": "ガスケットマウント",
+    "keycaps": "PBT",
+    "power": "充電式 (USB-C)",
+    "connection": "2.4GHz (Logi Bolt) / Bluetooth",
+    "keyboardUsage": "gaming",
+    "keyboardFilterTags": ["kb-structure-gasket"]
+  },
+  "B0DJ1F5G33": {
+    "name": "Keychron B1 Pro",
+    "tagline": "ZMK対応・シザースイッチのウルトラスリムワイヤレス",
+    "layout": "フルサイズ",
+    "internalStructure": "シザー（パンタグラフ）",
+    "keycaps": "ABS",
+    "power": "充電式 (USB-C)",
+    "connection": "USB-C / 2.4GHz / Bluetooth",
+    "keyboardFilterTags": ["kb-structure-scissor", "kb-keycap-abs"]
+  },
+  "B0CZ8X3DH8": {
+    "name": "SIGNATURE SLIM K950",
+    "tagline": "薄型・静かなタイピングのフルサイズEasy-Switchキーボード",
+    "layout": "フルサイズ",
+    "internalStructure": "シザー（パンタグラフ）",
+    "keycaps": "ABS",
+    "power": "単3形乾電池×2本",
+    "connection": "2.4GHz (Logi Bolt) / Bluetooth",
+    "keyboardFilterTags": ["kb-structure-scissor", "kb-keycap-abs"]
+  },
+  "B0DK5GRBFY": {
+    "name": "Leggero TK-MC30UK 赤軸",
+    "tagline": "5000万回耐久・静音赤軸のテンキーレス有線メカニカル",
+    "layout": "テンキーレス",
+    "internalStructure": "メカニカル（赤軸）",
+    "keycaps": "ABS",
+    "power": "有線給電",
+    "connection": "有線 USB",
+    "keyboardUsage": "gaming",
+    "keyboardFilterTags": ["tenkeyless", "kb-keycap-abs"]
+  },
+  "B082TSZ27D": {
+    "name": "HHKB Professional HYBRID Type-S",
+    "tagline": "静電容量無接点・Bluetooth/有線ハイブリッドのコンパクト配列",
+    "layout": "コンパクト（60%相当）",
+    "internalStructure": "静電容量無接点（Type-S）",
+    "keycaps": "PBT",
+    "power": "有線給電 / 単3形乾電池×2本",
+    "connection": "Bluetooth / USB-C",
+    "keyboardFilterTags": ["tenkeyless", "kb-keycap-pbt-double"]
+  },
+  "B00U260UR0": {
+    "name": "Anker ウルトラスリム Keyboard",
+    "tagline": "Bluetooth対応・マルチOS向け薄型ワイヤレスキーボード",
+    "layout": "フルサイズ",
+    "internalStructure": "シザー（パンタグラフ）",
+    "keycaps": "ABS",
+    "power": "単4形乾電池×2本",
+    "connection": "Bluetooth",
+    "keyboardFilterTags": ["kb-structure-scissor", "kb-keycap-abs"]
+  },
+  "B0BWDSC5ZB": {
+    "name": "MX KEYS mini KX700GRd",
+    "brand": "Logicool",
+    "tagline": "Perfect Stroke・スマートイルミネーション搭載テンキーレス（JIS・Logi Bolt/Bluetooth）",
+    "layout": "テンキーレス（JIS日本語配列）",
+    "internalStructure": "Perfect Stroke シザー",
+    "keycaps": "球面ディッシュ",
+    "power": "充電式 (USB-C)",
+    "connection": "2.4GHz (Logi Bolt) / Bluetooth",
+    "keyboardFilterTags": ["tenkeyless", "kb-structure-scissor", "kb-keycap-spherical"]
+  },
+  "B0C3QXBTJP": {
+    "name": "TK-QT30DMBK 静音ワイヤレス",
+    "brand": "ELECOM",
+    "tagline": "打鍵音9割低減・薄型コンパクト静音フルキーボード（テンキー付き）",
+    "layout": "フルサイズ（JIS日本語配列）",
+    "internalStructure": "静音メンブレン",
+    "keycaps": "—",
+    "power": "単3形乾電池×2本",
+    "connection": "2.4GHz (USBレシーバー)"
+  },
+  "B08TMK8GSC": {
+    "name": "TK-FBM120KBK 抗菌Bluetooth",
+    "brand": "ELECOM",
+    "tagline": "抗菌処理・最大3台マルチペアリング Bluetooth 5.0 薄型フルキーボード",
+    "layout": "フルサイズ（JIS日本語配列）",
+    "internalStructure": "薄型メンブレン",
+    "keycaps": "—",
+    "power": "単3形乾電池×2本",
+    "connection": "Bluetooth 5.0"
+  },
+  "B08CRN2P44": {
+    "name": "BSKBW125BK",
+    "brand": "Buffalo",
+    "tagline": "省電力設計・カーブデザインの2.4GHzワイヤレスキーボード",
+    "layout": "コンパクト（テンキー付き）",
+    "internalStructure": "メンブレン",
+    "keycaps": "—",
+    "power": "単3形乾電池×1本",
+    "connection": "2.4GHz (USBレシーバー)"
+  },
+  "B015H5YHEM": {
+    "name": "K275",
+    "brand": "Logicool",
+    "tagline": "Unifying対応・薄型フルサイズワイヤレスキーボード",
+    "layout": "フルサイズ（JIS日本語配列）",
+    "internalStructure": "メンブレン",
+    "keycaps": "—",
+    "power": "単4形乾電池×2本",
+    "connection": "2.4GHz (Unifying USBレシーバー)"
+  },
+  "B0F38B7W6P": {
+    "name": "Omikamo 折りたたみ式 Bluetooth",
+    "brand": "Omikamo",
+    "tagline": "JIS配列・パンタグラフ・Type-C充電の折りたたみワイヤレス",
+    "layout": "折りたたみ（JIS日本語配列）",
+    "internalStructure": "パンタグラフ（シザースイッチ）",
+    "keycaps": "—",
+    "power": "充電式 (USB-C)",
+    "connection": "Bluetooth",
+    "keyboardFilterTags": ["kb-structure-scissor"]
+  },
+  "B0CD56D3XQ": {
+    "name": "Ewin 折りたたみ Bluetooth",
+    "brand": "Ewin",
+    "tagline": "JIS配列・タッチパッド・3台同時切替 Type-C充電",
+    "layout": "折りたたみ（JIS日本語配列）",
+    "internalStructure": "パンタグラフ（シザースイッチ）",
+    "keycaps": "—",
+    "power": "充電式 (USB-C)",
+    "connection": "Bluetooth",
+    "keyboardFilterTags": ["kb-structure-scissor"]
+  },
+  "B0GHR6W4VL": {
+    "name": "Alto Keys K98MGR",
+    "brand": "Logicool",
+    "tagline": "UniCushionガスケット・Marble Switch・98キーメカニカル（JIS）",
+    "layout": "フルサイズ（98キー・JIS日本語配列）",
+    "internalStructure": "メカニカル（ガスケット・ホットスワップ）",
+    "keycaps": "PBT",
+    "power": "充電式 (USB-C)",
+    "connection": "2.4GHz (Logi Bolt) / Bluetooth",
+    "keyboardFilterTags": ["kb-structure-gasket", "kb-keycap-pbt"]
+  },
+  "B0FNR6SLDV": {
+    "name": "REALFORCE R4 R4HA11",
+    "brand": "REALFORCE",
+    "tagline": "45g 静電容量無接点 ハイブリッド フルサイズ JIS",
+    "layout": "フルサイズ（JIS日本語配列）",
+    "internalStructure": "静電容量無接点方式（45g）",
+    "keycaps": "PBT",
+    "power": "有線給電 / 単3形乾電池×2本",
+    "connection": "有線 USB / Bluetooth",
+    "keyboardFilterTags": ["kb-keycap-pbt"]
+  }
+}

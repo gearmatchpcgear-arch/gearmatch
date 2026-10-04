@@ -1,0 +1,2754 @@
+{
+  "scanned": 2739,
+  "duplicateConflicts": 142,
+  "heuristicIssues": 54,
+  "remoteIssues": 0,
+  "duplicates": [
+    {
+      "asin": "B09TN7QJ7Y",
+      "items": [
+        {
+          "file": "camera-streaming-search.ts",
+          "id": "cam-str-109-qj7y",
+          "name": "V08AF  4K 30FPS  USB PCカメラ 1080P 60FPS ストリーミング オ"
+        },
+        {
+          "file": "mic-most-gifted.ts",
+          "id": "mic-mg-003",
+          "name": "A6T"
+        }
+      ]
+    },
+    {
+      "asin": "B0CGR5B9FS",
+      "items": [
+        {
+          "file": "gadgets.ts",
+          "id": "m-g-pro-x-sl2",
+          "name": "G PRO X SUPERLIGHT 2"
+        },
+        {
+          "file": "mouse-g-pro-search.ts",
+          "id": "m-gpro-020",
+          "name": "G PRO X SUPERLIGHT 2 G-PPD-004WL-BK"
+        }
+      ]
+    },
+    {
+      "asin": "B07DVC25R2",
+      "items": [
+        {
+          "file": "gadgets.ts",
+          "id": "m-logicool-g304",
+          "name": "Logicool G G304 LIGHTSPEED ワイヤレス ゲーミングマウス"
+        },
+        {
+          "file": "mouse-g-pro-search.ts",
+          "id": "m-gpro-025",
+          "name": "G304 LIGHTSPEED"
+        },
+        {
+          "file": "mouse-gaming-bestsellers.ts",
+          "id": "m-gbs-001",
+          "name": "G304 LIGHTSPEED"
+        }
+      ]
+    },
+    {
+      "asin": "B07SYKKP47",
+      "items": [
+        {
+          "file": "gadgets.ts",
+          "id": "m-logicool-g703h",
+          "name": "Logicool G ワイヤレス ゲーミングマウス G703h"
+        },
+        {
+          "file": "mouse-gaming-bestsellers.ts",
+          "id": "m-gbs-002",
+          "name": "G703h LIGHTSPEED"
+        }
+      ]
+    },
+    {
+      "asin": "B0D25MNB15",
+      "items": [
+        {
+          "file": "gadgets.ts",
+          "id": "m-msi-forge-gm100",
+          "name": "MSI FORGE GM100 オプティカル ゲーミングマウス"
+        },
+        {
+          "file": "mouse-gaming-bestsellers.ts",
+          "id": "m-gbs-049",
+          "name": "FORGE GM100"
+        }
+      ]
+    },
+    {
+      "asin": "B0FXCCV2NQ",
+      "items": [
+        {
+          "file": "gadgets.ts",
+          "id": "m-msi-forge-gm340w",
+          "name": "MSI FORGE GM340 W NAVY ワイヤレスゲーミングマウス"
+        },
+        {
+          "file": "mouse-gaming-new-releases.ts",
+          "id": "m-gnr-013",
+          "name": "FORGE GM340 W"
+        }
+      ]
+    },
+    {
+      "asin": "B0DKT8S1XC",
+      "items": [
+        {
+          "file": "gadgets.ts",
+          "id": "m-msi-versa-300w",
+          "name": "MSI VERSA 300 W ワイヤレス ゲーミングマウス"
+        },
+        {
+          "file": "mouse-gaming-bestsellers.ts",
+          "id": "m-gbs-051",
+          "name": "VERSA 300 W"
+        }
+      ]
+    },
+    {
+      "asin": "B0BY1R8DSZ",
+      "items": [
+        {
+          "file": "gadgets.ts",
+          "id": "m-asus-tuf-m3-gen2",
+          "name": "ASUS TUF Gaming M3 Gen II"
+        },
+        {
+          "file": "mouse-gpro-page3.ts",
+          "id": "m-gp3-014",
+          "name": "TUF Gaming M3 Gen II"
+        }
+      ]
+    },
+    {
+      "asin": "B0822PMBTZ",
+      "items": [
+        {
+          "file": "gadgets.ts",
+          "id": "mic-blue-yeti",
+          "name": "Blue Yeti"
+        },
+        {
+          "file": "mic-computers-search.ts",
+          "id": "mic-srch-0034",
+          "name": "Logicool G Blue Yeti ゲーミングマイク BM400BK USB コンデンサーマイク ゲーミング 実況 ストリーミング …"
+        },
+        {
+          "file": "mic-most-gifted.ts",
+          "id": "mic-mg-009",
+          "name": "Logicool G Blue Yeti ゲーミングマイク BM400BK USB コンデンサーマイク ゲーミング 実況 ストリーミング …"
+        }
+      ]
+    },
+    {
+      "asin": "B086JTT1GM",
+      "items": [
+        {
+          "file": "gaming-chair-akracing-store.ts",
+          "id": "chair-akr-jtt1gm",
+          "name": "ゲーミングチェア Pro-X V2 グレー 高耐久PUレザー リクライニング エルゴノミクス JIS規格 5年保証"
+        },
+        {
+          "file": "gaming-chair-search.ts",
+          "id": "chair-sr-053-b086jtt1gm",
+          "name": "Pro-X V2 グレー 高耐久PUレザー リクライニング エルゴノミクス JIS規格 5年保証"
+        }
+      ]
+    },
+    {
+      "asin": "B07CBPDBKP",
+      "items": [
+        {
+          "file": "gaming-chair-akracing-store.ts",
+          "id": "chair-akr-bpdbkp",
+          "name": "ゲーミングチェア Overture ブラック 高耐久PUレザー リクライニング エルゴノミクス JIS規格 5年保証"
+        },
+        {
+          "file": "gaming-chair-search-page4.ts",
+          "id": "chair-sr4-148",
+          "name": "Overture ブラック 高耐久PUレザー リクライニング エルゴノミクス JIS規格 5年保"
+        }
+      ]
+    },
+    {
+      "asin": "B01G8E2ETQ",
+      "items": [
+        {
+          "file": "gaming-chair-akracing-store.ts",
+          "id": "chair-akr-8e2etq",
+          "name": "ゲーミングチェア Wolf グレー ファブリック リクライニング エルゴノミクス JIS規格 5年保証"
+        },
+        {
+          "file": "gaming-chair-search.ts",
+          "id": "chair-sr-044",
+          "name": "Wolf"
+        },
+        {
+          "file": "gaming-chairs.ts",
+          "id": "chair-bs-025",
+          "name": "Wolf"
+        }
+      ]
+    },
+    {
+      "asin": "B075R8GZR9",
+      "items": [
+        {
+          "file": "gaming-chair-akracing-store.ts",
+          "id": "chair-akr-r8gzr9",
+          "name": "オフィスチェア Premium カーボンブラック 高耐久PUレザー リクライニング エルゴノミクス JIS規格 5年保証"
+        },
+        {
+          "file": "gaming-chairs.ts",
+          "id": "chair-bs-070",
+          "name": "オフィスチェア Premium カーボンブラック 高耐久PUレザー リクライニング エルゴノミク"
+        }
+      ]
+    },
+    {
+      "asin": "B0H94SDWK5",
+      "items": [
+        {
+          "file": "gaming-chair-new-releases.ts",
+          "id": "chair-nr-001",
+          "name": "オットマン付き PUレザー 腰枕付き 140°リクライニング 座高60-70CM"
+        },
+        {
+          "file": "gaming-chairs.ts",
+          "id": "chair-bs-024",
+          "name": "Wolf"
+        }
+      ]
+    },
+    {
+      "asin": "B0GWPPNHH5",
+      "items": [
+        {
+          "file": "gaming-chair-new-releases.ts",
+          "id": "chair-nr-003",
+          "name": "ファブリック オフィスチェア デスクチェア 通気性 人間工学 145度リクライニング オットマン"
+        },
+        {
+          "file": "gaming-chair-search.ts",
+          "id": "chair-sr-075",
+          "name": "リクライニング135° 高級PUレザー ランバーサポート調整可 オフィス PC デスクチェア ゲ"
+        }
+      ]
+    },
+    {
+      "asin": "B0FKB5X4XZ",
+      "items": [
+        {
+          "file": "gaming-chair-search-page3.ts",
+          "id": "chair-sr3-091",
+          "name": "M6"
+        },
+        {
+          "file": "gaming-chair-search-page4.ts",
+          "id": "chair-sr4-091",
+          "name": "M6 Ultra 2.0"
+        }
+      ]
+    },
+    {
+      "asin": "B08CVNGYHK",
+      "items": [
+        {
+          "file": "gaming-chair-search-page3.ts",
+          "id": "chair-sr3-099-b08cvngyhk",
+          "name": "C2"
+        },
+        {
+          "file": "gaming-chair-search.ts",
+          "id": "chair-sr-102",
+          "name": "AutoFull(オートフル) C2 ゲーミングチェア ピンク 可愛い かわいい うさ耳 ヘアピ"
+        }
+      ]
+    },
+    {
+      "asin": "B0GK32X3SV",
+      "items": [
+        {
+          "file": "gaming-chair-search-page3.ts",
+          "id": "chair-sr3-106",
+          "name": "座り心地最高 オフィスチェア 通気性 パソコンチェア デスクチェア リクライニング PCゲーミン"
+        },
+        {
+          "file": "gaming-chair-search.ts",
+          "id": "chair-sr-066",
+          "name": "135°フルリクライニング オットマン付き 高級PUレザー 調節可能 ランバーサポート オフィス"
+        }
+      ]
+    },
+    {
+      "asin": "B0DMZFV57P",
+      "items": [
+        {
+          "file": "gaming-chair-search-page3.ts",
+          "id": "chair-sr3-107",
+          "name": "M57 メッシュチェア オフィスチェア 人間工学 椅子 疲れない デスクチェア ブラック"
+        },
+        {
+          "file": "gaming-chair-search.ts",
+          "id": "chair-sr-062",
+          "name": "ゲーミングベッドチェア 170度 リクライニング 日本ブランド ロッキング機能 ファブリック フ"
+        }
+      ]
+    },
+    {
+      "asin": "B0CX1J299G",
+      "items": [
+        {
+          "file": "gaming-chair-search-page3.ts",
+          "id": "chair-sr3-109",
+          "name": "LR002-GRAY"
+        },
+        {
+          "file": "gaming-chair-search.ts",
+          "id": "chair-sr-110",
+          "name": "ファブリック オットマン 椅子 イス テレワーク 腰痛対策 pcチェア デスクチェア 蒸れない "
+        }
+      ]
+    },
+    {
+      "asin": "B0FXMBCG7L",
+      "items": [
+        {
+          "file": "gaming-chair-search-page3.ts",
+          "id": "chair-sr3-113",
+          "name": "C2"
+        },
+        {
+          "file": "gaming-chair-search.ts",
+          "id": "chair-sr-115",
+          "name": "玄人志向 GALAKURO GAMING オフィスチェア Lumora （ ルモーラ ）シリーズ"
+        }
+      ]
+    },
+    {
+      "asin": "B092DF433H",
+      "items": [
+        {
+          "file": "gaming-chair-search-page3.ts",
+          "id": "chair-sr3-115",
+          "name": "C3"
+        },
+        {
+          "file": "gaming-chair-search.ts",
+          "id": "chair-sr-116",
+          "name": "(オートフル) ゲーミングチェア デスクチェア 座り心地最高 腰痛対策 昇降アームレスト オット"
+        }
+      ]
+    },
+    {
+      "asin": "B0FP4MHZX8",
+      "items": [
+        {
+          "file": "gaming-chair-search-page3.ts",
+          "id": "chair-sr3-120",
+          "name": "CH335-Black"
+        },
+        {
+          "file": "gaming-chair-search.ts",
+          "id": "chair-sr-119",
+          "name": "オフィスチェア 椅子 メッシュ 疲れない ゲーミングチェア コンパクト 高さ調節 幅広い座面 ク"
+        }
+      ]
+    },
+    {
+      "asin": "B0B7WVX4R1",
+      "items": [
+        {
+          "file": "gaming-chair-search.ts",
+          "id": "chair-sr-009",
+          "name": "PL800-BLACK"
+        },
+        {
+          "file": "gaming-chairs.ts",
+          "id": "chair-bs-003",
+          "name": "オットマン付き デスクチェア オフィスチェア ゲームチェア 145°リクライニング ハイバック "
+        }
+      ]
+    },
+    {
+      "asin": "B0BXPGGBRM",
+      "items": [
+        {
+          "file": "gaming-chair-search.ts",
+          "id": "chair-sr-010",
+          "name": "オフィスチェア デスクチェア ゲーム用チェア リクライニング パソコンチェア ハイバック ヘッド"
+        },
+        {
+          "file": "gaming-chairs.ts",
+          "id": "chair-bs-001",
+          "name": "ファブリック オフィスチェア 蒸れない 椅子 デスクチェア オットマン付き 145°リクライニン"
+        }
+      ]
+    },
+    {
+      "asin": "B0GW31R81F",
+      "items": [
+        {
+          "file": "gaming-chair-search.ts",
+          "id": "chair-sr-016",
+          "name": "オットマン付き 高級PUレザー 135°リクライニング 調節可能 ランバーサポート デスク・オフ"
+        },
+        {
+          "file": "gaming-chairs.ts",
+          "id": "chair-bs-004",
+          "name": "座り心地良いデスクチェア オフィスチェア 椅子 テレワーク 社長椅子 伸縮可能のオットマン 高さ"
+        }
+      ]
+    },
+    {
+      "asin": "B0DK78TG4F",
+      "items": [
+        {
+          "file": "gaming-chair-search.ts",
+          "id": "chair-sr-028",
+          "name": "ファブリック デスクチェア オットマン 椅子 イス テレワーク 【ポケットコイル採用】 腰痛対策"
+        },
+        {
+          "file": "gaming-chairs.ts",
+          "id": "chair-bs-006",
+          "name": "ファブリック オフィスチェア デスクチェア 椅子 昇降連動アームレスト リクライニング 手刺繍 "
+        }
+      ]
+    },
+    {
+      "asin": "B0H2GWZ6XX",
+      "items": [
+        {
+          "file": "gaming-chair-search.ts",
+          "id": "chair-sr-032",
+          "name": "オットマン付き PUレザー リクライニング 収納式フットレスト 3Dヘッドレスト 調節可能 勉強"
+        },
+        {
+          "file": "gaming-chairs.ts",
+          "id": "chair-bs-008",
+          "name": "ゲームチェア オットマン付き オフィスチェア 人間工学 １６５度 リクライニング ハイバック テ"
+        }
+      ]
+    },
+    {
+      "asin": "B0H8YC8SJ9",
+      "items": [
+        {
+          "file": "gaming-chair-search.ts",
+          "id": "chair-sr-043",
+          "name": "高級PU"
+        },
+        {
+          "file": "gaming-chairs.ts",
+          "id": "chair-bs-023",
+          "name": "オットマン付き 高級PU 135°リクライニング PCチェア"
+        }
+      ]
+    },
+    {
+      "asin": "B0GP6PPRRJ",
+      "items": [
+        {
+          "file": "gaming-chair-search.ts",
+          "id": "chair-sr-047",
+          "name": "ilooiloo公式 一年保証付き 2026プレミアム版 170度フ (BLACK)"
+        },
+        {
+          "file": "gaming-chairs.ts",
+          "id": "chair-bs-014",
+          "name": "ilooiloo公式 一年保証付き 2026プレミアム版 170度フ"
+        }
+      ]
+    },
+    {
+      "asin": "B0H3NG2P8C",
+      "items": [
+        {
+          "file": "keyboard-bestsellers-page2.ts",
+          "id": "k-bs-p2-076",
+          "name": "Ewin EW-NKB303"
+        },
+        {
+          "file": "keyboard-bestsellers.ts",
+          "id": "k-bs-048",
+          "name": "Ewin 折りたたみ Bluetoothキーボード 日本語配列 タッチパッド テンキ付き 3台切替対応 タイプc iPad タブレット i…"
+        },
+        {
+          "file": "keyboard-new-releases.ts",
+          "id": "k-nr-001",
+          "name": "Ewin 折りたたみ Bluetoothキーボード 日本語配列 タッチパッド テンキ付き 3台切替対応 タイプc iPad タブレット i…"
+        }
+      ]
+    },
+    {
+      "asin": "B0GTYMLBPF",
+      "items": [
+        {
+          "file": "keyboard-bestsellers-page2.ts",
+          "id": "k-bs-p2-080",
+          "name": "iClever DK20"
+        },
+        {
+          "file": "keyboard-bestsellers.ts",
+          "id": "k-bs-051",
+          "name": "iClever ワイヤレスキーボード Bluetooth テンキー付き JIS日本語配列 2.4GHz 静音 DK20"
+        },
+        {
+          "file": "keyboard-new-releases.ts",
+          "id": "k-nr-003",
+          "name": "iClever ワイヤレスキーボード Bluetooth テンキー付き JIS日本語配列 2.4GHz 静音 DK20"
+        }
+      ]
+    },
+    {
+      "asin": "B0DP8BGL5Z",
+      "items": [
+        {
+          "file": "keyboard-gaming-bestsellers-page2.ts",
+          "id": "k-gbs-p2-052",
+          "name": "YUNZII B75 PRO"
+        },
+        {
+          "file": "keyboard-gaming-bestsellers.ts",
+          "id": "k-gbs-052",
+          "name": "YUNZII B75 PRO 75% ガスケットゲーミングキーボード 無線メカニカルキーボード BT/2.4G/有線 ワイヤレス ホットス…"
+        }
+      ]
+    },
+    {
+      "asin": "B0GX1TQ3K8",
+      "items": [
+        {
+          "file": "keyboard-gaming-bestsellers-page2.ts",
+          "id": "k-gbs-p2-053",
+          "name": "Razer Huntsman V3 HE Magnetic Mini"
+        },
+        {
+          "file": "keyboard-gaming-bestsellers.ts",
+          "id": "k-gbs-053",
+          "name": "Razer Huntsman V3 HE Magnetic Mini 65% 8KHz ゲーミングキーボード US配列 ラピッドトリガー"
+        },
+        {
+          "file": "keyboard-gaming-new-releases-page1.ts",
+          "id": "k-gnr-p1-009",
+          "name": "Razer Huntsman V3 HE Magnetic Mini 65%"
+        }
+      ]
+    },
+    {
+      "asin": "B0GPDQY2VJ",
+      "items": [
+        {
+          "file": "keyboard-gaming-bestsellers-page2.ts",
+          "id": "k-gbs-p2-057",
+          "name": "NuPhy Node75 JIS"
+        },
+        {
+          "file": "keyboard-gaming-bestsellers.ts",
+          "id": "k-gbs-057",
+          "name": "NuPhy Node75 JIS ワイヤレス メカニカルキーボード 75% 82キー ホットスワップ対応 Bluetooth/2.4GHz…"
+        }
+      ]
+    },
+    {
+      "asin": "B0FSKL7D4D",
+      "items": [
+        {
+          "file": "keyboard-gaming-bestsellers-page2.ts",
+          "id": "k-gbs-p2-059",
+          "name": "Keychron K2 Max スペシャルエディション"
+        },
+        {
+          "file": "keyboard-gaming-bestsellers.ts",
+          "id": "k-gbs-059",
+          "name": "「"
+        }
+      ]
+    },
+    {
+      "asin": "B0GYS4RP86",
+      "items": [
+        {
+          "file": "keyboard-gaming-bestsellers-page2.ts",
+          "id": "k-gbs-p2-070",
+          "name": "Keychron C3 Pro カスタムゲーミングキーボード、コンパクトテンキーレスレイアウト/USレイアウト/赤色LEDバックライト/有…"
+        },
+        {
+          "file": "keyboard-gaming-bestsellers.ts",
+          "id": "k-gbs-070",
+          "name": "Keychron C3 Pro カスタムゲーミングキーボード、コンパクトテンキーレスレイアウト/USレイアウト/赤色LEDバックライト/有…"
+        },
+        {
+          "file": "keyboard-gaming-new-releases-page1.ts",
+          "id": "k-gnr-p1-020",
+          "name": "RK ROYAL KLUDGE RK61JP"
+        }
+      ]
+    },
+    {
+      "asin": "B0FGCDSH1J",
+      "items": [
+        {
+          "file": "keyboard-gaming-bestsellers.ts",
+          "id": "k-gbs-005",
+          "name": "Logicool G G515 RAPID TKL 薄型 ゲーミングキーボード"
+        },
+        {
+          "file": "keyboard-gaming-most-gifted-page2.ts",
+          "id": "k-gmg-p2-063",
+          "name": "Logicool G G515 RAPID TKL"
+        },
+        {
+          "file": "keyboard-gaming-most-gifted.ts",
+          "id": "k-gmg-063",
+          "name": "Logicool G G515 RAPID TKL"
+        }
+      ]
+    },
+    {
+      "asin": "B07CM63BBC",
+      "items": [
+        {
+          "file": "keyboard-gaming-bestsellers.ts",
+          "id": "k-gbs-014",
+          "name": "e元素 z-88 ゲーミングキーボード 赤軸 75%コンパクト 81キー テンキーレス RGBメカニカルキーボード 有線 ホットスワップ対応"
+        },
+        {
+          "file": "keyboard-gaming-most-gifted.ts",
+          "id": "k-gmg-004",
+          "name": "e元素 z-88"
+        }
+      ]
+    },
+    {
+      "asin": "B0B5X5DB33",
+      "items": [
+        {
+          "file": "keyboard-gaming-most-gifted-page2.ts",
+          "id": "k-gmg-p2-056",
+          "name": "V-custom VK200S"
+        },
+        {
+          "file": "keyboard-gaming-most-gifted.ts",
+          "id": "k-gmg-056",
+          "name": "エレコム ゲーミングキーボード V-custom VK200S 有線 テンキーレス 65%サイズ メカニカル ネオクラッチキーキャップ 銀…"
+        }
+      ]
+    },
+    {
+      "asin": "B0BB6FVBFJ",
+      "items": [
+        {
+          "file": "keyboard-gaming-most-gifted-page2.ts",
+          "id": "k-gmg-p2-057",
+          "name": "V-custom VK200S"
+        },
+        {
+          "file": "keyboard-gaming-most-gifted.ts",
+          "id": "k-gmg-057",
+          "name": "エレコム ゲーミングキーボード V-custom VK200S 有線 テンキーレス 65%サイズ メカニカル ネオクラッチキーキャップ 銀…"
+        }
+      ]
+    },
+    {
+      "asin": "B0CCXR86L9",
+      "items": [
+        {
+          "file": "keyboard-gaming-most-gifted-page2.ts",
+          "id": "k-gmg-p2-058",
+          "name": "MAMBASNAKE K75"
+        },
+        {
+          "file": "keyboard-gaming-most-gifted.ts",
+          "id": "k-gmg-058",
+          "name": "MAMBASNAKE K75メカニカルキーボードガラス軸ホットスワップメBluetooth /2.4G/USB-C接続3モード GSKET…"
+        }
+      ]
+    },
+    {
+      "asin": "B09N6MYQSN",
+      "items": [
+        {
+          "file": "keyboard-gaming-most-gifted-page2.ts",
+          "id": "k-gmg-p2-064",
+          "name": "Pulsar PCMK 2HE TKL"
+        },
+        {
+          "file": "keyboard-gaming-most-gifted.ts",
+          "id": "k-gmg-064",
+          "name": "Pulsar Gaming Gears PCMK 2HE TKL ゲーミング キーボード JIS 日本語配列 91キー 磁気スイッチ 8K…"
+        }
+      ]
+    },
+    {
+      "asin": "B0DNSJSF2W",
+      "items": [
+        {
+          "file": "keyboard-gaming-most-gifted-page2.ts",
+          "id": "k-gmg-p2-065",
+          "name": "Pulsar PCMK 2HE TKL"
+        },
+        {
+          "file": "keyboard-gaming-most-gifted.ts",
+          "id": "k-gmg-065",
+          "name": "Pulsar Gaming Gears PCMK 2HE TKL ゲーミング キーボード JIS 日本語配列 91キー 磁気スイッチ 8K…"
+        },
+        {
+          "file": "keyboard-gpro-page3.ts",
+          "id": "k-gp3-007",
+          "name": "PCMK 2HE TKL"
+        }
+      ]
+    },
+    {
+      "asin": "B0BP7CT8SW",
+      "items": [
+        {
+          "file": "keyboard-gaming-most-gifted-page2.ts",
+          "id": "k-gmg-p2-071",
+          "name": "YUNZII YZ75"
+        },
+        {
+          "file": "keyboard-gaming-most-gifted.ts",
+          "id": "k-gmg-071",
+          "name": "YUNZII YZ75 75% ホットスワップ対応ワイヤレスゲーミングキーボード RGBバックライト BT5.0/2.4G/USB-C、D…"
+        }
+      ]
+    },
+    {
+      "asin": "B097BXSJV9",
+      "items": [
+        {
+          "file": "keyboard-gaming-most-gifted-page2.ts",
+          "id": "k-gmg-p2-072",
+          "name": "ROCCAT Vulcan II Max JP"
+        },
+        {
+          "file": "keyboard-gaming-most-gifted.ts",
+          "id": "k-gmg-072",
+          "name": "ROCCAT ゲーミングキーボード Vulcan II Max JP 日本語配列 有線 ホワイト/白 オプティカル リニア 静音 フルサイ…"
+        }
+      ]
+    },
+    {
+      "asin": "B09FY64KW7",
+      "items": [
+        {
+          "file": "keyboard-gaming-most-gifted-page2.ts",
+          "id": "k-gmg-p2-075",
+          "name": "Razer Huntsman V2"
+        },
+        {
+          "file": "keyboard-gaming-most-gifted.ts",
+          "id": "k-gmg-075",
+          "name": "Razer Huntsman V2 Linear Optical Switch ゲーミングキーボード 英語 US配列 オプティカルスイッチ…"
+        }
+      ]
+    },
+    {
+      "asin": "B0CYQ2CKCC",
+      "items": [
+        {
+          "file": "keyboard-gaming-most-gifted-page2.ts",
+          "id": "k-gmg-p2-079",
+          "name": "AKS068pro"
+        },
+        {
+          "file": "keyboard-gaming-most-gifted.ts",
+          "id": "k-gmg-079",
+          "name": "AKS068pro ゲーミングキーボード アリスレイアウト ワイヤレス 2.4Ghz/ Bluetooth 5.0/Type-C有線 68…"
+        }
+      ]
+    },
+    {
+      "asin": "B08PZ4R15Z",
+      "items": [
+        {
+          "file": "keyboard-gaming-most-gifted-page2.ts",
+          "id": "k-gmg-p2-080",
+          "name": "Razer BlackWidow V3 JP"
+        },
+        {
+          "file": "keyboard-gaming-most-gifted.ts",
+          "id": "k-gmg-080",
+          "name": "Razer BlackWidow V3 JP Yellow Switch ゲーミングキーボード メカニカル イエロー軸 Chroma RG…"
+        }
+      ]
+    },
+    {
+      "asin": "B0GXSVVQ4S",
+      "items": [
+        {
+          "file": "keyboard-new-releases-page2.ts",
+          "id": "k-nr2-057",
+          "name": "Acogedor 折りたたみ式 Bluetooth キーボード（タッチパッド付き）"
+        },
+        {
+          "file": "keyboard-new-releases.ts",
+          "id": "k-nr-019",
+          "name": "Acogedor 折りたたみ式 Bluetooth キーボード、大型タッチパッドとマルチタッチ ジェスチャーを備えた充電式ワイヤレス キー…"
+        }
+      ]
+    },
+    {
+      "asin": "B0GV2PT85S",
+      "items": [
+        {
+          "file": "keyboard-new-releases-page2.ts",
+          "id": "k-nr2-065",
+          "name": "ミニキーボード 有線 78キー（白）"
+        },
+        {
+          "file": "keyboard-new-releases.ts",
+          "id": "k-nr-025",
+          "name": "ミニキーボード 有線 78キー 薄型 静音 高耐久レーザー刻印 軽量230g プロ仕様 ゼロ遅延 オフィス対応 (白)"
+        }
+      ]
+    },
+    {
+      "asin": "B0H1X78F47",
+      "items": [
+        {
+          "file": "keyboard-new-releases-page2.ts",
+          "id": "k-nr2-068",
+          "name": "Snsowed 超薄型 USB 有線キーボード（ピンク）"
+        },
+        {
+          "file": "keyboard-new-releases.ts",
+          "id": "k-nr-026",
+          "name": "Snsowed かわいい漫画超薄型 USB 有線キーボードサイレントコンピュータホームオフィスラップトップ用ユニバーサル (ピンク)"
+        }
+      ]
+    },
+    {
+      "asin": "B0H8TRGL4J",
+      "items": [
+        {
+          "file": "keyboard-new-releases-page2.ts",
+          "id": "k-nr2-069",
+          "name": "88キー USB 有線キーボード（トラックボール内蔵）"
+        },
+        {
+          "file": "keyboard-new-releases.ts",
+          "id": "k-nr-027",
+          "name": "光学式トラックボールと産業用制御システム用の 3 ボタン設計を内蔵した 88Key 人間工学に基づいた USB 有線キーボード トラックボ…"
+        }
+      ]
+    },
+    {
+      "asin": "B0GYQRGXDV",
+      "items": [
+        {
+          "file": "keyboard-new-releases-page2.ts",
+          "id": "k-nr2-071",
+          "name": "EWIN エルゴノミクス ワイヤレスキーボード"
+        },
+        {
+          "file": "keyboard-new-releases.ts",
+          "id": "k-nr-029",
+          "name": "EWIN エルゴノミクスワイヤレスキーボード Bluetooth iPad/iPhone/Android/Mac/Windows対応 日本語配列"
+        }
+      ]
+    },
+    {
+      "asin": "B0H2GZGTJ8",
+      "items": [
+        {
+          "file": "keyboard-new-releases-page2.ts",
+          "id": "k-nr2-075",
+          "name": "Inateck ワイヤレスキーボード KB06007"
+        },
+        {
+          "file": "keyboard-new-releases.ts",
+          "id": "k-nr-030",
+          "name": "Inateck ワイヤレスキーボード Bluetooth5.3 3台マルチペアリング AIキー搭載 日本語JIS配列"
+        }
+      ]
+    },
+    {
+      "asin": "B0H3L4NCKH",
+      "items": [
+        {
+          "file": "keyboard-new-releases-page2.ts",
+          "id": "k-nr2-076",
+          "name": "Inateck ワイヤレスキーボード KB06007"
+        },
+        {
+          "file": "keyboard-new-releases.ts",
+          "id": "k-nr-031",
+          "name": "Inateck ワイヤレスキーボード Bluetooth5.3 3台マルチペアリング AIキー搭載 日本語JIS配列"
+        }
+      ]
+    },
+    {
+      "asin": "B0DYCR675L",
+      "items": [
+        {
+          "file": "mic-bestsellers-page2.ts",
+          "id": "mic-bs2-063",
+          "name": "ワイヤレスピンマイク (2個セット)"
+        },
+        {
+          "file": "mic-most-gifted-page2.ts",
+          "id": "mic-mg2-068",
+          "name": "ワイヤレスピンマイク"
+        }
+      ]
+    },
+    {
+      "asin": "B0GJD41V2J",
+      "items": [
+        {
+          "file": "mic-bestsellers-page2.ts",
+          "id": "mic-bs2-075",
+          "name": "MM-MCTC02NC"
+        },
+        {
+          "file": "mic-computers-search-streaming.ts",
+          "id": "mic-strm-0033",
+          "name": "Sanwa Supply MM-MCTC02NC Noise Canceling USB Micr…"
+        }
+      ]
+    },
+    {
+      "asin": "B0G39C97WQ",
+      "items": [
+        {
+          "file": "mic-bestsellers.ts",
+          "id": "mic-bs-003",
+          "name": "Mic Mini 2 (2 TX + 1 RX + 充電ケース)"
+        },
+        {
+          "file": "mic-most-gifted.ts",
+          "id": "mic-mg-013",
+          "name": "Mic Mini 2"
+        }
+      ]
+    },
+    {
+      "asin": "B0CRV4VPQY",
+      "items": [
+        {
+          "file": "mic-computers-search.ts",
+          "id": "mic-srch-0083",
+          "name": "Yeti GX"
+        },
+        {
+          "file": "mic-dynamic-bestsellers-page2.ts",
+          "id": "mic-dyn2-078",
+          "name": "YETI GX"
+        }
+      ]
+    },
+    {
+      "asin": "B0FX4V8L8N",
+      "items": [
+        {
+          "file": "monitor-acer-search.ts",
+          "id": "mon-acer-001",
+          "name": "Nitro VG270X3bmiipx"
+        },
+        {
+          "file": "monitor-bestsellers.ts",
+          "id": "mon-bs-046",
+          "name": "XV252QFbmiiprx"
+        },
+        {
+          "file": "monitor-refresh144-search.ts",
+          "id": "mon-hfr144-011",
+          "name": "Nitro VG270X3bmiipx"
+        }
+      ]
+    },
+    {
+      "asin": "B0DL5X394K",
+      "items": [
+        {
+          "file": "monitor-acer-search.ts",
+          "id": "mon-acer-003",
+          "name": "24.5-inch Full HD Matte IPS 120Hz 1ms (VRB) sRGB"
+        },
+        {
+          "file": "monitor-refresh144-search.ts",
+          "id": "mon-hfr144-017",
+          "name": "24.5-inch Full HD Matte IPS 120Hz 1ms (VRB) sRGB"
+        },
+        {
+          "file": "monitor-search-22-120.ts",
+          "id": "mon-s22120-002",
+          "name": "VG250Q3bmiipx 24.5型"
+        }
+      ]
+    },
+    {
+      "asin": "B0FCM37HCT",
+      "items": [
+        {
+          "file": "monitor-acer-search.ts",
+          "id": "mon-acer-006",
+          "name": "23.8インチ フルHD 144Hz 1ms(VRB) IPS 非光沢 sRGB 99% AMD"
+        },
+        {
+          "file": "monitor-refresh144-search.ts",
+          "id": "mon-hfr144-047",
+          "name": "23.8-inch Full HD 144Hz 1ms (VRB) IPS Non-glare "
+        }
+      ]
+    },
+    {
+      "asin": "B0FX4Z1YX1",
+      "items": [
+        {
+          "file": "monitor-acer-search.ts",
+          "id": "mon-acer-007",
+          "name": "23.8インチ IPS フルHD 144Hz 1ms(VRB) 非光沢 sRGB 99% AMD"
+        },
+        {
+          "file": "monitor-refresh144-search.ts",
+          "id": "mon-hfr144-041",
+          "name": "23.8インチ IPS 144Hz"
+        }
+      ]
+    },
+    {
+      "asin": "B0G2MSZ4HZ",
+      "items": [
+        {
+          "file": "monitor-acer-search.ts",
+          "id": "mon-acer-011",
+          "name": "VG240YW3bmiipx"
+        },
+        {
+          "file": "monitor-refresh144-search-page2.ts",
+          "id": "mon-hfr144-p2-002",
+          "name": "Nitro 23.8\\"
+        },
+        {
+          "file": "monitor-refresh144-search.ts",
+          "id": "mon-hfr144-061",
+          "name": "VG240YW3bmiipx"
+        }
+      ]
+    },
+    {
+      "asin": "B08HZ448KY",
+      "items": [
+        {
+          "file": "monitor-acer-search.ts",
+          "id": "mon-acer-027",
+          "name": "VG240YSbmiipfx"
+        },
+        {
+          "file": "monitor-most-gifted.ts",
+          "id": "mon-gift-004",
+          "name": "21型 FHD モニター"
+        }
+      ]
+    },
+    {
+      "asin": "B0GXFNLFQT",
+      "items": [
+        {
+          "file": "monitor-arm-bestsellers.ts",
+          "id": "arm-bs-060",
+          "name": "モニターアーム（USBハブ付）"
+        },
+        {
+          "file": "monitor-arm-new-releases.ts",
+          "id": "arm-nr-04",
+          "name": "モニターアーム（USBハブ付・ブラック）"
+        }
+      ]
+    },
+    {
+      "asin": "B0GZ21C95F",
+      "items": [
+        {
+          "file": "monitor-asus-search.ts",
+          "id": "mon-asus-008",
+          "name": "MB16FC-J"
+        },
+        {
+          "file": "monitor-new-releases-page2.ts",
+          "id": "mon-nr2-004",
+          "name": "ZenScreen MB16FC-J"
+        }
+      ]
+    },
+    {
+      "asin": "B07LH1ZDSL",
+      "items": [
+        {
+          "file": "monitor-asus-search.ts",
+          "id": "mon-asus-020",
+          "name": "VZ249HR"
+        },
+        {
+          "file": "monitor-bestsellers.ts",
+          "id": "mon-bs-042",
+          "name": "VZ249HR"
+        },
+        {
+          "file": "monitor-most-gifted.ts",
+          "id": "mon-gift-026",
+          "name": "VZ249HR"
+        },
+        {
+          "file": "monitor-refresh144-search-page2.ts",
+          "id": "mon-hfr144-p2-038",
+          "name": "Eyer Care VZ249HR"
+        },
+        {
+          "file": "monitor-refresh144-search.ts",
+          "id": "mon-hfr144-085",
+          "name": "Eyer Care VZ249HR"
+        }
+      ]
+    },
+    {
+      "asin": "B0813TDWJB",
+      "items": [
+        {
+          "file": "monitor-asus-search.ts",
+          "id": "mon-asus-024",
+          "name": "VG258QR-J"
+        },
+        {
+          "file": "monitor-refresh144-search-page2.ts",
+          "id": "mon-hfr144-p2-023",
+          "name": "VG258QR"
+        },
+        {
+          "file": "monitor-refresh144-search.ts",
+          "id": "mon-hfr144-070",
+          "name": "VG258QR"
+        }
+      ]
+    },
+    {
+      "asin": "B0FLC2Y42B",
+      "items": [
+        {
+          "file": "monitor-bestsellers-page2.ts",
+          "id": "mon-bs2-004",
+          "name": "EX-GD251UH"
+        },
+        {
+          "file": "monitor-premium-gaming.ts",
+          "id": "mon-pg-023",
+          "name": "EX-GD251UH"
+        },
+        {
+          "file": "monitor-refresh144-search.ts",
+          "id": "mon-hfr144-026",
+          "name": "IODATA EX-GD251UH GCFX , 24.5 Type, 240 Hz, 1 ms"
+        }
+      ]
+    },
+    {
+      "asin": "B0F32NVN1T",
+      "items": [
+        {
+          "file": "monitor-bestsellers-page2.ts",
+          "id": "mon-bs2-010",
+          "name": "IODATA モニター 23.8インチ FHD 100Hz 縦横回転 スピーカー付 高さ調整（HDMI/DP） EX-D242SA-F"
+        },
+        {
+          "file": "monitor-most-gifted.ts",
+          "id": "mon-gift-009",
+          "name": "EX-D242SA-F"
+        }
+      ]
+    },
+    {
+      "asin": "B0DZ6LG8PZ",
+      "items": [
+        {
+          "file": "monitor-bestsellers.ts",
+          "id": "mon-bs-011",
+          "name": "AMZG34C8 Pro"
+        },
+        {
+          "file": "monitor-most-gifted.ts",
+          "id": "mon-gift-010",
+          "name": "AMZG34C8"
+        }
+      ]
+    },
+    {
+      "asin": "B0FCQPC9FQ",
+      "items": [
+        {
+          "file": "monitor-bestsellers.ts",
+          "id": "mon-bs-015",
+          "name": "24E1N2300AE/11"
+        },
+        {
+          "file": "monitor-philips-search.ts",
+          "id": "mon-philips-001",
+          "name": "24E1N2300AE/11"
+        },
+        {
+          "file": "monitor-refresh144-search.ts",
+          "id": "mon-hfr144-016",
+          "name": "PC (23.8 Inches / IPS / FHD / 120Hz / 1ms / 5-Ye"
+        },
+        {
+          "file": "monitor-search-22-120.ts",
+          "id": "mon-s22120-004",
+          "name": "24E1N2300AE/11 23.8型"
+        }
+      ]
+    },
+    {
+      "asin": "B0G42QB93M",
+      "items": [
+        {
+          "file": "monitor-bestsellers.ts",
+          "id": "mon-bs-044",
+          "name": "L24i-40"
+        },
+        {
+          "file": "monitor-lenovo-search.ts",
+          "id": "mon-lenovo-001",
+          "name": "L24-41"
+        }
+      ]
+    },
+    {
+      "asin": "B0BGQDTM53",
+      "items": [
+        {
+          "file": "monitor-lenovo-search-26plus-page2.ts",
+          "id": "mon-lenovo-26p2-001",
+          "name": "27\\"
+        },
+        {
+          "file": "monitor-lenovo-search-26plus.ts",
+          "id": "mon-lenovo-26-047",
+          "name": "Legion Y27q-30"
+        }
+      ]
+    },
+    {
+      "asin": "B0H1PWX6SN",
+      "items": [
+        {
+          "file": "monitor-lenovo-search-26plus.ts",
+          "id": "mon-lenovo-26-001",
+          "name": "LOQ 27Q-10"
+        },
+        {
+          "file": "monitor-new-releases.ts",
+          "id": "mon-nr-021",
+          "name": "【Amazon.co.jp限定】Lenovo ゲーミング LOQ 27Q-10 27インチ/QH"
+        }
+      ]
+    },
+    {
+      "asin": "B0BXH2P9Q9",
+      "items": [
+        {
+          "file": "monitor-lenovo-search-page2.ts",
+          "id": "mon-lenovo-p2-001",
+          "name": "T24v-30 - LED- - 24\\"
+        },
+        {
+          "file": "monitor-lenovo-search.ts",
+          "id": "mon-lenovo-047",
+          "name": "T24v-30 24インチ LED"
+        }
+      ]
+    },
+    {
+      "asin": "B0H4WBLWPV",
+      "items": [
+        {
+          "file": "monitor-lenovo-search-page2.ts",
+          "id": "mon-lenovo-p2-004",
+          "name": "ThinkVision T24-4v"
+        },
+        {
+          "file": "monitor-search-22-120.ts",
+          "id": "mon-s22120-096",
+          "name": "ThinkVision T24-4v 61cm ウェブカメラ フルHD LED、エクリプスブラッ"
+        }
+      ]
+    },
+    {
+      "asin": "B0C7HGFC37",
+      "items": [
+        {
+          "file": "monitor-lenovo-search-page2.ts",
+          "id": "mon-lenovo-p2-011",
+          "name": "23.8\\"
+        },
+        {
+          "file": "monitor-lenovo-search.ts",
+          "id": "mon-lenovo-045",
+          "name": "ThinkVision P24H-30 23.8インチ IPS 2560×1440 HDMI D"
+        }
+      ]
+    },
+    {
+      "asin": "B0FMYPP5CS",
+      "items": [
+        {
+          "file": "monitor-lenovo-search-page2.ts",
+          "id": "mon-lenovo-p2-031",
+          "name": "ThinkVision P24QD-40"
+        },
+        {
+          "file": "monitor-search-22-120.ts",
+          "id": "mon-s22120-112",
+          "name": "P24QD-40"
+        }
+      ]
+    },
+    {
+      "asin": "B0DRC23SSG",
+      "items": [
+        {
+          "file": "monitor-most-gifted.ts",
+          "id": "mon-gift-002",
+          "name": "24型 FHD モニター"
+        },
+        {
+          "file": "monitor-refresh144-search-page2.ts",
+          "id": "mon-hfr144-p2-009",
+          "name": "24インチ 120Hz FHD IPS"
+        },
+        {
+          "file": "monitor-refresh144-search.ts",
+          "id": "mon-hfr144-064",
+          "name": "24-inch 120Hz Full HD 1080p IPS Display 3-Side U"
+        },
+        {
+          "file": "monitor-search-22-120.ts",
+          "id": "mon-s22120-024",
+          "name": "24-inch 120Hz Full HD 1080p IPS Display 3-Side U"
+        }
+      ]
+    },
+    {
+      "asin": "B0GC67N6Z5",
+      "items": [
+        {
+          "file": "monitor-most-gifted.ts",
+          "id": "mon-gift-016",
+          "name": "23.8型 240Hz ゲーミングモニター"
+        },
+        {
+          "file": "monitor-refresh144-search-page2.ts",
+          "id": "mon-hfr144-p2-007",
+          "name": ", 23.8 Inches, 240 Hz, White, 2 HDMI,"
+        },
+        {
+          "file": "monitor-refresh144-search.ts",
+          "id": "mon-hfr144-062",
+          "name": "240Hz/200"
+        }
+      ]
+    },
+    {
+      "asin": "B0CNK91XLQ",
+      "items": [
+        {
+          "file": "monitor-most-gifted.ts",
+          "id": "mon-gift-030",
+          "name": "24型 USB-C モニター"
+        },
+        {
+          "file": "monitor-refresh144-search.ts",
+          "id": "mon-hfr144-039",
+          "name": "24\\"
+        },
+        {
+          "file": "monitor-search-22-120.ts",
+          "id": "mon-s22120-001",
+          "name": "24-inch USB-C 120Hz IPS Built-in Speaker HDR10 A"
+        }
+      ]
+    },
+    {
+      "asin": "B0H3NNB52H",
+      "items": [
+        {
+          "file": "monitor-new-releases-page2.ts",
+          "id": "mon-nr2-013",
+          "name": "XUNDEFINED 21.5型 モニター"
+        },
+        {
+          "file": "monitor-refresh144-search-page2.ts",
+          "id": "mon-hfr144-p2-008",
+          "name": "21.5 Inch Full HD (1920 x 1080) 120Hz Ultra Thin"
+        },
+        {
+          "file": "monitor-refresh144-search.ts",
+          "id": "mon-hfr144-063",
+          "name": "21.5 Inch Full HD (1920 x 1080) 120Hz Ultra Thin"
+        },
+        {
+          "file": "monitor-search-22-120.ts",
+          "id": "mon-s22120-022",
+          "name": "21.5型 モニター"
+        }
+      ]
+    },
+    {
+      "asin": "B0GVY6JKYJ",
+      "items": [
+        {
+          "file": "monitor-new-releases-page2.ts",
+          "id": "mon-nr2-015",
+          "name": "PTFBLT-22W"
+        },
+        {
+          "file": "monitor-philips-search.ts",
+          "id": "mon-philips-012",
+          "name": "27E2G5600W/11"
+        }
+      ]
+    },
+    {
+      "asin": "B0GYPH4QDC",
+      "items": [
+        {
+          "file": "monitor-new-releases.ts",
+          "id": "mon-nr-005",
+          "name": "LG ゲーミング 24G414B-B 23.8インチ/フルHD/144Hz/IPS 1ms/HD"
+        },
+        {
+          "file": "monitor-refresh144-search-page2.ts",
+          "id": "mon-hfr144-p2-020",
+          "name": "UltraGear , 24G414B-B, 23.8 inches, Full HD 144H"
+        },
+        {
+          "file": "monitor-refresh144-search.ts",
+          "id": "mon-hfr144-048",
+          "name": "UltraGear , 24G414B-B, 23.8 inches, PC Games, Ho"
+        }
+      ]
+    },
+    {
+      "asin": "B0G2VHV18G",
+      "items": [
+        {
+          "file": "monitor-new-releases.ts",
+          "id": "mon-nr-017",
+          "name": "H24F7"
+        },
+        {
+          "file": "monitor-refresh144-search-page2.ts",
+          "id": "mon-hfr144-p2-004",
+          "name": "23.8-inch FHD(1920*1080) 240Hz FAST IPS Panel, 1"
+        },
+        {
+          "file": "monitor-refresh144-search.ts",
+          "id": "mon-hfr144-074",
+          "name": "H24F7"
+        }
+      ]
+    },
+    {
+      "asin": "B0GQH4SM7B",
+      "items": [
+        {
+          "file": "monitor-new-releases.ts",
+          "id": "mon-nr-018",
+          "name": "24インチ 144Hz ゲーミング フルHD VAパネル (HDMI/VGA/AdaptiveS"
+        },
+        {
+          "file": "monitor-refresh144-search-page2.ts",
+          "id": "mon-hfr144-p2-025",
+          "name": "E2412K"
+        },
+        {
+          "file": "monitor-refresh144-search.ts",
+          "id": "mon-hfr144-004",
+          "name": "E2412K"
+        }
+      ]
+    },
+    {
+      "asin": "B0GYR9BBB9",
+      "items": [
+        {
+          "file": "monitor-new-releases.ts",
+          "id": "mon-nr-023",
+          "name": "InnoView 18.5型 モバイルモニター"
+        },
+        {
+          "file": "monitor-refresh144-search-page2.ts",
+          "id": "mon-hfr144-p2-039",
+          "name": "18.5型 モバイルモニター"
+        },
+        {
+          "file": "monitor-refresh144-search.ts",
+          "id": "mon-hfr144-086",
+          "name": "18.5型 モバイルモニター"
+        }
+      ]
+    },
+    {
+      "asin": "B0FV856B9M",
+      "items": [
+        {
+          "file": "monitor-philips-search.ts",
+          "id": "mon-philips-002",
+          "name": "24E1N2100D/11"
+        },
+        {
+          "file": "monitor-refresh144-search.ts",
+          "id": "mon-hfr144-006",
+          "name": "LCD PC (23.8 inch / IPS / FHD / 120Hz / 1ms / 5 "
+        },
+        {
+          "file": "monitor-search-22-120.ts",
+          "id": "mon-s22120-007",
+          "name": "LCD PC (23.8 inch / IPS / FHD / 120Hz / 1ms / 5 "
+        }
+      ]
+    },
+    {
+      "asin": "B0FH24FR2N",
+      "items": [
+        {
+          "file": "monitor-philips-search.ts",
+          "id": "mon-philips-005",
+          "name": "24E2N2100/11"
+        },
+        {
+          "file": "monitor-refresh144-search.ts",
+          "id": "mon-hfr144-031",
+          "name": "24E2N2100/11"
+        },
+        {
+          "file": "monitor-search-22-120.ts",
+          "id": "mon-s22120-013",
+          "name": "LCD PC (23.8 Inches / IPS / FHD / 120Hz / 1ms / "
+        }
+      ]
+    },
+    {
+      "asin": "B0FRS19HVM",
+      "items": [
+        {
+          "file": "monitor-premium-gaming.ts",
+          "id": "mon-pg-025",
+          "name": "MGM25IC04-F240"
+        },
+        {
+          "file": "monitor-refresh144-search-page2.ts",
+          "id": "mon-hfr144-p2-026",
+          "name": "24.5\\"
+        },
+        {
+          "file": "monitor-refresh144-search.ts",
+          "id": "mon-hfr144-072",
+          "name": "MGM25IC04"
+        }
+      ]
+    },
+    {
+      "asin": "B0DXDW1CJG",
+      "items": [
+        {
+          "file": "monitor-refresh144-search-page2.ts",
+          "id": "mon-hfr144-p2-001",
+          "name": "25G2S"
+        },
+        {
+          "file": "monitor-refresh144-search.ts",
+          "id": "mon-hfr144-002",
+          "name": "24.5 Inch 240Hz IPS Panel WQHD Black (HDMI 2.1x2"
+        }
+      ]
+    },
+    {
+      "asin": "B0H4LY1F1Q",
+      "items": [
+        {
+          "file": "monitor-refresh144-search-page2.ts",
+          "id": "mon-hfr144-p2-003",
+          "name": "23.8インチ WQHD 240Hz"
+        },
+        {
+          "file": "monitor-refresh144-search.ts",
+          "id": "mon-hfr144-078",
+          "name": "[Amazon.co.jp Limited] KTC 23.8 inch WQHD , 240 "
+        }
+      ]
+    },
+    {
+      "asin": "B0FHB76PQW",
+      "items": [
+        {
+          "file": "monitor-refresh144-search-page2.ts",
+          "id": "mon-hfr144-p2-005",
+          "name": "23.8-inch Full HD (1920×1080) IPS 144Hz"
+        },
+        {
+          "file": "monitor-refresh144-search.ts",
+          "id": "mon-hfr144-059",
+          "name": "23.8-inch Full HD (1920×1080) IPS 144Hz sRGB103%"
+        }
+      ]
+    },
+    {
+      "asin": "B0GLNJ1X86",
+      "items": [
+        {
+          "file": "monitor-refresh144-search-page2.ts",
+          "id": "mon-hfr144-p2-010",
+          "name": "PX249 Wave"
+        },
+        {
+          "file": "monitor-refresh144-search.ts",
+          "id": "mon-hfr144-001",
+          "name": "ゲーミング PX249Wave ゴールド 24インチ WQHD 240hz Fast IPS ゲ"
+        }
+      ]
+    },
+    {
+      "asin": "B0GGXHTLCX",
+      "items": [
+        {
+          "file": "monitor-refresh144-search-page2.ts",
+          "id": "mon-hfr144-p2-011",
+          "name": "H24B9S"
+        },
+        {
+          "file": "monitor-refresh144-search.ts",
+          "id": "mon-hfr144-044",
+          "name": "23.8インチ IPS 144Hz"
+        }
+      ]
+    },
+    {
+      "asin": "B0FJLBTBC4",
+      "items": [
+        {
+          "file": "monitor-refresh144-search-page2.ts",
+          "id": "mon-hfr144-p2-016",
+          "name": "21.5-inch PC 120Hz Full HD Non-glare"
+        },
+        {
+          "file": "monitor-refresh144-search.ts",
+          "id": "mon-hfr144-067",
+          "name": "21.5-inch PC 120Hz Full HD Non-glare Adaptive Sy"
+        },
+        {
+          "file": "monitor-search-22-120.ts",
+          "id": "mon-s22120-026",
+          "name": "21.5-inch PC 120Hz Full HD Non-glare Adaptive Sy"
+        }
+      ]
+    },
+    {
+      "asin": "B0DT438HWJ",
+      "items": [
+        {
+          "file": "monitor-refresh144-search-page2.ts",
+          "id": "mon-hfr144-p2-017",
+          "name": "PX246Wave Blue 24\\"
+        },
+        {
+          "file": "monitor-refresh144-search.ts",
+          "id": "mon-hfr144-068",
+          "name": "ゲーミング PX246Wave ブルー 24インチ 120hz FHD IPS HDMI ゲーミ"
+        },
+        {
+          "file": "monitor-search-22-120.ts",
+          "id": "mon-s22120-018",
+          "name": "PX246Wave Blue 24\\"
+        }
+      ]
+    },
+    {
+      "asin": "B0GYPP63DR",
+      "items": [
+        {
+          "file": "monitor-refresh144-search-page2.ts",
+          "id": "mon-hfr144-p2-019",
+          "name": "ゲーミング 24G411B-B 23.8インチ/フルHD/IPS/144Hz/sRGB 99%/"
+        },
+        {
+          "file": "monitor-refresh144-search.ts",
+          "id": "mon-hfr144-022",
+          "name": "UltraGear 24G411B-B LCD , 23.8 inches, Full HD ("
+        }
+      ]
+    },
+    {
+      "asin": "B0F29CKQ6H",
+      "items": [
+        {
+          "file": "monitor-refresh144-search-page2.ts",
+          "id": "mon-hfr144-p2-021",
+          "name": "27G2S"
+        },
+        {
+          "file": "monitor-refresh144-search.ts",
+          "id": "mon-hfr144-019",
+          "name": "24.5-Inch 240Hz WQHD , QD-MiniLED , 1440p Quantu"
+        }
+      ]
+    },
+    {
+      "asin": "B0FSBYTJ28",
+      "items": [
+        {
+          "file": "monitor-refresh144-search-page2.ts",
+          "id": "mon-hfr144-p2-028",
+          "name": ", 24.5 Inches, 240 Hz, Full HD, Fast IPS Panel"
+        },
+        {
+          "file": "monitor-refresh144-search.ts",
+          "id": "mon-hfr144-075",
+          "name": ", 24.5 Inches, 240 Hz, Full HD, Fast IPS Panel, "
+        }
+      ]
+    },
+    {
+      "asin": "B0GCD62S2H",
+      "items": [
+        {
+          "file": "monitor-refresh144-search-page2.ts",
+          "id": "mon-hfr144-p2-029",
+          "name": "G2411X , 240Hz Full HD , 1ms"
+        },
+        {
+          "file": "monitor-refresh144-search.ts",
+          "id": "mon-hfr144-076",
+          "name": "G2411X , 240Hz Full HD , 1ms (AdaptiveSync/HDMIx"
+        }
+      ]
+    },
+    {
+      "asin": "B0GY869ZYW",
+      "items": [
+        {
+          "file": "monitor-refresh144-search-page2.ts",
+          "id": "mon-hfr144-p2-032",
+          "name": "240Hz 24.5 Inch FHD VA Panel 1ms"
+        },
+        {
+          "file": "monitor-refresh144-search.ts",
+          "id": "mon-hfr144-080",
+          "name": "240Hz 24.5 Inch FHD (1920 x 1080) HDMI 2.1 x 1 /"
+        }
+      ]
+    },
+    {
+      "asin": "B0FV3G6WR7",
+      "items": [
+        {
+          "file": "monitor-refresh144-search-page2.ts",
+          "id": "mon-hfr144-p2-035",
+          "name": "G-MASTER GB2471HSU-W1 , 23.8 Inches, 240 Hz, IPS"
+        },
+        {
+          "file": "monitor-refresh144-search.ts",
+          "id": "mon-hfr144-083",
+          "name": "G-MASTER GB2471HSU-W1 , White, Display, 23.8 Inc"
+        }
+      ]
+    },
+    {
+      "asin": "B094VJT99S",
+      "items": [
+        {
+          "file": "monitor-refresh144-search-page2.ts",
+          "id": "mon-hfr144-p2-037",
+          "name": "GigaCrysta 23.8インチ"
+        },
+        {
+          "file": "monitor-refresh144-search.ts",
+          "id": "mon-hfr144-084",
+          "name": "I-O Data IODATA 23.8\\"
+        }
+      ]
+    },
+    {
+      "asin": "B0F3HQTJL6",
+      "items": [
+        {
+          "file": "monitor-refresh144-search-page2.ts",
+          "id": "mon-hfr144-p2-042",
+          "name": ", 25 Inch, 25G54 FHD, HFS Panel"
+        },
+        {
+          "file": "monitor-refresh144-search.ts",
+          "id": "mon-hfr144-089",
+          "name": "450nits/1300"
+        }
+      ]
+    },
+    {
+      "asin": "B0F2HRQT3X",
+      "items": [
+        {
+          "file": "monitor-refresh144-search-page2.ts",
+          "id": "mon-hfr144-p2-044",
+          "name": "24インチ FHD 240Hz IPS"
+        },
+        {
+          "file": "monitor-refresh144-search.ts",
+          "id": "mon-hfr144-091",
+          "name": "24 Inch FHD 1080p 240Hz IPS Panel 1ms Response T"
+        }
+      ]
+    },
+    {
+      "asin": "B0F4X5M6CV",
+      "items": [
+        {
+          "file": "monitor-refresh144-search-page2.ts",
+          "id": "mon-hfr144-p2-045",
+          "name": "JN-i245G144F"
+        },
+        {
+          "file": "monitor-refresh144-search.ts",
+          "id": "mon-hfr144-092",
+          "name": "(Amazon.co.jp Limited) JAPANNEXT 24.5 inch IPS P"
+        }
+      ]
+    },
+    {
+      "asin": "B0H2XKGV8Z",
+      "items": [
+        {
+          "file": "monitor-refresh144-search-page2.ts",
+          "id": "mon-hfr144-p2-046",
+          "name": "JN-Ei238G165F-PK Full HD 165Hz 1ms IPS Pink"
+        },
+        {
+          "file": "monitor-refresh144-search.ts",
+          "id": "mon-hfr144-093",
+          "name": "【ECサイト限定】JAPANNEXT 23.8インチ IPSパネル搭載 165Hz/1ms(MP"
+        }
+      ]
+    },
+    {
+      "asin": "B0G26KGR8S",
+      "items": [
+        {
+          "file": "monitor-refresh144-search-page2.ts",
+          "id": "mon-hfr144-p2-051",
+          "name": "HKC V2718S 27\\"
+        },
+        {
+          "file": "monitor-refresh144-search.ts",
+          "id": "mon-hfr144-098",
+          "name": "HKC V2718S 27インチ 144Hz PC IPS フルHD 1920×1080 PS5"
+        }
+      ]
+    },
+    {
+      "asin": "B0G7JTLDB1",
+      "items": [
+        {
+          "file": "monitor-refresh144-search-page2.ts",
+          "id": "mon-hfr144-p2-052",
+          "name": "24\\"
+        },
+        {
+          "file": "monitor-refresh144-search.ts",
+          "id": "mon-hfr144-021",
+          "name": "HKC MG24H39FS ゲーミング 23.8インチ Fast IPS フルHD 1920×1"
+        }
+      ]
+    },
+    {
+      "asin": "B0F7XG3551",
+      "items": [
+        {
+          "file": "monitor-refresh144-search-page2.ts",
+          "id": "mon-hfr144-p2-053",
+          "name": "JN-IPS245G144F"
+        },
+        {
+          "file": "monitor-refresh144-search.ts",
+          "id": "mon-hfr144-099",
+          "name": "JN-IPS245G144F 24.5-Inch | IPSパネル,144Hz/1ms,FHD "
+        }
+      ]
+    },
+    {
+      "asin": "B0B1D216VX",
+      "items": [
+        {
+          "file": "monitor-refresh144-search-page2.ts",
+          "id": "mon-hfr144-p2-054",
+          "name": "JN-T215FLG144FHD 21.5 inch 144Hz 1ms Full HD TN "
+        },
+        {
+          "file": "monitor-refresh144-search.ts",
+          "id": "mon-hfr144-100",
+          "name": "21.5インチ ゲーミング 144Hz 1ms フルHD 1920x1080解像度 TN パネル"
+        }
+      ]
+    },
+    {
+      "asin": "B0DJNJN6PK",
+      "items": [
+        {
+          "file": "monitor-refresh144-search.ts",
+          "id": "mon-hfr144-025",
+          "name": "【Amazon.co.jp限定】MSI ビジネス PRO MP251W E2 24.5インチ/フ"
+        },
+        {
+          "file": "monitor-search-22-120.ts",
+          "id": "mon-s22120-009",
+          "name": "【Amazon.co.jp Limited】MSI PRO MP251W E2 , 24.5 I"
+        }
+      ]
+    },
+    {
+      "asin": "B0CYGYNB3K",
+      "items": [
+        {
+          "file": "mouse-bestsellers.ts",
+          "id": "m-bs-008",
+          "name": "【極薄型モデル＆Type-C充電式】マウス 無線 Bluetooth 5.2 ワイヤレスマウス 静音 瞬時接続 小型 高感度 ブルートゥー…"
+        },
+        {
+          "file": "mouse-bestsellers.ts",
+          "id": "m-bs-050",
+          "name": "Bluetooth Mouse, Ultra Thin Design, Silent, 2-Way Connection, Wireles…"
+        },
+        {
+          "file": "mouse-bestsellers.ts",
+          "id": "m-bs-097",
+          "name": "Wireless Mouse, Bluetooth 5.2 Type-C Rechargeable Silent Thin Compact…"
+        }
+      ]
+    },
+    {
+      "asin": "B0FR8LPP2K",
+      "items": [
+        {
+          "file": "mouse-bestsellers.ts",
+          "id": "m-bs-013",
+          "name": "【Amazon.co.jp限定】 ロジクール MX MASTER 4 アドバンスド ワイヤレス マウス 触覚フィードバック 静音 MX24…"
+        },
+        {
+          "file": "mouse-gpro-page3.ts",
+          "id": "m-gp3-015",
+          "name": "MX MASTER 4"
+        }
+      ]
+    },
+    {
+      "asin": "B0BKP2XWY5",
+      "items": [
+        {
+          "file": "mouse-bestsellers.ts",
+          "id": "m-bs-021",
+          "name": "【Amazon.co.jp限定】 ロジクールワイヤレスマウス 静音 無線 Signature M550MBKs レギュラー ブラック 国内…"
+        },
+        {
+          "file": "mouse-gpro-page3.ts",
+          "id": "m-gp3-017",
+          "name": "M550MBKs"
+        }
+      ]
+    },
+    {
+      "asin": "B08GP2H88M",
+      "items": [
+        {
+          "file": "mouse-bestsellers.ts",
+          "id": "m-bs-028",
+          "name": "ロジクール ワイヤレスマウス 無線 高速スクロール 7ボタン マウス Unifying SEB-M705 ブラック 国内正規品"
+        },
+        {
+          "file": "mouse-popular-brands.ts",
+          "id": "m-pb-244",
+          "name": "Logitech SEB-M705 Wireless Mouse, High Speed Scroll, 7 Buttons, Unify…"
+        }
+      ]
+    },
+    {
+      "asin": "B0H1JVHGD3",
+      "items": [
+        {
+          "file": "mouse-bestsellers.ts",
+          "id": "m-bs-032",
+          "name": "Elecom M-TM25MBMSABK Wireless Mouse, Silent, Bluetooth, Wireless, 2.4…"
+        },
+        {
+          "file": "mouse-new-releases.ts",
+          "id": "m-nr-001",
+          "name": "Slint M-TM25MBMSABK"
+        }
+      ]
+    },
+    {
+      "asin": "B0H74SGFVW",
+      "items": [
+        {
+          "file": "mouse-bestsellers.ts",
+          "id": "m-bs-038",
+          "name": "Wireless Mouse, Quiet, Wireless Mouse, Bluetooth 5.4 GHz, 2.4 GHz, Ty…"
+        },
+        {
+          "file": "mouse-new-releases.ts",
+          "id": "m-nr-002",
+          "name": "マウス 無線 静音 ワイヤレスマウス Bluetooth 5.4 2.4GHz Type-C 充電式 無線マウス 薄型 3段階DPI切替"
+        }
+      ]
+    },
+    {
+      "asin": "B0H7LM2MV5",
+      "items": [
+        {
+          "file": "mouse-bestsellers.ts",
+          "id": "m-bs-049",
+          "name": "Vertical Wireless Mouse, Rechargeable, Bluetooth Mouse, Ergonomic Mou…"
+        },
+        {
+          "file": "mouse-new-releases.ts",
+          "id": "m-nr-004",
+          "name": "縦型ワイヤレスマウス 充電式 【2026 強化版 】Bluetoothマウス エルゴノミクスマウス 6 ボタン搭載 高精度 800/120…"
+        }
+      ]
+    },
+    {
+      "asin": "B0CGWN5V9N",
+      "items": [
+        {
+          "file": "mouse-bestsellers.ts",
+          "id": "m-bs-060",
+          "name": "エレコム ワイヤレスマウス 静音 EX-G PRO Lサイズ Bluetooth 無線2.4GHz 両対応 充電式 8ボタン 高速スクロー…"
+        },
+        {
+          "file": "mouse-popular-brands.ts",
+          "id": "m-pb-239",
+          "name": "Elecom M-XGL50MBSKBK Wireless Mouse, Silent, EX-G Pro, Large, Bluetoo…"
+        }
+      ]
+    },
+    {
+      "asin": "B0GJ8FWK42",
+      "items": [
+        {
+          "file": "mouse-bestsellers.ts",
+          "id": "m-bs-065",
+          "name": "ロジクール ワイヤレスマウス 静音 高速スクロール 無線 Signature Comfort Plus M840LGRd グラファイト 国…"
+        },
+        {
+          "file": "mouse-new-releases.ts",
+          "id": "m-nr-006",
+          "name": "Signature Comfort Plus M840L"
+        }
+      ]
+    },
+    {
+      "asin": "B0FNKZ6666",
+      "items": [
+        {
+          "file": "mouse-bestsellers.ts",
+          "id": "m-bs-080",
+          "name": "【革新版】ProtoArc EM11 NL エルゴノミクスマウス 縦型58° 静音 無線 Bluetooth 2.4GHz 3台同時接続 …"
+        },
+        {
+          "file": "mouse-bestsellers.ts",
+          "id": "m-bs-089",
+          "name": "Bluetooth Wireless Mouse, Ergonomic Design, Quiet, Bluetooth & 2.4 GH…"
+        }
+      ]
+    },
+    {
+      "asin": "B0GVDZCKTN",
+      "items": [
+        {
+          "file": "mouse-bestsellers.ts",
+          "id": "m-bs-082",
+          "name": "Elecom M-MY50MBSBK-G Wireless Mouse, OSMOD8, Quiet, Bluetooth, Wirele…"
+        },
+        {
+          "file": "mouse-new-releases.ts",
+          "id": "m-nr-005",
+          "name": "OSMOD8 M-MY50MBSBK-G"
+        }
+      ]
+    },
+    {
+      "asin": "B0GJBLL518",
+      "items": [
+        {
+          "file": "mouse-bestsellers.ts",
+          "id": "m-bs-084",
+          "name": "Wireless Mouse, Quiet, Ultra Thin Design & High Precision Sensor, 2.4…"
+        },
+        {
+          "file": "mouse-bestsellers.ts",
+          "id": "m-bs-088",
+          "name": "Wireless Mouse, Silent Click, Ultra Thin, 2.4 GHz Mouse, High Precisi…"
+        }
+      ]
+    },
+    {
+      "asin": "B0FJRGXPY6",
+      "items": [
+        {
+          "file": "mouse-bestsellers.ts",
+          "id": "m-bs-087",
+          "name": "Elecom M-MY35MBSAWH Wireless Mouse, Quiet, Rechargeable, OSMOD Six Bl…"
+        },
+        {
+          "file": "mouse-bestsellers.ts",
+          "id": "m-bs-092",
+          "name": "Elecom M-MY35MBSAWH Wireless Mouse, Quiet, Rechargeable, OSMOD, Bluet…"
+        }
+      ]
+    },
+    {
+      "asin": "B0F5PV5B9D",
+      "items": [
+        {
+          "file": "mouse-g-pro-search.ts",
+          "id": "m-gpro-001",
+          "name": "G PRO 2 LIGHTSPEED G-PPD-002XWL-BKD"
+        },
+        {
+          "file": "mouse-gpro-page3.ts",
+          "id": "m-gp3-001",
+          "name": "G PRO 2 LIGHTSPEED G-PPD-002XWL-BKd"
+        }
+      ]
+    },
+    {
+      "asin": "B0F5PYPCCK",
+      "items": [
+        {
+          "file": "mouse-g-pro-search.ts",
+          "id": "m-gpro-002",
+          "name": "G PRO X SUPERLIGHT 2 G-PPD-004WL-BKD"
+        },
+        {
+          "file": "mouse-gpro-page3.ts",
+          "id": "m-gp3-002",
+          "name": "G PRO X SUPERLIGHT 2 G-PPD-004WL-BKd"
+        }
+      ]
+    },
+    {
+      "asin": "B0D9VVJ967",
+      "items": [
+        {
+          "file": "mouse-g-pro-search.ts",
+          "id": "m-gpro-004",
+          "name": "G PRO 2 LIGHTSPEED G-PPD-002XWL-BKD"
+        },
+        {
+          "file": "mouse-gaming-bestsellers.ts",
+          "id": "m-gbs-003",
+          "name": "G PRO 2 LIGHTSPEED G-PPD-002XWL-BK"
+        }
+      ]
+    },
+    {
+      "asin": "B0GGX35X72",
+      "items": [
+        {
+          "file": "mouse-g-pro-search.ts",
+          "id": "m-gpro-005",
+          "name": "PRO X2 SUPERSTRIKE G-PPD-004WL-STRKD"
+        },
+        {
+          "file": "mouse-gaming-bestsellers.ts",
+          "id": "m-gbs-004",
+          "name": "PRO X2 SUPERSTRIKE G-PPD-004WL-STRK"
+        }
+      ]
+    },
+    {
+      "asin": "B0FPRQPGT7",
+      "items": [
+        {
+          "file": "mouse-g-pro-search.ts",
+          "id": "m-gpro-006",
+          "name": "G PRO X SUPERLIGHT 2 SE G-PPD-004WLSE-BK"
+        },
+        {
+          "file": "mouse-gaming-bestsellers.ts",
+          "id": "m-gbs-011",
+          "name": "PRO X SUPERLIGHT 2 SE G-PPD-004WLSE-BK"
+        }
+      ]
+    },
+    {
+      "asin": "B0D21Q6QG4",
+      "items": [
+        {
+          "file": "mouse-g-pro-search.ts",
+          "id": "m-gpro-011",
+          "name": "G PRO X SUPERLIGHT 2 G-PPD-004WL-BKD"
+        },
+        {
+          "file": "mouse-gaming-bestsellers.ts",
+          "id": "m-gbs-008",
+          "name": "PRO X SUPERLIGHT 2 G-PPD-004WL-BK"
+        }
+      ]
+    },
+    {
+      "asin": "B0D9VWPG1T",
+      "items": [
+        {
+          "file": "mouse-g-pro-search.ts",
+          "id": "m-gpro-014",
+          "name": "G PRO X SUPERLIGHT 2 DEX GPROXSL-WLDEXBKd"
+        },
+        {
+          "file": "mouse-gaming-bestsellers.ts",
+          "id": "m-gbs-014",
+          "name": "SUPERLIGHT 2"
+        }
+      ]
+    },
+    {
+      "asin": "B0FNMVZCP9",
+      "items": [
+        {
+          "file": "mouse-g-pro-search.ts",
+          "id": "m-gpro-023",
+          "name": "PRO X SUPERLIGHT 2c G-PPD-004WLCO-WH"
+        },
+        {
+          "file": "mouse-gaming-bestsellers.ts",
+          "id": "m-gbs-022",
+          "name": "G-PPD-004WLCO-WH"
+        }
+      ]
+    },
+    {
+      "asin": "B0GJ92D4LY",
+      "items": [
+        {
+          "file": "mouse-g-pro-search.ts",
+          "id": "m-gpro-029",
+          "name": "G304X Superlight"
+        },
+        {
+          "file": "mouse-gaming-bestsellers.ts",
+          "id": "m-gbs-025",
+          "name": "Logicool G ワイヤレス ゲーミングマウス G304 X SUPERLIGHT G304X-SL-WHd"
+        },
+        {
+          "file": "mouse-gaming-new-releases.ts",
+          "id": "m-gnr-004",
+          "name": "Logicool G ワイヤレス ゲーミングマウス G304 X SUPERLIGHT G304X-SL-WHd"
+        }
+      ]
+    },
+    {
+      "asin": "B0BHL3B2VF",
+      "items": [
+        {
+          "file": "mouse-gaming-bestsellers.ts",
+          "id": "m-gbs-023",
+          "name": "G502 X LIGHTSPEED G502XWL-CRBK"
+        },
+        {
+          "file": "mouse-gpro-page3.ts",
+          "id": "m-gp3-010",
+          "name": "G502XWL-CRBK"
+        }
+      ]
+    },
+    {
+      "asin": "B0BGS1KQ68",
+      "items": [
+        {
+          "file": "mouse-gaming-bestsellers.ts",
+          "id": "m-gbs-031",
+          "name": "レイザー Basilisk V3 Pro ゲーミングマウス ワイヤレス Bluetooth 無線 接続 Focus Pro 30K オプテ…"
+        },
+        {
+          "file": "mouse-gaming-new-releases.ts",
+          "id": "m-gnr-008",
+          "name": "V8 Black ゲーミングマウス 8000hz 重量36±3g 左右対称 - Kailh Optical スイッチ【国内正規品】"
+        }
+      ]
+    },
+    {
+      "asin": "B0F31Z6RN8",
+      "items": [
+        {
+          "file": "mouse-gaming-bestsellers.ts",
+          "id": "m-gbs-048",
+          "name": "LAMZU MAYA X REJECTモデル【8Kドングル入り】 ゲーミングマウス リジェクトSPECIAL EDITION"
+        },
+        {
+          "file": "mouse-gpro-page3.ts",
+          "id": "m-gp3-008",
+          "name": "MAYA X REJECT"
+        }
+      ]
+    },
+    {
+      "asin": "B0CBCPB2T1",
+      "items": [
+        {
+          "file": "mouse-new-releases-page2.ts",
+          "id": "m-nr2-006",
+          "name": "Viper V3 HyperSpeed"
+        },
+        {
+          "file": "mouse-popular-brands.ts",
+          "id": "m-pb-093",
+          "name": "Razer Viper V3 HyperSpeed - Kabellose Esports Maus (Focus Pro 30K Opt…"
+        }
+      ]
+    }
+  ],
+  "heuristics": [
+    {
+      "type": "mobile-name-large-screen",
+      "detail": "23.8インチ フルHD 144Hz 1ms(VRB) IPS 非光沢 sRGB… vs 23.8 インチ",
+      "file": "monitor-acer-search.ts",
+      "id": "mon-acer-006",
+      "asin": "B0FCM37HCT",
+      "name": "23.8インチ フルHD 144Hz 1ms(VRB) IPS 非光沢 sRGB 99% AMD"
+    },
+    {
+      "type": "mobile-name-large-screen",
+      "detail": "23.8インチ IPS フルHD 144Hz 1ms(VRB) 非光沢 sRGB… vs 23.8 インチ",
+      "file": "monitor-acer-search.ts",
+      "id": "mon-acer-007",
+      "asin": "B0FX4Z1YX1",
+      "name": "23.8インチ IPS フルHD 144Hz 1ms(VRB) 非光沢 sRGB 99% AMD"
+    },
+    {
+      "type": "mobile-name-large-screen",
+      "detail": "AlphaLine 23.8インチ SA240YAbmi フルHD IPS フレ… vs 23.8 インチ",
+      "file": "monitor-acer-search.ts",
+      "id": "mon-acer-018",
+      "asin": "B07DQPQKC8",
+      "name": "AlphaLine 23.8インチ SA240YAbmi フルHD IPS フレームレス HDM"
+    },
+    {
+      "type": "mobile-name-large-screen",
+      "detail": "エレコム モニターアーム ブラケット式で取り付けしやすい 支柱式 17インチ~3… vs 17〜35インチ",
+      "file": "monitor-arm-bestsellers.ts",
+      "id": "arm-bs-999",
+      "asin": "B0C7VQPLS1",
+      "name": "エレコム モニターアーム ブラケット式で取り付けしやすい 支柱式 17インチ~35インチ対応 耐荷重:15kg ガス式 VESA規格対応 …"
+    },
+    {
+      "type": "oem-mobile-mix",
+      "detail": "major OEM title with mobile monitor hints",
+      "file": "monitor-bestsellers-page2.ts",
+      "id": "mon-bs2-009",
+      "asin": "B0GYPVGG2D",
+      "name": "LG モニター27U711B-B 27インチ/4K/IPS/約10.7億色表示(8bit+FRC)/DCI-P3 90%/HDR"
+    },
+    {
+      "type": "mobile-name-large-screen",
+      "detail": "LG モニター27U711B-B 27インチ/4K/IPS/約10.7億色表示(… vs 27 インチ",
+      "file": "monitor-bestsellers-page2.ts",
+      "id": "mon-bs2-009",
+      "asin": "B0GYPVGG2D",
+      "name": "LG モニター27U711B-B 27インチ/4K/IPS/約10.7億色表示(8bit+FRC)/DCI-P3 90%/HDR"
+    },
+    {
+      "type": "mobile-name-large-screen",
+      "detail": "IODATA モニター 23.8インチ FHD 100Hz 縦横回転 スピーカー… vs 23.8 インチ",
+      "file": "monitor-bestsellers-page2.ts",
+      "id": "mon-bs2-010",
+      "asin": "B0F32NVN1T",
+      "name": "IODATA モニター 23.8インチ FHD 100Hz 縦横回転 スピーカー付 高さ調整（HDMI/DP） EX-D242SA-F"
+    },
+    {
+      "type": "mobile-name-large-screen",
+      "detail": "27インチThinkVision E27q-20、2560x1440解像度、10… vs 27 インチ",
+      "file": "monitor-lenovo-search-26plus-page2.ts",
+      "id": "mon-lenovo-26p2-006",
+      "asin": "B0G2BDW1YY",
+      "name": "27インチThinkVision E27q-20、2560x1440解像度、1000:1コントラ"
+    },
+    {
+      "type": "mobile-name-large-screen",
+      "detail": "27インチ ThinkVision S27i-30、1920x1080解像度、1… vs 27 インチ",
+      "file": "monitor-lenovo-search-26plus.ts",
+      "id": "mon-lenovo-26-036",
+      "asin": "B0G2BCLT3H",
+      "name": "27インチ ThinkVision S27i-30、1920x1080解像度、1300:1コント"
+    },
+    {
+      "type": "mobile-name-large-screen",
+      "detail": "ThinkVision E24-29 23.8インチ 16:9 フルHD VA … vs 23.8 インチ",
+      "file": "monitor-lenovo-search-page2.ts",
+      "id": "mon-lenovo-p2-014",
+      "asin": "B0BGPW9PQZ",
+      "name": "ThinkVision E24-29 23.8インチ 16:9 フルHD VA WLED LCD"
+    },
+    {
+      "type": "mobile-name-large-screen",
+      "detail": "ThinkVision T24i 23.8インチ FHD IPS WLED-バッ… vs 23.8 インチ",
+      "file": "monitor-lenovo-search-page2.ts",
+      "id": "mon-lenovo-p2-020",
+      "asin": "B0DQR9V8X2",
+      "name": "ThinkVision T24i 23.8インチ FHD IPS WLED-バックライトLCD "
+    },
+    {
+      "type": "mobile-name-large-screen",
+      "detail": "ThinkVision C24-40 63DCKAR6JP 23.8インチ FH… vs 23.8 インチ",
+      "file": "monitor-lenovo-search.ts",
+      "id": "mon-lenovo-005",
+      "asin": "B0GK8H12LS",
+      "name": "ThinkVision C24-40 63DCKAR6JP 23.8インチ FHD VA 非光沢"
+    },
+    {
+      "type": "mobile-name-large-screen",
+      "detail": "ThinkVision S24e-10 61CAKAR1JP 23.8インチ (… vs 23.8 インチ",
+      "file": "monitor-lenovo-search.ts",
+      "id": "mon-lenovo-007",
+      "asin": "B0CWL8TTVN",
+      "name": "ThinkVision S24e-10 61CAKAR1JP 23.8インチ (整備済み品)"
+    },
+    {
+      "type": "mobile-name-large-screen",
+      "detail": "ThinkVision T24i-30 23.8インチ FHD WLED LCD… vs 23.8 インチ",
+      "file": "monitor-lenovo-search.ts",
+      "id": "mon-lenovo-019",
+      "asin": "B0BZWLJFTD",
+      "name": "ThinkVision T24i-30 23.8インチ FHD WLED LCD"
+    },
+    {
+      "type": "mobile-name-large-screen",
+      "detail": "ThinkVision S24-4e 23.8インチ… vs 23.8 インチ",
+      "file": "monitor-lenovo-search.ts",
+      "id": "mon-lenovo-022",
+      "asin": "B0FQJPMZLJ",
+      "name": "ThinkVision S24-4e 23.8インチ"
+    },
+    {
+      "type": "mobile-name-large-screen",
+      "detail": "TS S24i-30 23.8インチ IPS… vs 23.8 インチ",
+      "file": "monitor-lenovo-search.ts",
+      "id": "mon-lenovo-028",
+      "asin": "B0CH7DVMX6",
+      "name": "TS S24i-30 23.8インチ IPS"
+    },
+    {
+      "type": "mobile-name-large-screen",
+      "detail": "ThinkVision E24q-30 23.8インチ QHD 63ECGAR2… vs 23.8 インチ",
+      "file": "monitor-lenovo-search.ts",
+      "id": "mon-lenovo-033",
+      "asin": "B0GQ39Q3KG",
+      "name": "ThinkVision E24q-30 23.8インチ QHD 63ECGAR2JP"
+    },
+    {
+      "type": "mobile-name-large-screen",
+      "detail": "Q24h-10 23.8インチ QHD USB-C 75Hz 4ms AMD F… vs 23.8 インチ",
+      "file": "monitor-lenovo-search.ts",
+      "id": "mon-lenovo-034",
+      "asin": "B08D6SKVVN",
+      "name": "Q24h-10 23.8インチ QHD USB-C 75Hz 4ms AMD FreeSync "
+    },
+    {
+      "type": "mobile-name-large-screen",
+      "detail": "ThinkVision T24i-2L 23.8インチ FHD IPS 60Hz… vs 23.8 インチ",
+      "file": "monitor-lenovo-search.ts",
+      "id": "mon-lenovo-037",
+      "asin": "B09C8CPQ2Y",
+      "name": "ThinkVision T24i-2L 23.8インチ FHD IPS 60Hz"
+    },
+    {
+      "type": "mobile-name-large-screen",
+      "detail": "ThinkVision T24i-20 23.8インチ FHD WLED LCD… vs 23.8 インチ",
+      "file": "monitor-lenovo-search.ts",
+      "id": "mon-lenovo-044",
+      "asin": "B08FBH31TM",
+      "name": "ThinkVision T24i-20 23.8インチ FHD WLED LCD"
+    },
+    {
+      "type": "mobile-name-large-screen",
+      "detail": "ThinkVision P24H-30 23.8インチ IPS 2560×144… vs 23.8 インチ",
+      "file": "monitor-lenovo-search.ts",
+      "id": "mon-lenovo-045",
+      "asin": "B0C7HGFC37",
+      "name": "ThinkVision P24H-30 23.8インチ IPS 2560×1440 HDMI D"
+    },
+    {
+      "type": "mobile-name-large-screen",
+      "detail": "IODATA GigaCrysta ゲーミング 23.8インチ FHD 240H… vs 23.8 インチ",
+      "file": "monitor-new-releases.ts",
+      "id": "mon-nr-003",
+      "asin": "B0H4L58ZFR",
+      "name": "IODATA GigaCrysta ゲーミング 23.8インチ FHD 240Hz リモコン付（"
+    },
+    {
+      "type": "oem-mobile-mix",
+      "detail": "major OEM title with mobile monitor hints",
+      "file": "monitor-new-releases.ts",
+      "id": "mon-nr-004",
+      "asin": "B0GYPVGG2D",
+      "name": "LG モニター27U711B-B 27インチ/4K/IPS/約10.7億色表示(8bit+FRC)/DCI-P3 90%/HDR"
+    },
+    {
+      "type": "mobile-name-large-screen",
+      "detail": "LG モニター27U711B-B 27インチ/4K/IPS/約10.7億色表示(… vs 27 インチ",
+      "file": "monitor-new-releases.ts",
+      "id": "mon-nr-004",
+      "asin": "B0GYPVGG2D",
+      "name": "LG モニター27U711B-B 27インチ/4K/IPS/約10.7億色表示(8bit+FRC)/DCI-P3 90%/HDR"
+    },
+    {
+      "type": "oem-mobile-mix",
+      "detail": "major OEM title with mobile monitor hints",
+      "file": "monitor-new-releases.ts",
+      "id": "mon-nr-005",
+      "asin": "B0GYPH4QDC",
+      "name": "LG ゲーミング 24G414B-B 23.8インチ/フルHD/144Hz/IPS 1ms/HD"
+    },
+    {
+      "type": "mobile-name-large-screen",
+      "detail": "LG ゲーミング 24G414B-B 23.8インチ/フルHD/144Hz/IP… vs 23.8 インチ",
+      "file": "monitor-new-releases.ts",
+      "id": "mon-nr-005",
+      "asin": "B0GYPH4QDC",
+      "name": "LG ゲーミング 24G414B-B 23.8インチ/フルHD/144Hz/IPS 1ms/HD"
+    },
+    {
+      "type": "mobile-name-large-screen",
+      "detail": "27インチ pc 144Hz フルhd 液晶 非光沢 Adaptive Sync… vs 27 インチ",
+      "file": "monitor-new-releases.ts",
+      "id": "mon-nr-013",
+      "asin": "B0DTTNSKYH",
+      "name": "27インチ pc 144Hz フルhd 液晶 非光沢 Adaptive Sync/ブルーライト軽"
+    },
+    {
+      "type": "oem-mobile-mix",
+      "detail": "major OEM title with mobile monitor hints",
+      "file": "monitor-new-releases.ts",
+      "id": "mon-nr-019",
+      "asin": "B0H6WSMXBL",
+      "name": "Acer 14型 モバイルモニター"
+    },
+    {
+      "type": "oem-mobile-mix",
+      "detail": "major OEM title with mobile monitor hints",
+      "file": "monitor-new-releases.ts",
+      "id": "mon-nr-021",
+      "asin": "B0H1PWX6SN",
+      "name": "【Amazon.co.jp限定】Lenovo ゲーミング LOQ 27Q-10 27インチ/QH"
+    },
+    {
+      "type": "mobile-name-large-screen",
+      "detail": "【Amazon.co.jp限定】Lenovo ゲーミング LOQ 27Q-10 … vs 27 インチ",
+      "file": "monitor-new-releases.ts",
+      "id": "mon-nr-021",
+      "asin": "B0H1PWX6SN",
+      "name": "【Amazon.co.jp限定】Lenovo ゲーミング LOQ 27Q-10 27インチ/QH"
+    },
+    {
+      "type": "oem-mobile-mix",
+      "detail": "major OEM title with mobile monitor hints",
+      "file": "monitor-new-releases.ts",
+      "id": "mon-nr-022",
+      "asin": "B0H6WS2CP1",
+      "name": "Acer Nitro 16型 モバイルモニター"
+    },
+    {
+      "type": "mobile-name-large-screen",
+      "detail": "AOC ゲーミング 27インチ, QHD/2560x1440@180Hz, 応答… vs 27 インチ",
+      "file": "monitor-new-releases.ts",
+      "id": "mon-nr-026",
+      "asin": "B0G26VMQB3",
+      "name": "AOC ゲーミング 27インチ, QHD/2560x1440@180Hz, 応答速度0.5ms("
+    },
+    {
+      "type": "mobile-name-large-screen",
+      "detail": "23.8インチ WQHD 240Hz… vs 23.8 インチ",
+      "file": "monitor-refresh144-search-page2.ts",
+      "id": "mon-hfr144-p2-003",
+      "asin": "B0H4LY1F1Q",
+      "name": "23.8インチ WQHD 240Hz"
+    },
+    {
+      "type": "mobile-name-large-screen",
+      "detail": "ゲーミング 24G411B-B 23.8インチ/フルHD/IPS/144Hz/s… vs 23.8 インチ",
+      "file": "monitor-refresh144-search-page2.ts",
+      "id": "mon-hfr144-p2-019",
+      "asin": "B0GYPP63DR",
+      "name": "ゲーミング 24G411B-B 23.8インチ/フルHD/IPS/144Hz/sRGB 99%/"
+    },
+    {
+      "type": "mobile-name-large-screen",
+      "detail": "23.8型 モバイルモニター… vs 23.8 インチ",
+      "file": "monitor-refresh144-search-page2.ts",
+      "id": "mon-hfr144-p2-034",
+      "asin": "B0FL6TCP99",
+      "name": "23.8型 モバイルモニター"
+    },
+    {
+      "type": "mobile-name-large-screen",
+      "detail": "GigaCrysta 23.8インチ… vs 23.8 インチ",
+      "file": "monitor-refresh144-search-page2.ts",
+      "id": "mon-hfr144-p2-037",
+      "asin": "B094VJT99S",
+      "name": "GigaCrysta 23.8インチ"
+    },
+    {
+      "type": "mobile-name-large-screen",
+      "detail": "HKC MG24H39FS ゲーミング 23.8インチ Fast IPS フルH… vs 23.8 インチ",
+      "file": "monitor-refresh144-search.ts",
+      "id": "mon-hfr144-021",
+      "asin": "B0G7JTLDB1",
+      "name": "HKC MG24H39FS ゲーミング 23.8インチ Fast IPS フルHD 1920×1"
+    },
+    {
+      "type": "mobile-name-large-screen",
+      "detail": "IODATA GigaCrysta ゲーミング 23.8インチ FHD 240H… vs 23.8 インチ",
+      "file": "monitor-refresh144-search.ts",
+      "id": "mon-hfr144-027",
+      "asin": "B0H4L58ZFR",
+      "name": "IODATA GigaCrysta ゲーミング 23.8インチ FHD 240Hz リモコン付（"
+    },
+    {
+      "type": "mobile-name-large-screen",
+      "detail": "23.8インチ IPS 144Hz… vs 23.8 インチ",
+      "file": "monitor-refresh144-search.ts",
+      "id": "mon-hfr144-041",
+      "asin": "B0FX4Z1YX1",
+      "name": "23.8インチ IPS 144Hz"
+    },
+    {
+      "type": "mobile-name-large-screen",
+      "detail": "23.8インチ IPS 144Hz… vs 23.8 インチ",
+      "file": "monitor-refresh144-search.ts",
+      "id": "mon-hfr144-044",
+      "asin": "B0GGXHTLCX",
+      "name": "23.8インチ IPS 144Hz"
+    },
+    {
+      "type": "mobile-name-large-screen",
+      "detail": "IODATA GigaCrysta ゲーミング 23.8インチ FHD 240H… vs 23.8 インチ",
+      "file": "monitor-refresh144-search.ts",
+      "id": "mon-hfr144-058",
+      "asin": "B0H4LBRFFB",
+      "name": "IODATA GigaCrysta ゲーミング 23.8インチ FHD 240Hz リモコン付（"
+    },
+    {
+      "type": "mobile-name-large-screen",
+      "detail": "23.8型 モバイルモニター… vs 23.8 インチ",
+      "file": "monitor-refresh144-search.ts",
+      "id": "mon-hfr144-082",
+      "asin": "B0FL6TCP99",
+      "name": "23.8型 モバイルモニター"
+    },
+    {
+      "type": "mobile-name-large-screen",
+      "detail": "【ECサイト限定】JAPANNEXT 23.8インチ IPSパネル搭載 165H… vs 23.8 インチ",
+      "file": "monitor-refresh144-search.ts",
+      "id": "mon-hfr144-093",
+      "asin": "B0H2XKGV8Z",
+      "name": "【ECサイト限定】JAPANNEXT 23.8インチ IPSパネル搭載 165Hz/1ms(MP"
+    },
+    {
+      "type": "mobile-name-large-screen",
+      "detail": "HKC V2718S 27インチ 144Hz PC IPS フルHD 1920×… vs 27 インチ",
+      "file": "monitor-refresh144-search.ts",
+      "id": "mon-hfr144-098",
+      "asin": "B0G26KGR8S",
+      "name": "HKC V2718S 27インチ 144Hz PC IPS フルHD 1920×1080 PS5"
+    },
+    {
+      "type": "mobile-name-large-screen",
+      "detail": "23.8型 モバイルモニター… vs 23.8 インチ",
+      "file": "monitor-search-22-120.ts",
+      "id": "mon-s22120-011",
+      "asin": "B0GXB3SNLH",
+      "name": "23.8型 モバイルモニター"
+    },
+    {
+      "type": "mobile-name-large-screen",
+      "detail": "GW2490P 23.8インチ フルHD IPS 120Hz アイケア | ノン… vs 23.8 インチ",
+      "file": "monitor-search-22-120.ts",
+      "id": "mon-s22120-016",
+      "asin": "B0H8RQ82WJ",
+      "name": "GW2490P 23.8インチ フルHD IPS 120Hz アイケア | ノングレア ブルーラ"
+    },
+    {
+      "type": "mobile-name-large-screen",
+      "detail": "23.8型 モバイルモニター… vs 23.8 インチ",
+      "file": "monitor-search-22-120.ts",
+      "id": "mon-s22120-025",
+      "asin": "B0DNS71Y9Q",
+      "name": "23.8型 モバイルモニター"
+    },
+    {
+      "type": "mobile-name-large-screen",
+      "detail": "23.8型 モバイルモニター… vs 23.8 インチ",
+      "file": "monitor-search-22-120.ts",
+      "id": "mon-s22120-028",
+      "asin": "B0FL6TCP99",
+      "name": "23.8型 モバイルモニター"
+    },
+    {
+      "type": "mobile-name-large-screen",
+      "detail": "23.8型 モバイルモニター… vs 23.8 インチ",
+      "file": "monitor-search-22-120.ts",
+      "id": "mon-s22120-033",
+      "asin": "B0GN2JX6RW",
+      "name": "23.8型 モバイルモニター"
+    },
+    {
+      "type": "mobile-name-large-screen",
+      "detail": "23.8型 モバイルモニター… vs 23.8 インチ",
+      "file": "monitor-search-22-120.ts",
+      "id": "mon-s22120-035",
+      "asin": "B0FW4YVTQP",
+      "name": "23.8型 モバイルモニター"
+    },
+    {
+      "type": "mobile-name-large-screen",
+      "detail": "23.8型 モバイルモニター… vs 23.8 インチ",
+      "file": "monitor-search-22-120.ts",
+      "id": "mon-s22120-050",
+      "asin": "B0F7J54214",
+      "name": "23.8型 モバイルモニター"
+    },
+    {
+      "type": "mobile-name-large-screen",
+      "detail": "23.8インチ FHD 1920x1080 IPS 120Hz オフィス KA2… vs 23.8 インチ",
+      "file": "monitor-search-22-120.ts",
+      "id": "mon-s22120-059",
+      "asin": "B0DYQX28HR",
+      "name": "23.8インチ FHD 1920x1080 IPS 120Hz オフィス KA242Y G0bi"
+    },
+    {
+      "type": "mobile-name-large-screen",
+      "detail": "23.8インチ 1080P IPS 120Hz ビジネス&ゲーム用 - 内蔵調節… vs 23.8 インチ",
+      "file": "monitor-search-22-120.ts",
+      "id": "mon-s22120-077",
+      "asin": "B0H8NQPWD6",
+      "name": "23.8インチ 1080P IPS 120Hz ビジネス&ゲーム用 - 内蔵調節可能な3MPウェ"
+    },
+    {
+      "type": "mobile-name-large-screen",
+      "detail": "23.8型 モバイルモニター… vs 23.8 インチ",
+      "file": "monitor-search-22-120.ts",
+      "id": "mon-s22120-118",
+      "asin": "B0FNQ24T2T",
+      "name": "23.8型 モバイルモニター"
+    }
+  ],
+  "remote": [],
+  "generatedAt": "2026-08-16T05:47:32.521Z"
+}

@@ -1,0 +1,6551 @@
+{
+  "missing": [
+    {
+      "id": "mon-acer-026",
+      "asin": "B0FN2L4XTZ",
+      "file": "monitor-acer-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0FN2L4XTZ",
+        "dimensions": "—",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:16:13.838Z",
+        "vesaStandard": "100×100 mm",
+        "rawDimKey": null,
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-asus-022",
+      "asin": "B0FJ19QDXL",
+      "file": "monitor-asus-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0FJ19QDXL",
+        "dimensions": "—",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:14:57.891Z",
+        "vesaStandard": "—",
+        "rawDimKey": null,
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-bs2-004",
+      "asin": "B0FLC2Y42B",
+      "file": "monitor-bestsellers-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0FLC2Y42B",
+        "dimensions": "55.8 × 41.9 × 21.1 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:15:46.076Z",
+        "source": "playwright",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null
+      }
+    },
+    {
+      "id": "mon-bs2-007",
+      "asin": "B0DZNM8V94",
+      "file": "monitor-bestsellers-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0DZNM8V94",
+        "dimensions": "25 × 6 × 38 cm",
+        "weight": "—",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T13:09:58.309Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-bs2-010",
+      "asin": "B0F32NVN1T",
+      "file": "monitor-bestsellers-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0F32NVN1T",
+        "dimensions": "53.9 × 44.3 × 22.7 cm",
+        "weight": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "fetchedAt": "2026-08-16T13:10:59.561Z",
+        "vesaStandard": "—",
+        "rawVesaKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-bs2-015",
+      "asin": "B0FRS96GV9",
+      "file": "monitor-bestsellers-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0FRS96GV9",
+        "dimensions": "61.4 × 44.7 × 21.1 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:17:26.334Z",
+        "source": "playwright",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null
+      }
+    },
+    {
+      "id": "mon-bs2-018",
+      "asin": "B0FNCVVM8B",
+      "file": "monitor-bestsellers-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0FNCVVM8B",
+        "dimensions": "61.6 × 36.4 × 6 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:16:21.732Z",
+        "source": "playwright",
+        "vesaStandard": "100×100 mm",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null
+      }
+    },
+    {
+      "id": "mon-bs2-022",
+      "asin": "B0B2P49LJX",
+      "file": "monitor-bestsellers-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0B2P49LJX",
+        "dimensions": "62 × 40 × 23 cm",
+        "weight": "—",
+        "vesaStandard": "100×100 mm",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T12:56:37.170Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-bs2-023",
+      "asin": "B08HLL1FN7",
+      "file": "monitor-bestsellers-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B08HLL1FN7",
+        "dimensions": "61.2 × 46.2 × 22.7 cm",
+        "weight": "—",
+        "vesaStandard": "100×100 mm",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T12:53:33.666Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-bs2-024",
+      "asin": "B0BK7Q3J8N",
+      "file": "monitor-bestsellers-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0BK7Q3J8N",
+        "dimensions": "61.6 × 52.5 × 29.6 cm",
+        "weight": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "fetchedAt": "2026-08-16T12:57:43.812Z",
+        "vesaStandard": "100×100 mm",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-bs2-025",
+      "asin": "B0FX42YJQC",
+      "file": "monitor-bestsellers-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0FX42YJQC",
+        "dimensions": "55.7 × 37.6 × 21 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:18:24.897Z",
+        "source": "playwright",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null
+      }
+    },
+    {
+      "id": "mon-bs2-032",
+      "asin": "B0CH7ZWQD5",
+      "file": "monitor-bestsellers-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0CH7ZWQD5",
+        "dimensions": "61.5 × 40.3 × 21 cm",
+        "weight": "—",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T13:01:58.696Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-bs2-036",
+      "asin": "B08WK8Y8L5",
+      "file": "monitor-bestsellers-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B08WK8Y8L5",
+        "dimensions": "—",
+        "weight": "—",
+        "vesaStandard": "100×100 mm",
+        "rawDimKey": null,
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T12:54:15.768Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-bs2-040",
+      "asin": "B0C15K7C5S",
+      "file": "monitor-bestsellers-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0C15K7C5S",
+        "dimensions": "20.3 × 47.2 × 61 cm",
+        "weight": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "fetchedAt": "2026-08-16T12:59:16.291Z",
+        "vesaStandard": "—",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-bs2-041",
+      "asin": "B088BH4X5W",
+      "file": "monitor-bestsellers-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B088BH4X5W",
+        "dimensions": "—",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:31:13.663Z",
+        "source": "playwright",
+        "error": "fetch_failed"
+      }
+    },
+    {
+      "id": "mon-bs2-043",
+      "asin": "B087612T9B",
+      "file": "monitor-bestsellers-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B087612T9B",
+        "dimensions": "—",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:31:11.946Z",
+        "source": "playwright",
+        "error": "fetch_failed"
+      }
+    },
+    {
+      "id": "mon-bs2-044",
+      "asin": "B0CKVJDGSV",
+      "file": "monitor-bestsellers-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0CKVJDGSV",
+        "dimensions": "40 × 18 × 50 cm",
+        "weight": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "fetchedAt": "2026-08-16T13:02:18.079Z",
+        "vesaStandard": "75×75 mm",
+        "rawVesaKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-bs2-046",
+      "asin": "B099545PH8",
+      "file": "monitor-bestsellers-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B099545PH8",
+        "dimensions": "61.4 × 54 × 21.7 cm",
+        "weight": "—",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T12:55:12.135Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-bs-003",
+      "asin": "B0D9K624F9",
+      "file": "monitor-bestsellers.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0D9K624F9",
+        "dimensions": "50 × 40 × 60 cm",
+        "weight": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "fetchedAt": "2026-08-16T13:05:36.484Z",
+        "vesaStandard": "—",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-bs-007",
+      "asin": "B0CPXQQLL2",
+      "file": "monitor-bestsellers.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0CPXQQLL2",
+        "dimensions": "54 × 38.2 × 21.5 cm",
+        "weight": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "fetchedAt": "2026-08-16T13:03:39.926Z",
+        "vesaStandard": "—",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-bs-012",
+      "asin": "B0GNRS88NQ",
+      "file": "monitor-bestsellers.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0GNRS88NQ",
+        "dimensions": "61.4 × 39.8 × 23.9 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:23:01.950Z",
+        "source": "playwright",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null
+      }
+    },
+    {
+      "id": "mon-bs-013",
+      "asin": "B0D9K8WK2Q",
+      "file": "monitor-bestsellers.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0D9K8WK2Q",
+        "dimensions": "55.8 × 32.7 × 4.9 cm",
+        "weight": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "fetchedAt": "2026-08-16T13:05:40.354Z",
+        "vesaStandard": "100×100 mm",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-bs-014",
+      "asin": "B09SV4VKXR",
+      "file": "monitor-bestsellers.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B09SV4VKXR",
+        "dimensions": "54.1 × 39.9 × 14.3 cm",
+        "weight": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "fetchedAt": "2026-08-16T12:56:17.646Z",
+        "vesaStandard": "—",
+        "rawVesaKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-bs-016",
+      "asin": "B0BQF3JKQF",
+      "file": "monitor-bestsellers.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0BQF3JKQF",
+        "dimensions": "40 × 30 × 50 cm",
+        "weight": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "fetchedAt": "2026-08-16T12:58:13.591Z",
+        "vesaStandard": "—",
+        "rawVesaKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-bs-026",
+      "asin": "B0C9PVL4FM",
+      "file": "monitor-bestsellers.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0C9PVL4FM",
+        "dimensions": "61.2 × 52.3 × 20.2 cm",
+        "weight": "—",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T13:00:25.403Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-bs-031",
+      "asin": "B0CZWZLJVQ",
+      "file": "monitor-bestsellers.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0CZWZLJVQ",
+        "dimensions": "61.3 × 40.5 × 23.4 cm",
+        "weight": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "fetchedAt": "2026-08-16T13:04:32.927Z",
+        "vesaStandard": "—",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-bs-032",
+      "asin": "B07Y2Z7CQ2",
+      "file": "monitor-bestsellers.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B07Y2Z7CQ2",
+        "dimensions": "55.3 × 38.8 × 21.5 cm",
+        "weight": "—",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T12:51:38.509Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-bs-033",
+      "asin": "B07Y5VJ8XG",
+      "file": "monitor-bestsellers.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B07Y5VJ8XG",
+        "dimensions": "—",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:31:10.220Z",
+        "source": "playwright",
+        "error": "fetch_failed"
+      }
+    },
+    {
+      "id": "mon-bs-034",
+      "asin": "B0BC28DHZ6",
+      "file": "monitor-bestsellers.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0BC28DHZ6",
+        "dimensions": "—",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T12:57:14.375Z",
+        "source": "playwright",
+        "vesaStandard": "—",
+        "rawDimKey": null,
+        "rawWeightKey": null,
+        "rawVesaKey": null
+      }
+    },
+    {
+      "id": "mon-bs-037",
+      "asin": "B0C7B8YQ8K",
+      "file": "monitor-bestsellers.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0C7B8YQ8K",
+        "dimensions": "—",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:32:10.923Z",
+        "source": "playwright",
+        "error": "fetch_failed"
+      }
+    },
+    {
+      "id": "mon-bs-040",
+      "asin": "B0GVYKG7CW",
+      "file": "monitor-bestsellers.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0GVYKG7CW",
+        "dimensions": "25 × 10 × 20 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:25:12.337Z",
+        "source": "playwright",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null
+      }
+    },
+    {
+      "id": "mon-bs-050",
+      "asin": "B0DZ5BRBZ7",
+      "file": "monitor-bestsellers.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0DZ5BRBZ7",
+        "dimensions": "—",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:09:46.983Z",
+        "source": "playwright",
+        "vesaStandard": "—",
+        "rawDimKey": null,
+        "rawWeightKey": null
+      }
+    },
+    {
+      "id": "mon-dell-010",
+      "asin": "B0F4PDMS9G",
+      "file": "monitor-dell-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0F4PDMS9G",
+        "dimensions": "53.9 × 48.6 × 2.1 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:11:40.182Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-dell-018",
+      "asin": "B0F4PDQYKB",
+      "file": "monitor-dell-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0F4PDQYKB",
+        "dimensions": "49.2 × 46.9 × 2.1 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:11:44.033Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-dell-019",
+      "asin": "B0F4P9D1L1",
+      "file": "monitor-dell-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0F4P9D1L1",
+        "dimensions": "61.2 × 53.4 × 2 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:11:28.782Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-dell-021",
+      "asin": "B0DH4G2TWF",
+      "file": "monitor-dell-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0DH4G2TWF",
+        "dimensions": "53.9 × 32.1 × 2.5 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:06:38.088Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-dell-022",
+      "asin": "B0F4PDLB7J",
+      "file": "monitor-dell-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0F4PDLB7J",
+        "dimensions": "49.2 × 37.7 × 1.7 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:11:36.396Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-lenovo-1822-005",
+      "asin": "B0CGLJGD4V",
+      "file": "monitor-lenovo-search-1822.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0CGLJGD4V",
+        "dimensions": "—",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:01:17.670Z",
+        "vesaStandard": "—",
+        "rawDimKey": null,
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-lenovo-1822-008",
+      "asin": "B08DRRHJVW",
+      "file": "monitor-lenovo-search-1822.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B08DRRHJVW",
+        "dimensions": "—",
+        "weight": "—",
+        "vesaStandard": "—",
+        "rawDimKey": null,
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T12:53:12.247Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-lenovo-1822-014",
+      "asin": "B000A6MYPS",
+      "file": "monitor-lenovo-search-1822.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B000A6MYPS",
+        "dimensions": "—",
+        "weight": "—",
+        "vesaStandard": "—",
+        "rawDimKey": null,
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T12:49:17.159Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-lenovo-1822-015",
+      "asin": "B06XYLDND3",
+      "file": "monitor-lenovo-search-1822.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B06XYLDND3",
+        "dimensions": "—",
+        "weight": "—",
+        "vesaStandard": "—",
+        "rawDimKey": null,
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T12:50:11.472Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-lenovo-1822-016",
+      "asin": "B0CGLJH51T",
+      "file": "monitor-lenovo-search-1822.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0CGLJH51T",
+        "dimensions": "—",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:01:21.251Z",
+        "vesaStandard": "—",
+        "rawDimKey": null,
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-lenovo-1822-023",
+      "asin": "B000XSE4OW",
+      "file": "monitor-lenovo-search-1822.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B000XSE4OW",
+        "dimensions": "—",
+        "weight": "—",
+        "vesaStandard": "—",
+        "rawDimKey": null,
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T12:49:23.971Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-lenovo-26p2-006",
+      "asin": "B0G2BDW1YY",
+      "file": "monitor-lenovo-search-26plus-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0G2BDW1YY",
+        "dimensions": "36.8 × 4.6 × 61.4 cm",
+        "weight": "—",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T13:19:31.391Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-lenovo-26p2-010",
+      "asin": "B0CPTD2XJD",
+      "file": "monitor-lenovo-search-26plus-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0CPTD2XJD",
+        "dimensions": "—",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:03:35.812Z",
+        "vesaStandard": "—",
+        "rawDimKey": null,
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-lenovo-26p2-015",
+      "asin": "B0B8X32QWH",
+      "file": "monitor-lenovo-search-26plus-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0B8X32QWH",
+        "dimensions": "52 × 19 × 69 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T12:57:03.458Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-lenovo-26p2-019",
+      "asin": "B0D6YLLJVH",
+      "file": "monitor-lenovo-search-26plus-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0D6YLLJVH",
+        "dimensions": "—",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:05:25.358Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-lenovo-26p2-026",
+      "asin": "B0FF9P328S",
+      "file": "monitor-lenovo-search-26plus-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0FF9P328S",
+        "dimensions": "—",
+        "weight": "—",
+        "vesaStandard": "—",
+        "rawDimKey": null,
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T13:13:52.689Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-lenovo-26p2-030",
+      "asin": "B0FF9PQGZK",
+      "file": "monitor-lenovo-search-26plus-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0FF9PQGZK",
+        "dimensions": "—",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:13:56.211Z",
+        "vesaStandard": "—",
+        "rawDimKey": null,
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-lenovo-26-003",
+      "asin": "B0G42Z3577",
+      "file": "monitor-lenovo-search-26plus.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0G42Z3577",
+        "dimensions": "61.2 × 44.4 × 21 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:20:04.850Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-lenovo-26-013",
+      "asin": "B0GZ333LB5",
+      "file": "monitor-lenovo-search-26plus.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0GZ333LB5",
+        "dimensions": "61.3 × 53.9 × 22 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:26:49.692Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-lenovo-26-015",
+      "asin": "B00M40R476",
+      "file": "monitor-lenovo-search-26plus.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B00M40R476",
+        "dimensions": "—",
+        "weight": "—",
+        "vesaStandard": "100×100 mm",
+        "rawDimKey": null,
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T12:49:42.243Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-lenovo-26-016",
+      "asin": "B0CGLJB8BG",
+      "file": "monitor-lenovo-search-26plus.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0CGLJB8BG",
+        "dimensions": "—",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:01:14.064Z",
+        "vesaStandard": "—",
+        "rawDimKey": null,
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-lenovo-26-022",
+      "asin": "B0CGLG9CPD",
+      "file": "monitor-lenovo-search-26plus.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0CGLG9CPD",
+        "dimensions": "—",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:01:03.542Z",
+        "vesaStandard": "—",
+        "rawDimKey": null,
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-lenovo-26-035",
+      "asin": "B0GR1RGFFZ",
+      "file": "monitor-lenovo-search-26plus.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0GR1RGFFZ",
+        "dimensions": "61.2 × 53.5 × 20.4 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:23:30.790Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-lenovo-26-037",
+      "asin": "B08Z5JNL1C",
+      "file": "monitor-lenovo-search-26plus.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B08Z5JNL1C",
+        "dimensions": "—",
+        "weight": "—",
+        "vesaStandard": "—",
+        "rawDimKey": null,
+        "rawWeightKey": "商品の重量",
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T12:54:22.926Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-lenovo-p2-014",
+      "asin": "B0BGPW9PQZ",
+      "file": "monitor-lenovo-search-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0BGPW9PQZ",
+        "dimensions": "54.1 × 32.5 × 4.3 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T12:57:32.453Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-lenovo-p2-020",
+      "asin": "B0DQR9V8X2",
+      "file": "monitor-lenovo-search-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0DQR9V8X2",
+        "dimensions": "61 × 25.4 × 35.6 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:08:22.970Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-lenovo-p2-023",
+      "asin": "B0D42VCK5Q",
+      "file": "monitor-lenovo-search-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0D42VCK5Q",
+        "dimensions": "101.6 × 50.8 × 40.6 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:05:10.515Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-lenovo-p2-024",
+      "asin": "B0038I4PTS",
+      "file": "monitor-lenovo-search-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0038I4PTS",
+        "dimensions": "—",
+        "weight": "—",
+        "vesaStandard": "—",
+        "rawDimKey": null,
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T12:49:30.758Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-lenovo-p2-025",
+      "asin": "B001G79UXY",
+      "file": "monitor-lenovo-search-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B001G79UXY",
+        "dimensions": "—",
+        "weight": "—",
+        "vesaStandard": "—",
+        "rawDimKey": null,
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T12:49:27.449Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-lenovo-p2-031",
+      "asin": "B0FMYPP5CS",
+      "file": "monitor-lenovo-search-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0FMYPP5CS",
+        "dimensions": "35 × 25 × 35 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:16:10.284Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-lenovo-001",
+      "asin": "B0G42QB93M",
+      "file": "monitor-lenovo-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0G42QB93M",
+        "dimensions": "54 × 40.3 × 18 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:20:01.088Z",
+        "source": "playwright",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "rawVesaKey": null
+      }
+    },
+    {
+      "id": "mon-lenovo-003",
+      "asin": "B0G42NGPTD",
+      "file": "monitor-lenovo-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0G42NGPTD",
+        "dimensions": "54 × 54.3 × 21.4 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:19:57.398Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-lenovo-004",
+      "asin": "B08QHYD2BP",
+      "file": "monitor-lenovo-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B08QHYD2BP",
+        "dimensions": "—",
+        "weight": "—",
+        "vesaStandard": "—",
+        "rawDimKey": null,
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T12:54:04.183Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-lenovo-005",
+      "asin": "B0GK8H12LS",
+      "file": "monitor-lenovo-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0GK8H12LS",
+        "dimensions": "—",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:22:35.389Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-lenovo-006",
+      "asin": "B0D32DXWWK",
+      "file": "monitor-lenovo-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0D32DXWWK",
+        "dimensions": "—",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:04:55.975Z",
+        "vesaStandard": "—",
+        "rawDimKey": null,
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-lenovo-014",
+      "asin": "B07PS5YJ2H",
+      "file": "monitor-lenovo-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B07PS5YJ2H",
+        "dimensions": "—",
+        "weight": "—",
+        "vesaStandard": "—",
+        "rawDimKey": null,
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T12:51:27.105Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-lenovo-016",
+      "asin": "B0CGLH1MD2",
+      "file": "monitor-lenovo-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0CGLH1MD2",
+        "dimensions": "—",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:01:10.627Z",
+        "vesaStandard": "—",
+        "rawDimKey": null,
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-lenovo-017",
+      "asin": "B0GK87J5L7",
+      "file": "monitor-lenovo-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0GK87J5L7",
+        "dimensions": "54 × 50.6 × 19 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:22:31.869Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-lenovo-032",
+      "asin": "B0CGLGPLPL",
+      "file": "monitor-lenovo-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0CGLGPLPL",
+        "dimensions": "—",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:01:07.084Z",
+        "vesaStandard": "—",
+        "rawDimKey": null,
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-lenovo-039",
+      "asin": "B0BDT5RKZD",
+      "file": "monitor-lenovo-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0BDT5RKZD",
+        "dimensions": "—",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T12:57:21.628Z",
+        "vesaStandard": "—",
+        "rawDimKey": null,
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-lg-011",
+      "asin": "B078YHRHQ7",
+      "file": "monitor-lg-display-bestsellers.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B078YHRHQ7",
+        "dimensions": "—",
+        "weight": "—",
+        "vesaStandard": "100×100 mm",
+        "rawDimKey": "外形寸法(WxHxD) / 重量",
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T12:51:00.361Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-gift-002",
+      "asin": "B0DRC23SSG",
+      "file": "monitor-most-gifted.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0DRC23SSG",
+        "dimensions": "42.3 × 17.4 × 54.2 cm",
+        "weight": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "fetchedAt": "2026-08-16T13:08:33.931Z",
+        "vesaStandard": "—",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-gift-003",
+      "asin": "B00CWXR15K",
+      "file": "monitor-most-gifted.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B00CWXR15K",
+        "dimensions": "54.2 × 42.5 × 18 cm",
+        "weight": "—",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T12:49:38.597Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-gift-006",
+      "asin": "B0D9K624F9",
+      "file": "monitor-most-gifted.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0D9K624F9",
+        "dimensions": "50 × 40 × 60 cm",
+        "weight": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "fetchedAt": "2026-08-16T13:05:36.484Z",
+        "vesaStandard": "—",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-gift-009",
+      "asin": "B0F32NVN1T",
+      "file": "monitor-most-gifted.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0F32NVN1T",
+        "dimensions": "53.9 × 44.3 × 22.7 cm",
+        "weight": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "fetchedAt": "2026-08-16T13:10:59.561Z",
+        "vesaStandard": "—",
+        "rawVesaKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-gift-011",
+      "asin": "B0DGXLLLQJ",
+      "file": "monitor-most-gifted.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0DGXLLLQJ",
+        "dimensions": "96 × 59 × 26 cm",
+        "weight": "—",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T13:06:34.159Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-gift-014",
+      "asin": "B0DSZKVLQT",
+      "file": "monitor-most-gifted.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0DSZKVLQT",
+        "dimensions": "61.7 × 54.8 × 21.1 cm",
+        "weight": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "fetchedAt": "2026-08-16T13:08:45.860Z",
+        "vesaStandard": "100×100 mm",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-gift-015",
+      "asin": "B00CWXR15K",
+      "file": "monitor-most-gifted.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B00CWXR15K",
+        "dimensions": "54.2 × 42.5 × 18 cm",
+        "weight": "—",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T12:49:38.597Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-gift-016",
+      "asin": "B0GC67N6Z5",
+      "file": "monitor-most-gifted.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0GC67N6Z5",
+        "dimensions": "40 × 30 × 5 cm",
+        "weight": "—",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T13:21:27.835Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-gift-018",
+      "asin": "B0CPXQQLL2",
+      "file": "monitor-most-gifted.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0CPXQQLL2",
+        "dimensions": "54 × 38.2 × 21.5 cm",
+        "weight": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "fetchedAt": "2026-08-16T13:03:39.926Z",
+        "vesaStandard": "—",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-gift-019",
+      "asin": "B0CPXQQLL2",
+      "file": "monitor-most-gifted.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0CPXQQLL2",
+        "dimensions": "54 × 38.2 × 21.5 cm",
+        "weight": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "fetchedAt": "2026-08-16T13:03:39.926Z",
+        "vesaStandard": "—",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-gift-020",
+      "asin": "B0D5Y19RLY",
+      "file": "monitor-most-gifted.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0D5Y19RLY",
+        "dimensions": "35.9 × 22.6 × 1.6 cm",
+        "weight": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "fetchedAt": "2026-08-16T13:05:18.071Z",
+        "vesaStandard": "—",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-nr2-013",
+      "asin": "B0H3NNB52H",
+      "file": "monitor-new-releases-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0H3NNB52H",
+        "dimensions": "49.3 × 38 × 16 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:27:53.558Z",
+        "source": "playwright",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null
+      }
+    },
+    {
+      "id": "mon-nr2-024",
+      "asin": "B0H3FD8HV8",
+      "file": "monitor-new-releases-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0H3FD8HV8",
+        "dimensions": "28 × 10 × 40 cm",
+        "weight": "—",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T13:27:49.697Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-nr2-030",
+      "asin": "B0GZZR8XQC",
+      "file": "monitor-new-releases-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0GZZR8XQC",
+        "dimensions": "44.5 × 35 × 18 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:27:11.905Z",
+        "source": "playwright",
+        "vesaStandard": "75×75 mm",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null
+      }
+    },
+    {
+      "id": "mon-nr-003",
+      "asin": "B0H4L58ZFR",
+      "file": "monitor-new-releases.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0H4L58ZFR",
+        "dimensions": "53.9 × 40.9 × 18 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:28:11.962Z",
+        "source": "playwright",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null
+      }
+    },
+    {
+      "id": "mon-nr-015",
+      "asin": "B0GYMYCTXL",
+      "file": "monitor-new-releases.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0GYMYCTXL",
+        "dimensions": "—",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:26:19.754Z",
+        "source": "playwright",
+        "vesaStandard": "75×75 mm",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null
+      }
+    },
+    {
+      "id": "mon-philips-008",
+      "asin": "B0BTT3M22X",
+      "file": "monitor-philips-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0BTT3M22X",
+        "dimensions": "61.3 × 45.6 × 23.1 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T12:58:35.533Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-philips-009",
+      "asin": "B0CPC17DZ9",
+      "file": "monitor-philips-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0CPC17DZ9",
+        "dimensions": "—",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:03:28.317Z",
+        "vesaStandard": "—",
+        "rawDimKey": null,
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-philips-010",
+      "asin": "B094FMX5YB",
+      "file": "monitor-philips-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B094FMX5YB",
+        "dimensions": "54.1 × 52.2 × 21.6 cm",
+        "weight": "—",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T12:54:45.707Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-philips-012",
+      "asin": "B0GVY6JKYJ",
+      "file": "monitor-philips-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0GVY6JKYJ",
+        "dimensions": "—",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:25:08.392Z",
+        "source": "playwright",
+        "vesaStandard": "—",
+        "rawDimKey": null,
+        "rawWeightKey": null
+      }
+    },
+    {
+      "id": "mon-philips-013",
+      "asin": "B0CPBZMBKT",
+      "file": "monitor-philips-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0CPBZMBKT",
+        "dimensions": "—",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:03:24.459Z",
+        "vesaStandard": "—",
+        "rawDimKey": null,
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-philips-015",
+      "asin": "B0GZSG3ZB8",
+      "file": "monitor-philips-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0GZSG3ZB8",
+        "dimensions": "54 × 41.5 × 20.9 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:27:00.372Z",
+        "vesaStandard": "100×100 mm",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-philips-016",
+      "asin": "B0GZSQ3NC8",
+      "file": "monitor-philips-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0GZSQ3NC8",
+        "dimensions": "61.2 × 45.3 × 22.7 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:27:04.304Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-philips-017",
+      "asin": "B0BTT3D43V",
+      "file": "monitor-philips-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0BTT3D43V",
+        "dimensions": "—",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T12:58:31.691Z",
+        "vesaStandard": "—",
+        "rawDimKey": null,
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-philips-018",
+      "asin": "B0B7N2ML9L",
+      "file": "monitor-philips-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0B7N2ML9L",
+        "dimensions": "—",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T12:56:56.364Z",
+        "vesaStandard": "—",
+        "rawDimKey": null,
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-pg-004",
+      "asin": "B0F7PRGR2H",
+      "file": "monitor-premium-gaming.ts",
+      "weights": [
+        "—",
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0F7PRGR2H",
+        "dimensions": "61.6 × 45.7 × 17.8 cm",
+        "weight": "—",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T13:12:41.862Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-pg-011",
+      "asin": "B0DSZKVLQT",
+      "file": "monitor-premium-gaming.ts",
+      "weights": [
+        "—",
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0DSZKVLQT",
+        "dimensions": "61.7 × 54.8 × 21.1 cm",
+        "weight": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "fetchedAt": "2026-08-16T13:08:45.860Z",
+        "vesaStandard": "100×100 mm",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-pg-016",
+      "asin": "B0CM5P2Y9J",
+      "file": "monitor-premium-gaming.ts",
+      "weights": [
+        "—",
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0CM5P2Y9J",
+        "dimensions": "73 × 56 × 28 cm",
+        "weight": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "fetchedAt": "2026-08-16T13:02:46.941Z",
+        "vesaStandard": "100×100 mm",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-pg-019",
+      "asin": "B0FNCVVM8B",
+      "file": "monitor-premium-gaming.ts",
+      "weights": [
+        "—",
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0FNCVVM8B",
+        "dimensions": "61.6 × 36.4 × 6 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:16:21.732Z",
+        "source": "playwright",
+        "vesaStandard": "100×100 mm",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null
+      }
+    },
+    {
+      "id": "mon-pg-021",
+      "asin": "B0FKH313JR",
+      "file": "monitor-premium-gaming.ts",
+      "weights": [
+        "—",
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0FKH313JR",
+        "dimensions": "53.9 × 32.1 × 4.8 cm",
+        "weight": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "fetchedAt": "2026-08-16T13:15:30.582Z",
+        "vesaStandard": "—",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-pg-023",
+      "asin": "B0FLC2Y42B",
+      "file": "monitor-premium-gaming.ts",
+      "weights": [
+        "—",
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0FLC2Y42B",
+        "dimensions": "55.8 × 41.9 × 21.1 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:15:46.076Z",
+        "source": "playwright",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null
+      }
+    },
+    {
+      "id": "mon-hfr144-p2-003",
+      "asin": "B0H4LY1F1Q",
+      "file": "monitor-refresh144-search-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0H4LY1F1Q",
+        "dimensions": "56.4 × 36.7 × 24.3 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:28:19.610Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-hfr144-p2-005",
+      "asin": "B0FHB76PQW",
+      "file": "monitor-refresh144-search-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0FHB76PQW",
+        "dimensions": "45 × 30 × 78 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:14:46.913Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-hfr144-p2-007",
+      "asin": "B0GC67N6Z5",
+      "file": "monitor-refresh144-search-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0GC67N6Z5",
+        "dimensions": "40 × 30 × 5 cm",
+        "weight": "—",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T13:21:27.835Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-hfr144-p2-008",
+      "asin": "B0H3NNB52H",
+      "file": "monitor-refresh144-search-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0H3NNB52H",
+        "dimensions": "49.3 × 38 × 16 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:27:53.558Z",
+        "source": "playwright",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null
+      }
+    },
+    {
+      "id": "mon-hfr144-p2-009",
+      "asin": "B0DRC23SSG",
+      "file": "monitor-refresh144-search-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0DRC23SSG",
+        "dimensions": "42.3 × 17.4 × 54.2 cm",
+        "weight": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "fetchedAt": "2026-08-16T13:08:33.931Z",
+        "vesaStandard": "—",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-hfr144-p2-011",
+      "asin": "B0GGXHTLCX",
+      "file": "monitor-refresh144-search-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0GGXHTLCX",
+        "dimensions": "54.1 × 40.7 × 19.1 cm",
+        "weight": "—",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T13:22:07.007Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-hfr144-p2-024",
+      "asin": "B0FZR7BRBY",
+      "file": "monitor-refresh144-search-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0FZR7BRBY",
+        "dimensions": "—",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:19:09.788Z",
+        "vesaStandard": "75×75 mm",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-hfr144-p2-030",
+      "asin": "B0GFD2GCFH",
+      "file": "monitor-refresh144-search-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0GFD2GCFH",
+        "dimensions": "42.5 × 25.5 × 1.4 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:21:54.964Z",
+        "vesaStandard": "75×75 mm",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-hfr144-p2-032",
+      "asin": "B0GY869ZYW",
+      "file": "monitor-refresh144-search-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0GY869ZYW",
+        "dimensions": "55.8 × 42.6 × 18.1 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:26:07.644Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-hfr144-p2-037",
+      "asin": "B094VJT99S",
+      "file": "monitor-refresh144-search-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B094VJT99S",
+        "dimensions": "54 × 49.2 × 23.1 cm",
+        "weight": "—",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T12:54:49.987Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-hfr144-p2-043",
+      "asin": "B0DP46W461",
+      "file": "monitor-refresh144-search-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0DP46W461",
+        "dimensions": "—",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:08:03.652Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-hfr144-p2-044",
+      "asin": "B0F2HRQT3X",
+      "file": "monitor-refresh144-search-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0F2HRQT3X",
+        "dimensions": "—",
+        "weight": "—",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T13:10:55.679Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-hfr144-p2-047",
+      "asin": "B0FJ1D6PVJ",
+      "file": "monitor-refresh144-search-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0FJ1D6PVJ",
+        "dimensions": "—",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:15:01.671Z",
+        "vesaStandard": "—",
+        "rawDimKey": null,
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-hfr144-p2-048",
+      "asin": "B0GT95VY87",
+      "file": "monitor-refresh144-search-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0GT95VY87",
+        "dimensions": "—",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:24:34.803Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-hfr144-008",
+      "asin": "B0GCC92XD8",
+      "file": "monitor-refresh144-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0GCC92XD8",
+        "dimensions": "53.9 × 43.4 × 17 cm",
+        "weight": "—",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T13:21:31.751Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-hfr144-026",
+      "asin": "B0FLC2Y42B",
+      "file": "monitor-refresh144-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0FLC2Y42B",
+        "dimensions": "55.8 × 41.9 × 21.1 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:15:46.076Z",
+        "source": "playwright",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null
+      }
+    },
+    {
+      "id": "mon-hfr144-027",
+      "asin": "B0H4L58ZFR",
+      "file": "monitor-refresh144-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0H4L58ZFR",
+        "dimensions": "53.9 × 40.9 × 18 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:28:11.962Z",
+        "source": "playwright",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null
+      }
+    },
+    {
+      "id": "mon-hfr144-036",
+      "asin": "B0F53K3Z9H",
+      "file": "monitor-refresh144-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0F53K3Z9H",
+        "dimensions": "52.4 × 41.5 × 21.9 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:11:55.374Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-hfr144-037",
+      "asin": "B0G42NGPTD",
+      "file": "monitor-refresh144-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0G42NGPTD",
+        "dimensions": "54 × 54.3 × 21.4 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:19:57.398Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-hfr144-044",
+      "asin": "B0GGXHTLCX",
+      "file": "monitor-refresh144-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0GGXHTLCX",
+        "dimensions": "54.1 × 40.7 × 19.1 cm",
+        "weight": "—",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T13:22:07.007Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-hfr144-049",
+      "asin": "B0H2FJVZLP",
+      "file": "monitor-refresh144-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0H2FJVZLP",
+        "dimensions": "54 × 40.5 × 18.3 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:27:38.348Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-hfr144-058",
+      "asin": "B0H4LBRFFB",
+      "file": "monitor-refresh144-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0H4LBRFFB",
+        "dimensions": "53.9 × 40.9 × 18 cm",
+        "weight": "—",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T13:28:15.823Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-hfr144-059",
+      "asin": "B0FHB76PQW",
+      "file": "monitor-refresh144-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0FHB76PQW",
+        "dimensions": "45 × 30 × 78 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:14:46.913Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-hfr144-062",
+      "asin": "B0GC67N6Z5",
+      "file": "monitor-refresh144-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0GC67N6Z5",
+        "dimensions": "40 × 30 × 5 cm",
+        "weight": "—",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T13:21:27.835Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-hfr144-063",
+      "asin": "B0H3NNB52H",
+      "file": "monitor-refresh144-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0H3NNB52H",
+        "dimensions": "49.3 × 38 × 16 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:27:53.558Z",
+        "source": "playwright",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null
+      }
+    },
+    {
+      "id": "mon-hfr144-064",
+      "asin": "B0DRC23SSG",
+      "file": "monitor-refresh144-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0DRC23SSG",
+        "dimensions": "42.3 × 17.4 × 54.2 cm",
+        "weight": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "fetchedAt": "2026-08-16T13:08:33.931Z",
+        "vesaStandard": "—",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-hfr144-071",
+      "asin": "B0FZR7BRBY",
+      "file": "monitor-refresh144-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0FZR7BRBY",
+        "dimensions": "—",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:19:09.788Z",
+        "vesaStandard": "75×75 mm",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-hfr144-077",
+      "asin": "B0GFD2GCFH",
+      "file": "monitor-refresh144-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0GFD2GCFH",
+        "dimensions": "42.5 × 25.5 × 1.4 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:21:54.964Z",
+        "vesaStandard": "75×75 mm",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-hfr144-078",
+      "asin": "B0H4LY1F1Q",
+      "file": "monitor-refresh144-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0H4LY1F1Q",
+        "dimensions": "56.4 × 36.7 × 24.3 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:28:19.610Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-hfr144-080",
+      "asin": "B0GY869ZYW",
+      "file": "monitor-refresh144-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0GY869ZYW",
+        "dimensions": "55.8 × 42.6 × 18.1 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:26:07.644Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-hfr144-084",
+      "asin": "B094VJT99S",
+      "file": "monitor-refresh144-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B094VJT99S",
+        "dimensions": "54 × 49.2 × 23.1 cm",
+        "weight": "—",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T12:54:49.987Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-hfr144-090",
+      "asin": "B0DP46W461",
+      "file": "monitor-refresh144-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0DP46W461",
+        "dimensions": "—",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:08:03.652Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-hfr144-091",
+      "asin": "B0F2HRQT3X",
+      "file": "monitor-refresh144-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0F2HRQT3X",
+        "dimensions": "—",
+        "weight": "—",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T13:10:55.679Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-hfr144-094",
+      "asin": "B0FJ1D6PVJ",
+      "file": "monitor-refresh144-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0FJ1D6PVJ",
+        "dimensions": "—",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:15:01.671Z",
+        "vesaStandard": "—",
+        "rawDimKey": null,
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-hfr144-095",
+      "asin": "B0GT95VY87",
+      "file": "monitor-refresh144-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0GT95VY87",
+        "dimensions": "—",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:24:34.803Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-s22120-003",
+      "asin": "B0GR8NLC94",
+      "file": "monitor-search-22-120.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0GR8NLC94",
+        "dimensions": "60.8 × 53.7 × 19.8 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:23:49.947Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-s22120-011",
+      "asin": "B0GXB3SNLH",
+      "file": "monitor-search-22-120.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0GXB3SNLH",
+        "dimensions": "55.5 × 38.5 × 0.8 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:25:48.536Z",
+        "vesaStandard": "100×100 mm",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-s22120-016",
+      "asin": "B0H8RQ82WJ",
+      "file": "monitor-search-22-120.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0H8RQ82WJ",
+        "dimensions": "54.3 × 41.4 × 18.1 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:29:14.362Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-s22120-022",
+      "asin": "B0H3NNB52H",
+      "file": "monitor-search-22-120.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0H3NNB52H",
+        "dimensions": "49.3 × 38 × 16 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:27:53.558Z",
+        "source": "playwright",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null
+      }
+    },
+    {
+      "id": "mon-s22120-024",
+      "asin": "B0DRC23SSG",
+      "file": "monitor-search-22-120.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0DRC23SSG",
+        "dimensions": "42.3 × 17.4 × 54.2 cm",
+        "weight": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "fetchedAt": "2026-08-16T13:08:33.931Z",
+        "vesaStandard": "—",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-s22120-030",
+      "asin": "B0FJ1D6PVJ",
+      "file": "monitor-search-22-120.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0FJ1D6PVJ",
+        "dimensions": "—",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:15:01.671Z",
+        "vesaStandard": "—",
+        "rawDimKey": null,
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-s22120-034",
+      "asin": "B0GTL4L4KV",
+      "file": "monitor-search-22-120.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0GTL4L4KV",
+        "dimensions": "55.7 × 41.5 × 19.1 cm",
+        "weight": "—",
+        "vesaStandard": "100×100 mm",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T13:24:42.199Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-s22120-035",
+      "asin": "B0FW4YVTQP",
+      "file": "monitor-search-22-120.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0FW4YVTQP",
+        "dimensions": "32.3 × 54.6 × 0.9 cm",
+        "weight": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "fetchedAt": "2026-08-16T13:18:13.241Z",
+        "vesaStandard": "—",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-s22120-037",
+      "asin": "B0D6QB71XD",
+      "file": "monitor-search-22-120.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0D6QB71XD",
+        "dimensions": "55.6 × 41.9 × 21.9 cm",
+        "weight": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "fetchedAt": "2026-08-16T13:05:21.998Z",
+        "vesaStandard": "—",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-s22120-044",
+      "asin": "B0FGWVW6Z4",
+      "file": "monitor-search-22-120.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0FGWVW6Z4",
+        "dimensions": "53.8 × 48.5 × 1.9 cm",
+        "weight": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "fetchedAt": "2026-08-16T13:14:10.705Z",
+        "vesaStandard": "—",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-s22120-046",
+      "asin": "B0FGWV9SC3",
+      "file": "monitor-search-22-120.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0FGWV9SC3",
+        "dimensions": "49.2 × 37.7 × 1.7 cm",
+        "weight": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "fetchedAt": "2026-08-16T13:14:07.065Z",
+        "vesaStandard": "—",
+        "rawVesaKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-s22120-047",
+      "asin": "B084B948TK",
+      "file": "monitor-search-22-120.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B084B948TK",
+        "dimensions": "54 × 49.9 × 19.3 cm",
+        "weight": "—",
+        "vesaStandard": "100×100 mm",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T12:51:59.230Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-s22120-050",
+      "asin": "B0F7J54214",
+      "file": "monitor-search-22-120.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0F7J54214",
+        "dimensions": "—",
+        "weight": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "fetchedAt": "2026-08-16T13:12:38.233Z",
+        "vesaStandard": "—",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-s22120-052",
+      "asin": "B0GGV98K1W",
+      "file": "monitor-search-22-120.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0GGV98K1W",
+        "dimensions": "48 × 18.8 × 73 cm",
+        "weight": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "fetchedAt": "2026-08-16T13:22:02.589Z",
+        "vesaStandard": "100×100 mm",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-s22120-059",
+      "asin": "B0DYQX28HR",
+      "file": "monitor-search-22-120.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0DYQX28HR",
+        "dimensions": "53.9 × 42.4 × 18.5 cm",
+        "weight": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "fetchedAt": "2026-08-16T13:09:43.154Z",
+        "vesaStandard": "100×100 mm",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-s22120-061",
+      "asin": "B0G5ZC3NDH",
+      "file": "monitor-search-22-120.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0G5ZC3NDH",
+        "dimensions": "49.1 × 39 × 20.4 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:20:38.830Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-s22120-062",
+      "asin": "B0GWNFCPQZ",
+      "file": "monitor-search-22-120.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0GWNFCPQZ",
+        "dimensions": "53.2 × 51.1 × 18.2 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:25:29.994Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-s22120-074",
+      "asin": "B0H7BVJGNX",
+      "file": "monitor-search-22-120.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0H7BVJGNX",
+        "dimensions": "54 × 39 × 19 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:29:06.835Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-s22120-076",
+      "asin": "B0GK87J5L7",
+      "file": "monitor-search-22-120.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0GK87J5L7",
+        "dimensions": "54 × 50.6 × 19 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:22:31.869Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-s22120-078",
+      "asin": "B0FVD2FJP3",
+      "file": "monitor-search-22-120.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0FVD2FJP3",
+        "dimensions": "41.8 × 63.2 × 12.8 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:18:06.042Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-s22120-081",
+      "asin": "B0FHDVMW2P",
+      "file": "monitor-search-22-120.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0FHDVMW2P",
+        "dimensions": "—",
+        "weight": "—",
+        "rawDimKey": null,
+        "rawWeightKey": null,
+        "fetchedAt": "2026-08-16T13:14:50.676Z",
+        "vesaStandard": "75×75 mm",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-s22120-082",
+      "asin": "B0GVQ3B8MH",
+      "file": "monitor-search-22-120.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0GVQ3B8MH",
+        "dimensions": "50.8 × 35.6 × 33 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:25:01.133Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-s22120-084",
+      "asin": "B0FM76LQLM",
+      "file": "monitor-search-22-120.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0FM76LQLM",
+        "dimensions": "54.2 × 32 × 4.4 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:16:07.027Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-s22120-085",
+      "asin": "B0DRBVHTTK",
+      "file": "monitor-search-22-120.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0DRBVHTTK",
+        "dimensions": "54.2 × 32 × 4.4 cm",
+        "weight": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "fetchedAt": "2026-08-16T13:08:30.122Z",
+        "vesaStandard": "—",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-s22120-090",
+      "asin": "B0FQJ8CK6D",
+      "file": "monitor-search-22-120.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0FQJ8CK6D",
+        "dimensions": "11.8 × 39.1 × 59.4 cm",
+        "weight": "—",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T13:17:06.718Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-s22120-093",
+      "asin": "B0H296K3RT",
+      "file": "monitor-search-22-120.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0H296K3RT",
+        "dimensions": "53.3 × 48.3 × 20.3 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:27:30.436Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-s22120-100",
+      "asin": "B0DWTT8NQL",
+      "file": "monitor-search-22-120.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0DWTT8NQL",
+        "dimensions": "43.2 × 54.6 × 19.1 cm",
+        "weight": "—",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T13:09:20.176Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-s22120-108",
+      "asin": "B0FM699T5T",
+      "file": "monitor-search-22-120.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0FM699T5T",
+        "dimensions": "54.2 × 42.5 × 18 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:16:03.532Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-s22120-109",
+      "asin": "B0FV156B1P",
+      "file": "monitor-search-22-120.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0FV156B1P",
+        "dimensions": "54.2 × 42.8 × 18.3 cm",
+        "weight": "—",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T13:17:51.374Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-s22120-112",
+      "asin": "B0FMYPP5CS",
+      "file": "monitor-search-22-120.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0FMYPP5CS",
+        "dimensions": "35 × 25 × 35 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:16:10.284Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    }
+  ],
+  "cacheHasWeight": [],
+  "cacheMissing": [
+    {
+      "id": "mon-acer-026",
+      "asin": "B0FN2L4XTZ",
+      "file": "monitor-acer-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0FN2L4XTZ",
+        "dimensions": "—",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:16:13.838Z",
+        "vesaStandard": "100×100 mm",
+        "rawDimKey": null,
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-asus-022",
+      "asin": "B0FJ19QDXL",
+      "file": "monitor-asus-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0FJ19QDXL",
+        "dimensions": "—",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:14:57.891Z",
+        "vesaStandard": "—",
+        "rawDimKey": null,
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-bs2-004",
+      "asin": "B0FLC2Y42B",
+      "file": "monitor-bestsellers-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0FLC2Y42B",
+        "dimensions": "55.8 × 41.9 × 21.1 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:15:46.076Z",
+        "source": "playwright",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null
+      }
+    },
+    {
+      "id": "mon-bs2-007",
+      "asin": "B0DZNM8V94",
+      "file": "monitor-bestsellers-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0DZNM8V94",
+        "dimensions": "25 × 6 × 38 cm",
+        "weight": "—",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T13:09:58.309Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-bs2-010",
+      "asin": "B0F32NVN1T",
+      "file": "monitor-bestsellers-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0F32NVN1T",
+        "dimensions": "53.9 × 44.3 × 22.7 cm",
+        "weight": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "fetchedAt": "2026-08-16T13:10:59.561Z",
+        "vesaStandard": "—",
+        "rawVesaKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-bs2-015",
+      "asin": "B0FRS96GV9",
+      "file": "monitor-bestsellers-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0FRS96GV9",
+        "dimensions": "61.4 × 44.7 × 21.1 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:17:26.334Z",
+        "source": "playwright",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null
+      }
+    },
+    {
+      "id": "mon-bs2-018",
+      "asin": "B0FNCVVM8B",
+      "file": "monitor-bestsellers-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0FNCVVM8B",
+        "dimensions": "61.6 × 36.4 × 6 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:16:21.732Z",
+        "source": "playwright",
+        "vesaStandard": "100×100 mm",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null
+      }
+    },
+    {
+      "id": "mon-bs2-022",
+      "asin": "B0B2P49LJX",
+      "file": "monitor-bestsellers-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0B2P49LJX",
+        "dimensions": "62 × 40 × 23 cm",
+        "weight": "—",
+        "vesaStandard": "100×100 mm",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T12:56:37.170Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-bs2-023",
+      "asin": "B08HLL1FN7",
+      "file": "monitor-bestsellers-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B08HLL1FN7",
+        "dimensions": "61.2 × 46.2 × 22.7 cm",
+        "weight": "—",
+        "vesaStandard": "100×100 mm",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T12:53:33.666Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-bs2-024",
+      "asin": "B0BK7Q3J8N",
+      "file": "monitor-bestsellers-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0BK7Q3J8N",
+        "dimensions": "61.6 × 52.5 × 29.6 cm",
+        "weight": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "fetchedAt": "2026-08-16T12:57:43.812Z",
+        "vesaStandard": "100×100 mm",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-bs2-025",
+      "asin": "B0FX42YJQC",
+      "file": "monitor-bestsellers-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0FX42YJQC",
+        "dimensions": "55.7 × 37.6 × 21 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:18:24.897Z",
+        "source": "playwright",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null
+      }
+    },
+    {
+      "id": "mon-bs2-032",
+      "asin": "B0CH7ZWQD5",
+      "file": "monitor-bestsellers-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0CH7ZWQD5",
+        "dimensions": "61.5 × 40.3 × 21 cm",
+        "weight": "—",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T13:01:58.696Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-bs2-036",
+      "asin": "B08WK8Y8L5",
+      "file": "monitor-bestsellers-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B08WK8Y8L5",
+        "dimensions": "—",
+        "weight": "—",
+        "vesaStandard": "100×100 mm",
+        "rawDimKey": null,
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T12:54:15.768Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-bs2-040",
+      "asin": "B0C15K7C5S",
+      "file": "monitor-bestsellers-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0C15K7C5S",
+        "dimensions": "20.3 × 47.2 × 61 cm",
+        "weight": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "fetchedAt": "2026-08-16T12:59:16.291Z",
+        "vesaStandard": "—",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-bs2-041",
+      "asin": "B088BH4X5W",
+      "file": "monitor-bestsellers-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B088BH4X5W",
+        "dimensions": "—",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:31:13.663Z",
+        "source": "playwright",
+        "error": "fetch_failed"
+      }
+    },
+    {
+      "id": "mon-bs2-043",
+      "asin": "B087612T9B",
+      "file": "monitor-bestsellers-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B087612T9B",
+        "dimensions": "—",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:31:11.946Z",
+        "source": "playwright",
+        "error": "fetch_failed"
+      }
+    },
+    {
+      "id": "mon-bs2-044",
+      "asin": "B0CKVJDGSV",
+      "file": "monitor-bestsellers-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0CKVJDGSV",
+        "dimensions": "40 × 18 × 50 cm",
+        "weight": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "fetchedAt": "2026-08-16T13:02:18.079Z",
+        "vesaStandard": "75×75 mm",
+        "rawVesaKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-bs2-046",
+      "asin": "B099545PH8",
+      "file": "monitor-bestsellers-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B099545PH8",
+        "dimensions": "61.4 × 54 × 21.7 cm",
+        "weight": "—",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T12:55:12.135Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-bs-003",
+      "asin": "B0D9K624F9",
+      "file": "monitor-bestsellers.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0D9K624F9",
+        "dimensions": "50 × 40 × 60 cm",
+        "weight": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "fetchedAt": "2026-08-16T13:05:36.484Z",
+        "vesaStandard": "—",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-bs-007",
+      "asin": "B0CPXQQLL2",
+      "file": "monitor-bestsellers.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0CPXQQLL2",
+        "dimensions": "54 × 38.2 × 21.5 cm",
+        "weight": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "fetchedAt": "2026-08-16T13:03:39.926Z",
+        "vesaStandard": "—",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-bs-012",
+      "asin": "B0GNRS88NQ",
+      "file": "monitor-bestsellers.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0GNRS88NQ",
+        "dimensions": "61.4 × 39.8 × 23.9 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:23:01.950Z",
+        "source": "playwright",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null
+      }
+    },
+    {
+      "id": "mon-bs-013",
+      "asin": "B0D9K8WK2Q",
+      "file": "monitor-bestsellers.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0D9K8WK2Q",
+        "dimensions": "55.8 × 32.7 × 4.9 cm",
+        "weight": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "fetchedAt": "2026-08-16T13:05:40.354Z",
+        "vesaStandard": "100×100 mm",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-bs-014",
+      "asin": "B09SV4VKXR",
+      "file": "monitor-bestsellers.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B09SV4VKXR",
+        "dimensions": "54.1 × 39.9 × 14.3 cm",
+        "weight": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "fetchedAt": "2026-08-16T12:56:17.646Z",
+        "vesaStandard": "—",
+        "rawVesaKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-bs-016",
+      "asin": "B0BQF3JKQF",
+      "file": "monitor-bestsellers.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0BQF3JKQF",
+        "dimensions": "40 × 30 × 50 cm",
+        "weight": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "fetchedAt": "2026-08-16T12:58:13.591Z",
+        "vesaStandard": "—",
+        "rawVesaKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-bs-026",
+      "asin": "B0C9PVL4FM",
+      "file": "monitor-bestsellers.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0C9PVL4FM",
+        "dimensions": "61.2 × 52.3 × 20.2 cm",
+        "weight": "—",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T13:00:25.403Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-bs-031",
+      "asin": "B0CZWZLJVQ",
+      "file": "monitor-bestsellers.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0CZWZLJVQ",
+        "dimensions": "61.3 × 40.5 × 23.4 cm",
+        "weight": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "fetchedAt": "2026-08-16T13:04:32.927Z",
+        "vesaStandard": "—",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-bs-032",
+      "asin": "B07Y2Z7CQ2",
+      "file": "monitor-bestsellers.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B07Y2Z7CQ2",
+        "dimensions": "55.3 × 38.8 × 21.5 cm",
+        "weight": "—",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T12:51:38.509Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-bs-033",
+      "asin": "B07Y5VJ8XG",
+      "file": "monitor-bestsellers.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B07Y5VJ8XG",
+        "dimensions": "—",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:31:10.220Z",
+        "source": "playwright",
+        "error": "fetch_failed"
+      }
+    },
+    {
+      "id": "mon-bs-034",
+      "asin": "B0BC28DHZ6",
+      "file": "monitor-bestsellers.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0BC28DHZ6",
+        "dimensions": "—",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T12:57:14.375Z",
+        "source": "playwright",
+        "vesaStandard": "—",
+        "rawDimKey": null,
+        "rawWeightKey": null,
+        "rawVesaKey": null
+      }
+    },
+    {
+      "id": "mon-bs-037",
+      "asin": "B0C7B8YQ8K",
+      "file": "monitor-bestsellers.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0C7B8YQ8K",
+        "dimensions": "—",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:32:10.923Z",
+        "source": "playwright",
+        "error": "fetch_failed"
+      }
+    },
+    {
+      "id": "mon-bs-040",
+      "asin": "B0GVYKG7CW",
+      "file": "monitor-bestsellers.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0GVYKG7CW",
+        "dimensions": "25 × 10 × 20 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:25:12.337Z",
+        "source": "playwright",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null
+      }
+    },
+    {
+      "id": "mon-bs-050",
+      "asin": "B0DZ5BRBZ7",
+      "file": "monitor-bestsellers.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0DZ5BRBZ7",
+        "dimensions": "—",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:09:46.983Z",
+        "source": "playwright",
+        "vesaStandard": "—",
+        "rawDimKey": null,
+        "rawWeightKey": null
+      }
+    },
+    {
+      "id": "mon-dell-010",
+      "asin": "B0F4PDMS9G",
+      "file": "monitor-dell-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0F4PDMS9G",
+        "dimensions": "53.9 × 48.6 × 2.1 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:11:40.182Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-dell-018",
+      "asin": "B0F4PDQYKB",
+      "file": "monitor-dell-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0F4PDQYKB",
+        "dimensions": "49.2 × 46.9 × 2.1 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:11:44.033Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-dell-019",
+      "asin": "B0F4P9D1L1",
+      "file": "monitor-dell-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0F4P9D1L1",
+        "dimensions": "61.2 × 53.4 × 2 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:11:28.782Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-dell-021",
+      "asin": "B0DH4G2TWF",
+      "file": "monitor-dell-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0DH4G2TWF",
+        "dimensions": "53.9 × 32.1 × 2.5 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:06:38.088Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-dell-022",
+      "asin": "B0F4PDLB7J",
+      "file": "monitor-dell-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0F4PDLB7J",
+        "dimensions": "49.2 × 37.7 × 1.7 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:11:36.396Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-lenovo-1822-005",
+      "asin": "B0CGLJGD4V",
+      "file": "monitor-lenovo-search-1822.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0CGLJGD4V",
+        "dimensions": "—",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:01:17.670Z",
+        "vesaStandard": "—",
+        "rawDimKey": null,
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-lenovo-1822-008",
+      "asin": "B08DRRHJVW",
+      "file": "monitor-lenovo-search-1822.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B08DRRHJVW",
+        "dimensions": "—",
+        "weight": "—",
+        "vesaStandard": "—",
+        "rawDimKey": null,
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T12:53:12.247Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-lenovo-1822-014",
+      "asin": "B000A6MYPS",
+      "file": "monitor-lenovo-search-1822.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B000A6MYPS",
+        "dimensions": "—",
+        "weight": "—",
+        "vesaStandard": "—",
+        "rawDimKey": null,
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T12:49:17.159Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-lenovo-1822-015",
+      "asin": "B06XYLDND3",
+      "file": "monitor-lenovo-search-1822.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B06XYLDND3",
+        "dimensions": "—",
+        "weight": "—",
+        "vesaStandard": "—",
+        "rawDimKey": null,
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T12:50:11.472Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-lenovo-1822-016",
+      "asin": "B0CGLJH51T",
+      "file": "monitor-lenovo-search-1822.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0CGLJH51T",
+        "dimensions": "—",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:01:21.251Z",
+        "vesaStandard": "—",
+        "rawDimKey": null,
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-lenovo-1822-023",
+      "asin": "B000XSE4OW",
+      "file": "monitor-lenovo-search-1822.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B000XSE4OW",
+        "dimensions": "—",
+        "weight": "—",
+        "vesaStandard": "—",
+        "rawDimKey": null,
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T12:49:23.971Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-lenovo-26p2-006",
+      "asin": "B0G2BDW1YY",
+      "file": "monitor-lenovo-search-26plus-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0G2BDW1YY",
+        "dimensions": "36.8 × 4.6 × 61.4 cm",
+        "weight": "—",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T13:19:31.391Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-lenovo-26p2-010",
+      "asin": "B0CPTD2XJD",
+      "file": "monitor-lenovo-search-26plus-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0CPTD2XJD",
+        "dimensions": "—",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:03:35.812Z",
+        "vesaStandard": "—",
+        "rawDimKey": null,
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-lenovo-26p2-015",
+      "asin": "B0B8X32QWH",
+      "file": "monitor-lenovo-search-26plus-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0B8X32QWH",
+        "dimensions": "52 × 19 × 69 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T12:57:03.458Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-lenovo-26p2-019",
+      "asin": "B0D6YLLJVH",
+      "file": "monitor-lenovo-search-26plus-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0D6YLLJVH",
+        "dimensions": "—",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:05:25.358Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-lenovo-26p2-026",
+      "asin": "B0FF9P328S",
+      "file": "monitor-lenovo-search-26plus-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0FF9P328S",
+        "dimensions": "—",
+        "weight": "—",
+        "vesaStandard": "—",
+        "rawDimKey": null,
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T13:13:52.689Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-lenovo-26p2-030",
+      "asin": "B0FF9PQGZK",
+      "file": "monitor-lenovo-search-26plus-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0FF9PQGZK",
+        "dimensions": "—",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:13:56.211Z",
+        "vesaStandard": "—",
+        "rawDimKey": null,
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-lenovo-26-003",
+      "asin": "B0G42Z3577",
+      "file": "monitor-lenovo-search-26plus.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0G42Z3577",
+        "dimensions": "61.2 × 44.4 × 21 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:20:04.850Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-lenovo-26-013",
+      "asin": "B0GZ333LB5",
+      "file": "monitor-lenovo-search-26plus.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0GZ333LB5",
+        "dimensions": "61.3 × 53.9 × 22 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:26:49.692Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-lenovo-26-015",
+      "asin": "B00M40R476",
+      "file": "monitor-lenovo-search-26plus.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B00M40R476",
+        "dimensions": "—",
+        "weight": "—",
+        "vesaStandard": "100×100 mm",
+        "rawDimKey": null,
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T12:49:42.243Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-lenovo-26-016",
+      "asin": "B0CGLJB8BG",
+      "file": "monitor-lenovo-search-26plus.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0CGLJB8BG",
+        "dimensions": "—",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:01:14.064Z",
+        "vesaStandard": "—",
+        "rawDimKey": null,
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-lenovo-26-022",
+      "asin": "B0CGLG9CPD",
+      "file": "monitor-lenovo-search-26plus.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0CGLG9CPD",
+        "dimensions": "—",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:01:03.542Z",
+        "vesaStandard": "—",
+        "rawDimKey": null,
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-lenovo-26-035",
+      "asin": "B0GR1RGFFZ",
+      "file": "monitor-lenovo-search-26plus.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0GR1RGFFZ",
+        "dimensions": "61.2 × 53.5 × 20.4 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:23:30.790Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-lenovo-26-037",
+      "asin": "B08Z5JNL1C",
+      "file": "monitor-lenovo-search-26plus.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B08Z5JNL1C",
+        "dimensions": "—",
+        "weight": "—",
+        "vesaStandard": "—",
+        "rawDimKey": null,
+        "rawWeightKey": "商品の重量",
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T12:54:22.926Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-lenovo-p2-014",
+      "asin": "B0BGPW9PQZ",
+      "file": "monitor-lenovo-search-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0BGPW9PQZ",
+        "dimensions": "54.1 × 32.5 × 4.3 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T12:57:32.453Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-lenovo-p2-020",
+      "asin": "B0DQR9V8X2",
+      "file": "monitor-lenovo-search-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0DQR9V8X2",
+        "dimensions": "61 × 25.4 × 35.6 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:08:22.970Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-lenovo-p2-023",
+      "asin": "B0D42VCK5Q",
+      "file": "monitor-lenovo-search-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0D42VCK5Q",
+        "dimensions": "101.6 × 50.8 × 40.6 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:05:10.515Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-lenovo-p2-024",
+      "asin": "B0038I4PTS",
+      "file": "monitor-lenovo-search-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0038I4PTS",
+        "dimensions": "—",
+        "weight": "—",
+        "vesaStandard": "—",
+        "rawDimKey": null,
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T12:49:30.758Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-lenovo-p2-025",
+      "asin": "B001G79UXY",
+      "file": "monitor-lenovo-search-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B001G79UXY",
+        "dimensions": "—",
+        "weight": "—",
+        "vesaStandard": "—",
+        "rawDimKey": null,
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T12:49:27.449Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-lenovo-p2-031",
+      "asin": "B0FMYPP5CS",
+      "file": "monitor-lenovo-search-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0FMYPP5CS",
+        "dimensions": "35 × 25 × 35 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:16:10.284Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-lenovo-001",
+      "asin": "B0G42QB93M",
+      "file": "monitor-lenovo-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0G42QB93M",
+        "dimensions": "54 × 40.3 × 18 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:20:01.088Z",
+        "source": "playwright",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "rawVesaKey": null
+      }
+    },
+    {
+      "id": "mon-lenovo-003",
+      "asin": "B0G42NGPTD",
+      "file": "monitor-lenovo-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0G42NGPTD",
+        "dimensions": "54 × 54.3 × 21.4 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:19:57.398Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-lenovo-004",
+      "asin": "B08QHYD2BP",
+      "file": "monitor-lenovo-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B08QHYD2BP",
+        "dimensions": "—",
+        "weight": "—",
+        "vesaStandard": "—",
+        "rawDimKey": null,
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T12:54:04.183Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-lenovo-005",
+      "asin": "B0GK8H12LS",
+      "file": "monitor-lenovo-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0GK8H12LS",
+        "dimensions": "—",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:22:35.389Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-lenovo-006",
+      "asin": "B0D32DXWWK",
+      "file": "monitor-lenovo-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0D32DXWWK",
+        "dimensions": "—",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:04:55.975Z",
+        "vesaStandard": "—",
+        "rawDimKey": null,
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-lenovo-014",
+      "asin": "B07PS5YJ2H",
+      "file": "monitor-lenovo-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B07PS5YJ2H",
+        "dimensions": "—",
+        "weight": "—",
+        "vesaStandard": "—",
+        "rawDimKey": null,
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T12:51:27.105Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-lenovo-016",
+      "asin": "B0CGLH1MD2",
+      "file": "monitor-lenovo-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0CGLH1MD2",
+        "dimensions": "—",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:01:10.627Z",
+        "vesaStandard": "—",
+        "rawDimKey": null,
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-lenovo-017",
+      "asin": "B0GK87J5L7",
+      "file": "monitor-lenovo-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0GK87J5L7",
+        "dimensions": "54 × 50.6 × 19 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:22:31.869Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-lenovo-032",
+      "asin": "B0CGLGPLPL",
+      "file": "monitor-lenovo-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0CGLGPLPL",
+        "dimensions": "—",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:01:07.084Z",
+        "vesaStandard": "—",
+        "rawDimKey": null,
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-lenovo-039",
+      "asin": "B0BDT5RKZD",
+      "file": "monitor-lenovo-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0BDT5RKZD",
+        "dimensions": "—",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T12:57:21.628Z",
+        "vesaStandard": "—",
+        "rawDimKey": null,
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-lg-011",
+      "asin": "B078YHRHQ7",
+      "file": "monitor-lg-display-bestsellers.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B078YHRHQ7",
+        "dimensions": "—",
+        "weight": "—",
+        "vesaStandard": "100×100 mm",
+        "rawDimKey": "外形寸法(WxHxD) / 重量",
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T12:51:00.361Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-gift-002",
+      "asin": "B0DRC23SSG",
+      "file": "monitor-most-gifted.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0DRC23SSG",
+        "dimensions": "42.3 × 17.4 × 54.2 cm",
+        "weight": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "fetchedAt": "2026-08-16T13:08:33.931Z",
+        "vesaStandard": "—",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-gift-003",
+      "asin": "B00CWXR15K",
+      "file": "monitor-most-gifted.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B00CWXR15K",
+        "dimensions": "54.2 × 42.5 × 18 cm",
+        "weight": "—",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T12:49:38.597Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-gift-006",
+      "asin": "B0D9K624F9",
+      "file": "monitor-most-gifted.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0D9K624F9",
+        "dimensions": "50 × 40 × 60 cm",
+        "weight": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "fetchedAt": "2026-08-16T13:05:36.484Z",
+        "vesaStandard": "—",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-gift-009",
+      "asin": "B0F32NVN1T",
+      "file": "monitor-most-gifted.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0F32NVN1T",
+        "dimensions": "53.9 × 44.3 × 22.7 cm",
+        "weight": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "fetchedAt": "2026-08-16T13:10:59.561Z",
+        "vesaStandard": "—",
+        "rawVesaKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-gift-011",
+      "asin": "B0DGXLLLQJ",
+      "file": "monitor-most-gifted.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0DGXLLLQJ",
+        "dimensions": "96 × 59 × 26 cm",
+        "weight": "—",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T13:06:34.159Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-gift-014",
+      "asin": "B0DSZKVLQT",
+      "file": "monitor-most-gifted.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0DSZKVLQT",
+        "dimensions": "61.7 × 54.8 × 21.1 cm",
+        "weight": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "fetchedAt": "2026-08-16T13:08:45.860Z",
+        "vesaStandard": "100×100 mm",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-gift-015",
+      "asin": "B00CWXR15K",
+      "file": "monitor-most-gifted.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B00CWXR15K",
+        "dimensions": "54.2 × 42.5 × 18 cm",
+        "weight": "—",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T12:49:38.597Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-gift-016",
+      "asin": "B0GC67N6Z5",
+      "file": "monitor-most-gifted.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0GC67N6Z5",
+        "dimensions": "40 × 30 × 5 cm",
+        "weight": "—",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T13:21:27.835Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-gift-018",
+      "asin": "B0CPXQQLL2",
+      "file": "monitor-most-gifted.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0CPXQQLL2",
+        "dimensions": "54 × 38.2 × 21.5 cm",
+        "weight": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "fetchedAt": "2026-08-16T13:03:39.926Z",
+        "vesaStandard": "—",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-gift-019",
+      "asin": "B0CPXQQLL2",
+      "file": "monitor-most-gifted.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0CPXQQLL2",
+        "dimensions": "54 × 38.2 × 21.5 cm",
+        "weight": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "fetchedAt": "2026-08-16T13:03:39.926Z",
+        "vesaStandard": "—",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-gift-020",
+      "asin": "B0D5Y19RLY",
+      "file": "monitor-most-gifted.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0D5Y19RLY",
+        "dimensions": "35.9 × 22.6 × 1.6 cm",
+        "weight": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "fetchedAt": "2026-08-16T13:05:18.071Z",
+        "vesaStandard": "—",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-nr2-013",
+      "asin": "B0H3NNB52H",
+      "file": "monitor-new-releases-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0H3NNB52H",
+        "dimensions": "49.3 × 38 × 16 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:27:53.558Z",
+        "source": "playwright",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null
+      }
+    },
+    {
+      "id": "mon-nr2-024",
+      "asin": "B0H3FD8HV8",
+      "file": "monitor-new-releases-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0H3FD8HV8",
+        "dimensions": "28 × 10 × 40 cm",
+        "weight": "—",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T13:27:49.697Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-nr2-030",
+      "asin": "B0GZZR8XQC",
+      "file": "monitor-new-releases-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0GZZR8XQC",
+        "dimensions": "44.5 × 35 × 18 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:27:11.905Z",
+        "source": "playwright",
+        "vesaStandard": "75×75 mm",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null
+      }
+    },
+    {
+      "id": "mon-nr-003",
+      "asin": "B0H4L58ZFR",
+      "file": "monitor-new-releases.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0H4L58ZFR",
+        "dimensions": "53.9 × 40.9 × 18 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:28:11.962Z",
+        "source": "playwright",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null
+      }
+    },
+    {
+      "id": "mon-nr-015",
+      "asin": "B0GYMYCTXL",
+      "file": "monitor-new-releases.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0GYMYCTXL",
+        "dimensions": "—",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:26:19.754Z",
+        "source": "playwright",
+        "vesaStandard": "75×75 mm",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null
+      }
+    },
+    {
+      "id": "mon-philips-008",
+      "asin": "B0BTT3M22X",
+      "file": "monitor-philips-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0BTT3M22X",
+        "dimensions": "61.3 × 45.6 × 23.1 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T12:58:35.533Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-philips-009",
+      "asin": "B0CPC17DZ9",
+      "file": "monitor-philips-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0CPC17DZ9",
+        "dimensions": "—",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:03:28.317Z",
+        "vesaStandard": "—",
+        "rawDimKey": null,
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-philips-010",
+      "asin": "B094FMX5YB",
+      "file": "monitor-philips-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B094FMX5YB",
+        "dimensions": "54.1 × 52.2 × 21.6 cm",
+        "weight": "—",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T12:54:45.707Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-philips-012",
+      "asin": "B0GVY6JKYJ",
+      "file": "monitor-philips-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0GVY6JKYJ",
+        "dimensions": "—",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:25:08.392Z",
+        "source": "playwright",
+        "vesaStandard": "—",
+        "rawDimKey": null,
+        "rawWeightKey": null
+      }
+    },
+    {
+      "id": "mon-philips-013",
+      "asin": "B0CPBZMBKT",
+      "file": "monitor-philips-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0CPBZMBKT",
+        "dimensions": "—",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:03:24.459Z",
+        "vesaStandard": "—",
+        "rawDimKey": null,
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-philips-015",
+      "asin": "B0GZSG3ZB8",
+      "file": "monitor-philips-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0GZSG3ZB8",
+        "dimensions": "54 × 41.5 × 20.9 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:27:00.372Z",
+        "vesaStandard": "100×100 mm",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-philips-016",
+      "asin": "B0GZSQ3NC8",
+      "file": "monitor-philips-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0GZSQ3NC8",
+        "dimensions": "61.2 × 45.3 × 22.7 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:27:04.304Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-philips-017",
+      "asin": "B0BTT3D43V",
+      "file": "monitor-philips-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0BTT3D43V",
+        "dimensions": "—",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T12:58:31.691Z",
+        "vesaStandard": "—",
+        "rawDimKey": null,
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-philips-018",
+      "asin": "B0B7N2ML9L",
+      "file": "monitor-philips-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0B7N2ML9L",
+        "dimensions": "—",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T12:56:56.364Z",
+        "vesaStandard": "—",
+        "rawDimKey": null,
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-pg-004",
+      "asin": "B0F7PRGR2H",
+      "file": "monitor-premium-gaming.ts",
+      "weights": [
+        "—",
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0F7PRGR2H",
+        "dimensions": "61.6 × 45.7 × 17.8 cm",
+        "weight": "—",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T13:12:41.862Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-pg-011",
+      "asin": "B0DSZKVLQT",
+      "file": "monitor-premium-gaming.ts",
+      "weights": [
+        "—",
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0DSZKVLQT",
+        "dimensions": "61.7 × 54.8 × 21.1 cm",
+        "weight": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "fetchedAt": "2026-08-16T13:08:45.860Z",
+        "vesaStandard": "100×100 mm",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-pg-016",
+      "asin": "B0CM5P2Y9J",
+      "file": "monitor-premium-gaming.ts",
+      "weights": [
+        "—",
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0CM5P2Y9J",
+        "dimensions": "73 × 56 × 28 cm",
+        "weight": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "fetchedAt": "2026-08-16T13:02:46.941Z",
+        "vesaStandard": "100×100 mm",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-pg-019",
+      "asin": "B0FNCVVM8B",
+      "file": "monitor-premium-gaming.ts",
+      "weights": [
+        "—",
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0FNCVVM8B",
+        "dimensions": "61.6 × 36.4 × 6 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:16:21.732Z",
+        "source": "playwright",
+        "vesaStandard": "100×100 mm",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null
+      }
+    },
+    {
+      "id": "mon-pg-021",
+      "asin": "B0FKH313JR",
+      "file": "monitor-premium-gaming.ts",
+      "weights": [
+        "—",
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0FKH313JR",
+        "dimensions": "53.9 × 32.1 × 4.8 cm",
+        "weight": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "fetchedAt": "2026-08-16T13:15:30.582Z",
+        "vesaStandard": "—",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-pg-023",
+      "asin": "B0FLC2Y42B",
+      "file": "monitor-premium-gaming.ts",
+      "weights": [
+        "—",
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0FLC2Y42B",
+        "dimensions": "55.8 × 41.9 × 21.1 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:15:46.076Z",
+        "source": "playwright",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null
+      }
+    },
+    {
+      "id": "mon-hfr144-p2-003",
+      "asin": "B0H4LY1F1Q",
+      "file": "monitor-refresh144-search-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0H4LY1F1Q",
+        "dimensions": "56.4 × 36.7 × 24.3 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:28:19.610Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-hfr144-p2-005",
+      "asin": "B0FHB76PQW",
+      "file": "monitor-refresh144-search-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0FHB76PQW",
+        "dimensions": "45 × 30 × 78 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:14:46.913Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-hfr144-p2-007",
+      "asin": "B0GC67N6Z5",
+      "file": "monitor-refresh144-search-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0GC67N6Z5",
+        "dimensions": "40 × 30 × 5 cm",
+        "weight": "—",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T13:21:27.835Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-hfr144-p2-008",
+      "asin": "B0H3NNB52H",
+      "file": "monitor-refresh144-search-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0H3NNB52H",
+        "dimensions": "49.3 × 38 × 16 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:27:53.558Z",
+        "source": "playwright",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null
+      }
+    },
+    {
+      "id": "mon-hfr144-p2-009",
+      "asin": "B0DRC23SSG",
+      "file": "monitor-refresh144-search-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0DRC23SSG",
+        "dimensions": "42.3 × 17.4 × 54.2 cm",
+        "weight": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "fetchedAt": "2026-08-16T13:08:33.931Z",
+        "vesaStandard": "—",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-hfr144-p2-011",
+      "asin": "B0GGXHTLCX",
+      "file": "monitor-refresh144-search-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0GGXHTLCX",
+        "dimensions": "54.1 × 40.7 × 19.1 cm",
+        "weight": "—",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T13:22:07.007Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-hfr144-p2-024",
+      "asin": "B0FZR7BRBY",
+      "file": "monitor-refresh144-search-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0FZR7BRBY",
+        "dimensions": "—",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:19:09.788Z",
+        "vesaStandard": "75×75 mm",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-hfr144-p2-030",
+      "asin": "B0GFD2GCFH",
+      "file": "monitor-refresh144-search-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0GFD2GCFH",
+        "dimensions": "42.5 × 25.5 × 1.4 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:21:54.964Z",
+        "vesaStandard": "75×75 mm",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-hfr144-p2-032",
+      "asin": "B0GY869ZYW",
+      "file": "monitor-refresh144-search-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0GY869ZYW",
+        "dimensions": "55.8 × 42.6 × 18.1 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:26:07.644Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-hfr144-p2-037",
+      "asin": "B094VJT99S",
+      "file": "monitor-refresh144-search-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B094VJT99S",
+        "dimensions": "54 × 49.2 × 23.1 cm",
+        "weight": "—",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T12:54:49.987Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-hfr144-p2-043",
+      "asin": "B0DP46W461",
+      "file": "monitor-refresh144-search-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0DP46W461",
+        "dimensions": "—",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:08:03.652Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-hfr144-p2-044",
+      "asin": "B0F2HRQT3X",
+      "file": "monitor-refresh144-search-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0F2HRQT3X",
+        "dimensions": "—",
+        "weight": "—",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T13:10:55.679Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-hfr144-p2-047",
+      "asin": "B0FJ1D6PVJ",
+      "file": "monitor-refresh144-search-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0FJ1D6PVJ",
+        "dimensions": "—",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:15:01.671Z",
+        "vesaStandard": "—",
+        "rawDimKey": null,
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-hfr144-p2-048",
+      "asin": "B0GT95VY87",
+      "file": "monitor-refresh144-search-page2.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0GT95VY87",
+        "dimensions": "—",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:24:34.803Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-hfr144-008",
+      "asin": "B0GCC92XD8",
+      "file": "monitor-refresh144-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0GCC92XD8",
+        "dimensions": "53.9 × 43.4 × 17 cm",
+        "weight": "—",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T13:21:31.751Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-hfr144-026",
+      "asin": "B0FLC2Y42B",
+      "file": "monitor-refresh144-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0FLC2Y42B",
+        "dimensions": "55.8 × 41.9 × 21.1 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:15:46.076Z",
+        "source": "playwright",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null
+      }
+    },
+    {
+      "id": "mon-hfr144-027",
+      "asin": "B0H4L58ZFR",
+      "file": "monitor-refresh144-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0H4L58ZFR",
+        "dimensions": "53.9 × 40.9 × 18 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:28:11.962Z",
+        "source": "playwright",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null
+      }
+    },
+    {
+      "id": "mon-hfr144-036",
+      "asin": "B0F53K3Z9H",
+      "file": "monitor-refresh144-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0F53K3Z9H",
+        "dimensions": "52.4 × 41.5 × 21.9 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:11:55.374Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-hfr144-037",
+      "asin": "B0G42NGPTD",
+      "file": "monitor-refresh144-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0G42NGPTD",
+        "dimensions": "54 × 54.3 × 21.4 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:19:57.398Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-hfr144-044",
+      "asin": "B0GGXHTLCX",
+      "file": "monitor-refresh144-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0GGXHTLCX",
+        "dimensions": "54.1 × 40.7 × 19.1 cm",
+        "weight": "—",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T13:22:07.007Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-hfr144-049",
+      "asin": "B0H2FJVZLP",
+      "file": "monitor-refresh144-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0H2FJVZLP",
+        "dimensions": "54 × 40.5 × 18.3 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:27:38.348Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-hfr144-058",
+      "asin": "B0H4LBRFFB",
+      "file": "monitor-refresh144-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0H4LBRFFB",
+        "dimensions": "53.9 × 40.9 × 18 cm",
+        "weight": "—",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T13:28:15.823Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-hfr144-059",
+      "asin": "B0FHB76PQW",
+      "file": "monitor-refresh144-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0FHB76PQW",
+        "dimensions": "45 × 30 × 78 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:14:46.913Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-hfr144-062",
+      "asin": "B0GC67N6Z5",
+      "file": "monitor-refresh144-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0GC67N6Z5",
+        "dimensions": "40 × 30 × 5 cm",
+        "weight": "—",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T13:21:27.835Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-hfr144-063",
+      "asin": "B0H3NNB52H",
+      "file": "monitor-refresh144-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0H3NNB52H",
+        "dimensions": "49.3 × 38 × 16 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:27:53.558Z",
+        "source": "playwright",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null
+      }
+    },
+    {
+      "id": "mon-hfr144-064",
+      "asin": "B0DRC23SSG",
+      "file": "monitor-refresh144-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0DRC23SSG",
+        "dimensions": "42.3 × 17.4 × 54.2 cm",
+        "weight": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "fetchedAt": "2026-08-16T13:08:33.931Z",
+        "vesaStandard": "—",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-hfr144-071",
+      "asin": "B0FZR7BRBY",
+      "file": "monitor-refresh144-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0FZR7BRBY",
+        "dimensions": "—",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:19:09.788Z",
+        "vesaStandard": "75×75 mm",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-hfr144-077",
+      "asin": "B0GFD2GCFH",
+      "file": "monitor-refresh144-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0GFD2GCFH",
+        "dimensions": "42.5 × 25.5 × 1.4 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:21:54.964Z",
+        "vesaStandard": "75×75 mm",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-hfr144-078",
+      "asin": "B0H4LY1F1Q",
+      "file": "monitor-refresh144-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0H4LY1F1Q",
+        "dimensions": "56.4 × 36.7 × 24.3 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:28:19.610Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-hfr144-080",
+      "asin": "B0GY869ZYW",
+      "file": "monitor-refresh144-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0GY869ZYW",
+        "dimensions": "55.8 × 42.6 × 18.1 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:26:07.644Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-hfr144-084",
+      "asin": "B094VJT99S",
+      "file": "monitor-refresh144-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B094VJT99S",
+        "dimensions": "54 × 49.2 × 23.1 cm",
+        "weight": "—",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T12:54:49.987Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-hfr144-090",
+      "asin": "B0DP46W461",
+      "file": "monitor-refresh144-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0DP46W461",
+        "dimensions": "—",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:08:03.652Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-hfr144-091",
+      "asin": "B0F2HRQT3X",
+      "file": "monitor-refresh144-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0F2HRQT3X",
+        "dimensions": "—",
+        "weight": "—",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T13:10:55.679Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-hfr144-094",
+      "asin": "B0FJ1D6PVJ",
+      "file": "monitor-refresh144-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0FJ1D6PVJ",
+        "dimensions": "—",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:15:01.671Z",
+        "vesaStandard": "—",
+        "rawDimKey": null,
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-hfr144-095",
+      "asin": "B0GT95VY87",
+      "file": "monitor-refresh144-search.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0GT95VY87",
+        "dimensions": "—",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:24:34.803Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-s22120-003",
+      "asin": "B0GR8NLC94",
+      "file": "monitor-search-22-120.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0GR8NLC94",
+        "dimensions": "60.8 × 53.7 × 19.8 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:23:49.947Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-s22120-011",
+      "asin": "B0GXB3SNLH",
+      "file": "monitor-search-22-120.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0GXB3SNLH",
+        "dimensions": "55.5 × 38.5 × 0.8 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:25:48.536Z",
+        "vesaStandard": "100×100 mm",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-s22120-016",
+      "asin": "B0H8RQ82WJ",
+      "file": "monitor-search-22-120.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0H8RQ82WJ",
+        "dimensions": "54.3 × 41.4 × 18.1 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:29:14.362Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-s22120-022",
+      "asin": "B0H3NNB52H",
+      "file": "monitor-search-22-120.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0H3NNB52H",
+        "dimensions": "49.3 × 38 × 16 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:27:53.558Z",
+        "source": "playwright",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null
+      }
+    },
+    {
+      "id": "mon-s22120-024",
+      "asin": "B0DRC23SSG",
+      "file": "monitor-search-22-120.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0DRC23SSG",
+        "dimensions": "42.3 × 17.4 × 54.2 cm",
+        "weight": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "fetchedAt": "2026-08-16T13:08:33.931Z",
+        "vesaStandard": "—",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-s22120-030",
+      "asin": "B0FJ1D6PVJ",
+      "file": "monitor-search-22-120.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0FJ1D6PVJ",
+        "dimensions": "—",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:15:01.671Z",
+        "vesaStandard": "—",
+        "rawDimKey": null,
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-s22120-034",
+      "asin": "B0GTL4L4KV",
+      "file": "monitor-search-22-120.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0GTL4L4KV",
+        "dimensions": "55.7 × 41.5 × 19.1 cm",
+        "weight": "—",
+        "vesaStandard": "100×100 mm",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T13:24:42.199Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-s22120-035",
+      "asin": "B0FW4YVTQP",
+      "file": "monitor-search-22-120.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0FW4YVTQP",
+        "dimensions": "32.3 × 54.6 × 0.9 cm",
+        "weight": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "fetchedAt": "2026-08-16T13:18:13.241Z",
+        "vesaStandard": "—",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-s22120-037",
+      "asin": "B0D6QB71XD",
+      "file": "monitor-search-22-120.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0D6QB71XD",
+        "dimensions": "55.6 × 41.9 × 21.9 cm",
+        "weight": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "fetchedAt": "2026-08-16T13:05:21.998Z",
+        "vesaStandard": "—",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-s22120-044",
+      "asin": "B0FGWVW6Z4",
+      "file": "monitor-search-22-120.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0FGWVW6Z4",
+        "dimensions": "53.8 × 48.5 × 1.9 cm",
+        "weight": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "fetchedAt": "2026-08-16T13:14:10.705Z",
+        "vesaStandard": "—",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-s22120-046",
+      "asin": "B0FGWV9SC3",
+      "file": "monitor-search-22-120.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0FGWV9SC3",
+        "dimensions": "49.2 × 37.7 × 1.7 cm",
+        "weight": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "fetchedAt": "2026-08-16T13:14:07.065Z",
+        "vesaStandard": "—",
+        "rawVesaKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-s22120-047",
+      "asin": "B084B948TK",
+      "file": "monitor-search-22-120.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B084B948TK",
+        "dimensions": "54 × 49.9 × 19.3 cm",
+        "weight": "—",
+        "vesaStandard": "100×100 mm",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T12:51:59.230Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-s22120-050",
+      "asin": "B0F7J54214",
+      "file": "monitor-search-22-120.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0F7J54214",
+        "dimensions": "—",
+        "weight": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "fetchedAt": "2026-08-16T13:12:38.233Z",
+        "vesaStandard": "—",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-s22120-052",
+      "asin": "B0GGV98K1W",
+      "file": "monitor-search-22-120.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0GGV98K1W",
+        "dimensions": "48 × 18.8 × 73 cm",
+        "weight": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "fetchedAt": "2026-08-16T13:22:02.589Z",
+        "vesaStandard": "100×100 mm",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-s22120-059",
+      "asin": "B0DYQX28HR",
+      "file": "monitor-search-22-120.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0DYQX28HR",
+        "dimensions": "53.9 × 42.4 × 18.5 cm",
+        "weight": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "fetchedAt": "2026-08-16T13:09:43.154Z",
+        "vesaStandard": "100×100 mm",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-s22120-061",
+      "asin": "B0G5ZC3NDH",
+      "file": "monitor-search-22-120.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0G5ZC3NDH",
+        "dimensions": "49.1 × 39 × 20.4 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:20:38.830Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-s22120-062",
+      "asin": "B0GWNFCPQZ",
+      "file": "monitor-search-22-120.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0GWNFCPQZ",
+        "dimensions": "53.2 × 51.1 × 18.2 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:25:29.994Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-s22120-074",
+      "asin": "B0H7BVJGNX",
+      "file": "monitor-search-22-120.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0H7BVJGNX",
+        "dimensions": "54 × 39 × 19 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:29:06.835Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-s22120-076",
+      "asin": "B0GK87J5L7",
+      "file": "monitor-search-22-120.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0GK87J5L7",
+        "dimensions": "54 × 50.6 × 19 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:22:31.869Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-s22120-078",
+      "asin": "B0FVD2FJP3",
+      "file": "monitor-search-22-120.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0FVD2FJP3",
+        "dimensions": "41.8 × 63.2 × 12.8 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:18:06.042Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-s22120-081",
+      "asin": "B0FHDVMW2P",
+      "file": "monitor-search-22-120.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0FHDVMW2P",
+        "dimensions": "—",
+        "weight": "—",
+        "rawDimKey": null,
+        "rawWeightKey": null,
+        "fetchedAt": "2026-08-16T13:14:50.676Z",
+        "vesaStandard": "75×75 mm",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-s22120-082",
+      "asin": "B0GVQ3B8MH",
+      "file": "monitor-search-22-120.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0GVQ3B8MH",
+        "dimensions": "50.8 × 35.6 × 33 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:25:01.133Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-s22120-084",
+      "asin": "B0FM76LQLM",
+      "file": "monitor-search-22-120.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0FM76LQLM",
+        "dimensions": "54.2 × 32 × 4.4 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:16:07.027Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-s22120-085",
+      "asin": "B0DRBVHTTK",
+      "file": "monitor-search-22-120.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0DRBVHTTK",
+        "dimensions": "54.2 × 32 × 4.4 cm",
+        "weight": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "fetchedAt": "2026-08-16T13:08:30.122Z",
+        "vesaStandard": "—",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-s22120-090",
+      "asin": "B0FQJ8CK6D",
+      "file": "monitor-search-22-120.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0FQJ8CK6D",
+        "dimensions": "11.8 × 39.1 × 59.4 cm",
+        "weight": "—",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T13:17:06.718Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-s22120-093",
+      "asin": "B0H296K3RT",
+      "file": "monitor-search-22-120.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0H296K3RT",
+        "dimensions": "53.3 × 48.3 × 20.3 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:27:30.436Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-s22120-100",
+      "asin": "B0DWTT8NQL",
+      "file": "monitor-search-22-120.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0DWTT8NQL",
+        "dimensions": "43.2 × 54.6 × 19.1 cm",
+        "weight": "—",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T13:09:20.176Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-s22120-108",
+      "asin": "B0FM699T5T",
+      "file": "monitor-search-22-120.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0FM699T5T",
+        "dimensions": "54.2 × 42.5 × 18 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:16:03.532Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-s22120-109",
+      "asin": "B0FV156B1P",
+      "file": "monitor-search-22-120.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0FV156B1P",
+        "dimensions": "54.2 × 42.8 × 18.3 cm",
+        "weight": "—",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "rawVesaKey": null,
+        "fetchedAt": "2026-08-16T13:17:51.374Z",
+        "source": "playwright"
+      }
+    },
+    {
+      "id": "mon-s22120-112",
+      "asin": "B0FMYPP5CS",
+      "file": "monitor-search-22-120.ts",
+      "weights": [
+        "—"
+      ],
+      "missing": true,
+      "cache": {
+        "asin": "B0FMYPP5CS",
+        "dimensions": "35 × 25 × 35 cm",
+        "weight": "—",
+        "fetchedAt": "2026-08-16T13:16:10.284Z",
+        "vesaStandard": "—",
+        "rawDimKey": "品目の寸法 （D x W x H）",
+        "rawWeightKey": null,
+        "source": "playwright"
+      }
+    }
+  ]
+}

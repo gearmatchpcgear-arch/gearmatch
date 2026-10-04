@@ -1,0 +1,53 @@
+{
+  "B0GPDQY2VJ": {
+    "name": "NuPhy Node75 JIS",
+    "brand": "NuPhy",
+    "connection": "Bluetooth / 2.4GHz / 有線 USB",
+    "layout": "75%（JIS日本語配列・82キー）",
+    "internalStructure": "メカニカル（ホットスワップ）",
+    "power": "充電式 (USB-C)"
+  },
+  "B0GX1TQ3K8": {
+    "name": "Razer Huntsman V3 HE Magnetic Mini",
+    "brand": "Razer",
+    "connection": "有線 USB (8000Hz)",
+    "layout": "65%（US配列）",
+    "internalStructure": "磁気スイッチ（ラピッドトリガー）",
+    "power": "有線給電",
+    "hasRapidTrigger": true
+  },
+  "B0FSKL7D4D": {
+    "name": "Keychron K2 Max スペシャルエディション",
+    "brand": "Keychron",
+    "connection": "Bluetooth / 2.4GHz / 有線 USB",
+    "layout": "JIS日本語配列（75%）",
+    "internalStructure": "メカニカル",
+    "power": "充電式 (USB-C)"
+  },
+  "B0DR2NR6G5": {
+    "name": "ATTACK SHARK X68HE",
+    "brand": "ATTACK SHARK",
+    "connection": "有線 USB (8000Hz)",
+    "layout": "65%（68キー）",
+    "internalStructure": "磁気スイッチ（ラピッドトリガー 0.01mm）",
+    "power": "有線給電",
+    "hasRapidTrigger": true
+  },
+  "B0DP8BGL5Z": {
+    "name": "YUNZII B75 PRO",
+    "brand": "YUNZII",
+    "connection": "Bluetooth / 2.4GHz / 有線 USB",
+    "layout": "75%",
+    "internalStructure": "メカニカル（ホットスワップ・ガスケット）",
+    "power": "充電式 (USB-C)"
+  },
+  "B0G6JZWRD3": {
+    "name": "DAREU COOL68",
+    "brand": "DAREU",
+    "connection": "有線 USB (8000Hz)",
+    "layout": "65%（68キー）",
+    "internalStructure": "磁気スイッチ（ラピッドトリガー 0.01mm）",
+    "power": "有線給電",
+    "hasRapidTrigger": true
+  }
+}

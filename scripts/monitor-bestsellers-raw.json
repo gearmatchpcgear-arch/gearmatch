@@ -1,0 +1,579 @@
+{
+  "fetchedAt": "2026-08-13T14:42:30.956Z",
+  "page": 1,
+  "monitors": [
+    {
+      "amazonRank": 1,
+      "asin": "B07ZNTHZHZ",
+      "title": "EVICIV モバイルモニター 15.6インチ FHD 1920×1080 モバイルディスプレイ 自立型 ポータブルモニター 軽量 薄型 持ち運び IPS液晶 非光沢 ブルーライトカット USB Type-C/Mini HDMI 在宅勤務・外出作業 Switch2・PS5・PC・Mac対応 EVC-1506S",
+      "rating": 4.5,
+      "reviews": 8895,
+      "price": 7976,
+      "image": "https://m.media-amazon.com/images/I/61nyLT8F3YL._AC_SL1500_.jpg",
+      "rank": 1
+    },
+    {
+      "amazonRank": 2,
+      "asin": "B0D1K8H4F5",
+      "title": "KEEPTIME モバイルモニター 15.6\" 1080P IPS非光沢 薄型 軽量 USB-C ミニHDMI対応 ノートPC/スマホ/ゲーム機対応 | モバイルディスプレイ1920*1080、 ポータブルモニター IPSパネル、ノングレア、5mm薄型、570g軽量、マグネットカバー、モニターUSB C/mini HDMI付き、ゲーム機/S-witch/スマホ/PC/Mac対応、在宅勤務リモートワーク",
+      "rating": 4.2,
+      "reviews": 3548,
+      "price": 8990,
+      "image": "https://m.media-amazon.com/images/I/81kZ1W0J2cL._AC_SL1500_.jpg",
+      "rank": 2
+    },
+    {
+      "amazonRank": 3,
+      "asin": "B0D9K624F9",
+      "title": "KTC 24インチ モニター FHD 100Hz VA HDR10 3年保証 H24V27 | 24インチ・FHD 1920×1080・100Hz・VA・HDR10・300cd/㎡・4000:1・Adaptive Sync・HDMI1.4・VGA・VESA対応・チルト調整・低ブルーライト・フリッカーフリー",
+      "rating": 4.2,
+      "reviews": 1770,
+      "price": 10980,
+      "image": "https://m.media-amazon.com/images/I/71guzQ7ahpL._AC_SL1500_.jpg",
+      "rank": 3
+    },
+    {
+      "amazonRank": 4,
+      "asin": "B0FPF1HGT8",
+      "title": "Dell S2725DC 27インチ モニター | 無輝点3年保証/QHD/IPS,非光沢/USB-Cx1,HDMIx1,DP1.4x1/sRGB 99%/縦横回転,高さ調整/1ms,144Hz/AMD FreeSync/内蔵スピーカー",
+      "rating": 4.5,
+      "reviews": 208,
+      "price": 32800,
+      "image": "https://m.media-amazon.com/images/I/71iLuNyaz5L._AC_SL1500_.jpg",
+      "rank": 4
+    },
+    {
+      "amazonRank": 5,
+      "asin": "B0DNDXMLR7",
+      "title": "ASUSモニター / VY249HGR Eye Care モニター / 23.8インチ FHD（1920 x 1080）/ IPS / 120Hz(OC) / SmoothMotion / 1ms（MPRT）/ Adaptive Sync/ブルーライト軽減機能/フリッカーフリー/抗菌加工/国内正規品",
+      "rating": 4.2,
+      "reviews": 298,
+      "price": 12580,
+      "image": "https://m.media-amazon.com/images/I/71T7FXVO9ZL._AC_SL1500_.jpg",
+      "rank": 5
+    },
+    {
+      "amazonRank": 6,
+      "asin": "B0CDBS93QZ",
+      "title": "【Amazon.co.jp 限定】IODATA モニター 23.8型 省電力 (HDMI/アナログRGB/スピーカ付/VESA) EX-A241DB | ADSパネル,ブラック",
+      "rating": 4.2,
+      "reviews": 519,
+      "price": 14800,
+      "image": "https://m.media-amazon.com/images/I/61Q7Y7qpWXL._AC_SL1500_.jpg",
+      "rank": 6
+    },
+    {
+      "amazonRank": 7,
+      "asin": "B0CPXQQLL2",
+      "title": "【Amazon.co.jp 限定】IODATA モニター 23.8型 省電力 (HDMI/アナログRGB/スピーカ付/VESA) EX-A241DB | ADSパネル,ブラック",
+      "rating": 4.3,
+      "reviews": 794,
+      "price": 14800,
+      "image": "https://m.media-amazon.com/images/I/71MBuR5fWaL._AC_SL1500_.jpg",
+      "rank": 7
+    },
+    {
+      "amazonRank": 8,
+      "asin": "B0GCC92XD8",
+      "title": "Xiaomi モニター A24i モニター 24インチ FHD 144Hz IPS sRGB99% 300nits TÜV低ブルーライト VESA対応 | フルHD 144Hz sRGB99% TÜV低ブルーライト IPSパネル",
+      "rating": 4.3,
+      "reviews": 139,
+      "price": 12580,
+      "image": "https://m.media-amazon.com/images/I/61+uB+T4YFL._AC_SL1500_.jpg",
+      "rank": 8
+    },
+    {
+      "amazonRank": 9,
+      "asin": "B0D9KGG1B6",
+      "title": "KTC 27インチゲーミングモニター WQHD (2560x1440) Fast IPS 200Hz (210OC可能）1ms(MPRT) 131%sRGB HDR400 低ブルーライト フリッカーフリー FreeSync & G-Sync対応 PS5対応 HDMI2.0×2 DP1.4×2 VESA 100*100 H27T22C-3",
+      "rating": 4.2,
+      "reviews": 1479,
+      "price": 24980,
+      "image": "https://m.media-amazon.com/images/I/71UIgvYGm9L._AC_SL1500_.jpg",
+      "rank": 9
+    },
+    {
+      "amazonRank": 10,
+      "asin": "B0FHPYXL6N",
+      "title": "モバイルモニター 15.6インチ 1080P IPSパネル 自立スタンド Type-C/Mini HDMI PC/スマホ/ゲーム機対応 収納ケース付き | モバイルディスプレイ、1920×1080、非光沢画面、ブルーライトカット、100%sRGB色域、軽量薄型、ポータブルモニター、VESA対応、スピーカ内蔵、PS4/PS5/XBOX/S-witch/PC/Mac対応、商務会議、在宅勤務、リモートワーク",
+      "rating": 4.1,
+      "reviews": 444,
+      "price": 6897,
+      "image": "https://m.media-amazon.com/images/I/71fWNm-Mq8L._AC_SL1500_.jpg",
+      "rank": 10
+    },
+    {
+      "amazonRank": 11,
+      "asin": "B0DZ6LG8PZ",
+      "title": "Amzfast 34インチ ゲーミングモニター 240Hz 曲面ウルトラワイド UWQHD 3440x1440 1ms MPRT 130%sRGB 3000:1コントラスト 450nits/Adaptive Sync/フリッカー防止/PIP PBP機能/ブルーライト低減/HDMI 2.1FRL*2+DP1.4 *2/100x100 VESA/5年保証 AMZG34C8 Pro（VRR対応）",
+      "rating": 4.3,
+      "reviews": 1989,
+      "price": 36980,
+      "image": "https://m.media-amazon.com/images/I/71LeNIsYjFL._AC_SL1500_.jpg",
+      "rank": 11
+    },
+    {
+      "amazonRank": 12,
+      "asin": "B0GNRS88NQ",
+      "title": "IODATA GigaCrysta S ゲーミングモニター 27型 FHD/360Hz 4K/180Hz MiniLED EX-GDU271JLAQD | 量子ドット, DisplayHDR1400, 無輝点保証",
+      "rating": 4.6,
+      "reviews": 71,
+      "price": 74800,
+      "image": "https://m.media-amazon.com/images/I/71kWUzN1eKL._AC_SL1500_.jpg",
+      "rank": 12
+    },
+    {
+      "amazonRank": 13,
+      "asin": "B0D9K8WK2Q",
+      "title": "KTC 24.5インチ ゲーミングモニター FHD 200Hz Fast IPS H25T7 | 24.5インチ・FHD 1920×1080・200Hz・Fast IPS・HDR10・sRGB128%・350cd/㎡・1000:1・Adaptive Sync・HDMI2.0×2・DP1.4×1・低ブルーライト・チルト調整",
+      "rating": 4.4,
+      "reviews": 484,
+      "price": 15980,
+      "image": "https://m.media-amazon.com/images/I/81WgGxINU-L._AC_SL1500_.jpg",
+      "rank": 13
+    },
+    {
+      "amazonRank": 14,
+      "asin": "B0G6JV85HG",
+      "title": "【Amazon.co.jp限定】Dell SE2426HG 23.8インチ ゲーミングモニター | 3年保証/FHD/IPS,非光沢/HDMIx2,DPx1/sRGB99%/傾き調整/0.5ms,240Hz/AMD FreeSync™ Premium",
+      "rating": 4,
+      "reviews": 135,
+      "price": 17980,
+      "image": "https://m.media-amazon.com/images/I/81Z4kNI2m-L._AC_SL1500_.jpg",
+      "rank": 14
+    },
+    {
+      "amazonRank": 15,
+      "asin": "B0FCQPC9FQ",
+      "title": "【Amazon.co.jp 限定】PHILIPS 液晶TypeCモニター (23.8インチ/IPS/FHD/120Hz/1ms/5年保証/HDMI, USB Type-C(65W急速給電)/チルト/昇降・高さ調節/ちらつき防止/ブルーライト軽減/スピーカー付/AdaptiveSync/省資源化パッケージ/ケーブル付/電源内蔵) PCモニター 24E1N2300AE/11 【国内正規品】",
+      "rating": 4.2,
+      "reviews": 77,
+      "price": 19504,
+      "image": "https://m.media-amazon.com/images/I/618NtTAWhhL._AC_SL1500_.jpg",
+      "rank": 15
+    },
+    {
+      "amazonRank": 16,
+      "asin": "B0G6JMQK17",
+      "title": "Dell SE2426H 23.8インチ モニター | 3年保証/FHD/IPS,非光沢/HDMIx2/傾き調整/1ms,144Hz/AMD FreeSync™",
+      "rating": 4.4,
+      "reviews": 155,
+      "price": 14980,
+      "image": "https://m.media-amazon.com/images/I/712+djqVlIL._AC_SL1500_.jpg",
+      "rank": 16
+    },
+    {
+      "amazonRank": 17,
+      "asin": "B0DWZYWMH3",
+      "title": "【Amazon.co.jp限定】 アイリスオーヤマ モニター 24インチ Full HD(1920×1080) 国内サポート VAパネル スピーカー内蔵 100Hz フリッカー軽減 非光沢タイプ ディスプレイ HDMI ブラック DT-IF235S-B",
+      "rating": 3.9,
+      "reviews": 442,
+      "price": 13800,
+      "image": "https://m.media-amazon.com/images/I/612XDs5kVOL._AC_SL1500_.jpg",
+      "rank": 17
+    },
+    {
+      "amazonRank": 18,
+      "asin": "B0F9WJLW45",
+      "title": "【Amazon.co.jp限定】ASUSゲーミングモニター/TUF Gaming VG259Q5A – 24.5インチ / フルHD（1920x1080） / 200Hz / Fast IPS/ELMB / 0.3ms GTG（最小） / ステレオスピーカー/DisplayWidget Center/国内正規品",
+      "rating": 4.1,
+      "reviews": 183,
+      "price": 16980,
+      "image": "https://m.media-amazon.com/images/I/71hhyOqLuZL._AC_SL1500_.jpg",
+      "rank": 18
+    },
+    {
+      "amazonRank": 19,
+      "asin": "B0F18KF4HH",
+      "title": "【Amazon.co.jp限定】MSI ゲーミングモニター MAG 244F 23.8インチ/フルHD/RAPID IPSパネル/200Hz/0.5ms(GTG)/Adaptive-Sync/HDR/HDMI 2.0b/DP1.2a/VESA100/メーカー3年保証",
+      "rating": 4.1,
+      "reviews": 130,
+      "price": 22800,
+      "image": "https://m.media-amazon.com/images/I/61BVpY0X4+L._AC_SL1500_.jpg",
+      "rank": 19
+    },
+    {
+      "amazonRank": 20,
+      "asin": "B0DQW23SJZ",
+      "title": "MAXZEN ゲーミングモニター 24.5インチ FHD(1920×1080) 180Hz HDMI2.0 FastIPS 1ms(GTG) Adaptive-Sync ブルーライトカット 非光沢 フリッカーレス ブラック MGM25IC03 マクスゼン",
+      "rating": 4,
+      "reviews": 40,
+      "price": 10980,
+      "image": "https://m.media-amazon.com/images/I/61ozBUfd1oL._AC_SL1500_.jpg",
+      "rank": 20
+    },
+    {
+      "amazonRank": 21,
+      "asin": "B0FH58W9NF",
+      "title": "【Amazon.co.jp限定】Lenovo モニター L24-41 日本国内5年保証/23.8インチ/フルHD/IPSパネル/HDMI1.4x1, VGAx1/傾き調整/VESA対応",
+      "rating": 4.1,
+      "reviews": 19,
+      "price": 15880,
+      "image": "https://m.media-amazon.com/images/I/711AO9gu58L._AC_SL1500_.jpg",
+      "rank": 21
+    },
+    {
+      "amazonRank": 22,
+      "asin": "B0G42QB93M",
+      "title": "【Amazon.co.jp限定】Lenovo モニター L24-41 日本国内5年保証/23.8インチ/フルHD/IPSパネル/HDMI1.4x1, VGAx1/傾き調整/VESA対応",
+      "rating": 4.1,
+      "reviews": 19,
+      "price": 9900,
+      "image": "https://m.media-amazon.com/images/I/610o5mrvwQL._AC_SL1500_.jpg",
+      "rank": 22
+    },
+    {
+      "amazonRank": 23,
+      "asin": "B0DMN94Q8M",
+      "title": "REGZA ゲーミングモニター 27インチ WQHD 240Hz モンスターハンターワイルズ推奨画質 1ms(GTG) HDR10 Fast IPSパネル Adaptive Sync HDMI対応 RM-G276N",
+      "rating": 4.1,
+      "reviews": 402,
+      "price": 35125,
+      "image": "https://m.media-amazon.com/images/I/71LU-8mMYSL._AC_SL1500_.jpg",
+      "rank": 23
+    },
+    {
+      "amazonRank": 24,
+      "asin": "B0FV856B9M",
+      "title": "PHILIPS 液晶ディスプレイ PCモニター (23.8インチ/IPS/FHD/120Hz/1ms/5年保証/HDMI, DVI-D, VGA/チルト/SoftBlue/ちらつき防止/ブルーライト軽減AdaptiveSync/スリムベゼル/在宅ワーク/ケーブル付/電源内蔵) 24E1N2100D/11 【国内正規品】",
+      "rating": 4.5,
+      "reviews": 31,
+      "price": 12800,
+      "image": "https://m.media-amazon.com/images/I/61kUfLQOfkL._AC_SL1500_.jpg",
+      "rank": 24
+    },
+    {
+      "amazonRank": 25,
+      "asin": "B0GR4RLMKR",
+      "title": "Dell S2425HSM 23.8インチ モニター | 無輝点3年保証/FHD/IPS,非光沢/HDMIx2/sRGB 99%/縦横回転,高さ調整/1ms,144Hz/AMD FreeSync/内蔵スピーカー",
+      "rating": 4.3,
+      "reviews": 24,
+      "price": 19980,
+      "image": "https://m.media-amazon.com/images/I/716GLBIaGjL._AC_SL1500_.jpg",
+      "rank": 25
+    },
+    {
+      "amazonRank": 26,
+      "asin": "B0G1X4CL2X",
+      "title": "TERRA 2441W 23.8インチ フルHD IPS モニター 144Hz HDMI/VGA 最長 5年保証 非光沢 ハードウェアブルーライトカット スピーカー内蔵 ヘッドホン端子 傾き調整 24インチ ゲーミングモニター",
+      "rating": 4.2,
+      "reviews": 197,
+      "price": 9999,
+      "image": "https://m.media-amazon.com/images/I/61yL99x5MnL._AC_SL1500_.jpg",
+      "rank": 26
+    },
+    {
+      "amazonRank": 27,
+      "asin": "B0CD7DZWJF",
+      "title": "モバイルモニター 15.6インチ InnoView モバイルディスプレイ 自立型 1920*1080 FHD ポータブルモニター IPS液晶パネル 薄型 軽量 持ち運び 壁掛けに対応 Switch/PS3/PS4/PS5/Xbox One/PC/スマホ/USBType-C/標準HDMI対応",
+      "rating": 4,
+      "reviews": 6327,
+      "price": 9999,
+      "image": "https://m.media-amazon.com/images/I/71EFs0mLQ9L._AC_SL1500_.jpg",
+      "rank": 27
+    },
+    {
+      "amazonRank": 28,
+      "asin": "B0DT3NLNCC",
+      "title": "BenQ MOBIUZ EX251 24.5インチ IPS フルHD 220Hz 1ms ゲーミングモニター | ノングレア DisplayHDR 400 sRGB 99% FreeSync 輝度自動調整(B.I.+ Gen2) スピーカー内蔵 3年",
+      "rating": 4.2,
+      "reviews": 283,
+      "price": 23305,
+      "image": "https://m.media-amazon.com/images/I/71q5w8TChKL._AC_SL1500_.jpg",
+      "rank": 28
+    },
+    {
+      "amazonRank": 29,
+      "asin": "B0DNKC8HXP",
+      "title": "HAILESI S123E モバイルモニター 12.3インチ Switch2ドック不要 タッチパネル タッチペン対応 OTG対応 1920×1280 | モバイルディスプレイ 3:2比率 100％sRGB 300nit HDR IPS液晶 薄型軽量 Type-C/HDMI接続 PS5/XBOX/PC/Mac/iPhone/Switch2対応 ゲーム テレワーク サブモニター 動画視聴",
+      "rating": 4.3,
+      "reviews": 211,
+      "price": 16990,
+      "image": "https://m.media-amazon.com/images/I/71jZYAECMpL._AC_SL1500_.jpg",
+      "rank": 29
+    },
+    {
+      "amazonRank": 30,
+      "asin": "B0FYNN6KPX",
+      "title": "HAILESI S123E モバイルモニター 12.3インチ Switch2ドック不要 タッチパネル タッチペン対応 OTG対応 1920×1280 | モバイルディスプレイ 3:2比率 100％sRGB 300nit HDR IPS液晶 薄型軽量 Type-C/HDMI接続 PS5/XBOX/PC/Mac/iPhone/Switch2対応 ゲーム テレワーク サブモニター 動画視聴",
+      "rating": 4.3,
+      "reviews": 332,
+      "price": 10799,
+      "image": "https://m.media-amazon.com/images/I/71omhYoOmCL._AC_SL1500_.jpg",
+      "rank": 30
+    }
+  ],
+  "excluded": [],
+  "raw": [
+    {
+      "amazonRank": 1,
+      "asin": "B07ZNTHZHZ",
+      "title": "EVICIV モバイルモニター 15.6インチ FHD 1920×1080 モバイルディスプレイ 自立型 ポータブルモニター 軽量 薄型 持ち運び IPS液晶 非光沢 ブルーライトカット USB Type-C/Mini HDMI 在宅勤務・外出作業 Switch2・PS5・PC・Mac対応 EVC-1506S",
+      "rating": 4.5,
+      "reviews": 8895,
+      "price": 7976,
+      "image": "https://m.media-amazon.com/images/I/61nyLT8F3YL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 2,
+      "asin": "B0D1K8H4F5",
+      "title": "KEEPTIME モバイルモニター 15.6\" 1080P IPS非光沢 薄型 軽量 USB-C ミニHDMI対応 ノートPC/スマホ/ゲーム機対応 | モバイルディスプレイ1920*1080、 ポータブルモニター IPSパネル、ノングレア、5mm薄型、570g軽量、マグネットカバー、モニターUSB C/mini HDMI付き、ゲーム機/S-witch/スマホ/PC/Mac対応、在宅勤務リモートワーク",
+      "rating": 4.2,
+      "reviews": 3548,
+      "price": 8990,
+      "image": "https://m.media-amazon.com/images/I/81kZ1W0J2cL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 3,
+      "asin": "B0D9K624F9",
+      "title": "KTC 24インチ モニター FHD 100Hz VA HDR10 3年保証 H24V27 | 24インチ・FHD 1920×1080・100Hz・VA・HDR10・300cd/㎡・4000:1・Adaptive Sync・HDMI1.4・VGA・VESA対応・チルト調整・低ブルーライト・フリッカーフリー",
+      "rating": 4.2,
+      "reviews": 1770,
+      "price": 10980,
+      "image": "https://m.media-amazon.com/images/I/71guzQ7ahpL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 4,
+      "asin": "B0FPF1HGT8",
+      "title": "Dell S2725DC 27インチ モニター | 無輝点3年保証/QHD/IPS,非光沢/USB-Cx1,HDMIx1,DP1.4x1/sRGB 99%/縦横回転,高さ調整/1ms,144Hz/AMD FreeSync/内蔵スピーカー",
+      "rating": 4.5,
+      "reviews": 208,
+      "price": 32800,
+      "image": "https://m.media-amazon.com/images/I/71iLuNyaz5L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 5,
+      "asin": "B0DNDXMLR7",
+      "title": "ASUSモニター / VY249HGR Eye Care モニター / 23.8インチ FHD（1920 x 1080）/ IPS / 120Hz(OC) / SmoothMotion / 1ms（MPRT）/ Adaptive Sync/ブルーライト軽減機能/フリッカーフリー/抗菌加工/国内正規品",
+      "rating": 4.2,
+      "reviews": 298,
+      "price": 12580,
+      "image": "https://m.media-amazon.com/images/I/71T7FXVO9ZL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 6,
+      "asin": "B0CDBS93QZ",
+      "title": "【Amazon.co.jp 限定】IODATA モニター 23.8型 省電力 (HDMI/アナログRGB/スピーカ付/VESA) EX-A241DB | ADSパネル,ブラック",
+      "rating": 4.2,
+      "reviews": 519,
+      "price": 14800,
+      "image": "https://m.media-amazon.com/images/I/61Q7Y7qpWXL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 7,
+      "asin": "B0CPXQQLL2",
+      "title": "【Amazon.co.jp 限定】IODATA モニター 23.8型 省電力 (HDMI/アナログRGB/スピーカ付/VESA) EX-A241DB | ADSパネル,ブラック",
+      "rating": 4.3,
+      "reviews": 794,
+      "price": 14800,
+      "image": "https://m.media-amazon.com/images/I/71MBuR5fWaL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 8,
+      "asin": "B0GCC92XD8",
+      "title": "Xiaomi モニター A24i モニター 24インチ FHD 144Hz IPS sRGB99% 300nits TÜV低ブルーライト VESA対応 | フルHD 144Hz sRGB99% TÜV低ブルーライト IPSパネル",
+      "rating": 4.3,
+      "reviews": 139,
+      "price": 12580,
+      "image": "https://m.media-amazon.com/images/I/61+uB+T4YFL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 9,
+      "asin": "B0D9KGG1B6",
+      "title": "KTC 27インチゲーミングモニター WQHD (2560x1440) Fast IPS 200Hz (210OC可能）1ms(MPRT) 131%sRGB HDR400 低ブルーライト フリッカーフリー FreeSync & G-Sync対応 PS5対応 HDMI2.0×2 DP1.4×2 VESA 100*100 H27T22C-3",
+      "rating": 4.2,
+      "reviews": 1479,
+      "price": 24980,
+      "image": "https://m.media-amazon.com/images/I/71UIgvYGm9L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 10,
+      "asin": "B0FHPYXL6N",
+      "title": "モバイルモニター 15.6インチ 1080P IPSパネル 自立スタンド Type-C/Mini HDMI PC/スマホ/ゲーム機対応 収納ケース付き | モバイルディスプレイ、1920×1080、非光沢画面、ブルーライトカット、100%sRGB色域、軽量薄型、ポータブルモニター、VESA対応、スピーカ内蔵、PS4/PS5/XBOX/S-witch/PC/Mac対応、商務会議、在宅勤務、リモートワーク",
+      "rating": 4.1,
+      "reviews": 444,
+      "price": 6897,
+      "image": "https://m.media-amazon.com/images/I/71fWNm-Mq8L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 11,
+      "asin": "B0DZ6LG8PZ",
+      "title": "Amzfast 34インチ ゲーミングモニター 240Hz 曲面ウルトラワイド UWQHD 3440x1440 1ms MPRT 130%sRGB 3000:1コントラスト 450nits/Adaptive Sync/フリッカー防止/PIP PBP機能/ブルーライト低減/HDMI 2.1FRL*2+DP1.4 *2/100x100 VESA/5年保証 AMZG34C8 Pro（VRR対応）",
+      "rating": 4.3,
+      "reviews": 1989,
+      "price": 36980,
+      "image": "https://m.media-amazon.com/images/I/71LeNIsYjFL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 12,
+      "asin": "B0GNRS88NQ",
+      "title": "IODATA GigaCrysta S ゲーミングモニター 27型 FHD/360Hz 4K/180Hz MiniLED EX-GDU271JLAQD | 量子ドット, DisplayHDR1400, 無輝点保証",
+      "rating": 4.6,
+      "reviews": 71,
+      "price": 74800,
+      "image": "https://m.media-amazon.com/images/I/71kWUzN1eKL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 13,
+      "asin": "B0D9K8WK2Q",
+      "title": "KTC 24.5インチ ゲーミングモニター FHD 200Hz Fast IPS H25T7 | 24.5インチ・FHD 1920×1080・200Hz・Fast IPS・HDR10・sRGB128%・350cd/㎡・1000:1・Adaptive Sync・HDMI2.0×2・DP1.4×1・低ブルーライト・チルト調整",
+      "rating": 4.4,
+      "reviews": 484,
+      "price": 15980,
+      "image": "https://m.media-amazon.com/images/I/81WgGxINU-L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 14,
+      "asin": "B0G6JV85HG",
+      "title": "【Amazon.co.jp限定】Dell SE2426HG 23.8インチ ゲーミングモニター | 3年保証/FHD/IPS,非光沢/HDMIx2,DPx1/sRGB99%/傾き調整/0.5ms,240Hz/AMD FreeSync™ Premium",
+      "rating": 4,
+      "reviews": 135,
+      "price": 17980,
+      "image": "https://m.media-amazon.com/images/I/81Z4kNI2m-L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 15,
+      "asin": "B0FCQPC9FQ",
+      "title": "【Amazon.co.jp 限定】PHILIPS 液晶TypeCモニター (23.8インチ/IPS/FHD/120Hz/1ms/5年保証/HDMI, USB Type-C(65W急速給電)/チルト/昇降・高さ調節/ちらつき防止/ブルーライト軽減/スピーカー付/AdaptiveSync/省資源化パッケージ/ケーブル付/電源内蔵) PCモニター 24E1N2300AE/11 【国内正規品】",
+      "rating": 4.2,
+      "reviews": 77,
+      "price": 19504,
+      "image": "https://m.media-amazon.com/images/I/618NtTAWhhL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 16,
+      "asin": "B0G6JMQK17",
+      "title": "Dell SE2426H 23.8インチ モニター | 3年保証/FHD/IPS,非光沢/HDMIx2/傾き調整/1ms,144Hz/AMD FreeSync™",
+      "rating": 4.4,
+      "reviews": 155,
+      "price": 14980,
+      "image": "https://m.media-amazon.com/images/I/712+djqVlIL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 17,
+      "asin": "B0DWZYWMH3",
+      "title": "【Amazon.co.jp限定】 アイリスオーヤマ モニター 24インチ Full HD(1920×1080) 国内サポート VAパネル スピーカー内蔵 100Hz フリッカー軽減 非光沢タイプ ディスプレイ HDMI ブラック DT-IF235S-B",
+      "rating": 3.9,
+      "reviews": 442,
+      "price": 13800,
+      "image": "https://m.media-amazon.com/images/I/612XDs5kVOL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 18,
+      "asin": "B0F9WJLW45",
+      "title": "【Amazon.co.jp限定】ASUSゲーミングモニター/TUF Gaming VG259Q5A – 24.5インチ / フルHD（1920x1080） / 200Hz / Fast IPS/ELMB / 0.3ms GTG（最小） / ステレオスピーカー/DisplayWidget Center/国内正規品",
+      "rating": 4.1,
+      "reviews": 183,
+      "price": 16980,
+      "image": "https://m.media-amazon.com/images/I/71hhyOqLuZL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 19,
+      "asin": "B0F18KF4HH",
+      "title": "【Amazon.co.jp限定】MSI ゲーミングモニター MAG 244F 23.8インチ/フルHD/RAPID IPSパネル/200Hz/0.5ms(GTG)/Adaptive-Sync/HDR/HDMI 2.0b/DP1.2a/VESA100/メーカー3年保証",
+      "rating": 4.1,
+      "reviews": 130,
+      "price": 22800,
+      "image": "https://m.media-amazon.com/images/I/61BVpY0X4+L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 20,
+      "asin": "B0DQW23SJZ",
+      "title": "MAXZEN ゲーミングモニター 24.5インチ FHD(1920×1080) 180Hz HDMI2.0 FastIPS 1ms(GTG) Adaptive-Sync ブルーライトカット 非光沢 フリッカーレス ブラック MGM25IC03 マクスゼン",
+      "rating": 4,
+      "reviews": 40,
+      "price": 10980,
+      "image": "https://m.media-amazon.com/images/I/61ozBUfd1oL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 21,
+      "asin": "B0FH58W9NF",
+      "title": "【Amazon.co.jp限定】Lenovo モニター L24-41 日本国内5年保証/23.8インチ/フルHD/IPSパネル/HDMI1.4x1, VGAx1/傾き調整/VESA対応",
+      "rating": 4.1,
+      "reviews": 19,
+      "price": 15880,
+      "image": "https://m.media-amazon.com/images/I/711AO9gu58L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 22,
+      "asin": "B0G42QB93M",
+      "title": "【Amazon.co.jp限定】Lenovo モニター L24-41 日本国内5年保証/23.8インチ/フルHD/IPSパネル/HDMI1.4x1, VGAx1/傾き調整/VESA対応",
+      "rating": 4.1,
+      "reviews": 19,
+      "price": 9900,
+      "image": "https://m.media-amazon.com/images/I/610o5mrvwQL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 23,
+      "asin": "B0DMN94Q8M",
+      "title": "REGZA ゲーミングモニター 27インチ WQHD 240Hz モンスターハンターワイルズ推奨画質 1ms(GTG) HDR10 Fast IPSパネル Adaptive Sync HDMI対応 RM-G276N",
+      "rating": 4.1,
+      "reviews": 402,
+      "price": 35125,
+      "image": "https://m.media-amazon.com/images/I/71LU-8mMYSL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 24,
+      "asin": "B0FV856B9M",
+      "title": "PHILIPS 液晶ディスプレイ PCモニター (23.8インチ/IPS/FHD/120Hz/1ms/5年保証/HDMI, DVI-D, VGA/チルト/SoftBlue/ちらつき防止/ブルーライト軽減AdaptiveSync/スリムベゼル/在宅ワーク/ケーブル付/電源内蔵) 24E1N2100D/11 【国内正規品】",
+      "rating": 4.5,
+      "reviews": 31,
+      "price": 12800,
+      "image": "https://m.media-amazon.com/images/I/61kUfLQOfkL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 25,
+      "asin": "B0GR4RLMKR",
+      "title": "Dell S2425HSM 23.8インチ モニター | 無輝点3年保証/FHD/IPS,非光沢/HDMIx2/sRGB 99%/縦横回転,高さ調整/1ms,144Hz/AMD FreeSync/内蔵スピーカー",
+      "rating": 4.3,
+      "reviews": 24,
+      "price": 19980,
+      "image": "https://m.media-amazon.com/images/I/716GLBIaGjL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 26,
+      "asin": "B0G1X4CL2X",
+      "title": "TERRA 2441W 23.8インチ フルHD IPS モニター 144Hz HDMI/VGA 最長 5年保証 非光沢 ハードウェアブルーライトカット スピーカー内蔵 ヘッドホン端子 傾き調整 24インチ ゲーミングモニター",
+      "rating": 4.2,
+      "reviews": 197,
+      "price": 9999,
+      "image": "https://m.media-amazon.com/images/I/61yL99x5MnL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 27,
+      "asin": "B0CD7DZWJF",
+      "title": "モバイルモニター 15.6インチ InnoView モバイルディスプレイ 自立型 1920*1080 FHD ポータブルモニター IPS液晶パネル 薄型 軽量 持ち運び 壁掛けに対応 Switch/PS3/PS4/PS5/Xbox One/PC/スマホ/USBType-C/標準HDMI対応",
+      "rating": 4,
+      "reviews": 6327,
+      "price": 9999,
+      "image": "https://m.media-amazon.com/images/I/71EFs0mLQ9L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 28,
+      "asin": "B0DT3NLNCC",
+      "title": "BenQ MOBIUZ EX251 24.5インチ IPS フルHD 220Hz 1ms ゲーミングモニター | ノングレア DisplayHDR 400 sRGB 99% FreeSync 輝度自動調整(B.I.+ Gen2) スピーカー内蔵 3年",
+      "rating": 4.2,
+      "reviews": 283,
+      "price": 23305,
+      "image": "https://m.media-amazon.com/images/I/71q5w8TChKL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 29,
+      "asin": "B0DNKC8HXP",
+      "title": "HAILESI S123E モバイルモニター 12.3インチ Switch2ドック不要 タッチパネル タッチペン対応 OTG対応 1920×1280 | モバイルディスプレイ 3:2比率 100％sRGB 300nit HDR IPS液晶 薄型軽量 Type-C/HDMI接続 PS5/XBOX/PC/Mac/iPhone/Switch2対応 ゲーム テレワーク サブモニター 動画視聴",
+      "rating": 4.3,
+      "reviews": 211,
+      "price": 16990,
+      "image": "https://m.media-amazon.com/images/I/71jZYAECMpL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 30,
+      "asin": "B0FYNN6KPX",
+      "title": "HAILESI S123E モバイルモニター 12.3インチ Switch2ドック不要 タッチパネル タッチペン対応 OTG対応 1920×1280 | モバイルディスプレイ 3:2比率 100％sRGB 300nit HDR IPS液晶 薄型軽量 Type-C/HDMI接続 PS5/XBOX/PC/Mac/iPhone/Switch2対応 ゲーム テレワーク サブモニター 動画視聴",
+      "rating": 4.3,
+      "reviews": 332,
+      "price": 10799,
+      "image": "https://m.media-amazon.com/images/I/71omhYoOmCL._AC_SL1500_.jpg"
+    }
+  ]
+}

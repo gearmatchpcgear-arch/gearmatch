@@ -1,0 +1,310 @@
+{
+  "mode": "apply",
+  "knownSpecChanges": 30,
+  "bestsellerChanges": 30,
+  "knownChangeList": [
+    {
+      "before": "XLR/TRSコンボ×1, 3.5mmマイク×1, 3.5mm AUX IN×1",
+      "after": "XLR/TRSコンボ×1"
+    },
+    {
+      "before": "XLR×1, 3.5mm AUX×1",
+      "after": "XLR×1"
+    },
+    {
+      "before": "XLR/TRSコンボ×1, 3.5mm AUX×1",
+      "after": "XLR/TRSコンボ×1"
+    },
+    {
+      "before": "XLR/TRSコンボ×1, 3.5mmマイク×1",
+      "after": "XLR/TRSコンボ×1"
+    },
+    {
+      "before": "XLR×2, 3.5mm AUX×1",
+      "after": "XLR×2"
+    },
+    {
+      "before": "XLR×4, 3.5mm AUX×2, Bluetooth",
+      "after": "XLR×4, Bluetooth"
+    },
+    {
+      "before": "XLR/TRSコンボ×2, 3.5mm ライン×1",
+      "after": "XLR/TRSコンボ×2"
+    },
+    {
+      "before": "XLR×2, 6.35mm GUITAR/BASS×1, 6.35mm LINE IN×2, 3.5mm AUX×1",
+      "after": "XLR×2, 6.35mm GUITAR/BASS×1, 6.35mm LINE IN×2"
+    },
+    {
+      "before": "XLR×1, 3.5mm×2",
+      "after": "XLR×1"
+    },
+    {
+      "before": "XLR/TRSコンボ×2, HDMI IN×1, 3.5mm×1",
+      "after": "XLR/TRSコンボ×2, HDMI IN×1"
+    },
+    {
+      "before": "3.5mm TRRS×1",
+      "after": "—"
+    },
+    {
+      "before": "XLR×1, 3.5mm AUX×1, 3.5mm HEADSET MIC×1",
+      "after": "XLR×1"
+    },
+    {
+      "before": "XLR/TRSコンボ×2, ステレオLINE×2, 3.5mm HEADSET×1",
+      "after": "XLR/TRSコンボ×2, ステレオLINE×2"
+    },
+    {
+      "before": "XLR×1, 3.5mm LINE×1",
+      "after": "XLR×1"
+    },
+    {
+      "before": "XLR×1, 3.5mm MIC×1, 3.5mm LINE IN×1, Optical(Toslink)×1",
+      "after": "XLR×1, Optical(Toslink)×1"
+    },
+    {
+      "before": "XLR×1, 3.5mm AUX×1",
+      "after": "XLR×1"
+    },
+    {
+      "before": "XLR×1, 3.5mm AUX×1",
+      "after": "XLR×1"
+    },
+    {
+      "before": "XLR×1, 3.5mm×2, 6.3mm×1",
+      "after": "XLR×1, 6.3mm×1"
+    },
+    {
+      "before": "XLR×1, 3.5mm×3, USB-C×1",
+      "after": "XLR×1, USB-C×1"
+    },
+    {
+      "before": "XLR×1, 3.5mm×2, USB×1",
+      "after": "XLR×1, USB×1"
+    },
+    {
+      "before": "XLR×1, 3.5mm×2",
+      "after": "XLR×1"
+    },
+    {
+      "before": "XLR×1, 3.5mm×3",
+      "after": "XLR×1"
+    },
+    {
+      "before": "XLR/6.35mmコンボ×2, 3.5mm×2",
+      "after": "XLR/6.35mmコンボ×2"
+    },
+    {
+      "before": "XLR/TRSコンボ×2, 3.5mm×2",
+      "after": "XLR/TRSコンボ×2"
+    },
+    {
+      "before": "XLR×1, 3.5mm×2",
+      "after": "XLR×1"
+    },
+    {
+      "before": "XLR×1, 3.5mm×2",
+      "after": "XLR×1"
+    },
+    {
+      "before": "XLR×1, 3.5mm×1",
+      "after": "XLR×1"
+    },
+    {
+      "before": "XLR/TRSコンボ×2, HDMI IN×1, 3.5mm AUX×1",
+      "after": "XLR/TRSコンボ×2, HDMI IN×1"
+    },
+    {
+      "before": "6.35mm×1, 3.5mm AUX IN×1",
+      "after": "6.35mm×1"
+    },
+    {
+      "before": "XLR×1, 3.5mm AUX×1",
+      "after": "XLR×1"
+    }
+  ],
+  "bestsellerChangeList": [
+    {
+      "id": "ai-rank-002",
+      "name": "AT-UMX3",
+      "before": "XLR×1, 3.5mm AUX×1",
+      "after": "XLR×1"
+    },
+    {
+      "id": "ai-search-012",
+      "name": "GO:MIXER STUDIO",
+      "before": "XLR×2, 6.35mm GUITAR/BASS×1, 6.35mm LINE IN×2, 3.5mm AUX×1",
+      "after": "XLR×2, 6.35mm GUITAR/BASS×1, 6.35mm LINE IN×2"
+    },
+    {
+      "id": "ai-rank-003",
+      "name": "M-Track Solo",
+      "before": "XLR/TRSコンボ×1, 3.5mm AUX×1",
+      "after": "XLR/TRSコンボ×1"
+    },
+    {
+      "id": "ai-search-062",
+      "name": "AT-UMX3 WH",
+      "before": "XLR×1, 3.5mm AUX×1",
+      "after": "XLR×1"
+    },
+    {
+      "id": "ai-rank-006",
+      "name": "ZG02",
+      "before": "XLR/TRSコンボ×1, 3.5mmマイク×1",
+      "after": "XLR/TRSコンボ×1"
+    },
+    {
+      "id": "ai-search-006",
+      "name": "BRIDGE CAST ONE",
+      "before": "XLR×1, 3.5mm AUX×1, 3.5mm HEADSET MIC×1",
+      "after": "XLR×1"
+    },
+    {
+      "id": "ai-search-044",
+      "name": "GO XLR",
+      "before": "XLR×1, 3.5mm LINE×1",
+      "after": "XLR×1"
+    },
+    {
+      "id": "ai-search-063",
+      "name": "MiNiSTUDIO CREATOR US-42W",
+      "before": "XLR×1, 3.5mm×2, USB×1",
+      "after": "XLR×1, USB×1"
+    },
+    {
+      "id": "ai-search-065",
+      "name": "SC8",
+      "before": "XLR×1, 3.5mm AUX×1",
+      "after": "XLR×1"
+    },
+    {
+      "id": "ai-rank-015",
+      "name": "BRIDGE CAST",
+      "before": "XLR×2, 3.5mm AUX×1",
+      "after": "XLR×2"
+    },
+    {
+      "id": "ai-search-066",
+      "name": "AG03MK2 B",
+      "before": "XLR×1, 3.5mm×2, 6.3mm×1",
+      "after": "XLR×1, 6.3mm×1"
+    },
+    {
+      "id": "ai-search-067",
+      "name": "BRIDGE CAST",
+      "before": "XLR×1, 3.5mm×3, USB-C×1",
+      "after": "XLR×1, USB-C×1"
+    },
+    {
+      "id": "ai-search-009",
+      "name": "AG06MK2 W",
+      "before": "XLR/TRSコンボ×2, ステレオLINE×2, 3.5mm HEADSET×1",
+      "after": "XLR/TRSコンボ×2, ステレオLINE×2"
+    },
+    {
+      "id": "ai-search-041",
+      "name": "GO XLR MINI",
+      "before": "XLR×1, 3.5mm MIC×1, 3.5mm LINE IN×1, Optical(Toslink)×1",
+      "after": "XLR×1, Optical(Toslink)×1"
+    },
+    {
+      "id": "ai-search-070",
+      "name": "MiNiSTUDIO PERSONAL US-32W",
+      "before": "XLR×1, 3.5mm×2",
+      "after": "XLR×1"
+    },
+    {
+      "id": "ai-rank-027",
+      "name": "Maonocaster E2 (AU-E2)",
+      "before": "XLR/TRSコンボ×1, 3.5mmマイク×1, 3.5mm AUX IN×1",
+      "after": "XLR/TRSコンボ×1"
+    },
+    {
+      "id": "ai-search-071",
+      "name": "iXZ",
+      "before": "XLR×1, 3.5mm×1",
+      "after": "XLR×1"
+    },
+    {
+      "id": "ai-rank-030",
+      "name": "iRig 2",
+      "before": "3.5mm TRRS×1",
+      "after": "—"
+    },
+    {
+      "id": "ai-search-077",
+      "name": "Audio Mixer",
+      "before": "XLR×1, 3.5mm×3",
+      "after": "XLR×1"
+    },
+    {
+      "id": "ai-search-080",
+      "name": "AMIX40U",
+      "before": "XLR/6.35mmコンボ×2, 3.5mm×2",
+      "after": "XLR/6.35mmコンボ×2"
+    },
+    {
+      "id": "ai-rank-059",
+      "name": "Road Caster Pro II",
+      "before": "XLR×4, 3.5mm AUX×2, Bluetooth",
+      "after": "XLR×4, Bluetooth"
+    },
+    {
+      "id": "ai-rank-060",
+      "name": "Revelator io24",
+      "before": "XLR/TRSコンボ×2, 3.5mm ライン×1",
+      "after": "XLR/TRSコンボ×2"
+    },
+    {
+      "id": "ai-search-083",
+      "name": "AG03",
+      "before": "XLR×1, 3.5mm×2",
+      "after": "XLR×1"
+    },
+    {
+      "id": "ai-rank-065",
+      "name": "4ch ストリーミングミキサー",
+      "before": "XLR×1, 3.5mm×2",
+      "after": "XLR×1"
+    },
+    {
+      "id": "ai-search-088",
+      "name": "CONNECT 6",
+      "before": "XLR/TRSコンボ×2, 3.5mm×2",
+      "after": "XLR/TRSコンボ×2"
+    },
+    {
+      "id": "ai-rank-071",
+      "name": "URX44V W",
+      "before": "XLR/TRSコンボ×2, HDMI IN×1, 3.5mm×1",
+      "after": "XLR/TRSコンボ×2, HDMI IN×1"
+    },
+    {
+      "id": "ai-search-091",
+      "name": "URX22W",
+      "before": "XLR/TRSコンボ×2, HDMI IN×1, 3.5mm AUX×1",
+      "after": "XLR/TRSコンボ×2, HDMI IN×1"
+    },
+    {
+      "id": "ai-search-093",
+      "name": "Audio Mixer",
+      "before": "XLR×1, 3.5mm×2",
+      "after": "XLR×1"
+    },
+    {
+      "id": "ai-search-110",
+      "name": "ポータブルオーディオIF",
+      "before": "6.35mm×1, 3.5mm AUX IN×1",
+      "after": "6.35mm×1"
+    },
+    {
+      "id": "ai-search-115",
+      "name": "MV-Mixer",
+      "before": "XLR×1, 3.5mm AUX×1",
+      "after": "XLR×1"
+    }
+  ],
+  "generatedAt": "2026-08-16T11:05:11.838Z"
+}

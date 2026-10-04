@@ -1,0 +1,110 @@
+{
+  "B08DSMWS7X": {
+    "name": "T24v-20",
+    "brand": "Lenovo",
+    "price": 56566,
+    "screenSize": "23.8 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "panel": "IPS",
+    "refreshRate": "60 Hz",
+    "responseTime": "4 ms",
+    "connection": "HDMI / DisplayPort / VGA (D-Sub)",
+    "features": "内蔵Webカメラ / 内蔵マイク / 高さ調整 / ピボット",
+    "tagline": "23.8\" FHD Webカメラ内蔵"
+  },
+  "B09PRRCC8Y": {
+    "name": "ThinkVision E24q-20",
+    "brand": "Lenovo",
+    "price": 66797,
+    "screenSize": "23.8 インチ",
+    "resolution": "2560 x 1440 (WQHD)",
+    "panel": "IPS",
+    "refreshRate": "60 Hz",
+    "responseTime": "4 ms",
+    "connection": "HDMI / DisplayPort",
+    "features": "高さ調整 / チルト / ピボット",
+    "tagline": "23.8\" WQHD IPS"
+  },
+  "B01ITJKQXE": {
+    "name": "ThinkCentre Tiny-in-One 24",
+    "brand": "Lenovo",
+    "price": 82166,
+    "screenSize": "23.8 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "panel": "IPS",
+    "refreshRate": "60 Hz",
+    "connection": "DisplayPort",
+    "features": "高さ調整 / チルト / 一体型",
+    "tagline": "23.8\" FHD IPS 一体型"
+  },
+  "B0H4WBLWPV": {
+    "name": "ThinkVision T24-4v",
+    "brand": "Lenovo",
+    "screenSize": "23.8 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "panel": "IPS",
+    "refreshRate": "60 Hz",
+    "connection": "HDMI / DisplayPort / VGA (D-Sub)",
+    "features": "内蔵Webカメラ / 高さ調整 / ピボット"
+  },
+  "B0BG8SV1M7": {
+    "name": "ThinkVision T24m-20",
+    "brand": "Lenovo",
+    "screenSize": "23.8 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "panel": "IPS",
+    "refreshRate": "60 Hz",
+    "connection": "HDMI / DisplayPort / VGA (D-Sub)",
+    "features": "内蔵Webカメラ / 高さ調整 / ピボット"
+  },
+  "B0D3M7XX2P": {
+    "name": "Legion R25f-30",
+    "brand": "Lenovo",
+    "screenSize": "24.5 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "panel": "VA",
+    "refreshRate": "240 Hz",
+    "responseTime": "0.5 ms",
+    "connection": "HDMI / DisplayPort",
+    "features": "VESA対応 / チルト / AMD FreeSync"
+  },
+  "B0G2T2V6JJ": {
+    "name": "Legion 24-10",
+    "brand": "Lenovo",
+    "screenSize": "23.8 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "panel": "IPS",
+    "refreshRate": "240 Hz",
+    "responseTime": "0.5 ms (MPRT)",
+    "connection": "HDMI 2.1 ×2 / DisplayPort 1.4",
+    "features": "HDR10 / AMD FreeSync Premium / 高さ調整 / ピボット / スワベル"
+  },
+  "B0878ZV4PC": {
+    "name": "ThinkVision P24q-20",
+    "brand": "Lenovo",
+    "screenSize": "23.8 インチ",
+    "resolution": "2560 x 1440 (WQHD)",
+    "panel": "IPS",
+    "refreshRate": "60 Hz",
+    "responseTime": "4 ms",
+    "connection": "HDMI / DisplayPort"
+  },
+  "B0CM2B16DL": {
+    "name": "ThinkVision E24q-30",
+    "brand": "Lenovo",
+    "screenSize": "23.8 インチ",
+    "resolution": "2560 x 1440 (WQHD)",
+    "panel": "IPS",
+    "refreshRate": "100 Hz",
+    "connection": "HDMI / DisplayPort / USB Type-C"
+  },
+  "B0FMYPP5CS": {
+    "name": "ThinkVision P24QD-40",
+    "brand": "Lenovo",
+    "screenSize": "23.8 インチ",
+    "resolution": "2560 x 1440 (WQHD)",
+    "panel": "IPS",
+    "refreshRate": "120 Hz",
+    "connection": "HDMI / DisplayPort / USB Type-C"
+  }
+}

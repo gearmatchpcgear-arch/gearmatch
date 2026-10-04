@@ -1,0 +1,51 @@
+{
+  "B0H1X78F47": {
+    "name": "Snsowed 超薄型 USB 有線キーボード（ピンク）",
+    "brand": "Snsowed",
+    "connection": "有線 USB",
+    "layout": "コンパクト",
+    "internalStructure": "メンブレン",
+    "power": "有線給電"
+  },
+  "B0H8TRGL4J": {
+    "name": "88キー USB 有線キーボード（トラックボール内蔵）",
+    "brand": "—",
+    "connection": "有線 USB",
+    "layout": "コンパクト（88キー）",
+    "internalStructure": "メンブレン（トラックボール内蔵）",
+    "power": "有線給電"
+  },
+  "B0GXSVVQ4S": {
+    "name": "Acogedor 折りたたみ式 Bluetooth キーボード（タッチパッド付き）",
+    "brand": "Acogedor",
+    "connection": "Bluetooth",
+    "layout": "コンパクト（折りたたみ）",
+    "internalStructure": "パンタグラフ (シザー)（タッチパッド搭載）",
+    "power": "充電式 (USB-C)"
+  },
+  "B0GV2PT85S": {
+    "name": "ミニキーボード 有線 78キー（白）",
+    "brand": "—",
+    "connection": "有線 USB (Type-C)",
+    "layout": "コンパクト（78キー）",
+    "internalStructure": "メンブレン",
+    "power": "有線給電",
+    "weight": "230g"
+  },
+  "B0GYQRGXDV": {
+    "name": "EWIN エルゴノミクス ワイヤレスキーボード",
+    "brand": "EWIN",
+    "connection": "Bluetooth / 2.4GHz",
+    "layout": "JIS日本語配列（テンキー付き）",
+    "internalStructure": "メンブレン",
+    "power": "充電式 (USB-C)"
+  },
+  "B0H3L4NCKH": {
+    "name": "Inateck ワイヤレスキーボード KB06007",
+    "brand": "Inateck",
+    "connection": "Bluetooth 5.3",
+    "layout": "JIS日本語配列",
+    "internalStructure": "パンタグラフ (シザー)",
+    "power": "充電式 (USB-C)"
+  }
+}

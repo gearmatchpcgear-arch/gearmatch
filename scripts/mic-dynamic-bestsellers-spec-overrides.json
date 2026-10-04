@@ -1,0 +1,176 @@
+{
+  "B09BFPNW2J": {
+    "name": "AT2040",
+    "brand": "オーディオテクニカ",
+    "tagline": "超単一指向性ダイナミックマイク。内蔵ポップフィルター・XLR出力。ポッドキャスト/配信向け",
+    "price": 13200,
+    "polar": "超単一指向性 (ハイパーカーディオイド)",
+    "connection": "XLR",
+    "type": "ダイナミックマイク",
+    "micFilterTags": ["dynamic"]
+  },
+  "B000GUBOYU": {
+    "name": "SM58",
+    "brand": "SHURE",
+    "tagline": "ON/OFFスイッチ付き定番ボーカル用ダイナミックマイク。カーディオイド・XLR",
+    "price": 16010,
+    "polar": "単一指向性 (カーディオイド)",
+    "connection": "XLR",
+    "features": { "ON/OFFスイッチ": "搭載" }
+  },
+  "B0B31LVXW9": {
+    "name": "BETA 58A",
+    "brand": "SHURE",
+    "tagline": "プロ仕様スーパーカーディオイドボーカル用ダイナミックマイク。XLR・国内正規品",
+    "price": 21700,
+    "polar": "スーパーカーディオイド",
+    "connection": "XLR"
+  },
+  "B000NAXCC0": {
+    "name": "e 945",
+    "brand": "Sennheiser",
+    "tagline": "スーパーカーディオイドボーカル向けダイナミックマイク。XLR・国内正規品",
+    "price": 22500,
+    "polar": "スーパーカーディオイド",
+    "connection": "XLR"
+  },
+  "B000N94RP2": {
+    "name": "e 935",
+    "brand": "Sennheiser",
+    "tagline": "カーディオイドボーカル向けダイナミックマイク。XLR・国内正規品",
+    "price": 22600,
+    "polar": "単一指向性 (カーディオイド)",
+    "connection": "XLR"
+  },
+  "B000N94SJC": {
+    "name": "e 845-S",
+    "brand": "Sennheiser",
+    "tagline": "スーパーカーディオイド・サイレントON/OFFスイッチ付きライブボーカル用",
+    "price": 14864,
+    "polar": "スーパーカーディオイド",
+    "connection": "XLR",
+    "features": { "ON/OFFスイッチ": "サイレントスイッチ" }
+  },
+  "B07MSCRCVK": {
+    "name": "PodMic",
+    "brand": "RODE",
+    "tagline": "ポッドキャスト向けダイナミックマイク。XLR接続",
+    "price": 18000,
+    "polar": "単一指向性 (カーディオイド)",
+    "connection": "XLR"
+  },
+  "B0DNJGTMBK": {
+    "name": "K688CT",
+    "brand": "FIFINE",
+    "price": 12899,
+    "connection": "USB / XLR",
+    "polar": "単一指向性 (カーディオイド)"
+  },
+  "B08QLXWMRG": {
+    "name": "DM-105",
+    "brand": "YAMAHA",
+    "price": 3610,
+    "connection": "XLR",
+    "polar": "単一指向性 (カーディオイド)",
+    "features": { "付属ケーブル": "XLR-Phone 5m" }
+  },
+  "B0GQGP99Y7": {
+    "name": "DM-1200",
+    "brand": "TOA",
+    "price": 12706,
+    "connection": "XLR / 6.3mm",
+    "polar": "単一指向性"
+  },
+  "B009GY4E2G": {
+    "name": "MD-5A",
+    "brand": "UNI-PEX",
+    "price": 4300,
+    "connection": "XLR",
+    "polar": "単一指向性"
+  },
+  "B000S5L2YA": {
+    "name": "D5S",
+    "brand": "AKG",
+    "price": 14850,
+    "connection": "XLR",
+    "polar": "スーパーカーディオイド",
+    "features": { "ON/OFFスイッチ": "搭載" }
+  },
+  "B0056YPORY": {
+    "name": "CM5",
+    "brand": "CLASSIC PRO",
+    "tagline": "CLASSIC PRO（クラシックプロ）ダイナミックマイク。単一指向性・XLR接続",
+    "price": 2950,
+    "polar": "単一指向性 (カーディオイド)",
+    "connection": "XLR",
+    "type": "ダイナミックマイク"
+  },
+  "B01N4L016E": {
+    "name": "CM5S",
+    "brand": "CLASSIC PRO",
+    "tagline": "CLASSIC PRO ダイナミックマイク CM5S。ON/OFFスイッチ付き",
+    "price": 3120,
+    "polar": "単一指向性 (カーディオイド)",
+    "connection": "XLR",
+    "type": "ダイナミックマイク",
+    "features": { "ON/OFFスイッチ": "搭載" }
+  },
+  "B000NJ2TIE": {
+    "name": "XM1800S",
+    "brand": "BEHRINGER",
+    "tagline": "ベリンガー XM1800S ダイナミックマイク 3本セット。単一指向性・ON/OFFスイッチ付き",
+    "price": 6889,
+    "polar": "単一指向性 (カーディオイド)",
+    "connection": "XLR",
+    "type": "ダイナミックマイク",
+    "features": { "ON/OFFスイッチ": "搭載", "セット内容": "マイク3本" }
+  },
+  "B0CRV4VPQY": {
+    "name": "YETI GX",
+    "brand": "Logicool G",
+    "tagline": "Logicool G ゲーミングマイク YETI GX（G-YETI-GX-BK）。USBダイナミック・超単一指向性・RGB LIGHTSYNC",
+    "price": 27164,
+    "polar": "超単一指向性 (スーパーカーディオイド)",
+    "connection": "USB Type-C",
+    "type": "USBダイナミックマイク",
+    "features": { "RGBライティング": "LIGHTSYNC対応", "ノイズ軽減": "対応" }
+  },
+  "B09KNNL9CR": {
+    "name": "Seiren V2 Pro",
+    "brand": "Razer",
+    "tagline": "Razer Seiren V2 Pro 30mm USBダイナミックマイク。ハイパスフィルター・アナログゲインリミッター搭載",
+    "price": 18359,
+    "polar": "単一指向性 (カーディオイド)",
+    "connection": "USB Type-C",
+    "type": "USBダイナミックマイク",
+    "features": {
+      "ハイパスフィルター": "搭載",
+      "アナログゲインリミッター": "搭載",
+      "マイクモニタリング": "対応"
+    }
+  },
+  "B09N955HJJ": {
+    "name": "PGA48-XLR-J",
+    "brand": "SHURE",
+    "tagline": "SHURE ダイナミックボーカルマイク。カーディオイド・スイッチ付き・XLRケーブル付属",
+    "price": 7900,
+    "polar": "単一指向性 (カーディオイド)",
+    "connection": "XLR",
+    "features": { "ON/OFFスイッチ": "搭載" }
+  },
+  "B074HZFG3P": {
+    "name": "NW-040",
+    "brand": "NEEWER",
+    "price": 4399,
+    "polar": "単一指向性 (カーディオイド)",
+    "connection": "XLR"
+  },
+  "B0051DA4NY": {
+    "name": "PRO41",
+    "brand": "オーディオテクニカ",
+    "price": 8254,
+    "polar": "単一指向性 (カーディオイド)",
+    "connection": "XLR",
+    "features": { "ON/OFFスイッチ": "搭載" }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "B0GMJ79P2F": {
+    "name": "AIM1 瞬 MATATAKI",
+    "brand": "AIM1",
+    "tagline": "0.01mmラピッドトリガー・8000Hzポーリングの75%磁気式ゲーミングキーボード",
+    "layout": "75%",
+    "internalStructure": "磁気スイッチ（ラピッドトリガー 0.01mm）",
+    "keycaps": "—",
+    "power": "有線給電",
+    "connection": "有線 USB (8000Hz)",
+    "keyboardUsage": "gaming",
+    "hasRapidTrigger": true,
+    "keyboardFilterTags": ["tenkeyless", "kb-keycap-low-profile", "rapid-trigger"]
+  },
+  "B0DQWKSQGR": {
+    "name": "MonsGeek FUN60 Pro SP",
+    "brand": "MonsGeek",
+    "tagline": "Akko Glare磁気スイッチ・0.01mmラピッドトリガー対応60%有線モデル",
+    "layout": "60%（US配列）",
+    "internalStructure": "磁気スイッチ（Akko Glare Magnetic）",
+    "keycaps": "—",
+    "power": "有線給電",
+    "connection": "有線 USB (8000Hz)",
+    "keyboardUsage": "gaming",
+    "hasRapidTrigger": true,
+    "keyboardFilterTags": ["tenkeyless", "rapid-trigger"]
+  },
+  "B0BC135WFD": {
+    "name": "Logicool G G515 RAPID TKL",
+    "brand": "Logicool G",
+    "tagline": "磁気式アナログ・ラピッドトリガー対応の薄型テンキーレス（LIGHTSYNC RGB）",
+    "layout": "テンキーレス（JIS日本語配列）",
+    "internalStructure": "磁気式（ロープロファイル）",
+    "keycaps": "ロープロファイル",
+    "power": "有線給電",
+    "connection": "有線 USB",
+    "keyboardUsage": "gaming",
+    "hasRapidTrigger": true,
+    "keyboardFilterTags": ["tenkeyless", "kb-keycap-low-profile", "rapid-trigger"]
+  },
+  "B0FGCDSH1J": {
+    "name": "Logicool G G515 RAPID TKL",
+    "brand": "Logicool G",
+    "tagline": "磁気式アナログ・ラピッドトリガー対応の薄型テンキーレス（LIGHTSYNC RGB）",
+    "layout": "テンキーレス（JIS日本語配列）",
+    "internalStructure": "磁気式（ロープロファイル）",
+    "keycaps": "ロープロファイル",
+    "power": "有線給電",
+    "connection": "有線 USB",
+    "keyboardUsage": "gaming",
+    "hasRapidTrigger": true,
+    "keyboardFilterTags": ["tenkeyless", "kb-keycap-low-profile", "rapid-trigger"]
+  },
+  "B0HC6LVZPB": {
+    "name": "Pulsar PCMK 3HE TKL Something Edition",
+    "brand": "Pulsar",
+    "tagline": "磁気スイッチ・ラピッドトリガー・8Kポーリング対応91キーテンキーレス（JIS配列）",
+    "layout": "テンキーレス（JIS 91キー）",
+    "internalStructure": "磁気スイッチ（ラピッドトリガー）",
+    "keycaps": "—",
+    "power": "有線給電",
+    "connection": "有線 USB (8000Hz)",
+    "keyboardUsage": "gaming",
+    "hasRapidTrigger": true,
+    "keyboardFilterTags": ["tenkeyless", "rapid-trigger"]
+  },
+  "B09248N9XK": {
+    "name": "Logicool G G213r",
+    "brand": "Logicool G",
+    "tagline": "Mech-domeスイッチ・LIGHTSYNC RGB搭載フルサイズ有線ゲーミングキーボード",
+    "layout": "フルサイズ（JIS日本語配列）",
+    "internalStructure": "Mech-dome",
+    "keycaps": "ABS",
+    "power": "有線給電",
+    "connection": "有線 USB",
+    "keyboardUsage": "gaming",
+    "hasRapidTrigger": false,
+    "keyboardFilterTags": ["kb-keycap-abs"]
+  },
+  "B0GGB26MRZ": {
+    "image": "https://m.media-amazon.com/images/I/61wYHSXVG-L._AC_SL1500_.jpg"
+  }
+}

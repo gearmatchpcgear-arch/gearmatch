@@ -1,0 +1,578 @@
+{
+  "fetchedAt": "2026-08-14T01:28:45.908Z",
+  "url": "https://www.amazon.co.jp/gp/bestsellers/computers/2151977051/ref=zg_bs_pg_2_computers?ie=UTF8&pg=2",
+  "keyboards": [
+    {
+      "amazonRank": 51,
+      "asin": "B082TSZ27D",
+      "title": "PFU キーボード HHKB Professional HYBRID Type-S 日本語配列／墨",
+      "rating": 4.6,
+      "reviews": 833,
+      "price": 36850,
+      "image": "https://m.media-amazon.com/images/I/51DplchTEKL._AC_SL1500_.jpg",
+      "rank": 51
+    },
+    {
+      "amazonRank": 52,
+      "asin": "B00FIYCYCU",
+      "title": "エレコム キーボード 有線 メンブレン 1000万回高耐久 ブラック TK-FCM062BK",
+      "rating": 4.2,
+      "reviews": 1010,
+      "price": 1231,
+      "image": "https://m.media-amazon.com/images/I/61C-lB5diYL._AC_SL1500_.jpg",
+      "rank": 52
+    },
+    {
+      "amazonRank": 53,
+      "asin": "B0CKDJRHW7",
+      "title": "ロジクール WAVE KEYS K820 疲れにくい エルゴノミックキーボード Bluetooth Logi Bolt 日本語配列 ワイヤレスキーボード ワイヤレス 無線 テンキー パームレスト Windows Mac Chrome Android グラファイト 国内正規品",
+      "rating": 4.2,
+      "reviews": 225,
+      "price": 10300,
+      "image": "https://m.media-amazon.com/images/I/71tKrOo4uDL._AC_SL1500_.jpg",
+      "rank": 53
+    },
+    {
+      "amazonRank": 55,
+      "asin": "B0CSD6L32Q",
+      "title": "エレコム ワイヤレス キーボード 無線 メンブレン式 コンパクト Caps Lock機能無効化スイッチ搭載 500万回高耐久キー採用 抗菌 Windows 11/10 対応 ブラック TK-CM10DMKBK",
+      "rating": 4.2,
+      "reviews": 49,
+      "price": 2300,
+      "image": "https://m.media-amazon.com/images/I/61fAhPp4SaL._AC_SL1500_.jpg",
+      "rank": 55
+    },
+    {
+      "amazonRank": 56,
+      "asin": "B010M21V6W",
+      "title": "バッファロー キーボード 有線 USB接続 ホワイト BSKBU14WH",
+      "rating": 4,
+      "reviews": 1548,
+      "price": 1745,
+      "image": "https://m.media-amazon.com/images/I/610PPcN-tqL._AC_SL1500_.jpg",
+      "rank": 56
+    },
+    {
+      "amazonRank": 57,
+      "asin": "B0CD56D3XQ",
+      "title": "Ewin ワイヤレス キーボード bluetooth 折り畳み JIS標準日本語配列 タッチパッド搭載 ipad/iphone キーボード 三台同時切替 iOS/Android/Mac/Windows/Google対応 フルサイズ パソコン タブレット スマホ マルチペリング Type-C充電式 薄型 軽量 スタンド付き (ブラック）",
+      "rating": 4.2,
+      "reviews": 292,
+      "price": 2480,
+      "image": "https://m.media-amazon.com/images/I/513wZENlg-L._AC_SL1500_.jpg",
+      "rank": 57
+    },
+    {
+      "amazonRank": 58,
+      "asin": "B0C53QFZ98",
+      "title": "Ewin ワイヤレス キーボード bluetooth 折り畳み JIS標準日本語配列 タッチパッド搭載 ipad/iphone キーボード 三台同時切替 iOS/Android/Mac/Windows/Google対応 フルサイズ パソコン タブレット スマホ マルチペリング Type-C充電式 薄型 軽量 スタンド付き (ブラック）",
+      "rating": 4.3,
+      "reviews": 469,
+      "price": 6480,
+      "image": "https://m.media-amazon.com/images/I/61bZR2jX+nL._AC_SL1500_.jpg",
+      "rank": 58
+    },
+    {
+      "amazonRank": 59,
+      "asin": "B08ZYQHLMT",
+      "title": "Perixx(ペリックス) PERIBOARD-106MJP キーボード 有線 パフォーマンス USB フルキー テンキー付き 最大1000万回のキーストローク ヴィンテージカラー【正規保証品】JIS配列準拠 (日本語・ベージュ)",
+      "rating": 4.3,
+      "reviews": 672,
+      "price": 4999,
+      "image": "https://m.media-amazon.com/images/I/611CwpuixAL._AC_SL1500_.jpg",
+      "rank": 59
+    },
+    {
+      "amazonRank": 60,
+      "asin": "B0FPD1ZY3J",
+      "title": "iClever ワイヤレスキーボード テンキー付き フルサイズ Bluetooth・2.4GHz JIS配列 Type-C充電 DK03 白 | 薄型・軽量設計 静音 ノートPCのような快適な打鍵感 最大3台マルチペアリング",
+      "rating": 4.1,
+      "reviews": 91,
+      "price": 4799,
+      "image": "https://m.media-amazon.com/images/I/61X92bQI16L._AC_SL1500_.jpg",
+      "rank": 60
+    },
+    {
+      "amazonRank": 61,
+      "asin": "B09WDJNBT1",
+      "title": "Arteck 2.4Gワイヤレスキーボード 無線 軽量 コンパクトメディア機能 ホットキー ショートカット コンピューター、デスクトップ、PC、ラップトップ、Surface、スマートテレビ、Windows11/10/8/7との交換性あり、黒",
+      "rating": 4,
+      "reviews": 4990,
+      "price": 2599,
+      "image": "https://m.media-amazon.com/images/I/61LOPnUvBkL._AC_SL1500_.jpg",
+      "rank": 61
+    },
+    {
+      "amazonRank": 62,
+      "asin": "B0C3QZ7P2P",
+      "title": "エレコム ワイヤレスキーボード Bluetooth 子供用 パソコン学習 プログラミング KEY PALETTO キーパレット 大阪電気通信大学 兼宗進副学長監修 iPadOS iOS用 抗菌 よみがなシール付 ブラック TK-FS10BMKIBK",
+      "rating": 4.2,
+      "reviews": 104,
+      "price": 3100,
+      "image": "https://m.media-amazon.com/images/I/61vfZid5Y-L._AC_SL1500_.jpg",
+      "rank": 62
+    },
+    {
+      "amazonRank": 63,
+      "asin": "B07SDQ2ZGN",
+      "title": "ロジクール KX850CT MX MECHANICAL MINI ミニマリスト ワイヤレス メカニカル パフォーマンス キーボード 茶軸 タクタイル テンキーレス 静かな打鍵感 特に静か Logi Bolt bluetooth Unifying非対応 薄型 無線 メカニカルキーボード windows mac chrome Android ワイヤレスキーボード KX850 国内正規品 グラファイト",
+      "rating": 4.2,
+      "reviews": 721,
+      "price": 520,
+      "image": "https://m.media-amazon.com/images/I/517-JGXlTHL._AC_SL1500_.jpg",
+      "rank": 63
+    },
+    {
+      "amazonRank": 64,
+      "asin": "B0B1Q5T5TQ",
+      "title": "ロジクール KX850CT MX MECHANICAL MINI ミニマリスト ワイヤレス メカニカル パフォーマンス キーボード 茶軸 タクタイル テンキーレス 静かな打鍵感 特に静か Logi Bolt bluetooth Unifying非対応 薄型 無線 メカニカルキーボード windows mac chrome Android ワイヤレスキーボード KX850 国内正規品 グラファイト",
+      "rating": 4.2,
+      "reviews": 201,
+      "price": 13109,
+      "image": "https://m.media-amazon.com/images/I/617XT98wzkL._AC_SL1500_.jpg",
+      "rank": 64
+    },
+    {
+      "amazonRank": 65,
+      "asin": "B0B3QHNY7F",
+      "title": "REALFORCE R3S キーボード 有線 フル 45g 日本語配列 ブラック R3SA11",
+      "rating": 4.7,
+      "reviews": 139,
+      "price": 26620,
+      "image": "https://m.media-amazon.com/images/I/61cvQkW4FoL._AC_SL1500_.jpg",
+      "rank": 65
+    },
+    {
+      "amazonRank": 66,
+      "asin": "B073TSKFRX",
+      "title": "Arteck 2.4G ワイヤレスキーボード 日本語配列無線ステンレススチール 軽量 フルサイズキーボード コンピューター、デスクトップ、PC、ラップトップ、Surface、スマートテレビ、Windows10/8/7、Vista、XPとの交換性あり 充電式電池内蔵",
+      "rating": 4.3,
+      "reviews": 8622,
+      "price": 2930,
+      "image": "https://m.media-amazon.com/images/I/61sV03P3d3L._AC_SL1500_.jpg",
+      "rank": 66
+    },
+    {
+      "amazonRank": 68,
+      "asin": "B0BG4ZW7VM",
+      "title": "ロジクール KX850MSG MX MECHANICAL MINI for Mac ミニマリスト ワイヤレス メカニカル パフォーマンス キーボード US配列 茶軸 タクタイル テンキーレス 静かな打鍵感 Logi Bolt bluetooth USB-C-C 充電式 薄型 無線 メカニカルキーボード mac iPad iOS ワイヤレスキーボード KX850 スペースグレー 国内正規品",
+      "rating": 4.4,
+      "reviews": 110,
+      "price": 13109,
+      "image": "https://m.media-amazon.com/images/I/611rA+qb69L._AC_SL1500_.jpg",
+      "rank": 68
+    },
+    {
+      "amazonRank": 69,
+      "asin": "B0FNR6SLDV",
+      "title": "REALFORCE R4 キーボード ハイブリッド フル 45g 日本語配列 ブラック R4HA11",
+      "rating": 4.7,
+      "reviews": 20,
+      "price": 39820,
+      "image": "https://m.media-amazon.com/images/I/51pH1uT2xjL._AC_SL1500_.jpg",
+      "rank": 69
+    },
+    {
+      "amazonRank": 70,
+      "asin": "B0CLD5BMLS",
+      "title": "Ewin アンドロイド専用 折りたたみ式 Bluetooth5.1 キーボード 日本語配列 Android/Windows/Macに対応 タブレット/マートフォン/パソコン用 ノートPCに対応 ポータブルキーボード スタンド付",
+      "rating": 3.9,
+      "reviews": 536,
+      "price": 3344,
+      "image": "https://m.media-amazon.com/images/I/71x4U1-ZMvL._AC_SL1500_.jpg",
+      "rank": 70
+    },
+    {
+      "amazonRank": 71,
+      "asin": "B00ZQNBTQK",
+      "title": "ロジクール ワイヤレスキーボード タッチ キーボード K400pBK 国内正規品",
+      "rating": 3.9,
+      "reviews": 677,
+      "price": 5100,
+      "image": "https://m.media-amazon.com/images/I/514iRLEnfzL._AC_SL1500_.jpg",
+      "rank": 71
+    },
+    {
+      "amazonRank": 72,
+      "asin": "B0B86TRNNF",
+      "title": "ロジクール SIGNATURE K650GR ワイヤレス キーボード パームレスト 薄型 疲れにくい bluetooth Logi Bolt Unifying非対応 日本語配列 windows mac chrome Android 無線 ワイヤレスキーボード K650 グラファイト 国内正規品",
+      "rating": 3.8,
+      "reviews": 139,
+      "price": 5781,
+      "image": "https://m.media-amazon.com/images/I/61pFsBDxGrL._AC_SL1500_.jpg",
+      "rank": 72
+    },
+    {
+      "amazonRank": 73,
+      "asin": "B0FDGGXFZZ",
+      "title": "【2026年最新型】Nillkin 【公式直営店】キーボード Bluetooth 折りたたみ式 ワイヤレス ipad キーボード ipad mini 薄型 軽量 3台同時接続 テンキー＆ タッチパッド搭載 Type-C充電式 トラックパッド マルチペアリング iOS/Android/Mac/Windows対応 パンタグラフ 収納バッグ付き 日本語説明書付 グリーン",
+      "rating": 3.4,
+      "reviews": 457,
+      "price": 9499,
+      "image": "https://m.media-amazon.com/images/I/71SSV5gUe8L._AC_SL1500_.jpg",
+      "rank": 73
+    },
+    {
+      "amazonRank": 74,
+      "asin": "B0F374DNL4",
+      "title": "【最新型】Omikamo キーボード bluetooth 折り畳み式 ワイヤレス JIS標準日本語配列 ipad用キーボード スマホ マルチペアリング | ipad mini キーボード タッチパッド付き ipad/iphone キーボードiOS/Windows/Android/Mac/Google対応 無線 keyboard wireless コンパクト 軽量 薄型 パンタグラフ 充電式(ブルー)",
+      "rating": 4.3,
+      "reviews": 1156,
+      "price": 6980,
+      "image": "https://m.media-amazon.com/images/I/6192RiwAP4L._AC_SL1500_.jpg",
+      "rank": 74
+    },
+    {
+      "amazonRank": 75,
+      "asin": "B0FT89PKYC",
+      "title": "Ewin 折りたたみ Bluetoothキーボード 日本語配列 タッチパッド テンキ付き 3台切替対応 タイプc iPad タブレット iOS/Windows/Mac対応 フルサイズ EW-NKB303",
+      "rating": 4.7,
+      "reviews": 160,
+      "price": 5998,
+      "image": "https://m.media-amazon.com/images/I/61XAgHKR16L._AC_SL1500_.jpg",
+      "rank": 75
+    },
+    {
+      "amazonRank": 76,
+      "asin": "B0H3NG2P8C",
+      "title": "Ewin 折りたたみ Bluetoothキーボード 日本語配列 タッチパッド テンキ付き 3台切替対応 タイプc iPad タブレット iOS/Windows/Mac対応 フルサイズ EW-NKB303",
+      "rating": 4.6,
+      "reviews": 37,
+      "price": 7280,
+      "image": "https://m.media-amazon.com/images/I/61NDUzgcFAL._AC_SL1500_.jpg",
+      "rank": 76
+    },
+    {
+      "amazonRank": 77,
+      "asin": "B09K6YGV93",
+      "title": "ロジクール ワイヤレスキーボード K780 Bluetooth Unifying ワイヤレス 無線 キーボード windows mac Chrome iOS Android 国内正規品",
+      "rating": 4.2,
+      "reviews": 280,
+      "price": 7254,
+      "image": "https://m.media-amazon.com/images/I/71zFnFk-2vL._AC_SL1500_.jpg",
+      "rank": 77
+    },
+    {
+      "amazonRank": 78,
+      "asin": "B01H2VY13G",
+      "title": "ロジクール ワイヤレスキーボード K780 Bluetooth Unifying ワイヤレス 無線 キーボード windows mac Chrome iOS Android 国内正規品",
+      "rating": 4.2,
+      "reviews": 1996,
+      "price": 8273,
+      "image": "https://m.media-amazon.com/images/I/51yeYmaygaL._AC_SL1500_.jpg",
+      "rank": 78
+    },
+    {
+      "amazonRank": 79,
+      "asin": "B09GBC1H4Z",
+      "title": "HP ワイヤレス キーボード 英字配列 HP 230 ブラック | フルサイズ テンキー US配列 静音 薄型 最大16ヶ月のロングバッテリー Windows Mac 無線 2.4GHz USBドングル (3L1E7AA#UUF) 国内正規品",
+      "rating": 3.8,
+      "reviews": 1057,
+      "price": 2950,
+      "image": "https://m.media-amazon.com/images/I/6115ax4YVVL._AC_SL1500_.jpg",
+      "rank": 79
+    },
+    {
+      "amazonRank": 80,
+      "asin": "B0GTYMLBPF",
+      "title": "iClever ワイヤレスキーボード Bluetooth テンキー付き JIS日本語配列 2.4GHz 静音 DK20 | デュアルモード 省スペース設計 ノートPCライクな打鍵感 ワンタッチ3台切替 Type-C充電式 長時間バッテリー",
+      "rating": 4.4,
+      "reviews": 24,
+      "price": 4699,
+      "image": "https://m.media-amazon.com/images/I/61n9ZtKaUUL._AC_SL1500_.jpg",
+      "rank": 80
+    }
+  ],
+  "excluded": [
+    {
+      "amazonRank": 54,
+      "asin": "B0CX4FNR96",
+      "title": "RAPOO 9010M ワイヤレス キーボード マウス セット 無線 Bluetooth 5.0/4.0/2.4GHz 静音クリック 4台デバイス同時接続可能 バッテリー式電源 ホワイト",
+      "rating": 4.1,
+      "reviews": 1354,
+      "price": 2849,
+      "image": "https://m.media-amazon.com/images/I/61ZBl6gkefL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 67,
+      "asin": "B09VPGTVBZ",
+      "title": "Arteck 2.4G無線ワイヤレス キーボード マウス セット 軽量 薄型 Type-C 充電式 フルサイズ キーボード マウス コンピューター、デスクトップ、PC、ラップトップ、Windows 11/10/8/7との交換性あり",
+      "rating": 4.3,
+      "reviews": 731,
+      "price": 5699,
+      "image": "https://m.media-amazon.com/images/I/611+SEzvrML._AC_SL1500_.jpg"
+    }
+  ],
+  "raw": [
+    {
+      "amazonRank": 51,
+      "asin": "B082TSZ27D",
+      "title": "PFU キーボード HHKB Professional HYBRID Type-S 日本語配列／墨",
+      "rating": 4.6,
+      "reviews": 833,
+      "price": 36850,
+      "image": "https://m.media-amazon.com/images/I/51DplchTEKL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 52,
+      "asin": "B00FIYCYCU",
+      "title": "エレコム キーボード 有線 メンブレン 1000万回高耐久 ブラック TK-FCM062BK",
+      "rating": 4.2,
+      "reviews": 1010,
+      "price": 1231,
+      "image": "https://m.media-amazon.com/images/I/61C-lB5diYL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 53,
+      "asin": "B0CKDJRHW7",
+      "title": "ロジクール WAVE KEYS K820 疲れにくい エルゴノミックキーボード Bluetooth Logi Bolt 日本語配列 ワイヤレスキーボード ワイヤレス 無線 テンキー パームレスト Windows Mac Chrome Android グラファイト 国内正規品",
+      "rating": 4.2,
+      "reviews": 225,
+      "price": 10300,
+      "image": "https://m.media-amazon.com/images/I/71tKrOo4uDL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 54,
+      "asin": "B0CX4FNR96",
+      "title": "RAPOO 9010M ワイヤレス キーボード マウス セット 無線 Bluetooth 5.0/4.0/2.4GHz 静音クリック 4台デバイス同時接続可能 バッテリー式電源 ホワイト",
+      "rating": 4.1,
+      "reviews": 1354,
+      "price": 2849,
+      "image": "https://m.media-amazon.com/images/I/61ZBl6gkefL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 55,
+      "asin": "B0CSD6L32Q",
+      "title": "エレコム ワイヤレス キーボード 無線 メンブレン式 コンパクト Caps Lock機能無効化スイッチ搭載 500万回高耐久キー採用 抗菌 Windows 11/10 対応 ブラック TK-CM10DMKBK",
+      "rating": 4.2,
+      "reviews": 49,
+      "price": 2300,
+      "image": "https://m.media-amazon.com/images/I/61fAhPp4SaL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 56,
+      "asin": "B010M21V6W",
+      "title": "バッファロー キーボード 有線 USB接続 ホワイト BSKBU14WH",
+      "rating": 4,
+      "reviews": 1548,
+      "price": 1745,
+      "image": "https://m.media-amazon.com/images/I/610PPcN-tqL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 57,
+      "asin": "B0CD56D3XQ",
+      "title": "Ewin ワイヤレス キーボード bluetooth 折り畳み JIS標準日本語配列 タッチパッド搭載 ipad/iphone キーボード 三台同時切替 iOS/Android/Mac/Windows/Google対応 フルサイズ パソコン タブレット スマホ マルチペリング Type-C充電式 薄型 軽量 スタンド付き (ブラック）",
+      "rating": 4.2,
+      "reviews": 292,
+      "price": 2480,
+      "image": "https://m.media-amazon.com/images/I/513wZENlg-L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 58,
+      "asin": "B0C53QFZ98",
+      "title": "Ewin ワイヤレス キーボード bluetooth 折り畳み JIS標準日本語配列 タッチパッド搭載 ipad/iphone キーボード 三台同時切替 iOS/Android/Mac/Windows/Google対応 フルサイズ パソコン タブレット スマホ マルチペリング Type-C充電式 薄型 軽量 スタンド付き (ブラック）",
+      "rating": 4.3,
+      "reviews": 469,
+      "price": 6480,
+      "image": "https://m.media-amazon.com/images/I/61bZR2jX+nL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 59,
+      "asin": "B08ZYQHLMT",
+      "title": "Perixx(ペリックス) PERIBOARD-106MJP キーボード 有線 パフォーマンス USB フルキー テンキー付き 最大1000万回のキーストローク ヴィンテージカラー【正規保証品】JIS配列準拠 (日本語・ベージュ)",
+      "rating": 4.3,
+      "reviews": 672,
+      "price": 4999,
+      "image": "https://m.media-amazon.com/images/I/611CwpuixAL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 60,
+      "asin": "B0FPD1ZY3J",
+      "title": "iClever ワイヤレスキーボード テンキー付き フルサイズ Bluetooth・2.4GHz JIS配列 Type-C充電 DK03 白 | 薄型・軽量設計 静音 ノートPCのような快適な打鍵感 最大3台マルチペアリング",
+      "rating": 4.1,
+      "reviews": 91,
+      "price": 4799,
+      "image": "https://m.media-amazon.com/images/I/61X92bQI16L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 61,
+      "asin": "B09WDJNBT1",
+      "title": "Arteck 2.4Gワイヤレスキーボード 無線 軽量 コンパクトメディア機能 ホットキー ショートカット コンピューター、デスクトップ、PC、ラップトップ、Surface、スマートテレビ、Windows11/10/8/7との交換性あり、黒",
+      "rating": 4,
+      "reviews": 4990,
+      "price": 2599,
+      "image": "https://m.media-amazon.com/images/I/61LOPnUvBkL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 62,
+      "asin": "B0C3QZ7P2P",
+      "title": "エレコム ワイヤレスキーボード Bluetooth 子供用 パソコン学習 プログラミング KEY PALETTO キーパレット 大阪電気通信大学 兼宗進副学長監修 iPadOS iOS用 抗菌 よみがなシール付 ブラック TK-FS10BMKIBK",
+      "rating": 4.2,
+      "reviews": 104,
+      "price": 3100,
+      "image": "https://m.media-amazon.com/images/I/61vfZid5Y-L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 63,
+      "asin": "B07SDQ2ZGN",
+      "title": "ロジクール KX850CT MX MECHANICAL MINI ミニマリスト ワイヤレス メカニカル パフォーマンス キーボード 茶軸 タクタイル テンキーレス 静かな打鍵感 特に静か Logi Bolt bluetooth Unifying非対応 薄型 無線 メカニカルキーボード windows mac chrome Android ワイヤレスキーボード KX850 国内正規品 グラファイト",
+      "rating": 4.2,
+      "reviews": 721,
+      "price": 520,
+      "image": "https://m.media-amazon.com/images/I/517-JGXlTHL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 64,
+      "asin": "B0B1Q5T5TQ",
+      "title": "ロジクール KX850CT MX MECHANICAL MINI ミニマリスト ワイヤレス メカニカル パフォーマンス キーボード 茶軸 タクタイル テンキーレス 静かな打鍵感 特に静か Logi Bolt bluetooth Unifying非対応 薄型 無線 メカニカルキーボード windows mac chrome Android ワイヤレスキーボード KX850 国内正規品 グラファイト",
+      "rating": 4.2,
+      "reviews": 201,
+      "price": 13109,
+      "image": "https://m.media-amazon.com/images/I/617XT98wzkL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 65,
+      "asin": "B0B3QHNY7F",
+      "title": "REALFORCE R3S キーボード 有線 フル 45g 日本語配列 ブラック R3SA11",
+      "rating": 4.7,
+      "reviews": 139,
+      "price": 26620,
+      "image": "https://m.media-amazon.com/images/I/61cvQkW4FoL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 66,
+      "asin": "B073TSKFRX",
+      "title": "Arteck 2.4G ワイヤレスキーボード 日本語配列無線ステンレススチール 軽量 フルサイズキーボード コンピューター、デスクトップ、PC、ラップトップ、Surface、スマートテレビ、Windows10/8/7、Vista、XPとの交換性あり 充電式電池内蔵",
+      "rating": 4.3,
+      "reviews": 8622,
+      "price": 2930,
+      "image": "https://m.media-amazon.com/images/I/61sV03P3d3L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 67,
+      "asin": "B09VPGTVBZ",
+      "title": "Arteck 2.4G無線ワイヤレス キーボード マウス セット 軽量 薄型 Type-C 充電式 フルサイズ キーボード マウス コンピューター、デスクトップ、PC、ラップトップ、Windows 11/10/8/7との交換性あり",
+      "rating": 4.3,
+      "reviews": 731,
+      "price": 5699,
+      "image": "https://m.media-amazon.com/images/I/611+SEzvrML._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 68,
+      "asin": "B0BG4ZW7VM",
+      "title": "ロジクール KX850MSG MX MECHANICAL MINI for Mac ミニマリスト ワイヤレス メカニカル パフォーマンス キーボード US配列 茶軸 タクタイル テンキーレス 静かな打鍵感 Logi Bolt bluetooth USB-C-C 充電式 薄型 無線 メカニカルキーボード mac iPad iOS ワイヤレスキーボード KX850 スペースグレー 国内正規品",
+      "rating": 4.4,
+      "reviews": 110,
+      "price": 13109,
+      "image": "https://m.media-amazon.com/images/I/611rA+qb69L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 69,
+      "asin": "B0FNR6SLDV",
+      "title": "REALFORCE R4 キーボード ハイブリッド フル 45g 日本語配列 ブラック R4HA11",
+      "rating": 4.7,
+      "reviews": 20,
+      "price": 39820,
+      "image": "https://m.media-amazon.com/images/I/51pH1uT2xjL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 70,
+      "asin": "B0CLD5BMLS",
+      "title": "Ewin アンドロイド専用 折りたたみ式 Bluetooth5.1 キーボード 日本語配列 Android/Windows/Macに対応 タブレット/マートフォン/パソコン用 ノートPCに対応 ポータブルキーボード スタンド付",
+      "rating": 3.9,
+      "reviews": 536,
+      "price": 3344,
+      "image": "https://m.media-amazon.com/images/I/71x4U1-ZMvL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 71,
+      "asin": "B00ZQNBTQK",
+      "title": "ロジクール ワイヤレスキーボード タッチ キーボード K400pBK 国内正規品",
+      "rating": 3.9,
+      "reviews": 677,
+      "price": 5100,
+      "image": "https://m.media-amazon.com/images/I/514iRLEnfzL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 72,
+      "asin": "B0B86TRNNF",
+      "title": "ロジクール SIGNATURE K650GR ワイヤレス キーボード パームレスト 薄型 疲れにくい bluetooth Logi Bolt Unifying非対応 日本語配列 windows mac chrome Android 無線 ワイヤレスキーボード K650 グラファイト 国内正規品",
+      "rating": 3.8,
+      "reviews": 139,
+      "price": 5781,
+      "image": "https://m.media-amazon.com/images/I/61pFsBDxGrL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 73,
+      "asin": "B0FDGGXFZZ",
+      "title": "【2026年最新型】Nillkin 【公式直営店】キーボード Bluetooth 折りたたみ式 ワイヤレス ipad キーボード ipad mini 薄型 軽量 3台同時接続 テンキー＆ タッチパッド搭載 Type-C充電式 トラックパッド マルチペアリング iOS/Android/Mac/Windows対応 パンタグラフ 収納バッグ付き 日本語説明書付 グリーン",
+      "rating": 3.4,
+      "reviews": 457,
+      "price": 9499,
+      "image": "https://m.media-amazon.com/images/I/71SSV5gUe8L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 74,
+      "asin": "B0F374DNL4",
+      "title": "【最新型】Omikamo キーボード bluetooth 折り畳み式 ワイヤレス JIS標準日本語配列 ipad用キーボード スマホ マルチペアリング | ipad mini キーボード タッチパッド付き ipad/iphone キーボードiOS/Windows/Android/Mac/Google対応 無線 keyboard wireless コンパクト 軽量 薄型 パンタグラフ 充電式(ブルー)",
+      "rating": 4.3,
+      "reviews": 1156,
+      "price": 6980,
+      "image": "https://m.media-amazon.com/images/I/6192RiwAP4L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 75,
+      "asin": "B0FT89PKYC",
+      "title": "Ewin 折りたたみ Bluetoothキーボード 日本語配列 タッチパッド テンキ付き 3台切替対応 タイプc iPad タブレット iOS/Windows/Mac対応 フルサイズ EW-NKB303",
+      "rating": 4.7,
+      "reviews": 160,
+      "price": 5998,
+      "image": "https://m.media-amazon.com/images/I/61XAgHKR16L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 76,
+      "asin": "B0H3NG2P8C",
+      "title": "Ewin 折りたたみ Bluetoothキーボード 日本語配列 タッチパッド テンキ付き 3台切替対応 タイプc iPad タブレット iOS/Windows/Mac対応 フルサイズ EW-NKB303",
+      "rating": 4.6,
+      "reviews": 37,
+      "price": 7280,
+      "image": "https://m.media-amazon.com/images/I/61NDUzgcFAL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 77,
+      "asin": "B09K6YGV93",
+      "title": "ロジクール ワイヤレスキーボード K780 Bluetooth Unifying ワイヤレス 無線 キーボード windows mac Chrome iOS Android 国内正規品",
+      "rating": 4.2,
+      "reviews": 280,
+      "price": 7254,
+      "image": "https://m.media-amazon.com/images/I/71zFnFk-2vL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 78,
+      "asin": "B01H2VY13G",
+      "title": "ロジクール ワイヤレスキーボード K780 Bluetooth Unifying ワイヤレス 無線 キーボード windows mac Chrome iOS Android 国内正規品",
+      "rating": 4.2,
+      "reviews": 1996,
+      "price": 8273,
+      "image": "https://m.media-amazon.com/images/I/51yeYmaygaL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 79,
+      "asin": "B09GBC1H4Z",
+      "title": "HP ワイヤレス キーボード 英字配列 HP 230 ブラック | フルサイズ テンキー US配列 静音 薄型 最大16ヶ月のロングバッテリー Windows Mac 無線 2.4GHz USBドングル (3L1E7AA#UUF) 国内正規品",
+      "rating": 3.8,
+      "reviews": 1057,
+      "price": 2950,
+      "image": "https://m.media-amazon.com/images/I/6115ax4YVVL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 80,
+      "asin": "B0GTYMLBPF",
+      "title": "iClever ワイヤレスキーボード Bluetooth テンキー付き JIS日本語配列 2.4GHz 静音 DK20 | デュアルモード 省スペース設計 ノートPCライクな打鍵感 ワンタッチ3台切替 Type-C充電式 長時間バッテリー",
+      "rating": 4.4,
+      "reviews": 24,
+      "price": 4699,
+      "image": "https://m.media-amazon.com/images/I/61n9ZtKaUUL._AC_SL1500_.jpg"
+    }
+  ]
+}

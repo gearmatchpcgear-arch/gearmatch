@@ -1,0 +1,54 @@
+{
+  "checked": 273,
+  "ok": 270,
+  "noCache": 2465,
+  "sourceIssues": 3,
+  "issues": [
+    {
+      "id": "ai-rank-065",
+      "category": "audio-interface",
+      "name": "4ch ストリーミングミキサー",
+      "brand": "—",
+      "image": "https://m.media-amazon.com/images/I/61EbAMjjv5L._AC_SL1500_.jpg",
+      "asin": "B0FQNX9GGV",
+      "file": "audio-interface-bestsellers.ts",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0FQNX9GGV",
+      "amazonTitle": "オーディオミキサー ミュートボタン付き ストリーミング配信 オーディオインターフェース 4チャンネル プリアンプ XLR入力 USB接続 プラグ&amp;プレイ グランドループアイソレーター2つ付属 Chroma RGB搭載 [並行輸入品]",
+      "amazonImage": "https://m.media-amazon.com/images/I/61EbAMjjv5L._AC_SL1500_.jpg",
+      "titleOk": false,
+      "imageOk": true,
+      "cacheSource": "live"
+    },
+    {
+      "id": "mon-gift-004",
+      "category": "monitor",
+      "name": "21型 FHD モニター",
+      "brand": "IRIS OHYAMA",
+      "image": "https://m.media-amazon.com/images/I/61LPoQ97aML._AC_SL1500_.jpg",
+      "asin": "B0DX1BJ2R8",
+      "file": "monitor-most-gifted.ts",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0DX1BJ2R8",
+      "amazonTitle": "【Amazon.co.jp限定】 アイリスオーヤマ モニター 21インチ Full HD(1920×1080) 国内サポート VAパネル スピーカー内蔵 100Hz フリッカー軽減 非光沢タイプ ディスプレイ HDMI ブラック DT-IF",
+      "amazonImage": "https://m.media-amazon.com/images/I/61LPoQ97aML._AC_SL1500_.jpg",
+      "titleOk": false,
+      "imageOk": true,
+      "cacheSource": "live"
+    },
+    {
+      "id": "mon-gift-005",
+      "category": "monitor",
+      "name": "21型 FHD モニター",
+      "brand": "IRIS OHYAMA",
+      "image": "https://m.media-amazon.com/images/I/61LPoQ97aML._AC_SL1500_.jpg",
+      "asin": "B0DX1BJ2R8",
+      "file": "monitor-most-gifted.ts",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0DX1BJ2R8",
+      "amazonTitle": "【Amazon.co.jp限定】 アイリスオーヤマ モニター 21インチ Full HD(1920×1080) 国内サポート VAパネル スピーカー内蔵 100Hz フリッカー軽減 非光沢タイプ ディスプレイ HDMI ブラック DT-IF",
+      "amazonImage": "https://m.media-amazon.com/images/I/61LPoQ97aML._AC_SL1500_.jpg",
+      "titleOk": false,
+      "imageOk": true,
+      "cacheSource": "live"
+    }
+  ],
+  "generatedAt": "2026-08-16T08:42:15.705Z"
+}

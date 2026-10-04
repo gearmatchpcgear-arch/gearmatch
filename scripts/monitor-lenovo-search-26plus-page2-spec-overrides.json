@@ -1,0 +1,95 @@
+{
+  "B0DN6P5W4Z": {
+    "name": "Legion R34w-30",
+    "brand": "Lenovo",
+    "price": 257542,
+    "screenSize": "34 インチ",
+    "resolution": "3440 x 1440 (UWQHD)",
+    "panel": "VA",
+    "refreshRate": "180 Hz",
+    "responseTime": "0.5 ms (MPRT)",
+    "connection": "HDMI / DisplayPort",
+    "features": "曲面 / AMD FreeSync Premium / 高さ調整 / チルト",
+    "weight": "8.1 kg",
+    "tagline": "34\" UWQHD 曲面 180Hz"
+  },
+  "B0CN34NMJB": {
+    "name": "ThinkVision T32p-30",
+    "brand": "Lenovo",
+    "price": 135525,
+    "screenSize": "31.5 インチ",
+    "resolution": "3840 x 2160 (4K UHD)",
+    "panel": "IPS",
+    "refreshRate": "60 Hz",
+    "responseTime": "4 ms",
+    "connection": "HDMI / DisplayPort / USB Type-C",
+    "features": "高さ調整 / ピボット / スワベル",
+    "tagline": "31.5\" 4K IPS"
+  },
+  "B08JHB4XFM": {
+    "name": "ThinkVision P27H-20",
+    "brand": "Lenovo",
+    "price": 155960,
+    "screenSize": "27 インチ",
+    "resolution": "2560 x 1440 (WQHD)",
+    "panel": "IPS",
+    "refreshRate": "60 Hz",
+    "responseTime": "4 ms",
+    "connection": "HDMI / DisplayPort / USB Type-C",
+    "features": "高さ調整 / ピボット / USBハブ",
+    "tagline": "27\" WQHD IPS"
+  },
+  "B0BMFPCWTG": {
+    "name": "Legion Y27q-30",
+    "brand": "Lenovo",
+    "price": 87869,
+    "screenSize": "27 インチ",
+    "resolution": "2560 x 1440 (QHD)",
+    "panel": "IPS",
+    "refreshRate": "180 Hz",
+    "responseTime": "0.5 ms (MPRT)",
+    "connection": "HDMI / DisplayPort",
+    "features": "AMD FreeSync Premium / 高さ調整 / ピボット"
+  },
+  "B0DZFJ27LQ": {
+    "name": "Legion Pro 34WD-10",
+    "brand": "Lenovo",
+    "screenSize": "34 インチ",
+    "resolution": "3440 x 1440 (WQHD)",
+    "panel": "OLED",
+    "refreshRate": "240 Hz",
+    "responseTime": "0.03 ms (MPRT)",
+    "connection": "HDMI 2.1 / DisplayPort 1.4 / USB Type-C",
+    "features": "曲面 / AMD FreeSync Premium Pro / DisplayHDR True Black 400 / KVM"
+  },
+  "B0G72L47DS": {
+    "name": "Legion R34w-30",
+    "brand": "Lenovo",
+    "screenSize": "34 インチ",
+    "resolution": "3440 x 1440 (UWQHD)",
+    "panel": "VA",
+    "refreshRate": "180 Hz",
+    "connection": "HDMI / DisplayPort",
+    "features": "曲面 / AMD FreeSync Premium"
+  },
+  "B0CS6Z1QLK": {
+    "name": "ThinkVision T27hv-30",
+    "brand": "Lenovo",
+    "screenSize": "27 インチ",
+    "resolution": "2560 x 1440 (WQHD)",
+    "panel": "IPS",
+    "refreshRate": "60 Hz",
+    "connection": "HDMI / DisplayPort / USB Type-C",
+    "features": "内蔵Webカメラ / 高さ調整 / ピボット"
+  },
+  "B0B8X32QWH": {
+    "name": "ThinkVision T27h-30",
+    "brand": "Lenovo",
+    "screenSize": "27 インチ",
+    "resolution": "2560 x 1440 (QHD)",
+    "panel": "IPS",
+    "refreshRate": "60 Hz",
+    "connection": "USB Type-C / HDMI / DisplayPort",
+    "features": "USB-C給電 / 高さ調整 / ピボット"
+  }
+}

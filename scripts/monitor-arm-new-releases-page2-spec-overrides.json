@@ -1,0 +1,162 @@
+{
+  "B0GWHT3DBL": {
+    "name": "高耐荷重デュアルモニターアーム",
+    "brand": "ACCURTEK",
+    "supportedSize": "17〜35インチ",
+    "weightCapacity": "16.0kg",
+    "armType": "デュアル (2画面)",
+    "springType": "ガススプリング式",
+    "mountType": "クランプ式 & グロメット式",
+    "vesaStandard": "75×75 / 100×100 mm"
+  },
+  "B0GL7QG2WK": {
+    "name": "シングルモニターアーム",
+    "brand": "monTEK",
+    "supportedSize": "13〜32インチ",
+    "weightCapacity": "2.0〜9.0kg",
+    "armType": "シングル (1画面)",
+    "springType": "ガススプリング式",
+    "mountType": "クランプ式 & グロメット式",
+    "vesaStandard": "75×75 / 100×100 mm"
+  },
+  "B0H2YSWK5W": {
+    "name": "デュアルモニターアーム",
+    "brand": "ETHU",
+    "supportedSize": "17〜32インチ",
+    "weightCapacity": "2.0〜10.0kg",
+    "armType": "デュアル (2画面)",
+    "springType": "ガススプリング式",
+    "mountType": "クランプ式 & グロメット式",
+    "vesaStandard": "75×75 / 100×100 mm"
+  },
+  "B0GWZYZB5G": {
+    "name": "AS-MABE01",
+    "brand": "Archiss",
+    "supportedSize": "〜32インチ",
+    "weightCapacity": "2.0〜8.0kg",
+    "armType": "シングル (1画面)",
+    "springType": "ガススプリング式",
+    "mountType": "クランプ式 & グロメット式",
+    "vesaStandard": "75×75 / 100×100 mm"
+  },
+  "B0GZVMHSHM": {
+    "name": "AS-MABE01",
+    "brand": "Archiss",
+    "supportedSize": "〜32インチ",
+    "weightCapacity": "2.0〜8.0kg",
+    "armType": "シングル (1画面)",
+    "springType": "ガススプリング式",
+    "mountType": "クランプ式 & グロメット式",
+    "vesaStandard": "75×75 / 100×100 mm"
+  },
+  "B0H2RZ2TWV": {
+    "name": "高耐荷重シングルモニターアーム",
+    "brand": "ACCURTEK",
+    "supportedSize": "17〜49インチ",
+    "weightCapacity": "16.0kg",
+    "armType": "シングル (1画面)",
+    "springType": "ガススプリング式",
+    "mountType": "クランプ式 & グロメット式",
+    "vesaStandard": "75×75 / 100×100 mm"
+  },
+  "B0GWHW1KYN": {
+    "name": "高耐荷重シングルモニターアーム",
+    "brand": "ACCURTEK",
+    "supportedSize": "17〜49インチ",
+    "weightCapacity": "16.0kg",
+    "armType": "シングル (1画面)",
+    "springType": "ガススプリング式",
+    "mountType": "クランプ式 & グロメット式",
+    "vesaStandard": "75×75 / 100×100 mm"
+  },
+  "B0H2D1G1KX": {
+    "name": "壁掛けモニターアーム",
+    "brand": "Hemudu",
+    "supportedSize": "17〜32インチ",
+    "weightCapacity": "2.0〜10.0kg",
+    "armType": "シングル (1画面)",
+    "springType": "—",
+    "mountType": "壁面取付",
+    "vesaStandard": "75×75 / 100×100 mm"
+  },
+  "B0HBJBV6Q6": {
+    "name": "デュアルモニターアーム",
+    "brand": "WORLDLIFT",
+    "supportedSize": "17〜49インチ",
+    "weightCapacity": "16.0kg",
+    "armType": "デュアル (2画面)",
+    "springType": "ガススプリング式",
+    "mountType": "クランプ式 & グロメット式",
+    "vesaStandard": "75×75 / 100×100 mm"
+  },
+  "B0GYP6FS7N": {
+    "name": "デュアルモニターアーム",
+    "brand": "WORLDLIFT",
+    "supportedSize": "17〜49インチ",
+    "weightCapacity": "16.0kg",
+    "armType": "デュアル (2画面)",
+    "springType": "ガススプリング式",
+    "mountType": "クランプ式 & グロメット式",
+    "vesaStandard": "75×75 / 100×100 mm"
+  },
+  "B0GWMM8F4H": {
+    "name": "デュアルモニターアーム",
+    "brand": "Rfiver",
+    "supportedSize": "13〜34インチ",
+    "weightCapacity": "2.0〜10.0kg",
+    "armType": "デュアル (2画面)",
+    "springType": "ガススプリング式",
+    "mountType": "クランプ式 & グロメット式",
+    "vesaStandard": "75×75 / 100×100 mm"
+  },
+  "B0H151CBG2": {
+    "name": "デュアルモニターアーム",
+    "brand": "Rfiver",
+    "supportedSize": "13〜34インチ",
+    "weightCapacity": "2.0〜10.0kg",
+    "armType": "デュアル (2画面)",
+    "springType": "ガススプリング式",
+    "mountType": "クランプ式 & グロメット式",
+    "vesaStandard": "75×75 / 100×100 mm"
+  },
+  "B0GXVDDFN3": {
+    "name": "ポール式シングルモニターアーム",
+    "brand": "PEGZONE",
+    "supportedSize": "17〜49インチ",
+    "weightCapacity": "2.0〜20.0kg",
+    "armType": "シングル (1画面)",
+    "springType": "ガススプリング式",
+    "mountType": "クランプ式 & グロメット式",
+    "vesaStandard": "75×75 / 100×100 mm"
+  },
+  "B0H74Z2P2F": {
+    "name": "PCモニターアーム シングル",
+    "brand": "—",
+    "supportedSize": "17〜32インチ",
+    "weightCapacity": "2.0〜9.0kg",
+    "armType": "シングル (1画面)",
+    "springType": "ガススプリング式",
+    "mountType": "クランプ式 & グロメット式",
+    "vesaStandard": "75×75 / 100×100 mm"
+  },
+  "B0GZD3DX6M": {
+    "name": "MDX003DB",
+    "brand": "Bracwiser",
+    "supportedSize": "13〜32インチ",
+    "weightCapacity": "10.0kg",
+    "armType": "シングル (1画面)",
+    "springType": "—",
+    "mountType": "ポール取付",
+    "vesaStandard": "75×75 / 100×100 mm"
+  },
+  "B0H75CP6J5": {
+    "name": "PCモニターアーム シングル",
+    "brand": "—",
+    "supportedSize": "17〜32インチ",
+    "weightCapacity": "2.0〜9.0kg",
+    "armType": "シングル (1画面)",
+    "springType": "ガススプリング式",
+    "mountType": "クランプ式 & グロメット式",
+    "vesaStandard": "75×75 / 100×100 mm"
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "fetchedAt": "2026-08-14T04:06:09.090Z",
+  "microphones": [
+    {
+      "amazonRank": 1,
+      "asin": "B0CF23FR3T",
+      "title": "FIFINE USB/XLRダイナミックマイク 単一指向性 PC/PS4/PS5対応 アーム付き ゲーミング/配信用 黒 AM8T | 接続簡単 音声モニター/ワンタッチ式ミュート/デュアル音量調節機能搭載 USBケーブル付き(Type-Cアタブターあり) パソコン/XLR機器適用 録音用/会議用/卓上用のおすすめマイク",
+      "rating": 4.4,
+      "reviews": 135,
+      "price": 10799,
+      "image": "https://m.media-amazon.com/images/I/71Kpw41yVTL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 2,
+      "asin": "B0D4Z8LWXC",
+      "title": "COMICA USBコンデンサーマイク ゲーミングマイクアーム付き単一指向性 RGB光りワンタッチミュートweb会議ライブ配信 EJoy Uni(白) | ノイズ軽減 PCマイクセット テレワーク ポットキャスト ストリーミング ゲーム実況 Skype Discord Zoom Windows/Mac/PS4/PS5/iPhone/iPad対応",
+      "rating": 4.2,
+      "reviews": 380,
+      "price": 6599,
+      "image": "https://m.media-amazon.com/images/I/61M6ZFyoWBL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 3,
+      "asin": "B09TN7QJ7Y",
+      "title": "FIFINE USB ゲーミングマイク コンデンサー式 単一指向性 アーム付き PC/PS4/PS5対応 ゲーム実況/レコーディング用 黒 A6T",
+      "rating": 4.3,
+      "reviews": 791,
+      "price": 7999,
+      "image": "https://m.media-amazon.com/images/I/71M5zSSCxsL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 4,
+      "asin": "B086QVF3B9",
+      "title": "Poly (Plantronics) Sync 20+ スピーカーフォン USB-C/Bluetooth対応 Bluetoothドングル付属モデル 会議用 PC/Mac/スマートフォン対応 Teams/Zoom対応 簡易パッケージ",
+      "rating": 3.8,
+      "reviews": 214,
+      "price": 24555,
+      "image": "https://m.media-amazon.com/images/I/41Fo34x+7UL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 5,
+      "asin": "B09BZH9J4Q",
+      "title": "Poly (Plantronics) Sync 20+ スピーカーフォン USB-C/Bluetooth対応 Bluetoothドングル付属モデル 会議用 PC/Mac/スマートフォン対応 Teams/Zoom対応 簡易パッケージ",
+      "rating": 4.2,
+      "reviews": 5,
+      "price": 24555,
+      "image": "https://m.media-amazon.com/images/I/81KbsRBVrFL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 6,
+      "asin": "B097TF2TYX",
+      "title": "SP300 スピーカーフォン Bluetooth対応 マイクスピーカー 会議用スピーカーマイク PCマイク 全指向性マイク 双方向通話 オンライン会議/ウェブ会議/在宅勤務/テレワーク/オンライン教育 Zoom/Skype/Teams/Google meet通話アプリ対応 法人・個人向け会議用システム シルバー",
+      "rating": 3.5,
+      "reviews": 40,
+      "price": 6799,
+      "image": "https://m.media-amazon.com/images/I/71gN6838AAS._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 7,
+      "asin": "B0FLKJ7FH7",
+      "title": "HyperX SoloCast 2 コンデンサーマイク 内蔵ショックマウント ゲーム実況 USBマイク ブラック 日本正規代理店品 AR0A0AA | ポップフィルター,テレワーク,ストリーマー,コンテンツクリエーター,ゲームプレイヤー向け,PC,Mac,PS4,PS5対応,メーカー保証2年間,カーディオイド（単一指向性）,タップでミュート,振動ノイズを抑制",
+      "rating": 4.4,
+      "reviews": 2430,
+      "price": 8982,
+      "image": "https://m.media-amazon.com/images/I/71jznpAUWgL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 8,
+      "asin": "B097PDS4Y4",
+      "title": "エレコム PCマイク スタンドマイク USB フレキシブルアーム ミュートボタン付き LED搭載 ブラック HS-MC07UBK",
+      "rating": 3.4,
+      "reviews": 102,
+      "price": 1027,
+      "image": "https://m.media-amazon.com/images/I/519Xb0yLM5S._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 9,
+      "asin": "B0822PMBTZ",
+      "title": "Logicool G Blue Yeti ゲーミングマイク BM400BK USB コンデンサーマイク ゲーミング 実況 ストリーミング 配信 マイク ブラックアウト ブラック 黒 PC Mac PS5 PS4 国内正規品",
+      "rating": 4.4,
+      "reviews": 1412,
+      "price": 22418,
+      "image": "https://m.media-amazon.com/images/I/61G00A6mxTL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 10,
+      "asin": "B001GNZROE",
+      "title": "iBUFFALO マイクロフォン USB音源 ブラック BSHSM05BK",
+      "rating": 3.6,
+      "reviews": 279,
+      "price": 4180,
+      "image": "https://m.media-amazon.com/images/I/41ou4z7km5L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 11,
+      "asin": "B09Y1M3BZJ",
+      "title": "HyperX QuadCast2 コンデンサーマイク USBマイク ゲーム実況 テレワーク ライブ配信 フロスト 日本正規代理店品 AN1D9AA | アンバサダー愛用,ストリーマー,コンテンツクリエーター,ゲーマー向け,PC,Mac,2年間のメーカー保証,24bit/96KHzのスタジオレベルの音質,LEDステータスインジケーター",
+      "rating": 4.4,
+      "reviews": 270,
+      "price": 22800,
+      "image": "https://m.media-amazon.com/images/I/71gKj82hAbL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 12,
+      "asin": "B0DXW278KB",
+      "title": "HyperX QuadCast2 コンデンサーマイク USBマイク ゲーム実況 テレワーク ライブ配信 フロスト 日本正規代理店品 AN1D9AA | アンバサダー愛用,ストリーマー,コンテンツクリエーター,ゲーマー向け,PC,Mac,2年間のメーカー保証,24bit/96KHzのスタジオレベルの音質,LEDステータスインジケーター",
+      "rating": 4.6,
+      "reviews": 1219,
+      "price": 22800,
+      "image": "https://m.media-amazon.com/images/I/51x+qqX44-L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 13,
+      "asin": "B0G39C97WQ",
+      "title": "DJI Mic Mini 2（2 TX + 1 スタンダードRX + 充電ケース） | iPhone 17/16/15＆Android／カメラ／タブレット／PC用ワイヤレスマイク 48時間駆動 400 m伝送 多色Magカバー",
+      "rating": 4.6,
+      "reviews": 524,
+      "price": 14520,
+      "image": "https://m.media-amazon.com/images/I/61xDA0eTDQL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 14,
+      "asin": "B0029U1VOI",
+      "title": "e-Better PCマイク USB マイクベース ミュート機能 全指向性360° 3.5mm 白 MO-MIC04L-W | e-Better PCマイク USB マイクベース ミュート機能 全指向性360° 3.5mm 白 MO-MIC04L-W",
+      "rating": 3.4,
+      "reviews": 29,
+      "price": 1480,
+      "image": "https://m.media-amazon.com/images/I/51nDmA6AMeL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 15,
+      "asin": "B0BXWKW4N2",
+      "title": "e-Better PCマイク USB マイクベース ミュート機能 全指向性360° 3.5mm 白 MO-MIC04L-W | e-Better PCマイク USB マイクベース ミュート機能 全指向性360° 3.5mm 白 MO-MIC04L-W",
+      "rating": 3.4,
+      "reviews": 4,
+      "price": 1480,
+      "image": "https://m.media-amazon.com/images/I/51iLeNrtIPL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 16,
+      "asin": "B09QX6FX3Q",
+      "title": "ヤマハ(YAMAHA) ユニファイドコミュニケーションマイクスピーカーシステム(有線モデル) YVC-331 ブラック",
+      "rating": 4.3,
+      "reviews": 60,
+      "price": 50607,
+      "image": "https://m.media-amazon.com/images/I/61zUlkXeMkL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 17,
+      "asin": "B07VBCGHFT",
+      "title": "Razer Seiren X USB コンデンサーマイク ストリーミング 実況 配信 Quartz Pink ピンク 単一指向性 PC Windows10 PS5 PS4【日本正規代理店保証品】 RZ19-02290300-R3M1",
+      "rating": 4.1,
+      "reviews": 812,
+      "price": 2710,
+      "image": "https://m.media-amazon.com/images/I/61-vVMItbAL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 18,
+      "asin": "B0GJZ1TCQP",
+      "title": "MAONO USB コンデンサーマイク ゲーミングマイク PC マイク 専用ソフトウェア RGBライティング ヘッドホン出力端子あり 単一指向性 プラグ＆プレイ YouTube Skype ゲーム実況 ライブ配信 在宅勤務 Windows/Mac/PS4/PS5対応(DM30 RGB)",
+      "rating": 4.7,
+      "reviews": 241,
+      "price": 2710,
+      "image": "https://m.media-amazon.com/images/I/71sJ4kr1KQL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 19,
+      "asin": "B0BYZFL8RJ",
+      "title": "MAONO USB コンデンサーマイク ゲーミングマイク PC マイク 専用ソフトウェア RGBライティング ヘッドホン出力端子あり 単一指向性 プラグ＆プレイ YouTube Skype ゲーム実況 ライブ配信 在宅勤務 Windows/Mac/PS4/PS5対応(DM30 RGB)",
+      "rating": 4.3,
+      "reviews": 827,
+      "price": 8499,
+      "image": "https://m.media-amazon.com/images/I/61ZSs0HzAiL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 20,
+      "asin": "B076SBDJH2",
+      "title": "SEIKO セイコー ピックアップマイク ブラック STM30BK",
+      "rating": 3.8,
+      "reviews": 245,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/71Fb-9Llo7L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 21,
+      "asin": "B0932MGBY8",
+      "title": "SEIKO セイコー ピックアップマイク ブラック STM30BK",
+      "rating": 3.8,
+      "reviews": 34,
+      "price": 2202,
+      "image": "https://m.media-amazon.com/images/I/61xjM3ZcBVL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 22,
+      "asin": "B0DW8VNQHC",
+      "title": "SEIKO セイコー ピックアップマイク ブラック STM30BK",
+      "rating": 4.4,
+      "reviews": 23,
+      "price": 2202,
+      "image": "https://m.media-amazon.com/images/I/51jE+KJDhpL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 23,
+      "asin": "B08Z3FNHLT",
+      "title": "サンワサプライ(Sanwa Supply) PCフラット型マイク MM-MCF02BK",
+      "rating": 3.2,
+      "reviews": 28,
+      "price": 1482,
+      "image": "https://m.media-amazon.com/images/I/71QxjZBPcDL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 24,
+      "asin": "B0CWGTBPSB",
+      "title": "Razer レイザー Seiren V3 Chroma コンデンサーマイク マルチファンクション タップ式ミュートセンサー ゲーミングマイク USB マイク 配信 セイレン ブイスリー クローマ 【日本正規代理店保証品】",
+      "rating": 4.3,
+      "reviews": 63,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/71CnqjberCL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 25,
+      "asin": "B06XX2N987",
+      "title": "MAONO XLR/USB ゲーミングマイク ノイズキャンセリング PCマイク ポッドキャスト ストリーミング用 ダイナミックマイク ミュートボタン 単一指向性 YouTube 録音 ボイスチャット ライブ配信 ゲーム実況に PD100X ブランク",
+      "rating": 4.4,
+      "reviews": 442,
+      "price": 6944,
+      "image": "https://m.media-amazon.com/images/I/71YgNUKn-VL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 26,
+      "asin": "B0DP54XTCG",
+      "title": "MAONO XLR/USB ゲーミングマイク ノイズキャンセリング PCマイク ポッドキャスト ストリーミング用 ダイナミックマイク ミュートボタン 単一指向性 YouTube 録音 ボイスチャット ライブ配信 ゲーム実況に PD100X ブランク",
+      "rating": 4.4,
+      "reviews": 2210,
+      "price": 6944,
+      "image": "https://m.media-amazon.com/images/I/61VscaoyfML._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 27,
+      "asin": "B09Y155R6Z",
+      "title": "AIRHUG 会議用スピーカーマイク（Bluetooth & USB接続対応） | 360°全方位集音、高度なノイズリダクション機能、USB-Cプラグ＆プレイ対応、ZoomおよびMicrosoft Teams対応",
+      "rating": 4,
+      "reviews": 1951,
+      "price": 5999,
+      "image": "https://m.media-amazon.com/images/I/81QsFFm+-xL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 28,
+      "asin": "B00T5ANN00",
+      "title": "audio-technica USBコンデンサーマイク 在宅勤務/録音/動画配信/ポッドキャスト AT9933USB",
+      "rating": 4.2,
+      "reviews": 169,
+      "price": 2700,
+      "image": "https://m.media-amazon.com/images/I/51Pi6apbIML._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 29,
+      "asin": "B01HGGWB7K",
+      "title": "エレコム コンデンサーマイク 3.5mm接続 パソコンマイク クリップ付 1.6m HS-MC06BK",
+      "rating": 3.9,
+      "reviews": 375,
+      "price": 608,
+      "image": "https://m.media-amazon.com/images/I/51YJ2NWCPiL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 30,
+      "asin": "B0B6FTQTS8",
+      "title": "FIFINE USBコンデンサーマイク 単一指向性 全段式グースネック 卓上用/会議用/パソコン用 適格請求書発行可 K054 | 音量調節可能 ミュートボダン付き オンライン会議 ライブ配信 ゲーム実況 テレワーク PC/PS4/PS5/に対応",
+      "rating": 4.3,
+      "reviews": 127,
+      "price": 4099,
+      "image": "https://m.media-amazon.com/images/I/61y1+d8gYZL._AC_SL1500_.jpg"
+    }
+  ]
+}

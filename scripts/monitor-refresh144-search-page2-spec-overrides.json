@@ -1,0 +1,139 @@
+{
+  "B0DXDW1CJG": {
+    "name": "25G2S",
+    "brand": "INNOCN",
+    "screenSize": "24.5 インチ",
+    "resolution": "2560 x 1440 (WQHD)",
+    "panel": "IPS",
+    "refreshRate": "240 Hz",
+    "responseTime": "—",
+    "connection": "HDMI 2.1 x 2 / DisplayPort 1.4 x 2",
+    "features": "チルト調整 / VESA対応 / 非光沢 / Adaptive Sync"
+  },
+  "B0H4LY1F1Q": {
+    "name": "23.8インチ WQHD 240Hz",
+    "brand": "KTC",
+    "screenSize": "23.8 インチ",
+    "resolution": "2560 x 1440 (WQHD)",
+    "panel": "Fast IPS",
+    "refreshRate": "240 Hz (260 Hz OC)",
+    "responseTime": "1 ms (MPRT)",
+    "connection": "HDMI 2.0 x 2 / DisplayPort 1.4 x 2",
+    "features": "回転 / 遮光フード / Adaptive Sync / sRGB 99%"
+  },
+  "B0GJSFGF54": {
+    "name": "MAG 255F X24",
+    "brand": "MSI",
+    "screenSize": "24.5 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "panel": "RAPID IPS",
+    "refreshRate": "240 Hz",
+    "responseTime": "0.5 ms (GtG)",
+    "connection": "HDMI 2.0b / DisplayPort 1.2a",
+    "features": "HDR / Adaptive-Sync / VESA100"
+  },
+  "B0DRC23SSG": {
+    "name": "24インチ 120Hz FHD IPS",
+    "brand": "FeuVision",
+    "screenSize": "24 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "panel": "IPS",
+    "refreshRate": "120 Hz",
+    "responseTime": "—",
+    "connection": "HDMI / DisplayPort",
+    "features": "3面超狭ベゼル / 非光沢 / ブルーライト低減 / sRGB 99% / Adaptive Sync / VESA"
+  },
+  "B0GLNJ1X86": {
+    "name": "PX249 Wave",
+    "brand": "Pixio",
+    "screenSize": "23.8 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "panel": "Fast IPS",
+    "refreshRate": "240 Hz",
+    "responseTime": "1 ms (GtG)",
+    "connection": "HDMI / DisplayPort",
+    "features": "HDR / FreeSync / シャンパンゴールド"
+  },
+  "B0F2HRQT3X": {
+    "name": "24インチ FHD 240Hz IPS",
+    "brand": "FeuVision",
+    "screenSize": "24 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "panel": "IPS",
+    "refreshRate": "240 Hz",
+    "responseTime": "1 ms",
+    "connection": "HDMI / DisplayPort",
+    "features": "Adaptive Sync / 3面超狭ベゼル / sRGB 99% / ブルーライトカット"
+  },
+  "B0F4X5M6CV": {
+    "name": "JN-i245G144F",
+    "brand": "JAPANNEXT",
+    "screenSize": "24.5 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "panel": "IPS",
+    "refreshRate": "144 Hz",
+    "responseTime": "1 ms (MPRT)",
+    "connection": "HDMI / DisplayPort",
+    "features": "HDR / sRGB 99% / ブルーライトカット / VESA対応"
+  },
+  "B0F7XG3551": {
+    "name": "JN-IPS245G144F",
+    "brand": "JAPANNEXT",
+    "screenSize": "24.5 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "panel": "IPS",
+    "refreshRate": "144 Hz",
+    "responseTime": "1 ms",
+    "connection": "HDMI / DisplayPort",
+    "features": "VESA対応 / ブルーライトカット"
+  },
+  "B094VJT99S": {
+    "name": "GigaCrysta 23.8インチ",
+    "brand": "I-O DATA",
+    "price": 26800,
+    "screenSize": "23.8 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "panel": "ADS (AH-IPS系)",
+    "refreshRate": "165 Hz",
+    "responseTime": "1 ms",
+    "connection": "HDMI x 3 / DisplayPort",
+    "features": "AMD FreeSync / スピーカー / 高さ調整 / スイーベル / 3年保証"
+  },
+  "B0F29CKQ6H": {
+    "name": "27G2S",
+    "brand": "INNOCN",
+    "screenSize": "24.5 インチ",
+    "resolution": "2560 x 1440 (WQHD)",
+    "panel": "QD-MiniLED / IPS",
+    "refreshRate": "240 Hz",
+    "responseTime": "—",
+    "connection": "HDMI 2.1 / DisplayPort 1.4",
+    "features": "HDR1000 / 高さ調整 / スピーカー / 光センサー"
+  },
+  "B0GVDCH1DD": {
+    "name": "24B2U3601/11",
+    "brand": "Philips",
+    "screenSize": "23.8 インチ",
+    "resolution": "2560 x 1440 (WQHD)",
+    "panel": "IPS",
+    "refreshRate": "120 Hz",
+    "responseTime": "1 ms",
+    "connection": "HDMI / DisplayPort / USB Type-C (PD90W)",
+    "features": "高さ調整 / デイジーチェーン / RJ45 / Adaptive Sync"
+  },
+  "B0H7121BZ6": {
+    "name": "PRO MP241 E14V",
+    "brand": "MSI",
+    "screenSize": "23.8 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "panel": "VA",
+    "refreshRate": "144 Hz",
+    "responseTime": "1 ms",
+    "connection": "HDMI 2.0 / DisplayPort 1.2a",
+    "features": "AMD FreeSync / VESA100"
+  },
+  "B0813TDWJB": { "price": 28980 },
+  "B0FSBYTJ28": { "price": 12500 },
+  "B07LH1ZDSL": { "price": 12580 },
+  "B0B1D216VX": { "price": 13980 }
+}

@@ -1,0 +1,31 @@
+/**
+ * Amazon.co.jp オーディオIF検索 6ページ目 (featured-rank, 4星以上, 新品)
+ * https://www.amazon.co.jp/s?i=mi&rh=n%3A2130084051%2Cp_72%3A2130138051%2Cp_n_condition-type%3A2226151051&s=featured-rank&dc&page=6
+ * ブラウザ抽出: 2026-08-15
+ */
+export const AUDIO_INTERFACE_SEARCH_PAGE6_CATALOG = [
+  {"searchRank":1,"asin":"B0CL9FYL6R","title":"Tourmate Hard Case Replacement for Elgato Stream Deck + Audio Mixer Case Only","rating":5,"reviews":8,"price":16419,"image":"https://m.media-amazon.com/images/I/71Bv-TufdvL._AC_SL1500_.jpg"},
+  {"searchRank":2,"asin":"B0FMPVRVS4","title":"AT-UMX3 AT2020 Distribution Set Arm Stand Pop Guard","rating":5,"reviews":1,"price":33000,"image":"https://m.media-amazon.com/images/I/61ZDGFZ3bpL._AC_SL1500_.jpg"},
+  {"searchRank":3,"asin":"B07Z6GWZPV","title":"IK Multimedia iRig Stream 2 Channel Recording & Live Streaming Audio Interface For iPhone, iPad, Android, Mac/PC","rating":4.2,"reviews":2,"price":23986,"image":"https://m.media-amazon.com/images/I/51T35raCqjL._AC_SL1500_.jpg"},
+  {"searchRank":4,"asin":"B0BRL27ZYJ","title":"Maker hart MixMate 4チャンネルミュージックオーディオミキサー","rating":5,"reviews":2,"price":6500,"image":"https://m.media-amazon.com/images/I/71cJtTklmWL._AC_SL1500_.jpg"},
+  {"searchRank":5,"asin":"B091M9469Y","title":"iConnectivity mioXC 1 in 1 Out USB-C Support MIDI Interface Eye Connectivity","rating":5,"reviews":1,"price":8000,"image":"https://m.media-amazon.com/images/I/51bYPA-lB+S._AC_SL1500_.jpg"},
+  {"searchRank":6,"asin":"B0BCFHCHY2","title":"UNIVERSAL AUDIO Volt 476P USB Audio Interface Volt Series","rating":4,"reviews":2,"price":70400,"image":"https://m.media-amazon.com/images/I/512DnkMUoWL._AC_SL1500_.jpg"},
+  {"searchRank":7,"asin":"B0D8P7SXYJ","title":"Ueteto Guitar Audio Interface | Portable Built-in Recording Sound Card Live Streaming Compatible with iPhone, iPad and Android, No Driver Required","rating":4.2,"reviews":418,"price":4930,"image":"https://m.media-amazon.com/images/I/61EM1cTJEYL._AC_SL1500_.jpg"},
+  {"searchRank":8,"asin":"B00OXPOC6Q","title":"LEWITT LCT 40 M2 コンデンサーマイク XLR レコーディング","rating":4.4,"reviews":3,"price":5170,"image":"https://m.media-amazon.com/images/I/71s1+TVtKdL._AC_SL1500_.jpg"},
+  {"searchRank":9,"asin":"B07JKNG4NV","title":"Tc Helicon GO XLR Internet Distribution Multi Effects Audio Interface","rating":4.5,"reviews":4,"price":59800,"image":"https://m.media-amazon.com/images/I/71VzlHx1EBL._AC_SL1500_.jpg"},
+  {"searchRank":10,"asin":"B01N9QNWRY","title":"MACKIE Level Control & Sound Source/Monitor Speaker Controller + USB Interface Big Knob Studio","rating":4,"reviews":155,"price":35800,"image":"https://m.media-amazon.com/images/I/71pxx1mOWlL._AC_SL1500_.jpg"},
+  {"searchRank":11,"asin":"B0GGYXY67H","title":"Elgato Wave XLR MK.2 - USB Audio Interface and DSP Mixer for XLR Microphones","rating":4.5,"reviews":124,"price":35000,"image":"https://m.media-amazon.com/images/I/51Id1KNebzL._AC_SL1500_.jpg"},
+  {"searchRank":12,"asin":"B0B79FXP2J","title":"co2CREA Storage Case Compatible for Zoom AMS-24/AMS-44 Audio Interface (Case Only)","rating":4.2,"reviews":27,"price":2299,"image":"https://m.media-amazon.com/images/I/71wPUh+P5XL._AC_SL1500_.jpg"},
+  {"searchRank":13,"asin":"B09XQPW2DN","title":"YAMAHA / AG06MK2 WHITE AT2020 for iPhone Users Distributed/DTM Set","rating":4.7,"reviews":5,"price":48800,"image":"https://m.media-amazon.com/images/I/61cegs8dsCL._AC_SL1500_.jpg"},
+  {"searchRank":14,"asin":"B0DRDHV9KD","title":"Fender Audio Interface for Electric Guitar & Bass Link I/O | USB connection provides hands-free two-way audio","rating":4,"reviews":164,"price":15844,"image":"https://m.media-amazon.com/images/I/81Be-0uMQPL._AC_SL1500_.jpg"},
+  {"searchRank":15,"asin":"B08C6TN89G","title":"PreSonus Studio 24c 2x2 USB Type-C Audio/MIDI Interface with Studio One Artist Software Kit, Condenser Microphone Shock Cloak and XLR Cable","rating":4.4,"reviews":120,"price":49763,"image":"https://m.media-amazon.com/images/I/81BuDZvF8bL._AC_SL1500_.jpg"},
+  {"searchRank":16,"asin":"B0DKNPFVZY","title":"UNIVERSAL AUDIO Apollo Twin X DUO | Gen 2 with UAD Analog Classics Pro Apollo Desktop","rating":5,"reviews":1,"price":206041,"image":"https://m.media-amazon.com/images/I/51eJVpDEzxL._AC_SL1500_.jpg"},
+  {"searchRank":17,"asin":"B07QNZ3XT3","title":"Focusrite Scarlett 2i2 Studio 3rd Gen 3 Audio Interface 2IN/2OUT Focus Light","rating":4.7,"reviews":2,"price":74704,"image":"https://m.media-amazon.com/images/I/71xwKzj4MnL._AC_SL1500_.jpg"},
+  {"searchRank":18,"asin":"B0FTLWBDM8","title":"Yamaha URX44C USB 3.1 Audio Interface, 32bit/192kHz, 6 in/4 out, Music Production, Recording, Distribution, Loopback Function","rating":5,"reviews":1,"price":50000,"image":"https://m.media-amazon.com/images/I/61azBfBQ5EL._AC_SL1500_.jpg"},
+  {"searchRank":19,"asin":"B084QTLLR2","title":"IK Multimedia iRig Pro Duo I/O iRig Series 3.0 x 5.0 x 1.5 inches","rating":4.1,"reviews":29,"price":44000,"image":"https://m.media-amazon.com/images/I/7117AQ2nqhL._AC_SL1500_.jpg"},
+  {"searchRank":20,"asin":"B08XQ2RZ2Z","title":"Storage Case Compatible Yamaha Webcasting Mixer Audio Interface Compatible AG03/AG03MK2/AG06mk2/AG06 (Black)","rating":4.3,"reviews":24,"price":3599,"image":"https://m.media-amazon.com/images/I/7135OYYtcPL._AC_SL1500_.jpg"},
+  {"searchRank":21,"asin":"B0CRWGLGQ3","title":"Steinberg IXO22 2x2 USB 2.0 24-Bit/192kHz Audio Interface with Cubase AI, Cubasis LE, Steinberg Plus Software","rating":4.9,"reviews":9,"price":null,"image":"https://m.media-amazon.com/images/I/71NZlsou9VL._AC_SL1500_.jpg"},
+  {"searchRank":22,"asin":"B09RQ2HXVM","title":"Roland Aero Caster VRC-01 delivers authentic recording and live distribution on your iPad","rating":4.4,"reviews":32,"price":22999,"image":"https://m.media-amazon.com/images/I/61WpZdD8-tL._AC_SL1500_.jpg"},
+  {"searchRank":23,"asin":"B09JZ1N321","title":"IK Multimedia iRig Stream Pro iRig Series 4.8 x 2.6 x 1.6 inches","rating":5,"reviews":1,"price":38500,"image":"https://m.media-amazon.com/images/I/61XR0D14CgL._AC_SL1500_.jpg"},
+  {"searchRank":24,"asin":"B00O9RY664","title":"OPEN DMX USB 70303 PC-DMX interface","rating":4.3,"reviews":471,"price":15243,"image":"https://m.media-amazon.com/images/I/51ZiLJkfT0L._AC_SL1500_.jpg"},
+]

@@ -1,0 +1,525 @@
+{
+  "missing": [
+    {
+      "file": "gaming-chair-new-releases.ts",
+      "asin": "B0H94SDWK5",
+      "id": "chair-nr-001",
+      "name": "オットマン付き PUレザー 腰枕付き 140°リクライニング 座高60-70CM",
+      "brand": "—",
+      "inferred": "—"
+    },
+    {
+      "file": "gaming-chair-new-releases.ts",
+      "asin": "B0H9DF72NM",
+      "id": "chair-nr-002",
+      "name": "オットマン付き PUレザー 腰枕付き 140°リクライニング 座高60-70CM",
+      "brand": "—",
+      "inferred": "—"
+    },
+    {
+      "file": "gaming-chair-search-page3.ts",
+      "asin": "B0GKYMP82J",
+      "id": "chair-sr3-099",
+      "name": "オフィスチェア デスクチェア 170度リクライニング 58cmワイド座面 人間工学設計 3Dアー",
+      "brand": "—",
+      "inferred": "—"
+    },
+    {
+      "file": "gaming-chair-search-page3.ts",
+      "asin": "B0HB411NFN",
+      "id": "chair-sr3-104",
+      "name": "ファブリック オフィスチェア デスクチェア 通気性 人間工学 145度リクライニング オットマン",
+      "brand": "—",
+      "inferred": "—"
+    },
+    {
+      "file": "gaming-chair-search-page3.ts",
+      "asin": "B0GK32X3SV",
+      "id": "chair-sr3-106",
+      "name": "座り心地最高 オフィスチェア 通気性 パソコンチェア デスクチェア リクライニング PCゲーミン",
+      "brand": "Homracer",
+      "inferred": "—"
+    },
+    {
+      "file": "gaming-chair-search-page3.ts",
+      "asin": "B0GKZZXYTT",
+      "id": "chair-sr3-108",
+      "name": "オフィスチェア デスクチェア PUレザー フルリクライニング リクライニング機能付き フットレス",
+      "brand": "MOKUTO",
+      "inferred": "—"
+    },
+    {
+      "file": "gaming-chair-search-page3.ts",
+      "asin": "B0H11G6FDD",
+      "id": "chair-sr3-111",
+      "name": "C2",
+      "brand": "—",
+      "inferred": "—"
+    },
+    {
+      "file": "gaming-chair-search-page3.ts",
+      "asin": "B0FX56R95W",
+      "id": "chair-sr3-116",
+      "name": "オフィスチェア、ゲーミングチェア、頑丈な PU ハイバックデスクチェア、人間工学に基づいたチェア",
+      "brand": "—",
+      "inferred": "—"
+    },
+    {
+      "file": "gaming-chair-search-page3.ts",
+      "asin": "B0G5Y9JLDV",
+      "id": "chair-sr3-117",
+      "name": "[Goswave] オフィスチェア デスクチェア 人間工学 メッシュ ハイバック 145度リクラ",
+      "brand": "—",
+      "inferred": "—"
+    },
+    {
+      "file": "gaming-chair-search-page3.ts",
+      "asin": "B0H8T4FJHX",
+      "id": "chair-sr3-118",
+      "name": "社長椅子 オフィスチェア デスクチェア 360°回転 高さ調整可能 肘掛け付き リクライニング ",
+      "brand": "—",
+      "inferred": "—"
+    },
+    {
+      "file": "gaming-chair-search-page3.ts",
+      "asin": "B0GY2W925X",
+      "id": "chair-sr3-119",
+      "name": "オフィスチェア 人間工学 オットマン付き PC チェア(ホワイト)",
+      "brand": "LEEKAE?LIO",
+      "inferred": "—"
+    },
+    {
+      "file": "gaming-chair-search-page3.ts",
+      "asin": "B0HDJ64ZPR",
+      "id": "chair-sr3-123",
+      "name": "人間工学ゲーミングチェア 145°リクライニング 可動アームレスト 高さ調節 フットレスト付き ",
+      "brand": "—",
+      "inferred": "—"
+    },
+    {
+      "file": "gaming-chair-search-page3.ts",
+      "asin": "B00YQW38O8",
+      "id": "chair-sr3-135",
+      "name": "タンスのゲン オフィスチェア 【床傷防止！PUキャスター】腰楽ランバーサポート メッシュ ロッキ",
+      "brand": "—",
+      "inferred": "—"
+    },
+    {
+      "file": "gaming-chair-search-page4.ts",
+      "asin": "B0H11H21JS",
+      "id": "chair-sr4-151",
+      "name": "HUANUO (ファーノー) デスクチェア オフィスチェア フルメッシュ 人間工学椅子 通気性 ",
+      "brand": "—",
+      "inferred": "—"
+    },
+    {
+      "file": "gaming-chair-search-page4.ts",
+      "asin": "B0GY2W925X",
+      "id": "chair-sr4-152",
+      "name": "オフィスチェア 人間工学 オットマン付き PC チェア(ホワイト)",
+      "brand": "LEEKAE?LIO",
+      "inferred": "—"
+    },
+    {
+      "file": "gaming-chair-search-page4.ts",
+      "asin": "B0DWDM5GHD",
+      "id": "chair-sr4-154",
+      "name": "デスクチェア 360度回転 昇降機能 リクライニングチェア 事務椅子 ブラック",
+      "brand": "—",
+      "inferred": "—"
+    },
+    {
+      "file": "gaming-chair-search-page4.ts",
+      "asin": "B0G1BQ72C5",
+      "id": "chair-sr4-156",
+      "name": "force",
+      "brand": "エア・リゾーム",
+      "inferred": "—"
+    },
+    {
+      "file": "gaming-chair-search-page4.ts",
+      "asin": "B00YQW38O8",
+      "id": "chair-sr4-164",
+      "name": "タンスのゲン オフィスチェア 【床傷防止！PUキャスター】腰楽ランバーサポート メッシュ ロッキ",
+      "brand": "—",
+      "inferred": "—"
+    },
+    {
+      "file": "gaming-chair-search-page4.ts",
+      "asin": "B0HDJ64ZPR",
+      "id": "chair-sr4-175",
+      "name": "人間工学ゲーミングチェア 145°リクライニング 可動アームレスト 高さ調節 フットレスト付き ",
+      "brand": "—",
+      "inferred": "—"
+    },
+    {
+      "file": "gaming-chair-search-page4.ts",
+      "asin": "B0GTJ3DQ7Y",
+      "id": "chair-sr4-178",
+      "name": "リクライニングソファー 手動ソファ リビング・書斎用 回転式 1人掛けソファー ゲーミングチェア",
+      "brand": "—",
+      "inferred": "—"
+    },
+    {
+      "file": "gaming-chair-search-page4.ts",
+      "asin": "B0H8SKFGP6",
+      "id": "chair-sr4-180",
+      "name": "社長椅子 オフィスチェア デスクチェア 360°回転 高さ調整可能 肘掛け付き リクライニング ",
+      "brand": "—",
+      "inferred": "—"
+    },
+    {
+      "file": "gaming-chair-search-page4.ts",
+      "asin": "B0H6DXQTRY",
+      "id": "chair-sr4-192",
+      "name": "エグゼクティブオフィスチェア 快適なランバーサポート付き 人間工学に基づいたゲーミングチェア 跳",
+      "brand": "GTPOFFICE",
+      "inferred": "—"
+    },
+    {
+      "file": "gaming-chair-search.ts",
+      "asin": "B08FGP283T",
+      "id": "chair-sr-012",
+      "name": "ファブリック オフィスチェア デスクチェア 通気性 人間工学 145度リクライニング オットマン",
+      "brand": "—",
+      "inferred": "—"
+    },
+    {
+      "file": "gaming-chair-search.ts",
+      "asin": "B0GW31R81F",
+      "id": "chair-sr-016",
+      "name": "オットマン付き 高級PUレザー 135°リクライニング 調節可能 ランバーサポート デスク・オフ",
+      "brand": "—",
+      "inferred": "—"
+    },
+    {
+      "file": "gaming-chair-search.ts",
+      "asin": "B0FD9Z9KGZ",
+      "id": "chair-sr-021",
+      "name": "幅広座面 オフィスチェア デスクチェア 通気性 人間工学設計 ハイバック 椅子 座り心地 腰痛対",
+      "brand": "ゲーミングチェア オットマン付き",
+      "inferred": "—"
+    },
+    {
+      "file": "gaming-chair-search.ts",
+      "asin": "B0FS1ZNFM9",
+      "id": "chair-sr-024",
+      "name": "ファブリック 幅広座面 オフィスチェア デスクチェア テレワーク 疲れない オットマン付き 椅子",
+      "brand": "—",
+      "inferred": "—"
+    },
+    {
+      "file": "gaming-chair-search.ts",
+      "asin": "B0FS1W9LVJ",
+      "id": "chair-sr-039",
+      "name": "オットマン付き オフィスチェア デスクチェア テレワーク 疲れない 幅広座面 椅子 イス 140",
+      "brand": "—",
+      "inferred": "—"
+    },
+    {
+      "file": "gaming-chair-search.ts",
+      "asin": "B0H8YC8SJ9",
+      "id": "chair-sr-043",
+      "name": "高級PU",
+      "brand": "ゲーミングチェア オットマン付き",
+      "inferred": "—"
+    },
+    {
+      "file": "gaming-chair-search.ts",
+      "asin": "B0H36SP789",
+      "id": "chair-sr-045",
+      "name": "オフィスチェア ゲーミングチェア 椅子 メッシュ ワークチェア 可動式独立型ランバーサポート 可",
+      "brand": "—",
+      "inferred": "—"
+    },
+    {
+      "file": "gaming-chair-search.ts",
+      "asin": "B0H6WTBCLY",
+      "id": "chair-sr-049",
+      "name": "オフィスチェア 幅45奥行65.8高さ110～120cm 3段階リクライニング オットマン付き ",
+      "brand": "—",
+      "inferred": "—"
+    },
+    {
+      "file": "gaming-chair-search.ts",
+      "asin": "B0H1MZC9YF",
+      "id": "chair-sr-051-b0h1mzc9yf",
+      "name": "オットマン付き 幅広座面 オフィスチェア デスクチェア 通気性 テレワーク 疲れない 椅子 イス",
+      "brand": "SUKIDA",
+      "inferred": "—"
+    },
+    {
+      "file": "gaming-chair-search.ts",
+      "asin": "B0FS1ZKL9J",
+      "id": "chair-sr-052",
+      "name": "ファブリック 幅広座面 オフィスチェア デスクチェア テレワーク 疲れない オットマン付き 椅子",
+      "brand": "—",
+      "inferred": "—"
+    },
+    {
+      "file": "gaming-chair-search.ts",
+      "asin": "B0CMWNQ4BV",
+      "id": "chair-sr-059",
+      "name": "【2026年素材 【１年無償保証付き】 オフィスチェア ゲーミングチェア デスクチェア （ブラッ",
+      "brand": "—",
+      "inferred": "—"
+    },
+    {
+      "file": "gaming-chair-search.ts",
+      "asin": "B0DMZFV57P",
+      "id": "chair-sr-062",
+      "name": "ゲーミングベッドチェア 170度 リクライニング 日本ブランド ロッキング機能 ファブリック フ",
+      "brand": "EastForce",
+      "inferred": "—"
+    },
+    {
+      "file": "gaming-chair-search.ts",
+      "asin": "B0H5QMF7KC",
+      "id": "chair-sr-067",
+      "name": "オフィスチェア デスクチェア 【8方向調整4Dアームレスト·155°リクライニング】 ゲーム用チ",
+      "brand": "—",
+      "inferred": "—"
+    },
+    {
+      "file": "gaming-chair-search.ts",
+      "asin": "B0H1LRV826",
+      "id": "chair-sr-071",
+      "name": "ファブリック オフィスチェア 通気性 蒸れない デスクチェア テレワーク 疲れない 椅子 イス ",
+      "brand": "SUKIDA",
+      "inferred": "—"
+    },
+    {
+      "file": "gaming-chair-search.ts",
+      "asin": "B0H4123FLR",
+      "id": "chair-sr-072",
+      "name": "スエード調ファブリック 幅広座面 オットマン付き 155° リクライニング 耐荷重 200kg ",
+      "brand": "Symino",
+      "inferred": "—"
+    },
+    {
+      "file": "gaming-chair-search.ts",
+      "asin": "B08VRRKVZZ",
+      "id": "chair-sr-073",
+      "name": "サンワダイレクト ゲーミングチェア 跳ね上げ式アームレスト ハイバック ロッキング ウレタンキャ",
+      "brand": "—",
+      "inferred": "—"
+    },
+    {
+      "file": "gaming-chair-search.ts",
+      "asin": "B0GWPPNHH5",
+      "id": "chair-sr-075",
+      "name": "リクライニング135° 高級PUレザー ランバーサポート調整可 オフィス PC デスクチェア ゲ",
+      "brand": "—",
+      "inferred": "—"
+    },
+    {
+      "file": "gaming-chair-search.ts",
+      "asin": "B0FX56R95W",
+      "id": "chair-sr-078",
+      "name": "オフィスチェア、ゲーミングチェア、頑丈な PU ハイバックデスクチェア、人間工学に基づいたチェア",
+      "brand": "—",
+      "inferred": "—"
+    },
+    {
+      "file": "gaming-chair-search.ts",
+      "asin": "B0GKZ8VCS3",
+      "id": "chair-sr-083",
+      "name": "PCチェア オットマン付き 5段階リクライニング 高さ調節可能 在宅勤務 ブラック 日本語説明書",
+      "brand": "—",
+      "inferred": "—"
+    },
+    {
+      "file": "gaming-chair-search.ts",
+      "asin": "B0H1GZQYRZ",
+      "id": "chair-sr-089",
+      "name": "デスクチェア 社長椅子 ゲーム用椅子 リクライニング パソコンチェア フットレスト (ブラック)",
+      "brand": "ゲーミングチェア オフィスチェア",
+      "inferred": "—"
+    },
+    {
+      "file": "gaming-chair-search.ts",
+      "asin": "B0GTTF84QN",
+      "id": "chair-sr-090",
+      "name": "通気性ファブリック ポケットコイル内蔵 オットマン付 155度リクライニング オフィスチェア 社",
+      "brand": "Symino",
+      "inferred": "—"
+    },
+    {
+      "file": "gaming-chair-search.ts",
+      "asin": "B0GVNN3W6X",
+      "id": "chair-sr-093",
+      "name": "ファブリック 通気性 蒸れない 肌に優しい 人間工学 腰痛対策 135°リクライニング テレワー",
+      "brand": "—",
+      "inferred": "—"
+    },
+    {
+      "file": "gaming-chair-search.ts",
+      "asin": "B0D666NY29",
+      "id": "chair-sr-099",
+      "name": "背面メッシュ 4段階リクライニング 最大123° 座面前後調節 高密度ウレタン ゲーミングチェア",
+      "brand": "—",
+      "inferred": "—"
+    },
+    {
+      "file": "gaming-chair-search.ts",
+      "asin": "B0HB411NFN",
+      "id": "chair-sr-108",
+      "name": "ファブリック オフィスチェア デスクチェア 通気性 人間工学 145度リクライニング オットマン",
+      "brand": "—",
+      "inferred": "—"
+    },
+    {
+      "file": "gaming-chair-search.ts",
+      "asin": "B0GKZZXYTT",
+      "id": "chair-sr-111",
+      "name": "オフィスチェア デスクチェア PUレザー フルリクライニング リクライニング機能付き フットレス",
+      "brand": "MOKUTO",
+      "inferred": "—"
+    },
+    {
+      "file": "gaming-chair-search.ts",
+      "asin": "B0G5Y9JLDV",
+      "id": "chair-sr-118",
+      "name": "[Goswave] オフィスチェア デスクチェア 人間工学 メッシュ ハイバック 145度リクラ",
+      "brand": "—",
+      "inferred": "—"
+    },
+    {
+      "file": "gaming-chair-search.ts",
+      "asin": "B0GY2W925X",
+      "id": "chair-sr-120",
+      "name": "オフィスチェア 人間工学 オットマン付き PC チェア(ホワイト)",
+      "brand": "LEEKAE?LIO",
+      "inferred": "—"
+    },
+    {
+      "file": "gaming-chair-search.ts",
+      "asin": "B00YQW38O8",
+      "id": "chair-sr-134",
+      "name": "タンスのゲン オフィスチェア 【床傷防止！PUキャスター】腰楽ランバーサポート メッシュ ロッキ",
+      "brand": "—",
+      "inferred": "—"
+    },
+    {
+      "file": "gaming-chairs.ts",
+      "asin": "B0H8YC8SJ9",
+      "id": "chair-bs-023",
+      "name": "オットマン付き 高級PU 135°リクライニング PCチェア",
+      "brand": "HLFURNITURE",
+      "inferred": "—"
+    },
+    {
+      "file": "gaming-chairs.ts",
+      "asin": "B0DQY6P42X",
+      "id": "chair-bs-051",
+      "name": "LX-19SW",
+      "brand": "SeekFun",
+      "inferred": "—"
+    },
+    {
+      "file": "gaming-chairs.ts",
+      "asin": "B0FVX23WYR",
+      "id": "chair-bs-052",
+      "name": "LX-19SW",
+      "brand": "SeekFun",
+      "inferred": "—"
+    },
+    {
+      "file": "gaming-chairs.ts",
+      "asin": "B0FPGDLHK2",
+      "id": "chair-bs-062",
+      "name": "LX-08SW",
+      "brand": "SeekFun",
+      "inferred": "—"
+    },
+    {
+      "file": "gaming-chairs.ts",
+      "asin": "B0F21KJ7RR",
+      "id": "chair-bs-065",
+      "name": "広々座面 ニットファブリック＆低反発クッション",
+      "brand": "—",
+      "inferred": "—"
+    },
+    {
+      "file": "gaming-chairs.ts",
+      "asin": "B0GKYF3NWY",
+      "id": "chair-bs-066",
+      "name": "170度リクライニング 58cm 広幅座面 人間工学設計 オフィスチェア 3D アームレスト 厚",
+      "brand": "Localive",
+      "inferred": "—"
+    },
+    {
+      "file": "gaming-chairs.ts",
+      "asin": "B0GVQJX24X",
+      "id": "chair-bs-067",
+      "name": "ファブリック 通気性 蒸れない 肌に優しい 人間工学 腰痛対策 135°リクライニング テレワー",
+      "brand": "ZJXKWIN",
+      "inferred": "—"
+    },
+    {
+      "file": "gaming-chairs.ts",
+      "asin": "B0DB1WH946",
+      "id": "chair-bs-071",
+      "name": "上質スエード素材 ポケットコイル内蔵 オットマン付 155度リクライニング オフィスチェア 社長",
+      "brand": "Symino",
+      "inferred": "—"
+    },
+    {
+      "file": "gaming-chairs.ts",
+      "asin": "B0GTSW83CC",
+      "id": "chair-bs-072",
+      "name": "上質スエード素材 ポケットコイル内蔵 オットマン付 155度リクライニング オフィスチェア 社長",
+      "brand": "Symino",
+      "inferred": "—"
+    },
+    {
+      "file": "gaming-chairs.ts",
+      "asin": "B0FKB684TV",
+      "id": "chair-bs-073",
+      "name": "オフィスチェア デスクチェア 【8方向調整4Dアームレスト·155°リクライニング】 ゲーム用チ",
+      "brand": "—",
+      "inferred": "—"
+    },
+    {
+      "file": "gaming-chairs.ts",
+      "asin": "B0H5Q9MC4R",
+      "id": "chair-bs-074",
+      "name": "オフィスチェア デスクチェア 【8方向調整4Dアームレスト·155°リクライニング】 ゲーム用チ",
+      "brand": "—",
+      "inferred": "—"
+    },
+    {
+      "file": "gaming-chairs.ts",
+      "asin": "B0G6YQJT73",
+      "id": "chair-bs-076",
+      "name": "極 アグリラックス キワミ ゲーミングチェア あぐら対応 ソファチェア オフィスチェア 肉厚14",
+      "brand": "AGRelux",
+      "inferred": "—"
+    },
+    {
+      "file": "gaming-chairs.ts",
+      "asin": "B0H35V6F4Q",
+      "id": "chair-bs-077",
+      "name": "ファブリック オフィスチェア 通気性 蒸れない デスクチェア テレワーク 疲れない 椅子 イス ",
+      "brand": "SUKIDA",
+      "inferred": "—"
+    },
+    {
+      "file": "gaming-chairs.ts",
+      "asin": "B0H1LVC4ML",
+      "id": "chair-bs-078",
+      "name": "ファブリック オフィスチェア 通気性 蒸れない デスクチェア テレワーク 疲れない 椅子 イス ",
+      "brand": "SUKIDA",
+      "inferred": "—"
+    },
+    {
+      "file": "gaming-chairs.ts",
+      "asin": "B0DDCCLVJC",
+      "id": "chair-bs-080",
+      "name": "PL800-BLACK",
+      "brand": "—",
+      "inferred": "—"
+    }
+  ],
+  "inferrable": []
+}

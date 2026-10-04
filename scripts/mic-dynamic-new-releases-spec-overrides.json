@@ -1,0 +1,58 @@
+{
+  "B0HCYFPHYC": {
+    "name": "USB/XLR ダイナミックマイク",
+    "brand": "—",
+    "tagline": "PC用 USB/XLR ダイナミックマイク。単一指向性・音量調整・ミュート・ダイレクトモニタリング対応。スタンド付属",
+    "price": 8800,
+    "polar": "単一指向性 (カーディオイド)",
+    "connection": "USB / XLR",
+    "type": "USB/XLRダイナミックマイク",
+    "micFilterTags": ["dynamic", "stand"],
+    "features": {
+      "音量調整": "対応",
+      "ミュート": "対応",
+      "ダイレクトモニタリング": "対応",
+      "スタンド付属": "対応"
+    }
+  },
+  "B0H3DQCB5M": {
+    "name": "D10 Pro",
+    "brand": "COMICA",
+    "tagline": "有線/無線両対応ワイヤレスダイナミックマイク。2.4GHz/USB/XLR 3Way接続・AIノイズキャンセル・3EQ・卓上スタンド付属",
+    "price": 15445,
+    "polar": "—",
+    "connection": "2.4GHzワイヤレス / USB / XLR",
+    "type": "ワイヤレスダイナミックマイク",
+    "micFilterTags": ["dynamic", "wireless", "stand"],
+    "features": {
+      "AIノイズキャンセリング": "対応",
+      "3EQ": "対応",
+      "卓上スタンド付属": "対応",
+      "ゲイン調整": "4段階"
+    }
+  },
+  "B0H65LZS36": {
+    "name": "カラオケマイク",
+    "brand": "ZVGT",
+    "tagline": "ライブストリーム・カラオケ向けカスタムダイヤモンドエンクリュストダイナミックマイク（受信機1台付属）",
+    "price": 14666,
+    "polar": "—",
+    "connection": "2.4GHzワイヤレス",
+    "type": "ワイヤレスダイナミックマイク（カラオケ/ライブストリーム用）",
+    "micFilterTags": ["dynamic", "wireless"],
+    "features": {
+      "クリスタル装飾デザイン": "対応"
+    }
+  },
+  "B0FS6CK6C8": {
+    "name": "AC-930",
+    "brand": "CAROL",
+    "tagline": "プロ用有線ダイナミックマイク。XLR接続・スーパーカーディオイド・スイッチなし（大型ライブステージ向け）",
+    "price": 17590,
+    "polar": "スーパーカーディオイド",
+    "connection": "XLR",
+    "type": "ダイナミックマイク",
+    "frequency": "50Hz–18kHz",
+    "micFilterTags": ["dynamic"]
+  }
+}

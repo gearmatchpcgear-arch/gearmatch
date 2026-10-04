@@ -1,0 +1,6182 @@
+{
+  "fetchedAt": "2026-08-16T01:41:43.361Z",
+  "catalog": [
+    {
+      "id": "chair-akr-wfp8xv",
+      "rank": null,
+      "asin": "B0BFWFP8XV",
+      "category": "gaming-chair",
+      "name": "Premium Denim 国産デニム素材リクライニング エルゴノミクス JIS規格 5年保証",
+      "brand": "AKRacing",
+      "maxRecliningAngle": "180°",
+      "frameMaterial": "合金鋼",
+      "hasOttoman": false,
+      "dimensions": "66 × 66 × 137 cm",
+      "tagline": "岡山デニム・180°・Premium Denim",
+      "price": 80606,
+      "rating": 4.3,
+      "reviews": 0,
+      "image": "https://m.media-amazon.com/images/I/51YYGOfhbcL._AC_SL1500_.jpg",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0BFWFP8XV",
+      "highlights": [
+        {
+          "label": "素材",
+          "value": "岡山デニム"
+        },
+        {
+          "label": "最大リクライニング角度",
+          "value": "最大180°（フルフラット）"
+        },
+        {
+          "label": "寸法/重量",
+          "value": "66 × 66 × 137 cm"
+        },
+        {
+          "label": "アームレスト/保証",
+          "value": "4Dアームレスト / 5年保証"
+        }
+      ],
+      "compat": [],
+      "specGroups": [
+        {
+          "title": "サイズ / 寸法",
+          "rows": [
+            {
+              "label": "本体寸法",
+              "value": "66 × 66 × 137 cm"
+            }
+          ]
+        },
+        {
+          "title": "リクライニング / フレーム",
+          "rows": [
+            {
+              "label": "最大リクライニング角度",
+              "value": "最大180°（フルフラット）"
+            },
+            {
+              "label": "フレームの種類",
+              "value": "フレーム: 合金鋼"
+            }
+          ]
+        },
+        {
+          "title": "調節機能",
+          "rows": [
+            {
+              "label": "リクライニング",
+              "value": "対応"
+            }
+          ]
+        },
+        {
+          "title": "構造 / 素材",
+          "rows": [
+            {
+              "label": "素材",
+              "value": "岡山デニム"
+            },
+            {
+              "label": "形状",
+              "value": "オフィスチェアカスタム型"
+            },
+            {
+              "label": "オットマン",
+              "value": "なし"
+            },
+            {
+              "label": "寸法/重量",
+              "value": "66 × 66 × 137 cm"
+            },
+            {
+              "label": "アームレスト/保証",
+              "value": "4Dアームレスト / 5年保証"
+            }
+          ]
+        },
+        {
+          "title": "Amazon AKRacingストア",
+          "rows": [
+            {
+              "label": "シリーズ",
+              "value": "Premium Denim"
+            }
+          ]
+        }
+      ],
+      "series": "Premium Denim"
+    },
+    {
+      "id": "chair-akr-wdqmz1",
+      "rank": null,
+      "asin": "B0BFWDQMZ1",
+      "category": "gaming-chair",
+      "name": "ゲーミング 座椅子 Gyokuza Denim 国産デニム素材リクライニング エルゴノミクス JIS規格 5年保証",
+      "brand": "AKRacing",
+      "maxRecliningAngle": "180°",
+      "frameMaterial": "合金鋼",
+      "hasOttoman": false,
+      "dimensions": "60 × 60 × 100 cm",
+      "tagline": "岡山デニム・180°・Gyokuza Denim",
+      "price": 75556,
+      "rating": 3.8,
+      "reviews": 0,
+      "image": "https://m.media-amazon.com/images/I/61YVN2MT0SL._AC_SL1500_.jpg",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0BFWDQMZ1",
+      "highlights": [
+        {
+          "label": "素材",
+          "value": "岡山デニム"
+        },
+        {
+          "label": "最大リクライニング角度",
+          "value": "最大180°（フルフラット）"
+        },
+        {
+          "label": "寸法/重量",
+          "value": "60 × 60 × 100 cm"
+        },
+        {
+          "label": "アームレスト/保証",
+          "value": "可動式アームレスト / 5年保証"
+        }
+      ],
+      "compat": [],
+      "specGroups": [
+        {
+          "title": "サイズ / 寸法",
+          "rows": [
+            {
+              "label": "本体寸法",
+              "value": "60 × 60 × 100 cm"
+            }
+          ]
+        },
+        {
+          "title": "リクライニング / フレーム",
+          "rows": [
+            {
+              "label": "最大リクライニング角度",
+              "value": "最大180°（フルフラット）"
+            },
+            {
+              "label": "フレームの種類",
+              "value": "フレーム: 合金鋼"
+            }
+          ]
+        },
+        {
+          "title": "調節機能",
+          "rows": [
+            {
+              "label": "リクライニング",
+              "value": "対応"
+            }
+          ]
+        },
+        {
+          "title": "構造 / 素材",
+          "rows": [
+            {
+              "label": "素材",
+              "value": "岡山デニム"
+            },
+            {
+              "label": "形状",
+              "value": "座椅子タイプ（ローデスク用）"
+            },
+            {
+              "label": "オットマン",
+              "value": "なし"
+            },
+            {
+              "label": "寸法/重量",
+              "value": "60 × 60 × 100 cm"
+            },
+            {
+              "label": "アームレスト/保証",
+              "value": "可動式アームレスト / 5年保証"
+            }
+          ]
+        },
+        {
+          "title": "Amazon AKRacingストア",
+          "rows": [
+            {
+              "label": "シリーズ",
+              "value": "Gyokuza Denim"
+            }
+          ]
+        }
+      ],
+      "series": "Gyokuza Denim"
+    },
+    {
+      "id": "chair-akr-rb9wj3",
+      "rank": null,
+      "asin": "B075RB9WJ3",
+      "category": "gaming-chair",
+      "name": "ゲーミング 座椅子 Gyokuza V2 グレー 高耐久PUレザーリクライニング 5年保証",
+      "brand": "AKRacing",
+      "maxRecliningAngle": "180°",
+      "frameMaterial": "合金鋼",
+      "hasOttoman": false,
+      "dimensions": "60 × 60 × 96 cm",
+      "seatDepth": "60 cm",
+      "backrestWidth": "54 cm",
+      "tagline": "高耐久PUレザー・180°・Gyokuza V2",
+      "price": 48284,
+      "rating": 4.4,
+      "reviews": 0,
+      "image": "https://m.media-amazon.com/images/I/61uWos65J8L._AC_SL1500_.jpg",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B075RB9WJ3",
+      "highlights": [
+        {
+          "label": "素材",
+          "value": "高耐久PUレザー"
+        },
+        {
+          "label": "最大リクライニング角度",
+          "value": "最大180°（フルフラット）"
+        },
+        {
+          "label": "寸法/重量",
+          "value": "60 × 60 × 96 cm / 背もたれ幅 54 cm"
+        },
+        {
+          "label": "アームレスト/保証",
+          "value": "可動式アームレスト / 5年保証"
+        }
+      ],
+      "compat": [],
+      "specGroups": [
+        {
+          "title": "サイズ / 寸法",
+          "rows": [
+            {
+              "label": "本体寸法",
+              "value": "60 × 60 × 96 cm"
+            },
+            {
+              "label": "座面の奥行",
+              "value": "60 cm"
+            },
+            {
+              "label": "背もたれ幅",
+              "value": "54 cm"
+            }
+          ]
+        },
+        {
+          "title": "リクライニング / フレーム",
+          "rows": [
+            {
+              "label": "最大リクライニング角度",
+              "value": "最大180°（フルフラット）"
+            },
+            {
+              "label": "フレームの種類",
+              "value": "フレーム: 合金鋼"
+            }
+          ]
+        },
+        {
+          "title": "調節機能",
+          "rows": [
+            {
+              "label": "リクライニング",
+              "value": "対応"
+            }
+          ]
+        },
+        {
+          "title": "構造 / 素材",
+          "rows": [
+            {
+              "label": "素材",
+              "value": "高耐久PUレザー"
+            },
+            {
+              "label": "形状",
+              "value": "座椅子タイプ（ローデスク用）"
+            },
+            {
+              "label": "オットマン",
+              "value": "なし"
+            },
+            {
+              "label": "寸法/重量",
+              "value": "60 × 60 × 96 cm / 背もたれ幅 54 cm"
+            },
+            {
+              "label": "アームレスト/保証",
+              "value": "可動式アームレスト / 5年保証"
+            }
+          ]
+        },
+        {
+          "title": "Amazon AKRacingストア",
+          "rows": [
+            {
+              "label": "シリーズ",
+              "value": "Gyokuza V2"
+            }
+          ]
+        }
+      ],
+      "series": "Gyokuza V2"
+    },
+    {
+      "id": "chair-akr-rc4jhs",
+      "rank": null,
+      "asin": "B075RC4JHS",
+      "category": "gaming-chair",
+      "name": "ゲーミング 座椅子 Gyokuza V2 ブルー 高耐久PUレザー リクライニング 5年保証",
+      "brand": "AKRacing",
+      "maxRecliningAngle": "180°",
+      "frameMaterial": "合金鋼",
+      "hasOttoman": false,
+      "dimensions": "60 × 60 × 96 cm",
+      "seatDepth": "60 cm",
+      "backrestWidth": "60 cm",
+      "tagline": "高耐久PUレザー・180°・Gyokuza V2",
+      "price": 38945,
+      "rating": 4.4,
+      "reviews": 0,
+      "image": "https://m.media-amazon.com/images/I/616pLdR7IXL._AC_SL1500_.jpg",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B075RC4JHS",
+      "highlights": [
+        {
+          "label": "素材",
+          "value": "高耐久PUレザー"
+        },
+        {
+          "label": "最大リクライニング角度",
+          "value": "最大180°（フルフラット）"
+        },
+        {
+          "label": "寸法/重量",
+          "value": "60 × 60 × 96 cm / 背もたれ幅 60 cm"
+        },
+        {
+          "label": "アームレスト/保証",
+          "value": "可動式アームレスト / 5年保証"
+        }
+      ],
+      "compat": [],
+      "specGroups": [
+        {
+          "title": "サイズ / 寸法",
+          "rows": [
+            {
+              "label": "本体寸法",
+              "value": "60 × 60 × 96 cm"
+            },
+            {
+              "label": "座面の奥行",
+              "value": "60 cm"
+            },
+            {
+              "label": "背もたれ幅",
+              "value": "60 cm"
+            }
+          ]
+        },
+        {
+          "title": "リクライニング / フレーム",
+          "rows": [
+            {
+              "label": "最大リクライニング角度",
+              "value": "最大180°（フルフラット）"
+            },
+            {
+              "label": "フレームの種類",
+              "value": "フレーム: 合金鋼"
+            }
+          ]
+        },
+        {
+          "title": "調節機能",
+          "rows": [
+            {
+              "label": "リクライニング",
+              "value": "対応"
+            }
+          ]
+        },
+        {
+          "title": "構造 / 素材",
+          "rows": [
+            {
+              "label": "素材",
+              "value": "高耐久PUレザー"
+            },
+            {
+              "label": "形状",
+              "value": "座椅子タイプ（ローデスク用）"
+            },
+            {
+              "label": "オットマン",
+              "value": "なし"
+            },
+            {
+              "label": "寸法/重量",
+              "value": "60 × 60 × 96 cm / 背もたれ幅 60 cm"
+            },
+            {
+              "label": "アームレスト/保証",
+              "value": "可動式アームレスト / 5年保証"
+            }
+          ]
+        },
+        {
+          "title": "Amazon AKRacingストア",
+          "rows": [
+            {
+              "label": "シリーズ",
+              "value": "Gyokuza V2"
+            }
+          ]
+        }
+      ],
+      "series": "Gyokuza V2"
+    },
+    {
+      "id": "chair-akr-3cqx5j",
+      "rank": null,
+      "asin": "B0BL3CQX5J",
+      "category": "gaming-chair",
+      "name": "ゲーミング 座椅子 Gyokuza V2 ホワイト 高耐久PUレザー リクライニング 5年保証",
+      "brand": "AKRacing",
+      "maxRecliningAngle": "180°",
+      "frameMaterial": "合金鋼",
+      "hasOttoman": false,
+      "dimensions": "60 × 60 × 96 cm",
+      "tagline": "高耐久PUレザー・180°・Gyokuza V2",
+      "price": 55124,
+      "rating": 4.4,
+      "reviews": 0,
+      "image": "https://m.media-amazon.com/images/I/61g8wgk7-2L._AC_SL1500_.jpg",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0BL3CQX5J",
+      "highlights": [
+        {
+          "label": "素材",
+          "value": "高耐久PUレザー"
+        },
+        {
+          "label": "最大リクライニング角度",
+          "value": "最大180°（フルフラット）"
+        },
+        {
+          "label": "寸法/重量",
+          "value": "60 × 60 × 96 cm"
+        },
+        {
+          "label": "アームレスト/保証",
+          "value": "可動式アームレスト / 5年保証"
+        }
+      ],
+      "compat": [],
+      "specGroups": [
+        {
+          "title": "サイズ / 寸法",
+          "rows": [
+            {
+              "label": "本体寸法",
+              "value": "60 × 60 × 96 cm"
+            }
+          ]
+        },
+        {
+          "title": "リクライニング / フレーム",
+          "rows": [
+            {
+              "label": "最大リクライニング角度",
+              "value": "最大180°（フルフラット）"
+            },
+            {
+              "label": "フレームの種類",
+              "value": "フレーム: 合金鋼"
+            }
+          ]
+        },
+        {
+          "title": "調節機能",
+          "rows": [
+            {
+              "label": "リクライニング",
+              "value": "対応"
+            }
+          ]
+        },
+        {
+          "title": "構造 / 素材",
+          "rows": [
+            {
+              "label": "素材",
+              "value": "高耐久PUレザー"
+            },
+            {
+              "label": "形状",
+              "value": "座椅子タイプ（ローデスク用）"
+            },
+            {
+              "label": "オットマン",
+              "value": "なし"
+            },
+            {
+              "label": "寸法/重量",
+              "value": "60 × 60 × 96 cm"
+            },
+            {
+              "label": "アームレスト/保証",
+              "value": "可動式アームレスト / 5年保証"
+            }
+          ]
+        },
+        {
+          "title": "Amazon AKRacingストア",
+          "rows": [
+            {
+              "label": "シリーズ",
+              "value": "Gyokuza V2"
+            }
+          ]
+        }
+      ],
+      "series": "Gyokuza V2"
+    },
+    {
+      "id": "chair-akr-rc4jhr",
+      "rank": null,
+      "asin": "B075RC4JHR",
+      "category": "gaming-chair",
+      "name": "ゲーミング 座椅子 Gyokuza V2 レッド 高耐久PUレザー リクライニング 5年保証",
+      "brand": "AKRacing",
+      "maxRecliningAngle": "180°",
+      "frameMaterial": "合金鋼",
+      "hasOttoman": false,
+      "dimensions": "60 × 60 × 96 cm",
+      "seatDepth": "60 cm",
+      "tagline": "高耐久PUレザー・180°・Gyokuza V2",
+      "price": 48291,
+      "rating": 4.4,
+      "reviews": 0,
+      "image": "https://m.media-amazon.com/images/I/61YJwq1YvZL._AC_SL1500_.jpg",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B075RC4JHR",
+      "highlights": [
+        {
+          "label": "素材",
+          "value": "高耐久PUレザー"
+        },
+        {
+          "label": "最大リクライニング角度",
+          "value": "最大180°（フルフラット）"
+        },
+        {
+          "label": "寸法/重量",
+          "value": "60 × 60 × 96 cm"
+        },
+        {
+          "label": "アームレスト/保証",
+          "value": "可動式アームレスト / 5年保証"
+        }
+      ],
+      "compat": [],
+      "specGroups": [
+        {
+          "title": "サイズ / 寸法",
+          "rows": [
+            {
+              "label": "本体寸法",
+              "value": "60 × 60 × 96 cm"
+            },
+            {
+              "label": "座面の奥行",
+              "value": "60 cm"
+            }
+          ]
+        },
+        {
+          "title": "リクライニング / フレーム",
+          "rows": [
+            {
+              "label": "最大リクライニング角度",
+              "value": "最大180°（フルフラット）"
+            },
+            {
+              "label": "フレームの種類",
+              "value": "フレーム: 合金鋼"
+            }
+          ]
+        },
+        {
+          "title": "調節機能",
+          "rows": [
+            {
+              "label": "リクライニング",
+              "value": "対応"
+            }
+          ]
+        },
+        {
+          "title": "構造 / 素材",
+          "rows": [
+            {
+              "label": "素材",
+              "value": "高耐久PUレザー"
+            },
+            {
+              "label": "形状",
+              "value": "座椅子タイプ（ローデスク用）"
+            },
+            {
+              "label": "オットマン",
+              "value": "なし"
+            },
+            {
+              "label": "寸法/重量",
+              "value": "60 × 60 × 96 cm"
+            },
+            {
+              "label": "アームレスト/保証",
+              "value": "可動式アームレスト / 5年保証"
+            }
+          ]
+        },
+        {
+          "title": "Amazon AKRacingストア",
+          "rows": [
+            {
+              "label": "シリーズ",
+              "value": "Gyokuza V2"
+            }
+          ]
+        }
+      ],
+      "series": "Gyokuza V2"
+    },
+    {
+      "id": "chair-akr-jtt1gm",
+      "rank": null,
+      "asin": "B086JTT1GM",
+      "category": "gaming-chair",
+      "name": "ゲーミングチェア Pro-X V2 グレー 高耐久PUレザー リクライニング エルゴノミクス JIS規格 5年保証",
+      "brand": "AKRacing",
+      "maxRecliningAngle": "180°",
+      "frameMaterial": "合金鋼",
+      "hasOttoman": false,
+      "dimensions": "65 × 65 × 127 cm",
+      "seatDepth": "54.5 cm",
+      "backrestWidth": "55 cm",
+      "tagline": "高耐久PUレザー・180°・Pro-X V2",
+      "price": 58384,
+      "rating": 4.5,
+      "reviews": 0,
+      "image": "https://m.media-amazon.com/images/I/612xQ9DGmDL._AC_SL1500_.jpg",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B086JTT1GM",
+      "highlights": [
+        {
+          "label": "素材",
+          "value": "高耐久PUレザー"
+        },
+        {
+          "label": "最大リクライニング角度",
+          "value": "最大180°（フルフラット）"
+        },
+        {
+          "label": "寸法/重量",
+          "value": "65 × 65 × 127 cm / 背もたれ幅 55 cm"
+        },
+        {
+          "label": "アームレスト/保証",
+          "value": "4Dアームレスト / 5年保証"
+        }
+      ],
+      "compat": [],
+      "specGroups": [
+        {
+          "title": "サイズ / 寸法",
+          "rows": [
+            {
+              "label": "本体寸法",
+              "value": "65 × 65 × 127 cm"
+            },
+            {
+              "label": "座面の奥行",
+              "value": "54.5 cm"
+            },
+            {
+              "label": "背もたれ幅",
+              "value": "55 cm"
+            }
+          ]
+        },
+        {
+          "title": "リクライニング / フレーム",
+          "rows": [
+            {
+              "label": "最大リクライニング角度",
+              "value": "最大180°（フルフラット）"
+            },
+            {
+              "label": "フレームの種類",
+              "value": "フレーム: 合金鋼"
+            }
+          ]
+        },
+        {
+          "title": "調節機能",
+          "rows": [
+            {
+              "label": "リクライニング",
+              "value": "対応"
+            },
+            {
+              "label": "アームレスト",
+              "value": "対応"
+            }
+          ]
+        },
+        {
+          "title": "構造 / 素材",
+          "rows": [
+            {
+              "label": "素材",
+              "value": "高耐久PUレザー"
+            },
+            {
+              "label": "形状",
+              "value": "オフィスチェアカスタム型"
+            },
+            {
+              "label": "オットマン",
+              "value": "なし"
+            },
+            {
+              "label": "寸法/重量",
+              "value": "65 × 65 × 127 cm / 背もたれ幅 55 cm"
+            },
+            {
+              "label": "アームレスト/保証",
+              "value": "4Dアームレスト / 5年保証"
+            }
+          ]
+        },
+        {
+          "title": "Amazon AKRacingストア",
+          "rows": [
+            {
+              "label": "シリーズ",
+              "value": "Pro-X V2"
+            }
+          ]
+        }
+      ],
+      "series": "Pro-X V2"
+    },
+    {
+      "id": "chair-akr-jtcgzr",
+      "rank": null,
+      "asin": "B086JTCGZR",
+      "category": "gaming-chair",
+      "name": "ゲーミングチェア Pro-X V2 ブルー 高耐久PUレザー リクライニング エルゴノミクス JIS規格 5年保証",
+      "brand": "AKRacing",
+      "maxRecliningAngle": "180°",
+      "frameMaterial": "合金鋼",
+      "hasOttoman": false,
+      "dimensions": "65 × 65 × 127 cm",
+      "seatDepth": "54.5 cm",
+      "backrestWidth": "55 cm",
+      "tagline": "高耐久PUレザー・180°・Pro-X V2",
+      "price": 58384,
+      "rating": 4.5,
+      "reviews": 0,
+      "image": "https://m.media-amazon.com/images/I/61DXq5N8+pL._AC_SL1500_.jpg",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B086JTCGZR",
+      "highlights": [
+        {
+          "label": "素材",
+          "value": "高耐久PUレザー"
+        },
+        {
+          "label": "最大リクライニング角度",
+          "value": "最大180°（フルフラット）"
+        },
+        {
+          "label": "寸法/重量",
+          "value": "65 × 65 × 127 cm / 背もたれ幅 55 cm"
+        },
+        {
+          "label": "アームレスト/保証",
+          "value": "4Dアームレスト / 5年保証"
+        }
+      ],
+      "compat": [],
+      "specGroups": [
+        {
+          "title": "サイズ / 寸法",
+          "rows": [
+            {
+              "label": "本体寸法",
+              "value": "65 × 65 × 127 cm"
+            },
+            {
+              "label": "座面の奥行",
+              "value": "54.5 cm"
+            },
+            {
+              "label": "背もたれ幅",
+              "value": "55 cm"
+            }
+          ]
+        },
+        {
+          "title": "リクライニング / フレーム",
+          "rows": [
+            {
+              "label": "最大リクライニング角度",
+              "value": "最大180°（フルフラット）"
+            },
+            {
+              "label": "フレームの種類",
+              "value": "フレーム: 合金鋼"
+            }
+          ]
+        },
+        {
+          "title": "調節機能",
+          "rows": [
+            {
+              "label": "リクライニング",
+              "value": "対応"
+            }
+          ]
+        },
+        {
+          "title": "構造 / 素材",
+          "rows": [
+            {
+              "label": "素材",
+              "value": "高耐久PUレザー"
+            },
+            {
+              "label": "形状",
+              "value": "オフィスチェアカスタム型"
+            },
+            {
+              "label": "オットマン",
+              "value": "なし"
+            },
+            {
+              "label": "寸法/重量",
+              "value": "65 × 65 × 127 cm / 背もたれ幅 55 cm"
+            },
+            {
+              "label": "アームレスト/保証",
+              "value": "4Dアームレスト / 5年保証"
+            }
+          ]
+        },
+        {
+          "title": "Amazon AKRacingストア",
+          "rows": [
+            {
+              "label": "シリーズ",
+              "value": "Pro-X V2"
+            }
+          ]
+        }
+      ],
+      "series": "Pro-X V2"
+    },
+    {
+      "id": "chair-akr-js8f4l",
+      "rank": null,
+      "asin": "B086JS8F4L",
+      "category": "gaming-chair",
+      "name": "ゲーミングチェア Pro-X V2 ホワイ 高耐久PUレザーリクライニング エルゴノミクス JIS規格 5年保証",
+      "brand": "AKRacing",
+      "maxRecliningAngle": "180°",
+      "frameMaterial": "合金鋼",
+      "hasOttoman": false,
+      "dimensions": "65 × 65 × 127 cm",
+      "seatDepth": "54.5 cm",
+      "backrestWidth": "55 cm",
+      "tagline": "高耐久PUレザー・180°・Pro-X V2",
+      "price": 58383,
+      "rating": 4.5,
+      "reviews": 0,
+      "image": "https://m.media-amazon.com/images/I/61BHBt+TmML._AC_SL1500_.jpg",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B086JS8F4L",
+      "highlights": [
+        {
+          "label": "素材",
+          "value": "高耐久PUレザー"
+        },
+        {
+          "label": "最大リクライニング角度",
+          "value": "最大180°（フルフラット）"
+        },
+        {
+          "label": "寸法/重量",
+          "value": "65 × 65 × 127 cm / 背もたれ幅 55 cm"
+        },
+        {
+          "label": "アームレスト/保証",
+          "value": "4Dアームレスト / 5年保証"
+        }
+      ],
+      "compat": [],
+      "specGroups": [
+        {
+          "title": "サイズ / 寸法",
+          "rows": [
+            {
+              "label": "本体寸法",
+              "value": "65 × 65 × 127 cm"
+            },
+            {
+              "label": "座面の奥行",
+              "value": "54.5 cm"
+            },
+            {
+              "label": "背もたれ幅",
+              "value": "55 cm"
+            }
+          ]
+        },
+        {
+          "title": "リクライニング / フレーム",
+          "rows": [
+            {
+              "label": "最大リクライニング角度",
+              "value": "最大180°（フルフラット）"
+            },
+            {
+              "label": "フレームの種類",
+              "value": "フレーム: 合金鋼"
+            }
+          ]
+        },
+        {
+          "title": "調節機能",
+          "rows": [
+            {
+              "label": "リクライニング",
+              "value": "対応"
+            }
+          ]
+        },
+        {
+          "title": "構造 / 素材",
+          "rows": [
+            {
+              "label": "素材",
+              "value": "高耐久PUレザー"
+            },
+            {
+              "label": "形状",
+              "value": "オフィスチェアカスタム型"
+            },
+            {
+              "label": "オットマン",
+              "value": "なし"
+            },
+            {
+              "label": "寸法/重量",
+              "value": "65 × 65 × 127 cm / 背もたれ幅 55 cm"
+            },
+            {
+              "label": "アームレスト/保証",
+              "value": "4Dアームレスト / 5年保証"
+            }
+          ]
+        },
+        {
+          "title": "Amazon AKRacingストア",
+          "rows": [
+            {
+              "label": "シリーズ",
+              "value": "Pro-X V2"
+            }
+          ]
+        }
+      ],
+      "series": "Pro-X V2"
+    },
+    {
+      "id": "chair-akr-jt5bnj",
+      "rank": null,
+      "asin": "B086JT5BNJ",
+      "category": "gaming-chair",
+      "name": "ゲーミングチェア Pro-X V2 レッド 高耐久PUレザー リクライニング エルゴノミクス JIS規格 5年保証",
+      "brand": "AKRacing",
+      "maxRecliningAngle": "180°",
+      "frameMaterial": "合金鋼",
+      "hasOttoman": false,
+      "dimensions": "65 × 65 × 127 cm",
+      "seatDepth": "54.5 cm",
+      "backrestWidth": "55 cm",
+      "tagline": "高耐久PUレザー・180°・Pro-X V2",
+      "price": 58383,
+      "rating": 4.5,
+      "reviews": 0,
+      "image": "https://m.media-amazon.com/images/I/61Hm93CFOfL._AC_SL1500_.jpg",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B086JT5BNJ",
+      "highlights": [
+        {
+          "label": "素材",
+          "value": "高耐久PUレザー"
+        },
+        {
+          "label": "最大リクライニング角度",
+          "value": "最大180°（フルフラット）"
+        },
+        {
+          "label": "寸法/重量",
+          "value": "65 × 65 × 127 cm / 背もたれ幅 55 cm"
+        },
+        {
+          "label": "アームレスト/保証",
+          "value": "4Dアームレスト / 5年保証"
+        }
+      ],
+      "compat": [],
+      "specGroups": [
+        {
+          "title": "サイズ / 寸法",
+          "rows": [
+            {
+              "label": "本体寸法",
+              "value": "65 × 65 × 127 cm"
+            },
+            {
+              "label": "座面の奥行",
+              "value": "54.5 cm"
+            },
+            {
+              "label": "背もたれ幅",
+              "value": "55 cm"
+            }
+          ]
+        },
+        {
+          "title": "リクライニング / フレーム",
+          "rows": [
+            {
+              "label": "最大リクライニング角度",
+              "value": "最大180°（フルフラット）"
+            },
+            {
+              "label": "フレームの種類",
+              "value": "フレーム: 合金鋼"
+            }
+          ]
+        },
+        {
+          "title": "調節機能",
+          "rows": [
+            {
+              "label": "リクライニング",
+              "value": "対応"
+            },
+            {
+              "label": "アームレスト",
+              "value": "対応"
+            }
+          ]
+        },
+        {
+          "title": "構造 / 素材",
+          "rows": [
+            {
+              "label": "素材",
+              "value": "高耐久PUレザー"
+            },
+            {
+              "label": "形状",
+              "value": "オフィスチェアカスタム型"
+            },
+            {
+              "label": "オットマン",
+              "value": "なし"
+            },
+            {
+              "label": "寸法/重量",
+              "value": "65 × 65 × 127 cm / 背もたれ幅 55 cm"
+            },
+            {
+              "label": "アームレスト/保証",
+              "value": "4Dアームレスト / 5年保証"
+            }
+          ]
+        },
+        {
+          "title": "Amazon AKRacingストア",
+          "rows": [
+            {
+              "label": "シリーズ",
+              "value": "Pro-X V2"
+            }
+          ]
+        }
+      ],
+      "series": "Pro-X V2"
+    },
+    {
+      "id": "chair-akr-wbk2y9",
+      "rank": null,
+      "asin": "B08YWBK2Y9",
+      "category": "gaming-chair",
+      "name": "ゲーミングチェア デスクチェア 強椅子 学習椅子 オレンジ Pro-X V2 高耐久PUレザー 180度リクライニング 在宅 リモート 5年保証",
+      "brand": "AKRacing",
+      "maxRecliningAngle": "180°",
+      "frameMaterial": "合金鋼",
+      "hasOttoman": false,
+      "dimensions": "65 × 65 × 127 cm",
+      "seatDepth": "54.5 cm",
+      "backrestWidth": "55 cm",
+      "tagline": "高耐久PUレザー・180°・Pro-X V2",
+      "price": 58384,
+      "rating": 4.5,
+      "reviews": 0,
+      "image": "https://m.media-amazon.com/images/I/51MXYJK7X8L._AC_SL1500_.jpg",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B08YWBK2Y9",
+      "highlights": [
+        {
+          "label": "素材",
+          "value": "高耐久PUレザー"
+        },
+        {
+          "label": "最大リクライニング角度",
+          "value": "最大180°（フルフラット）"
+        },
+        {
+          "label": "寸法/重量",
+          "value": "65 × 65 × 127 cm / 背もたれ幅 55 cm"
+        },
+        {
+          "label": "アームレスト/保証",
+          "value": "4Dアームレスト / 5年保証"
+        }
+      ],
+      "compat": [],
+      "specGroups": [
+        {
+          "title": "サイズ / 寸法",
+          "rows": [
+            {
+              "label": "本体寸法",
+              "value": "65 × 65 × 127 cm"
+            },
+            {
+              "label": "座面の奥行",
+              "value": "54.5 cm"
+            },
+            {
+              "label": "背もたれ幅",
+              "value": "55 cm"
+            }
+          ]
+        },
+        {
+          "title": "リクライニング / フレーム",
+          "rows": [
+            {
+              "label": "最大リクライニング角度",
+              "value": "最大180°（フルフラット）"
+            },
+            {
+              "label": "フレームの種類",
+              "value": "フレーム: 合金鋼"
+            }
+          ]
+        },
+        {
+          "title": "調節機能",
+          "rows": [
+            {
+              "label": "リクライニング",
+              "value": "対応"
+            }
+          ]
+        },
+        {
+          "title": "構造 / 素材",
+          "rows": [
+            {
+              "label": "素材",
+              "value": "高耐久PUレザー"
+            },
+            {
+              "label": "形状",
+              "value": "バケットシート型（ハイバック）"
+            },
+            {
+              "label": "オットマン",
+              "value": "なし"
+            },
+            {
+              "label": "寸法/重量",
+              "value": "65 × 65 × 127 cm / 背もたれ幅 55 cm"
+            },
+            {
+              "label": "アームレスト/保証",
+              "value": "4Dアームレスト / 5年保証"
+            }
+          ]
+        },
+        {
+          "title": "Amazon AKRacingストア",
+          "rows": [
+            {
+              "label": "シリーズ",
+              "value": "Pro-X V2"
+            }
+          ]
+        }
+      ],
+      "series": "Pro-X V2"
+    },
+    {
+      "id": "chair-akr-72dwq4",
+      "rank": null,
+      "asin": "B0DQ72DWQ4",
+      "category": "gaming-chair",
+      "name": "オフィスチェア Pro-X JP グレー 国産高耐久PUレザーリクライニング エルゴノミクス JIS規格 5年保証",
+      "brand": "AKRacing",
+      "maxRecliningAngle": "180°",
+      "frameMaterial": "合金鋼",
+      "hasOttoman": false,
+      "dimensions": "39 × 54.5 × 134 cm",
+      "seatDepth": "54.5 cm",
+      "seatWidth": "39 cm",
+      "backrestWidth": "55 cm",
+      "tagline": "国産高耐久PUレザー・180°・Pro-X JP",
+      "price": 79800,
+      "rating": 4.4,
+      "reviews": 0,
+      "image": "https://m.media-amazon.com/images/I/71IPZd8wBIL._AC_SL1500_.jpg",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0DQ72DWQ4",
+      "highlights": [
+        {
+          "label": "素材",
+          "value": "国産高耐久PUレザー"
+        },
+        {
+          "label": "最大リクライニング角度",
+          "value": "最大180°（フルフラット）"
+        },
+        {
+          "label": "寸法/重量",
+          "value": "39 × 54.5 × 134 cm / 座面幅 39 cm / 背もたれ幅 55 cm"
+        },
+        {
+          "label": "アームレスト/保証",
+          "value": "4Dアームレスト / 5年保証"
+        }
+      ],
+      "compat": [],
+      "specGroups": [
+        {
+          "title": "サイズ / 寸法",
+          "rows": [
+            {
+              "label": "本体寸法",
+              "value": "39 × 54.5 × 134 cm"
+            },
+            {
+              "label": "座面の奥行",
+              "value": "54.5 cm"
+            },
+            {
+              "label": "座面の幅",
+              "value": "39 cm"
+            },
+            {
+              "label": "背もたれ幅",
+              "value": "55 cm"
+            }
+          ]
+        },
+        {
+          "title": "リクライニング / フレーム",
+          "rows": [
+            {
+              "label": "最大リクライニング角度",
+              "value": "最大180°（フルフラット）"
+            },
+            {
+              "label": "フレームの種類",
+              "value": "フレーム: 合金鋼"
+            }
+          ]
+        },
+        {
+          "title": "調節機能",
+          "rows": [
+            {
+              "label": "リクライニング",
+              "value": "対応"
+            },
+            {
+              "label": "アームレスト",
+              "value": "対応"
+            }
+          ]
+        },
+        {
+          "title": "構造 / 素材",
+          "rows": [
+            {
+              "label": "素材",
+              "value": "国産高耐久PUレザー"
+            },
+            {
+              "label": "形状",
+              "value": "オフィスチェアカスタム型"
+            },
+            {
+              "label": "オットマン",
+              "value": "なし"
+            },
+            {
+              "label": "寸法/重量",
+              "value": "39 × 54.5 × 134 cm / 座面幅 39 cm / 背もたれ幅 55 cm"
+            },
+            {
+              "label": "アームレスト/保証",
+              "value": "4Dアームレスト / 5年保証"
+            }
+          ]
+        },
+        {
+          "title": "Amazon AKRacingストア",
+          "rows": [
+            {
+              "label": "シリーズ",
+              "value": "Pro-X JP"
+            }
+          ]
+        }
+      ],
+      "series": "Pro-X JP"
+    },
+    {
+      "id": "chair-akr-fg7k3x",
+      "rank": null,
+      "asin": "B0F1FG7K3X",
+      "category": "gaming-chair",
+      "name": "オフィスチェア Pro-X JP ブルー 国産高耐久PUレザーリクライニング エルゴノミクス JIS規格 5年保証",
+      "brand": "AKRacing",
+      "maxRecliningAngle": "180°",
+      "frameMaterial": "合金鋼",
+      "hasOttoman": false,
+      "dimensions": "39 × 54.5 × 134 cm",
+      "seatDepth": "54.5 cm",
+      "seatWidth": "39 cm",
+      "backrestWidth": "55 cm",
+      "tagline": "国産高耐久PUレザー・180°・Pro-X JP",
+      "price": 79800,
+      "rating": 4.4,
+      "reviews": 0,
+      "image": "https://m.media-amazon.com/images/I/71MDDFggYIL._AC_SL1500_.jpg",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0F1FG7K3X",
+      "highlights": [
+        {
+          "label": "素材",
+          "value": "国産高耐久PUレザー"
+        },
+        {
+          "label": "最大リクライニング角度",
+          "value": "最大180°（フルフラット）"
+        },
+        {
+          "label": "寸法/重量",
+          "value": "39 × 54.5 × 134 cm / 座面幅 39 cm / 背もたれ幅 55 cm"
+        },
+        {
+          "label": "アームレスト/保証",
+          "value": "4Dアームレスト / 5年保証"
+        }
+      ],
+      "compat": [],
+      "specGroups": [
+        {
+          "title": "サイズ / 寸法",
+          "rows": [
+            {
+              "label": "本体寸法",
+              "value": "39 × 54.5 × 134 cm"
+            },
+            {
+              "label": "座面の奥行",
+              "value": "54.5 cm"
+            },
+            {
+              "label": "座面の幅",
+              "value": "39 cm"
+            },
+            {
+              "label": "背もたれ幅",
+              "value": "55 cm"
+            }
+          ]
+        },
+        {
+          "title": "リクライニング / フレーム",
+          "rows": [
+            {
+              "label": "最大リクライニング角度",
+              "value": "最大180°（フルフラット）"
+            },
+            {
+              "label": "フレームの種類",
+              "value": "フレーム: 合金鋼"
+            }
+          ]
+        },
+        {
+          "title": "調節機能",
+          "rows": [
+            {
+              "label": "リクライニング",
+              "value": "対応"
+            }
+          ]
+        },
+        {
+          "title": "構造 / 素材",
+          "rows": [
+            {
+              "label": "素材",
+              "value": "国産高耐久PUレザー"
+            },
+            {
+              "label": "形状",
+              "value": "オフィスチェアカスタム型"
+            },
+            {
+              "label": "オットマン",
+              "value": "なし"
+            },
+            {
+              "label": "寸法/重量",
+              "value": "39 × 54.5 × 134 cm / 座面幅 39 cm / 背もたれ幅 55 cm"
+            },
+            {
+              "label": "アームレスト/保証",
+              "value": "4Dアームレスト / 5年保証"
+            }
+          ]
+        },
+        {
+          "title": "Amazon AKRacingストア",
+          "rows": [
+            {
+              "label": "シリーズ",
+              "value": "Pro-X JP"
+            }
+          ]
+        }
+      ],
+      "series": "Pro-X JP"
+    },
+    {
+      "id": "chair-akr-74np5p",
+      "rank": null,
+      "asin": "B0DQ74NP5P",
+      "category": "gaming-chair",
+      "name": "オフィスチェア Pro-X JP ホワイト 国産高耐久PUレザー リクライニング エルゴノミクス JIS規格 5年保証",
+      "brand": "AKRacing",
+      "maxRecliningAngle": "180°",
+      "frameMaterial": "合金鋼",
+      "hasOttoman": false,
+      "dimensions": "39 × 54.5 × 134 cm",
+      "seatDepth": "54.5 cm",
+      "seatWidth": "39 cm",
+      "backrestWidth": "55 cm",
+      "tagline": "国産高耐久PUレザー・180°・Pro-X JP",
+      "price": 79800,
+      "rating": 4.4,
+      "reviews": 0,
+      "image": "https://m.media-amazon.com/images/I/71D909ce8wL._AC_SL1500_.jpg",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0DQ74NP5P",
+      "highlights": [
+        {
+          "label": "素材",
+          "value": "国産高耐久PUレザー"
+        },
+        {
+          "label": "最大リクライニング角度",
+          "value": "最大180°（フルフラット）"
+        },
+        {
+          "label": "寸法/重量",
+          "value": "39 × 54.5 × 134 cm / 座面幅 39 cm / 背もたれ幅 55 cm"
+        },
+        {
+          "label": "アームレスト/保証",
+          "value": "4Dアームレスト / 5年保証"
+        }
+      ],
+      "compat": [],
+      "specGroups": [
+        {
+          "title": "サイズ / 寸法",
+          "rows": [
+            {
+              "label": "本体寸法",
+              "value": "39 × 54.5 × 134 cm"
+            },
+            {
+              "label": "座面の奥行",
+              "value": "54.5 cm"
+            },
+            {
+              "label": "座面の幅",
+              "value": "39 cm"
+            },
+            {
+              "label": "背もたれ幅",
+              "value": "55 cm"
+            }
+          ]
+        },
+        {
+          "title": "リクライニング / フレーム",
+          "rows": [
+            {
+              "label": "最大リクライニング角度",
+              "value": "最大180°（フルフラット）"
+            },
+            {
+              "label": "フレームの種類",
+              "value": "フレーム: 合金鋼"
+            }
+          ]
+        },
+        {
+          "title": "調節機能",
+          "rows": [
+            {
+              "label": "リクライニング",
+              "value": "対応"
+            }
+          ]
+        },
+        {
+          "title": "構造 / 素材",
+          "rows": [
+            {
+              "label": "素材",
+              "value": "国産高耐久PUレザー"
+            },
+            {
+              "label": "形状",
+              "value": "オフィスチェアカスタム型"
+            },
+            {
+              "label": "オットマン",
+              "value": "なし"
+            },
+            {
+              "label": "寸法/重量",
+              "value": "39 × 54.5 × 134 cm / 座面幅 39 cm / 背もたれ幅 55 cm"
+            },
+            {
+              "label": "アームレスト/保証",
+              "value": "4Dアームレスト / 5年保証"
+            }
+          ]
+        },
+        {
+          "title": "Amazon AKRacingストア",
+          "rows": [
+            {
+              "label": "シリーズ",
+              "value": "Pro-X JP"
+            }
+          ]
+        }
+      ],
+      "series": "Pro-X JP"
+    },
+    {
+      "id": "chair-akr-fdqh3y",
+      "rank": null,
+      "asin": "B0F1FDQH3Y",
+      "category": "gaming-chair",
+      "name": "オフィスチェア Pro-X JP レッド 国産高耐久PUレザーリクライニング エルゴノミクス JIS規格 5年保証",
+      "brand": "AKRacing",
+      "maxRecliningAngle": "180°",
+      "frameMaterial": "合金鋼",
+      "hasOttoman": false,
+      "dimensions": "39 × 54.5 × 134 cm",
+      "seatDepth": "54.5 cm",
+      "seatWidth": "39 cm",
+      "backrestWidth": "55 cm",
+      "tagline": "国産高耐久PUレザー・180°・Pro-X JP",
+      "price": 79800,
+      "rating": 4.4,
+      "reviews": 0,
+      "image": "https://m.media-amazon.com/images/I/712VikdhDYL._AC_SL1500_.jpg",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0F1FDQH3Y",
+      "highlights": [
+        {
+          "label": "素材",
+          "value": "国産高耐久PUレザー"
+        },
+        {
+          "label": "最大リクライニング角度",
+          "value": "最大180°（フルフラット）"
+        },
+        {
+          "label": "寸法/重量",
+          "value": "39 × 54.5 × 134 cm / 座面幅 39 cm / 背もたれ幅 55 cm"
+        },
+        {
+          "label": "アームレスト/保証",
+          "value": "4Dアームレスト / 5年保証"
+        }
+      ],
+      "compat": [],
+      "specGroups": [
+        {
+          "title": "サイズ / 寸法",
+          "rows": [
+            {
+              "label": "本体寸法",
+              "value": "39 × 54.5 × 134 cm"
+            },
+            {
+              "label": "座面の奥行",
+              "value": "54.5 cm"
+            },
+            {
+              "label": "座面の幅",
+              "value": "39 cm"
+            },
+            {
+              "label": "背もたれ幅",
+              "value": "55 cm"
+            }
+          ]
+        },
+        {
+          "title": "リクライニング / フレーム",
+          "rows": [
+            {
+              "label": "最大リクライニング角度",
+              "value": "最大180°（フルフラット）"
+            },
+            {
+              "label": "フレームの種類",
+              "value": "フレーム: 合金鋼"
+            }
+          ]
+        },
+        {
+          "title": "調節機能",
+          "rows": [
+            {
+              "label": "リクライニング",
+              "value": "対応"
+            }
+          ]
+        },
+        {
+          "title": "構造 / 素材",
+          "rows": [
+            {
+              "label": "素材",
+              "value": "国産高耐久PUレザー"
+            },
+            {
+              "label": "形状",
+              "value": "オフィスチェアカスタム型"
+            },
+            {
+              "label": "オットマン",
+              "value": "なし"
+            },
+            {
+              "label": "寸法/重量",
+              "value": "39 × 54.5 × 134 cm / 座面幅 39 cm / 背もたれ幅 55 cm"
+            },
+            {
+              "label": "アームレスト/保証",
+              "value": "4Dアームレスト / 5年保証"
+            }
+          ]
+        },
+        {
+          "title": "Amazon AKRacingストア",
+          "rows": [
+            {
+              "label": "シリーズ",
+              "value": "Pro-X JP"
+            }
+          ]
+        }
+      ],
+      "series": "Pro-X JP"
+    },
+    {
+      "id": "chair-akr-9q5kq1",
+      "rank": null,
+      "asin": "B0H69Q5KQ1",
+      "category": "gaming-chair",
+      "name": "ファシリティチェア MJ Grey 日本プロ麻雀連盟モデル グレー 高耐久PUレザーリクライニング",
+      "brand": "AKRacing",
+      "maxRecliningAngle": "135°",
+      "frameMaterial": "合金鋼",
+      "hasOttoman": false,
+      "dimensions": "69 × 52 × 99.5 cm",
+      "seatDepth": "52 cm",
+      "seatWidth": "56 cm",
+      "backrestWidth": "50 cm",
+      "tagline": "高耐久PUレザー・135°・MJ Grey",
+      "price": 74052,
+      "rating": 4.4,
+      "reviews": 0,
+      "image": "https://m.media-amazon.com/images/I/71vBZAWl-iL._AC_SL1500_.jpg",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0H69Q5KQ1",
+      "highlights": [
+        {
+          "label": "素材",
+          "value": "高耐久PUレザー"
+        },
+        {
+          "label": "最大リクライニング角度",
+          "value": "最大135°"
+        },
+        {
+          "label": "寸法/重量",
+          "value": "69 × 52 × 99.5 cm / 座面幅 56 cm / 背もたれ幅 50 cm"
+        },
+        {
+          "label": "アームレスト/保証",
+          "value": "4Dアームレスト / 5年保証"
+        }
+      ],
+      "compat": [],
+      "specGroups": [
+        {
+          "title": "サイズ / 寸法",
+          "rows": [
+            {
+              "label": "本体寸法",
+              "value": "69 × 52 × 99.5 cm"
+            },
+            {
+              "label": "座面の奥行",
+              "value": "52 cm"
+            },
+            {
+              "label": "座面の幅",
+              "value": "56 cm"
+            },
+            {
+              "label": "背もたれ幅",
+              "value": "50 cm"
+            }
+          ]
+        },
+        {
+          "title": "リクライニング / フレーム",
+          "rows": [
+            {
+              "label": "最大リクライニング角度",
+              "value": "最大135°"
+            },
+            {
+              "label": "フレームの種類",
+              "value": "フレーム: 合金鋼"
+            }
+          ]
+        },
+        {
+          "title": "調節機能",
+          "rows": [
+            {
+              "label": "リクライニング",
+              "value": "対応"
+            }
+          ]
+        },
+        {
+          "title": "構造 / 素材",
+          "rows": [
+            {
+              "label": "素材",
+              "value": "高耐久PUレザー"
+            },
+            {
+              "label": "形状",
+              "value": "バケットシート型（ハイバック）"
+            },
+            {
+              "label": "オットマン",
+              "value": "なし"
+            },
+            {
+              "label": "寸法/重量",
+              "value": "69 × 52 × 99.5 cm / 座面幅 56 cm / 背もたれ幅 50 cm"
+            },
+            {
+              "label": "アームレスト/保証",
+              "value": "4Dアームレスト / 5年保証"
+            }
+          ]
+        },
+        {
+          "title": "Amazon AKRacingストア",
+          "rows": [
+            {
+              "label": "シリーズ",
+              "value": "MJ Grey"
+            }
+          ]
+        }
+      ],
+      "series": "MJ Grey"
+    },
+    {
+      "id": "chair-akr-qk77yh",
+      "rank": null,
+      "asin": "B0H4QK77YH",
+      "category": "gaming-chair",
+      "name": "遊戯施設向け高耐久チェア MJ Grey ファシリティチェア ゲーミングチェア デスクチェア 勉強椅子 学習椅子 グレイ 灰 MJ 高耐久PUレザー 135度リクライニング 在宅 リモート",
+      "brand": "AKRacing",
+      "maxRecliningAngle": "135°",
+      "frameMaterial": "合金鋼",
+      "hasOttoman": false,
+      "dimensions": "69 × 52 × 99.5 cm",
+      "seatDepth": "52 cm",
+      "seatWidth": "56 cm",
+      "backrestWidth": "50 cm",
+      "tagline": "高耐久PUレザー・135°・MJ Grey",
+      "price": 69102,
+      "rating": 4.8,
+      "reviews": 0,
+      "image": "https://m.media-amazon.com/images/I/61vsBurkb8L._AC_SL1500_.jpg",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0H4QK77YH",
+      "highlights": [
+        {
+          "label": "素材",
+          "value": "高耐久PUレザー"
+        },
+        {
+          "label": "最大リクライニング角度",
+          "value": "最大135°"
+        },
+        {
+          "label": "寸法/重量",
+          "value": "69 × 52 × 99.5 cm / 座面幅 56 cm / 背もたれ幅 50 cm"
+        },
+        {
+          "label": "アームレスト/保証",
+          "value": "4Dアームレスト / 5年保証"
+        }
+      ],
+      "compat": [],
+      "specGroups": [
+        {
+          "title": "サイズ / 寸法",
+          "rows": [
+            {
+              "label": "本体寸法",
+              "value": "69 × 52 × 99.5 cm"
+            },
+            {
+              "label": "座面の奥行",
+              "value": "52 cm"
+            },
+            {
+              "label": "座面の幅",
+              "value": "56 cm"
+            },
+            {
+              "label": "背もたれ幅",
+              "value": "50 cm"
+            }
+          ]
+        },
+        {
+          "title": "リクライニング / フレーム",
+          "rows": [
+            {
+              "label": "最大リクライニング角度",
+              "value": "最大135°"
+            },
+            {
+              "label": "フレームの種類",
+              "value": "フレーム: 合金鋼"
+            }
+          ]
+        },
+        {
+          "title": "調節機能",
+          "rows": [
+            {
+              "label": "リクライニング",
+              "value": "対応"
+            }
+          ]
+        },
+        {
+          "title": "構造 / 素材",
+          "rows": [
+            {
+              "label": "素材",
+              "value": "高耐久PUレザー"
+            },
+            {
+              "label": "形状",
+              "value": "バケットシート型（ハイバック）"
+            },
+            {
+              "label": "オットマン",
+              "value": "なし"
+            },
+            {
+              "label": "寸法/重量",
+              "value": "69 × 52 × 99.5 cm / 座面幅 56 cm / 背もたれ幅 50 cm"
+            },
+            {
+              "label": "アームレスト/保証",
+              "value": "4Dアームレスト / 5年保証"
+            }
+          ]
+        },
+        {
+          "title": "Amazon AKRacingストア",
+          "rows": [
+            {
+              "label": "シリーズ",
+              "value": "MJ Grey"
+            }
+          ]
+        }
+      ],
+      "series": "MJ Grey"
+    },
+    {
+      "id": "chair-akr-zxq6b7",
+      "rank": null,
+      "asin": "B0CVZXQ6B7",
+      "category": "gaming-chair",
+      "name": "ゲーミングチェア Overture イエロー 高耐久PUレザーリクライニング エルゴノミクス JIS規格 5年保証",
+      "brand": "AKRacing",
+      "maxRecliningAngle": "180°",
+      "frameMaterial": "合金鋼",
+      "hasOttoman": false,
+      "dimensions": "65 × 65 × 129 cm",
+      "backrestWidth": "52 cm",
+      "tagline": "高耐久PUレザー・180°・Overture",
+      "price": 47561,
+      "rating": 4.5,
+      "reviews": 0,
+      "image": "https://m.media-amazon.com/images/I/512Y-ge8ckL._AC_SL1500_.jpg",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0CVZXQ6B7",
+      "highlights": [
+        {
+          "label": "素材",
+          "value": "高耐久PUレザー"
+        },
+        {
+          "label": "最大リクライニング角度",
+          "value": "最大180°（フルフラット）"
+        },
+        {
+          "label": "寸法/重量",
+          "value": "65 × 65 × 129 cm / 背もたれ幅 52 cm"
+        },
+        {
+          "label": "アームレスト/保証",
+          "value": "4Dアームレスト / 5年保証"
+        }
+      ],
+      "compat": [],
+      "specGroups": [
+        {
+          "title": "サイズ / 寸法",
+          "rows": [
+            {
+              "label": "本体寸法",
+              "value": "65 × 65 × 129 cm"
+            },
+            {
+              "label": "背もたれ幅",
+              "value": "52 cm"
+            }
+          ]
+        },
+        {
+          "title": "リクライニング / フレーム",
+          "rows": [
+            {
+              "label": "最大リクライニング角度",
+              "value": "最大180°（フルフラット）"
+            },
+            {
+              "label": "フレームの種類",
+              "value": "フレーム: 合金鋼"
+            }
+          ]
+        },
+        {
+          "title": "調節機能",
+          "rows": [
+            {
+              "label": "リクライニング",
+              "value": "対応"
+            }
+          ]
+        },
+        {
+          "title": "構造 / 素材",
+          "rows": [
+            {
+              "label": "素材",
+              "value": "高耐久PUレザー"
+            },
+            {
+              "label": "形状",
+              "value": "オフィスチェアカスタム型"
+            },
+            {
+              "label": "オットマン",
+              "value": "なし"
+            },
+            {
+              "label": "寸法/重量",
+              "value": "65 × 65 × 129 cm / 背もたれ幅 52 cm"
+            },
+            {
+              "label": "アームレスト/保証",
+              "value": "4Dアームレスト / 5年保証"
+            }
+          ]
+        },
+        {
+          "title": "Amazon AKRacingストア",
+          "rows": [
+            {
+              "label": "シリーズ",
+              "value": "Overture"
+            }
+          ]
+        }
+      ],
+      "series": "Overture"
+    },
+    {
+      "id": "chair-akr-zc81rv",
+      "rank": null,
+      "asin": "B07BZC81RV",
+      "category": "gaming-chair",
+      "name": "ゲーミングチェア Overture パープル 高耐久PUレザー リクライニング エルゴノミクス JIS規格 5年保証",
+      "brand": "AKRacing",
+      "maxRecliningAngle": "180°",
+      "frameMaterial": "合金鋼",
+      "hasOttoman": false,
+      "dimensions": "65 × 65 × 129 cm",
+      "seatDepth": "56 cm",
+      "backrestWidth": "58 cm",
+      "tagline": "高耐久PUレザー・180°・Overture",
+      "price": 49764,
+      "rating": 4.5,
+      "reviews": 0,
+      "image": "https://m.media-amazon.com/images/I/61l5FaohpUL._AC_SL1500_.jpg",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B07BZC81RV",
+      "highlights": [
+        {
+          "label": "素材",
+          "value": "高耐久PUレザー"
+        },
+        {
+          "label": "最大リクライニング角度",
+          "value": "最大180°（フルフラット）"
+        },
+        {
+          "label": "寸法/重量",
+          "value": "65 × 65 × 129 cm / 背もたれ幅 58 cm"
+        },
+        {
+          "label": "アームレスト/保証",
+          "value": "4Dアームレスト / 5年保証"
+        }
+      ],
+      "compat": [],
+      "specGroups": [
+        {
+          "title": "サイズ / 寸法",
+          "rows": [
+            {
+              "label": "本体寸法",
+              "value": "65 × 65 × 129 cm"
+            },
+            {
+              "label": "座面の奥行",
+              "value": "56 cm"
+            },
+            {
+              "label": "背もたれ幅",
+              "value": "58 cm"
+            }
+          ]
+        },
+        {
+          "title": "リクライニング / フレーム",
+          "rows": [
+            {
+              "label": "最大リクライニング角度",
+              "value": "最大180°（フルフラット）"
+            },
+            {
+              "label": "フレームの種類",
+              "value": "フレーム: 合金鋼"
+            }
+          ]
+        },
+        {
+          "title": "調節機能",
+          "rows": [
+            {
+              "label": "リクライニング",
+              "value": "対応"
+            }
+          ]
+        },
+        {
+          "title": "構造 / 素材",
+          "rows": [
+            {
+              "label": "素材",
+              "value": "高耐久PUレザー"
+            },
+            {
+              "label": "形状",
+              "value": "オフィスチェアカスタム型"
+            },
+            {
+              "label": "オットマン",
+              "value": "なし"
+            },
+            {
+              "label": "寸法/重量",
+              "value": "65 × 65 × 129 cm / 背もたれ幅 58 cm"
+            },
+            {
+              "label": "アームレスト/保証",
+              "value": "4Dアームレスト / 5年保証"
+            }
+          ]
+        },
+        {
+          "title": "Amazon AKRacingストア",
+          "rows": [
+            {
+              "label": "シリーズ",
+              "value": "Overture"
+            }
+          ]
+        }
+      ],
+      "series": "Overture"
+    },
+    {
+      "id": "chair-akr-bpdmcc",
+      "rank": null,
+      "asin": "B07CBPDMCC",
+      "category": "gaming-chair",
+      "name": "ゲーミングチェア Overture ピンク 高耐久PUレザーリクライニング エルゴノミクス JIS規格 5年保証",
+      "brand": "AKRacing",
+      "maxRecliningAngle": "180°",
+      "frameMaterial": "合金鋼",
+      "hasOttoman": false,
+      "dimensions": "65 × 65 × 129 cm",
+      "seatDepth": "56 cm",
+      "backrestWidth": "52 cm",
+      "tagline": "高耐久PUレザー・180°・Overture",
+      "price": 50303,
+      "rating": 4.5,
+      "reviews": 0,
+      "image": "https://m.media-amazon.com/images/I/61cmq6NZCLL._AC_SL1500_.jpg",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B07CBPDMCC",
+      "highlights": [
+        {
+          "label": "素材",
+          "value": "高耐久PUレザー"
+        },
+        {
+          "label": "最大リクライニング角度",
+          "value": "最大180°（フルフラット）"
+        },
+        {
+          "label": "寸法/重量",
+          "value": "65 × 65 × 129 cm / 背もたれ幅 52 cm"
+        },
+        {
+          "label": "アームレスト/保証",
+          "value": "4Dアームレスト / 5年保証"
+        }
+      ],
+      "compat": [],
+      "specGroups": [
+        {
+          "title": "サイズ / 寸法",
+          "rows": [
+            {
+              "label": "本体寸法",
+              "value": "65 × 65 × 129 cm"
+            },
+            {
+              "label": "座面の奥行",
+              "value": "56 cm"
+            },
+            {
+              "label": "背もたれ幅",
+              "value": "52 cm"
+            }
+          ]
+        },
+        {
+          "title": "リクライニング / フレーム",
+          "rows": [
+            {
+              "label": "最大リクライニング角度",
+              "value": "最大180°（フルフラット）"
+            },
+            {
+              "label": "フレームの種類",
+              "value": "フレーム: 合金鋼"
+            }
+          ]
+        },
+        {
+          "title": "調節機能",
+          "rows": [
+            {
+              "label": "リクライニング",
+              "value": "対応"
+            }
+          ]
+        },
+        {
+          "title": "構造 / 素材",
+          "rows": [
+            {
+              "label": "素材",
+              "value": "高耐久PUレザー"
+            },
+            {
+              "label": "形状",
+              "value": "オフィスチェアカスタム型"
+            },
+            {
+              "label": "オットマン",
+              "value": "なし"
+            },
+            {
+              "label": "寸法/重量",
+              "value": "65 × 65 × 129 cm / 背もたれ幅 52 cm"
+            },
+            {
+              "label": "アームレスト/保証",
+              "value": "4Dアームレスト / 5年保証"
+            }
+          ]
+        },
+        {
+          "title": "Amazon AKRacingストア",
+          "rows": [
+            {
+              "label": "シリーズ",
+              "value": "Overture"
+            }
+          ]
+        }
+      ],
+      "series": "Overture"
+    },
+    {
+      "id": "chair-akr-bpdbkp",
+      "rank": null,
+      "asin": "B07CBPDBKP",
+      "category": "gaming-chair",
+      "name": "ゲーミングチェア Overture ブラック 高耐久PUレザー リクライニング エルゴノミクス JIS規格 5年保証",
+      "brand": "AKRacing",
+      "maxRecliningAngle": "180°",
+      "frameMaterial": "合金鋼",
+      "hasOttoman": false,
+      "dimensions": "65 × 65 × 129 cm",
+      "seatDepth": "52.5 cm",
+      "backrestWidth": "58 cm",
+      "tagline": "高耐久PUレザー・180°・Overture",
+      "price": 49764,
+      "rating": 4.5,
+      "reviews": 0,
+      "image": "https://m.media-amazon.com/images/I/51RilCafZwL._AC_SL1500_.jpg",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B07CBPDBKP",
+      "highlights": [
+        {
+          "label": "素材",
+          "value": "高耐久PUレザー"
+        },
+        {
+          "label": "最大リクライニング角度",
+          "value": "最大180°（フルフラット）"
+        },
+        {
+          "label": "寸法/重量",
+          "value": "65 × 65 × 129 cm / 背もたれ幅 58 cm"
+        },
+        {
+          "label": "アームレスト/保証",
+          "value": "4Dアームレスト / 5年保証"
+        }
+      ],
+      "compat": [],
+      "specGroups": [
+        {
+          "title": "サイズ / 寸法",
+          "rows": [
+            {
+              "label": "本体寸法",
+              "value": "65 × 65 × 129 cm"
+            },
+            {
+              "label": "座面の奥行",
+              "value": "52.5 cm"
+            },
+            {
+              "label": "背もたれ幅",
+              "value": "58 cm"
+            }
+          ]
+        },
+        {
+          "title": "リクライニング / フレーム",
+          "rows": [
+            {
+              "label": "最大リクライニング角度",
+              "value": "最大180°（フルフラット）"
+            },
+            {
+              "label": "フレームの種類",
+              "value": "フレーム: 合金鋼"
+            }
+          ]
+        },
+        {
+          "title": "調節機能",
+          "rows": [
+            {
+              "label": "リクライニング",
+              "value": "対応"
+            }
+          ]
+        },
+        {
+          "title": "構造 / 素材",
+          "rows": [
+            {
+              "label": "素材",
+              "value": "高耐久PUレザー"
+            },
+            {
+              "label": "形状",
+              "value": "オフィスチェアカスタム型"
+            },
+            {
+              "label": "オットマン",
+              "value": "なし"
+            },
+            {
+              "label": "寸法/重量",
+              "value": "65 × 65 × 129 cm / 背もたれ幅 58 cm"
+            },
+            {
+              "label": "アームレスト/保証",
+              "value": "4Dアームレスト / 5年保証"
+            }
+          ]
+        },
+        {
+          "title": "Amazon AKRacingストア",
+          "rows": [
+            {
+              "label": "シリーズ",
+              "value": "Overture"
+            }
+          ]
+        }
+      ],
+      "series": "Overture"
+    },
+    {
+      "id": "chair-akr-f8n2vl",
+      "rank": null,
+      "asin": "B07CF8N2VL",
+      "category": "gaming-chair",
+      "name": "ゲーミングチェア Overture ブルー 高耐久PUレザー リクライニング エルゴノミクス JIS規格 5年保証",
+      "brand": "AKRacing",
+      "maxRecliningAngle": "180°",
+      "frameMaterial": "合金鋼",
+      "hasOttoman": false,
+      "dimensions": "65 × 65 × 129 cm",
+      "seatDepth": "52.5 cm",
+      "backrestWidth": "52 cm",
+      "tagline": "高耐久PUレザー・180°・Overture",
+      "price": 49764,
+      "rating": 4.5,
+      "reviews": 0,
+      "image": "https://m.media-amazon.com/images/I/61TRbe6ObPL._AC_SL1500_.jpg",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B07CF8N2VL",
+      "highlights": [
+        {
+          "label": "素材",
+          "value": "高耐久PUレザー"
+        },
+        {
+          "label": "最大リクライニング角度",
+          "value": "最大180°（フルフラット）"
+        },
+        {
+          "label": "寸法/重量",
+          "value": "65 × 65 × 129 cm / 背もたれ幅 52 cm"
+        },
+        {
+          "label": "アームレスト/保証",
+          "value": "4Dアームレスト / 5年保証"
+        }
+      ],
+      "compat": [],
+      "specGroups": [
+        {
+          "title": "サイズ / 寸法",
+          "rows": [
+            {
+              "label": "本体寸法",
+              "value": "65 × 65 × 129 cm"
+            },
+            {
+              "label": "座面の奥行",
+              "value": "52.5 cm"
+            },
+            {
+              "label": "背もたれ幅",
+              "value": "52 cm"
+            }
+          ]
+        },
+        {
+          "title": "リクライニング / フレーム",
+          "rows": [
+            {
+              "label": "最大リクライニング角度",
+              "value": "最大180°（フルフラット）"
+            },
+            {
+              "label": "フレームの種類",
+              "value": "フレーム: 合金鋼"
+            }
+          ]
+        },
+        {
+          "title": "調節機能",
+          "rows": [
+            {
+              "label": "リクライニング",
+              "value": "対応"
+            }
+          ]
+        },
+        {
+          "title": "構造 / 素材",
+          "rows": [
+            {
+              "label": "素材",
+              "value": "高耐久PUレザー"
+            },
+            {
+              "label": "形状",
+              "value": "オフィスチェアカスタム型"
+            },
+            {
+              "label": "オットマン",
+              "value": "なし"
+            },
+            {
+              "label": "寸法/重量",
+              "value": "65 × 65 × 129 cm / 背もたれ幅 52 cm"
+            },
+            {
+              "label": "アームレスト/保証",
+              "value": "4Dアームレスト / 5年保証"
+            }
+          ]
+        },
+        {
+          "title": "Amazon AKRacingストア",
+          "rows": [
+            {
+              "label": "シリーズ",
+              "value": "Overture"
+            }
+          ]
+        }
+      ],
+      "series": "Overture"
+    },
+    {
+      "id": "chair-akr-bpdvpg",
+      "rank": null,
+      "asin": "B07CBPDVPG",
+      "category": "gaming-chair",
+      "name": "ゲーミングチェア Overture ホワイト 高耐久PUレザー リクライニング エルゴノミクス JIS規格 5年保証",
+      "brand": "AKRacing",
+      "maxRecliningAngle": "180°",
+      "frameMaterial": "合金鋼",
+      "hasOttoman": false,
+      "dimensions": "65 × 65 × 129 cm",
+      "seatDepth": "52.5 cm",
+      "backrestWidth": "52 cm",
+      "tagline": "高耐久PUレザー・180°・Overture",
+      "price": 49764,
+      "rating": 4.5,
+      "reviews": 0,
+      "image": "https://m.media-amazon.com/images/I/610d2n-59rL._AC_SL1500_.jpg",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B07CBPDVPG",
+      "highlights": [
+        {
+          "label": "素材",
+          "value": "高耐久PUレザー"
+        },
+        {
+          "label": "最大リクライニング角度",
+          "value": "最大180°（フルフラット）"
+        },
+        {
+          "label": "寸法/重量",
+          "value": "65 × 65 × 129 cm / 背もたれ幅 52 cm"
+        },
+        {
+          "label": "アームレスト/保証",
+          "value": "4Dアームレスト / 5年保証"
+        }
+      ],
+      "compat": [],
+      "specGroups": [
+        {
+          "title": "サイズ / 寸法",
+          "rows": [
+            {
+              "label": "本体寸法",
+              "value": "65 × 65 × 129 cm"
+            },
+            {
+              "label": "座面の奥行",
+              "value": "52.5 cm"
+            },
+            {
+              "label": "背もたれ幅",
+              "value": "52 cm"
+            }
+          ]
+        },
+        {
+          "title": "リクライニング / フレーム",
+          "rows": [
+            {
+              "label": "最大リクライニング角度",
+              "value": "最大180°（フルフラット）"
+            },
+            {
+              "label": "フレームの種類",
+              "value": "フレーム: 合金鋼"
+            }
+          ]
+        },
+        {
+          "title": "調節機能",
+          "rows": [
+            {
+              "label": "リクライニング",
+              "value": "対応"
+            }
+          ]
+        },
+        {
+          "title": "構造 / 素材",
+          "rows": [
+            {
+              "label": "素材",
+              "value": "高耐久PUレザー"
+            },
+            {
+              "label": "形状",
+              "value": "オフィスチェアカスタム型"
+            },
+            {
+              "label": "オットマン",
+              "value": "なし"
+            },
+            {
+              "label": "寸法/重量",
+              "value": "65 × 65 × 129 cm / 背もたれ幅 52 cm"
+            },
+            {
+              "label": "アームレスト/保証",
+              "value": "4Dアームレスト / 5年保証"
+            }
+          ]
+        },
+        {
+          "title": "Amazon AKRacingストア",
+          "rows": [
+            {
+              "label": "シリーズ",
+              "value": "Overture"
+            }
+          ]
+        }
+      ],
+      "series": "Overture"
+    },
+    {
+      "id": "chair-akr-bpcz8r",
+      "rank": null,
+      "asin": "B07CBPCZ8R",
+      "category": "gaming-chair",
+      "name": "ゲーミングチェア Overture レッド 高耐久PUレザー リクライニング エルゴノミクス JIS規格 5年保証",
+      "brand": "AKRacing",
+      "maxRecliningAngle": "180°",
+      "frameMaterial": "合金鋼",
+      "hasOttoman": false,
+      "dimensions": "65 × 65 × 129 cm",
+      "seatDepth": "56 cm",
+      "backrestWidth": "52 cm",
+      "tagline": "高耐久PUレザー・180°・Overture",
+      "price": 49764,
+      "rating": 4.5,
+      "reviews": 0,
+      "image": "https://m.media-amazon.com/images/I/61DeWSOowlL._AC_SL1500_.jpg",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B07CBPCZ8R",
+      "highlights": [
+        {
+          "label": "素材",
+          "value": "高耐久PUレザー"
+        },
+        {
+          "label": "最大リクライニング角度",
+          "value": "最大180°（フルフラット）"
+        },
+        {
+          "label": "寸法/重量",
+          "value": "65 × 65 × 129 cm / 背もたれ幅 52 cm"
+        },
+        {
+          "label": "アームレスト/保証",
+          "value": "4Dアームレスト / 5年保証"
+        }
+      ],
+      "compat": [],
+      "specGroups": [
+        {
+          "title": "サイズ / 寸法",
+          "rows": [
+            {
+              "label": "本体寸法",
+              "value": "65 × 65 × 129 cm"
+            },
+            {
+              "label": "座面の奥行",
+              "value": "56 cm"
+            },
+            {
+              "label": "背もたれ幅",
+              "value": "52 cm"
+            }
+          ]
+        },
+        {
+          "title": "リクライニング / フレーム",
+          "rows": [
+            {
+              "label": "最大リクライニング角度",
+              "value": "最大180°（フルフラット）"
+            },
+            {
+              "label": "フレームの種類",
+              "value": "フレーム: 合金鋼"
+            }
+          ]
+        },
+        {
+          "title": "調節機能",
+          "rows": [
+            {
+              "label": "リクライニング",
+              "value": "対応"
+            }
+          ]
+        },
+        {
+          "title": "構造 / 素材",
+          "rows": [
+            {
+              "label": "素材",
+              "value": "高耐久PUレザー"
+            },
+            {
+              "label": "形状",
+              "value": "オフィスチェアカスタム型"
+            },
+            {
+              "label": "オットマン",
+              "value": "なし"
+            },
+            {
+              "label": "寸法/重量",
+              "value": "65 × 65 × 129 cm / 背もたれ幅 52 cm"
+            },
+            {
+              "label": "アームレスト/保証",
+              "value": "4Dアームレスト / 5年保証"
+            }
+          ]
+        },
+        {
+          "title": "Amazon AKRacingストア",
+          "rows": [
+            {
+              "label": "シリーズ",
+              "value": "Overture"
+            }
+          ]
+        }
+      ],
+      "series": "Overture"
+    },
+    {
+      "id": "chair-akr-jstpsk",
+      "rank": null,
+      "asin": "B086JSTPSK",
+      "category": "gaming-chair",
+      "name": "ゲーミングチェア デスクチェア 勉強机 勉強椅子 学習机 学習椅子 オレンジ Nitro V2 高耐久PUレザー 180度リクライニング 在宅 リモート 5年保証",
+      "brand": "AKRacing",
+      "maxRecliningAngle": "180°",
+      "frameMaterial": "合金鋼",
+      "hasOttoman": false,
+      "dimensions": "65 × 65 × 125 cm",
+      "seatDepth": "56 cm",
+      "backrestWidth": "54 cm",
+      "tagline": "高耐久PUレザー・180°・Nitro V2",
+      "price": 48283,
+      "rating": 4.6,
+      "reviews": 0,
+      "image": "https://m.media-amazon.com/images/I/61nNYMfD3bL._AC_SL1500_.jpg",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B086JSTPSK",
+      "highlights": [
+        {
+          "label": "素材",
+          "value": "高耐久PUレザー"
+        },
+        {
+          "label": "最大リクライニング角度",
+          "value": "最大180°（フルフラット）"
+        },
+        {
+          "label": "寸法/重量",
+          "value": "65 × 65 × 125 cm / 背もたれ幅 54 cm"
+        },
+        {
+          "label": "アームレスト/保証",
+          "value": "4Dアームレスト / 5年保証"
+        }
+      ],
+      "compat": [],
+      "specGroups": [
+        {
+          "title": "サイズ / 寸法",
+          "rows": [
+            {
+              "label": "本体寸法",
+              "value": "65 × 65 × 125 cm"
+            },
+            {
+              "label": "座面の奥行",
+              "value": "56 cm"
+            },
+            {
+              "label": "背もたれ幅",
+              "value": "54 cm"
+            }
+          ]
+        },
+        {
+          "title": "リクライニング / フレーム",
+          "rows": [
+            {
+              "label": "最大リクライニング角度",
+              "value": "最大180°（フルフラット）"
+            },
+            {
+              "label": "フレームの種類",
+              "value": "フレーム: 合金鋼"
+            }
+          ]
+        },
+        {
+          "title": "調節機能",
+          "rows": [
+            {
+              "label": "リクライニング",
+              "value": "対応"
+            }
+          ]
+        },
+        {
+          "title": "構造 / 素材",
+          "rows": [
+            {
+              "label": "素材",
+              "value": "高耐久PUレザー"
+            },
+            {
+              "label": "形状",
+              "value": "バケットシート型（ハイバック）"
+            },
+            {
+              "label": "オットマン",
+              "value": "なし"
+            },
+            {
+              "label": "寸法/重量",
+              "value": "65 × 65 × 125 cm / 背もたれ幅 54 cm"
+            },
+            {
+              "label": "アームレスト/保証",
+              "value": "4Dアームレスト / 5年保証"
+            }
+          ]
+        },
+        {
+          "title": "Amazon AKRacingストア",
+          "rows": [
+            {
+              "label": "シリーズ",
+              "value": "Nitro V2"
+            }
+          ]
+        }
+      ],
+      "series": "Nitro V2"
+    },
+    {
+      "id": "chair-akr-jsftvn",
+      "rank": null,
+      "asin": "B086JSFTVN",
+      "category": "gaming-chair",
+      "name": "ゲーミングチェア デスクチェア 勉強机 勉強椅子 学習机 学習椅子 グリーン 緑 Nitro V2 高耐久PUレザー 180度リクライニング 在宅 リモート 5年保証",
+      "brand": "AKRacing",
+      "maxRecliningAngle": "180°",
+      "frameMaterial": "合金鋼",
+      "hasOttoman": false,
+      "dimensions": "65 × 65 × 125 cm",
+      "seatDepth": "51 cm",
+      "backrestWidth": "54 cm",
+      "tagline": "高耐久PUレザー・180°・Nitro V2",
+      "price": 38945,
+      "rating": 4.6,
+      "reviews": 0,
+      "image": "https://m.media-amazon.com/images/I/61GBKdnYCTL._AC_SL1500_.jpg",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B086JSFTVN",
+      "highlights": [
+        {
+          "label": "素材",
+          "value": "高耐久PUレザー"
+        },
+        {
+          "label": "最大リクライニング角度",
+          "value": "最大180°（フルフラット）"
+        },
+        {
+          "label": "寸法/重量",
+          "value": "65 × 65 × 125 cm / 背もたれ幅 54 cm"
+        },
+        {
+          "label": "アームレスト/保証",
+          "value": "4Dアームレスト / 5年保証"
+        }
+      ],
+      "compat": [],
+      "specGroups": [
+        {
+          "title": "サイズ / 寸法",
+          "rows": [
+            {
+              "label": "本体寸法",
+              "value": "65 × 65 × 125 cm"
+            },
+            {
+              "label": "座面の奥行",
+              "value": "51 cm"
+            },
+            {
+              "label": "背もたれ幅",
+              "value": "54 cm"
+            }
+          ]
+        },
+        {
+          "title": "リクライニング / フレーム",
+          "rows": [
+            {
+              "label": "最大リクライニング角度",
+              "value": "最大180°（フルフラット）"
+            },
+            {
+              "label": "フレームの種類",
+              "value": "フレーム: 合金鋼"
+            }
+          ]
+        },
+        {
+          "title": "調節機能",
+          "rows": [
+            {
+              "label": "リクライニング",
+              "value": "対応"
+            }
+          ]
+        },
+        {
+          "title": "構造 / 素材",
+          "rows": [
+            {
+              "label": "素材",
+              "value": "高耐久PUレザー"
+            },
+            {
+              "label": "形状",
+              "value": "バケットシート型（ハイバック）"
+            },
+            {
+              "label": "オットマン",
+              "value": "なし"
+            },
+            {
+              "label": "寸法/重量",
+              "value": "65 × 65 × 125 cm / 背もたれ幅 54 cm"
+            },
+            {
+              "label": "アームレスト/保証",
+              "value": "4Dアームレスト / 5年保証"
+            }
+          ]
+        },
+        {
+          "title": "Amazon AKRacingストア",
+          "rows": [
+            {
+              "label": "シリーズ",
+              "value": "Nitro V2"
+            }
+          ]
+        }
+      ],
+      "series": "Nitro V2"
+    },
+    {
+      "id": "chair-akr-jtzjb3",
+      "rank": null,
+      "asin": "B086JTZJB3",
+      "category": "gaming-chair",
+      "name": "ゲーミングチェア デスクチェア 勉強机 勉強椅子 学習机 学習椅子 ブルー 青 Nitro V2 高耐久PUレザー 180度リクライニング 在宅 リモート 5年保証",
+      "brand": "AKRacing",
+      "maxRecliningAngle": "180°",
+      "frameMaterial": "合金鋼",
+      "hasOttoman": false,
+      "dimensions": "65 × 65 × 125 cm",
+      "seatDepth": "51 cm",
+      "backrestWidth": "54 cm",
+      "tagline": "高耐久PUレザー・180°・Nitro V2",
+      "price": 38945,
+      "rating": 4.6,
+      "reviews": 0,
+      "image": "https://m.media-amazon.com/images/I/612iVNfQqSL._AC_SL1500_.jpg",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B086JTZJB3",
+      "highlights": [
+        {
+          "label": "素材",
+          "value": "高耐久PUレザー"
+        },
+        {
+          "label": "最大リクライニング角度",
+          "value": "最大180°（フルフラット）"
+        },
+        {
+          "label": "寸法/重量",
+          "value": "65 × 65 × 125 cm / 背もたれ幅 54 cm"
+        },
+        {
+          "label": "アームレスト/保証",
+          "value": "4Dアームレスト / 5年保証"
+        }
+      ],
+      "compat": [],
+      "specGroups": [
+        {
+          "title": "サイズ / 寸法",
+          "rows": [
+            {
+              "label": "本体寸法",
+              "value": "65 × 65 × 125 cm"
+            },
+            {
+              "label": "座面の奥行",
+              "value": "51 cm"
+            },
+            {
+              "label": "背もたれ幅",
+              "value": "54 cm"
+            }
+          ]
+        },
+        {
+          "title": "リクライニング / フレーム",
+          "rows": [
+            {
+              "label": "最大リクライニング角度",
+              "value": "最大180°（フルフラット）"
+            },
+            {
+              "label": "フレームの種類",
+              "value": "フレーム: 合金鋼"
+            }
+          ]
+        },
+        {
+          "title": "調節機能",
+          "rows": [
+            {
+              "label": "リクライニング",
+              "value": "対応"
+            }
+          ]
+        },
+        {
+          "title": "構造 / 素材",
+          "rows": [
+            {
+              "label": "素材",
+              "value": "高耐久PUレザー"
+            },
+            {
+              "label": "形状",
+              "value": "バケットシート型（ハイバック）"
+            },
+            {
+              "label": "オットマン",
+              "value": "なし"
+            },
+            {
+              "label": "寸法/重量",
+              "value": "65 × 65 × 125 cm / 背もたれ幅 54 cm"
+            },
+            {
+              "label": "アームレスト/保証",
+              "value": "4Dアームレスト / 5年保証"
+            }
+          ]
+        },
+        {
+          "title": "Amazon AKRacingストア",
+          "rows": [
+            {
+              "label": "シリーズ",
+              "value": "Nitro V2"
+            }
+          ]
+        }
+      ],
+      "series": "Nitro V2"
+    },
+    {
+      "id": "chair-akr-jtzjb4",
+      "rank": null,
+      "asin": "B086JTZJB4",
+      "category": "gaming-chair",
+      "name": "ゲーミングチェア デスクチェア 勉強机 勉強椅子 学習机 学習椅子 ホワイト 白 Nitro V2 高耐久PUレザー 180度リクライニング 在宅 リモート 5年保証",
+      "brand": "AKRacing",
+      "maxRecliningAngle": "180°",
+      "frameMaterial": "合金鋼",
+      "hasOttoman": false,
+      "dimensions": "65 × 65 × 125 cm",
+      "seatDepth": "56 cm",
+      "backrestWidth": "54 cm",
+      "tagline": "高耐久PUレザー・180°・Nitro V2",
+      "price": 38945,
+      "rating": 4.6,
+      "reviews": 0,
+      "image": "https://m.media-amazon.com/images/I/61FqAypMSqL._AC_SL1500_.jpg",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B086JTZJB4",
+      "highlights": [
+        {
+          "label": "素材",
+          "value": "高耐久PUレザー"
+        },
+        {
+          "label": "最大リクライニング角度",
+          "value": "最大180°（フルフラット）"
+        },
+        {
+          "label": "寸法/重量",
+          "value": "65 × 65 × 125 cm / 背もたれ幅 54 cm"
+        },
+        {
+          "label": "アームレスト/保証",
+          "value": "4Dアームレスト / 5年保証"
+        }
+      ],
+      "compat": [],
+      "specGroups": [
+        {
+          "title": "サイズ / 寸法",
+          "rows": [
+            {
+              "label": "本体寸法",
+              "value": "65 × 65 × 125 cm"
+            },
+            {
+              "label": "座面の奥行",
+              "value": "56 cm"
+            },
+            {
+              "label": "背もたれ幅",
+              "value": "54 cm"
+            }
+          ]
+        },
+        {
+          "title": "リクライニング / フレーム",
+          "rows": [
+            {
+              "label": "最大リクライニング角度",
+              "value": "最大180°（フルフラット）"
+            },
+            {
+              "label": "フレームの種類",
+              "value": "フレーム: 合金鋼"
+            }
+          ]
+        },
+        {
+          "title": "調節機能",
+          "rows": [
+            {
+              "label": "リクライニング",
+              "value": "対応"
+            }
+          ]
+        },
+        {
+          "title": "構造 / 素材",
+          "rows": [
+            {
+              "label": "素材",
+              "value": "高耐久PUレザー"
+            },
+            {
+              "label": "形状",
+              "value": "バケットシート型（ハイバック）"
+            },
+            {
+              "label": "オットマン",
+              "value": "なし"
+            },
+            {
+              "label": "寸法/重量",
+              "value": "65 × 65 × 125 cm / 背もたれ幅 54 cm"
+            },
+            {
+              "label": "アームレスト/保証",
+              "value": "4Dアームレスト / 5年保証"
+            }
+          ]
+        },
+        {
+          "title": "Amazon AKRacingストア",
+          "rows": [
+            {
+              "label": "シリーズ",
+              "value": "Nitro V2"
+            }
+          ]
+        }
+      ],
+      "series": "Nitro V2"
+    },
+    {
+      "id": "chair-akr-jtj394",
+      "rank": null,
+      "asin": "B086JTJ394",
+      "category": "gaming-chair",
+      "name": "ゲーミングチェア デスクチェア 勉強机 勉強椅子 学習机 学習椅子 レッド 赤 Nitro V2 高耐久PUレザー 180度リクライニング 在宅 リモート 5年保証",
+      "brand": "AKRacing",
+      "maxRecliningAngle": "180°",
+      "frameMaterial": "合金鋼",
+      "hasOttoman": false,
+      "dimensions": "65 × 65 × 125 cm",
+      "seatDepth": "51 cm",
+      "backrestWidth": "54 cm",
+      "tagline": "高耐久PUレザー・180°・Nitro V2",
+      "price": 38945,
+      "rating": 4.6,
+      "reviews": 0,
+      "image": "https://m.media-amazon.com/images/I/61UHyCQWJjL._AC_SL1500_.jpg",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B086JTJ394",
+      "highlights": [
+        {
+          "label": "素材",
+          "value": "高耐久PUレザー"
+        },
+        {
+          "label": "最大リクライニング角度",
+          "value": "最大180°（フルフラット）"
+        },
+        {
+          "label": "寸法/重量",
+          "value": "65 × 65 × 125 cm / 背もたれ幅 54 cm"
+        },
+        {
+          "label": "アームレスト/保証",
+          "value": "4Dアームレスト / 5年保証"
+        }
+      ],
+      "compat": [],
+      "specGroups": [
+        {
+          "title": "サイズ / 寸法",
+          "rows": [
+            {
+              "label": "本体寸法",
+              "value": "65 × 65 × 125 cm"
+            },
+            {
+              "label": "座面の奥行",
+              "value": "51 cm"
+            },
+            {
+              "label": "背もたれ幅",
+              "value": "54 cm"
+            }
+          ]
+        },
+        {
+          "title": "リクライニング / フレーム",
+          "rows": [
+            {
+              "label": "最大リクライニング角度",
+              "value": "最大180°（フルフラット）"
+            },
+            {
+              "label": "フレームの種類",
+              "value": "フレーム: 合金鋼"
+            }
+          ]
+        },
+        {
+          "title": "調節機能",
+          "rows": [
+            {
+              "label": "リクライニング",
+              "value": "対応"
+            }
+          ]
+        },
+        {
+          "title": "構造 / 素材",
+          "rows": [
+            {
+              "label": "素材",
+              "value": "高耐久PUレザー"
+            },
+            {
+              "label": "形状",
+              "value": "バケットシート型（ハイバック）"
+            },
+            {
+              "label": "オットマン",
+              "value": "なし"
+            },
+            {
+              "label": "寸法/重量",
+              "value": "65 × 65 × 125 cm / 背もたれ幅 54 cm"
+            },
+            {
+              "label": "アームレスト/保証",
+              "value": "4Dアームレスト / 5年保証"
+            }
+          ]
+        },
+        {
+          "title": "Amazon AKRacingストア",
+          "rows": [
+            {
+              "label": "シリーズ",
+              "value": "Nitro V2"
+            }
+          ]
+        }
+      ],
+      "series": "Nitro V2"
+    },
+    {
+      "id": "chair-akr-8e2etq",
+      "rank": null,
+      "asin": "B01G8E2ETQ",
+      "category": "gaming-chair",
+      "name": "ゲーミングチェア Wolf グレー ファブリック リクライニング エルゴノミクス JIS規格 5年保証",
+      "brand": "AKRacing",
+      "maxRecliningAngle": "180°",
+      "frameMaterial": "合金鋼",
+      "hasOttoman": false,
+      "dimensions": "65 × 65 × 124 cm",
+      "seatDepth": "54 cm",
+      "backrestWidth": "52 cm",
+      "tagline": "ファブリック・180°・Wolf",
+      "price": 42784,
+      "rating": 4.4,
+      "reviews": 0,
+      "image": "https://m.media-amazon.com/images/I/51sOkrli41L._AC_SL1500_.jpg",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B01G8E2ETQ",
+      "highlights": [
+        {
+          "label": "素材",
+          "value": "ファブリック"
+        },
+        {
+          "label": "最大リクライニング角度",
+          "value": "最大180°（フルフラット）"
+        },
+        {
+          "label": "寸法/重量",
+          "value": "65 × 65 × 124 cm / 背もたれ幅 52 cm"
+        },
+        {
+          "label": "アームレスト/保証",
+          "value": "4Dアームレスト / 5年保証"
+        }
+      ],
+      "compat": [],
+      "specGroups": [
+        {
+          "title": "サイズ / 寸法",
+          "rows": [
+            {
+              "label": "本体寸法",
+              "value": "65 × 65 × 124 cm"
+            },
+            {
+              "label": "座面の奥行",
+              "value": "54 cm"
+            },
+            {
+              "label": "背もたれ幅",
+              "value": "52 cm"
+            }
+          ]
+        },
+        {
+          "title": "リクライニング / フレーム",
+          "rows": [
+            {
+              "label": "最大リクライニング角度",
+              "value": "最大180°（フルフラット）"
+            },
+            {
+              "label": "フレームの種類",
+              "value": "フレーム: 合金鋼"
+            }
+          ]
+        },
+        {
+          "title": "調節機能",
+          "rows": [
+            {
+              "label": "リクライニング",
+              "value": "対応"
+            }
+          ]
+        },
+        {
+          "title": "構造 / 素材",
+          "rows": [
+            {
+              "label": "素材",
+              "value": "ファブリック"
+            },
+            {
+              "label": "形状",
+              "value": "オフィスチェアカスタム型"
+            },
+            {
+              "label": "オットマン",
+              "value": "なし"
+            },
+            {
+              "label": "寸法/重量",
+              "value": "65 × 65 × 124 cm / 背もたれ幅 52 cm"
+            },
+            {
+              "label": "アームレスト/保証",
+              "value": "4Dアームレスト / 5年保証"
+            }
+          ]
+        },
+        {
+          "title": "Amazon AKRacingストア",
+          "rows": [
+            {
+              "label": "シリーズ",
+              "value": "Wolf"
+            }
+          ]
+        }
+      ],
+      "series": "Wolf"
+    },
+    {
+      "id": "chair-akr-j8qmmt",
+      "rank": null,
+      "asin": "B083J8QMMT",
+      "category": "gaming-chair",
+      "name": "ゲーミングチェア Wolf パープル ファブリック リクライニング エルゴノミクス JIS規格 5年保証",
+      "brand": "AKRacing",
+      "maxRecliningAngle": "180°",
+      "frameMaterial": "合金鋼",
+      "hasOttoman": false,
+      "dimensions": "65 × 65 × 124 cm",
+      "seatDepth": "52.5 cm",
+      "backrestWidth": "52 cm",
+      "tagline": "ファブリック・180°・Wolf",
+      "price": 45253,
+      "rating": 4.4,
+      "reviews": 0,
+      "image": "https://m.media-amazon.com/images/I/513DQK-59DL._AC_SL1500_.jpg",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B083J8QMMT",
+      "highlights": [
+        {
+          "label": "素材",
+          "value": "ファブリック"
+        },
+        {
+          "label": "最大リクライニング角度",
+          "value": "最大180°（フルフラット）"
+        },
+        {
+          "label": "寸法/重量",
+          "value": "65 × 65 × 124 cm / 背もたれ幅 52 cm"
+        },
+        {
+          "label": "アームレスト/保証",
+          "value": "4Dアームレスト / 5年保証"
+        }
+      ],
+      "compat": [],
+      "specGroups": [
+        {
+          "title": "サイズ / 寸法",
+          "rows": [
+            {
+              "label": "本体寸法",
+              "value": "65 × 65 × 124 cm"
+            },
+            {
+              "label": "座面の奥行",
+              "value": "52.5 cm"
+            },
+            {
+              "label": "背もたれ幅",
+              "value": "52 cm"
+            }
+          ]
+        },
+        {
+          "title": "リクライニング / フレーム",
+          "rows": [
+            {
+              "label": "最大リクライニング角度",
+              "value": "最大180°（フルフラット）"
+            },
+            {
+              "label": "フレームの種類",
+              "value": "フレーム: 合金鋼"
+            }
+          ]
+        },
+        {
+          "title": "調節機能",
+          "rows": [
+            {
+              "label": "リクライニング",
+              "value": "対応"
+            }
+          ]
+        },
+        {
+          "title": "構造 / 素材",
+          "rows": [
+            {
+              "label": "素材",
+              "value": "ファブリック"
+            },
+            {
+              "label": "形状",
+              "value": "オフィスチェアカスタム型"
+            },
+            {
+              "label": "オットマン",
+              "value": "なし"
+            },
+            {
+              "label": "寸法/重量",
+              "value": "65 × 65 × 124 cm / 背もたれ幅 52 cm"
+            },
+            {
+              "label": "アームレスト/保証",
+              "value": "4Dアームレスト / 5年保証"
+            }
+          ]
+        },
+        {
+          "title": "Amazon AKRacingストア",
+          "rows": [
+            {
+              "label": "シリーズ",
+              "value": "Wolf"
+            }
+          ]
+        }
+      ],
+      "series": "Wolf"
+    },
+    {
+      "id": "chair-akr-8e6nzw",
+      "rank": null,
+      "asin": "B01G8E6NZW",
+      "category": "gaming-chair",
+      "name": "ゲーミングチェア Wolf ホワイト ファブリック リクライニング エルゴノミクス JIS規格 5年保証",
+      "brand": "AKRacing",
+      "maxRecliningAngle": "180°",
+      "frameMaterial": "合金鋼",
+      "hasOttoman": false,
+      "dimensions": "65 × 65 × 124 cm",
+      "seatDepth": "54 cm",
+      "backrestWidth": "52 cm",
+      "tagline": "ファブリック・180°・Wolf",
+      "price": 42784,
+      "rating": 4.4,
+      "reviews": 0,
+      "image": "https://m.media-amazon.com/images/I/51yTVf022nL._AC_SL1500_.jpg",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B01G8E6NZW",
+      "highlights": [
+        {
+          "label": "素材",
+          "value": "ファブリック"
+        },
+        {
+          "label": "最大リクライニング角度",
+          "value": "最大180°（フルフラット）"
+        },
+        {
+          "label": "寸法/重量",
+          "value": "65 × 65 × 124 cm / 背もたれ幅 52 cm"
+        },
+        {
+          "label": "アームレスト/保証",
+          "value": "4Dアームレスト / 5年保証"
+        }
+      ],
+      "compat": [],
+      "specGroups": [
+        {
+          "title": "サイズ / 寸法",
+          "rows": [
+            {
+              "label": "本体寸法",
+              "value": "65 × 65 × 124 cm"
+            },
+            {
+              "label": "座面の奥行",
+              "value": "54 cm"
+            },
+            {
+              "label": "背もたれ幅",
+              "value": "52 cm"
+            }
+          ]
+        },
+        {
+          "title": "リクライニング / フレーム",
+          "rows": [
+            {
+              "label": "最大リクライニング角度",
+              "value": "最大180°（フルフラット）"
+            },
+            {
+              "label": "フレームの種類",
+              "value": "フレーム: 合金鋼"
+            }
+          ]
+        },
+        {
+          "title": "調節機能",
+          "rows": [
+            {
+              "label": "リクライニング",
+              "value": "対応"
+            }
+          ]
+        },
+        {
+          "title": "構造 / 素材",
+          "rows": [
+            {
+              "label": "素材",
+              "value": "ファブリック"
+            },
+            {
+              "label": "形状",
+              "value": "オフィスチェアカスタム型"
+            },
+            {
+              "label": "オットマン",
+              "value": "なし"
+            },
+            {
+              "label": "寸法/重量",
+              "value": "65 × 65 × 124 cm / 背もたれ幅 52 cm"
+            },
+            {
+              "label": "アームレスト/保証",
+              "value": "4Dアームレスト / 5年保証"
+            }
+          ]
+        },
+        {
+          "title": "Amazon AKRacingストア",
+          "rows": [
+            {
+              "label": "シリーズ",
+              "value": "Wolf"
+            }
+          ]
+        }
+      ],
+      "series": "Wolf"
+    },
+    {
+      "id": "chair-akr-8e3j3g",
+      "rank": null,
+      "asin": "B01G8E3J3G",
+      "category": "gaming-chair",
+      "name": "ゲーミングチェア Wolf レッド ファブリックリクライニング エルゴノミクス JIS規格 5年保証",
+      "brand": "AKRacing",
+      "maxRecliningAngle": "180°",
+      "frameMaterial": "合金鋼",
+      "hasOttoman": false,
+      "dimensions": "65 × 65 × 124 cm",
+      "seatDepth": "52.5 cm",
+      "backrestWidth": "52 cm",
+      "tagline": "ファブリック・180°・Wolf",
+      "price": 42784,
+      "rating": 4.4,
+      "reviews": 0,
+      "image": "https://m.media-amazon.com/images/I/51TKQlYxS9L._AC_SL1500_.jpg",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B01G8E3J3G",
+      "highlights": [
+        {
+          "label": "素材",
+          "value": "ファブリック"
+        },
+        {
+          "label": "最大リクライニング角度",
+          "value": "最大180°（フルフラット）"
+        },
+        {
+          "label": "寸法/重量",
+          "value": "65 × 65 × 124 cm / 背もたれ幅 52 cm"
+        },
+        {
+          "label": "アームレスト/保証",
+          "value": "4Dアームレスト / 5年保証"
+        }
+      ],
+      "compat": [],
+      "specGroups": [
+        {
+          "title": "サイズ / 寸法",
+          "rows": [
+            {
+              "label": "本体寸法",
+              "value": "65 × 65 × 124 cm"
+            },
+            {
+              "label": "座面の奥行",
+              "value": "52.5 cm"
+            },
+            {
+              "label": "背もたれ幅",
+              "value": "52 cm"
+            }
+          ]
+        },
+        {
+          "title": "リクライニング / フレーム",
+          "rows": [
+            {
+              "label": "最大リクライニング角度",
+              "value": "最大180°（フルフラット）"
+            },
+            {
+              "label": "フレームの種類",
+              "value": "フレーム: 合金鋼"
+            }
+          ]
+        },
+        {
+          "title": "調節機能",
+          "rows": [
+            {
+              "label": "リクライニング",
+              "value": "対応"
+            }
+          ]
+        },
+        {
+          "title": "構造 / 素材",
+          "rows": [
+            {
+              "label": "素材",
+              "value": "ファブリック"
+            },
+            {
+              "label": "形状",
+              "value": "オフィスチェアカスタム型"
+            },
+            {
+              "label": "オットマン",
+              "value": "なし"
+            },
+            {
+              "label": "寸法/重量",
+              "value": "65 × 65 × 124 cm / 背もたれ幅 52 cm"
+            },
+            {
+              "label": "アームレスト/保証",
+              "value": "4Dアームレスト / 5年保証"
+            }
+          ]
+        },
+        {
+          "title": "Amazon AKRacingストア",
+          "rows": [
+            {
+              "label": "シリーズ",
+              "value": "Wolf"
+            }
+          ]
+        }
+      ],
+      "series": "Wolf"
+    },
+    {
+      "id": "chair-akr-2y1z2b",
+      "rank": null,
+      "asin": "B0F62Y1Z2B",
+      "category": "gaming-chair",
+      "name": "ゲーミングチェア Eclair オレンジ 高耐久PUレザー 180度リクライニング エルゴノミクス JIS規格 5年保証",
+      "brand": "AKRacing",
+      "maxRecliningAngle": "180°",
+      "frameMaterial": "合金鋼",
+      "hasOttoman": false,
+      "dimensions": "67 × 67 × 123.5 cm",
+      "seatDepth": "53.5 cm",
+      "tagline": "高耐久PUレザー・180°・Eclair",
+      "price": 48283,
+      "rating": 4.2,
+      "reviews": 0,
+      "image": "https://m.media-amazon.com/images/I/61jZUIM5yjL._AC_SL1500_.jpg",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0F62Y1Z2B",
+      "highlights": [
+        {
+          "label": "素材",
+          "value": "高耐久PUレザー"
+        },
+        {
+          "label": "最大リクライニング角度",
+          "value": "最大180°（フルフラット）"
+        },
+        {
+          "label": "寸法/重量",
+          "value": "67 × 67 × 123.5 cm"
+        },
+        {
+          "label": "アームレスト/保証",
+          "value": "4Dアームレスト / 5年保証"
+        }
+      ],
+      "compat": [],
+      "specGroups": [
+        {
+          "title": "サイズ / 寸法",
+          "rows": [
+            {
+              "label": "本体寸法",
+              "value": "67 × 67 × 123.5 cm"
+            },
+            {
+              "label": "座面の奥行",
+              "value": "53.5 cm"
+            }
+          ]
+        },
+        {
+          "title": "リクライニング / フレーム",
+          "rows": [
+            {
+              "label": "最大リクライニング角度",
+              "value": "最大180°（フルフラット）"
+            },
+            {
+              "label": "フレームの種類",
+              "value": "フレーム: 合金鋼"
+            }
+          ]
+        },
+        {
+          "title": "調節機能",
+          "rows": [
+            {
+              "label": "リクライニング",
+              "value": "対応"
+            }
+          ]
+        },
+        {
+          "title": "構造 / 素材",
+          "rows": [
+            {
+              "label": "素材",
+              "value": "高耐久PUレザー"
+            },
+            {
+              "label": "形状",
+              "value": "オフィスチェアカスタム型"
+            },
+            {
+              "label": "オットマン",
+              "value": "なし"
+            },
+            {
+              "label": "寸法/重量",
+              "value": "67 × 67 × 123.5 cm"
+            },
+            {
+              "label": "アームレスト/保証",
+              "value": "4Dアームレスト / 5年保証"
+            }
+          ]
+        },
+        {
+          "title": "Amazon AKRacingストア",
+          "rows": [
+            {
+              "label": "シリーズ",
+              "value": "Eclair"
+            }
+          ]
+        }
+      ],
+      "series": "Eclair"
+    },
+    {
+      "id": "chair-akr-2wxz5m",
+      "rank": null,
+      "asin": "B0F62WXZ5M",
+      "category": "gaming-chair",
+      "name": "ゲーミングチェア Eclair グリーン 高耐久PUレザー リクライニング エルゴノミクス JIS規格 5年保証",
+      "brand": "AKRacing",
+      "maxRecliningAngle": "180°",
+      "frameMaterial": "合金鋼",
+      "hasOttoman": false,
+      "dimensions": "67 × 67 × 123.5 cm",
+      "seatDepth": "53.5 cm",
+      "backrestWidth": "51.5 cm",
+      "tagline": "高耐久PUレザー・180°・Eclair",
+      "price": 48283,
+      "rating": 4.2,
+      "reviews": 0,
+      "image": "https://m.media-amazon.com/images/I/611mmcgx2bL._AC_SL1500_.jpg",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0F62WXZ5M",
+      "highlights": [
+        {
+          "label": "素材",
+          "value": "高耐久PUレザー"
+        },
+        {
+          "label": "最大リクライニング角度",
+          "value": "最大180°（フルフラット）"
+        },
+        {
+          "label": "寸法/重量",
+          "value": "67 × 67 × 123.5 cm / 背もたれ幅 51.5 cm"
+        },
+        {
+          "label": "アームレスト/保証",
+          "value": "4Dアームレスト / 5年保証"
+        }
+      ],
+      "compat": [],
+      "specGroups": [
+        {
+          "title": "サイズ / 寸法",
+          "rows": [
+            {
+              "label": "本体寸法",
+              "value": "67 × 67 × 123.5 cm"
+            },
+            {
+              "label": "座面の奥行",
+              "value": "53.5 cm"
+            },
+            {
+              "label": "背もたれ幅",
+              "value": "51.5 cm"
+            }
+          ]
+        },
+        {
+          "title": "リクライニング / フレーム",
+          "rows": [
+            {
+              "label": "最大リクライニング角度",
+              "value": "最大180°（フルフラット）"
+            },
+            {
+              "label": "フレームの種類",
+              "value": "フレーム: 合金鋼"
+            }
+          ]
+        },
+        {
+          "title": "調節機能",
+          "rows": [
+            {
+              "label": "リクライニング",
+              "value": "対応"
+            }
+          ]
+        },
+        {
+          "title": "構造 / 素材",
+          "rows": [
+            {
+              "label": "素材",
+              "value": "高耐久PUレザー"
+            },
+            {
+              "label": "形状",
+              "value": "オフィスチェアカスタム型"
+            },
+            {
+              "label": "オットマン",
+              "value": "なし"
+            },
+            {
+              "label": "寸法/重量",
+              "value": "67 × 67 × 123.5 cm / 背もたれ幅 51.5 cm"
+            },
+            {
+              "label": "アームレスト/保証",
+              "value": "4Dアームレスト / 5年保証"
+            }
+          ]
+        },
+        {
+          "title": "Amazon AKRacingストア",
+          "rows": [
+            {
+              "label": "シリーズ",
+              "value": "Eclair"
+            }
+          ]
+        }
+      ],
+      "series": "Eclair"
+    },
+    {
+      "id": "chair-akr-2v3zxs",
+      "rank": null,
+      "asin": "B0F62V3ZXS",
+      "category": "gaming-chair",
+      "name": "ゲーミングチェア Eclair ピンク 高耐久PUレザーリクライニング エルゴノミクス JIS規格 5年保証",
+      "brand": "AKRacing",
+      "maxRecliningAngle": "180°",
+      "frameMaterial": "合金鋼",
+      "hasOttoman": false,
+      "dimensions": "67 × 67 × 123.5 cm",
+      "seatDepth": "53.5 cm",
+      "tagline": "高耐久PUレザー・180°・Eclair",
+      "price": 48283,
+      "rating": 4.2,
+      "reviews": 0,
+      "image": "https://m.media-amazon.com/images/I/618+bsrUxTL._AC_SL1500_.jpg",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0F62V3ZXS",
+      "highlights": [
+        {
+          "label": "素材",
+          "value": "高耐久PUレザー"
+        },
+        {
+          "label": "最大リクライニング角度",
+          "value": "最大180°（フルフラット）"
+        },
+        {
+          "label": "寸法/重量",
+          "value": "67 × 67 × 123.5 cm"
+        },
+        {
+          "label": "アームレスト/保証",
+          "value": "4Dアームレスト / 5年保証"
+        }
+      ],
+      "compat": [],
+      "specGroups": [
+        {
+          "title": "サイズ / 寸法",
+          "rows": [
+            {
+              "label": "本体寸法",
+              "value": "67 × 67 × 123.5 cm"
+            },
+            {
+              "label": "座面の奥行",
+              "value": "53.5 cm"
+            }
+          ]
+        },
+        {
+          "title": "リクライニング / フレーム",
+          "rows": [
+            {
+              "label": "最大リクライニング角度",
+              "value": "最大180°（フルフラット）"
+            },
+            {
+              "label": "フレームの種類",
+              "value": "フレーム: 合金鋼"
+            }
+          ]
+        },
+        {
+          "title": "調節機能",
+          "rows": [
+            {
+              "label": "リクライニング",
+              "value": "対応"
+            }
+          ]
+        },
+        {
+          "title": "構造 / 素材",
+          "rows": [
+            {
+              "label": "素材",
+              "value": "高耐久PUレザー"
+            },
+            {
+              "label": "形状",
+              "value": "オフィスチェアカスタム型"
+            },
+            {
+              "label": "オットマン",
+              "value": "なし"
+            },
+            {
+              "label": "寸法/重量",
+              "value": "67 × 67 × 123.5 cm"
+            },
+            {
+              "label": "アームレスト/保証",
+              "value": "4Dアームレスト / 5年保証"
+            }
+          ]
+        },
+        {
+          "title": "Amazon AKRacingストア",
+          "rows": [
+            {
+              "label": "シリーズ",
+              "value": "Eclair"
+            }
+          ]
+        }
+      ],
+      "series": "Eclair"
+    },
+    {
+      "id": "chair-akr-31gtbc",
+      "rank": null,
+      "asin": "B0F631GTBC",
+      "category": "gaming-chair",
+      "name": "ゲーミングチェア Eclair ブルー 高耐久PUレザーリクライニング エルゴノミクス JIS規格 5年保証",
+      "brand": "AKRacing",
+      "maxRecliningAngle": "180°",
+      "frameMaterial": "合金鋼",
+      "hasOttoman": false,
+      "dimensions": "67 × 67 × 123.5 cm",
+      "seatDepth": "53.5 cm",
+      "tagline": "高耐久PUレザー・180°・Eclair",
+      "price": 48283,
+      "rating": 4.2,
+      "reviews": 0,
+      "image": "https://m.media-amazon.com/images/I/61VZQeKvuiL._AC_SL1500_.jpg",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0F631GTBC",
+      "highlights": [
+        {
+          "label": "素材",
+          "value": "高耐久PUレザー"
+        },
+        {
+          "label": "最大リクライニング角度",
+          "value": "最大180°（フルフラット）"
+        },
+        {
+          "label": "寸法/重量",
+          "value": "67 × 67 × 123.5 cm"
+        },
+        {
+          "label": "アームレスト/保証",
+          "value": "4Dアームレスト / 5年保証"
+        }
+      ],
+      "compat": [],
+      "specGroups": [
+        {
+          "title": "サイズ / 寸法",
+          "rows": [
+            {
+              "label": "本体寸法",
+              "value": "67 × 67 × 123.5 cm"
+            },
+            {
+              "label": "座面の奥行",
+              "value": "53.5 cm"
+            }
+          ]
+        },
+        {
+          "title": "リクライニング / フレーム",
+          "rows": [
+            {
+              "label": "最大リクライニング角度",
+              "value": "最大180°（フルフラット）"
+            },
+            {
+              "label": "フレームの種類",
+              "value": "フレーム: 合金鋼"
+            }
+          ]
+        },
+        {
+          "title": "調節機能",
+          "rows": [
+            {
+              "label": "リクライニング",
+              "value": "対応"
+            }
+          ]
+        },
+        {
+          "title": "構造 / 素材",
+          "rows": [
+            {
+              "label": "素材",
+              "value": "高耐久PUレザー"
+            },
+            {
+              "label": "形状",
+              "value": "オフィスチェアカスタム型"
+            },
+            {
+              "label": "オットマン",
+              "value": "なし"
+            },
+            {
+              "label": "寸法/重量",
+              "value": "67 × 67 × 123.5 cm"
+            },
+            {
+              "label": "アームレスト/保証",
+              "value": "4Dアームレスト / 5年保証"
+            }
+          ]
+        },
+        {
+          "title": "Amazon AKRacingストア",
+          "rows": [
+            {
+              "label": "シリーズ",
+              "value": "Eclair"
+            }
+          ]
+        }
+      ],
+      "series": "Eclair"
+    },
+    {
+      "id": "chair-akr-r8gzr9",
+      "rank": null,
+      "asin": "B075R8GZR9",
+      "category": "gaming-chair",
+      "name": "オフィスチェア Premium カーボンブラック 高耐久PUレザー リクライニング エルゴノミクス JIS規格 5年保証",
+      "brand": "AKRacing",
+      "maxRecliningAngle": "180°",
+      "frameMaterial": "合金鋼",
+      "hasOttoman": false,
+      "dimensions": "65 × 65 × 129.5 cm",
+      "seatDepth": "51 cm",
+      "backrestWidth": "58 cm",
+      "tagline": "高耐久PUレザー・180°・Premium",
+      "price": 56582,
+      "rating": 4.3,
+      "reviews": 0,
+      "image": "https://m.media-amazon.com/images/I/51PiOohPa9L._AC_SL1500_.jpg",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B075R8GZR9",
+      "highlights": [
+        {
+          "label": "素材",
+          "value": "高耐久PUレザー"
+        },
+        {
+          "label": "最大リクライニング角度",
+          "value": "最大180°（フルフラット）"
+        },
+        {
+          "label": "寸法/重量",
+          "value": "65 × 65 × 129.5 cm / 背もたれ幅 58 cm"
+        },
+        {
+          "label": "アームレスト/保証",
+          "value": "4Dアームレスト / 5年保証"
+        }
+      ],
+      "compat": [],
+      "specGroups": [
+        {
+          "title": "サイズ / 寸法",
+          "rows": [
+            {
+              "label": "本体寸法",
+              "value": "65 × 65 × 129.5 cm"
+            },
+            {
+              "label": "座面の奥行",
+              "value": "51 cm"
+            },
+            {
+              "label": "背もたれ幅",
+              "value": "58 cm"
+            }
+          ]
+        },
+        {
+          "title": "リクライニング / フレーム",
+          "rows": [
+            {
+              "label": "最大リクライニング角度",
+              "value": "最大180°（フルフラット）"
+            },
+            {
+              "label": "フレームの種類",
+              "value": "フレーム: 合金鋼"
+            }
+          ]
+        },
+        {
+          "title": "調節機能",
+          "rows": [
+            {
+              "label": "リクライニング",
+              "value": "対応"
+            }
+          ]
+        },
+        {
+          "title": "構造 / 素材",
+          "rows": [
+            {
+              "label": "素材",
+              "value": "高耐久PUレザー"
+            },
+            {
+              "label": "形状",
+              "value": "オフィスチェアカスタム型"
+            },
+            {
+              "label": "オットマン",
+              "value": "なし"
+            },
+            {
+              "label": "寸法/重量",
+              "value": "65 × 65 × 129.5 cm / 背もたれ幅 58 cm"
+            },
+            {
+              "label": "アームレスト/保証",
+              "value": "4Dアームレスト / 5年保証"
+            }
+          ]
+        },
+        {
+          "title": "Amazon AKRacingストア",
+          "rows": [
+            {
+              "label": "シリーズ",
+              "value": "Premium"
+            }
+          ]
+        }
+      ],
+      "series": "Premium"
+    },
+    {
+      "id": "chair-akr-r8696c",
+      "rank": null,
+      "asin": "B075R8696C",
+      "category": "gaming-chair",
+      "name": "オフィスチェア Premium シルバー 高耐久PUレザー リクライニング エルゴノミクス JIS規格 5年保証",
+      "brand": "AKRacing",
+      "maxRecliningAngle": "180°",
+      "frameMaterial": "合金鋼",
+      "hasOttoman": false,
+      "dimensions": "65 × 65 × 129.5 cm",
+      "seatDepth": "51 cm",
+      "tagline": "高耐久PUレザー・180°・Premium",
+      "price": 56582,
+      "rating": 4.3,
+      "reviews": 0,
+      "image": "https://m.media-amazon.com/images/I/81IhkXh4prL._AC_SL1500_.jpg",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B075R8696C",
+      "highlights": [
+        {
+          "label": "素材",
+          "value": "高耐久PUレザー"
+        },
+        {
+          "label": "最大リクライニング角度",
+          "value": "最大180°（フルフラット）"
+        },
+        {
+          "label": "寸法/重量",
+          "value": "65 × 65 × 129.5 cm"
+        },
+        {
+          "label": "アームレスト/保証",
+          "value": "4Dアームレスト / 5年保証"
+        }
+      ],
+      "compat": [],
+      "specGroups": [
+        {
+          "title": "サイズ / 寸法",
+          "rows": [
+            {
+              "label": "本体寸法",
+              "value": "65 × 65 × 129.5 cm"
+            },
+            {
+              "label": "座面の奥行",
+              "value": "51 cm"
+            }
+          ]
+        },
+        {
+          "title": "リクライニング / フレーム",
+          "rows": [
+            {
+              "label": "最大リクライニング角度",
+              "value": "最大180°（フルフラット）"
+            },
+            {
+              "label": "フレームの種類",
+              "value": "フレーム: 合金鋼"
+            }
+          ]
+        },
+        {
+          "title": "調節機能",
+          "rows": [
+            {
+              "label": "リクライニング",
+              "value": "対応"
+            }
+          ]
+        },
+        {
+          "title": "構造 / 素材",
+          "rows": [
+            {
+              "label": "素材",
+              "value": "高耐久PUレザー"
+            },
+            {
+              "label": "形状",
+              "value": "オフィスチェアカスタム型"
+            },
+            {
+              "label": "オットマン",
+              "value": "なし"
+            },
+            {
+              "label": "寸法/重量",
+              "value": "65 × 65 × 129.5 cm"
+            },
+            {
+              "label": "アームレスト/保証",
+              "value": "4Dアームレスト / 5年保証"
+            }
+          ]
+        },
+        {
+          "title": "Amazon AKRacingストア",
+          "rows": [
+            {
+              "label": "シリーズ",
+              "value": "Premium"
+            }
+          ]
+        }
+      ],
+      "series": "Premium"
+    },
+    {
+      "id": "chair-akr-r8dpj5",
+      "rank": null,
+      "asin": "B075R8DPJ5",
+      "category": "gaming-chair",
+      "name": "オフィスチェア Premium レイブン 高耐久PUレザー リクライニング エルゴノミクス JIS規格 5年保証",
+      "brand": "AKRacing",
+      "maxRecliningAngle": "180°",
+      "frameMaterial": "合金鋼",
+      "hasOttoman": false,
+      "dimensions": "65 × 65 × 129.5 cm",
+      "seatDepth": "95 cm",
+      "backrestWidth": "58 cm",
+      "tagline": "高耐久PUレザー・180°・Premium",
+      "price": 56582,
+      "rating": 4.3,
+      "reviews": 0,
+      "image": "https://m.media-amazon.com/images/I/81opi+-9ezL._AC_SL1500_.jpg",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B075R8DPJ5",
+      "highlights": [
+        {
+          "label": "素材",
+          "value": "高耐久PUレザー"
+        },
+        {
+          "label": "最大リクライニング角度",
+          "value": "最大180°（フルフラット）"
+        },
+        {
+          "label": "寸法/重量",
+          "value": "65 × 65 × 129.5 cm / 背もたれ幅 58 cm"
+        },
+        {
+          "label": "アームレスト/保証",
+          "value": "4Dアームレスト / 5年保証"
+        }
+      ],
+      "compat": [],
+      "specGroups": [
+        {
+          "title": "サイズ / 寸法",
+          "rows": [
+            {
+              "label": "本体寸法",
+              "value": "65 × 65 × 129.5 cm"
+            },
+            {
+              "label": "座面の奥行",
+              "value": "95 cm"
+            },
+            {
+              "label": "背もたれ幅",
+              "value": "58 cm"
+            }
+          ]
+        },
+        {
+          "title": "リクライニング / フレーム",
+          "rows": [
+            {
+              "label": "最大リクライニング角度",
+              "value": "最大180°（フルフラット）"
+            },
+            {
+              "label": "フレームの種類",
+              "value": "フレーム: 合金鋼"
+            }
+          ]
+        },
+        {
+          "title": "調節機能",
+          "rows": [
+            {
+              "label": "リクライニング",
+              "value": "対応"
+            }
+          ]
+        },
+        {
+          "title": "構造 / 素材",
+          "rows": [
+            {
+              "label": "素材",
+              "value": "高耐久PUレザー"
+            },
+            {
+              "label": "形状",
+              "value": "オフィスチェアカスタム型"
+            },
+            {
+              "label": "オットマン",
+              "value": "なし"
+            },
+            {
+              "label": "寸法/重量",
+              "value": "65 × 65 × 129.5 cm / 背もたれ幅 58 cm"
+            },
+            {
+              "label": "アームレスト/保証",
+              "value": "4Dアームレスト / 5年保証"
+            }
+          ]
+        },
+        {
+          "title": "Amazon AKRacingストア",
+          "rows": [
+            {
+              "label": "シリーズ",
+              "value": "Premium"
+            }
+          ]
+        }
+      ],
+      "series": "Premium"
+    },
+    {
+      "id": "chair-akr-tgc45r",
+      "rank": null,
+      "asin": "B0GFTGC45R",
+      "category": "gaming-chair",
+      "name": "Faura インディゴ スエード調ファブリックリクライニング エルゴノミクス JIS規格 5年保証",
+      "brand": "AKRacing",
+      "maxRecliningAngle": "180°",
+      "frameMaterial": "合金鋼",
+      "hasOttoman": false,
+      "dimensions": "66 × 69.5 × 124 cm",
+      "tagline": "スエード調ファブリック・180°・Faura",
+      "price": 59799,
+      "rating": 4.5,
+      "reviews": 0,
+      "image": "https://m.media-amazon.com/images/I/71pE4zJWRdL._AC_SL1500_.jpg",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0GFTGC45R",
+      "highlights": [
+        {
+          "label": "素材",
+          "value": "スエード調ファブリック"
+        },
+        {
+          "label": "最大リクライニング角度",
+          "value": "最大180°（フルフラット）"
+        },
+        {
+          "label": "寸法/重量",
+          "value": "66 × 69.5 × 124 cm"
+        },
+        {
+          "label": "アームレスト/保証",
+          "value": "4Dアームレスト / 5年保証"
+        }
+      ],
+      "compat": [],
+      "specGroups": [
+        {
+          "title": "サイズ / 寸法",
+          "rows": [
+            {
+              "label": "本体寸法",
+              "value": "66 × 69.5 × 124 cm"
+            }
+          ]
+        },
+        {
+          "title": "リクライニング / フレーム",
+          "rows": [
+            {
+              "label": "最大リクライニング角度",
+              "value": "最大180°（フルフラット）"
+            },
+            {
+              "label": "フレームの種類",
+              "value": "フレーム: 合金鋼"
+            }
+          ]
+        },
+        {
+          "title": "調節機能",
+          "rows": [
+            {
+              "label": "リクライニング",
+              "value": "対応"
+            }
+          ]
+        },
+        {
+          "title": "構造 / 素材",
+          "rows": [
+            {
+              "label": "素材",
+              "value": "スエード調ファブリック"
+            },
+            {
+              "label": "形状",
+              "value": "オフィスチェアカスタム型"
+            },
+            {
+              "label": "オットマン",
+              "value": "なし"
+            },
+            {
+              "label": "寸法/重量",
+              "value": "66 × 69.5 × 124 cm"
+            },
+            {
+              "label": "アームレスト/保証",
+              "value": "4Dアームレスト / 5年保証"
+            }
+          ]
+        },
+        {
+          "title": "Amazon AKRacingストア",
+          "rows": [
+            {
+              "label": "シリーズ",
+              "value": "Faura"
+            }
+          ]
+        }
+      ],
+      "series": "Faura"
+    },
+    {
+      "id": "chair-akr-srlv6p",
+      "rank": null,
+      "asin": "B0GFSRLV6P",
+      "category": "gaming-chair",
+      "name": "Faura ダークネイビー スエード調ファブリックリクライニング エルゴノミクス JIS規格 5年保証",
+      "brand": "AKRacing",
+      "maxRecliningAngle": "180°",
+      "frameMaterial": "合金鋼",
+      "hasOttoman": false,
+      "dimensions": "66 × 69.5 × 124 cm",
+      "backrestWidth": "56 cm",
+      "tagline": "スエード調ファブリック・180°・Faura",
+      "price": 60405,
+      "rating": 4.5,
+      "reviews": 0,
+      "image": "https://m.media-amazon.com/images/I/71PNHU626SL._AC_SL1500_.jpg",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0GFSRLV6P",
+      "highlights": [
+        {
+          "label": "素材",
+          "value": "スエード調ファブリック"
+        },
+        {
+          "label": "最大リクライニング角度",
+          "value": "最大180°（フルフラット）"
+        },
+        {
+          "label": "寸法/重量",
+          "value": "66 × 69.5 × 124 cm / 背もたれ幅 56 cm"
+        },
+        {
+          "label": "アームレスト/保証",
+          "value": "4Dアームレスト / 5年保証"
+        }
+      ],
+      "compat": [],
+      "specGroups": [
+        {
+          "title": "サイズ / 寸法",
+          "rows": [
+            {
+              "label": "本体寸法",
+              "value": "66 × 69.5 × 124 cm"
+            },
+            {
+              "label": "背もたれ幅",
+              "value": "56 cm"
+            }
+          ]
+        },
+        {
+          "title": "リクライニング / フレーム",
+          "rows": [
+            {
+              "label": "最大リクライニング角度",
+              "value": "最大180°（フルフラット）"
+            },
+            {
+              "label": "フレームの種類",
+              "value": "フレーム: 合金鋼"
+            }
+          ]
+        },
+        {
+          "title": "調節機能",
+          "rows": [
+            {
+              "label": "リクライニング",
+              "value": "対応"
+            }
+          ]
+        },
+        {
+          "title": "構造 / 素材",
+          "rows": [
+            {
+              "label": "素材",
+              "value": "スエード調ファブリック"
+            },
+            {
+              "label": "形状",
+              "value": "オフィスチェアカスタム型"
+            },
+            {
+              "label": "オットマン",
+              "value": "なし"
+            },
+            {
+              "label": "寸法/重量",
+              "value": "66 × 69.5 × 124 cm / 背もたれ幅 56 cm"
+            },
+            {
+              "label": "アームレスト/保証",
+              "value": "4Dアームレスト / 5年保証"
+            }
+          ]
+        },
+        {
+          "title": "Amazon AKRacingストア",
+          "rows": [
+            {
+              "label": "シリーズ",
+              "value": "Faura"
+            }
+          ]
+        }
+      ],
+      "series": "Faura"
+    },
+    {
+      "id": "chair-akr-snmzvn",
+      "rank": null,
+      "asin": "B0GFSNMZVN",
+      "category": "gaming-chair",
+      "name": "Faura ブラウン スエード調ファブリックリクライニング エルゴノミクス JIS規格 5年保証",
+      "brand": "AKRacing",
+      "maxRecliningAngle": "180°",
+      "frameMaterial": "合金鋼",
+      "hasOttoman": false,
+      "dimensions": "66 × 69.5 × 124 cm",
+      "tagline": "スエード調ファブリック・180°・Faura",
+      "price": 60405,
+      "rating": 4.5,
+      "reviews": 0,
+      "image": "https://m.media-amazon.com/images/I/61+v1pI0l6L._AC_SL1500_.jpg",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0GFSNMZVN",
+      "highlights": [
+        {
+          "label": "素材",
+          "value": "スエード調ファブリック"
+        },
+        {
+          "label": "最大リクライニング角度",
+          "value": "最大180°（フルフラット）"
+        },
+        {
+          "label": "寸法/重量",
+          "value": "66 × 69.5 × 124 cm"
+        },
+        {
+          "label": "アームレスト/保証",
+          "value": "4Dアームレスト / 5年保証"
+        }
+      ],
+      "compat": [],
+      "specGroups": [
+        {
+          "title": "サイズ / 寸法",
+          "rows": [
+            {
+              "label": "本体寸法",
+              "value": "66 × 69.5 × 124 cm"
+            }
+          ]
+        },
+        {
+          "title": "リクライニング / フレーム",
+          "rows": [
+            {
+              "label": "最大リクライニング角度",
+              "value": "最大180°（フルフラット）"
+            },
+            {
+              "label": "フレームの種類",
+              "value": "フレーム: 合金鋼"
+            }
+          ]
+        },
+        {
+          "title": "調節機能",
+          "rows": [
+            {
+              "label": "リクライニング",
+              "value": "対応"
+            }
+          ]
+        },
+        {
+          "title": "構造 / 素材",
+          "rows": [
+            {
+              "label": "素材",
+              "value": "スエード調ファブリック"
+            },
+            {
+              "label": "形状",
+              "value": "オフィスチェアカスタム型"
+            },
+            {
+              "label": "オットマン",
+              "value": "なし"
+            },
+            {
+              "label": "寸法/重量",
+              "value": "66 × 69.5 × 124 cm"
+            },
+            {
+              "label": "アームレスト/保証",
+              "value": "4Dアームレスト / 5年保証"
+            }
+          ]
+        },
+        {
+          "title": "Amazon AKRacingストア",
+          "rows": [
+            {
+              "label": "シリーズ",
+              "value": "Faura"
+            }
+          ]
+        }
+      ],
+      "series": "Faura"
+    },
+    {
+      "id": "chair-akr-t7gkqs",
+      "rank": null,
+      "asin": "B0GFT7GKQS",
+      "category": "gaming-chair",
+      "name": "Faura ベージュ スエード調ファブリックリクライニング エルゴノミクス JIS規格 5年保証",
+      "brand": "AKRacing",
+      "maxRecliningAngle": "180°",
+      "frameMaterial": "合金鋼",
+      "hasOttoman": false,
+      "dimensions": "66 × 69.5 × 124 cm",
+      "tagline": "スエード調ファブリック・180°・Faura",
+      "price": 60405,
+      "rating": 4.5,
+      "reviews": 0,
+      "image": "https://m.media-amazon.com/images/I/61qux1mldtL._AC_SL1500_.jpg",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0GFT7GKQS",
+      "highlights": [
+        {
+          "label": "素材",
+          "value": "スエード調ファブリック"
+        },
+        {
+          "label": "最大リクライニング角度",
+          "value": "最大180°（フルフラット）"
+        },
+        {
+          "label": "寸法/重量",
+          "value": "66 × 69.5 × 124 cm"
+        },
+        {
+          "label": "アームレスト/保証",
+          "value": "4Dアームレスト / 5年保証"
+        }
+      ],
+      "compat": [],
+      "specGroups": [
+        {
+          "title": "サイズ / 寸法",
+          "rows": [
+            {
+              "label": "本体寸法",
+              "value": "66 × 69.5 × 124 cm"
+            }
+          ]
+        },
+        {
+          "title": "リクライニング / フレーム",
+          "rows": [
+            {
+              "label": "最大リクライニング角度",
+              "value": "最大180°（フルフラット）"
+            },
+            {
+              "label": "フレームの種類",
+              "value": "フレーム: 合金鋼"
+            }
+          ]
+        },
+        {
+          "title": "調節機能",
+          "rows": [
+            {
+              "label": "リクライニング",
+              "value": "対応"
+            }
+          ]
+        },
+        {
+          "title": "構造 / 素材",
+          "rows": [
+            {
+              "label": "素材",
+              "value": "スエード調ファブリック"
+            },
+            {
+              "label": "形状",
+              "value": "オフィスチェアカスタム型"
+            },
+            {
+              "label": "オットマン",
+              "value": "なし"
+            },
+            {
+              "label": "寸法/重量",
+              "value": "66 × 69.5 × 124 cm"
+            },
+            {
+              "label": "アームレスト/保証",
+              "value": "4Dアームレスト / 5年保証"
+            }
+          ]
+        },
+        {
+          "title": "Amazon AKRacingストア",
+          "rows": [
+            {
+              "label": "シリーズ",
+              "value": "Faura"
+            }
+          ]
+        }
+      ],
+      "series": "Faura"
+    },
+    {
+      "id": "chair-akr-p8rj6j",
+      "rank": null,
+      "asin": "B0BSP8RJ6J",
+      "category": "gaming-chair",
+      "name": "本田翼 監修オリジナルカラーモデル 高耐久PUレザーリクライニング エルゴノミクス JIS規格",
+      "brand": "AKRacing",
+      "maxRecliningAngle": "150°",
+      "frameMaterial": "合金鋼",
+      "hasOttoman": false,
+      "dimensions": "66 × 66 × 118 cm",
+      "seatDepth": "46 cm",
+      "backrestWidth": "52.5 cm",
+      "tagline": "高耐久PUレザー・150°・本田翼 監修",
+      "price": 40627,
+      "rating": 4.2,
+      "reviews": 0,
+      "image": "https://m.media-amazon.com/images/I/61yTUiiPNJL._AC_SL1500_.jpg",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0BSP8RJ6J",
+      "highlights": [
+        {
+          "label": "素材",
+          "value": "高耐久PUレザー"
+        },
+        {
+          "label": "最大リクライニング角度",
+          "value": "最大150°"
+        },
+        {
+          "label": "寸法/重量",
+          "value": "66 × 66 × 118 cm / 背もたれ幅 52.5 cm"
+        },
+        {
+          "label": "アームレスト/保証",
+          "value": "4Dアームレスト / 1年保証"
+        }
+      ],
+      "compat": [],
+      "specGroups": [
+        {
+          "title": "サイズ / 寸法",
+          "rows": [
+            {
+              "label": "本体寸法",
+              "value": "66 × 66 × 118 cm"
+            },
+            {
+              "label": "座面の奥行",
+              "value": "46 cm"
+            },
+            {
+              "label": "背もたれ幅",
+              "value": "52.5 cm"
+            }
+          ]
+        },
+        {
+          "title": "リクライニング / フレーム",
+          "rows": [
+            {
+              "label": "最大リクライニング角度",
+              "value": "最大150°"
+            },
+            {
+              "label": "フレームの種類",
+              "value": "フレーム: 合金鋼"
+            }
+          ]
+        },
+        {
+          "title": "調節機能",
+          "rows": [
+            {
+              "label": "リクライニング",
+              "value": "対応"
+            }
+          ]
+        },
+        {
+          "title": "構造 / 素材",
+          "rows": [
+            {
+              "label": "素材",
+              "value": "高耐久PUレザー"
+            },
+            {
+              "label": "形状",
+              "value": "オフィスチェアカスタム型"
+            },
+            {
+              "label": "オットマン",
+              "value": "なし"
+            },
+            {
+              "label": "寸法/重量",
+              "value": "66 × 66 × 118 cm / 背もたれ幅 52.5 cm"
+            },
+            {
+              "label": "アームレスト/保証",
+              "value": "4Dアームレスト / 1年保証"
+            }
+          ]
+        },
+        {
+          "title": "Amazon AKRacingストア",
+          "rows": [
+            {
+              "label": "シリーズ",
+              "value": "本田翼 監修"
+            }
+          ]
+        }
+      ],
+      "series": "本田翼 監修"
+    },
+    {
+      "id": "chair-akr-qhnk83",
+      "rank": null,
+      "asin": "B094QHNK83",
+      "category": "gaming-chair",
+      "name": "ゲーミングチェア Pro-X V2 Giants 読売ジャイアンツ 高耐久PUレザーリクライニング 1年保証",
+      "brand": "AKRacing",
+      "maxRecliningAngle": "180°",
+      "hasOttoman": false,
+      "dimensions": "65 × 65 × 127 cm",
+      "seatDepth": "54.5 cm",
+      "backrestWidth": "55 cm",
+      "tagline": "高耐久PUレザー・180°・Pro-X V2 ジャイアンツ",
+      "price": 64422,
+      "rating": 4.4,
+      "reviews": 0,
+      "image": "https://m.media-amazon.com/images/I/51Sg7zfu3bL._AC_SL1500_.jpg",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B094QHNK83",
+      "highlights": [
+        {
+          "label": "素材",
+          "value": "高耐久PUレザー"
+        },
+        {
+          "label": "最大リクライニング角度",
+          "value": "最大180°（フルフラット）"
+        },
+        {
+          "label": "寸法/重量",
+          "value": "65 × 65 × 127 cm / 背もたれ幅 55 cm"
+        },
+        {
+          "label": "アームレスト/保証",
+          "value": "4Dアームレスト / 1年保証"
+        }
+      ],
+      "compat": [],
+      "specGroups": [
+        {
+          "title": "サイズ / 寸法",
+          "rows": [
+            {
+              "label": "本体寸法",
+              "value": "65 × 65 × 127 cm"
+            },
+            {
+              "label": "座面の奥行",
+              "value": "54.5 cm"
+            },
+            {
+              "label": "背もたれ幅",
+              "value": "55 cm"
+            }
+          ]
+        },
+        {
+          "title": "リクライニング / フレーム",
+          "rows": [
+            {
+              "label": "最大リクライニング角度",
+              "value": "最大180°（フルフラット）"
+            },
+            {
+              "label": "フレームの種類",
+              "value": "—"
+            }
+          ]
+        },
+        {
+          "title": "調節機能",
+          "rows": [
+            {
+              "label": "リクライニング",
+              "value": "対応"
+            }
+          ]
+        },
+        {
+          "title": "構造 / 素材",
+          "rows": [
+            {
+              "label": "素材",
+              "value": "高耐久PUレザー"
+            },
+            {
+              "label": "形状",
+              "value": "バケットシート型（ハイバック）"
+            },
+            {
+              "label": "オットマン",
+              "value": "なし"
+            },
+            {
+              "label": "寸法/重量",
+              "value": "65 × 65 × 127 cm / 背もたれ幅 55 cm"
+            },
+            {
+              "label": "アームレスト/保証",
+              "value": "4Dアームレスト / 1年保証"
+            }
+          ]
+        },
+        {
+          "title": "Amazon AKRacingストア",
+          "rows": [
+            {
+              "label": "シリーズ",
+              "value": "Pro-X V2 ジャイアンツ"
+            }
+          ]
+        }
+      ],
+      "series": "Pro-X V2 ジャイアンツ"
+    },
+    {
+      "id": "chair-akr-qltd5g",
+      "rank": null,
+      "asin": "B0D1QLTD5G",
+      "category": "gaming-chair",
+      "name": "ゲーミングチェア 東京ヤクルトスワローズチェア 高耐久PUレザーリクライニング",
+      "brand": "AKRacing",
+      "maxRecliningAngle": "180°",
+      "frameMaterial": "合金鋼",
+      "hasOttoman": false,
+      "dimensions": "65 × 65 × 127 cm",
+      "seatDepth": "54.5 cm",
+      "backrestWidth": "55 cm",
+      "tagline": "高耐久PUレザー・180°・東京ヤクルトスワローズ",
+      "price": 55354,
+      "rating": 4.2,
+      "reviews": 0,
+      "image": "https://m.media-amazon.com/images/I/61P2k5xSkDL._AC_SL1500_.jpg",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0D1QLTD5G",
+      "highlights": [
+        {
+          "label": "素材",
+          "value": "高耐久PUレザー"
+        },
+        {
+          "label": "最大リクライニング角度",
+          "value": "最大180°（フルフラット）"
+        },
+        {
+          "label": "寸法/重量",
+          "value": "65 × 65 × 127 cm / 背もたれ幅 55 cm"
+        },
+        {
+          "label": "アームレスト/保証",
+          "value": "4Dアームレスト / 1年保証"
+        }
+      ],
+      "compat": [],
+      "specGroups": [
+        {
+          "title": "サイズ / 寸法",
+          "rows": [
+            {
+              "label": "本体寸法",
+              "value": "65 × 65 × 127 cm"
+            },
+            {
+              "label": "座面の奥行",
+              "value": "54.5 cm"
+            },
+            {
+              "label": "背もたれ幅",
+              "value": "55 cm"
+            }
+          ]
+        },
+        {
+          "title": "リクライニング / フレーム",
+          "rows": [
+            {
+              "label": "最大リクライニング角度",
+              "value": "最大180°（フルフラット）"
+            },
+            {
+              "label": "フレームの種類",
+              "value": "フレーム: 合金鋼"
+            }
+          ]
+        },
+        {
+          "title": "調節機能",
+          "rows": [
+            {
+              "label": "リクライニング",
+              "value": "対応"
+            },
+            {
+              "label": "ランバーサポート",
+              "value": "対応"
+            }
+          ]
+        },
+        {
+          "title": "構造 / 素材",
+          "rows": [
+            {
+              "label": "素材",
+              "value": "高耐久PUレザー"
+            },
+            {
+              "label": "形状",
+              "value": "バケットシート型（ハイバック）"
+            },
+            {
+              "label": "オットマン",
+              "value": "なし"
+            },
+            {
+              "label": "寸法/重量",
+              "value": "65 × 65 × 127 cm / 背もたれ幅 55 cm"
+            },
+            {
+              "label": "アームレスト/保証",
+              "value": "4Dアームレスト / 1年保証"
+            }
+          ]
+        },
+        {
+          "title": "Amazon AKRacingストア",
+          "rows": [
+            {
+              "label": "シリーズ",
+              "value": "東京ヤクルトスワローズ"
+            }
+          ]
+        }
+      ],
+      "series": "東京ヤクルトスワローズ"
+    },
+    {
+      "id": "chair-akr-943plq",
+      "rank": null,
+      "asin": "B0CZ943PLQ",
+      "category": "gaming-chair",
+      "name": "ゲーミングチェア Pro-X V2 Dragons 中日ドラゴンズ 高耐久PUレザー リクライニング",
+      "brand": "AKRacing",
+      "maxRecliningAngle": "180°",
+      "frameMaterial": "合金鋼",
+      "hasOttoman": false,
+      "dimensions": "65 × 65 × 127 cm",
+      "seatDepth": "54.5 cm",
+      "backrestWidth": "55 cm",
+      "tagline": "高耐久PUレザー・180°・Pro-X V2 ドラゴンズ",
+      "price": 59800,
+      "rating": 4.4,
+      "reviews": 0,
+      "image": "https://m.media-amazon.com/images/I/71Itq82d81L._AC_SL1500_.jpg",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0CZ943PLQ",
+      "highlights": [
+        {
+          "label": "素材",
+          "value": "高耐久PUレザー"
+        },
+        {
+          "label": "最大リクライニング角度",
+          "value": "最大180°（フルフラット）"
+        },
+        {
+          "label": "寸法/重量",
+          "value": "65 × 65 × 127 cm / 背もたれ幅 55 cm"
+        },
+        {
+          "label": "アームレスト/保証",
+          "value": "4Dアームレスト / 1年保証"
+        }
+      ],
+      "compat": [],
+      "specGroups": [
+        {
+          "title": "サイズ / 寸法",
+          "rows": [
+            {
+              "label": "本体寸法",
+              "value": "65 × 65 × 127 cm"
+            },
+            {
+              "label": "座面の奥行",
+              "value": "54.5 cm"
+            },
+            {
+              "label": "背もたれ幅",
+              "value": "55 cm"
+            }
+          ]
+        },
+        {
+          "title": "リクライニング / フレーム",
+          "rows": [
+            {
+              "label": "最大リクライニング角度",
+              "value": "最大180°（フルフラット）"
+            },
+            {
+              "label": "フレームの種類",
+              "value": "フレーム: 合金鋼"
+            }
+          ]
+        },
+        {
+          "title": "調節機能",
+          "rows": [
+            {
+              "label": "リクライニング",
+              "value": "対応"
+            },
+            {
+              "label": "ランバーサポート",
+              "value": "対応"
+            }
+          ]
+        },
+        {
+          "title": "構造 / 素材",
+          "rows": [
+            {
+              "label": "素材",
+              "value": "高耐久PUレザー"
+            },
+            {
+              "label": "形状",
+              "value": "バケットシート型（ハイバック）"
+            },
+            {
+              "label": "オットマン",
+              "value": "なし"
+            },
+            {
+              "label": "寸法/重量",
+              "value": "65 × 65 × 127 cm / 背もたれ幅 55 cm"
+            },
+            {
+              "label": "アームレスト/保証",
+              "value": "4Dアームレスト / 1年保証"
+            }
+          ]
+        },
+        {
+          "title": "Amazon AKRacingストア",
+          "rows": [
+            {
+              "label": "シリーズ",
+              "value": "Pro-X V2 ドラゴンズ"
+            }
+          ]
+        }
+      ],
+      "series": "Pro-X V2 ドラゴンズ"
+    },
+    {
+      "id": "chair-akr-llt6fc",
+      "rank": null,
+      "asin": "B0D4LLT6FC",
+      "category": "gaming-chair",
+      "name": "ゲーミングチェア 阪神タイガースチェア 高耐久PUレザー リクライニング",
+      "brand": "AKRacing",
+      "maxRecliningAngle": "180°",
+      "frameMaterial": "合金鋼",
+      "hasOttoman": false,
+      "dimensions": "65 × 65 × 127 cm",
+      "seatDepth": "54.5 cm",
+      "seatWidth": "39 cm",
+      "backrestWidth": "55 cm",
+      "tagline": "高耐久PUレザー・180°・阪神タイガース",
+      "price": 67353,
+      "rating": 4.9,
+      "reviews": 0,
+      "image": "https://m.media-amazon.com/images/I/51Ax-6KUNIL._AC_SL1500_.jpg",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0D4LLT6FC",
+      "highlights": [
+        {
+          "label": "素材",
+          "value": "高耐久PUレザー"
+        },
+        {
+          "label": "最大リクライニング角度",
+          "value": "最大180°（フルフラット）"
+        },
+        {
+          "label": "寸法/重量",
+          "value": "65 × 65 × 127 cm / 座面幅 39 cm / 背もたれ幅 55 cm"
+        },
+        {
+          "label": "アームレスト/保証",
+          "value": "4Dアームレスト / 1年保証"
+        }
+      ],
+      "compat": [],
+      "specGroups": [
+        {
+          "title": "サイズ / 寸法",
+          "rows": [
+            {
+              "label": "本体寸法",
+              "value": "65 × 65 × 127 cm"
+            },
+            {
+              "label": "座面の奥行",
+              "value": "54.5 cm"
+            },
+            {
+              "label": "座面の幅",
+              "value": "39 cm"
+            },
+            {
+              "label": "背もたれ幅",
+              "value": "55 cm"
+            }
+          ]
+        },
+        {
+          "title": "リクライニング / フレーム",
+          "rows": [
+            {
+              "label": "最大リクライニング角度",
+              "value": "最大180°（フルフラット）"
+            },
+            {
+              "label": "フレームの種類",
+              "value": "フレーム: 合金鋼"
+            }
+          ]
+        },
+        {
+          "title": "調節機能",
+          "rows": [
+            {
+              "label": "リクライニング",
+              "value": "対応"
+            },
+            {
+              "label": "ランバーサポート",
+              "value": "対応"
+            }
+          ]
+        },
+        {
+          "title": "構造 / 素材",
+          "rows": [
+            {
+              "label": "素材",
+              "value": "高耐久PUレザー"
+            },
+            {
+              "label": "形状",
+              "value": "バケットシート型（ハイバック）"
+            },
+            {
+              "label": "オットマン",
+              "value": "なし"
+            },
+            {
+              "label": "寸法/重量",
+              "value": "65 × 65 × 127 cm / 座面幅 39 cm / 背もたれ幅 55 cm"
+            },
+            {
+              "label": "アームレスト/保証",
+              "value": "4Dアームレスト / 1年保証"
+            }
+          ]
+        },
+        {
+          "title": "Amazon AKRacingストア",
+          "rows": [
+            {
+              "label": "シリーズ",
+              "value": "阪神タイガース"
+            }
+          ]
+        }
+      ],
+      "series": "阪神タイガース"
+    },
+    {
+      "id": "chair-akr-dry84q",
+      "rank": null,
+      "asin": "B0GXDRY84Q",
+      "category": "gaming-chair",
+      "name": "ゲーミングチェア Pro-X V2 Lions 埼玉西武ライオンズ 高耐久PUレザー リクライニング",
+      "brand": "AKRacing",
+      "maxRecliningAngle": "180°",
+      "frameMaterial": "合金鋼",
+      "hasOttoman": false,
+      "dimensions": "65 × 65 × 127 cm",
+      "seatDepth": "54.5 cm",
+      "backrestWidth": "55 cm",
+      "tagline": "高耐久PUレザー・180°・Pro-X V2 ライオンズ",
+      "price": 59800,
+      "rating": 5,
+      "reviews": 0,
+      "image": "https://m.media-amazon.com/images/I/51AqSSpmJzL._AC_SL1500_.jpg",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0GXDRY84Q",
+      "highlights": [
+        {
+          "label": "素材",
+          "value": "高耐久PUレザー"
+        },
+        {
+          "label": "最大リクライニング角度",
+          "value": "最大180°（フルフラット）"
+        },
+        {
+          "label": "寸法/重量",
+          "value": "65 × 65 × 127 cm / 背もたれ幅 55 cm"
+        },
+        {
+          "label": "アームレスト/保証",
+          "value": "4Dアームレスト / 1年保証"
+        }
+      ],
+      "compat": [],
+      "specGroups": [
+        {
+          "title": "サイズ / 寸法",
+          "rows": [
+            {
+              "label": "本体寸法",
+              "value": "65 × 65 × 127 cm"
+            },
+            {
+              "label": "座面の奥行",
+              "value": "54.5 cm"
+            },
+            {
+              "label": "背もたれ幅",
+              "value": "55 cm"
+            }
+          ]
+        },
+        {
+          "title": "リクライニング / フレーム",
+          "rows": [
+            {
+              "label": "最大リクライニング角度",
+              "value": "最大180°（フルフラット）"
+            },
+            {
+              "label": "フレームの種類",
+              "value": "フレーム: 合金鋼"
+            }
+          ]
+        },
+        {
+          "title": "調節機能",
+          "rows": [
+            {
+              "label": "リクライニング",
+              "value": "対応"
+            },
+            {
+              "label": "ランバーサポート",
+              "value": "対応"
+            }
+          ]
+        },
+        {
+          "title": "構造 / 素材",
+          "rows": [
+            {
+              "label": "素材",
+              "value": "高耐久PUレザー"
+            },
+            {
+              "label": "形状",
+              "value": "バケットシート型（ハイバック）"
+            },
+            {
+              "label": "オットマン",
+              "value": "なし"
+            },
+            {
+              "label": "寸法/重量",
+              "value": "65 × 65 × 127 cm / 背もたれ幅 55 cm"
+            },
+            {
+              "label": "アームレスト/保証",
+              "value": "4Dアームレスト / 1年保証"
+            }
+          ]
+        },
+        {
+          "title": "Amazon AKRacingストア",
+          "rows": [
+            {
+              "label": "シリーズ",
+              "value": "Pro-X V2 ライオンズ"
+            }
+          ]
+        }
+      ],
+      "series": "Pro-X V2 ライオンズ"
+    },
+    {
+      "id": "chair-akr-np6cnx",
+      "rank": null,
+      "asin": "B0B6NP6CNX",
+      "category": "gaming-chair",
+      "name": "ゲーミングチェア サッカー日本代表ver. 高耐久PUレザーリクライニング",
+      "brand": "AKRacing",
+      "maxRecliningAngle": "180°",
+      "frameMaterial": "合金鋼",
+      "hasOttoman": false,
+      "dimensions": "65 × 65 × 129 cm",
+      "seatDepth": "53.5 cm",
+      "backrestWidth": "55 cm",
+      "tagline": "高耐久PUレザー・180°・サッカー日本代表",
+      "price": 55914,
+      "rating": 4.8,
+      "reviews": 0,
+      "image": "https://m.media-amazon.com/images/I/71Y8bUq9dHL._AC_SL1500_.jpg",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0B6NP6CNX",
+      "highlights": [
+        {
+          "label": "素材",
+          "value": "高耐久PUレザー"
+        },
+        {
+          "label": "最大リクライニング角度",
+          "value": "最大180°（フルフラット）"
+        },
+        {
+          "label": "寸法/重量",
+          "value": "65 × 65 × 129 cm / 背もたれ幅 55 cm"
+        },
+        {
+          "label": "アームレスト/保証",
+          "value": "4Dアームレスト / 1年保証"
+        }
+      ],
+      "compat": [],
+      "specGroups": [
+        {
+          "title": "サイズ / 寸法",
+          "rows": [
+            {
+              "label": "本体寸法",
+              "value": "65 × 65 × 129 cm"
+            },
+            {
+              "label": "座面の奥行",
+              "value": "53.5 cm"
+            },
+            {
+              "label": "背もたれ幅",
+              "value": "55 cm"
+            }
+          ]
+        },
+        {
+          "title": "リクライニング / フレーム",
+          "rows": [
+            {
+              "label": "最大リクライニング角度",
+              "value": "最大180°（フルフラット）"
+            },
+            {
+              "label": "フレームの種類",
+              "value": "フレーム: 合金鋼"
+            }
+          ]
+        },
+        {
+          "title": "調節機能",
+          "rows": [
+            {
+              "label": "リクライニング",
+              "value": "対応"
+            }
+          ]
+        },
+        {
+          "title": "構造 / 素材",
+          "rows": [
+            {
+              "label": "素材",
+              "value": "高耐久PUレザー"
+            },
+            {
+              "label": "形状",
+              "value": "バケットシート型（ハイバック）"
+            },
+            {
+              "label": "オットマン",
+              "value": "なし"
+            },
+            {
+              "label": "寸法/重量",
+              "value": "65 × 65 × 129 cm / 背もたれ幅 55 cm"
+            },
+            {
+              "label": "アームレスト/保証",
+              "value": "4Dアームレスト / 1年保証"
+            }
+          ]
+        },
+        {
+          "title": "Amazon AKRacingストア",
+          "rows": [
+            {
+              "label": "シリーズ",
+              "value": "サッカー日本代表"
+            }
+          ]
+        }
+      ],
+      "series": "サッカー日本代表"
+    },
+    {
+      "id": "chair-akr-vtm8wm",
+      "rank": null,
+      "asin": "B0G4VTM8WM",
+      "category": "gaming-chair",
+      "name": "エーケーレーシング AKRacingゲーミングチェア FC東京 2024 デスクチェア PVCレザー 180度リクライニング 在宅 リモート Jリーグ",
+      "brand": "AKRacing",
+      "maxRecliningAngle": "180°",
+      "frameMaterial": "合金鋼",
+      "hasOttoman": false,
+      "dimensions": "65 × 65 × 127 cm",
+      "seatDepth": "54.5 cm",
+      "backrestWidth": "55 cm",
+      "tagline": "PVCレザー・180°・FC東京",
+      "price": 59800,
+      "rating": 4.8,
+      "reviews": 0,
+      "image": "https://m.media-amazon.com/images/I/61raCTZvtmL._AC_SL1500_.jpg",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0G4VTM8WM",
+      "highlights": [
+        {
+          "label": "素材",
+          "value": "PVCレザー"
+        },
+        {
+          "label": "最大リクライニング角度",
+          "value": "最大180°（フルフラット）"
+        },
+        {
+          "label": "寸法/重量",
+          "value": "65 × 65 × 127 cm / 背もたれ幅 55 cm"
+        },
+        {
+          "label": "アームレスト/保証",
+          "value": "4Dアームレスト / 1年保証"
+        }
+      ],
+      "compat": [],
+      "specGroups": [
+        {
+          "title": "サイズ / 寸法",
+          "rows": [
+            {
+              "label": "本体寸法",
+              "value": "65 × 65 × 127 cm"
+            },
+            {
+              "label": "座面の奥行",
+              "value": "54.5 cm"
+            },
+            {
+              "label": "背もたれ幅",
+              "value": "55 cm"
+            }
+          ]
+        },
+        {
+          "title": "リクライニング / フレーム",
+          "rows": [
+            {
+              "label": "最大リクライニング角度",
+              "value": "最大180°（フルフラット）"
+            },
+            {
+              "label": "フレームの種類",
+              "value": "フレーム: 合金鋼"
+            }
+          ]
+        },
+        {
+          "title": "調節機能",
+          "rows": [
+            {
+              "label": "リクライニング",
+              "value": "対応"
+            }
+          ]
+        },
+        {
+          "title": "構造 / 素材",
+          "rows": [
+            {
+              "label": "素材",
+              "value": "PVCレザー"
+            },
+            {
+              "label": "形状",
+              "value": "バケットシート型（ハイバック）"
+            },
+            {
+              "label": "オットマン",
+              "value": "なし"
+            },
+            {
+              "label": "寸法/重量",
+              "value": "65 × 65 × 127 cm / 背もたれ幅 55 cm"
+            },
+            {
+              "label": "アームレスト/保証",
+              "value": "4Dアームレスト / 1年保証"
+            }
+          ]
+        },
+        {
+          "title": "Amazon AKRacingストア",
+          "rows": [
+            {
+              "label": "シリーズ",
+              "value": "FC東京"
+            }
+          ]
+        }
+      ],
+      "series": "FC東京"
+    },
+    {
+      "id": "chair-akr-lq86pl",
+      "rank": null,
+      "asin": "B0H2LQ86PL",
+      "category": "gaming-chair",
+      "name": "ゲーミングチェア FC東京2024 PVCレザーリクライニング Jリーグ",
+      "brand": "AKRacing",
+      "maxRecliningAngle": "180°",
+      "frameMaterial": "合金鋼",
+      "hasOttoman": false,
+      "dimensions": "65 × 65 × 127 cm",
+      "seatDepth": "54.5 cm",
+      "backrestWidth": "55 cm",
+      "tagline": "PVCレザー・180°・FC東京",
+      "price": 59800,
+      "rating": 4.5,
+      "reviews": 0,
+      "image": "https://m.media-amazon.com/images/I/51aeVmtV43L._AC_SL1500_.jpg",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0H2LQ86PL",
+      "highlights": [
+        {
+          "label": "素材",
+          "value": "PVCレザー"
+        },
+        {
+          "label": "最大リクライニング角度",
+          "value": "最大180°（フルフラット）"
+        },
+        {
+          "label": "寸法/重量",
+          "value": "65 × 65 × 127 cm / 背もたれ幅 55 cm"
+        },
+        {
+          "label": "アームレスト/保証",
+          "value": "4Dアームレスト / 1年保証"
+        }
+      ],
+      "compat": [],
+      "specGroups": [
+        {
+          "title": "サイズ / 寸法",
+          "rows": [
+            {
+              "label": "本体寸法",
+              "value": "65 × 65 × 127 cm"
+            },
+            {
+              "label": "座面の奥行",
+              "value": "54.5 cm"
+            },
+            {
+              "label": "背もたれ幅",
+              "value": "55 cm"
+            }
+          ]
+        },
+        {
+          "title": "リクライニング / フレーム",
+          "rows": [
+            {
+              "label": "最大リクライニング角度",
+              "value": "最大180°（フルフラット）"
+            },
+            {
+              "label": "フレームの種類",
+              "value": "フレーム: 合金鋼"
+            }
+          ]
+        },
+        {
+          "title": "調節機能",
+          "rows": [
+            {
+              "label": "リクライニング",
+              "value": "対応"
+            }
+          ]
+        },
+        {
+          "title": "構造 / 素材",
+          "rows": [
+            {
+              "label": "素材",
+              "value": "PVCレザー"
+            },
+            {
+              "label": "形状",
+              "value": "バケットシート型（ハイバック）"
+            },
+            {
+              "label": "オットマン",
+              "value": "なし"
+            },
+            {
+              "label": "寸法/重量",
+              "value": "65 × 65 × 127 cm / 背もたれ幅 55 cm"
+            },
+            {
+              "label": "アームレスト/保証",
+              "value": "4Dアームレスト / 1年保証"
+            }
+          ]
+        },
+        {
+          "title": "Amazon AKRacingストア",
+          "rows": [
+            {
+              "label": "シリーズ",
+              "value": "FC東京"
+            }
+          ]
+        }
+      ],
+      "series": "FC東京"
+    },
+    {
+      "id": "chair-akr-13kwgv",
+      "rank": null,
+      "asin": "B0FZ13KWGV",
+      "category": "gaming-chair",
+      "name": "ゲーミングチェア FC町田ゼルビアチェア PVCレザーリクライニング Jリーグ",
+      "brand": "AKRacing",
+      "maxRecliningAngle": "180°",
+      "frameMaterial": "合金鋼",
+      "hasOttoman": false,
+      "dimensions": "65 × 65 × 127 cm",
+      "seatDepth": "54.5 cm",
+      "backrestWidth": "55 cm",
+      "tagline": "PVCレザー・180°・FC町田ゼルビア",
+      "price": 59800,
+      "rating": 4.8,
+      "reviews": 0,
+      "image": "https://m.media-amazon.com/images/I/71U1VN4KO6L._AC_SL1500_.jpg",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0FZ13KWGV",
+      "highlights": [
+        {
+          "label": "素材",
+          "value": "PVCレザー"
+        },
+        {
+          "label": "最大リクライニング角度",
+          "value": "最大180°（フルフラット）"
+        },
+        {
+          "label": "寸法/重量",
+          "value": "65 × 65 × 127 cm / 背もたれ幅 55 cm"
+        },
+        {
+          "label": "アームレスト/保証",
+          "value": "4Dアームレスト / 1年保証"
+        }
+      ],
+      "compat": [],
+      "specGroups": [
+        {
+          "title": "サイズ / 寸法",
+          "rows": [
+            {
+              "label": "本体寸法",
+              "value": "65 × 65 × 127 cm"
+            },
+            {
+              "label": "座面の奥行",
+              "value": "54.5 cm"
+            },
+            {
+              "label": "背もたれ幅",
+              "value": "55 cm"
+            }
+          ]
+        },
+        {
+          "title": "リクライニング / フレーム",
+          "rows": [
+            {
+              "label": "最大リクライニング角度",
+              "value": "最大180°（フルフラット）"
+            },
+            {
+              "label": "フレームの種類",
+              "value": "フレーム: 合金鋼"
+            }
+          ]
+        },
+        {
+          "title": "調節機能",
+          "rows": [
+            {
+              "label": "リクライニング",
+              "value": "対応"
+            }
+          ]
+        },
+        {
+          "title": "構造 / 素材",
+          "rows": [
+            {
+              "label": "素材",
+              "value": "PVCレザー"
+            },
+            {
+              "label": "形状",
+              "value": "バケットシート型（ハイバック）"
+            },
+            {
+              "label": "オットマン",
+              "value": "なし"
+            },
+            {
+              "label": "寸法/重量",
+              "value": "65 × 65 × 127 cm / 背もたれ幅 55 cm"
+            },
+            {
+              "label": "アームレスト/保証",
+              "value": "4Dアームレスト / 1年保証"
+            }
+          ]
+        },
+        {
+          "title": "Amazon AKRacingストア",
+          "rows": [
+            {
+              "label": "シリーズ",
+              "value": "FC町田ゼルビア"
+            }
+          ]
+        }
+      ],
+      "series": "FC町田ゼルビア"
+    }
+  ]
+}

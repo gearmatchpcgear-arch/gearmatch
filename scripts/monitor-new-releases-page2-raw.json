@@ -1,0 +1,548 @@
+{
+  "fetchedAt": "2026-08-13T15:43:35.892Z",
+  "monitors": [
+    {
+      "amazonRank": 51,
+      "asin": "B0HCN85ML5",
+      "title": "EVICIV モバイルモニター 16インチ 卓上スタンド付き FHD 1200P 自立型 125%sRGB 1200:1 ゲーミング用 ポータブルディスプレイ IPS 非光沢 液晶パネル 薄型 軽量 モバイルディスプレイ USB Type-C Mini HDMI 搭載 VESA PS4/XBOX/Switch/PC/Macなど対応 在宅勤務 リモートワーク EVC-160U",
+      "rating": 4.4,
+      "reviews": 616,
+      "price": 11980,
+      "image": "https://m.media-amazon.com/images/I/71PnR7oNrvL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 52,
+      "asin": "B0F6T1GW8G",
+      "title": "KOORUI Mini LED ゲーミングモニター 27インチ 200Hz WQHD 2560×1440 Fast IPS 1ms HDR1000 Adaptive Sync対応/Adobe RGB 99%/ 高さ調整/縦横回転/PIP PBP機能/HDMI2.0 DP1.4 /VESA対応，S2721PM",
+      "rating": 4.4,
+      "reviews": 1544,
+      "price": 35800,
+      "image": "https://m.media-amazon.com/images/I/71MMM+UJSML._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 53,
+      "asin": "B0GRZT7K5T",
+      "title": "JAPANNEXT 34インチ ゲーミングモニター JN-IPS34G165UQ2 | IPSパネル,165Hz/1ms(MPRT)対応,UWQHD(3440×1440)解像度,HDMI,DisplayPort,HDR,PS5,WQHD,120Hz接続,PIP/PBP,アスペクト比21:9,2年保証,ブラック",
+      "rating": 4,
+      "reviews": 9,
+      "price": 43618,
+      "image": "https://m.media-amazon.com/images/I/717-uN+smVL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 54,
+      "asin": "B0GZ21C95F",
+      "title": "【amazon.co.jp限定】ASUS ZenScreen MB16FC-J ポータブルモニター – 16インチ/16:10画面比率/WUXGA(1920x1200)解像度/IPSパネル/パススルー給電/自動回転/USB Type-C・mini-HDMI/フリッカーフリー/ブルーライト低減/FSC Mix認証/国内正規品",
+      "rating": 5,
+      "reviews": 1,
+      "price": 23616,
+      "image": "https://m.media-amazon.com/images/I/81xjP36DeIL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 55,
+      "asin": "B0HCND3M61",
+      "title": "【Amazon限定ブランド】VisionOwl モバイル・ゲーミングモニター 14インチ 120Hz 2.5K解像度 高輝度450nit 100％sRGB広色域 Switch2直結 超軽量540g 自立型 画像比率調整可能 収納ケース付 モバイルディスプレイ 光沢IPSパネル 2520x1680 PS4/XBOX/Switch/PC/Macなど対応 Y-14QH",
+      "rating": 4.8,
+      "reviews": 385,
+      "price": 17980,
+      "image": "https://m.media-amazon.com/images/I/71jHws-PQNL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 56,
+      "asin": "B0H28F8CWD",
+      "title": "【Amazon限定ブランド】VisionOwl モバイル・ゲーミングモニター 14インチ 120Hz 2.5K解像度 高輝度450nit 100％sRGB広色域 Switch2直結 超軽量540g 自立型 画像比率調整可能 収納ケース付 モバイルディスプレイ 光沢IPSパネル 2520x1680 PS4/XBOX/Switch/PC/Macなど対応 Y-14QH",
+      "rating": 4.8,
+      "reviews": 385,
+      "price": 17999,
+      "image": "https://m.media-amazon.com/images/I/710F3c2GoaL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 57,
+      "asin": "B0HCNDB4GQ",
+      "title": "KOORUI ゲーミングモニター 24インチ 180Hz フルHD モニター G2412V | 180Hz/FHD/AdaptiveSync/HDMI×2/DisplayPort/VESA対応/ブルーライト軽減",
+      "rating": 4.2,
+      "reviews": 114,
+      "price": 17980,
+      "image": "https://m.media-amazon.com/images/I/71yEIZEPUFL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 58,
+      "asin": "B0GRVJL7VK",
+      "title": "KOORUI ゲーミングモニター 24インチ 180Hz フルHD モニター G2412V | 180Hz/FHD/AdaptiveSync/HDMI×2/DisplayPort/VESA対応/ブルーライト軽減",
+      "rating": 4.2,
+      "reviews": 114,
+      "price": 12980,
+      "image": "https://m.media-amazon.com/images/I/71NTTChf5cL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 59,
+      "asin": "B0GSZMHT6D",
+      "title": "KOORUI ゲーミングモニター 24インチ WQHD (2560x1440) 180Hz 1ms (GTG) Fast IPSパネル HDR400 FreeSync/G-Sync対応/HDMI/DP ブルーライト低減 VESAマウント対応 G2421V",
+      "rating": 4.4,
+      "reviews": 531,
+      "price": 22800,
+      "image": "https://m.media-amazon.com/images/I/718lI2rFXLL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 60,
+      "asin": "B0H8SQ13B8",
+      "title": "YELPLION モバイルモニター 10.5\" 1280P IPSパネル 100%sRGB HDR 超軽量260g ノートPC/スマホ/ゲーム機対応 | ポータブルモニター、420nits高輝度、保護カバー付き、VESA対応、モバイルディスプレイ、USB Type-C1本で給電・映像出力、Mini HDMI搭載、Win/Mac/スマホ/PS5/XBox/S-witchなど対応、外出先、在宅勤務便利",
+      "rating": 4.2,
+      "reviews": 22,
+      "price": 7450,
+      "image": "https://m.media-amazon.com/images/I/71wDo58-dEL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 61,
+      "asin": "B0H8SQ79QJ",
+      "title": "LivElect モバイルモニター 18.5インチ 120HZ 1920*1080 モバイルディスプレイ VESA対応 在宅勤務 リモートワーク | 18.5インチ、120HZ、自立式、薄型、軽量、マグネット、ポータブルモニター、IPS液晶パネル、非光沢画面USB Type-C ミニHDMI PS4/XBOX/Switch/PC/Macなど対応",
+      "rating": 4.6,
+      "reviews": 7,
+      "price": 18999,
+      "image": "https://m.media-amazon.com/images/I/81SzpBxPo6L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 62,
+      "asin": "B0GSV3G73G",
+      "title": "XUNDEFINED 21.5インチ モニター フルHD(1920x1080) 120Hz 超薄型 液晶ディスプレイ スピーカー内蔵 VAパネル 非光沢 100%sRGB 4000:1コントラスト比 AdaptiveSync対応 ブルーライト軽減 フリッカーフリー HDMI+DP+音声出力端子搭載 チルト調整 75mm*75mm VESA対応",
+      "rating": 4.3,
+      "reviews": 5,
+      "price": 27882,
+      "image": "https://m.media-amazon.com/images/I/71MyCbv7TiL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 63,
+      "asin": "B0H3NNB52H",
+      "title": "XUNDEFINED 21.5インチ モニター フルHD(1920x1080) 120Hz 超薄型 液晶ディスプレイ スピーカー内蔵 VAパネル 非光沢 100%sRGB 4000:1コントラスト比 AdaptiveSync対応 ブルーライト軽減 フリッカーフリー HDMI+DP+音声出力端子搭載 チルト調整 75mm*75mm VESA対応",
+      "rating": 4.6,
+      "reviews": 9,
+      "price": 11980,
+      "image": "https://m.media-amazon.com/images/I/71nTwqm72QL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 64,
+      "asin": "B0GTD6N932",
+      "title": "15.6インチ ディアルモバイルモニター【ケーブル一本接続可能】 2画面 ノートパソコン用 1080P ポータブルディスプレイ USB-C接続 全パソコン対応 アルミ製拡張スクリーン Windows、Mac、Chrome対応 P7pro",
+      "rating": 4.5,
+      "reviews": 44,
+      "price": 35998,
+      "image": "https://m.media-amazon.com/images/I/71lpncoj5+L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 65,
+      "asin": "B0GVY6JKYJ",
+      "title": "【整備済み品】Princeton PTFBLT-22W 21.5インチモニター ノングレア FHD 1920x1080 LEDバックライト ブラック VESA準拠 入力端子：HDMI VGA DVI スピーカー内蔵 PS Switch対応 整備済み品",
+      "rating": 4,
+      "reviews": 1,
+      "price": 26557,
+      "image": "https://m.media-amazon.com/images/I/610pDu0OZaL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 66,
+      "asin": "B0H2LTR7J8",
+      "title": "【整備済み品】Princeton PTFBLT-22W 21.5インチモニター ノングレア FHD 1920x1080 LEDバックライト ブラック VESA準拠 入力端子：HDMI VGA DVI スピーカー内蔵 PS Switch対応 整備済み品",
+      "rating": 5,
+      "reviews": 4,
+      "price": 5500,
+      "image": "https://m.media-amazon.com/images/I/31UTsUEh5TL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 67,
+      "asin": "B0H8S9V2J1",
+      "title": "【モニ研監修モニターアーム同梱モデル】 JAPANNEXT 27インチ ゲーミングモニター JN-i27G180Q-ARM-MK | IPSパネル搭載 180Hz/1ms(MPRT)対応 WQHD(2560×1440)解像度 HDMI DP sRGB:100% HDR400相当 PS5 WQHD:120Hz接続 【2年保証】",
+      "rating": 5,
+      "reviews": 1,
+      "price": 29979,
+      "image": "https://m.media-amazon.com/images/I/81MvkHguW7L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 68,
+      "asin": "B0GWHRXL3B",
+      "title": "Dell P2426HE 23.8インチ USB-C ハブ モニタ /1920×1080 /HDMI、DisplayPort、USB-C 給電/ブラック/スピーカー:なし(メーカー3年保証、良品先出しサービス保証付き)",
+      "rating": 4,
+      "reviews": 0,
+      "price": 34100,
+      "image": "https://m.media-amazon.com/images/I/61amK7p5veL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 69,
+      "asin": "B0GG9BXTV1",
+      "title": "ASTEX 40型 モニター ビジネスモニター兼用 Google TV スマートディスプレイ フルHD VA広視野角パネル VOD Bluetooth対応 PCモニター 店頭表示用 待合室用",
+      "rating": 4,
+      "reviews": 0,
+      "price": 29980,
+      "image": "https://m.media-amazon.com/images/I/81+J1fd5ykL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 70,
+      "asin": "B0H4V7RJ9Y",
+      "title": "【Amazon.co.jp限定】Dell U3226QER 31.5インチ Thunderbolt ハブ モニター | 無輝点3年保証/4K/IPS Black,非光沢/DP1.4x1,HDMIx1,TB4x1/有線Ethernet/PbP,PiP,",
+      "rating": 4,
+      "reviews": 0,
+      "price": 122800,
+      "image": "https://m.media-amazon.com/images/I/71FsnJayLzL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 71,
+      "asin": "B0HB3KBD21",
+      "title": "モバイルモニター 15.6インチ 8000mAh大容量バッテリー内蔵 タッチパネルター ッチペン付き Newsoul 1080P モバイルディスプレイ | IPS液晶パネル 非光沢画面 薄型軽量 180°自立スタンド 充電式 スイッチ用 ポータブルモニター HDR VESA対応壁掛け可能 USB Type-C ミニHDMI Windows/MAC/Phone/スマホなど対応 在宅勤務 リモートワーク",
+      "rating": 4.7,
+      "reviews": 80,
+      "price": 28930,
+      "image": "https://m.media-amazon.com/images/I/71F1pLGz6LL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 72,
+      "asin": "B0GRFY9CY4",
+      "title": "モバイルモニター 15.6インチ 8000mAh大容量バッテリー内蔵 タッチパネルター ッチペン付き Newsoul 1080P モバイルディスプレイ | IPS液晶パネル 非光沢画面 薄型軽量 180°自立スタンド 充電式 スイッチ用 ポータブルモニター HDR VESA対応壁掛け可能 USB Type-C ミニHDMI Windows/MAC/Phone/スマホなど対応 在宅勤務 リモートワーク",
+      "rating": 4.7,
+      "reviews": 80,
+      "price": 24999,
+      "image": "https://m.media-amazon.com/images/I/71O5qwL7TCL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 73,
+      "asin": "B0GZTXD6M3",
+      "title": "INNOCN 34C1R 34インチ ウルトラワイドモニター UWQHD 3440x1440 180Hz IPSパネル HDR400 HDMI 2.0*2+DP1.4*2 PIP/PBP対応 高さ調整",
+      "rating": 4.6,
+      "reviews": 3,
+      "price": 44680,
+      "image": "https://m.media-amazon.com/images/I/61nEpLpouIL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 74,
+      "asin": "B0H3FD8HV8",
+      "title": "Laptomo トリプルモニター 15.6インチ デュアルモバイルモニター FHD 1080P IPS ノートパソコンモニター 2画面/3画面 拡張ディスプレイ 折りたたみ式 180°回転 HDMI/Type-C プラグアンドプレイ Windows/Mac/Switch/PS5対応 13～17インチ ノートPC用",
+      "rating": 5,
+      "reviews": 4,
+      "price": 43998,
+      "image": "https://m.media-amazon.com/images/I/81+YQ-y82UL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 75,
+      "asin": "B0GS1CVBFB",
+      "title": "JAPANNEXT 32インチ 液晶モニター JN-IPS32FW-M | IPSパネル,FWXGA(1366×768)解像度,HDMI,VGA,ビデオ/音声入力,コアキシャル音声出力,USBメモリ再生対応,簡易サイネージ,リモコン同梱,2年保証,ブラック",
+      "rating": 5,
+      "reviews": 1,
+      "price": 22255,
+      "image": "https://m.media-amazon.com/images/I/61Tw2FaGhYL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 76,
+      "asin": "B0GX5KHPQV",
+      "title": "JAPANNEXT 10.1インチ IPSパネル搭載 10点マルチタッチ対応 ワイドHD(1540×720)解像度 モバイルモニター JN-MD-IPST101WHD miniHDMI USB-C 自立式キックスタンド搭載 フェルトケース同梱 【2年保証】 | IPSパネル,10点マルチタッチ対応,ワイドHD(1540×720)解像度,miniHDMI,USB-C,自立式キックスタンド搭載,フェルトケース同梱,2年保証,ブラック",
+      "rating": 4.6,
+      "reviews": 6,
+      "price": 19982,
+      "image": "https://m.media-amazon.com/images/I/61MBFrl1HXL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 77,
+      "asin": "B0GX5K8ZKZ",
+      "title": "【ECサイト限定】JAPANNEXT 13.3インチ IPSパネル搭載 10点マルチタッチ対応 フルHD(1920×1080)解像度 モバイルモニター JN-MD-iE133F-T miniHDMI USB-C sRGB:99% HDR 自立式キックスタンド搭載 フェルトケース同梱 【2年保証】 | IPSパネル,10点マルチタッチ対応,フルHD(1920×1080)解像度,miniHDMI,USB-C,sRGB:99%,HDR,自立式キックスタンド搭載,フェルトケース同梱,2年保証,ブラック",
+      "rating": 5,
+      "reviews": 1,
+      "price": 20979,
+      "image": "https://m.media-amazon.com/images/I/71eQlAiPgwL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 78,
+      "asin": "B0HBQ28VPH",
+      "title": "JAPANNEXT 21.5インチ IPSパネル搭載 フルHD(1920×1080)解像度 液晶モニター JN-IPS215FNS | HDMI,DP,sRGB:100%,HDR2年保証",
+      "rating": 4,
+      "reviews": 0,
+      "price": 13480,
+      "image": "https://m.media-amazon.com/images/I/71PWZ6YQBnL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 79,
+      "asin": "B0H5HGJ6YS",
+      "title": "JAPANNEXT 23.8インチ IPSパネル搭載 WQHD(2560×1440)解像度 液晶モニター(ホワイト) JN-IPS238Q-HSPC6-W HDMI DP USB-C(最大65W給電) sRGB:99% HDR 高さ調整 ピボット(縦",
+      "rating": 4,
+      "reviews": 0,
+      "price": 26345,
+      "image": "https://m.media-amazon.com/images/I/81+mLqbgymL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 80,
+      "asin": "B0GZZR8XQC",
+      "title": "Thinlerain 19インチモニター 1440×900 HD PC ディスプレイ パソコンモニター/60Hz 5ms/ HDMI VGA AV BNC USBポート/スピーカー内蔵/VESA対応/リモコン/オフィス・家庭用",
+      "rating": 4,
+      "reviews": 0,
+      "price": 9999,
+      "image": "https://m.media-amazon.com/images/I/71oeRoVNnwL._AC_SL1500_.jpg"
+    }
+  ],
+  "excluded": [],
+  "raw": [
+    {
+      "amazonRank": 51,
+      "asin": "B0HCN85ML5",
+      "title": "EVICIV モバイルモニター 16インチ 卓上スタンド付き FHD 1200P 自立型 125%sRGB 1200:1 ゲーミング用 ポータブルディスプレイ IPS 非光沢 液晶パネル 薄型 軽量 モバイルディスプレイ USB Type-C Mini HDMI 搭載 VESA PS4/XBOX/Switch/PC/Macなど対応 在宅勤務 リモートワーク EVC-160U",
+      "rating": 4.4,
+      "reviews": 616,
+      "price": 11980,
+      "image": "https://m.media-amazon.com/images/I/71PnR7oNrvL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 52,
+      "asin": "B0F6T1GW8G",
+      "title": "KOORUI Mini LED ゲーミングモニター 27インチ 200Hz WQHD 2560×1440 Fast IPS 1ms HDR1000 Adaptive Sync対応/Adobe RGB 99%/ 高さ調整/縦横回転/PIP PBP機能/HDMI2.0 DP1.4 /VESA対応，S2721PM",
+      "rating": 4.4,
+      "reviews": 1544,
+      "price": 35800,
+      "image": "https://m.media-amazon.com/images/I/71MMM+UJSML._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 53,
+      "asin": "B0GRZT7K5T",
+      "title": "JAPANNEXT 34インチ ゲーミングモニター JN-IPS34G165UQ2 | IPSパネル,165Hz/1ms(MPRT)対応,UWQHD(3440×1440)解像度,HDMI,DisplayPort,HDR,PS5,WQHD,120Hz接続,PIP/PBP,アスペクト比21:9,2年保証,ブラック",
+      "rating": 4,
+      "reviews": 9,
+      "price": 43618,
+      "image": "https://m.media-amazon.com/images/I/717-uN+smVL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 54,
+      "asin": "B0GZ21C95F",
+      "title": "【amazon.co.jp限定】ASUS ZenScreen MB16FC-J ポータブルモニター – 16インチ/16:10画面比率/WUXGA(1920x1200)解像度/IPSパネル/パススルー給電/自動回転/USB Type-C・mini-HDMI/フリッカーフリー/ブルーライト低減/FSC Mix認証/国内正規品",
+      "rating": 5,
+      "reviews": 1,
+      "price": 23616,
+      "image": "https://m.media-amazon.com/images/I/81xjP36DeIL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 55,
+      "asin": "B0HCND3M61",
+      "title": "【Amazon限定ブランド】VisionOwl モバイル・ゲーミングモニター 14インチ 120Hz 2.5K解像度 高輝度450nit 100％sRGB広色域 Switch2直結 超軽量540g 自立型 画像比率調整可能 収納ケース付 モバイルディスプレイ 光沢IPSパネル 2520x1680 PS4/XBOX/Switch/PC/Macなど対応 Y-14QH",
+      "rating": 4.8,
+      "reviews": 385,
+      "price": 17980,
+      "image": "https://m.media-amazon.com/images/I/71jHws-PQNL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 56,
+      "asin": "B0H28F8CWD",
+      "title": "【Amazon限定ブランド】VisionOwl モバイル・ゲーミングモニター 14インチ 120Hz 2.5K解像度 高輝度450nit 100％sRGB広色域 Switch2直結 超軽量540g 自立型 画像比率調整可能 収納ケース付 モバイルディスプレイ 光沢IPSパネル 2520x1680 PS4/XBOX/Switch/PC/Macなど対応 Y-14QH",
+      "rating": 4.8,
+      "reviews": 385,
+      "price": 17999,
+      "image": "https://m.media-amazon.com/images/I/710F3c2GoaL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 57,
+      "asin": "B0HCNDB4GQ",
+      "title": "KOORUI ゲーミングモニター 24インチ 180Hz フルHD モニター G2412V | 180Hz/FHD/AdaptiveSync/HDMI×2/DisplayPort/VESA対応/ブルーライト軽減",
+      "rating": 4.2,
+      "reviews": 114,
+      "price": 17980,
+      "image": "https://m.media-amazon.com/images/I/71yEIZEPUFL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 58,
+      "asin": "B0GRVJL7VK",
+      "title": "KOORUI ゲーミングモニター 24インチ 180Hz フルHD モニター G2412V | 180Hz/FHD/AdaptiveSync/HDMI×2/DisplayPort/VESA対応/ブルーライト軽減",
+      "rating": 4.2,
+      "reviews": 114,
+      "price": 12980,
+      "image": "https://m.media-amazon.com/images/I/71NTTChf5cL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 59,
+      "asin": "B0GSZMHT6D",
+      "title": "KOORUI ゲーミングモニター 24インチ WQHD (2560x1440) 180Hz 1ms (GTG) Fast IPSパネル HDR400 FreeSync/G-Sync対応/HDMI/DP ブルーライト低減 VESAマウント対応 G2421V",
+      "rating": 4.4,
+      "reviews": 531,
+      "price": 22800,
+      "image": "https://m.media-amazon.com/images/I/718lI2rFXLL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 60,
+      "asin": "B0H8SQ13B8",
+      "title": "YELPLION モバイルモニター 10.5\" 1280P IPSパネル 100%sRGB HDR 超軽量260g ノートPC/スマホ/ゲーム機対応 | ポータブルモニター、420nits高輝度、保護カバー付き、VESA対応、モバイルディスプレイ、USB Type-C1本で給電・映像出力、Mini HDMI搭載、Win/Mac/スマホ/PS5/XBox/S-witchなど対応、外出先、在宅勤務便利",
+      "rating": 4.2,
+      "reviews": 22,
+      "price": 7450,
+      "image": "https://m.media-amazon.com/images/I/71wDo58-dEL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 61,
+      "asin": "B0H8SQ79QJ",
+      "title": "LivElect モバイルモニター 18.5インチ 120HZ 1920*1080 モバイルディスプレイ VESA対応 在宅勤務 リモートワーク | 18.5インチ、120HZ、自立式、薄型、軽量、マグネット、ポータブルモニター、IPS液晶パネル、非光沢画面USB Type-C ミニHDMI PS4/XBOX/Switch/PC/Macなど対応",
+      "rating": 4.6,
+      "reviews": 7,
+      "price": 18999,
+      "image": "https://m.media-amazon.com/images/I/81SzpBxPo6L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 62,
+      "asin": "B0GSV3G73G",
+      "title": "XUNDEFINED 21.5インチ モニター フルHD(1920x1080) 120Hz 超薄型 液晶ディスプレイ スピーカー内蔵 VAパネル 非光沢 100%sRGB 4000:1コントラスト比 AdaptiveSync対応 ブルーライト軽減 フリッカーフリー HDMI+DP+音声出力端子搭載 チルト調整 75mm*75mm VESA対応",
+      "rating": 4.3,
+      "reviews": 5,
+      "price": 27882,
+      "image": "https://m.media-amazon.com/images/I/71MyCbv7TiL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 63,
+      "asin": "B0H3NNB52H",
+      "title": "XUNDEFINED 21.5インチ モニター フルHD(1920x1080) 120Hz 超薄型 液晶ディスプレイ スピーカー内蔵 VAパネル 非光沢 100%sRGB 4000:1コントラスト比 AdaptiveSync対応 ブルーライト軽減 フリッカーフリー HDMI+DP+音声出力端子搭載 チルト調整 75mm*75mm VESA対応",
+      "rating": 4.6,
+      "reviews": 9,
+      "price": 11980,
+      "image": "https://m.media-amazon.com/images/I/71nTwqm72QL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 64,
+      "asin": "B0GTD6N932",
+      "title": "15.6インチ ディアルモバイルモニター【ケーブル一本接続可能】 2画面 ノートパソコン用 1080P ポータブルディスプレイ USB-C接続 全パソコン対応 アルミ製拡張スクリーン Windows、Mac、Chrome対応 P7pro",
+      "rating": 4.5,
+      "reviews": 44,
+      "price": 35998,
+      "image": "https://m.media-amazon.com/images/I/71lpncoj5+L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 65,
+      "asin": "B0GVY6JKYJ",
+      "title": "【整備済み品】Princeton PTFBLT-22W 21.5インチモニター ノングレア FHD 1920x1080 LEDバックライト ブラック VESA準拠 入力端子：HDMI VGA DVI スピーカー内蔵 PS Switch対応 整備済み品",
+      "rating": 4,
+      "reviews": 1,
+      "price": 26557,
+      "image": "https://m.media-amazon.com/images/I/610pDu0OZaL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 66,
+      "asin": "B0H2LTR7J8",
+      "title": "【整備済み品】Princeton PTFBLT-22W 21.5インチモニター ノングレア FHD 1920x1080 LEDバックライト ブラック VESA準拠 入力端子：HDMI VGA DVI スピーカー内蔵 PS Switch対応 整備済み品",
+      "rating": 5,
+      "reviews": 4,
+      "price": 5500,
+      "image": "https://m.media-amazon.com/images/I/31UTsUEh5TL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 67,
+      "asin": "B0H8S9V2J1",
+      "title": "【モニ研監修モニターアーム同梱モデル】 JAPANNEXT 27インチ ゲーミングモニター JN-i27G180Q-ARM-MK | IPSパネル搭載 180Hz/1ms(MPRT)対応 WQHD(2560×1440)解像度 HDMI DP sRGB:100% HDR400相当 PS5 WQHD:120Hz接続 【2年保証】",
+      "rating": 5,
+      "reviews": 1,
+      "price": 29979,
+      "image": "https://m.media-amazon.com/images/I/81MvkHguW7L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 68,
+      "asin": "B0GWHRXL3B",
+      "title": "Dell P2426HE 23.8インチ USB-C ハブ モニタ /1920×1080 /HDMI、DisplayPort、USB-C 給電/ブラック/スピーカー:なし(メーカー3年保証、良品先出しサービス保証付き)",
+      "rating": 4,
+      "reviews": 0,
+      "price": 34100,
+      "image": "https://m.media-amazon.com/images/I/61amK7p5veL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 69,
+      "asin": "B0GG9BXTV1",
+      "title": "ASTEX 40型 モニター ビジネスモニター兼用 Google TV スマートディスプレイ フルHD VA広視野角パネル VOD Bluetooth対応 PCモニター 店頭表示用 待合室用",
+      "rating": 4,
+      "reviews": 0,
+      "price": 29980,
+      "image": "https://m.media-amazon.com/images/I/81+J1fd5ykL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 70,
+      "asin": "B0H4V7RJ9Y",
+      "title": "【Amazon.co.jp限定】Dell U3226QER 31.5インチ Thunderbolt ハブ モニター | 無輝点3年保証/4K/IPS Black,非光沢/DP1.4x1,HDMIx1,TB4x1/有線Ethernet/PbP,PiP,",
+      "rating": 4,
+      "reviews": 0,
+      "price": 122800,
+      "image": "https://m.media-amazon.com/images/I/71FsnJayLzL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 71,
+      "asin": "B0HB3KBD21",
+      "title": "モバイルモニター 15.6インチ 8000mAh大容量バッテリー内蔵 タッチパネルター ッチペン付き Newsoul 1080P モバイルディスプレイ | IPS液晶パネル 非光沢画面 薄型軽量 180°自立スタンド 充電式 スイッチ用 ポータブルモニター HDR VESA対応壁掛け可能 USB Type-C ミニHDMI Windows/MAC/Phone/スマホなど対応 在宅勤務 リモートワーク",
+      "rating": 4.7,
+      "reviews": 80,
+      "price": 28930,
+      "image": "https://m.media-amazon.com/images/I/71F1pLGz6LL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 72,
+      "asin": "B0GRFY9CY4",
+      "title": "モバイルモニター 15.6インチ 8000mAh大容量バッテリー内蔵 タッチパネルター ッチペン付き Newsoul 1080P モバイルディスプレイ | IPS液晶パネル 非光沢画面 薄型軽量 180°自立スタンド 充電式 スイッチ用 ポータブルモニター HDR VESA対応壁掛け可能 USB Type-C ミニHDMI Windows/MAC/Phone/スマホなど対応 在宅勤務 リモートワーク",
+      "rating": 4.7,
+      "reviews": 80,
+      "price": 24999,
+      "image": "https://m.media-amazon.com/images/I/71O5qwL7TCL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 73,
+      "asin": "B0GZTXD6M3",
+      "title": "INNOCN 34C1R 34インチ ウルトラワイドモニター UWQHD 3440x1440 180Hz IPSパネル HDR400 HDMI 2.0*2+DP1.4*2 PIP/PBP対応 高さ調整",
+      "rating": 4.6,
+      "reviews": 3,
+      "price": 44680,
+      "image": "https://m.media-amazon.com/images/I/61nEpLpouIL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 74,
+      "asin": "B0H3FD8HV8",
+      "title": "Laptomo トリプルモニター 15.6インチ デュアルモバイルモニター FHD 1080P IPS ノートパソコンモニター 2画面/3画面 拡張ディスプレイ 折りたたみ式 180°回転 HDMI/Type-C プラグアンドプレイ Windows/Mac/Switch/PS5対応 13～17インチ ノートPC用",
+      "rating": 5,
+      "reviews": 4,
+      "price": 43998,
+      "image": "https://m.media-amazon.com/images/I/81+YQ-y82UL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 75,
+      "asin": "B0GS1CVBFB",
+      "title": "JAPANNEXT 32インチ 液晶モニター JN-IPS32FW-M | IPSパネル,FWXGA(1366×768)解像度,HDMI,VGA,ビデオ/音声入力,コアキシャル音声出力,USBメモリ再生対応,簡易サイネージ,リモコン同梱,2年保証,ブラック",
+      "rating": 5,
+      "reviews": 1,
+      "price": 22255,
+      "image": "https://m.media-amazon.com/images/I/61Tw2FaGhYL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 76,
+      "asin": "B0GX5KHPQV",
+      "title": "JAPANNEXT 10.1インチ IPSパネル搭載 10点マルチタッチ対応 ワイドHD(1540×720)解像度 モバイルモニター JN-MD-IPST101WHD miniHDMI USB-C 自立式キックスタンド搭載 フェルトケース同梱 【2年保証】 | IPSパネル,10点マルチタッチ対応,ワイドHD(1540×720)解像度,miniHDMI,USB-C,自立式キックスタンド搭載,フェルトケース同梱,2年保証,ブラック",
+      "rating": 4.6,
+      "reviews": 6,
+      "price": 19982,
+      "image": "https://m.media-amazon.com/images/I/61MBFrl1HXL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 77,
+      "asin": "B0GX5K8ZKZ",
+      "title": "【ECサイト限定】JAPANNEXT 13.3インチ IPSパネル搭載 10点マルチタッチ対応 フルHD(1920×1080)解像度 モバイルモニター JN-MD-iE133F-T miniHDMI USB-C sRGB:99% HDR 自立式キックスタンド搭載 フェルトケース同梱 【2年保証】 | IPSパネル,10点マルチタッチ対応,フルHD(1920×1080)解像度,miniHDMI,USB-C,sRGB:99%,HDR,自立式キックスタンド搭載,フェルトケース同梱,2年保証,ブラック",
+      "rating": 5,
+      "reviews": 1,
+      "price": 20979,
+      "image": "https://m.media-amazon.com/images/I/71eQlAiPgwL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 78,
+      "asin": "B0HBQ28VPH",
+      "title": "JAPANNEXT 21.5インチ IPSパネル搭載 フルHD(1920×1080)解像度 液晶モニター JN-IPS215FNS | HDMI,DP,sRGB:100%,HDR2年保証",
+      "rating": 4,
+      "reviews": 0,
+      "price": 13480,
+      "image": "https://m.media-amazon.com/images/I/71PWZ6YQBnL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 79,
+      "asin": "B0H5HGJ6YS",
+      "title": "JAPANNEXT 23.8インチ IPSパネル搭載 WQHD(2560×1440)解像度 液晶モニター(ホワイト) JN-IPS238Q-HSPC6-W HDMI DP USB-C(最大65W給電) sRGB:99% HDR 高さ調整 ピボット(縦",
+      "rating": 4,
+      "reviews": 0,
+      "price": 26345,
+      "image": "https://m.media-amazon.com/images/I/81+mLqbgymL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 80,
+      "asin": "B0GZZR8XQC",
+      "title": "Thinlerain 19インチモニター 1440×900 HD PC ディスプレイ パソコンモニター/60Hz 5ms/ HDMI VGA AV BNC USBポート/スピーカー内蔵/VESA対応/リモコン/オフィス・家庭用",
+      "rating": 4,
+      "reviews": 0,
+      "price": 9999,
+      "image": "https://m.media-amazon.com/images/I/71oeRoVNnwL._AC_SL1500_.jpg"
+    }
+  ]
+}

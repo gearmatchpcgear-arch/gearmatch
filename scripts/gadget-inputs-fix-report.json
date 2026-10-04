@@ -1,0 +1,14 @@
+{
+  "mode": "apply",
+  "changes": 1,
+  "changeList": [
+    {
+      "id": "ai-rank-058",
+      "name": "ゲーミングオーディオミキサー",
+      "asin": "B0F1N24BJW",
+      "before": "XLR×1, 3.5mm AUX×1",
+      "after": "XLR×1, 6.35mm×1"
+    }
+  ],
+  "generatedAt": "2026-08-16T10:56:23.033Z"
+}

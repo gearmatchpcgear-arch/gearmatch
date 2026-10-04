@@ -1,0 +1,609 @@
+{
+  "fetchedAt": "2026-08-14T12:28:43.930Z",
+  "urls": [
+    "https://www.amazon.co.jp/gp/bestsellers/kitchen/5341900051",
+    "https://www.amazon.co.jp/gp/bestsellers/kitchen/5341900051/ref=zg_bs_pg_2_kitchen?ie=UTF8&pg=2"
+  ],
+  "totalOnPage": 60,
+  "included": 59,
+  "excluded": 1,
+  "excludedItems": [
+    {
+      "rank": 79,
+      "asin": "B09LTZVF6H",
+      "title": "BTSKY ゲーミングチェアカバー 椅子なし 座面 オフィスチェア 伸縮 ストレッチ 取り外し可能 リクライニング ネイビーブルー"
+    }
+  ],
+  "gamingChairs": [
+    {
+      "amazonRank": 1,
+      "rank": 1,
+      "asin": "B0BXPGGBRM",
+      "title": "GXTRACE ゲーミングチェア ファブリック オフィスチェア 蒸れない 椅子 デスクチェア オットマン付き 145°リクライニング ゲームチェア 快適デスクチェア 在宅ワーク ゲーム用 ブラック",
+      "rating": 4.2,
+      "reviews": 35296,
+      "price": 16308,
+      "image": "https://m.media-amazon.com/images/I/61QlLzkeNML._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 2,
+      "rank": 2,
+      "asin": "B0FLJWVBHN",
+      "title": "GXTRACE ゲーミングチェア ファブリック オフィスチェア 蒸れない 椅子 デスクチェア オットマン付き 145°リクライニング ゲームチェア 快適デスクチェア 在宅ワーク ゲーム用 ブラック",
+      "rating": 4.3,
+      "reviews": 354,
+      "price": 13779,
+      "image": "https://m.media-amazon.com/images/I/61gDPXZCVFL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 3,
+      "rank": 3,
+      "asin": "B0B7WVX4R1",
+      "title": "GTPlayer ゲーミングチェア オットマン付き デスクチェア オフィスチェア ゲームチェア 145°リクライニング ハイバック ヘッドレスト ひじ掛け ランバーサポート テレワーク 椅子 パソコンチェア 蒸れない座面 PUレザー 気孔付き皮革 イ",
+      "rating": 4.2,
+      "reviews": 15249,
+      "price": 11300,
+      "image": "https://m.media-amazon.com/images/I/61vre2DETQL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 4,
+      "rank": 4,
+      "asin": "B0GW31R81F",
+      "title": "Eeasky ゲーミングチェア 座り心地良いデスクチェア オフィスチェア 椅子 テレワーク 社長椅子 伸縮可能のオットマン 高さ調節機能(ホワイト)",
+      "rating": 4.4,
+      "reviews": 14,
+      "price": 8531,
+      "image": "https://m.media-amazon.com/images/I/61C4Etm3FhL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 5,
+      "rank": 5,
+      "asin": "B09XHJKRVZ",
+      "title": "Eeasky ゲーミングチェア 座り心地良いデスクチェア オフィスチェア 椅子 テレワーク 社長椅子 伸縮可能のオットマン 高さ調節機能(ホワイト)",
+      "rating": 4.3,
+      "reviews": 2673,
+      "price": 22580,
+      "image": "https://m.media-amazon.com/images/I/61M0ABGyzPL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 6,
+      "rank": 6,
+      "asin": "B0DK78TG4F",
+      "title": "Dowinx ゲーミングチェア ファブリック オフィスチェア デスクチェア 椅子 昇降連動アームレスト リクライニング 手刺繍 グレージュ | 昇降連動アームレストで高さと角度を調節、手刺繍キルティングのファブリック、ポケットコイル入りの肉厚座面、通気性、傷に強い生地と頑丈な合成鋼フレーム、座面の高さ調節可能、椅子 デスク、pcチェア、chair、50H-08A",
+      "rating": 4.3,
+      "reviews": 5285,
+      "price": 17497,
+      "image": "https://m.media-amazon.com/images/I/61eO8lK03tL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 7,
+      "rank": 7,
+      "asin": "B0H35GKJYN",
+      "title": "Dowinx ゲーミングチェア ファブリック オフィスチェア デスクチェア 椅子 昇降連動アームレスト リクライニング 手刺繍 グレージュ | 昇降連動アームレストで高さと角度を調節、手刺繍キルティングのファブリック、ポケットコイル入りの肉厚座面、通気性、傷に強い生地と頑丈な合成鋼フレーム、座面の高さ調節可能、椅子 デスク、pcチェア、chair、50H-08A",
+      "rating": 4.4,
+      "reviews": 1599,
+      "price": 16850,
+      "image": "https://m.media-amazon.com/images/I/718xHjsDkHL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 8,
+      "rank": 8,
+      "asin": "B0H2GWZ6XX",
+      "title": "GXTRACE ゲーミングチェア ゲームチェア オットマン付き オフィスチェア 人間工学 １６５度 リクライニング ハイバック テレワーク 椅子 PCチェア (White)",
+      "rating": 4.1,
+      "reviews": 27,
+      "price": 9882,
+      "image": "https://m.media-amazon.com/images/I/61xcOT-p1iL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 9,
+      "rank": 9,
+      "asin": "B0FY2PV2S9",
+      "title": "GXTRACE ゲーミングチェア ゲームチェア オットマン付き オフィスチェア 人間工学 １６５度 リクライニング ハイバック テレワーク 椅子 PCチェア (White)",
+      "rating": 4.3,
+      "reviews": 4121,
+      "price": 18216,
+      "image": "https://m.media-amazon.com/images/I/61AQOKi8ceL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 10,
+      "rank": 10,
+      "asin": "B0BRTNW6X3",
+      "title": "NewBoy ゲーミングチェア gaming chair オフィスチェア オットマン オフィス ゲーム用 リクライニング デスク/パソコンチェア 疲れない 椅子 テレワーク (黒と白)",
+      "rating": 3.8,
+      "reviews": 818,
+      "price": 8344,
+      "image": "https://m.media-amazon.com/images/I/71xn8lYh-QL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 11,
+      "rank": 11,
+      "asin": "B0FP54VCZ9",
+      "title": "HERCULES ゲーミングチェア ファブリック リクライニング ゲームチェア オットマン付き ベルベット ソファーの座り心地 通気性 pcチェア 人間工学 オフィスチェア デスクチェア ヘッドレスト&ランバーサポート 連動式アームレスト（ブラック）",
+      "rating": 3.7,
+      "reviews": 83,
+      "price": 10980,
+      "image": "https://m.media-amazon.com/images/I/71r57R3pOYL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 12,
+      "rank": 12,
+      "asin": "B0FXX6K1DN",
+      "title": "RXGAMING ゲーミングチェア オフィスチェア イス 椅子 テレワーク 疲れない ファブリック デスクチェア オットマン付き ゲーム用チェア145°リクライニング パソコンチェア 座り心地よい テレワーク 収納便利 ブラック",
+      "rating": 4.2,
+      "reviews": 1166,
+      "price": 12889,
+      "image": "https://m.media-amazon.com/images/I/61eaZtE2YPL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 13,
+      "rank": 13,
+      "asin": "B0DPZM16GK",
+      "title": "GTPLAYER ゲーミングチェア オフィスチェア 上品な型押しデザイン ポケットコイル内蔵腰当て 腰が痛くならない 椅子 150度リクライニング 昇降アームレスト 上質なPUレザー 蒸れない ソファーの座り心地 【肉厚クッション 安心の非再生ウレタン採用】テレワーク 社長椅子 リクライニング 広い座面 GTR510-BLACK",
+      "rating": 4.3,
+      "reviews": 772,
+      "price": 19976,
+      "image": "https://m.media-amazon.com/images/I/61I3vTvTFmL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 14,
+      "rank": 14,
+      "asin": "B0GP6PPRRJ",
+      "title": "ilooiloo公式 一年保証付き 2026プレミアム版 170度フルリクライニング & ポケットコイル内蔵 ゲーミングチェア エグゼクティブオフィスチェア 社長椅子170度フルリクライニング & ポケットコイル内蔵 伸縮オットマン付 耐久素材採用",
+      "rating": 4.3,
+      "reviews": 96,
+      "price": 29850,
+      "image": "https://m.media-amazon.com/images/I/618N9lAVwJL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 15,
+      "rank": 15,
+      "asin": "B0FS1ZNFM9",
+      "title": "NIONIK ゲーミングチェア ファブリック 幅広座面 オフィスチェア デスクチェア テレワーク 疲れない オットマン付き 椅子 140°リクライニング 人間工学 げーみんくチェア 通気性 座り心地よい ゲームチェア 連動アームレスト ハイバック 波",
+      "rating": 3.9,
+      "reviews": 628,
+      "price": 7980,
+      "image": "https://m.media-amazon.com/images/I/61tLY-P2P1L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 16,
+      "rank": 16,
+      "asin": "B0DYT16TWJ",
+      "title": "Dowinx 猫耳ゲーミングチェア 肉球クッション ねこ顔刺繍 145°リクライニング オットマン 連動アームレスト ファブリック ブルー＆ホワイト | 猫耳デザイン/肉厚クッション/145°リクライニング/連動アームレスト/静音キャスター/ねこ顔刺繍/鈴とリボンをあしらい/通気性に配慮したファブリック/スプリング座面/引き出し式オットマン/ゲーム、動画視聴、テレワーク、休憩を彩ります。",
+      "rating": 3.9,
+      "reviews": 298,
+      "price": 13583,
+      "image": "https://m.media-amazon.com/images/I/61N8Dvlpc3L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 17,
+      "rank": 17,
+      "asin": "B0FLHMBBKW",
+      "title": "Dowinx 猫耳ゲーミングチェア 肉球クッション ねこ顔刺繍 145°リクライニング オットマン 連動アームレスト ファブリック ブルー＆ホワイト | 猫耳デザイン/肉厚クッション/145°リクライニング/連動アームレスト/静音キャスター/ねこ顔刺繍/鈴とリボンをあしらい/通気性に配慮したファブリック/スプリング座面/引き出し式オットマン/ゲーム、動画視聴、テレワーク、休憩を彩ります。",
+      "rating": 4.3,
+      "reviews": 1020,
+      "price": 21050,
+      "image": "https://m.media-amazon.com/images/I/61GAtsgsYiL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 18,
+      "rank": 18,
+      "asin": "B0G5Y31DF9",
+      "title": "Dowinx ゲーミングチェア オフィスチェア デスクチェア 社長椅子 ファブリック 155度リクライニング 昇降式肘掛け ナイトブラック | 昇降式肘掛け、ハイバックが身体を包み込むようにサポート、コイルスプリング入りの肉厚座面、通気性ファブリック、155度リクライニング対応、座面の高さ調節可能、椅子 デスク、pcチェア、gaming chair、B1-05",
+      "rating": 4.2,
+      "reviews": 1465,
+      "price": 22999,
+      "image": "https://m.media-amazon.com/images/I/81juoUAF4jL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 19,
+      "rank": 19,
+      "asin": "B0GL6KVF1X",
+      "title": "Dowinx ゲーミングチェア ファブリック 170°リクライニング 4Dアームレスト ポケットコイル座面 オットマン付き あぐら対応 ブラック | 20°ロッキング/360°回転/ナイロン五本足/デスクチェア/静音キャスター/通気性に配慮したファブリック張りと引き出し式フットレストを備え、あぐら、ゲーム、テレワーク、勉強、休憩に合わせて使いやすい設計の椅子・68B04",
+      "rating": 4.3,
+      "reviews": 1785,
+      "price": 21800,
+      "image": "https://m.media-amazon.com/images/I/71BHDdE7UzL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 20,
+      "rank": 20,
+      "asin": "B0H8F4M9VZ",
+      "title": "GTPLAYER ゲーミングチェア ファブリック デスクチェア 人間工学設計 腰痛対策 ポケットコイル 90°～150°リクライニング [一体式オットマン付き] 連動式アームレスト 蒸れない 高背もたれ ヘッドレスト&ランバーサポート 通気性メッシュ 高耐久性 GT905-Black",
+      "rating": 4.1,
+      "reviews": 673,
+      "price": 18250,
+      "image": "https://m.media-amazon.com/images/I/618vjP-qyaL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 21,
+      "rank": 21,
+      "asin": "B0DSFNVYSR",
+      "title": "GTPLAYER ゲーミングチェア ファブリック デスクチェア 人間工学設計 腰痛対策 ポケットコイル 90°～150°リクライニング [一体式オットマン付き] 連動式アームレスト 蒸れない 高背もたれ ヘッドレスト&ランバーサポート 通気性メッシュ 高耐久性 GT905-Black",
+      "rating": 4.2,
+      "reviews": 2812,
+      "price": 14980,
+      "image": "https://m.media-amazon.com/images/I/719mWB2kyyL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 22,
+      "rank": 22,
+      "asin": "B0GTXPNV95",
+      "title": "GXTRACE ゲーミングチェア オフィスチェア デスクチェア 椅子 【連動式アームレスト】 145度リクライニング 布地 通気性 ファブリック オットマン付き 人間工学 ハイバック ランバーサポート 腰痛対策 ひじ掛け付き ホワイト＆ブラック | 幅広座面, オットマン付き, 145度リクライニング, 通気性, 快適な座り心地, ファブリック素材",
+      "rating": 4.3,
+      "reviews": 303,
+      "price": 11979,
+      "image": "https://m.media-amazon.com/images/I/71vJV3T4O7L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 23,
+      "rank": 23,
+      "asin": "B0H8YC8SJ9",
+      "title": "HLFURNITURE ゲーミングチェア オットマン付き 高級PU gaming chair 135°リクライニング PCチェア | オフィスチェア 多機能で高さ調節可能な椅子 付き腰部サポートと静音キャスターを装備 座り心地が良く疲れない 家庭でのゲームや、オフィスでのリモートワークに最適です",
+      "rating": 4.2,
+      "reviews": 11,
+      "price": 9989,
+      "image": "https://m.media-amazon.com/images/I/41Xr8mYhkSL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 24,
+      "rank": 24,
+      "asin": "B0H94SDWK5",
+      "title": "AKRacing ゲーミングチェア Wolf グレー ファブリック リクライニング エルゴノミクス JIS規格 5年保証",
+      "rating": 4,
+      "reviews": 7,
+      "price": 42784,
+      "image": "https://m.media-amazon.com/images/I/51tgLOX3-KL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 25,
+      "rank": 25,
+      "asin": "B01G8E2ETQ",
+      "title": "AKRacing ゲーミングチェア Wolf グレー ファブリック リクライニング エルゴノミクス JIS規格 5年保証",
+      "rating": 4.4,
+      "reviews": 2317,
+      "price": 42784,
+      "image": "https://m.media-amazon.com/images/I/51sOkrli41L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 26,
+      "rank": 26,
+      "asin": "B0H8YT5FCB",
+      "title": "HLDIRECT ゲーミングチェア オットマン付き 145度リクライニング ハイバック | PCチェア オフィスチェア 人間工学設計 腰サポート ヘッドレスト 連動アームレスト 高さ調整 PUレザー 在宅ワーク対応",
+      "rating": 3.9,
+      "reviews": 91,
+      "price": 8989,
+      "image": "https://m.media-amazon.com/images/I/612V4boI5+L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 27,
+      "rank": 27,
+      "asin": "B0CJ2J6RXJ",
+      "title": "JKOOK ゲーミングチェア オットマン付き 多機能 連動ひじ掛け ゲーム用 デスクチェア 男女兼用 学習椅子 PUレザー JK08 (水色)",
+      "rating": 4.3,
+      "reviews": 346,
+      "price": 14980,
+      "image": "https://m.media-amazon.com/images/I/51PPc1iUVbL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 28,
+      "rank": 28,
+      "asin": "B0D5L4T6RS",
+      "title": "RXGAMING ゲーミングチェア オフィスチェア イス 椅子 テレワーク 疲れない 幅広座面 デスクチェア オットマン付き ゲーム用チェア145°リクライニング テレワーク パソコンチェア 座り心地よい 収納便利 (Grey)",
+      "rating": 3.8,
+      "reviews": 137,
+      "price": 15980,
+      "image": "https://m.media-amazon.com/images/I/61lRe7FhaQL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 29,
+      "rank": 29,
+      "asin": "B0GFSFGXJR",
+      "title": "RXGAMING ゲーミングチェア オフィスチェア イス 椅子 テレワーク 疲れない 幅広座面 デスクチェア オットマン付き ゲーム用チェア145°リクライニング テレワーク パソコンチェア 座り心地よい 収納便利 (Grey)",
+      "rating": 4.3,
+      "reviews": 1493,
+      "price": 13980,
+      "image": "https://m.media-amazon.com/images/I/716vgj6OF0L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 30,
+      "rank": 30,
+      "asin": "B0FC2GGT6P",
+      "title": "【3年保証付き】GTPLAYER ゲーミングチェア ゲーミング座椅子 ファブリック ゲームチェア デスクチェア 360°回転座椅子 ポケットコイルが内蔵 連動アームレスト 165°リクライニングチェア ランバーサポートハイバック 蒸れない 腰が痛くな",
+      "rating": 4.2,
+      "reviews": 8573,
+      "price": 17507,
+      "image": "https://m.media-amazon.com/images/I/71S5sr7gusL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 51,
+      "rank": 51,
+      "asin": "B0DQY6P42X",
+      "title": "SeekFun ゲーミングチェア ゲーミング座椅子 360°回転 腰痛対策 ハイバック ヘッドレスト デスクチェア ランバーサポート ひじ掛け付き 150°リクライニング チェア LX-19SW (ファブリック, ダークグレー)",
+      "rating": 3.8,
+      "reviews": 116,
+      "price": 8980,
+      "image": "https://m.media-amazon.com/images/I/51Zywmj4oGL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 52,
+      "rank": 52,
+      "asin": "B0FVX23WYR",
+      "title": "SeekFun ゲーミングチェア ゲーミング座椅子 360°回転 腰痛対策 ハイバック ヘッドレスト デスクチェア ランバーサポート ひじ掛け付き 150°リクライニング チェア LX-19SW (ファブリック, ダークグレー)",
+      "rating": 4,
+      "reviews": 57,
+      "price": 19750,
+      "image": "https://m.media-amazon.com/images/I/81dnTZPr+NL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 53,
+      "rank": 53,
+      "asin": "B0DM19S7HN",
+      "title": "Wisteriaゲーミングチェア ファブリック オットマン付 デスクチェア (ブラック, 高身長シリンダー)",
+      "rating": 4,
+      "reviews": 34,
+      "price": 42000,
+      "image": "https://m.media-amazon.com/images/I/41TqaIOs1-L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 54,
+      "rank": 54,
+      "asin": "B0BSP8RJ6J",
+      "title": "AKRacing 本田翼 監修オリジナルカラーモデル 高耐久PUレザーリクライニング エルゴノミクス JIS規格",
+      "rating": 4.2,
+      "reviews": 97,
+      "price": 40627,
+      "image": "https://m.media-amazon.com/images/I/61yTUiiPNJL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 55,
+      "rank": 55,
+      "asin": "B0D3WXZS1Q",
+      "title": "Dowinx ゲーミングチェア 165°リクライニング オットマン付き デスクチェア 可動アームレスト テレワーク向け レザー ホワイト | 15°ロッキング/座面昇降/360°回転/静音キャスター/ポケットコイル内蔵座面/デスクチェア/引き出し式オットマン/ゲーム・テレワーク・勉強・動画視聴・休憩に合わせて姿勢を切り替えやすいレザー仕様/80C04",
+      "rating": 4.1,
+      "reviews": 132,
+      "price": 35999,
+      "image": "https://m.media-amazon.com/images/I/61S0X0I6DrL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 56,
+      "rank": 56,
+      "asin": "B0GV48DTRZ",
+      "title": "Dowinx ゲーミングチェア 165°リクライニング オットマン付き デスクチェア 可動アームレスト テレワーク向け レザー ホワイト | 15°ロッキング/座面昇降/360°回転/静音キャスター/ポケットコイル内蔵座面/デスクチェア/引き出し式オットマン/ゲーム・テレワーク・勉強・動画視聴・休憩に合わせて姿勢を切り替えやすいレザー仕様/80C04",
+      "rating": 4.2,
+      "reviews": 2368,
+      "price": 17300,
+      "image": "https://m.media-amazon.com/images/I/61GRUXHO-eL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 57,
+      "rank": 57,
+      "asin": "B0BGSF56MG",
+      "title": "Dowinx 回転ゲーミング座椅子 165°リクライニング 連動アームレスト スプリング座面 ハイバック PUレザー レトロ調 リビング向け グレー | 360°回転・165°リクライニング・連動アームレスト・スプリング座面・ハイバック。レトロ調PUレザーとランバークッションを組み合わせ、ゲーム、読書、テレビ視聴、在宅時間の休憩など、リビングで多様な姿勢を選びやすい座椅子です//79G03",
+      "rating": 4.2,
+      "reviews": 3443,
+      "price": 21800,
+      "image": "https://m.media-amazon.com/images/I/81bTb11cLnL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 58,
+      "rank": 58,
+      "asin": "B0FX9ZDKD8",
+      "title": "CHAIRKER ゲーミングチェア、PCゲーミングチェア、デスクチェア、人間工学に基づいたチェア、オフィスチェア、ゲーミング、ランバーサポート付き高さ調節可能な、135°チルトロック、eスポーツゲーム、リモートホームオフィス、勉強に最適 (グレー)",
+      "rating": 3,
+      "reviews": 5,
+      "price": 9498,
+      "image": "https://m.media-amazon.com/images/I/81fRaZHK1KL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 59,
+      "rank": 59,
+      "asin": "B0GR8YV3YH",
+      "title": "CHAIRKER ゲーミングチェア、PCゲーミングチェア、デスクチェア、人間工学に基づいたチェア、オフィスチェア、ゲーミング、ランバーサポート付き高さ調節可能な、135°チルトロック、eスポーツゲーム、リモートホームオフィス、勉強に最適 (グレー)",
+      "rating": 4.4,
+      "reviews": 33,
+      "price": 9498,
+      "image": "https://m.media-amazon.com/images/I/71A-CB1DW6L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 60,
+      "rank": 60,
+      "asin": "B0DK2ZR1TY",
+      "title": "ゲーミングチェア オットマン付き リクライニング 人間工学 高さ調整 デスクチェア オフィス PC用 テレワーク (白×ピンク)",
+      "rating": 4.3,
+      "reviews": 1082,
+      "price": 14708,
+      "image": "https://m.media-amazon.com/images/I/71ow0I3rVhL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 61,
+      "rank": 61,
+      "asin": "B0H74ZQKVZ",
+      "title": "ゲーミングチェア オットマン付き リクライニング 人間工学 高さ調整 デスクチェア オフィス PC用 テレワーク (白×ピンク)",
+      "rating": 5,
+      "reviews": 6,
+      "price": 10978,
+      "image": "https://m.media-amazon.com/images/I/51Esp7M428L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 62,
+      "rank": 62,
+      "asin": "B0FPGDLHK2",
+      "title": "SeekFun ゲーミングチェア ゲーミング座椅子 腰が痛くならない 360°回転 ポケットコイルが内蔵 デスクチェア ランバーサポート ひじ掛け付き 150°リクライニングチェア LX-08SW (ファブリック, グレー)",
+      "rating": 4,
+      "reviews": 28,
+      "price": 19750,
+      "image": "https://m.media-amazon.com/images/I/81yy9txe+CL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 63,
+      "rank": 63,
+      "asin": "B0FM7TG5BG",
+      "title": "【3年保証】Efomao ゲーミングチェア オフィスチェア デスクチェア オットマン付き 【ソファのような座り心地】 ポケットコイル 椅子 イス 155度リクライニング 人間工学 ハイバック 昇降アームレスト 通気性 リネン調ファブリック 疲れにくい パソコンチェア 在宅勤務 テレワーク (ホワイト)",
+      "rating": 4.4,
+      "reviews": 979,
+      "price": 16600,
+      "image": "https://m.media-amazon.com/images/I/61TKB3OaOWL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 64,
+      "rank": 64,
+      "asin": "B0G4LLHCQR",
+      "title": "【3年保証】Efomao ゲーミングチェア オフィスチェア デスクチェア オットマン付き 【ソファのような座り心地】 ポケットコイル 椅子 イス 155度リクライニング 人間工学 ハイバック 昇降アームレスト 通気性 リネン調ファブリック 疲れにくい パソコンチェア 在宅勤務 テレワーク (ホワイト)",
+      "rating": 4.4,
+      "reviews": 194,
+      "price": 26580,
+      "image": "https://m.media-amazon.com/images/I/71+Qa1pN1dL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 65,
+      "rank": 65,
+      "asin": "B0F21KJ7RR",
+      "title": "ゲーミングチェア 広々座面 ニットファブリック＆低反発クッション｜135°リクライニング＆ランバーサポート｜180kg耐荷重 デスクチェア オフィスチェア 在宅勤務 社長椅子 (シェニール生地ダークグレー)",
+      "rating": 4.2,
+      "reviews": 208,
+      "price": 24980,
+      "image": "https://m.media-amazon.com/images/I/71H6Quhhs2L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 66,
+      "rank": 66,
+      "asin": "B0GKYF3NWY",
+      "title": "Localive ゲーミングチェア 170度リクライニング 58cm 広幅座面 人間工学設計 オフィスチェア 3D アームレスト 厚手クッション 広座面 腰痛対策 PU レザー (ブラック) gaming chair 社長椅子 パソコンチェア ワークチェア 事務椅子",
+      "rating": 3.8,
+      "reviews": 31,
+      "price": 23649,
+      "image": "https://m.media-amazon.com/images/I/31QkLHTq2cL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 67,
+      "rank": 67,
+      "asin": "B0GVQJX24X",
+      "title": "ZJXKWIN ゲーミングチェア ファブリック 通気性 蒸れない 肌に優しい 人間工学 腰痛対策 135°リクライニング テレワーク オフィスチェア デスクチェア 座り心地よい ポケットコイル オットマン付き 幅広座面 連動式アームレスト ゲーミングチェアホワイト",
+      "rating": 4.4,
+      "reviews": 11,
+      "price": 15980,
+      "image": "https://m.media-amazon.com/images/I/71YVDuDPhGL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 68,
+      "rank": 68,
+      "asin": "B0GFSNMZVN",
+      "title": "AKRacing Faura ブラウン スエード調ファブリックリクライニング エルゴノミクス JIS規格 5年保証",
+      "rating": 4.5,
+      "reviews": 26,
+      "price": 60405,
+      "image": "https://m.media-amazon.com/images/I/61+v1pI0l6L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 69,
+      "rank": 69,
+      "asin": "B0H32VCRYV",
+      "title": "AKRacing オフィスチェア Premium カーボンブラック 高耐久PUレザー リクライニング エルゴノミクス JIS規格 5年保証",
+      "rating": 4.5,
+      "reviews": 523,
+      "price": 15799,
+      "image": "https://m.media-amazon.com/images/I/61FxB4MBWVL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 70,
+      "rank": 70,
+      "asin": "B075R8GZR9",
+      "title": "AKRacing オフィスチェア Premium カーボンブラック 高耐久PUレザー リクライニング エルゴノミクス JIS規格 5年保証",
+      "rating": 4.3,
+      "reviews": 907,
+      "price": 56582,
+      "image": "https://m.media-amazon.com/images/I/51PiOohPa9L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 71,
+      "rank": 71,
+      "asin": "B0DB1WH946",
+      "title": "Symino ゲーミングチェア 上質スエード素材 ポケットコイル内蔵 オットマン付 155度リクライニング オフィスチェア 社長椅子 人間工学設計 ソファーの座り心地 なめらかな肌触り 通気性 肉厚クッション ワイド座面 昇降アームレスト 疲れない テレワーク 在宅ワーク グレー",
+      "rating": 4.2,
+      "reviews": 1126,
+      "price": 9579,
+      "image": "https://m.media-amazon.com/images/I/71RXOwSUoJL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 72,
+      "rank": 72,
+      "asin": "B0GTSW83CC",
+      "title": "Symino ゲーミングチェア 上質スエード素材 ポケットコイル内蔵 オットマン付 155度リクライニング オフィスチェア 社長椅子 人間工学設計 ソファーの座り心地 なめらかな肌触り 通気性 肉厚クッション ワイド座面 昇降アームレスト 疲れない テレワーク 在宅ワーク グレー",
+      "rating": 4.4,
+      "reviews": 346,
+      "price": 18216,
+      "image": "https://m.media-amazon.com/images/I/71dB8scTw6L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 73,
+      "rank": 73,
+      "asin": "B0FKB684TV",
+      "title": "ゲーミングチェア オフィスチェア デスクチェア 【8方向調整4Dアームレスト·155°リクライニング】 ゲーム用チェア リクライニング パソコンチェア ハイバック ヘッドレスト ランバーサポート ひじ掛け付き ロッキング機能 高さ調整機能 蒸れない PUレザー 椅子 オットマン付き ブルー＆ホワイト",
+      "rating": 4.4,
+      "reviews": 673,
+      "price": 20980,
+      "image": "https://m.media-amazon.com/images/I/51d84ahwylL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 74,
+      "rank": 74,
+      "asin": "B0H5Q9MC4R",
+      "title": "ゲーミングチェア オフィスチェア デスクチェア 【8方向調整4Dアームレスト·155°リクライニング】 ゲーム用チェア リクライニング パソコンチェア ハイバック ヘッドレスト ランバーサポート ひじ掛け付き ロッキング機能 高さ調整機能 蒸れない PUレザー 椅子 オットマン付き ブルー＆ホワイト",
+      "rating": 4.4,
+      "reviews": 13,
+      "price": 16920,
+      "image": "https://m.media-amazon.com/images/I/8123I4NFxBL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 75,
+      "rank": 75,
+      "asin": "B0GS5CVKDY",
+      "title": "HLDIRECT ゲーミングチェア gaming chair ファブリック(黒) | オフィスチェア パソコンチェアはフットレストと腰部サポート付き135度リクライニング可能高さ調節機能付き 肌触りが良く通気性に 快適な座り心地で疲労を防止します",
+      "rating": 4.4,
+      "reviews": 33,
+      "price": 11989,
+      "image": "https://m.media-amazon.com/images/I/71awEIRgclL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 76,
+      "rank": 76,
+      "asin": "B0G6YQJT73",
+      "title": "【ソファタイプ】AGRelux 極 アグリラックス キワミ ゲーミングチェア あぐら対応 ソファチェア オフィスチェア 肉厚14cmクッション 150度リクライニング 2D八の字アーム オットマン付き PUレザー ブラック (AGRelux 極(ブラック))",
+      "rating": 4,
+      "reviews": 1,
+      "price": 39800,
+      "image": "https://m.media-amazon.com/images/I/611FAeUam9L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 77,
+      "rank": 77,
+      "asin": "B0H35V6F4Q",
+      "title": "SUKIDA ゲーミングチェア ファブリック オフィスチェア 通気性 蒸れない デスクチェア テレワーク 疲れない 椅子 イス 幅広座面 鱗模様の刺繍 げーみんくチェア 座り心地よい オットマン付き gaming chair 135°リクライニング 10cm高さ調節 ハイバック (ブラック)",
+      "rating": 5,
+      "reviews": 4,
+      "price": 9333,
+      "image": "https://m.media-amazon.com/images/I/61AsDnNq7bL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 78,
+      "rank": 78,
+      "asin": "B0H1LVC4ML",
+      "title": "SUKIDA ゲーミングチェア ファブリック オフィスチェア 通気性 蒸れない デスクチェア テレワーク 疲れない 椅子 イス 幅広座面 鱗模様の刺繍 げーみんくチェア 座り心地よい オットマン付き gaming chair 135°リクライニング 10cm高さ調節 ハイバック (ブラック)",
+      "rating": 4.4,
+      "reviews": 105,
+      "price": 9980,
+      "image": "https://m.media-amazon.com/images/I/71cj1KkuYvL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 80,
+      "rank": 80,
+      "asin": "B0DDCCLVJC",
+      "title": "NIONIK ゲーミングチェア 180°リクライニング ファブリック 回転座椅子 ひじ掛けなし ゲームチェア ランバーサポート 360° 回転座面 ハイバック ブラック",
+      "rating": 3.8,
+      "reviews": 149,
+      "price": 11979,
+      "image": "https://m.media-amazon.com/images/I/519nMSa02fL._AC_SL1500_.jpg"
+    }
+  ]
+}

@@ -1,0 +1,504 @@
+{
+  "scanned": 125,
+  "mismatches": 0,
+  "missingCache": 55,
+  "mismatchList": [],
+  "missingList": [
+    {
+      "id": "cam-str-001-rq8m",
+      "category": "camera",
+      "name": "YoloCam S3",
+      "brand": "YoloLiv",
+      "image": "https://m.media-amazon.com/images/I/715R39FsUiL._AC_SL1500_.jpg",
+      "asin": "B0FQ5NRQ8M",
+      "file": "camera-streaming-search.ts"
+    },
+    {
+      "id": "cam-str-003-jq1z",
+      "category": "camera",
+      "name": "YoloCam S7",
+      "brand": "YoloLiv",
+      "image": "https://m.media-amazon.com/images/I/71XRL7BtO+L._AC_SL1500_.jpg",
+      "asin": "B0GHRMJQ1Z",
+      "file": "camera-streaming-search.ts"
+    },
+    {
+      "id": "cam-str-004-zr1v",
+      "category": "camera",
+      "name": "TINY 2",
+      "brand": "OBSBOT",
+      "image": "https://m.media-amazon.com/images/I/51XeBqiCrRL._AC_SL1500_.jpg",
+      "asin": "B0C3B6ZR1V",
+      "file": "camera-streaming-search.ts"
+    },
+    {
+      "id": "cam-str-011-p22d",
+      "category": "camera",
+      "name": "Link 2 ブラック  4K  PTZ 1/2インチセンサー AI追跡 ジンバル搭载 HDR ",
+      "brand": "Insta360",
+      "image": "https://m.media-amazon.com/images/I/51R6zRz7EVL._AC_SL1500_.jpg",
+      "asin": "B0DM5YP22D",
+      "file": "camera-streaming-search.ts"
+    },
+    {
+      "id": "cam-str-012-lrnl",
+      "category": "camera",
+      "name": "-VenusLiv Air-ライブ配信カメラ-LAN/WIFI接続-4K30p/RTMP/USB",
+      "brand": "Hollyland",
+      "image": "https://m.media-amazon.com/images/I/61e5-KIt3xL._AC_SL1500_.jpg",
+      "asin": "B0FM3FLRNL",
+      "file": "camera-streaming-search.ts"
+    },
+    {
+      "id": "cam-str-013-j7mx",
+      "category": "camera",
+      "name": "ActionRing書画カメラ 4K 1500万画素  プロジェクターに直接投影",
+      "brand": "—",
+      "image": "https://m.media-amazon.com/images/I/51Dd6r8yl6L._AC_SL1500_.jpg",
+      "asin": "B0FSRHJ7MX",
+      "file": "camera-streaming-search.ts"
+    },
+    {
+      "id": "cam-str-014-b2t6",
+      "category": "camera",
+      "name": "Meet Flip 4K  折りたたみ式 AI搭載",
+      "brand": "OBSBOT",
+      "image": "https://m.media-amazon.com/images/I/51PX15gciKL._AC_SL1500_.jpg",
+      "asin": "B0GX94B2T6",
+      "file": "camera-streaming-search.ts"
+    },
+    {
+      "id": "cam-str-019-94fh",
+      "category": "camera",
+      "name": "DC400 USB /書画カメラ/スキャナー 3-in-1 1600万画素 4K/30fps A",
+      "brand": "Ideao",
+      "image": "https://m.media-amazon.com/images/I/61qD1+qQS6L._AC_SL1500_.jpg",
+      "asin": "B09M3F94FH",
+      "file": "camera-streaming-search.ts"
+    },
+    {
+      "id": "cam-str-020-81b3",
+      "category": "camera",
+      "name": "Link 2C 通常版 アークティックホワイト - PC/Mac 用 4K 、1/2 インチセン",
+      "brand": "Insta360",
+      "image": "https://m.media-amazon.com/images/I/51wfI8bPutL._AC_SL1500_.jpg",
+      "asin": "B0DNK381B3",
+      "file": "camera-streaming-search.ts"
+    },
+    {
+      "id": "cam-str-023-sst2",
+      "category": "camera",
+      "name": "4K UHD  800万画素 1080P@30FPS対応 自動光補正 95°視野角 内蔵マイク ",
+      "brand": "AOC",
+      "image": "https://m.media-amazon.com/images/I/61-RpWiDcPL._AC_SL1500_.jpg",
+      "asin": "B0GQZ5SST2",
+      "file": "camera-streaming-search.ts"
+    },
+    {
+      "id": "cam-str-024-6ty5",
+      "category": "camera",
+      "name": "S600L",
+      "brand": "EMEET",
+      "image": "https://m.media-amazon.com/images/I/615ZetJnGlL._AC_SL1500_.jpg",
+      "asin": "B0GCCV6TY5",
+      "file": "camera-streaming-search.ts"
+    },
+    {
+      "id": "cam-str-027-1hm3",
+      "category": "camera",
+      "name": "C960",
+      "brand": "EMEET",
+      "image": "https://m.media-amazon.com/images/I/61PSCxmrwgL._AC_SL1500_.jpg",
+      "asin": "B09VSM1HM3",
+      "file": "camera-streaming-search.ts"
+    },
+    {
+      "id": "cam-str-028-y8fg",
+      "category": "camera",
+      "name": "Link 2C",
+      "brand": "Insta360",
+      "image": "https://m.media-amazon.com/images/I/51ueipcvQRL._AC_SL1500_.jpg",
+      "asin": "B0DDTGY8FG",
+      "file": "camera-streaming-search.ts"
+    },
+    {
+      "id": "cam-str-030-nz4j",
+      "category": "camera",
+      "name": "MEET SE 1080P 100FPS FHD",
+      "brand": "OBSBOT",
+      "image": "https://m.media-amazon.com/images/I/51A+soaAXmL._AC_SL1500_.jpg",
+      "asin": "B0DQ8TNZ4J",
+      "file": "camera-streaming-search.ts"
+    },
+    {
+      "id": "cam-str-031-26zr",
+      "category": "camera",
+      "name": "C660OW",
+      "brand": "Logicool",
+      "image": "https://m.media-amazon.com/images/I/51XVwJ+TmgL._AC_SL1500_.jpg",
+      "asin": "B0CGLP26ZR",
+      "file": "camera-streaming-search.ts"
+    },
+    {
+      "id": "cam-str-035-sdc2",
+      "category": "camera",
+      "name": "S600",
+      "brand": "EMEET",
+      "image": "https://m.media-amazon.com/images/I/61XeAxq0ZdL._AC_SL1500_.jpg",
+      "asin": "B0D664SDC2",
+      "file": "camera-streaming-search.ts"
+    },
+    {
+      "id": "cam-str-038-3hx8",
+      "category": "camera",
+      "name": "Link 2",
+      "brand": "Insta360",
+      "image": "https://m.media-amazon.com/images/I/716IBU12OUL._AC_SL1500_.jpg",
+      "asin": "B0DDTH3HX8",
+      "file": "camera-streaming-search.ts"
+    },
+    {
+      "id": "cam-str-040-9ct3",
+      "category": "camera",
+      "name": "Facecam MK.2 – 最高級フルHD, 配信、ゲーム配信、ビデオ通話、録画に最適、HDR",
+      "brand": "Elgato",
+      "image": "https://m.media-amazon.com/images/I/61J7cBOVGWL._AC_SL1500_.jpg",
+      "asin": "B0CXP79CT3",
+      "file": "camera-streaming-search.ts"
+    },
+    {
+      "id": "cam-str-042-xn7j",
+      "category": "camera",
+      "name": "書画カメラ USB 1600万画素 OCR対応 A3サイズ撮影 4K動画録画 360°回転 マイ",
+      "brand": "—",
+      "image": "https://m.media-amazon.com/images/I/61m1nZyOE4L._AC_SL1500_.jpg",
+      "asin": "B0FX43XN7J",
+      "file": "camera-streaming-search.ts"
+    },
+    {
+      "id": "cam-str-046-lnzf",
+      "category": "camera",
+      "name": "2K  ゲーム用 500万画素 マイク内蔵 三脚付き",
+      "brand": "TOALLIN",
+      "image": "https://m.media-amazon.com/images/I/619xm8i-jyL._AC_SL1500_.jpg",
+      "asin": "B0FN3NLNZF",
+      "file": "camera-streaming-search.ts"
+    },
+    {
+      "id": "cam-str-049-lvm9",
+      "category": "camera",
+      "name": "HD 2K 400万画素 広角レンズ マイク付き 自動光補正 ストリーミング USB接続 PCカ",
+      "brand": "—",
+      "image": "https://m.media-amazon.com/images/I/61SP84J3RkL._AC_SL1500_.jpg",
+      "asin": "B0G1RCLVM9",
+      "file": "camera-streaming-search.ts"
+    },
+    {
+      "id": "cam-str-050-sfx4",
+      "category": "camera",
+      "name": "C960 Ultra",
+      "brand": "EMEET",
+      "image": "https://m.media-amazon.com/images/I/61KfqqGbg+L._AC_SL1500_.jpg",
+      "asin": "B0GR59SFX4",
+      "file": "camera-streaming-search.ts"
+    },
+    {
+      "id": "cam-str-050-xk6r",
+      "category": "camera",
+      "name": "Tiny 3 Lite  4k 業界初の空間オーディオ",
+      "brand": "OBSBOT",
+      "image": "https://m.media-amazon.com/images/I/51HEvpp8M4L._AC_SL1500_.jpg",
+      "asin": "B0G63LXK6R",
+      "file": "camera-streaming-search.ts"
+    },
+    {
+      "id": "cam-str-051-23tk",
+      "category": "camera",
+      "name": "C980pro",
+      "brand": "EMEET",
+      "image": "https://m.media-amazon.com/images/I/61vCh3iYXGL._AC_SL1500_.jpg",
+      "asin": "B0DRCJ23TK",
+      "file": "camera-streaming-search.ts"
+    },
+    {
+      "id": "cam-str-052-skk9",
+      "category": "camera",
+      "name": "Facecam Neo – フルHD、簡単なスライド式プライバシーシャッター、光補正、ビデオ通話",
+      "brand": "Elgato",
+      "image": "https://m.media-amazon.com/images/I/51IJDXSG17L._AC_SL1500_.jpg",
+      "asin": "B0CWLCSKK9",
+      "file": "camera-streaming-search.ts"
+    },
+    {
+      "id": "cam-str-053-t6m8",
+      "category": "camera",
+      "name": "V08AF",
+      "brand": "NearStream",
+      "image": "https://m.media-amazon.com/images/I/611aiJbz4+L._AC_SL1500_.jpg",
+      "asin": "B0GW5WT6M8",
+      "file": "camera-streaming-search.ts"
+    },
+    {
+      "id": "cam-str-053-mqxp",
+      "category": "camera",
+      "name": "マイク付き 【2026初発売・HDR自動光補正機能】  フルHD 1080P 200万画素 90",
+      "brand": "—",
+      "image": "https://m.media-amazon.com/images/I/61Vm8z5d4mL._AC_SL1500_.jpg",
+      "asin": "B0FW41MQXP",
+      "file": "camera-streaming-search.ts"
+    },
+    {
+      "id": "cam-str-054-tv64",
+      "category": "camera",
+      "name": "4K  UHD 800万画素 120°広角会議用カメラ1080P@60FPS PC用",
+      "brand": "Angetube",
+      "image": "https://m.media-amazon.com/images/I/61f8bcUAXUL._AC_SL1500_.jpg",
+      "asin": "B0FN3BTV64",
+      "file": "camera-streaming-search.ts"
+    },
+    {
+      "id": "cam-str-054-v167",
+      "category": "camera",
+      "name": "Live! Cam Sync V3 ワイドアングル 2K QHD 4x デジタルズーム デュアル",
+      "brand": "Creative",
+      "image": "https://m.media-amazon.com/images/I/41KI2RFbefL._AC_SL1500_.jpg",
+      "asin": "B0B74YV167",
+      "file": "camera-streaming-search.ts"
+    },
+    {
+      "id": "cam-str-055-mr75",
+      "category": "camera",
+      "name": "UCAM-C750FBBK",
+      "brand": "ELECOM",
+      "image": "https://m.media-amazon.com/images/I/61kwW55RnWL._AC_SL1500_.jpg",
+      "asin": "B078J9MR75",
+      "file": "camera-streaming-search.ts"
+    },
+    {
+      "id": "cam-str-056-6hx1",
+      "category": "camera",
+      "name": "NOVA 4K  UHD",
+      "brand": "EMEET",
+      "image": "https://m.media-amazon.com/images/I/61bCeQBjUwL._AC_SL1500_.jpg",
+      "asin": "B0CY1N6HX1",
+      "file": "camera-streaming-search.ts"
+    },
+    {
+      "id": "cam-str-065-llxl",
+      "category": "camera",
+      "name": "【400万画素・2K自動ピント機能】  軽量小型 （75°画角-余計な背後が映らない・盗撮防止カ",
+      "brand": "Cyvorsky",
+      "image": "https://m.media-amazon.com/images/I/61XmeqnNiCL._AC_SL1500_.jpg",
+      "asin": "B0919MLLXL",
+      "file": "camera-streaming-search.ts"
+    },
+    {
+      "id": "cam-str-068-ynfx",
+      "category": "camera",
+      "name": "INS-Flip 4 (台湾製) USB 携帯型書画カメラ/ - 4K解像度 1300万画素 折",
+      "brand": "INSWAN",
+      "image": "https://m.media-amazon.com/images/I/51Qh-UhdPYL._AC_SL1500_.jpg",
+      "asin": "B0CNT5YNFX",
+      "file": "camera-streaming-search.ts"
+    },
+    {
+      "id": "cam-str-069-wdn6",
+      "category": "camera",
+      "name": "4K オートフォーカス 自動光調整 ノイズキャンセリングマイク 内蔵 65°広角 プライバシーカ",
+      "brand": "—",
+      "image": "https://m.media-amazon.com/images/I/61pG8LevpAL._AC_SL1500_.jpg",
+      "asin": "B0FNZZWDN6",
+      "file": "camera-streaming-search.ts"
+    },
+    {
+      "id": "cam-str-070-v1v9",
+      "category": "camera",
+      "name": "2K  PCカメラ 【自動光補正＆オートフォーカス】 プライバシー保護カバー付き 2つのマイク内",
+      "brand": "ZAIDER",
+      "image": "https://m.media-amazon.com/images/I/614Fyae1MIL._AC_SL1500_.jpg",
+      "asin": "B0GH61V1V9",
+      "file": "camera-streaming-search.ts"
+    },
+    {
+      "id": "cam-str-071-1gmn",
+      "category": "camera",
+      "name": "USB書画カメラ／折りたたみポータブル：実物投影機能、内蔵マイク＆LEDライト搭載、オートフォー",
+      "brand": "—",
+      "image": "https://m.media-amazon.com/images/I/61t4BmKs0mL._AC_SL1500_.jpg",
+      "asin": "B0FQC11GMN",
+      "file": "camera-streaming-search.ts"
+    },
+    {
+      "id": "cam-str-072-x3sp",
+      "category": "camera",
+      "name": "PC用2K、マイクと三脚付き、自動光補正、USBプラグアンドプレイ、90°広視野角、プライバシー",
+      "brand": "—",
+      "image": "https://m.media-amazon.com/images/I/71WlY3EH1GL._AC_SL1500_.jpg",
+      "asin": "B0F87XX3SP",
+      "file": "camera-streaming-search.ts"
+    },
+    {
+      "id": "cam-str-075-nt1f",
+      "category": "camera",
+      "name": "4K  会議カメラ 高速オートフレーミング 10倍ズーム1080p 60fps配信・オンラインミ",
+      "brand": "Angetube",
+      "image": "https://m.media-amazon.com/images/I/71-Qv0c5MyL._AC_SL1500_.jpg",
+      "asin": "B0BYCPNT1F",
+      "file": "camera-streaming-search.ts"
+    },
+    {
+      "id": "cam-str-076-6p9g",
+      "category": "camera",
+      "name": "2K  自動HD光補正機能を搭載 100°視野角 ノイズキャンセリングマイク付きpcカメラ&プレ",
+      "brand": "Aury",
+      "image": "https://m.media-amazon.com/images/I/71f1fZV-etL._AC_SL1500_.jpg",
+      "asin": "B0DRFD6P9G",
+      "file": "camera-streaming-search.ts"
+    },
+    {
+      "id": "cam-str-077-kjjd",
+      "category": "camera",
+      "name": "USB 書画カメラ1000万画素実物投影機4K@30fps/ 1080P@60fps Zoom ",
+      "brand": "TreasLin",
+      "image": "https://m.media-amazon.com/images/I/616DB+DvlPL._AC_SL1500_.jpg",
+      "asin": "B0CQCCKJJD",
+      "file": "camera-streaming-search.ts"
+    },
+    {
+      "id": "cam-str-079-yc35",
+      "category": "camera",
+      "name": "4K Web会議 PTZカメラ AI自動追尾機能3倍光学ズーム92°広角視野HDMI/USB3.",
+      "brand": "TONGVEO",
+      "image": "https://m.media-amazon.com/images/I/61Wv4Uvi8rL._AC_SL1500_.jpg",
+      "asin": "B0GHNTYC35",
+      "file": "camera-streaming-search.ts"
+    },
+    {
+      "id": "cam-str-080-ccmp",
+      "category": "camera",
+      "name": "マイク内蔵 4K 2K 1080P 超高画素 85°広角  ストリーミング  プライバシーカバー",
+      "brand": "—",
+      "image": "https://m.media-amazon.com/images/I/41nZaz25Z+L._AC_SL1500_.jpg",
+      "asin": "B0H1HBCCMP",
+      "file": "camera-streaming-search.ts"
+    },
+    {
+      "id": "cam-str-081-hb16",
+      "category": "camera",
+      "name": "360度 Webカメラ",
+      "brand": "j5create",
+      "image": "https://m.media-amazon.com/images/I/61grC5pbwBL._AC_SL1500_.jpg",
+      "asin": "B08NV3HB16",
+      "file": "camera-streaming-search.ts"
+    },
+    {
+      "id": "cam-str-082-1q5z",
+      "category": "camera",
+      "name": "C570",
+      "brand": "Innex",
+      "image": "https://m.media-amazon.com/images/I/61tPQKjmuSL._AC_SL1500_.jpg",
+      "asin": "B0BG9B1Q5Z",
+      "file": "camera-streaming-search.ts"
+    },
+    {
+      "id": "cam-str-083-7f91",
+      "category": "camera",
+      "name": "JOYUSING FlexCam10 4K  アイコンタクト PC用 4モード搭載 マイク内蔵 ",
+      "brand": "—",
+      "image": "https://m.media-amazon.com/images/I/61ya+qxa5IL._AC_SL1500_.jpg",
+      "asin": "B0GS547F91",
+      "file": "camera-streaming-search.ts"
+    },
+    {
+      "id": "cam-str-085-t6r9",
+      "category": "camera",
+      "name": "PIXY",
+      "brand": "EMEET",
+      "image": "https://m.media-amazon.com/images/I/513IBfiUXrL._AC_SL1500_.jpg",
+      "asin": "B0GXFDT6R9",
+      "file": "camera-streaming-search.ts"
+    },
+    {
+      "id": "cam-str-086-jgmn",
+      "category": "camera",
+      "name": "UC-W20 会議用  マイク内蔵 4K 1300万画素 集音最大4ｍ 上下左右10度の角度調整",
+      "brand": "MAXHUB",
+      "image": "https://m.media-amazon.com/images/I/51LD+fd0jeL._AC_SL1500_.jpg",
+      "asin": "B09YY7JGMN",
+      "file": "camera-streaming-search.ts"
+    },
+    {
+      "id": "cam-str-087-m1j2",
+      "category": "camera",
+      "name": "デュアルAIノイズキャンセリングマイク付き2K QHD2000万画素 オートフォーカス,自動光補",
+      "brand": "—",
+      "image": "https://m.media-amazon.com/images/I/610vJWmUFZL._AC_SL1500_.jpg",
+      "asin": "B0FB3TM1J2",
+      "file": "camera-streaming-search.ts"
+    },
+    {
+      "id": "cam-str-089-s7c3",
+      "category": "camera",
+      "name": "デュアルAIノイズキャンセリングマイク付き4K UHD1200万画素 オートフォーカス,自動光補",
+      "brand": "—",
+      "image": "https://m.media-amazon.com/images/I/610vJWmUFZL._AC_SL1500_.jpg",
+      "asin": "B0FB3SS7C3",
+      "file": "camera-streaming-search.ts"
+    },
+    {
+      "id": "cam-str-090-867s",
+      "category": "camera",
+      "name": "フルHD 1080P 200万画素 ストリーミング 自動光補正 超広角120°360°回転 内蔵",
+      "brand": "—",
+      "image": "https://m.media-amazon.com/images/I/71IrIRRD6jL._AC_SL1500_.jpg",
+      "asin": "B0FR4C867S",
+      "file": "camera-streaming-search.ts"
+    },
+    {
+      "id": "cam-str-092-bfpl",
+      "category": "camera",
+      "name": "PC用4K、1080P@60FPS、ノイズ低減マイク付き4Kカメラ、92°FOV、自動光補正、8",
+      "brand": "—",
+      "image": "https://m.media-amazon.com/images/I/512IJS+4AZL._AC_SL1500_.jpg",
+      "asin": "B0FJXFBFPL",
+      "file": "camera-streaming-search.ts"
+    },
+    {
+      "id": "cam-str-097-vckw",
+      "category": "camera",
+      "name": "Facecam Pro, ライブ配信用 4K60 Ultra HD ゲーミング/ビデオ通話/So",
+      "brand": "Elgato",
+      "image": "https://m.media-amazon.com/images/I/61eXN9erjAL._AC_SL1500_.jpg",
+      "asin": "B0GL2BVCKW",
+      "file": "camera-streaming-search.ts"
+    },
+    {
+      "id": "cam-str-098-dzgz",
+      "category": "camera",
+      "name": "フルHD 1080P 200万画素 ストリーミング 自動光補正 内蔵マイク 超広角120° 会議",
+      "brand": "—",
+      "image": "https://m.media-amazon.com/images/I/716-L-jEv9L._AC_SL1500_.jpg",
+      "asin": "B0FG7RDZGZ",
+      "file": "camera-streaming-search.ts"
+    },
+    {
+      "id": "cam-str-099-xkv8",
+      "category": "camera",
+      "name": "PTZカメラweb会議ビデオ3倍光学ズーム1080P60FPS超広角視野ptz USB3.0/H",
+      "brand": "Tenveo",
+      "image": "https://m.media-amazon.com/images/I/71PBORL8XPL._AC_SL1500_.jpg",
+      "asin": "B0CJM2XKV8",
+      "file": "camera-streaming-search.ts"
+    },
+    {
+      "id": "cam-str-111-t8bc",
+      "category": "camera",
+      "name": "LEDライト  三脚 マイク内蔵 110度広角 オートフォーカス  1080p 200万画素 3",
+      "brand": "—",
+      "image": "https://m.media-amazon.com/images/I/61GZRpZ-Z4L._AC_SL1500_.jpg",
+      "asin": "B09QXKT8BC",
+      "file": "camera-streaming-search.ts"
+    }
+  ],
+  "generatedAt": "2026-09-02T13:04:22.639Z"
+}

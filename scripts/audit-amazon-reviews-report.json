@@ -1,0 +1,186 @@
+{
+  "totalWithAsin": 1897,
+  "uniqueAsins": 1897,
+  "duplicateAsinConflicts": 0,
+  "suspiciousRatings": 0,
+  "cacheMismatches": 0,
+  "missingRatingOrReviews": 19,
+  "samples": {
+    "duplicateAsinConflicts": [],
+    "suspicious": [],
+    "cacheMismatches": [],
+    "missing": [
+      {
+        "id": "ai-search-076",
+        "file": "audio-interface-bestsellers.ts",
+        "asin": "B0GH2C4QXR",
+        "category": "audio-interface",
+        "name": "MicroAUDIO 22",
+        "rating": 0,
+        "reviews": 0
+      },
+      {
+        "id": "chair-akr-9q5kq1",
+        "file": "gaming-chair-akracing-store.ts",
+        "asin": "B0H69Q5KQ1",
+        "category": "gaming-chair",
+        "name": "ファシリティチェア MJ Grey 日本プロ麻雀連盟モデル グレー 高耐久PUレザーリクライニング",
+        "rating": 0,
+        "reviews": 0
+      },
+      {
+        "id": "chair-akr-13kwgv",
+        "file": "gaming-chair-akracing-store.ts",
+        "asin": "B0FZ13KWGV",
+        "category": "gaming-chair",
+        "name": "ゲーミングチェア FC町田ゼルビアチェア PVCレザーリクライニング Jリーグ",
+        "rating": 0,
+        "reviews": 0
+      },
+      {
+        "id": "chair-sr4-175",
+        "file": "gaming-chair-search-page4.ts",
+        "asin": "B0HDJ64ZPR",
+        "category": "gaming-chair",
+        "name": "人間工学ゲーミングチェア 145°リクライニング 可動アームレスト 高さ調節 フットレスト付き ",
+        "rating": 0,
+        "reviews": 0
+      },
+      {
+        "id": "k-gnr-p1-028",
+        "file": "keyboard-gaming-new-releases-page1.ts",
+        "asin": "B0GXWRDGSJ",
+        "category": "keyboard",
+        "name": "3キー マクロキーボード",
+        "rating": 0,
+        "reviews": 0
+      },
+      {
+        "id": "k-gnr-p2-056",
+        "file": "keyboard-gaming-new-releases-page2.ts",
+        "asin": "B0H3QRWLLV",
+        "category": "keyboard",
+        "name": "片手マクロキーボード 3キー+ノブ",
+        "rating": 0,
+        "reviews": 0
+      },
+      {
+        "id": "k-gnr-p2-058",
+        "file": "keyboard-gaming-new-releases-page2.ts",
+        "asin": "B0H3BVSHSB",
+        "category": "keyboard",
+        "name": "プログラマブル2キー ノブ付き",
+        "rating": 0,
+        "reviews": 0
+      },
+      {
+        "id": "k-nr2-068",
+        "file": "keyboard-new-releases-page2.ts",
+        "asin": "B0H1X78F47",
+        "category": "keyboard",
+        "name": "Snsowed 超薄型 USB 有線キーボード（ピンク）",
+        "rating": 0,
+        "reviews": 0
+      },
+      {
+        "id": "mic-srch-0350",
+        "file": "mic-computers-search.ts",
+        "asin": "B0CJCCBLVV",
+        "category": "mic",
+        "name": "JEOZBM BM700 USBコンデンサーマイク コンピューター用 Hi‑Fi カーディオイドマ…",
+        "rating": 0,
+        "reviews": 0
+      },
+      {
+        "id": "mon-bs-033",
+        "file": "monitor-bestsellers.ts",
+        "asin": "B07Y5VJ8XG",
+        "category": "monitor",
+        "name": "VP229HE",
+        "rating": 0,
+        "reviews": 0
+      },
+      {
+        "id": "mon-bs-037",
+        "file": "monitor-bestsellers.ts",
+        "asin": "B0C7B8YQ8K",
+        "category": "monitor",
+        "name": "RLD-27FHD-B",
+        "rating": 0,
+        "reviews": 0
+      },
+      {
+        "id": "mon-lenovo-1822-020",
+        "file": "monitor-lenovo-search-1822.ts",
+        "asin": "B0GH2PMX77",
+        "category": "monitor",
+        "name": "ThinkVision T22i-30 22インチクラスフルHD LED - 16:9 - レイ",
+        "rating": 0,
+        "reviews": 0
+      },
+      {
+        "id": "mon-lenovo-1822-025",
+        "file": "monitor-lenovo-search-1822.ts",
+        "asin": "B000E43DLK",
+        "category": "monitor",
+        "name": "20.1IN LCD 700:1 1600X1200 60HZ Thinkvision L201",
+        "rating": 0,
+        "reviews": 0
+      },
+      {
+        "id": "mon-lenovo-26p2-038",
+        "file": "monitor-lenovo-search-26plus-page2.ts",
+        "asin": "B0C7CZYLWQ",
+        "category": "monitor",
+        "name": "63D1RAR1US 31.5\\",
+        "rating": 0,
+        "reviews": 0
+      },
+      {
+        "id": "mon-lenovo-26-027",
+        "file": "monitor-lenovo-search-26plus.ts",
+        "asin": "B0FB9B5F3Y",
+        "category": "monitor",
+        "name": "Lenovo ThinkVision P27Q-40",
+        "rating": 0,
+        "reviews": 0
+      },
+      {
+        "id": "mon-philips-020",
+        "file": "monitor-philips-search.ts",
+        "asin": "B0GTY2H5TK",
+        "category": "monitor",
+        "name": "PHILIPS 32B1U3900/11",
+        "rating": 0,
+        "reviews": 0
+      },
+      {
+        "id": "mon-s22120-065",
+        "file": "monitor-search-22-120.ts",
+        "asin": "B0FFGS1732",
+        "category": "monitor",
+        "name": "GH-LCW24VH-BK 23.8-inch Wide",
+        "rating": 0,
+        "reviews": 0
+      },
+      {
+        "id": "mon-s22120-117",
+        "file": "monitor-search-22-120.ts",
+        "asin": "B0DMT5LHY8",
+        "category": "monitor",
+        "name": "U2424H",
+        "rating": 0,
+        "reviews": 0
+      },
+      {
+        "id": "m-pb-001",
+        "file": "mouse-popular-brands.ts",
+        "asin": "B09ZLV2531",
+        "category": "mouse",
+        "name": "Razer DeathAdder V3 Pro - Kabellose ergonomische Esports-Maus (63g le…",
+        "rating": 0,
+        "reviews": 0
+      }
+    ]
+  }
+}

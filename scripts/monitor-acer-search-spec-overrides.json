@@ -1,0 +1,87 @@
+{
+  "B0FN2L4XTZ": {
+    "name": "SDGs推進 21.5型",
+    "brand": "Acer",
+    "price": 10965,
+    "screenSize": "21.5 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "panel": "VA",
+    "refreshRate": "75 Hz",
+    "responseTime": "4 ms",
+    "connection": "HDMI / ミニD-Sub (VGA)",
+    "features": "ゼロフレーム / 非光沢 / スピーカーなし / 5年保証",
+    "tagline": "21.5\" FHD VA SDGsモデル"
+  },
+  "B083YCHRZ3": {
+    "name": "AlphaLine K242HQLbi",
+    "brand": "Acer",
+    "price": 9999,
+    "screenSize": "23.6 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "panel": "VA",
+    "refreshRate": "75 Hz",
+    "responseTime": "1 ms",
+    "connection": "HDMI / D-Sub (VGA)",
+    "features": "ブルーライト軽減 / VESA対応 / スピーカーなし / 広視野角178°",
+    "tagline": "23.6\" FHD VA AlphaLine"
+  },
+  "B0BLCFJ9H1": {
+    "name": "SigmaLine KG251QSbmiipx",
+    "brand": "Acer",
+    "price": 17680,
+    "screenSize": "24.5 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "panel": "VA",
+    "refreshRate": "165 Hz",
+    "responseTime": "1 ms (VRB)",
+    "connection": "HDMI / DisplayPort",
+    "features": "FreeSync Premium / スピーカー内蔵 / VESA対応 / チルト",
+    "tagline": "24.5\" FHD 165Hz SigmaLine"
+  },
+  "B0C4J5N3VK": {
+    "name": "QG241YEbmiix",
+    "brand": "Acer",
+    "price": 11990,
+    "screenSize": "23.8 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "panel": "IPS",
+    "refreshRate": "100 Hz",
+    "responseTime": "1 ms (VRB)",
+    "connection": "HDMI / ミニD-Sub (VGA)",
+    "features": "Amazon.co.jp限定 / スピーカー内蔵 / AMD FreeSync"
+  },
+  "B0FX4V8L8N": {
+    "name": "Nitro VG270X3bmiipx",
+    "brand": "Acer",
+    "screenSize": "24.5 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "panel": "IPS",
+    "refreshRate": "240 Hz",
+    "responseTime": "0.5 ms (GtG)",
+    "connection": "HDMI 2.1 / DisplayPort 1.4",
+    "features": "AMD FreeSync Premium / HDR10 / ゼロフレーム"
+  },
+  "B08HZ448KY": {
+    "name": "VG240YSbmiipfx",
+    "brand": "Acer",
+    "price": 17980,
+    "screenSize": "23.8 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "panel": "IPS",
+    "refreshRate": "165 Hz",
+    "responseTime": "0.5 ms (GtG)",
+    "connection": "HDMI",
+    "features": "AMD FreeSync Premium / HDR10 / 非光沢"
+  },
+  "B0DMF317JS": {
+    "name": "Nitro KG251QZ1bmiipx",
+    "brand": "Acer",
+    "screenSize": "24.5 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "panel": "VA",
+    "refreshRate": "280 Hz",
+    "responseTime": "1 ms",
+    "connection": "HDMI 2.0 / DisplayPort 1.4",
+    "features": "AMD FreeSync Premium / HDR10 / ゼロフレーム"
+  }
+}

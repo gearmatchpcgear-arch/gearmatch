@@ -1,0 +1,5139 @@
+{
+  "catalog": [
+    {
+      "id": "arm-bs-001",
+      "rank": 1,
+      "asin": "B0CQXMT3QC",
+      "name": "モニターアーム シングル",
+      "brand": "Amazonベーシック",
+      "tagline": "15〜32インチ対応・耐荷重2.0〜7.0kg・ガススプリング式",
+      "price": 2919,
+      "rating": 3.9,
+      "reviews": 1238,
+      "image": "https://m.media-amazon.com/images/I/511QVoYojOL._AC_SL1500_.jpg",
+      "connection": "クランプ式",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0CQXMT3QC",
+      "supportedSize": "15〜32インチ",
+      "weightCapacity": "2.0〜7.0kg",
+      "armType": "シングル (1画面)",
+      "springType": "ガススプリング式",
+      "mountType": "クランプ式",
+      "vesaStandard": "75×75 / 100×100 mm",
+      "weight": "—",
+      "highlights": [
+        {
+          "label": "対応サイズ",
+          "value": "15〜32インチ"
+        },
+        {
+          "label": "耐荷重",
+          "value": "2.0〜7.0kg"
+        },
+        {
+          "label": "VESA",
+          "value": "75×75 / 100×100"
+        },
+        {
+          "label": "取付方式",
+          "value": "クランプ式"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "対応モニター",
+          "rows": [
+            {
+              "label": "画面サイズ",
+              "value": "15〜32インチ"
+            },
+            {
+              "label": "耐荷重",
+              "value": "2.0〜7.0kg"
+            },
+            {
+              "label": "VESA",
+              "value": "75×75 / 100×100 mm"
+            },
+            {
+              "label": "アーム数",
+              "value": "シングル (1画面)"
+            }
+          ]
+        },
+        {
+          "title": "設置 / 可動",
+          "rows": [
+            {
+              "label": "取付方式",
+              "value": "クランプ式"
+            },
+            {
+              "label": "駆動方式",
+              "value": "ガススプリング式"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arm-bs-002",
+      "rank": 2,
+      "asin": "B00CWXRI44",
+      "name": "PS1S Wave",
+      "brand": "Pixio",
+      "tagline": "17〜32インチ対応・耐荷重9.0kg・ガススプリング式",
+      "price": 8980,
+      "rating": 4.3,
+      "reviews": 434,
+      "image": "https://m.media-amazon.com/images/I/518HO1ULN7L._AC_SL1500_.jpg",
+      "connection": "クランプ式",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B00CWXRI44",
+      "supportedSize": "17〜32インチ",
+      "weightCapacity": "9.0kg",
+      "armType": "シングル (1画面)",
+      "springType": "ガススプリング式",
+      "mountType": "クランプ式",
+      "vesaStandard": "75×75 / 100×100 mm",
+      "weight": "—",
+      "highlights": [
+        {
+          "label": "対応サイズ",
+          "value": "17〜32インチ"
+        },
+        {
+          "label": "耐荷重",
+          "value": "9.0kg"
+        },
+        {
+          "label": "VESA",
+          "value": "75×75 / 100×100"
+        },
+        {
+          "label": "取付方式",
+          "value": "クランプ式"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "対応モニター",
+          "rows": [
+            {
+              "label": "画面サイズ",
+              "value": "17〜32インチ"
+            },
+            {
+              "label": "耐荷重",
+              "value": "9.0kg"
+            },
+            {
+              "label": "VESA",
+              "value": "75×75 / 100×100 mm"
+            },
+            {
+              "label": "アーム数",
+              "value": "シングル (1画面)"
+            }
+          ]
+        },
+        {
+          "title": "設置 / 可動",
+          "rows": [
+            {
+              "label": "取付方式",
+              "value": "クランプ式"
+            },
+            {
+              "label": "駆動方式",
+              "value": "ガススプリング式"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arm-bs-003",
+      "rank": 3,
+      "asin": "B07W532F8J",
+      "name": "HNSS6",
+      "brand": "HUANUO",
+      "tagline": "13〜32インチ対応・耐荷重2.0〜9.0kg・ガススプリング式",
+      "price": 3699,
+      "rating": 4.2,
+      "reviews": 1766,
+      "image": "https://m.media-amazon.com/images/I/6187d2GHR7L._AC_SL1500_.jpg",
+      "connection": "クランプ式 & グロメット式",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B07W532F8J",
+      "supportedSize": "13〜32インチ",
+      "weightCapacity": "2.0〜9.0kg",
+      "armType": "シングル (1画面)",
+      "springType": "ガススプリング式",
+      "mountType": "クランプ式 & グロメット式",
+      "vesaStandard": "75×75 / 100×100 mm",
+      "weight": "—",
+      "highlights": [
+        {
+          "label": "対応サイズ",
+          "value": "13〜32インチ"
+        },
+        {
+          "label": "耐荷重",
+          "value": "2.0〜9.0kg"
+        },
+        {
+          "label": "VESA",
+          "value": "75×75 / 100×100"
+        },
+        {
+          "label": "取付方式",
+          "value": "クランプ式 & グロメット式"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "対応モニター",
+          "rows": [
+            {
+              "label": "画面サイズ",
+              "value": "13〜32インチ"
+            },
+            {
+              "label": "耐荷重",
+              "value": "2.0〜9.0kg"
+            },
+            {
+              "label": "VESA",
+              "value": "75×75 / 100×100 mm"
+            },
+            {
+              "label": "アーム数",
+              "value": "シングル (1画面)"
+            }
+          ]
+        },
+        {
+          "title": "設置 / 可動",
+          "rows": [
+            {
+              "label": "取付方式",
+              "value": "クランプ式 & グロメット式"
+            },
+            {
+              "label": "駆動方式",
+              "value": "ガススプリング式"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arm-bs-004",
+      "rank": 4,
+      "asin": "B07Q8TJ2KL",
+      "name": "LX (45-241-224)",
+      "brand": "ERGOTRON",
+      "tagline": "〜34インチ対応・耐荷重3.2〜11.3kg・メカニカルスプリング式",
+      "price": 18200,
+      "rating": 4.6,
+      "reviews": 16403,
+      "image": "https://m.media-amazon.com/images/I/610HqQsInRL._AC_SL1500_.jpg",
+      "connection": "クランプ式 & グロメット式",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B07Q8TJ2KL",
+      "supportedSize": "〜34インチ",
+      "weightCapacity": "3.2〜11.3kg",
+      "armType": "シングル (1画面)",
+      "springType": "メカニカルスプリング式",
+      "mountType": "クランプ式 & グロメット式",
+      "vesaStandard": "75×75 / 100×100 mm",
+      "weight": "—",
+      "highlights": [
+        {
+          "label": "対応サイズ",
+          "value": "〜34インチ"
+        },
+        {
+          "label": "耐荷重",
+          "value": "3.2〜11.3kg"
+        },
+        {
+          "label": "VESA",
+          "value": "75×75 / 100×100"
+        },
+        {
+          "label": "取付方式",
+          "value": "クランプ式 & グロメット式"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "対応モニター",
+          "rows": [
+            {
+              "label": "画面サイズ",
+              "value": "〜34インチ"
+            },
+            {
+              "label": "耐荷重",
+              "value": "3.2〜11.3kg"
+            },
+            {
+              "label": "VESA",
+              "value": "75×75 / 100×100 mm"
+            },
+            {
+              "label": "アーム数",
+              "value": "シングル (1画面)"
+            }
+          ]
+        },
+        {
+          "title": "設置 / 可動",
+          "rows": [
+            {
+              "label": "取付方式",
+              "value": "クランプ式 & グロメット式"
+            },
+            {
+              "label": "駆動方式",
+              "value": "メカニカルスプリング式"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arm-bs-005",
+      "rank": 5,
+      "asin": "B0GHT7N1HT",
+      "name": "A5",
+      "brand": "NB",
+      "tagline": "17〜32インチ対応・耐荷重9.0kg・ガススプリング式",
+      "price": 3280,
+      "rating": 4.3,
+      "reviews": 319,
+      "image": "https://m.media-amazon.com/images/I/61h0qKX0JZL._AC_SL1500_.jpg",
+      "connection": "クランプ式 & グロメット式",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0GHT7N1HT",
+      "supportedSize": "17〜32インチ",
+      "weightCapacity": "9.0kg",
+      "armType": "シングル (1画面)",
+      "springType": "ガススプリング式",
+      "mountType": "クランプ式 & グロメット式",
+      "vesaStandard": "75×75 / 100×100 mm",
+      "weight": "—",
+      "highlights": [
+        {
+          "label": "対応サイズ",
+          "value": "17〜32インチ"
+        },
+        {
+          "label": "耐荷重",
+          "value": "9.0kg"
+        },
+        {
+          "label": "VESA",
+          "value": "75×75 / 100×100"
+        },
+        {
+          "label": "取付方式",
+          "value": "クランプ式 & グロメット式"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "対応モニター",
+          "rows": [
+            {
+              "label": "画面サイズ",
+              "value": "17〜32インチ"
+            },
+            {
+              "label": "耐荷重",
+              "value": "9.0kg"
+            },
+            {
+              "label": "VESA",
+              "value": "75×75 / 100×100 mm"
+            },
+            {
+              "label": "アーム数",
+              "value": "シングル (1画面)"
+            }
+          ]
+        },
+        {
+          "title": "設置 / 可動",
+          "rows": [
+            {
+              "label": "取付方式",
+              "value": "クランプ式 & グロメット式"
+            },
+            {
+              "label": "駆動方式",
+              "value": "ガススプリング式"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arm-bs-006",
+      "rank": 6,
+      "asin": "B09DSCG8DC",
+      "name": "DPA-SS02BK",
+      "brand": "ELECOM",
+      "tagline": "17〜32インチ対応・耐荷重9.0kg・ガススプリング式",
+      "price": 4490,
+      "rating": 4.1,
+      "reviews": 2093,
+      "image": "https://m.media-amazon.com/images/I/51A-CNbw-7L._AC_SL1500_.jpg",
+      "connection": "クランプ式 & グロメット式",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B09DSCG8DC",
+      "supportedSize": "17〜32インチ",
+      "weightCapacity": "9.0kg",
+      "armType": "シングル (1画面)",
+      "springType": "ガススプリング式",
+      "mountType": "クランプ式 & グロメット式",
+      "vesaStandard": "75×75 / 100×100 mm",
+      "weight": "—",
+      "highlights": [
+        {
+          "label": "対応サイズ",
+          "value": "17〜32インチ"
+        },
+        {
+          "label": "耐荷重",
+          "value": "9.0kg"
+        },
+        {
+          "label": "VESA",
+          "value": "75×75 / 100×100"
+        },
+        {
+          "label": "取付方式",
+          "value": "クランプ式 & グロメット式"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "対応モニター",
+          "rows": [
+            {
+              "label": "画面サイズ",
+              "value": "17〜32インチ"
+            },
+            {
+              "label": "耐荷重",
+              "value": "9.0kg"
+            },
+            {
+              "label": "VESA",
+              "value": "75×75 / 100×100 mm"
+            },
+            {
+              "label": "アーム数",
+              "value": "シングル (1画面)"
+            }
+          ]
+        },
+        {
+          "title": "設置 / 可動",
+          "rows": [
+            {
+              "label": "取付方式",
+              "value": "クランプ式 & グロメット式"
+            },
+            {
+              "label": "駆動方式",
+              "value": "ガススプリング式"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arm-bs-007",
+      "rank": 7,
+      "asin": "B08CXNR4QY",
+      "name": "H100-G",
+      "brand": "NB",
+      "tagline": "〜32インチ対応・耐荷重9.0kg・ポール式/固定式",
+      "price": 2480,
+      "rating": 4.4,
+      "reviews": 1522,
+      "image": "https://m.media-amazon.com/images/I/51SpEJDs0cL._AC_SL1500_.jpg",
+      "connection": "クランプ式 & グロメット式",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B08CXNR4QY",
+      "supportedSize": "〜32インチ",
+      "weightCapacity": "9.0kg",
+      "armType": "シングル (1画面)",
+      "springType": "ポール式/固定式",
+      "mountType": "クランプ式 & グロメット式",
+      "vesaStandard": "75×75 / 100×100 mm",
+      "weight": "—",
+      "highlights": [
+        {
+          "label": "対応サイズ",
+          "value": "〜32インチ"
+        },
+        {
+          "label": "耐荷重",
+          "value": "9.0kg"
+        },
+        {
+          "label": "VESA",
+          "value": "75×75 / 100×100"
+        },
+        {
+          "label": "取付方式",
+          "value": "クランプ式 & グロメット式"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "対応モニター",
+          "rows": [
+            {
+              "label": "画面サイズ",
+              "value": "〜32インチ"
+            },
+            {
+              "label": "耐荷重",
+              "value": "9.0kg"
+            },
+            {
+              "label": "VESA",
+              "value": "75×75 / 100×100 mm"
+            },
+            {
+              "label": "アーム数",
+              "value": "シングル (1画面)"
+            }
+          ]
+        },
+        {
+          "title": "設置 / 可動",
+          "rows": [
+            {
+              "label": "取付方式",
+              "value": "クランプ式 & グロメット式"
+            },
+            {
+              "label": "駆動方式",
+              "value": "ポール式/固定式"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arm-bs-009",
+      "rank": 9,
+      "asin": "B08SVW59KT",
+      "name": "デュアルモニターアーム",
+      "brand": "ERGOMAKER",
+      "tagline": "13〜27インチ対応・耐荷重10.0kg・ガススプリング式",
+      "price": 2960,
+      "rating": 4,
+      "reviews": 2091,
+      "image": "https://m.media-amazon.com/images/I/517NFw8CLbL._AC_SL1500_.jpg",
+      "connection": "クランプ式 & グロメット式",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B08SVW59KT",
+      "supportedSize": "13〜27インチ",
+      "weightCapacity": "10.0kg",
+      "armType": "デュアル (2画面)",
+      "springType": "ガススプリング式",
+      "mountType": "クランプ式 & グロメット式",
+      "vesaStandard": "75×75 / 100×100 mm",
+      "weight": "—",
+      "highlights": [
+        {
+          "label": "対応サイズ",
+          "value": "13〜27インチ"
+        },
+        {
+          "label": "耐荷重",
+          "value": "10.0kg"
+        },
+        {
+          "label": "VESA",
+          "value": "75×75 / 100×100"
+        },
+        {
+          "label": "取付方式",
+          "value": "クランプ式 & グロメット式"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "対応モニター",
+          "rows": [
+            {
+              "label": "画面サイズ",
+              "value": "13〜27インチ"
+            },
+            {
+              "label": "耐荷重",
+              "value": "10.0kg"
+            },
+            {
+              "label": "VESA",
+              "value": "75×75 / 100×100 mm"
+            },
+            {
+              "label": "アーム数",
+              "value": "デュアル (2画面)"
+            }
+          ]
+        },
+        {
+          "title": "設置 / 可動",
+          "rows": [
+            {
+              "label": "取付方式",
+              "value": "クランプ式 & グロメット式"
+            },
+            {
+              "label": "駆動方式",
+              "value": "ガススプリング式"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arm-bs-010",
+      "rank": 10,
+      "asin": "B0B5Z5WQZL",
+      "name": "デュアルモニターアーム",
+      "brand": "ERGOMAKER",
+      "tagline": "13〜27インチ対応・耐荷重10.0kg・ガススプリング式",
+      "price": 1999,
+      "rating": 4.1,
+      "reviews": 415,
+      "image": "https://m.media-amazon.com/images/I/511z5GX27hL._AC_SL1500_.jpg",
+      "connection": "クランプ式 & グロメット式",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0B5Z5WQZL",
+      "supportedSize": "13〜27インチ",
+      "weightCapacity": "10.0kg",
+      "armType": "デュアル (2画面)",
+      "springType": "ガススプリング式",
+      "mountType": "クランプ式 & グロメット式",
+      "vesaStandard": "75×75 / 100×100 mm",
+      "weight": "—",
+      "highlights": [
+        {
+          "label": "対応サイズ",
+          "value": "13〜27インチ"
+        },
+        {
+          "label": "耐荷重",
+          "value": "10.0kg"
+        },
+        {
+          "label": "VESA",
+          "value": "75×75 / 100×100"
+        },
+        {
+          "label": "取付方式",
+          "value": "クランプ式 & グロメット式"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "対応モニター",
+          "rows": [
+            {
+              "label": "画面サイズ",
+              "value": "13〜27インチ"
+            },
+            {
+              "label": "耐荷重",
+              "value": "10.0kg"
+            },
+            {
+              "label": "VESA",
+              "value": "75×75 / 100×100 mm"
+            },
+            {
+              "label": "アーム数",
+              "value": "デュアル (2画面)"
+            }
+          ]
+        },
+        {
+          "title": "設置 / 可動",
+          "rows": [
+            {
+              "label": "取付方式",
+              "value": "クランプ式 & グロメット式"
+            },
+            {
+              "label": "駆動方式",
+              "value": "ガススプリング式"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arm-bs-011",
+      "rank": 11,
+      "asin": "B07Z7ZGHD5",
+      "name": "MS011",
+      "brand": "THEARK",
+      "tagline": "17〜32インチ対応・耐荷重9.0kg・ガススプリング式",
+      "price": 2899,
+      "rating": 3.9,
+      "reviews": 14042,
+      "image": "https://m.media-amazon.com/images/I/71-wm9+nUIL._AC_SL1500_.jpg",
+      "connection": "クランプ式 & グロメット式",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B07Z7ZGHD5",
+      "supportedSize": "17〜32インチ",
+      "weightCapacity": "9.0kg",
+      "armType": "シングル (1画面)",
+      "springType": "ガススプリング式",
+      "mountType": "クランプ式 & グロメット式",
+      "vesaStandard": "75×75 / 100×100 mm",
+      "weight": "—",
+      "highlights": [
+        {
+          "label": "対応サイズ",
+          "value": "17〜32インチ"
+        },
+        {
+          "label": "耐荷重",
+          "value": "9.0kg"
+        },
+        {
+          "label": "VESA",
+          "value": "75×75 / 100×100"
+        },
+        {
+          "label": "取付方式",
+          "value": "クランプ式 & グロメット式"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "対応モニター",
+          "rows": [
+            {
+              "label": "画面サイズ",
+              "value": "17〜32インチ"
+            },
+            {
+              "label": "耐荷重",
+              "value": "9.0kg"
+            },
+            {
+              "label": "VESA",
+              "value": "75×75 / 100×100 mm"
+            },
+            {
+              "label": "アーム数",
+              "value": "シングル (1画面)"
+            }
+          ]
+        },
+        {
+          "title": "設置 / 可動",
+          "rows": [
+            {
+              "label": "取付方式",
+              "value": "クランプ式 & グロメット式"
+            },
+            {
+              "label": "駆動方式",
+              "value": "ガススプリング式"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arm-bs-012",
+      "rank": 12,
+      "asin": "B0GWMJ2R4T",
+      "name": "MS011",
+      "brand": "THEARK",
+      "tagline": "17〜32インチ対応・耐荷重9.0kg・ガススプリング式",
+      "price": 3280,
+      "rating": 4.4,
+      "reviews": 34,
+      "image": "https://m.media-amazon.com/images/I/51WVuuhEPmL._AC_SL1500_.jpg",
+      "connection": "クランプ式 & グロメット式",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0GWMJ2R4T",
+      "supportedSize": "17〜32インチ",
+      "weightCapacity": "9.0kg",
+      "armType": "シングル (1画面)",
+      "springType": "ガススプリング式",
+      "mountType": "クランプ式 & グロメット式",
+      "vesaStandard": "75×75 / 100×100 mm",
+      "weight": "—",
+      "highlights": [
+        {
+          "label": "対応サイズ",
+          "value": "17〜32インチ"
+        },
+        {
+          "label": "耐荷重",
+          "value": "9.0kg"
+        },
+        {
+          "label": "VESA",
+          "value": "75×75 / 100×100"
+        },
+        {
+          "label": "取付方式",
+          "value": "クランプ式 & グロメット式"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "対応モニター",
+          "rows": [
+            {
+              "label": "画面サイズ",
+              "value": "17〜32インチ"
+            },
+            {
+              "label": "耐荷重",
+              "value": "9.0kg"
+            },
+            {
+              "label": "VESA",
+              "value": "75×75 / 100×100 mm"
+            },
+            {
+              "label": "アーム数",
+              "value": "シングル (1画面)"
+            }
+          ]
+        },
+        {
+          "title": "設置 / 可動",
+          "rows": [
+            {
+              "label": "取付方式",
+              "value": "クランプ式 & グロメット式"
+            },
+            {
+              "label": "駆動方式",
+              "value": "ガススプリング式"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arm-bs-016",
+      "rank": 16,
+      "asin": "B0CSJWLGQD",
+      "name": "HNSS6 ロング",
+      "brand": "HUANUO",
+      "tagline": "13〜35インチ対応・耐荷重10.0kg・ガススプリング式",
+      "price": 3999,
+      "rating": 4.1,
+      "reviews": 224,
+      "image": "https://m.media-amazon.com/images/I/41Egro1txSL._AC_SL1500_.jpg",
+      "connection": "クランプ式 & グロメット式",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0CSJWLGQD",
+      "supportedSize": "13〜35インチ",
+      "weightCapacity": "10.0kg",
+      "armType": "シングル (1画面)",
+      "springType": "ガススプリング式",
+      "mountType": "クランプ式 & グロメット式",
+      "vesaStandard": "75×75 / 100×100 mm",
+      "weight": "—",
+      "highlights": [
+        {
+          "label": "対応サイズ",
+          "value": "13〜35インチ"
+        },
+        {
+          "label": "耐荷重",
+          "value": "10.0kg"
+        },
+        {
+          "label": "VESA",
+          "value": "75×75 / 100×100"
+        },
+        {
+          "label": "取付方式",
+          "value": "クランプ式 & グロメット式"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "対応モニター",
+          "rows": [
+            {
+              "label": "画面サイズ",
+              "value": "13〜35インチ"
+            },
+            {
+              "label": "耐荷重",
+              "value": "10.0kg"
+            },
+            {
+              "label": "VESA",
+              "value": "75×75 / 100×100 mm"
+            },
+            {
+              "label": "アーム数",
+              "value": "シングル (1画面)"
+            }
+          ]
+        },
+        {
+          "title": "設置 / 可動",
+          "rows": [
+            {
+              "label": "取付方式",
+              "value": "クランプ式 & グロメット式"
+            },
+            {
+              "label": "駆動方式",
+              "value": "ガススプリング式"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arm-bs-018",
+      "rank": 18,
+      "asin": "B0DSL5BZGY",
+      "name": "モニターアーム シングル",
+      "brand": "BONTEC",
+      "tagline": "17〜32インチ対応・耐荷重9.0kg・ガススプリング式",
+      "price": 2999,
+      "rating": 4.5,
+      "reviews": 4114,
+      "image": "https://m.media-amazon.com/images/I/61A2uZP2B+L._AC_SL1500_.jpg",
+      "connection": "クランプ式 & グロメット式",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0DSL5BZGY",
+      "supportedSize": "17〜32インチ",
+      "weightCapacity": "9.0kg",
+      "armType": "シングル (1画面)",
+      "springType": "ガススプリング式",
+      "mountType": "クランプ式 & グロメット式",
+      "vesaStandard": "75×75 / 100×100 mm",
+      "weight": "—",
+      "highlights": [
+        {
+          "label": "対応サイズ",
+          "value": "17〜32インチ"
+        },
+        {
+          "label": "耐荷重",
+          "value": "9.0kg"
+        },
+        {
+          "label": "VESA",
+          "value": "75×75 / 100×100"
+        },
+        {
+          "label": "取付方式",
+          "value": "クランプ式 & グロメット式"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "対応モニター",
+          "rows": [
+            {
+              "label": "画面サイズ",
+              "value": "17〜32インチ"
+            },
+            {
+              "label": "耐荷重",
+              "value": "9.0kg"
+            },
+            {
+              "label": "VESA",
+              "value": "75×75 / 100×100 mm"
+            },
+            {
+              "label": "アーム数",
+              "value": "シングル (1画面)"
+            }
+          ]
+        },
+        {
+          "title": "設置 / 可動",
+          "rows": [
+            {
+              "label": "取付方式",
+              "value": "クランプ式 & グロメット式"
+            },
+            {
+              "label": "駆動方式",
+              "value": "ガススプリング式"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arm-bs-019",
+      "rank": 19,
+      "asin": "B0BTDCZT1M",
+      "name": "HNCM12",
+      "brand": "HUANUO",
+      "tagline": "10〜32インチ対応・耐荷重1.0〜8.0kg・ガススプリング式",
+      "price": 2079,
+      "rating": 4.1,
+      "reviews": 300,
+      "image": "https://m.media-amazon.com/images/I/51t8kdfiaKL._AC_SL1500_.jpg",
+      "connection": "クランプ式 & グロメット式",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0BTDCZT1M",
+      "supportedSize": "10〜32インチ",
+      "weightCapacity": "1.0〜8.0kg",
+      "armType": "シングル (1画面)",
+      "springType": "ガススプリング式",
+      "mountType": "クランプ式 & グロメット式",
+      "vesaStandard": "75×75 / 100×100 mm",
+      "weight": "—",
+      "highlights": [
+        {
+          "label": "対応サイズ",
+          "value": "10〜32インチ"
+        },
+        {
+          "label": "耐荷重",
+          "value": "1.0〜8.0kg"
+        },
+        {
+          "label": "VESA",
+          "value": "75×75 / 100×100"
+        },
+        {
+          "label": "取付方式",
+          "value": "クランプ式 & グロメット式"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "対応モニター",
+          "rows": [
+            {
+              "label": "画面サイズ",
+              "value": "10〜32インチ"
+            },
+            {
+              "label": "耐荷重",
+              "value": "1.0〜8.0kg"
+            },
+            {
+              "label": "VESA",
+              "value": "75×75 / 100×100 mm"
+            },
+            {
+              "label": "アーム数",
+              "value": "シングル (1画面)"
+            }
+          ]
+        },
+        {
+          "title": "設置 / 可動",
+          "rows": [
+            {
+              "label": "取付方式",
+              "value": "クランプ式 & グロメット式"
+            },
+            {
+              "label": "駆動方式",
+              "value": "ガススプリング式"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arm-bs-020",
+      "rank": 20,
+      "asin": "B07QXW47NW",
+      "name": "MD6DB",
+      "brand": "suptek",
+      "tagline": "13〜27インチ対応・耐荷重9.0kg・ポール式/固定式",
+      "price": 2000,
+      "rating": 4,
+      "reviews": 478,
+      "image": "https://m.media-amazon.com/images/I/51xhmzytXlL._AC_SL1500_.jpg",
+      "connection": "ポール取付",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B07QXW47NW",
+      "supportedSize": "13〜27インチ",
+      "weightCapacity": "9.0kg",
+      "armType": "シングル (1画面)",
+      "springType": "ポール式/固定式",
+      "mountType": "ポール取付",
+      "vesaStandard": "75×75 / 100×100 mm",
+      "weight": "—",
+      "highlights": [
+        {
+          "label": "対応サイズ",
+          "value": "13〜27インチ"
+        },
+        {
+          "label": "耐荷重",
+          "value": "9.0kg"
+        },
+        {
+          "label": "VESA",
+          "value": "75×75 / 100×100"
+        },
+        {
+          "label": "取付方式",
+          "value": "ポール取付"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "対応モニター",
+          "rows": [
+            {
+              "label": "画面サイズ",
+              "value": "13〜27インチ"
+            },
+            {
+              "label": "耐荷重",
+              "value": "9.0kg"
+            },
+            {
+              "label": "VESA",
+              "value": "75×75 / 100×100 mm"
+            },
+            {
+              "label": "アーム数",
+              "value": "シングル (1画面)"
+            }
+          ]
+        },
+        {
+          "title": "設置 / 可動",
+          "rows": [
+            {
+              "label": "取付方式",
+              "value": "ポール取付"
+            },
+            {
+              "label": "駆動方式",
+              "value": "ポール式/固定式"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arm-bs-021",
+      "rank": 21,
+      "asin": "B08LD23JD1",
+      "name": "MD7421",
+      "brand": "Bracwiser",
+      "tagline": "13〜32インチ対応・耐荷重10.0kg・ガススプリング式",
+      "price": 2600,
+      "rating": 4.1,
+      "reviews": 1498,
+      "image": "https://m.media-amazon.com/images/I/51EUpBLnkzL._AC_SL1500_.jpg",
+      "connection": "クランプ式 & グロメット式",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B08LD23JD1",
+      "supportedSize": "13〜32インチ",
+      "weightCapacity": "10.0kg",
+      "armType": "シングル (1画面)",
+      "springType": "ガススプリング式",
+      "mountType": "クランプ式 & グロメット式",
+      "vesaStandard": "75×75 / 100×100 mm",
+      "weight": "—",
+      "highlights": [
+        {
+          "label": "対応サイズ",
+          "value": "13〜32インチ"
+        },
+        {
+          "label": "耐荷重",
+          "value": "10.0kg"
+        },
+        {
+          "label": "VESA",
+          "value": "75×75 / 100×100"
+        },
+        {
+          "label": "取付方式",
+          "value": "クランプ式 & グロメット式"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "対応モニター",
+          "rows": [
+            {
+              "label": "画面サイズ",
+              "value": "13〜32インチ"
+            },
+            {
+              "label": "耐荷重",
+              "value": "10.0kg"
+            },
+            {
+              "label": "VESA",
+              "value": "75×75 / 100×100 mm"
+            },
+            {
+              "label": "アーム数",
+              "value": "シングル (1画面)"
+            }
+          ]
+        },
+        {
+          "title": "設置 / 可動",
+          "rows": [
+            {
+              "label": "取付方式",
+              "value": "クランプ式 & グロメット式"
+            },
+            {
+              "label": "駆動方式",
+              "value": "ガススプリング式"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arm-bs-024",
+      "rank": 24,
+      "asin": "B09LV6VVHQ",
+      "name": "無重力モニターアーム Pro",
+      "brand": "COFO",
+      "tagline": "17〜40インチ対応・耐荷重2.5〜14.0kg・メカニカルスプリング式",
+      "price": 2849,
+      "rating": 4.3,
+      "reviews": 2442,
+      "image": "https://m.media-amazon.com/images/I/61WQDbSvceL._AC_SL1500_.jpg",
+      "connection": "クランプ式 & グロメット式",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B09LV6VVHQ",
+      "supportedSize": "17〜40インチ",
+      "weightCapacity": "2.5〜14.0kg",
+      "armType": "シングル (1画面)",
+      "springType": "メカニカルスプリング式",
+      "mountType": "クランプ式 & グロメット式",
+      "vesaStandard": "75×75 / 100×100 mm",
+      "weight": "—",
+      "highlights": [
+        {
+          "label": "対応サイズ",
+          "value": "17〜40インチ"
+        },
+        {
+          "label": "耐荷重",
+          "value": "2.5〜14.0kg"
+        },
+        {
+          "label": "VESA",
+          "value": "75×75 / 100×100"
+        },
+        {
+          "label": "取付方式",
+          "value": "クランプ式 & グロメット式"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "対応モニター",
+          "rows": [
+            {
+              "label": "画面サイズ",
+              "value": "17〜40インチ"
+            },
+            {
+              "label": "耐荷重",
+              "value": "2.5〜14.0kg"
+            },
+            {
+              "label": "VESA",
+              "value": "75×75 / 100×100 mm"
+            },
+            {
+              "label": "アーム数",
+              "value": "シングル (1画面)"
+            }
+          ]
+        },
+        {
+          "title": "設置 / 可動",
+          "rows": [
+            {
+              "label": "取付方式",
+              "value": "クランプ式 & グロメット式"
+            },
+            {
+              "label": "駆動方式",
+              "value": "メカニカルスプリング式"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arm-bs-025",
+      "rank": 25,
+      "asin": "B0DX24CSWD",
+      "name": "無重力モニターアーム Pro",
+      "brand": "COFO",
+      "tagline": "17〜40インチ対応・耐荷重2.5〜14.0kg・メカニカルスプリング式",
+      "price": 21980,
+      "rating": 4.2,
+      "reviews": 198,
+      "image": "https://m.media-amazon.com/images/I/51eeX6T2gIL._AC_SL1500_.jpg",
+      "connection": "クランプ式 & グロメット式",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0DX24CSWD",
+      "supportedSize": "17〜40インチ",
+      "weightCapacity": "2.5〜14.0kg",
+      "armType": "シングル (1画面)",
+      "springType": "メカニカルスプリング式",
+      "mountType": "クランプ式 & グロメット式",
+      "vesaStandard": "75×75 / 100×100 mm",
+      "weight": "—",
+      "highlights": [
+        {
+          "label": "対応サイズ",
+          "value": "17〜40インチ"
+        },
+        {
+          "label": "耐荷重",
+          "value": "2.5〜14.0kg"
+        },
+        {
+          "label": "VESA",
+          "value": "75×75 / 100×100"
+        },
+        {
+          "label": "取付方式",
+          "value": "クランプ式 & グロメット式"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "対応モニター",
+          "rows": [
+            {
+              "label": "画面サイズ",
+              "value": "17〜40インチ"
+            },
+            {
+              "label": "耐荷重",
+              "value": "2.5〜14.0kg"
+            },
+            {
+              "label": "VESA",
+              "value": "75×75 / 100×100 mm"
+            },
+            {
+              "label": "アーム数",
+              "value": "シングル (1画面)"
+            }
+          ]
+        },
+        {
+          "title": "設置 / 可動",
+          "rows": [
+            {
+              "label": "取付方式",
+              "value": "クランプ式 & グロメット式"
+            },
+            {
+              "label": "駆動方式",
+              "value": "メカニカルスプリング式"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arm-bs-026",
+      "rank": 26,
+      "asin": "B0GJC2CLJL",
+      "name": "CR-LAC215BK",
+      "brand": "サンワサプライ",
+      "tagline": "17〜32インチ対応・ガススプリング式",
+      "price": 6989,
+      "rating": 4.4,
+      "reviews": 6,
+      "image": "https://m.media-amazon.com/images/I/41GvDaFF+OL._AC_SL1500_.jpg",
+      "connection": "クランプ式",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0GJC2CLJL",
+      "supportedSize": "17〜32インチ",
+      "weightCapacity": "—",
+      "armType": "デュアル (2画面)",
+      "springType": "ガススプリング式",
+      "mountType": "クランプ式",
+      "vesaStandard": "75×75 / 100×100 mm",
+      "weight": "—",
+      "highlights": [
+        {
+          "label": "対応サイズ",
+          "value": "17〜32インチ"
+        },
+        {
+          "label": "耐荷重",
+          "value": "—"
+        },
+        {
+          "label": "VESA",
+          "value": "75×75 / 100×100"
+        },
+        {
+          "label": "取付方式",
+          "value": "クランプ式"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "対応モニター",
+          "rows": [
+            {
+              "label": "画面サイズ",
+              "value": "17〜32インチ"
+            },
+            {
+              "label": "耐荷重",
+              "value": "—"
+            },
+            {
+              "label": "VESA",
+              "value": "75×75 / 100×100 mm"
+            },
+            {
+              "label": "アーム数",
+              "value": "デュアル (2画面)"
+            }
+          ]
+        },
+        {
+          "title": "設置 / 可動",
+          "rows": [
+            {
+              "label": "取付方式",
+              "value": "クランプ式"
+            },
+            {
+              "label": "駆動方式",
+              "value": "ガススプリング式"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arm-bs-027",
+      "rank": 27,
+      "asin": "B0C22Z91LY",
+      "name": "モニターアーム",
+      "brand": "KOORUI",
+      "tagline": "17〜32インチ対応・耐荷重9.0kg・ガススプリング式",
+      "price": 3998,
+      "rating": 3.7,
+      "reviews": 756,
+      "image": "https://m.media-amazon.com/images/I/51QolG53TRL._AC_SL1500_.jpg",
+      "connection": "クランプ式 & グロメット式",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0C22Z91LY",
+      "supportedSize": "17〜32インチ",
+      "weightCapacity": "9.0kg",
+      "armType": "シングル (1画面)",
+      "springType": "ガススプリング式",
+      "mountType": "クランプ式 & グロメット式",
+      "vesaStandard": "75×75 / 100×100 mm",
+      "weight": "—",
+      "highlights": [
+        {
+          "label": "対応サイズ",
+          "value": "17〜32インチ"
+        },
+        {
+          "label": "耐荷重",
+          "value": "9.0kg"
+        },
+        {
+          "label": "VESA",
+          "value": "75×75 / 100×100"
+        },
+        {
+          "label": "取付方式",
+          "value": "クランプ式 & グロメット式"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "対応モニター",
+          "rows": [
+            {
+              "label": "画面サイズ",
+              "value": "17〜32インチ"
+            },
+            {
+              "label": "耐荷重",
+              "value": "9.0kg"
+            },
+            {
+              "label": "VESA",
+              "value": "75×75 / 100×100 mm"
+            },
+            {
+              "label": "アーム数",
+              "value": "シングル (1画面)"
+            }
+          ]
+        },
+        {
+          "title": "設置 / 可動",
+          "rows": [
+            {
+              "label": "取付方式",
+              "value": "クランプ式 & グロメット式"
+            },
+            {
+              "label": "駆動方式",
+              "value": "ガススプリング式"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arm-bs-053",
+      "rank": 53,
+      "asin": "B0FX8MQ4M7",
+      "name": "モニターアーム",
+      "brand": "Amazonベーシック",
+      "tagline": "17〜32インチ対応・耐荷重2.0〜11.0kg・ガススプリング式",
+      "price": 3399,
+      "rating": 4.5,
+      "reviews": 105,
+      "image": "https://m.media-amazon.com/images/I/61tO+TjbiZL._AC_SL1500_.jpg",
+      "connection": "クランプ式 & グロメット式",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0FX8MQ4M7",
+      "supportedSize": "17〜32インチ",
+      "weightCapacity": "2.0〜11.0kg",
+      "armType": "シングル (1画面)",
+      "springType": "ガススプリング式",
+      "mountType": "クランプ式 & グロメット式",
+      "vesaStandard": "75×75 / 100×100 mm",
+      "weight": "—",
+      "highlights": [
+        {
+          "label": "対応サイズ",
+          "value": "17〜32インチ"
+        },
+        {
+          "label": "耐荷重",
+          "value": "2.0〜11.0kg"
+        },
+        {
+          "label": "VESA",
+          "value": "75×75 / 100×100"
+        },
+        {
+          "label": "取付方式",
+          "value": "クランプ式 & グロメット式"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "対応モニター",
+          "rows": [
+            {
+              "label": "画面サイズ",
+              "value": "17〜32インチ"
+            },
+            {
+              "label": "耐荷重",
+              "value": "2.0〜11.0kg"
+            },
+            {
+              "label": "VESA",
+              "value": "75×75 / 100×100 mm"
+            },
+            {
+              "label": "アーム数",
+              "value": "シングル (1画面)"
+            }
+          ]
+        },
+        {
+          "title": "設置 / 可動",
+          "rows": [
+            {
+              "label": "取付方式",
+              "value": "クランプ式 & グロメット式"
+            },
+            {
+              "label": "駆動方式",
+              "value": "ガススプリング式"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arm-bs-056",
+      "rank": 56,
+      "asin": "B0FJRJKZ71",
+      "name": "BMA-1MS-BK",
+      "brand": "Bauhutte",
+      "tagline": "〜34インチ対応・耐荷重2.0〜10.0kg・メカニカルスプリング式",
+      "price": 12800,
+      "rating": 4.2,
+      "reviews": 25,
+      "image": "https://m.media-amazon.com/images/I/71Ce-BWWx-L._AC_SL1500_.jpg",
+      "connection": "クランプ式",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0FJRJKZ71",
+      "supportedSize": "〜34インチ",
+      "weightCapacity": "2.0〜10.0kg",
+      "armType": "シングル (1画面)",
+      "springType": "メカニカルスプリング式",
+      "mountType": "クランプ式",
+      "vesaStandard": "75×75 / 100×100 mm",
+      "weight": "—",
+      "highlights": [
+        {
+          "label": "対応サイズ",
+          "value": "〜34インチ"
+        },
+        {
+          "label": "耐荷重",
+          "value": "2.0〜10.0kg"
+        },
+        {
+          "label": "VESA",
+          "value": "75×75 / 100×100"
+        },
+        {
+          "label": "取付方式",
+          "value": "クランプ式"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "対応モニター",
+          "rows": [
+            {
+              "label": "画面サイズ",
+              "value": "〜34インチ"
+            },
+            {
+              "label": "耐荷重",
+              "value": "2.0〜10.0kg"
+            },
+            {
+              "label": "VESA",
+              "value": "75×75 / 100×100 mm"
+            },
+            {
+              "label": "アーム数",
+              "value": "シングル (1画面)"
+            }
+          ]
+        },
+        {
+          "title": "設置 / 可動",
+          "rows": [
+            {
+              "label": "取付方式",
+              "value": "クランプ式"
+            },
+            {
+              "label": "駆動方式",
+              "value": "メカニカルスプリング式"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arm-bs-057",
+      "rank": 57,
+      "asin": "B09FSG5X2S",
+      "name": "モニターアーム（支柱取付）",
+      "brand": "—",
+      "tagline": "17〜32インチ対応・耐荷重8.0kg・ガススプリング式",
+      "price": 1899,
+      "rating": 4.5,
+      "reviews": 118,
+      "image": "https://m.media-amazon.com/images/I/51pLe8J53hL._AC_SL1500_.jpg",
+      "connection": "ポール取付",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B09FSG5X2S",
+      "supportedSize": "17〜32インチ",
+      "weightCapacity": "8.0kg",
+      "armType": "シングル (1画面)",
+      "springType": "ガススプリング式",
+      "mountType": "ポール取付",
+      "vesaStandard": "75×75 / 100×100 mm",
+      "weight": "—",
+      "highlights": [
+        {
+          "label": "対応サイズ",
+          "value": "17〜32インチ"
+        },
+        {
+          "label": "耐荷重",
+          "value": "8.0kg"
+        },
+        {
+          "label": "VESA",
+          "value": "75×75 / 100×100"
+        },
+        {
+          "label": "取付方式",
+          "value": "ポール取付"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "対応モニター",
+          "rows": [
+            {
+              "label": "画面サイズ",
+              "value": "17〜32インチ"
+            },
+            {
+              "label": "耐荷重",
+              "value": "8.0kg"
+            },
+            {
+              "label": "VESA",
+              "value": "75×75 / 100×100 mm"
+            },
+            {
+              "label": "アーム数",
+              "value": "シングル (1画面)"
+            }
+          ]
+        },
+        {
+          "title": "設置 / 可動",
+          "rows": [
+            {
+              "label": "取付方式",
+              "value": "ポール取付"
+            },
+            {
+              "label": "駆動方式",
+              "value": "ガススプリング式"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arm-bs-058",
+      "rank": 58,
+      "asin": "B0GS99Q2R4",
+      "name": "MDX003DB",
+      "brand": "Pholiten",
+      "tagline": "13〜34インチ対応・耐荷重11.0kg・ガススプリング式",
+      "price": 3149,
+      "rating": 3.9,
+      "reviews": 13,
+      "image": "https://m.media-amazon.com/images/I/517rEbo7ptL._AC_SL1500_.jpg",
+      "connection": "ポール取付",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0GS99Q2R4",
+      "supportedSize": "13〜34インチ",
+      "weightCapacity": "11.0kg",
+      "armType": "シングル (1画面)",
+      "springType": "ガススプリング式",
+      "mountType": "ポール取付",
+      "vesaStandard": "75×75 / 100×100 mm",
+      "weight": "—",
+      "highlights": [
+        {
+          "label": "対応サイズ",
+          "value": "13〜34インチ"
+        },
+        {
+          "label": "耐荷重",
+          "value": "11.0kg"
+        },
+        {
+          "label": "VESA",
+          "value": "75×75 / 100×100"
+        },
+        {
+          "label": "取付方式",
+          "value": "ポール取付"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "対応モニター",
+          "rows": [
+            {
+              "label": "画面サイズ",
+              "value": "13〜34インチ"
+            },
+            {
+              "label": "耐荷重",
+              "value": "11.0kg"
+            },
+            {
+              "label": "VESA",
+              "value": "75×75 / 100×100 mm"
+            },
+            {
+              "label": "アーム数",
+              "value": "シングル (1画面)"
+            }
+          ]
+        },
+        {
+          "title": "設置 / 可動",
+          "rows": [
+            {
+              "label": "取付方式",
+              "value": "ポール取付"
+            },
+            {
+              "label": "駆動方式",
+              "value": "ガススプリング式"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arm-bs-059",
+      "rank": 59,
+      "asin": "B0FN73C6VS",
+      "name": "モニターアーム（USBハブ付）",
+      "brand": "—",
+      "tagline": "17〜32インチ対応・耐荷重2.0〜10.0kg・ガススプリング式",
+      "price": 2799,
+      "rating": 3.9,
+      "reviews": 45,
+      "image": "https://m.media-amazon.com/images/I/51M6LlBjVqL._AC_SL1500_.jpg",
+      "connection": "クランプ式 & グロメット式",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0FN73C6VS",
+      "supportedSize": "17〜32インチ",
+      "weightCapacity": "2.0〜10.0kg",
+      "armType": "シングル (1画面)",
+      "springType": "ガススプリング式",
+      "mountType": "クランプ式 & グロメット式",
+      "vesaStandard": "75×75 / 100×100 mm",
+      "weight": "—",
+      "highlights": [
+        {
+          "label": "対応サイズ",
+          "value": "17〜32インチ"
+        },
+        {
+          "label": "耐荷重",
+          "value": "2.0〜10.0kg"
+        },
+        {
+          "label": "VESA",
+          "value": "75×75 / 100×100"
+        },
+        {
+          "label": "取付方式",
+          "value": "クランプ式 & グロメット式"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "対応モニター",
+          "rows": [
+            {
+              "label": "画面サイズ",
+              "value": "17〜32インチ"
+            },
+            {
+              "label": "耐荷重",
+              "value": "2.0〜10.0kg"
+            },
+            {
+              "label": "VESA",
+              "value": "75×75 / 100×100 mm"
+            },
+            {
+              "label": "アーム数",
+              "value": "シングル (1画面)"
+            }
+          ]
+        },
+        {
+          "title": "設置 / 可動",
+          "rows": [
+            {
+              "label": "取付方式",
+              "value": "クランプ式 & グロメット式"
+            },
+            {
+              "label": "駆動方式",
+              "value": "ガススプリング式"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arm-bs-060",
+      "rank": 60,
+      "asin": "B0GXFNLFQT",
+      "name": "モニターアーム（USBハブ付）",
+      "brand": "—",
+      "tagline": "17〜32インチ対応・耐荷重2.0〜10.0kg・ガススプリング式",
+      "price": 3980,
+      "rating": 4,
+      "reviews": 36,
+      "image": "https://m.media-amazon.com/images/I/51MHdplBPmL._AC_SL1500_.jpg",
+      "connection": "クランプ式 & グロメット式",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0GXFNLFQT",
+      "supportedSize": "17〜32インチ",
+      "weightCapacity": "2.0〜10.0kg",
+      "armType": "シングル (1画面)",
+      "springType": "ガススプリング式",
+      "mountType": "クランプ式 & グロメット式",
+      "vesaStandard": "75×75 / 100×100 mm",
+      "weight": "—",
+      "highlights": [
+        {
+          "label": "対応サイズ",
+          "value": "17〜32インチ"
+        },
+        {
+          "label": "耐荷重",
+          "value": "2.0〜10.0kg"
+        },
+        {
+          "label": "VESA",
+          "value": "75×75 / 100×100"
+        },
+        {
+          "label": "取付方式",
+          "value": "クランプ式 & グロメット式"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "対応モニター",
+          "rows": [
+            {
+              "label": "画面サイズ",
+              "value": "17〜32インチ"
+            },
+            {
+              "label": "耐荷重",
+              "value": "2.0〜10.0kg"
+            },
+            {
+              "label": "VESA",
+              "value": "75×75 / 100×100 mm"
+            },
+            {
+              "label": "アーム数",
+              "value": "シングル (1画面)"
+            }
+          ]
+        },
+        {
+          "title": "設置 / 可動",
+          "rows": [
+            {
+              "label": "取付方式",
+              "value": "クランプ式 & グロメット式"
+            },
+            {
+              "label": "駆動方式",
+              "value": "ガススプリング式"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arm-bs-061",
+      "rank": 61,
+      "asin": "B0C7VPZ8ZK",
+      "name": "DPA-DS07BK",
+      "brand": "ELECOM",
+      "tagline": "17〜32インチ対応・耐荷重9.0kg・ガススプリング式",
+      "price": 6980,
+      "rating": 4,
+      "reviews": 257,
+      "image": "https://m.media-amazon.com/images/I/61S8YoQc0dL._AC_SL1500_.jpg",
+      "connection": "クランプ式 & グロメット式",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0C7VPZ8ZK",
+      "supportedSize": "17〜32インチ",
+      "weightCapacity": "9.0kg",
+      "armType": "デュアル (2画面)",
+      "springType": "ガススプリング式",
+      "mountType": "クランプ式 & グロメット式",
+      "vesaStandard": "75×75 / 100×100 mm",
+      "weight": "—",
+      "highlights": [
+        {
+          "label": "対応サイズ",
+          "value": "17〜32インチ"
+        },
+        {
+          "label": "耐荷重",
+          "value": "9.0kg"
+        },
+        {
+          "label": "VESA",
+          "value": "75×75 / 100×100"
+        },
+        {
+          "label": "取付方式",
+          "value": "クランプ式 & グロメット式"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "対応モニター",
+          "rows": [
+            {
+              "label": "画面サイズ",
+              "value": "17〜32インチ"
+            },
+            {
+              "label": "耐荷重",
+              "value": "9.0kg"
+            },
+            {
+              "label": "VESA",
+              "value": "75×75 / 100×100 mm"
+            },
+            {
+              "label": "アーム数",
+              "value": "デュアル (2画面)"
+            }
+          ]
+        },
+        {
+          "title": "設置 / 可動",
+          "rows": [
+            {
+              "label": "取付方式",
+              "value": "クランプ式 & グロメット式"
+            },
+            {
+              "label": "駆動方式",
+              "value": "ガススプリング式"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arm-bs-066",
+      "rank": 66,
+      "asin": "B0CKPFFQ8X",
+      "name": "モニターアーム シングル",
+      "brand": "BONTEC",
+      "tagline": "17〜32インチ対応・耐荷重9.0kg・ガススプリング式",
+      "price": 3419,
+      "rating": 4.4,
+      "reviews": 1224,
+      "image": "https://m.media-amazon.com/images/I/61DnGPihgmL._AC_SL1500_.jpg",
+      "connection": "クランプ式 & グロメット式",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0CKPFFQ8X",
+      "supportedSize": "17〜32インチ",
+      "weightCapacity": "9.0kg",
+      "armType": "シングル (1画面)",
+      "springType": "ガススプリング式",
+      "mountType": "クランプ式 & グロメット式",
+      "vesaStandard": "75×75 / 100×100 mm",
+      "weight": "—",
+      "highlights": [
+        {
+          "label": "対応サイズ",
+          "value": "17〜32インチ"
+        },
+        {
+          "label": "耐荷重",
+          "value": "9.0kg"
+        },
+        {
+          "label": "VESA",
+          "value": "75×75 / 100×100"
+        },
+        {
+          "label": "取付方式",
+          "value": "クランプ式 & グロメット式"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "対応モニター",
+          "rows": [
+            {
+              "label": "画面サイズ",
+              "value": "17〜32インチ"
+            },
+            {
+              "label": "耐荷重",
+              "value": "9.0kg"
+            },
+            {
+              "label": "VESA",
+              "value": "75×75 / 100×100 mm"
+            },
+            {
+              "label": "アーム数",
+              "value": "シングル (1画面)"
+            }
+          ]
+        },
+        {
+          "title": "設置 / 可動",
+          "rows": [
+            {
+              "label": "取付方式",
+              "value": "クランプ式 & グロメット式"
+            },
+            {
+              "label": "駆動方式",
+              "value": "ガススプリング式"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arm-bs-067",
+      "rank": 67,
+      "asin": "B0FLK2F2YT",
+      "name": "GH-AMDN2V-BK",
+      "brand": "GREENHOUSE",
+      "tagline": "17〜32インチ対応・耐荷重9.0kg・ガススプリング式",
+      "price": 3799,
+      "rating": 4.1,
+      "reviews": 51,
+      "image": "https://m.media-amazon.com/images/I/51uwY-ZXQuL._AC_SL1500_.jpg",
+      "connection": "クランプ式 & グロメット式",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0FLK2F2YT",
+      "supportedSize": "17〜32インチ",
+      "weightCapacity": "9.0kg",
+      "armType": "デュアル (2画面)",
+      "springType": "ガススプリング式",
+      "mountType": "クランプ式 & グロメット式",
+      "vesaStandard": "75×75 / 100×100 mm",
+      "weight": "—",
+      "highlights": [
+        {
+          "label": "対応サイズ",
+          "value": "17〜32インチ"
+        },
+        {
+          "label": "耐荷重",
+          "value": "9.0kg"
+        },
+        {
+          "label": "VESA",
+          "value": "75×75 / 100×100"
+        },
+        {
+          "label": "取付方式",
+          "value": "クランプ式 & グロメット式"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "対応モニター",
+          "rows": [
+            {
+              "label": "画面サイズ",
+              "value": "17〜32インチ"
+            },
+            {
+              "label": "耐荷重",
+              "value": "9.0kg"
+            },
+            {
+              "label": "VESA",
+              "value": "75×75 / 100×100 mm"
+            },
+            {
+              "label": "アーム数",
+              "value": "デュアル (2画面)"
+            }
+          ]
+        },
+        {
+          "title": "設置 / 可動",
+          "rows": [
+            {
+              "label": "取付方式",
+              "value": "クランプ式 & グロメット式"
+            },
+            {
+              "label": "駆動方式",
+              "value": "ガススプリング式"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arm-bs-068",
+      "rank": 68,
+      "asin": "B0CY1TRL71",
+      "name": "GH-AMDN2V-BK",
+      "brand": "GREENHOUSE",
+      "tagline": "17〜32インチ対応・耐荷重9.0kg・ガススプリング式",
+      "price": 3498,
+      "rating": 4.1,
+      "reviews": 32,
+      "image": "https://m.media-amazon.com/images/I/51HtCnr-QGL._AC_SL1500_.jpg",
+      "connection": "クランプ式 & グロメット式",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0CY1TRL71",
+      "supportedSize": "17〜32インチ",
+      "weightCapacity": "9.0kg",
+      "armType": "デュアル (2画面)",
+      "springType": "ガススプリング式",
+      "mountType": "クランプ式 & グロメット式",
+      "vesaStandard": "75×75 / 100×100 mm",
+      "weight": "—",
+      "highlights": [
+        {
+          "label": "対応サイズ",
+          "value": "17〜32インチ"
+        },
+        {
+          "label": "耐荷重",
+          "value": "9.0kg"
+        },
+        {
+          "label": "VESA",
+          "value": "75×75 / 100×100"
+        },
+        {
+          "label": "取付方式",
+          "value": "クランプ式 & グロメット式"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "対応モニター",
+          "rows": [
+            {
+              "label": "画面サイズ",
+              "value": "17〜32インチ"
+            },
+            {
+              "label": "耐荷重",
+              "value": "9.0kg"
+            },
+            {
+              "label": "VESA",
+              "value": "75×75 / 100×100 mm"
+            },
+            {
+              "label": "アーム数",
+              "value": "デュアル (2画面)"
+            }
+          ]
+        },
+        {
+          "title": "設置 / 可動",
+          "rows": [
+            {
+              "label": "取付方式",
+              "value": "クランプ式 & グロメット式"
+            },
+            {
+              "label": "駆動方式",
+              "value": "ガススプリング式"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arm-bs-069",
+      "rank": 69,
+      "asin": "B0FBGQDNP3",
+      "name": "A1-W",
+      "brand": "cocopar",
+      "tagline": "17〜32インチ対応・耐荷重9.0kg・ガススプリング式",
+      "price": 4084,
+      "rating": 4,
+      "reviews": 305,
+      "image": "https://m.media-amazon.com/images/I/41+PnrFauVL._AC_SL1500_.jpg",
+      "connection": "クランプ式 & グロメット式",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0FBGQDNP3",
+      "supportedSize": "17〜32インチ",
+      "weightCapacity": "9.0kg",
+      "armType": "シングル (1画面)",
+      "springType": "ガススプリング式",
+      "mountType": "クランプ式 & グロメット式",
+      "vesaStandard": "75×75 / 100×100 mm",
+      "weight": "—",
+      "highlights": [
+        {
+          "label": "対応サイズ",
+          "value": "17〜32インチ"
+        },
+        {
+          "label": "耐荷重",
+          "value": "9.0kg"
+        },
+        {
+          "label": "VESA",
+          "value": "75×75 / 100×100"
+        },
+        {
+          "label": "取付方式",
+          "value": "クランプ式 & グロメット式"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "対応モニター",
+          "rows": [
+            {
+              "label": "画面サイズ",
+              "value": "17〜32インチ"
+            },
+            {
+              "label": "耐荷重",
+              "value": "9.0kg"
+            },
+            {
+              "label": "VESA",
+              "value": "75×75 / 100×100 mm"
+            },
+            {
+              "label": "アーム数",
+              "value": "シングル (1画面)"
+            }
+          ]
+        },
+        {
+          "title": "設置 / 可動",
+          "rows": [
+            {
+              "label": "取付方式",
+              "value": "クランプ式 & グロメット式"
+            },
+            {
+              "label": "駆動方式",
+              "value": "ガススプリング式"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arm-bs-070",
+      "rank": 70,
+      "asin": "B0FFGQSRCL",
+      "name": "DPAWSN01BK",
+      "brand": "ELECOM",
+      "tagline": "17〜32インチ対応・耐荷重9.0kg・ガススプリング式",
+      "price": 2989,
+      "rating": 3.6,
+      "reviews": 61,
+      "image": "https://m.media-amazon.com/images/I/61+qPq3Ij0L._AC_SL1500_.jpg",
+      "connection": "クランプ式 & グロメット式",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0FFGQSRCL",
+      "supportedSize": "17〜32インチ",
+      "weightCapacity": "9.0kg",
+      "armType": "シングル (1画面)",
+      "springType": "ガススプリング式",
+      "mountType": "クランプ式 & グロメット式",
+      "vesaStandard": "75×75 / 100×100 mm",
+      "weight": "—",
+      "highlights": [
+        {
+          "label": "対応サイズ",
+          "value": "17〜32インチ"
+        },
+        {
+          "label": "耐荷重",
+          "value": "9.0kg"
+        },
+        {
+          "label": "VESA",
+          "value": "75×75 / 100×100"
+        },
+        {
+          "label": "取付方式",
+          "value": "クランプ式 & グロメット式"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "対応モニター",
+          "rows": [
+            {
+              "label": "画面サイズ",
+              "value": "17〜32インチ"
+            },
+            {
+              "label": "耐荷重",
+              "value": "9.0kg"
+            },
+            {
+              "label": "VESA",
+              "value": "75×75 / 100×100 mm"
+            },
+            {
+              "label": "アーム数",
+              "value": "シングル (1画面)"
+            }
+          ]
+        },
+        {
+          "title": "設置 / 可動",
+          "rows": [
+            {
+              "label": "取付方式",
+              "value": "クランプ式 & グロメット式"
+            },
+            {
+              "label": "駆動方式",
+              "value": "ガススプリング式"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arm-bs-072",
+      "rank": 72,
+      "asin": "B0FVSBNV8L",
+      "name": "モニターアーム シングル",
+      "brand": "ErGear",
+      "tagline": "13〜34インチ対応・耐荷重9.0kg・ガススプリング式",
+      "price": 3399,
+      "rating": 4.1,
+      "reviews": 47,
+      "image": "https://m.media-amazon.com/images/I/61+kFGE0aAL._AC_SL1500_.jpg",
+      "connection": "クランプ式 & グロメット式",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0FVSBNV8L",
+      "supportedSize": "13〜34インチ",
+      "weightCapacity": "9.0kg",
+      "armType": "シングル (1画面)",
+      "springType": "ガススプリング式",
+      "mountType": "クランプ式 & グロメット式",
+      "vesaStandard": "75×75 / 100×100 mm",
+      "weight": "—",
+      "highlights": [
+        {
+          "label": "対応サイズ",
+          "value": "13〜34インチ"
+        },
+        {
+          "label": "耐荷重",
+          "value": "9.0kg"
+        },
+        {
+          "label": "VESA",
+          "value": "75×75 / 100×100"
+        },
+        {
+          "label": "取付方式",
+          "value": "クランプ式 & グロメット式"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "対応モニター",
+          "rows": [
+            {
+              "label": "画面サイズ",
+              "value": "13〜34インチ"
+            },
+            {
+              "label": "耐荷重",
+              "value": "9.0kg"
+            },
+            {
+              "label": "VESA",
+              "value": "75×75 / 100×100 mm"
+            },
+            {
+              "label": "アーム数",
+              "value": "シングル (1画面)"
+            }
+          ]
+        },
+        {
+          "title": "設置 / 可動",
+          "rows": [
+            {
+              "label": "取付方式",
+              "value": "クランプ式 & グロメット式"
+            },
+            {
+              "label": "駆動方式",
+              "value": "ガススプリング式"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arm-bs-074",
+      "rank": 74,
+      "asin": "B0967GN1Y4",
+      "name": "ML7802",
+      "brand": "Bracwiser",
+      "tagline": "13〜32インチ対応・耐荷重10.0kg・ガススプリング式",
+      "price": 3850,
+      "rating": 4.2,
+      "reviews": 319,
+      "image": "https://m.media-amazon.com/images/I/51g3oIauw-L._AC_SL1500_.jpg",
+      "connection": "据え置き",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0967GN1Y4",
+      "supportedSize": "13〜32インチ",
+      "weightCapacity": "10.0kg",
+      "armType": "デュアル (2画面)",
+      "springType": "ガススプリング式",
+      "mountType": "据え置き",
+      "vesaStandard": "75×75 / 100×100 mm",
+      "weight": "—",
+      "highlights": [
+        {
+          "label": "対応サイズ",
+          "value": "13〜32インチ"
+        },
+        {
+          "label": "耐荷重",
+          "value": "10.0kg"
+        },
+        {
+          "label": "VESA",
+          "value": "75×75 / 100×100"
+        },
+        {
+          "label": "取付方式",
+          "value": "据え置き"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "対応モニター",
+          "rows": [
+            {
+              "label": "画面サイズ",
+              "value": "13〜32インチ"
+            },
+            {
+              "label": "耐荷重",
+              "value": "10.0kg"
+            },
+            {
+              "label": "VESA",
+              "value": "75×75 / 100×100 mm"
+            },
+            {
+              "label": "アーム数",
+              "value": "デュアル (2画面)"
+            }
+          ]
+        },
+        {
+          "title": "設置 / 可動",
+          "rows": [
+            {
+              "label": "取付方式",
+              "value": "据え置き"
+            },
+            {
+              "label": "駆動方式",
+              "value": "ガススプリング式"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arm-bs-075",
+      "rank": 75,
+      "asin": "B0C58GTXF5",
+      "name": "100-LAC003",
+      "brand": "サンワダイレクト",
+      "tagline": "〜32インチ対応・耐荷重12.0kg・ガススプリング式",
+      "price": 2099,
+      "rating": 4.6,
+      "reviews": 10900,
+      "image": "https://m.media-amazon.com/images/I/61GnonVXS7L._AC_SL1500_.jpg",
+      "connection": "クランプ式 & グロメット式",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0C58GTXF5",
+      "supportedSize": "〜32インチ",
+      "weightCapacity": "12.0kg",
+      "armType": "シングル (1画面)",
+      "springType": "ガススプリング式",
+      "mountType": "クランプ式 & グロメット式",
+      "vesaStandard": "75×75 / 100×100 mm",
+      "weight": "—",
+      "highlights": [
+        {
+          "label": "対応サイズ",
+          "value": "〜32インチ"
+        },
+        {
+          "label": "耐荷重",
+          "value": "12.0kg"
+        },
+        {
+          "label": "VESA",
+          "value": "75×75 / 100×100"
+        },
+        {
+          "label": "取付方式",
+          "value": "クランプ式 & グロメット式"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "対応モニター",
+          "rows": [
+            {
+              "label": "画面サイズ",
+              "value": "〜32インチ"
+            },
+            {
+              "label": "耐荷重",
+              "value": "12.0kg"
+            },
+            {
+              "label": "VESA",
+              "value": "75×75 / 100×100 mm"
+            },
+            {
+              "label": "アーム数",
+              "value": "シングル (1画面)"
+            }
+          ]
+        },
+        {
+          "title": "設置 / 可動",
+          "rows": [
+            {
+              "label": "取付方式",
+              "value": "クランプ式 & グロメット式"
+            },
+            {
+              "label": "駆動方式",
+              "value": "ガススプリング式"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arm-bs-076",
+      "rank": 76,
+      "asin": "B0CQNK2XQ6",
+      "name": "100-LAC003",
+      "brand": "サンワダイレクト",
+      "tagline": "〜32インチ対応・耐荷重12.0kg・ガススプリング式",
+      "price": 4980,
+      "rating": 4.1,
+      "reviews": 106,
+      "image": "https://m.media-amazon.com/images/I/51jC4DTM8gL._AC_SL1500_.jpg",
+      "connection": "クランプ式 & グロメット式",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0CQNK2XQ6",
+      "supportedSize": "〜32インチ",
+      "weightCapacity": "12.0kg",
+      "armType": "シングル (1画面)",
+      "springType": "ガススプリング式",
+      "mountType": "クランプ式 & グロメット式",
+      "vesaStandard": "75×75 / 100×100 mm",
+      "weight": "—",
+      "highlights": [
+        {
+          "label": "対応サイズ",
+          "value": "〜32インチ"
+        },
+        {
+          "label": "耐荷重",
+          "value": "12.0kg"
+        },
+        {
+          "label": "VESA",
+          "value": "75×75 / 100×100"
+        },
+        {
+          "label": "取付方式",
+          "value": "クランプ式 & グロメット式"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "対応モニター",
+          "rows": [
+            {
+              "label": "画面サイズ",
+              "value": "〜32インチ"
+            },
+            {
+              "label": "耐荷重",
+              "value": "12.0kg"
+            },
+            {
+              "label": "VESA",
+              "value": "75×75 / 100×100 mm"
+            },
+            {
+              "label": "アーム数",
+              "value": "シングル (1画面)"
+            }
+          ]
+        },
+        {
+          "title": "設置 / 可動",
+          "rows": [
+            {
+              "label": "取付方式",
+              "value": "クランプ式 & グロメット式"
+            },
+            {
+              "label": "駆動方式",
+              "value": "ガススプリング式"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arm-bs-078",
+      "rank": 78,
+      "asin": "B0GTLHYL4N",
+      "name": "モニターアーム デュアル",
+      "brand": "WORLDLIFT",
+      "tagline": "24〜38インチ対応・耐荷重9.0kg・ガススプリング式",
+      "price": 5499,
+      "rating": 4.1,
+      "reviews": 12,
+      "image": "https://m.media-amazon.com/images/I/61RNM1-GWjL._AC_SL1500_.jpg",
+      "connection": "クランプ式 & グロメット式",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0GTLHYL4N",
+      "supportedSize": "24〜38インチ",
+      "weightCapacity": "9.0kg",
+      "armType": "デュアル (2画面)",
+      "springType": "ガススプリング式",
+      "mountType": "クランプ式 & グロメット式",
+      "vesaStandard": "75×75 / 100×100 mm",
+      "weight": "—",
+      "highlights": [
+        {
+          "label": "対応サイズ",
+          "value": "24〜38インチ"
+        },
+        {
+          "label": "耐荷重",
+          "value": "9.0kg"
+        },
+        {
+          "label": "VESA",
+          "value": "75×75 / 100×100"
+        },
+        {
+          "label": "取付方式",
+          "value": "クランプ式 & グロメット式"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "対応モニター",
+          "rows": [
+            {
+              "label": "画面サイズ",
+              "value": "24〜38インチ"
+            },
+            {
+              "label": "耐荷重",
+              "value": "9.0kg"
+            },
+            {
+              "label": "VESA",
+              "value": "75×75 / 100×100 mm"
+            },
+            {
+              "label": "アーム数",
+              "value": "デュアル (2画面)"
+            }
+          ]
+        },
+        {
+          "title": "設置 / 可動",
+          "rows": [
+            {
+              "label": "取付方式",
+              "value": "クランプ式 & グロメット式"
+            },
+            {
+              "label": "駆動方式",
+              "value": "ガススプリング式"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arm-bs-079",
+      "rank": 79,
+      "asin": "B0CL9X7LX8",
+      "name": "MU1006-07",
+      "brand": "MOUNTUP",
+      "tagline": "〜32インチ対応・耐荷重15.0kg・ガススプリング式",
+      "price": 3699,
+      "rating": 4.1,
+      "reviews": 128,
+      "image": "https://m.media-amazon.com/images/I/61TDWA3mH1L._AC_SL1500_.jpg",
+      "connection": "据え置き",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0CL9X7LX8",
+      "supportedSize": "〜32インチ",
+      "weightCapacity": "15.0kg",
+      "armType": "デュアル (2画面)",
+      "springType": "ガススプリング式",
+      "mountType": "据え置き",
+      "vesaStandard": "75×75 / 100×100 mm",
+      "weight": "—",
+      "highlights": [
+        {
+          "label": "対応サイズ",
+          "value": "〜32インチ"
+        },
+        {
+          "label": "耐荷重",
+          "value": "15.0kg"
+        },
+        {
+          "label": "VESA",
+          "value": "75×75 / 100×100"
+        },
+        {
+          "label": "取付方式",
+          "value": "据え置き"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "対応モニター",
+          "rows": [
+            {
+              "label": "画面サイズ",
+              "value": "〜32インチ"
+            },
+            {
+              "label": "耐荷重",
+              "value": "15.0kg"
+            },
+            {
+              "label": "VESA",
+              "value": "75×75 / 100×100 mm"
+            },
+            {
+              "label": "アーム数",
+              "value": "デュアル (2画面)"
+            }
+          ]
+        },
+        {
+          "title": "設置 / 可動",
+          "rows": [
+            {
+              "label": "取付方式",
+              "value": "据え置き"
+            },
+            {
+              "label": "駆動方式",
+              "value": "ガススプリング式"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arm-bs-080",
+      "rank": 80,
+      "asin": "B0CRYWBYY8",
+      "name": "DPA-SS11BK",
+      "brand": "ELECOM",
+      "tagline": "17〜49インチ対応・耐荷重2.0〜20.0kg・ガススプリング式",
+      "price": 9680,
+      "rating": 3.9,
+      "reviews": 211,
+      "image": "https://m.media-amazon.com/images/I/613FvouUMEL._AC_SL1500_.jpg",
+      "connection": "クランプ式 & グロメット式",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0CRYWBYY8",
+      "supportedSize": "17〜49インチ",
+      "weightCapacity": "2.0〜20.0kg",
+      "armType": "シングル (1画面)",
+      "springType": "ガススプリング式",
+      "mountType": "クランプ式 & グロメット式",
+      "vesaStandard": "75×75 / 100×100 mm",
+      "weight": "—",
+      "highlights": [
+        {
+          "label": "対応サイズ",
+          "value": "17〜49インチ"
+        },
+        {
+          "label": "耐荷重",
+          "value": "2.0〜20.0kg"
+        },
+        {
+          "label": "VESA",
+          "value": "75×75 / 100×100"
+        },
+        {
+          "label": "取付方式",
+          "value": "クランプ式 & グロメット式"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "対応モニター",
+          "rows": [
+            {
+              "label": "画面サイズ",
+              "value": "17〜49インチ"
+            },
+            {
+              "label": "耐荷重",
+              "value": "2.0〜20.0kg"
+            },
+            {
+              "label": "VESA",
+              "value": "75×75 / 100×100 mm"
+            },
+            {
+              "label": "アーム数",
+              "value": "シングル (1画面)"
+            }
+          ]
+        },
+        {
+          "title": "設置 / 可動",
+          "rows": [
+            {
+              "label": "取付方式",
+              "value": "クランプ式 & グロメット式"
+            },
+            {
+              "label": "駆動方式",
+              "value": "ガススプリング式"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arm-sr-003",
+      "rank": 1003,
+      "asin": "B0CQXL5S4T",
+      "name": "モニターアーム シングル",
+      "brand": "Amazonベーシック",
+      "tagline": "〜32インチ対応・耐荷重10.0kg・メカニカルスプリング式",
+      "price": 2977,
+      "rating": 4,
+      "reviews": 0,
+      "image": "https://m.media-amazon.com/images/I/41w7-3HjDvL._AC_SL1500_.jpg",
+      "connection": "クランプ式 & グロメット式",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0CQXL5S4T",
+      "supportedSize": "〜32インチ",
+      "weightCapacity": "10.0kg",
+      "armType": "シングル (1画面)",
+      "springType": "メカニカルスプリング式",
+      "mountType": "クランプ式 & グロメット式",
+      "vesaStandard": "75×75 / 100×100 mm",
+      "weight": "—",
+      "highlights": [
+        {
+          "label": "対応サイズ",
+          "value": "〜32インチ"
+        },
+        {
+          "label": "耐荷重",
+          "value": "10.0kg"
+        },
+        {
+          "label": "VESA",
+          "value": "75×75 / 100×100"
+        },
+        {
+          "label": "取付方式",
+          "value": "クランプ式 & グロメット式"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "対応モニター",
+          "rows": [
+            {
+              "label": "画面サイズ",
+              "value": "〜32インチ"
+            },
+            {
+              "label": "耐荷重",
+              "value": "10.0kg"
+            },
+            {
+              "label": "VESA",
+              "value": "75×75 / 100×100 mm"
+            },
+            {
+              "label": "アーム数",
+              "value": "シングル (1画面)"
+            }
+          ]
+        },
+        {
+          "title": "設置 / 可動",
+          "rows": [
+            {
+              "label": "取付方式",
+              "value": "クランプ式 & グロメット式"
+            },
+            {
+              "label": "駆動方式",
+              "value": "メカニカルスプリング式"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arm-sr-007",
+      "rank": 1007,
+      "asin": "B00CWXQRHS",
+      "name": "PS2S",
+      "brand": "Pixio",
+      "tagline": "17〜49インチ対応・耐荷重2.0〜18.0kg・ガススプリング式",
+      "price": 11980,
+      "rating": 4.1,
+      "reviews": 0,
+      "image": "https://m.media-amazon.com/images/I/41RkHlttbTL._AC_SL1500_.jpg",
+      "connection": "クランプ式 & グロメット式",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B00CWXQRHS",
+      "supportedSize": "17〜49インチ",
+      "weightCapacity": "2.0〜18.0kg",
+      "armType": "デュアル (2画面)",
+      "springType": "ガススプリング式",
+      "mountType": "クランプ式 & グロメット式",
+      "vesaStandard": "75×75 / 100×100 mm",
+      "weight": "—",
+      "highlights": [
+        {
+          "label": "対応サイズ",
+          "value": "17〜49インチ"
+        },
+        {
+          "label": "耐荷重",
+          "value": "2.0〜18.0kg"
+        },
+        {
+          "label": "VESA",
+          "value": "75×75 / 100×100"
+        },
+        {
+          "label": "取付方式",
+          "value": "クランプ式 & グロメット式"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "対応モニター",
+          "rows": [
+            {
+              "label": "画面サイズ",
+              "value": "17〜49インチ"
+            },
+            {
+              "label": "耐荷重",
+              "value": "2.0〜18.0kg"
+            },
+            {
+              "label": "VESA",
+              "value": "75×75 / 100×100 mm"
+            },
+            {
+              "label": "アーム数",
+              "value": "デュアル (2画面)"
+            }
+          ]
+        },
+        {
+          "title": "設置 / 可動",
+          "rows": [
+            {
+              "label": "取付方式",
+              "value": "クランプ式 & グロメット式"
+            },
+            {
+              "label": "駆動方式",
+              "value": "ガススプリング式"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arm-sr-009",
+      "rank": 1009,
+      "asin": "B09T78LQYQ",
+      "name": "LX デュアル (45-509-224)",
+      "brand": "ERGOTRON",
+      "tagline": "〜40インチ対応・耐荷重3.2〜10.0kg・メカニカルスプリング式",
+      "price": 48590,
+      "rating": 4.6,
+      "reviews": 0,
+      "image": "https://m.media-amazon.com/images/I/61DYEZXItoL._AC_SL1500_.jpg",
+      "connection": "クランプ式 & グロメット式",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B09T78LQYQ",
+      "supportedSize": "〜40インチ",
+      "weightCapacity": "3.2〜10.0kg",
+      "armType": "デュアル (2画面)",
+      "springType": "メカニカルスプリング式",
+      "mountType": "クランプ式 & グロメット式",
+      "vesaStandard": "75×75 / 100×100 mm",
+      "weight": "—",
+      "highlights": [
+        {
+          "label": "対応サイズ",
+          "value": "〜40インチ"
+        },
+        {
+          "label": "耐荷重",
+          "value": "3.2〜10.0kg"
+        },
+        {
+          "label": "VESA",
+          "value": "75×75 / 100×100"
+        },
+        {
+          "label": "取付方式",
+          "value": "クランプ式 & グロメット式"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "対応モニター",
+          "rows": [
+            {
+              "label": "画面サイズ",
+              "value": "〜40インチ"
+            },
+            {
+              "label": "耐荷重",
+              "value": "3.2〜10.0kg"
+            },
+            {
+              "label": "VESA",
+              "value": "75×75 / 100×100 mm"
+            },
+            {
+              "label": "アーム数",
+              "value": "デュアル (2画面)"
+            }
+          ]
+        },
+        {
+          "title": "設置 / 可動",
+          "rows": [
+            {
+              "label": "取付方式",
+              "value": "クランプ式 & グロメット式"
+            },
+            {
+              "label": "駆動方式",
+              "value": "メカニカルスプリング式"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arm-sr-013",
+      "rank": 1013,
+      "asin": "B0C3M5MTRX",
+      "name": "モニターアーム シングル（ホワイト）",
+      "brand": "ErGear",
+      "tagline": "13〜32インチ対応・耐荷重2.0〜10.0kg・ガススプリング式",
+      "price": 2960,
+      "rating": 4,
+      "reviews": 0,
+      "image": "https://m.media-amazon.com/images/I/517NFw8CLbL._AC_SL1500_.jpg",
+      "connection": "クランプ式 & グロメット式",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0C3M5MTRX",
+      "supportedSize": "13〜32インチ",
+      "weightCapacity": "2.0〜10.0kg",
+      "armType": "シングル (1画面)",
+      "springType": "ガススプリング式",
+      "mountType": "クランプ式 & グロメット式",
+      "vesaStandard": "75×75 / 100×100 mm",
+      "weight": "—",
+      "highlights": [
+        {
+          "label": "対応サイズ",
+          "value": "13〜32インチ"
+        },
+        {
+          "label": "耐荷重",
+          "value": "2.0〜10.0kg"
+        },
+        {
+          "label": "VESA",
+          "value": "75×75 / 100×100"
+        },
+        {
+          "label": "取付方式",
+          "value": "クランプ式 & グロメット式"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "対応モニター",
+          "rows": [
+            {
+              "label": "画面サイズ",
+              "value": "13〜32インチ"
+            },
+            {
+              "label": "耐荷重",
+              "value": "2.0〜10.0kg"
+            },
+            {
+              "label": "VESA",
+              "value": "75×75 / 100×100 mm"
+            },
+            {
+              "label": "アーム数",
+              "value": "シングル (1画面)"
+            }
+          ]
+        },
+        {
+          "title": "設置 / 可動",
+          "rows": [
+            {
+              "label": "取付方式",
+              "value": "クランプ式 & グロメット式"
+            },
+            {
+              "label": "駆動方式",
+              "value": "ガススプリング式"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arm-sr-016",
+      "rank": 1016,
+      "asin": "B0G2B1KHFZ",
+      "name": "MS012",
+      "brand": "THEARK",
+      "tagline": "17〜32インチ対応・耐荷重9.0kg・ガススプリング式",
+      "price": 6980,
+      "rating": 4.1,
+      "reviews": 0,
+      "image": "https://m.media-amazon.com/images/I/51vz027J8nL._AC_SL1500_.jpg",
+      "connection": "クランプ式 & グロメット式",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0G2B1KHFZ",
+      "supportedSize": "17〜32インチ",
+      "weightCapacity": "9.0kg",
+      "armType": "デュアル (2画面)",
+      "springType": "ガススプリング式",
+      "mountType": "クランプ式 & グロメット式",
+      "vesaStandard": "75×75 / 100×100 mm",
+      "weight": "—",
+      "highlights": [
+        {
+          "label": "対応サイズ",
+          "value": "17〜32インチ"
+        },
+        {
+          "label": "耐荷重",
+          "value": "9.0kg"
+        },
+        {
+          "label": "VESA",
+          "value": "75×75 / 100×100"
+        },
+        {
+          "label": "取付方式",
+          "value": "クランプ式 & グロメット式"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "対応モニター",
+          "rows": [
+            {
+              "label": "画面サイズ",
+              "value": "17〜32インチ"
+            },
+            {
+              "label": "耐荷重",
+              "value": "9.0kg"
+            },
+            {
+              "label": "VESA",
+              "value": "75×75 / 100×100 mm"
+            },
+            {
+              "label": "アーム数",
+              "value": "デュアル (2画面)"
+            }
+          ]
+        },
+        {
+          "title": "設置 / 可動",
+          "rows": [
+            {
+              "label": "取付方式",
+              "value": "クランプ式 & グロメット式"
+            },
+            {
+              "label": "駆動方式",
+              "value": "ガススプリング式"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arm-sr-017",
+      "rank": 1017,
+      "asin": "B0FVSRQRZ3",
+      "name": "モニターアーム デュアル（縦2画面）",
+      "brand": "ErGear",
+      "tagline": "13〜32インチ対応・耐荷重9.0kg・ガススプリング式",
+      "price": 4999,
+      "rating": 4.4,
+      "reviews": 0,
+      "image": "https://m.media-amazon.com/images/I/61SNvxu5huL._AC_SL1500_.jpg",
+      "connection": "クランプ式 & グロメット式",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0FVSRQRZ3",
+      "supportedSize": "13〜32インチ",
+      "weightCapacity": "9.0kg",
+      "armType": "デュアル (2画面)",
+      "springType": "ガススプリング式",
+      "mountType": "クランプ式 & グロメット式",
+      "vesaStandard": "75×75 / 100×100 mm",
+      "weight": "—",
+      "highlights": [
+        {
+          "label": "対応サイズ",
+          "value": "13〜32インチ"
+        },
+        {
+          "label": "耐荷重",
+          "value": "9.0kg"
+        },
+        {
+          "label": "VESA",
+          "value": "75×75 / 100×100"
+        },
+        {
+          "label": "取付方式",
+          "value": "クランプ式 & グロメット式"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "対応モニター",
+          "rows": [
+            {
+              "label": "画面サイズ",
+              "value": "13〜32インチ"
+            },
+            {
+              "label": "耐荷重",
+              "value": "9.0kg"
+            },
+            {
+              "label": "VESA",
+              "value": "75×75 / 100×100 mm"
+            },
+            {
+              "label": "アーム数",
+              "value": "デュアル (2画面)"
+            }
+          ]
+        },
+        {
+          "title": "設置 / 可動",
+          "rows": [
+            {
+              "label": "取付方式",
+              "value": "クランプ式 & グロメット式"
+            },
+            {
+              "label": "駆動方式",
+              "value": "ガススプリング式"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arm-sr-019",
+      "rank": 1019,
+      "asin": "B08YNL8Y4P",
+      "name": "HT05B-003",
+      "brand": "—",
+      "tagline": "27〜43インチ対応・耐荷重34.0kg",
+      "price": 3399,
+      "rating": 4,
+      "reviews": 0,
+      "image": "https://m.media-amazon.com/images/I/51PyBPIeaiL._AC_SL1500_.jpg",
+      "connection": "自立型（ガラスベース）",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B08YNL8Y4P",
+      "supportedSize": "27〜43インチ",
+      "weightCapacity": "34.0kg",
+      "armType": "シングル (1画面)",
+      "springType": "—",
+      "mountType": "自立型（ガラスベース）",
+      "vesaStandard": "75×75 / 100×100 mm",
+      "weight": "—",
+      "highlights": [
+        {
+          "label": "対応サイズ",
+          "value": "27〜43インチ"
+        },
+        {
+          "label": "耐荷重",
+          "value": "34.0kg"
+        },
+        {
+          "label": "VESA",
+          "value": "75×75 / 100×100"
+        },
+        {
+          "label": "取付方式",
+          "value": "自立型（ガラスベース）"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "対応モニター",
+          "rows": [
+            {
+              "label": "画面サイズ",
+              "value": "27〜43インチ"
+            },
+            {
+              "label": "耐荷重",
+              "value": "34.0kg"
+            },
+            {
+              "label": "VESA",
+              "value": "75×75 / 100×100 mm"
+            },
+            {
+              "label": "アーム数",
+              "value": "シングル (1画面)"
+            }
+          ]
+        },
+        {
+          "title": "設置 / 可動",
+          "rows": [
+            {
+              "label": "取付方式",
+              "value": "自立型（ガラスベース）"
+            },
+            {
+              "label": "駆動方式",
+              "value": "—"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arm-sr-103",
+      "rank": 1103,
+      "asin": "B0DX23SK6G",
+      "name": "無重力 Pro デュアル",
+      "brand": "COFO",
+      "tagline": "17〜40インチ対応・耐荷重2.5〜14.0kg・ダブルメカニカルスプリング式",
+      "price": 32980,
+      "rating": 4,
+      "reviews": 0,
+      "image": "https://m.media-amazon.com/images/I/51LKkUKavlL._AC_SL1500_.jpg",
+      "connection": "クランプ式 & グロメット式",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0DX23SK6G",
+      "supportedSize": "17〜40インチ",
+      "weightCapacity": "2.5〜14.0kg",
+      "armType": "デュアル (2画面)",
+      "springType": "ダブルメカニカルスプリング式",
+      "mountType": "クランプ式 & グロメット式",
+      "vesaStandard": "75×75 / 100×100 mm",
+      "weight": "—",
+      "highlights": [
+        {
+          "label": "対応サイズ",
+          "value": "17〜40インチ"
+        },
+        {
+          "label": "耐荷重",
+          "value": "2.5〜14.0kg"
+        },
+        {
+          "label": "VESA",
+          "value": "75×75 / 100×100"
+        },
+        {
+          "label": "取付方式",
+          "value": "クランプ式 & グロメット式"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "対応モニター",
+          "rows": [
+            {
+              "label": "画面サイズ",
+              "value": "17〜40インチ"
+            },
+            {
+              "label": "耐荷重",
+              "value": "2.5〜14.0kg"
+            },
+            {
+              "label": "VESA",
+              "value": "75×75 / 100×100 mm"
+            },
+            {
+              "label": "アーム数",
+              "value": "デュアル (2画面)"
+            }
+          ]
+        },
+        {
+          "title": "設置 / 可動",
+          "rows": [
+            {
+              "label": "取付方式",
+              "value": "クランプ式 & グロメット式"
+            },
+            {
+              "label": "駆動方式",
+              "value": "ダブルメカニカルスプリング式"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arm-sr-105",
+      "rank": 1105,
+      "asin": "B0872ND3S3",
+      "name": "ポール取り付け",
+      "brand": "サンワサプライ",
+      "tagline": "13〜32インチ対応・耐荷重8.0kg・ガススプリング式",
+      "price": 2899,
+      "rating": 4.3,
+      "reviews": 0,
+      "image": "https://m.media-amazon.com/images/I/61iwoXMLzAL._AC_SL1500_.jpg",
+      "connection": "ポール取付",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0872ND3S3",
+      "supportedSize": "13〜32インチ",
+      "weightCapacity": "8.0kg",
+      "armType": "シングル (1画面)",
+      "springType": "ガススプリング式",
+      "mountType": "ポール取付",
+      "vesaStandard": "75×75 / 100×100 mm",
+      "weight": "—",
+      "highlights": [
+        {
+          "label": "対応サイズ",
+          "value": "13〜32インチ"
+        },
+        {
+          "label": "耐荷重",
+          "value": "8.0kg"
+        },
+        {
+          "label": "VESA",
+          "value": "75×75 / 100×100"
+        },
+        {
+          "label": "取付方式",
+          "value": "ポール取付"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "対応モニター",
+          "rows": [
+            {
+              "label": "画面サイズ",
+              "value": "13〜32インチ"
+            },
+            {
+              "label": "耐荷重",
+              "value": "8.0kg"
+            },
+            {
+              "label": "VESA",
+              "value": "75×75 / 100×100 mm"
+            },
+            {
+              "label": "アーム数",
+              "value": "シングル (1画面)"
+            }
+          ]
+        },
+        {
+          "title": "設置 / 可動",
+          "rows": [
+            {
+              "label": "取付方式",
+              "value": "ポール取付"
+            },
+            {
+              "label": "駆動方式",
+              "value": "ガススプリング式"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arm-sr-110",
+      "rank": 1110,
+      "asin": "B0D66Q72WJ",
+      "name": "AX05TB01",
+      "brand": "Amazonベーシック",
+      "tagline": "13〜32インチ対応・耐荷重9.0kg・ガススプリング式",
+      "price": 2355,
+      "rating": 4.1,
+      "reviews": 0,
+      "image": "https://m.media-amazon.com/images/I/61CvapJpyyL._AC_SL1500_.jpg",
+      "connection": "クランプ式 & グロメット式",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0D66Q72WJ",
+      "supportedSize": "13〜32インチ",
+      "weightCapacity": "9.0kg",
+      "armType": "シングル (1画面)",
+      "springType": "ガススプリング式",
+      "mountType": "クランプ式 & グロメット式",
+      "vesaStandard": "75×75 / 100×100 mm",
+      "weight": "—",
+      "highlights": [
+        {
+          "label": "対応サイズ",
+          "value": "13〜32インチ"
+        },
+        {
+          "label": "耐荷重",
+          "value": "9.0kg"
+        },
+        {
+          "label": "VESA",
+          "value": "75×75 / 100×100"
+        },
+        {
+          "label": "取付方式",
+          "value": "クランプ式 & グロメット式"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "対応モニター",
+          "rows": [
+            {
+              "label": "画面サイズ",
+              "value": "13〜32インチ"
+            },
+            {
+              "label": "耐荷重",
+              "value": "9.0kg"
+            },
+            {
+              "label": "VESA",
+              "value": "75×75 / 100×100 mm"
+            },
+            {
+              "label": "アーム数",
+              "value": "シングル (1画面)"
+            }
+          ]
+        },
+        {
+          "title": "設置 / 可動",
+          "rows": [
+            {
+              "label": "取付方式",
+              "value": "クランプ式 & グロメット式"
+            },
+            {
+              "label": "駆動方式",
+              "value": "ガススプリング式"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arm-sr-115",
+      "rank": 1115,
+      "asin": "B0CZQ8R1SS",
+      "name": "LS112",
+      "brand": "LOCTEK",
+      "tagline": "13〜32インチ対応・耐荷重2.0〜9.0kg・ガススプリング式",
+      "price": 16335,
+      "rating": 4.4,
+      "reviews": 0,
+      "image": "https://m.media-amazon.com/images/I/51i7KhGXbwL._AC_SL1500_.jpg",
+      "connection": "クランプ式 & グロメット式",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0CZQ8R1SS",
+      "supportedSize": "13〜32インチ",
+      "weightCapacity": "2.0〜9.0kg",
+      "armType": "シングル (1画面)",
+      "springType": "ガススプリング式",
+      "mountType": "クランプ式 & グロメット式",
+      "vesaStandard": "75×75 / 100×100 mm",
+      "weight": "—",
+      "highlights": [
+        {
+          "label": "対応サイズ",
+          "value": "13〜32インチ"
+        },
+        {
+          "label": "耐荷重",
+          "value": "2.0〜9.0kg"
+        },
+        {
+          "label": "VESA",
+          "value": "75×75 / 100×100"
+        },
+        {
+          "label": "取付方式",
+          "value": "クランプ式 & グロメット式"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "対応モニター",
+          "rows": [
+            {
+              "label": "画面サイズ",
+              "value": "13〜32インチ"
+            },
+            {
+              "label": "耐荷重",
+              "value": "2.0〜9.0kg"
+            },
+            {
+              "label": "VESA",
+              "value": "75×75 / 100×100 mm"
+            },
+            {
+              "label": "アーム数",
+              "value": "シングル (1画面)"
+            }
+          ]
+        },
+        {
+          "title": "設置 / 可動",
+          "rows": [
+            {
+              "label": "取付方式",
+              "value": "クランプ式 & グロメット式"
+            },
+            {
+              "label": "駆動方式",
+              "value": "ガススプリング式"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arm-sr-116",
+      "rank": 1116,
+      "asin": "B08RD4FJ3Q",
+      "name": "LX デスクマウント (45-475-224)",
+      "brand": "ERGOTRON",
+      "tagline": "〜34インチ対応・耐荷重3.2〜11.3kg・メカニカルスプリング式",
+      "price": 46970,
+      "rating": 4.4,
+      "reviews": 0,
+      "image": "https://m.media-amazon.com/images/I/61iV6+cuzbL._AC_SL1500_.jpg",
+      "connection": "クランプ式 & グロメット式",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B08RD4FJ3Q",
+      "supportedSize": "〜34インチ",
+      "weightCapacity": "3.2〜11.3kg",
+      "armType": "シングル (1画面)",
+      "springType": "メカニカルスプリング式",
+      "mountType": "クランプ式 & グロメット式",
+      "vesaStandard": "75×75 / 100×100 mm",
+      "weight": "—",
+      "highlights": [
+        {
+          "label": "対応サイズ",
+          "value": "〜34インチ"
+        },
+        {
+          "label": "耐荷重",
+          "value": "3.2〜11.3kg"
+        },
+        {
+          "label": "VESA",
+          "value": "75×75 / 100×100"
+        },
+        {
+          "label": "取付方式",
+          "value": "クランプ式 & グロメット式"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "対応モニター",
+          "rows": [
+            {
+              "label": "画面サイズ",
+              "value": "〜34インチ"
+            },
+            {
+              "label": "耐荷重",
+              "value": "3.2〜11.3kg"
+            },
+            {
+              "label": "VESA",
+              "value": "75×75 / 100×100 mm"
+            },
+            {
+              "label": "アーム数",
+              "value": "シングル (1画面)"
+            }
+          ]
+        },
+        {
+          "title": "設置 / 可動",
+          "rows": [
+            {
+              "label": "取付方式",
+              "value": "クランプ式 & グロメット式"
+            },
+            {
+              "label": "駆動方式",
+              "value": "メカニカルスプリング式"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arm-sr-1051",
+      "rank": 2050,
+      "asin": "B096FRBS6P",
+      "name": "MD81SE",
+      "brand": "suptek",
+      "tagline": "17〜34インチ対応・耐荷重11.0kg・ガススプリング式",
+      "price": 2980,
+      "rating": 4,
+      "reviews": 0,
+      "image": "https://m.media-amazon.com/images/I/51dX0aBiz7L._AC_SL1500_.jpg",
+      "connection": "クランプ式 & グロメット式",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B096FRBS6P",
+      "supportedSize": "17〜34インチ",
+      "weightCapacity": "11.0kg",
+      "armType": "シングル (1画面)",
+      "springType": "ガススプリング式",
+      "mountType": "クランプ式 & グロメット式",
+      "vesaStandard": "75×75 / 100×100 mm",
+      "weight": "—",
+      "highlights": [
+        {
+          "label": "対応サイズ",
+          "value": "17〜34インチ"
+        },
+        {
+          "label": "耐荷重",
+          "value": "11.0kg"
+        },
+        {
+          "label": "VESA",
+          "value": "75×75 / 100×100"
+        },
+        {
+          "label": "取付方式",
+          "value": "クランプ式 & グロメット式"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "対応モニター",
+          "rows": [
+            {
+              "label": "画面サイズ",
+              "value": "17〜34インチ"
+            },
+            {
+              "label": "耐荷重",
+              "value": "11.0kg"
+            },
+            {
+              "label": "VESA",
+              "value": "75×75 / 100×100 mm"
+            },
+            {
+              "label": "アーム数",
+              "value": "シングル (1画面)"
+            }
+          ]
+        },
+        {
+          "title": "設置 / 可動",
+          "rows": [
+            {
+              "label": "取付方式",
+              "value": "クランプ式 & グロメット式"
+            },
+            {
+              "label": "駆動方式",
+              "value": "ガススプリング式"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arm-sr-1052",
+      "rank": 2051,
+      "asin": "B01DVGUDX8",
+      "name": "100-LA031",
+      "brand": "サンワダイレクト",
+      "tagline": "17〜32インチ対応・ガススプリング式",
+      "price": 5480,
+      "rating": 4.3,
+      "reviews": 0,
+      "image": "https://m.media-amazon.com/images/I/71eHeDuL-ZL._AC_SL1500_.jpg",
+      "connection": "クランプ式",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B01DVGUDX8",
+      "supportedSize": "17〜32インチ",
+      "weightCapacity": "—",
+      "armType": "デュアル (2画面)",
+      "springType": "ガススプリング式",
+      "mountType": "クランプ式",
+      "vesaStandard": "75×75 / 100×100 mm",
+      "weight": "—",
+      "highlights": [
+        {
+          "label": "対応サイズ",
+          "value": "17〜32インチ"
+        },
+        {
+          "label": "耐荷重",
+          "value": "—"
+        },
+        {
+          "label": "VESA",
+          "value": "75×75 / 100×100"
+        },
+        {
+          "label": "取付方式",
+          "value": "クランプ式"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "対応モニター",
+          "rows": [
+            {
+              "label": "画面サイズ",
+              "value": "17〜32インチ"
+            },
+            {
+              "label": "耐荷重",
+              "value": "—"
+            },
+            {
+              "label": "VESA",
+              "value": "75×75 / 100×100 mm"
+            },
+            {
+              "label": "アーム数",
+              "value": "デュアル (2画面)"
+            }
+          ]
+        },
+        {
+          "title": "設置 / 可動",
+          "rows": [
+            {
+              "label": "取付方式",
+              "value": "クランプ式"
+            },
+            {
+              "label": "駆動方式",
+              "value": "ガススプリング式"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arm-sr-1053",
+      "rank": 2052,
+      "asin": "B082XBG5QP",
+      "name": "EEX-LAP07",
+      "brand": "イーサプライ",
+      "tagline": "〜32インチ対応・耐荷重8.0kg・ガススプリング式",
+      "price": 3280,
+      "rating": 4.3,
+      "reviews": 0,
+      "image": "https://m.media-amazon.com/images/I/61n3wfH5LIL._AC_SL1500_.jpg",
+      "connection": "ポール取付",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B082XBG5QP",
+      "supportedSize": "〜32インチ",
+      "weightCapacity": "8.0kg",
+      "armType": "シングル (1画面)",
+      "springType": "ガススプリング式",
+      "mountType": "ポール取付",
+      "vesaStandard": "75×75 / 100×100 mm",
+      "weight": "—",
+      "highlights": [
+        {
+          "label": "対応サイズ",
+          "value": "〜32インチ"
+        },
+        {
+          "label": "耐荷重",
+          "value": "8.0kg"
+        },
+        {
+          "label": "VESA",
+          "value": "75×75 / 100×100"
+        },
+        {
+          "label": "取付方式",
+          "value": "ポール取付"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "対応モニター",
+          "rows": [
+            {
+              "label": "画面サイズ",
+              "value": "〜32インチ"
+            },
+            {
+              "label": "耐荷重",
+              "value": "8.0kg"
+            },
+            {
+              "label": "VESA",
+              "value": "75×75 / 100×100 mm"
+            },
+            {
+              "label": "アーム数",
+              "value": "シングル (1画面)"
+            }
+          ]
+        },
+        {
+          "title": "設置 / 可動",
+          "rows": [
+            {
+              "label": "取付方式",
+              "value": "ポール取付"
+            },
+            {
+              "label": "駆動方式",
+              "value": "ガススプリング式"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arm-sr-1054",
+      "rank": 2053,
+      "asin": "B0G34JT9GQ",
+      "name": "GH-AMDX1-BK",
+      "brand": "GREENHOUSE",
+      "tagline": "17〜32インチ対応・耐荷重2.0〜9.0kg・メカニカルスプリング式",
+      "price": 4998,
+      "rating": 4,
+      "reviews": 0,
+      "image": "https://m.media-amazon.com/images/I/61TgaScegsL._AC_SL1500_.jpg",
+      "connection": "据え置き",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0G34JT9GQ",
+      "supportedSize": "17〜32インチ",
+      "weightCapacity": "2.0〜9.0kg",
+      "armType": "シングル (1画面)",
+      "springType": "メカニカルスプリング式",
+      "mountType": "据え置き",
+      "vesaStandard": "75×75 / 100×100 mm",
+      "weight": "—",
+      "highlights": [
+        {
+          "label": "対応サイズ",
+          "value": "17〜32インチ"
+        },
+        {
+          "label": "耐荷重",
+          "value": "2.0〜9.0kg"
+        },
+        {
+          "label": "VESA",
+          "value": "75×75 / 100×100"
+        },
+        {
+          "label": "取付方式",
+          "value": "据え置き"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "対応モニター",
+          "rows": [
+            {
+              "label": "画面サイズ",
+              "value": "17〜32インチ"
+            },
+            {
+              "label": "耐荷重",
+              "value": "2.0〜9.0kg"
+            },
+            {
+              "label": "VESA",
+              "value": "75×75 / 100×100 mm"
+            },
+            {
+              "label": "アーム数",
+              "value": "シングル (1画面)"
+            }
+          ]
+        },
+        {
+          "title": "設置 / 可動",
+          "rows": [
+            {
+              "label": "取付方式",
+              "value": "据え置き"
+            },
+            {
+              "label": "駆動方式",
+              "value": "メカニカルスプリング式"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arm-sr-1055",
+      "rank": 2054,
+      "asin": "B0DCVWK5RY",
+      "name": "MD01A",
+      "brand": "suptek",
+      "tagline": "13〜32インチ対応・耐荷重2.0〜9.0kg・ガススプリング式",
+      "price": 2449,
+      "rating": 4.3,
+      "reviews": 0,
+      "image": "https://m.media-amazon.com/images/I/516xhP88HPL._AC_SL1500_.jpg",
+      "connection": "クランプ式 & グロメット式",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0DCVWK5RY",
+      "supportedSize": "13〜32インチ",
+      "weightCapacity": "2.0〜9.0kg",
+      "armType": "シングル (1画面)",
+      "springType": "ガススプリング式",
+      "mountType": "クランプ式 & グロメット式",
+      "vesaStandard": "75×75 / 100×100 mm",
+      "weight": "—",
+      "highlights": [
+        {
+          "label": "対応サイズ",
+          "value": "13〜32インチ"
+        },
+        {
+          "label": "耐荷重",
+          "value": "2.0〜9.0kg"
+        },
+        {
+          "label": "VESA",
+          "value": "75×75 / 100×100"
+        },
+        {
+          "label": "取付方式",
+          "value": "クランプ式 & グロメット式"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "対応モニター",
+          "rows": [
+            {
+              "label": "画面サイズ",
+              "value": "13〜32インチ"
+            },
+            {
+              "label": "耐荷重",
+              "value": "2.0〜9.0kg"
+            },
+            {
+              "label": "VESA",
+              "value": "75×75 / 100×100 mm"
+            },
+            {
+              "label": "アーム数",
+              "value": "シングル (1画面)"
+            }
+          ]
+        },
+        {
+          "title": "設置 / 可動",
+          "rows": [
+            {
+              "label": "取付方式",
+              "value": "クランプ式 & グロメット式"
+            },
+            {
+              "label": "駆動方式",
+              "value": "ガススプリング式"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arm-sr-1056",
+      "rank": 2057,
+      "asin": "B085Y6W6RS",
+      "name": "HNDS8",
+      "brand": "HUANUO",
+      "tagline": "13〜32インチ対応・耐荷重2.0〜9.0kg・ガススプリング式",
+      "price": 7999,
+      "rating": 4.3,
+      "reviews": 0,
+      "image": "https://m.media-amazon.com/images/I/61F9MZFoE7L._AC_SL1500_.jpg",
+      "connection": "クランプ式 & グロメット式",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B085Y6W6RS",
+      "supportedSize": "13〜32インチ",
+      "weightCapacity": "2.0〜9.0kg",
+      "armType": "デュアル (2画面)",
+      "springType": "ガススプリング式",
+      "mountType": "クランプ式 & グロメット式",
+      "vesaStandard": "75×75 / 100×100 mm",
+      "weight": "—",
+      "highlights": [
+        {
+          "label": "対応サイズ",
+          "value": "13〜32インチ"
+        },
+        {
+          "label": "耐荷重",
+          "value": "2.0〜9.0kg"
+        },
+        {
+          "label": "VESA",
+          "value": "75×75 / 100×100"
+        },
+        {
+          "label": "取付方式",
+          "value": "クランプ式 & グロメット式"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "対応モニター",
+          "rows": [
+            {
+              "label": "画面サイズ",
+              "value": "13〜32インチ"
+            },
+            {
+              "label": "耐荷重",
+              "value": "2.0〜9.0kg"
+            },
+            {
+              "label": "VESA",
+              "value": "75×75 / 100×100 mm"
+            },
+            {
+              "label": "アーム数",
+              "value": "デュアル (2画面)"
+            }
+          ]
+        },
+        {
+          "title": "設置 / 可動",
+          "rows": [
+            {
+              "label": "取付方式",
+              "value": "クランプ式 & グロメット式"
+            },
+            {
+              "label": "駆動方式",
+              "value": "ガススプリング式"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arm-sr-1057",
+      "rank": 2063,
+      "asin": "B0CPLJT9FX",
+      "name": "GH-AMDP1-BK",
+      "brand": "GREENHOUSE",
+      "tagline": "17〜32インチ対応・耐荷重1.0〜9.0kg・ガススプリング式",
+      "price": 6998,
+      "rating": 4,
+      "reviews": 0,
+      "image": "https://m.media-amazon.com/images/I/61ynernQnVL._AC_SL1500_.jpg",
+      "connection": "クランプ式 & グロメット式",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0CPLJT9FX",
+      "supportedSize": "17〜32インチ",
+      "weightCapacity": "1.0〜9.0kg",
+      "armType": "シングル (1画面)",
+      "springType": "ガススプリング式",
+      "mountType": "クランプ式 & グロメット式",
+      "vesaStandard": "75×75 / 100×100 mm",
+      "weight": "—",
+      "highlights": [
+        {
+          "label": "対応サイズ",
+          "value": "17〜32インチ"
+        },
+        {
+          "label": "耐荷重",
+          "value": "1.0〜9.0kg"
+        },
+        {
+          "label": "VESA",
+          "value": "75×75 / 100×100"
+        },
+        {
+          "label": "取付方式",
+          "value": "クランプ式 & グロメット式"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "対応モニター",
+          "rows": [
+            {
+              "label": "画面サイズ",
+              "value": "17〜32インチ"
+            },
+            {
+              "label": "耐荷重",
+              "value": "1.0〜9.0kg"
+            },
+            {
+              "label": "VESA",
+              "value": "75×75 / 100×100 mm"
+            },
+            {
+              "label": "アーム数",
+              "value": "シングル (1画面)"
+            }
+          ]
+        },
+        {
+          "title": "設置 / 可動",
+          "rows": [
+            {
+              "label": "取付方式",
+              "value": "クランプ式 & グロメット式"
+            },
+            {
+              "label": "駆動方式",
+              "value": "ガススプリング式"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arm-sr-1058",
+      "rank": 2064,
+      "asin": "B082MLVXRR",
+      "name": "デュアルモニターアーム",
+      "brand": "BONTEC",
+      "tagline": "13〜32インチ対応・耐荷重9.0kg・ガススプリング式",
+      "price": 5414,
+      "rating": 4.5,
+      "reviews": 0,
+      "image": "https://m.media-amazon.com/images/I/61KgkZnwScL._AC_SL1500_.jpg",
+      "connection": "クランプ式 & グロメット式",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B082MLVXRR",
+      "supportedSize": "13〜32インチ",
+      "weightCapacity": "9.0kg",
+      "armType": "デュアル (2画面)",
+      "springType": "ガススプリング式",
+      "mountType": "クランプ式 & グロメット式",
+      "vesaStandard": "75×75 / 100×100 mm",
+      "weight": "—",
+      "highlights": [
+        {
+          "label": "対応サイズ",
+          "value": "13〜32インチ"
+        },
+        {
+          "label": "耐荷重",
+          "value": "9.0kg"
+        },
+        {
+          "label": "VESA",
+          "value": "75×75 / 100×100"
+        },
+        {
+          "label": "取付方式",
+          "value": "クランプ式 & グロメット式"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "対応モニター",
+          "rows": [
+            {
+              "label": "画面サイズ",
+              "value": "13〜32インチ"
+            },
+            {
+              "label": "耐荷重",
+              "value": "9.0kg"
+            },
+            {
+              "label": "VESA",
+              "value": "75×75 / 100×100 mm"
+            },
+            {
+              "label": "アーム数",
+              "value": "デュアル (2画面)"
+            }
+          ]
+        },
+        {
+          "title": "設置 / 可動",
+          "rows": [
+            {
+              "label": "取付方式",
+              "value": "クランプ式 & グロメット式"
+            },
+            {
+              "label": "駆動方式",
+              "value": "ガススプリング式"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arm-sr-1059",
+      "rank": 2065,
+      "asin": "B0FVSGD9GZ",
+      "name": "モニターアーム シングル",
+      "brand": "ErGear",
+      "tagline": "13〜34インチ対応・耐荷重9.0kg・ガススプリング式",
+      "price": 2899,
+      "rating": 4.4,
+      "reviews": 0,
+      "image": "https://m.media-amazon.com/images/I/619hqhPelvL._AC_SL1500_.jpg",
+      "connection": "クランプ式 & グロメット式",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0FVSGD9GZ",
+      "supportedSize": "13〜34インチ",
+      "weightCapacity": "9.0kg",
+      "armType": "シングル (1画面)",
+      "springType": "ガススプリング式",
+      "mountType": "クランプ式 & グロメット式",
+      "vesaStandard": "75×75 / 100×100 mm",
+      "weight": "—",
+      "highlights": [
+        {
+          "label": "対応サイズ",
+          "value": "13〜34インチ"
+        },
+        {
+          "label": "耐荷重",
+          "value": "9.0kg"
+        },
+        {
+          "label": "VESA",
+          "value": "75×75 / 100×100"
+        },
+        {
+          "label": "取付方式",
+          "value": "クランプ式 & グロメット式"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "対応モニター",
+          "rows": [
+            {
+              "label": "画面サイズ",
+              "value": "13〜34インチ"
+            },
+            {
+              "label": "耐荷重",
+              "value": "9.0kg"
+            },
+            {
+              "label": "VESA",
+              "value": "75×75 / 100×100 mm"
+            },
+            {
+              "label": "アーム数",
+              "value": "シングル (1画面)"
+            }
+          ]
+        },
+        {
+          "title": "設置 / 可動",
+          "rows": [
+            {
+              "label": "取付方式",
+              "value": "クランプ式 & グロメット式"
+            },
+            {
+              "label": "駆動方式",
+              "value": "ガススプリング式"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arm-sr-1060",
+      "rank": 2067,
+      "asin": "B0DQ4PS5GD",
+      "name": "8関節ロングモニターアーム",
+      "brand": "EastForce",
+      "tagline": "17〜32インチ対応・耐荷重2.0〜8.0kg・ガススプリング式",
+      "price": 8999,
+      "rating": 4.4,
+      "reviews": 0,
+      "image": "https://m.media-amazon.com/images/I/31oExy8+90L._AC_SL1500_.jpg",
+      "connection": "クランプ式 & グロメット式",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0DQ4PS5GD",
+      "supportedSize": "17〜32インチ",
+      "weightCapacity": "2.0〜8.0kg",
+      "armType": "シングル (1画面)",
+      "springType": "ガススプリング式",
+      "mountType": "クランプ式 & グロメット式",
+      "vesaStandard": "75×75 / 100×100 mm",
+      "weight": "—",
+      "highlights": [
+        {
+          "label": "対応サイズ",
+          "value": "17〜32インチ"
+        },
+        {
+          "label": "耐荷重",
+          "value": "2.0〜8.0kg"
+        },
+        {
+          "label": "VESA",
+          "value": "75×75 / 100×100"
+        },
+        {
+          "label": "取付方式",
+          "value": "クランプ式 & グロメット式"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "対応モニター",
+          "rows": [
+            {
+              "label": "画面サイズ",
+              "value": "17〜32インチ"
+            },
+            {
+              "label": "耐荷重",
+              "value": "2.0〜8.0kg"
+            },
+            {
+              "label": "VESA",
+              "value": "75×75 / 100×100 mm"
+            },
+            {
+              "label": "アーム数",
+              "value": "シングル (1画面)"
+            }
+          ]
+        },
+        {
+          "title": "設置 / 可動",
+          "rows": [
+            {
+              "label": "取付方式",
+              "value": "クランプ式 & グロメット式"
+            },
+            {
+              "label": "駆動方式",
+              "value": "ガススプリング式"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arm-bs-999",
+      "rank": 999,
+      "asin": "B0C7VQPLS1",
+      "name": "DPA-SS10BK",
+      "brand": "ELECOM",
+      "tagline": "17〜35インチ対応・耐荷重1.0〜15.0kg・ガススプリング式",
+      "price": 8980,
+      "rating": 4.2,
+      "reviews": 842,
+      "image": "",
+      "connection": "クランプ式 & グロメット式",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0C7VQPLS1",
+      "supportedSize": "17〜35インチ",
+      "weightCapacity": "1.0〜15.0kg",
+      "armType": "シングル (1画面)",
+      "springType": "ガススプリング式",
+      "mountType": "クランプ式 & グロメット式",
+      "vesaStandard": "75×75 / 100×100 mm",
+      "weight": "—",
+      "highlights": [
+        {
+          "label": "対応サイズ",
+          "value": "17〜35インチ"
+        },
+        {
+          "label": "耐荷重",
+          "value": "1.0〜15.0kg"
+        },
+        {
+          "label": "VESA",
+          "value": "75×75 / 100×100"
+        },
+        {
+          "label": "取付方式",
+          "value": "クランプ式 & グロメット式"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "対応モニター",
+          "rows": [
+            {
+              "label": "画面サイズ",
+              "value": "17〜35インチ"
+            },
+            {
+              "label": "耐荷重",
+              "value": "1.0〜15.0kg"
+            },
+            {
+              "label": "VESA",
+              "value": "75×75 / 100×100 mm"
+            },
+            {
+              "label": "アーム数",
+              "value": "シングル (1画面)"
+            }
+          ]
+        },
+        {
+          "title": "設置 / 可動",
+          "rows": [
+            {
+              "label": "取付方式",
+              "value": "クランプ式 & グロメット式"
+            },
+            {
+              "label": "駆動方式",
+              "value": "ガススプリング式"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arm-sr-1001",
+      "rank": 1001,
+      "asin": "B0G5QFRHR1",
+      "name": "PS1S Wave Black",
+      "brand": "Pixio",
+      "tagline": "17〜32インチ対応・耐荷重9.0kg・ガススプリング式",
+      "price": null,
+      "rating": 4.2,
+      "reviews": 842,
+      "image": "",
+      "connection": "クランプ式 & グロメット式",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B0G5QFRHR1",
+      "supportedSize": "17〜32インチ",
+      "weightCapacity": "9.0kg",
+      "armType": "シングル (1画面)",
+      "springType": "ガススプリング式",
+      "mountType": "クランプ式 & グロメット式",
+      "vesaStandard": "75×75 / 100×100 mm",
+      "weight": "—",
+      "highlights": [
+        {
+          "label": "対応サイズ",
+          "value": "17〜32インチ"
+        },
+        {
+          "label": "耐荷重",
+          "value": "9.0kg"
+        },
+        {
+          "label": "VESA",
+          "value": "75×75 / 100×100"
+        },
+        {
+          "label": "取付方式",
+          "value": "クランプ式 & グロメット式"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "対応モニター",
+          "rows": [
+            {
+              "label": "画面サイズ",
+              "value": "17〜32インチ"
+            },
+            {
+              "label": "耐荷重",
+              "value": "9.0kg"
+            },
+            {
+              "label": "VESA",
+              "value": "75×75 / 100×100 mm"
+            },
+            {
+              "label": "アーム数",
+              "value": "シングル (1画面)"
+            }
+          ]
+        },
+        {
+          "title": "設置 / 可動",
+          "rows": [
+            {
+              "label": "取付方式",
+              "value": "クランプ式 & グロメット式"
+            },
+            {
+              "label": "駆動方式",
+              "value": "ガススプリング式"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arm-sr-1048",
+      "rank": 1048,
+      "asin": "B07W3KK949",
+      "name": "HNDS6",
+      "brand": "HUANUO",
+      "tagline": "13〜32インチ対応・耐荷重2.0〜9.0kg・ガススプリング式",
+      "price": null,
+      "rating": 4.2,
+      "reviews": 842,
+      "image": "",
+      "connection": "クランプ式 & グロメット式",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B07W3KK949",
+      "supportedSize": "13〜32インチ",
+      "weightCapacity": "2.0〜9.0kg",
+      "armType": "デュアル (2画面)",
+      "springType": "ガススプリング式",
+      "mountType": "クランプ式 & グロメット式",
+      "vesaStandard": "75×75 / 100×100 mm",
+      "weight": "—",
+      "highlights": [
+        {
+          "label": "対応サイズ",
+          "value": "13〜32インチ"
+        },
+        {
+          "label": "耐荷重",
+          "value": "2.0〜9.0kg"
+        },
+        {
+          "label": "VESA",
+          "value": "75×75 / 100×100"
+        },
+        {
+          "label": "取付方式",
+          "value": "クランプ式 & グロメット式"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "対応モニター",
+          "rows": [
+            {
+              "label": "画面サイズ",
+              "value": "13〜32インチ"
+            },
+            {
+              "label": "耐荷重",
+              "value": "2.0〜9.0kg"
+            },
+            {
+              "label": "VESA",
+              "value": "75×75 / 100×100 mm"
+            },
+            {
+              "label": "アーム数",
+              "value": "デュアル (2画面)"
+            }
+          ]
+        },
+        {
+          "title": "設置 / 可動",
+          "rows": [
+            {
+              "label": "取付方式",
+              "value": "クランプ式 & グロメット式"
+            },
+            {
+              "label": "駆動方式",
+              "value": "ガススプリング式"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arm-sr-1049",
+      "rank": 1049,
+      "asin": "B089GPNM5V",
+      "name": "HNSS8",
+      "brand": "HUANUO",
+      "tagline": "17〜32インチ対応・耐荷重2.0〜9.0kg・ガススプリング式",
+      "price": null,
+      "rating": 4.2,
+      "reviews": 842,
+      "image": "",
+      "connection": "クランプ式 & グロメット式",
+      "purchaseUrl": "https://www.amazon.co.jp/dp/B089GPNM5V",
+      "supportedSize": "17〜32インチ",
+      "weightCapacity": "2.0〜9.0kg",
+      "armType": "シングル (1画面)",
+      "springType": "ガススプリング式",
+      "mountType": "クランプ式 & グロメット式",
+      "vesaStandard": "75×75 / 100×100 mm",
+      "weight": "—",
+      "highlights": [
+        {
+          "label": "対応サイズ",
+          "value": "17〜32インチ"
+        },
+        {
+          "label": "耐荷重",
+          "value": "2.0〜9.0kg"
+        },
+        {
+          "label": "VESA",
+          "value": "75×75 / 100×100"
+        },
+        {
+          "label": "取付方式",
+          "value": "クランプ式 & グロメット式"
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "対応モニター",
+          "rows": [
+            {
+              "label": "画面サイズ",
+              "value": "17〜32インチ"
+            },
+            {
+              "label": "耐荷重",
+              "value": "2.0〜9.0kg"
+            },
+            {
+              "label": "VESA",
+              "value": "75×75 / 100×100 mm"
+            },
+            {
+              "label": "アーム数",
+              "value": "シングル (1画面)"
+            }
+          ]
+        },
+        {
+          "title": "設置 / 可動",
+          "rows": [
+            {
+              "label": "取付方式",
+              "value": "クランプ式 & グロメット式"
+            },
+            {
+              "label": "駆動方式",
+              "value": "ガススプリング式"
+            },
+            {
+              "label": "重量",
+              "value": "—"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

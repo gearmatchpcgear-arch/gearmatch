@@ -1,0 +1,1089 @@
+{
+  "fetchedAt": "2026-08-14T14:52:26.563Z",
+  "bodies": [
+    {
+      "amazonRank": 1,
+      "asin": "B0C5JSHP7M",
+      "title": "Focusrite Scarlett Solo 第4世代 USBオーディオインターフェース ギタリスト、ボーカリスト、プロデューサー用 高忠実度 スタジオ品質録音 録音に必要なすべてのソフトウェア",
+      "rating": 4.5,
+      "reviews": 2622,
+      "price": 18490,
+      "image": "https://m.media-amazon.com/images/I/61wOuqJprgL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 2,
+      "asin": "B0CS6S8GBH",
+      "title": "オーディオテクニカ AT-UMX3 USB オーディオミキサー オーディオインターフェース 配信機材 DTM 音楽制作 USB Type-C スマホ/タブレット対応 PS4 PS5 【国内正規品】",
+      "rating": 4.1,
+      "reviews": 388,
+      "price": 19800,
+      "image": "https://m.media-amazon.com/images/I/61uXBAlEgAL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 3,
+      "asin": "B08Q1NJSBQ",
+      "title": "M-AUDIO M-Track Solo USB オーディオインターフェース | 録音、ライブ配信、ポッドキャストをクリアな音質で届けるXLR、ライン、DI入力。プロフェッショナル向けソフトウェア付属",
+      "rating": 4,
+      "reviews": 7593,
+      "price": 6600,
+      "image": "https://m.media-amazon.com/images/I/915NdoAXMoL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 4,
+      "asin": "B09VFDKDDM",
+      "title": "MOTU M2 2in 2out USBオーディオインターフェース 国内正規品 USB-DAC ゲーミング iPhone/iPad対応 歌枠配信 ギター接続 DAWソフト＆エフェクト付属",
+      "rating": 4.5,
+      "reviews": 1361,
+      "price": 25047,
+      "image": "https://m.media-amazon.com/images/I/811ZI+pQBKL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 5,
+      "asin": "B0815V2N4X",
+      "title": "MOTU M2 2in 2out USBオーディオインターフェース 国内正規品 USB-DAC ゲーミング iPhone/iPad対応 歌枠配信 ギター接続 DAWソフト＆エフェクト付属",
+      "rating": 4.4,
+      "reviews": 418,
+      "price": 35970,
+      "image": "https://m.media-amazon.com/images/I/511Ei9TIaBL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 6,
+      "asin": "B0CTJBGSNX",
+      "title": "ヤマハ YAMAHA ゲーム/配信用オーディオミキサー ゲームストリーミングミキサー ZG02",
+      "rating": 4.3,
+      "reviews": 196,
+      "price": 23555,
+      "image": "https://m.media-amazon.com/images/I/61ocBLG8wvL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 7,
+      "asin": "B0B4J522TB",
+      "title": "ZOOM(ズーム) AMS-22 超小型オーディオインターフェース | 2in2out,ループバック,スマホ接続,配信",
+      "rating": 4.1,
+      "reviews": 95,
+      "price": 9900,
+      "image": "https://m.media-amazon.com/images/I/61Q3p4swhnL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 8,
+      "asin": "B081BVF3DH",
+      "title": "RME USB オーディオインターフェイス Babyface Pro FS 【国内正規品】 銀",
+      "rating": 4.5,
+      "reviews": 167,
+      "price": 165000,
+      "image": "https://m.media-amazon.com/images/I/51MGLR3FZlL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 9,
+      "asin": "B07Q6P49TR",
+      "title": "Arturia アートリア 音楽制作ソフト付属 デュアル・オーディオ&MIDIインターフェイス MiniFuse 2 ホワイト",
+      "rating": 3.8,
+      "reviews": 20,
+      "price": 650,
+      "image": "https://m.media-amazon.com/images/I/41pkf1mO0qL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 10,
+      "asin": "B09HKBYXPV",
+      "title": "Arturia アートリア 音楽制作ソフト付属 デュアル・オーディオ&MIDIインターフェイス MiniFuse 2 ホワイト",
+      "rating": 4.4,
+      "reviews": 85,
+      "price": 17600,
+      "image": "https://m.media-amazon.com/images/I/61lvvIsfFXL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 11,
+      "asin": "B0H1W97B86",
+      "title": "Solid State Logic (SSL) ソリッド・ステート・ロジック/SSL2 MkⅡ オーディオインターフェース",
+      "rating": 4,
+      "reviews": 17,
+      "price": 6980,
+      "image": "https://m.media-amazon.com/images/I/61zTERrjpxL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 12,
+      "asin": "B0DJR86266",
+      "title": "Solid State Logic (SSL) ソリッド・ステート・ロジック/SSL2 MkⅡ オーディオインターフェース",
+      "rating": 4.3,
+      "reviews": 73,
+      "price": 36849,
+      "image": "https://m.media-amazon.com/images/I/615U-87g8DL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 13,
+      "asin": "B09WL44BK1",
+      "title": "ローランド Roland BRIDGE CAST/ゲーミングDACアンプ/オーディオインターフェース/配信/ゲーミングミキサー/オーディオミキサー/Mac/Windows/ブリッジキャスト/アイスホワイト/Ice White",
+      "rating": 4.1,
+      "reviews": 42,
+      "price": 42800,
+      "image": "https://m.media-amazon.com/images/I/61AqGZPZUcL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 14,
+      "asin": "B00EK1OTZC",
+      "title": "ローランド Roland BRIDGE CAST/ゲーミングDACアンプ/オーディオインターフェース/配信/ゲーミングミキサー/オーディオミキサー/Mac/Windows/ブリッジキャスト/アイスホワイト/Ice White",
+      "rating": 4.1,
+      "reviews": 17563,
+      "price": 7700,
+      "image": "https://m.media-amazon.com/images/I/61iou9KKssL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 15,
+      "asin": "B0CMCSH7HY",
+      "title": "ローランド Roland BRIDGE CAST/ゲーミングDACアンプ/オーディオインターフェース/配信/ゲーミングミキサー/オーディオミキサー/Mac/Windows/ブリッジキャスト/アイスホワイト/Ice White",
+      "rating": 4.4,
+      "reviews": 220,
+      "price": 37400,
+      "image": "https://m.media-amazon.com/images/I/71pPkjFXhlL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 16,
+      "asin": "B0FTLY42KJ",
+      "title": "ヤマハ YAMAHA USB3.1 オーディオインターフェース 32bit/192kHz 2イン/2アウト 音楽制作 レコーディング 配信 ループバック機能 URX22C",
+      "rating": 4.4,
+      "reviews": 24,
+      "price": 28600,
+      "image": "https://m.media-amazon.com/images/I/51USc3RAoXL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 19,
+      "asin": "B0FTLWGWLW",
+      "title": "ヤマハ YAMAHA USB2.0 オーディオインターフェース 24bit/192kHz 2イン/2アウト 音楽制作 レコーディング 配信 ループバック機能 ブラック UR12MK3 B",
+      "rating": 4.2,
+      "reviews": 14,
+      "price": 19800,
+      "image": "https://m.media-amazon.com/images/I/61HqSpW4k1L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 20,
+      "asin": "B0FTLSJBQH",
+      "title": "ヤマハ YAMAHA USB2.0 オーディオインターフェース 24bit/192kHz 2イン/2アウト 音楽制作 レコーディング 配信 ループバック機能 ブラック UR12MK3 B",
+      "rating": 4.5,
+      "reviews": 23,
+      "price": 16500,
+      "image": "https://m.media-amazon.com/images/I/61FazvD8mdL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 21,
+      "asin": "B017MVUAHM",
+      "title": "Steinberg スタインバーグ 2x2 USB2.0 24bit/192kHz オーディオインターフェース UR22mkII",
+      "rating": 4.3,
+      "reviews": 1143,
+      "price": 26600,
+      "image": "https://m.media-amazon.com/images/I/61VBRICdkuL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 22,
+      "asin": "B09WL53VGC",
+      "title": "BEHRINGER ベリンガー UCA222",
+      "rating": 4.7,
+      "reviews": 23,
+      "price": 42800,
+      "image": "https://m.media-amazon.com/images/I/71o7+fnsbfL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 23,
+      "asin": "B0023BYDHK",
+      "title": "BEHRINGER ベリンガー UCA222",
+      "rating": 4.2,
+      "reviews": 5866,
+      "price": 3256,
+      "image": "https://m.media-amazon.com/images/I/71kF4o1V2HL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 24,
+      "asin": "B0FX364R93",
+      "title": "ZOOM(ズーム) P4 Next ポッドキャストレコーダー ブラック４XLR入力 | AIノイズリダクション",
+      "rating": 4.6,
+      "reviews": 88,
+      "price": 19080,
+      "image": "https://m.media-amazon.com/images/I/61awvfS7m0L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 25,
+      "asin": "B071GYB7DT",
+      "title": "ローランド USBオーディオ・インターフェース Rubix24",
+      "rating": 4.2,
+      "reviews": 317,
+      "price": 18091,
+      "image": "https://m.media-amazon.com/images/I/7149LgQi+bL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 26,
+      "asin": "B01ET9GCGS",
+      "title": "ベリンガー 18入力20出力 オーディオインターフェイス UMC1820 U-PHORIA",
+      "rating": 4.5,
+      "reviews": 542,
+      "price": 32545,
+      "image": "https://m.media-amazon.com/images/I/51NrnUCDkIL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 27,
+      "asin": "B0F2J1HPB6",
+      "title": "MAONO ゲーミングオーディオミキサー オーディオインターフェース ミュート ボイスチェンジャー リバーブ PC/スマホ/マイク/ヘッドホン対応 オーディオミキサー ゲーム用 配信 ポッドキャスト 実況 XLR接続 RGB機能 ポータブル一 ミキサー",
+      "rating": 4.2,
+      "reviews": 359,
+      "price": 9999,
+      "image": "https://m.media-amazon.com/images/I/613n5TQ0FLL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 28,
+      "asin": "B0GK2HV2XZ",
+      "title": "Shure シュア オーディオインターフェース MVX2U（第二世代）ヘッドホン出力付きXLR-USB変換アダプター USB-C Mfi認証 iPhone iPad Mac Windows iOS Android DSP オートレベルモード リアルタイムデノイザー 60dBゲイン 48Vファンタム電源【国内正規品/メーカー2年保証】",
+      "rating": 4.7,
+      "reviews": 53,
+      "price": 21900,
+      "image": "https://m.media-amazon.com/images/I/41Eplvd1F8L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 29,
+      "asin": "B000KW2YEI",
+      "title": "BEHRINGER ベリンガー UCA202",
+      "rating": 4.3,
+      "reviews": 3871,
+      "price": 4400,
+      "image": "https://m.media-amazon.com/images/I/51MoUua7hQL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 30,
+      "asin": "B00UV71Y4I",
+      "title": "IK Multimedia iRig 2 iRigシリーズ 7.2*3.9*2.1cm 国内正規品",
+      "rating": 4.1,
+      "reviews": 533,
+      "price": 6910,
+      "image": "https://m.media-amazon.com/images/I/51irtFCSMzL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 51,
+      "asin": "B0CCDPXW4K",
+      "title": "BOMGE ミニ 2 チャンネル USB オーディオ インターフェイス、レコーディング、ストリーミング、ポッドキャスティング用、XLR/48V ファンタム電源搭載、ギタリスト、ボーカリスト、ポッドキャスター、プロデューサー向けのスタジオ品質のオーディオ インターフェイス",
+      "rating": 3.8,
+      "reviews": 574,
+      "price": 4290,
+      "image": "https://m.media-amazon.com/images/I/51IDMd0uB-L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 52,
+      "asin": "B0DJRC6SCC",
+      "title": "Solid State Logic (SSL) ソリッド・ステート・ロジック/SSL2+MKⅡ オーディオインターフェース",
+      "rating": 4.5,
+      "reviews": 108,
+      "price": 47212,
+      "image": "https://m.media-amazon.com/images/I/715fWSjxdEL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 53,
+      "asin": "B08SBSN88X",
+      "title": "Audient audient 「iD4mkII」2in/2out USB3.0対応オーディオ・インターフェース[国内正規品]",
+      "rating": 4.4,
+      "reviews": 1440,
+      "price": 33506,
+      "image": "https://m.media-amazon.com/images/I/61ahr5MaWRL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 54,
+      "asin": "B0FB97YBSD",
+      "title": "Cubilux CB5 USB録音用オーディオインターフェース – ストリーミング・ポッドキャスト対応USBオーディオキャプチャ サウンドカード、ステレオマイク入力・ライン入力・ライン出力・ヘッドホン端子搭載、Windows/Mac対応",
+      "rating": 4,
+      "reviews": 12,
+      "price": 4290,
+      "image": "https://m.media-amazon.com/images/I/61WdwmzWfpL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 56,
+      "asin": "B0CSCRF8L1",
+      "title": "ローランド Roland BRIDGE CAST X/HDMIビデオキャプチャ/ゲーミングDACアンプ/オーディオインターフェース/配信/ゲーミングミキサー/Mac/Windows / 2PC配信 /ブリッジキャストエックス",
+      "rating": 4.3,
+      "reviews": 55,
+      "price": 68200,
+      "image": "https://m.media-amazon.com/images/I/71RVf00wd-L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 57,
+      "asin": "B00B7DN59W",
+      "title": "TASCAM オーディオインターフェイス DSPミキサー搭載 96/192kHz対応 USB2.0 US-366",
+      "rating": 4,
+      "reviews": 189,
+      "price": 9599,
+      "image": "https://m.media-amazon.com/images/I/71Ix+qexNmL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 58,
+      "asin": "B0F1N24BJW",
+      "title": "【国内正規品】RODE Microphones （ロードマイクロフォンズ ）ロードキャスタープロ II ブラック オーディオミキサー RCPII",
+      "rating": 4.1,
+      "reviews": 525,
+      "price": 9599,
+      "image": "https://m.media-amazon.com/images/I/71ZKe9CpMFL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 59,
+      "asin": "B0B17V8NGX",
+      "title": "【国内正規品】RODE Microphones （ロードマイクロフォンズ ）ロードキャスタープロ II ブラック オーディオミキサー RCPII",
+      "rating": 4.5,
+      "reviews": 1204,
+      "price": 116317,
+      "image": "https://m.media-amazon.com/images/I/61gXvIhWUUL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 60,
+      "asin": "B098DDQ6PT",
+      "title": "PreSonus Revelator io24 USB-C 互換オーディオインターフェース 統合ループバックミキサーとエフェクト付き ストリーミング、ポッドキャスティングなどに",
+      "rating": 4.5,
+      "reviews": 304,
+      "price": 31575,
+      "image": "https://m.media-amazon.com/images/I/81mQNtjEMnL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 61,
+      "asin": "B0FX993WN4",
+      "title": "NearStream AMIX20U オーディオインターフェース USB オーディオミキサー ゲーミングミキサー PC/スマホ/タブレット RGBライティング XLR/6.35mmコンボ入力 AUX Bluetooth マイク/ヘッドホン/楽器用 ノイズ低減 ループバック機能 ボイスチェンジャー カスタマイズ効果音 ライブ配信/ゲーム実況/ポッドキャスト/音楽制作用 小型軽量",
+      "rating": 4,
+      "reviews": 7,
+      "price": 12980,
+      "image": "https://m.media-amazon.com/images/I/71HK7zeBycL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 62,
+      "asin": "B0G1Q9RD8H",
+      "title": "Fender Quantum LT2 オーディオインターフェイス USB-C フェンダー | またはプロデューサー。 使いやすいソフトウェア、Fender Studioアプリ、アンプ、FXパックが含まれており、スタジオ品質の録音を作成できます。 PC/Mac。",
+      "rating": 4,
+      "reviews": 28,
+      "price": 17986,
+      "image": "https://m.media-amazon.com/images/I/81ZOJP7QiUL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 63,
+      "asin": "B0BVR1SYL2",
+      "title": "ZOOM(ズーム)USB オーディオインターフェース UAC-232 32bitフロート 録音 ゲイン調整不要 2イン2アウト | 配信,DTM, スマホ対応,USB-C,国内正規品",
+      "rating": 4.4,
+      "reviews": 39,
+      "price": 24135,
+      "image": "https://m.media-amazon.com/images/I/61ug9IFVIPL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 64,
+      "asin": "B0D3HTPG6K",
+      "title": "LEWITT CONNECT 2 USB オーディオミキサー オーディオインターフェース 薄型軽量 配信機材 DTM 音楽制作 ヘッドホン出力 USB Type-C XLR TRS対応 | 【国内正規品】 2入力2出力 自動セットアップ ループバック マイク入力 ライン入力 ヘッドホン出力 低遅延モニタリング 宅録 配信 Mac対応 Windows対応 ボーカル録音 ポッドキャスト ホームスタジオ 持ち運び",
+      "rating": 4.6,
+      "reviews": 16,
+      "price": 25140,
+      "image": "https://m.media-amazon.com/images/I/71CWFmMRs-L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 65,
+      "asin": "B0FQNX9GGV",
+      "title": "ESI GIGAPORT eX USB 3.1 Type-C接続24bit/192kHz対応 USBモバイル・オーディオインターフェース",
+      "rating": 5,
+      "reviews": 1,
+      "price": 11800,
+      "image": "https://m.media-amazon.com/images/I/61EbAMjjv5L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 66,
+      "asin": "B08CN99WHM",
+      "title": "ESI GIGAPORT eX USB 3.1 Type-C接続24bit/192kHz対応 USBモバイル・オーディオインターフェース",
+      "rating": 3.8,
+      "reviews": 8,
+      "price": 34651,
+      "image": "https://m.media-amazon.com/images/I/51zs07DGv2L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 67,
+      "asin": "B0FX1R7ZDK",
+      "title": "BOMGE U204 USB オーディオインターフェイス PC コンピュータ音楽録音用 2x2 ギターオーディオインターフェイス Mac 用 32Bit/192kHz ポッドキャストストリーミング ボーカリストプロデューサー用 48V ファントム付き",
+      "rating": 4.2,
+      "reviews": 34,
+      "price": 109714,
+      "image": "https://m.media-amazon.com/images/I/71sZi+Sbp-L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 68,
+      "asin": "B0CSK8TQQQ",
+      "title": "BOMGE U204 USB オーディオインターフェイス PC コンピュータ音楽録音用 2x2 ギターオーディオインターフェイス Mac 用 32Bit/192kHz ポッドキャストストリーミング ボーカリストプロデューサー用 48V ファントム付き",
+      "rating": 3.7,
+      "reviews": 76,
+      "price": 7290,
+      "image": "https://m.media-amazon.com/images/I/51rSTCwTmcL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 69,
+      "asin": "B0G12Z3NQP",
+      "title": "BONKYO カラオケセット家庭用 DJ ミキサー セット F998 ライブ サウンドカード 男声 女声 ボイスチェンジャー/マイク スタンド/オーディオミキサー 配信機材 実況者や家庭用カラオケに適用 日本語説明書付き",
+      "rating": 5,
+      "reviews": 1,
+      "price": 13800,
+      "image": "https://m.media-amazon.com/images/I/61GAneuVefL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 70,
+      "asin": "B0C6KGC7WJ",
+      "title": "BONKYO カラオケセット家庭用 DJ ミキサー セット F998 ライブ サウンドカード 男声 女声 ボイスチェンジャー/マイク スタンド/オーディオミキサー 配信機材 実況者や家庭用カラオケに適用 日本語説明書付き",
+      "rating": 3.4,
+      "reviews": 31,
+      "price": 5500,
+      "image": "https://m.media-amazon.com/images/I/71uNa10QUdL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 71,
+      "asin": "B0GHMQM3GW",
+      "title": "ヤマハ YAMAHA USB-C オーディオインターフェイス 32bit/192kHz 6イン/4アウト HDMI搭載 URX44V W",
+      "rating": 4,
+      "reviews": 1,
+      "price": 114899,
+      "image": "https://m.media-amazon.com/images/I/51GF29rfShL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 72,
+      "asin": "B0B79FXP2J",
+      "title": "co2CREA 収納ケース 互換品 ZOOM ズーム AMS-24/AMS-44 オーディオ・インターフェース（ケースのみ） | 硬質EVA素材 衝撃吸収 防塵防滴 軽量コンパクト",
+      "rating": 4.2,
+      "reviews": 27,
+      "price": 2299,
+      "image": "https://m.media-amazon.com/images/I/71wPUh+P5XL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 73,
+      "asin": "B0GX9S6V36",
+      "title": "LEWITT RAY と CONNECT 2 のセット品",
+      "rating": 4.7,
+      "reviews": 55,
+      "price": 75834,
+      "image": "https://m.media-amazon.com/images/I/61beBEQDp8L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 74,
+      "asin": "B00GRKXRIE",
+      "title": "Ueteto ギター用オーディオインターフェース | ポータブル内蔵録音サウンドカード ライブストリーミング iPhone iPad Android対応 ドライバー不要",
+      "rating": 4.7,
+      "reviews": 55,
+      "price": 57800,
+      "image": "https://m.media-amazon.com/images/I/61A5FZuKj5L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 75,
+      "asin": "B0D8P7SXYJ",
+      "title": "Ueteto ギター用オーディオインターフェース | ポータブル内蔵録音サウンドカード ライブストリーミング iPhone iPad Android対応 ドライバー不要",
+      "rating": 4.2,
+      "reviews": 418,
+      "price": 4930,
+      "image": "https://m.media-amazon.com/images/I/61EM1cTJEYL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 76,
+      "asin": "B08D93XF5F",
+      "title": "MOTU USB-Cオーディオ・インターフェース (M2) [並行輸入品]",
+      "rating": 4.6,
+      "reviews": 87,
+      "price": 40198,
+      "image": "https://m.media-amazon.com/images/I/51YMO0pVmlL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 77,
+      "asin": "B0CF2V1JNC",
+      "title": "Maker hart MixMate 4チャンネルミュージックオーディオミキサー",
+      "rating": 4,
+      "reviews": 438,
+      "price": 20800,
+      "image": "https://m.media-amazon.com/images/I/51PsXaszFYL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 78,
+      "asin": "B0BRL27ZYJ",
+      "title": "Maker hart MixMate 4チャンネルミュージックオーディオミキサー",
+      "rating": 5,
+      "reviews": 2,
+      "price": 6500,
+      "image": "https://m.media-amazon.com/images/I/71cJtTklmWL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 79,
+      "asin": "B0CZJ4M89S",
+      "title": "Lewitt Connect 2オーディオインターフェース",
+      "rating": 4.5,
+      "reviews": 54,
+      "price": 31800,
+      "image": "https://m.media-amazon.com/images/I/61sXE-SHbLL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 80,
+      "asin": "B0D7YFNMRG",
+      "title": "Focusrite Scarlett 18i20 (4th Gen) 18in 20out オーディオインターフェイス 第4世代 フォーカスライト | 26-In 26-Out、8マイクプリアンプ、2つのHi-Z入力、デュアルADAT、S/PDIF、MIDI、ワードクロック、トークバックマイク、オートゲイン、クリップセーフ",
+      "rating": 4.6,
+      "reviews": 95,
+      "price": 93000,
+      "image": "https://m.media-amazon.com/images/I/61sbXhVv8dL._AC_SL1500_.jpg"
+    }
+  ],
+  "excluded": [
+    {
+      "amazonRank": 17,
+      "asin": "B07QR6Z1JB",
+      "title": "ACEIRMC INMP441 全指向性マイク I2Sインターフェース デジタル出力センサーモジュール (6個)",
+      "rating": 4.6,
+      "reviews": 28831,
+      "price": 19700,
+      "image": "https://m.media-amazon.com/images/I/613veRuWtmL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 18,
+      "asin": "B0963PHKS7",
+      "title": "ACEIRMC INMP441 全指向性マイク I2Sインターフェース デジタル出力センサーモジュール (6個)",
+      "rating": 4.2,
+      "reviews": 25,
+      "price": 2699,
+      "image": "https://m.media-amazon.com/images/I/71pRA4LqU4S._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 55,
+      "asin": "B0BN6PCY9Q",
+      "title": "Sony XLR-H1 トップハンドルユニット FX3 & FX30用 (バルクパッケージ)",
+      "rating": 4.2,
+      "reviews": 26,
+      "price": 37300,
+      "image": "https://m.media-amazon.com/images/I/4104g-Qpa1L._AC_SL1500_.jpg"
+    }
+  ],
+  "raw": [
+    {
+      "amazonRank": 1,
+      "asin": "B0C5JSHP7M",
+      "title": "Focusrite Scarlett Solo 第4世代 USBオーディオインターフェース ギタリスト、ボーカリスト、プロデューサー用 高忠実度 スタジオ品質録音 録音に必要なすべてのソフトウェア",
+      "rating": 4.5,
+      "reviews": 2622,
+      "price": 18490,
+      "image": "https://m.media-amazon.com/images/I/61wOuqJprgL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 2,
+      "asin": "B0CS6S8GBH",
+      "title": "オーディオテクニカ AT-UMX3 USB オーディオミキサー オーディオインターフェース 配信機材 DTM 音楽制作 USB Type-C スマホ/タブレット対応 PS4 PS5 【国内正規品】",
+      "rating": 4.1,
+      "reviews": 388,
+      "price": 19800,
+      "image": "https://m.media-amazon.com/images/I/61uXBAlEgAL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 3,
+      "asin": "B08Q1NJSBQ",
+      "title": "M-AUDIO M-Track Solo USB オーディオインターフェース | 録音、ライブ配信、ポッドキャストをクリアな音質で届けるXLR、ライン、DI入力。プロフェッショナル向けソフトウェア付属",
+      "rating": 4,
+      "reviews": 7593,
+      "price": 6600,
+      "image": "https://m.media-amazon.com/images/I/915NdoAXMoL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 4,
+      "asin": "B09VFDKDDM",
+      "title": "MOTU M2 2in 2out USBオーディオインターフェース 国内正規品 USB-DAC ゲーミング iPhone/iPad対応 歌枠配信 ギター接続 DAWソフト＆エフェクト付属",
+      "rating": 4.5,
+      "reviews": 1361,
+      "price": 25047,
+      "image": "https://m.media-amazon.com/images/I/811ZI+pQBKL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 5,
+      "asin": "B0815V2N4X",
+      "title": "MOTU M2 2in 2out USBオーディオインターフェース 国内正規品 USB-DAC ゲーミング iPhone/iPad対応 歌枠配信 ギター接続 DAWソフト＆エフェクト付属",
+      "rating": 4.4,
+      "reviews": 418,
+      "price": 35970,
+      "image": "https://m.media-amazon.com/images/I/511Ei9TIaBL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 6,
+      "asin": "B0CTJBGSNX",
+      "title": "ヤマハ YAMAHA ゲーム/配信用オーディオミキサー ゲームストリーミングミキサー ZG02",
+      "rating": 4.3,
+      "reviews": 196,
+      "price": 23555,
+      "image": "https://m.media-amazon.com/images/I/61ocBLG8wvL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 7,
+      "asin": "B0B4J522TB",
+      "title": "ZOOM(ズーム) AMS-22 超小型オーディオインターフェース | 2in2out,ループバック,スマホ接続,配信",
+      "rating": 4.1,
+      "reviews": 95,
+      "price": 9900,
+      "image": "https://m.media-amazon.com/images/I/61Q3p4swhnL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 8,
+      "asin": "B081BVF3DH",
+      "title": "RME USB オーディオインターフェイス Babyface Pro FS 【国内正規品】 銀",
+      "rating": 4.5,
+      "reviews": 167,
+      "price": 165000,
+      "image": "https://m.media-amazon.com/images/I/51MGLR3FZlL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 9,
+      "asin": "B07Q6P49TR",
+      "title": "Arturia アートリア 音楽制作ソフト付属 デュアル・オーディオ&MIDIインターフェイス MiniFuse 2 ホワイト",
+      "rating": 3.8,
+      "reviews": 20,
+      "price": 650,
+      "image": "https://m.media-amazon.com/images/I/41pkf1mO0qL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 10,
+      "asin": "B09HKBYXPV",
+      "title": "Arturia アートリア 音楽制作ソフト付属 デュアル・オーディオ&MIDIインターフェイス MiniFuse 2 ホワイト",
+      "rating": 4.4,
+      "reviews": 85,
+      "price": 17600,
+      "image": "https://m.media-amazon.com/images/I/61lvvIsfFXL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 11,
+      "asin": "B0H1W97B86",
+      "title": "Solid State Logic (SSL) ソリッド・ステート・ロジック/SSL2 MkⅡ オーディオインターフェース",
+      "rating": 4,
+      "reviews": 17,
+      "price": 6980,
+      "image": "https://m.media-amazon.com/images/I/61zTERrjpxL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 12,
+      "asin": "B0DJR86266",
+      "title": "Solid State Logic (SSL) ソリッド・ステート・ロジック/SSL2 MkⅡ オーディオインターフェース",
+      "rating": 4.3,
+      "reviews": 73,
+      "price": 36849,
+      "image": "https://m.media-amazon.com/images/I/615U-87g8DL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 13,
+      "asin": "B09WL44BK1",
+      "title": "ローランド Roland BRIDGE CAST/ゲーミングDACアンプ/オーディオインターフェース/配信/ゲーミングミキサー/オーディオミキサー/Mac/Windows/ブリッジキャスト/アイスホワイト/Ice White",
+      "rating": 4.1,
+      "reviews": 42,
+      "price": 42800,
+      "image": "https://m.media-amazon.com/images/I/61AqGZPZUcL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 14,
+      "asin": "B00EK1OTZC",
+      "title": "ローランド Roland BRIDGE CAST/ゲーミングDACアンプ/オーディオインターフェース/配信/ゲーミングミキサー/オーディオミキサー/Mac/Windows/ブリッジキャスト/アイスホワイト/Ice White",
+      "rating": 4.1,
+      "reviews": 17563,
+      "price": 7700,
+      "image": "https://m.media-amazon.com/images/I/61iou9KKssL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 15,
+      "asin": "B0CMCSH7HY",
+      "title": "ローランド Roland BRIDGE CAST/ゲーミングDACアンプ/オーディオインターフェース/配信/ゲーミングミキサー/オーディオミキサー/Mac/Windows/ブリッジキャスト/アイスホワイト/Ice White",
+      "rating": 4.4,
+      "reviews": 220,
+      "price": 37400,
+      "image": "https://m.media-amazon.com/images/I/71pPkjFXhlL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 16,
+      "asin": "B0FTLY42KJ",
+      "title": "ヤマハ YAMAHA USB3.1 オーディオインターフェース 32bit/192kHz 2イン/2アウト 音楽制作 レコーディング 配信 ループバック機能 URX22C",
+      "rating": 4.4,
+      "reviews": 24,
+      "price": 28600,
+      "image": "https://m.media-amazon.com/images/I/51USc3RAoXL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 17,
+      "asin": "B07QR6Z1JB",
+      "title": "ACEIRMC INMP441 全指向性マイク I2Sインターフェース デジタル出力センサーモジュール (6個)",
+      "rating": 4.6,
+      "reviews": 28831,
+      "price": 19700,
+      "image": "https://m.media-amazon.com/images/I/613veRuWtmL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 18,
+      "asin": "B0963PHKS7",
+      "title": "ACEIRMC INMP441 全指向性マイク I2Sインターフェース デジタル出力センサーモジュール (6個)",
+      "rating": 4.2,
+      "reviews": 25,
+      "price": 2699,
+      "image": "https://m.media-amazon.com/images/I/71pRA4LqU4S._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 19,
+      "asin": "B0FTLWGWLW",
+      "title": "ヤマハ YAMAHA USB2.0 オーディオインターフェース 24bit/192kHz 2イン/2アウト 音楽制作 レコーディング 配信 ループバック機能 ブラック UR12MK3 B",
+      "rating": 4.2,
+      "reviews": 14,
+      "price": 19800,
+      "image": "https://m.media-amazon.com/images/I/61HqSpW4k1L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 20,
+      "asin": "B0FTLSJBQH",
+      "title": "ヤマハ YAMAHA USB2.0 オーディオインターフェース 24bit/192kHz 2イン/2アウト 音楽制作 レコーディング 配信 ループバック機能 ブラック UR12MK3 B",
+      "rating": 4.5,
+      "reviews": 23,
+      "price": 16500,
+      "image": "https://m.media-amazon.com/images/I/61FazvD8mdL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 21,
+      "asin": "B017MVUAHM",
+      "title": "Steinberg スタインバーグ 2x2 USB2.0 24bit/192kHz オーディオインターフェース UR22mkII",
+      "rating": 4.3,
+      "reviews": 1143,
+      "price": 26600,
+      "image": "https://m.media-amazon.com/images/I/61VBRICdkuL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 22,
+      "asin": "B09WL53VGC",
+      "title": "BEHRINGER ベリンガー UCA222",
+      "rating": 4.7,
+      "reviews": 23,
+      "price": 42800,
+      "image": "https://m.media-amazon.com/images/I/71o7+fnsbfL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 23,
+      "asin": "B0023BYDHK",
+      "title": "BEHRINGER ベリンガー UCA222",
+      "rating": 4.2,
+      "reviews": 5866,
+      "price": 3256,
+      "image": "https://m.media-amazon.com/images/I/71kF4o1V2HL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 24,
+      "asin": "B0FX364R93",
+      "title": "ZOOM(ズーム) P4 Next ポッドキャストレコーダー ブラック４XLR入力 | AIノイズリダクション",
+      "rating": 4.6,
+      "reviews": 88,
+      "price": 19080,
+      "image": "https://m.media-amazon.com/images/I/61awvfS7m0L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 25,
+      "asin": "B071GYB7DT",
+      "title": "ローランド USBオーディオ・インターフェース Rubix24",
+      "rating": 4.2,
+      "reviews": 317,
+      "price": 18091,
+      "image": "https://m.media-amazon.com/images/I/7149LgQi+bL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 26,
+      "asin": "B01ET9GCGS",
+      "title": "ベリンガー 18入力20出力 オーディオインターフェイス UMC1820 U-PHORIA",
+      "rating": 4.5,
+      "reviews": 542,
+      "price": 32545,
+      "image": "https://m.media-amazon.com/images/I/51NrnUCDkIL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 27,
+      "asin": "B0F2J1HPB6",
+      "title": "MAONO ゲーミングオーディオミキサー オーディオインターフェース ミュート ボイスチェンジャー リバーブ PC/スマホ/マイク/ヘッドホン対応 オーディオミキサー ゲーム用 配信 ポッドキャスト 実況 XLR接続 RGB機能 ポータブル一 ミキサー",
+      "rating": 4.2,
+      "reviews": 359,
+      "price": 9999,
+      "image": "https://m.media-amazon.com/images/I/613n5TQ0FLL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 28,
+      "asin": "B0GK2HV2XZ",
+      "title": "Shure シュア オーディオインターフェース MVX2U（第二世代）ヘッドホン出力付きXLR-USB変換アダプター USB-C Mfi認証 iPhone iPad Mac Windows iOS Android DSP オートレベルモード リアルタイムデノイザー 60dBゲイン 48Vファンタム電源【国内正規品/メーカー2年保証】",
+      "rating": 4.7,
+      "reviews": 53,
+      "price": 21900,
+      "image": "https://m.media-amazon.com/images/I/41Eplvd1F8L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 29,
+      "asin": "B000KW2YEI",
+      "title": "BEHRINGER ベリンガー UCA202",
+      "rating": 4.3,
+      "reviews": 3871,
+      "price": 4400,
+      "image": "https://m.media-amazon.com/images/I/51MoUua7hQL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 30,
+      "asin": "B00UV71Y4I",
+      "title": "IK Multimedia iRig 2 iRigシリーズ 7.2*3.9*2.1cm 国内正規品",
+      "rating": 4.1,
+      "reviews": 533,
+      "price": 6910,
+      "image": "https://m.media-amazon.com/images/I/51irtFCSMzL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 51,
+      "asin": "B0CCDPXW4K",
+      "title": "BOMGE ミニ 2 チャンネル USB オーディオ インターフェイス、レコーディング、ストリーミング、ポッドキャスティング用、XLR/48V ファンタム電源搭載、ギタリスト、ボーカリスト、ポッドキャスター、プロデューサー向けのスタジオ品質のオーディオ インターフェイス",
+      "rating": 3.8,
+      "reviews": 574,
+      "price": 4290,
+      "image": "https://m.media-amazon.com/images/I/51IDMd0uB-L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 52,
+      "asin": "B0DJRC6SCC",
+      "title": "Solid State Logic (SSL) ソリッド・ステート・ロジック/SSL2+MKⅡ オーディオインターフェース",
+      "rating": 4.5,
+      "reviews": 108,
+      "price": 47212,
+      "image": "https://m.media-amazon.com/images/I/715fWSjxdEL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 53,
+      "asin": "B08SBSN88X",
+      "title": "Audient audient 「iD4mkII」2in/2out USB3.0対応オーディオ・インターフェース[国内正規品]",
+      "rating": 4.4,
+      "reviews": 1440,
+      "price": 33506,
+      "image": "https://m.media-amazon.com/images/I/61ahr5MaWRL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 54,
+      "asin": "B0FB97YBSD",
+      "title": "Cubilux CB5 USB録音用オーディオインターフェース – ストリーミング・ポッドキャスト対応USBオーディオキャプチャ サウンドカード、ステレオマイク入力・ライン入力・ライン出力・ヘッドホン端子搭載、Windows/Mac対応",
+      "rating": 4,
+      "reviews": 12,
+      "price": 4290,
+      "image": "https://m.media-amazon.com/images/I/61WdwmzWfpL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 55,
+      "asin": "B0BN6PCY9Q",
+      "title": "Sony XLR-H1 トップハンドルユニット FX3 & FX30用 (バルクパッケージ)",
+      "rating": 4.2,
+      "reviews": 26,
+      "price": 37300,
+      "image": "https://m.media-amazon.com/images/I/4104g-Qpa1L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 56,
+      "asin": "B0CSCRF8L1",
+      "title": "ローランド Roland BRIDGE CAST X/HDMIビデオキャプチャ/ゲーミングDACアンプ/オーディオインターフェース/配信/ゲーミングミキサー/Mac/Windows / 2PC配信 /ブリッジキャストエックス",
+      "rating": 4.3,
+      "reviews": 55,
+      "price": 68200,
+      "image": "https://m.media-amazon.com/images/I/71RVf00wd-L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 57,
+      "asin": "B00B7DN59W",
+      "title": "TASCAM オーディオインターフェイス DSPミキサー搭載 96/192kHz対応 USB2.0 US-366",
+      "rating": 4,
+      "reviews": 189,
+      "price": 9599,
+      "image": "https://m.media-amazon.com/images/I/71Ix+qexNmL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 58,
+      "asin": "B0F1N24BJW",
+      "title": "【国内正規品】RODE Microphones （ロードマイクロフォンズ ）ロードキャスタープロ II ブラック オーディオミキサー RCPII",
+      "rating": 4.1,
+      "reviews": 525,
+      "price": 9599,
+      "image": "https://m.media-amazon.com/images/I/71ZKe9CpMFL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 59,
+      "asin": "B0B17V8NGX",
+      "title": "【国内正規品】RODE Microphones （ロードマイクロフォンズ ）ロードキャスタープロ II ブラック オーディオミキサー RCPII",
+      "rating": 4.5,
+      "reviews": 1204,
+      "price": 116317,
+      "image": "https://m.media-amazon.com/images/I/61gXvIhWUUL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 60,
+      "asin": "B098DDQ6PT",
+      "title": "PreSonus Revelator io24 USB-C 互換オーディオインターフェース 統合ループバックミキサーとエフェクト付き ストリーミング、ポッドキャスティングなどに",
+      "rating": 4.5,
+      "reviews": 304,
+      "price": 31575,
+      "image": "https://m.media-amazon.com/images/I/81mQNtjEMnL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 61,
+      "asin": "B0FX993WN4",
+      "title": "NearStream AMIX20U オーディオインターフェース USB オーディオミキサー ゲーミングミキサー PC/スマホ/タブレット RGBライティング XLR/6.35mmコンボ入力 AUX Bluetooth マイク/ヘッドホン/楽器用 ノイズ低減 ループバック機能 ボイスチェンジャー カスタマイズ効果音 ライブ配信/ゲーム実況/ポッドキャスト/音楽制作用 小型軽量",
+      "rating": 4,
+      "reviews": 7,
+      "price": 12980,
+      "image": "https://m.media-amazon.com/images/I/71HK7zeBycL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 62,
+      "asin": "B0G1Q9RD8H",
+      "title": "Fender Quantum LT2 オーディオインターフェイス USB-C フェンダー | またはプロデューサー。 使いやすいソフトウェア、Fender Studioアプリ、アンプ、FXパックが含まれており、スタジオ品質の録音を作成できます。 PC/Mac。",
+      "rating": 4,
+      "reviews": 28,
+      "price": 17986,
+      "image": "https://m.media-amazon.com/images/I/81ZOJP7QiUL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 63,
+      "asin": "B0BVR1SYL2",
+      "title": "ZOOM(ズーム)USB オーディオインターフェース UAC-232 32bitフロート 録音 ゲイン調整不要 2イン2アウト | 配信,DTM, スマホ対応,USB-C,国内正規品",
+      "rating": 4.4,
+      "reviews": 39,
+      "price": 24135,
+      "image": "https://m.media-amazon.com/images/I/61ug9IFVIPL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 64,
+      "asin": "B0D3HTPG6K",
+      "title": "LEWITT CONNECT 2 USB オーディオミキサー オーディオインターフェース 薄型軽量 配信機材 DTM 音楽制作 ヘッドホン出力 USB Type-C XLR TRS対応 | 【国内正規品】 2入力2出力 自動セットアップ ループバック マイク入力 ライン入力 ヘッドホン出力 低遅延モニタリング 宅録 配信 Mac対応 Windows対応 ボーカル録音 ポッドキャスト ホームスタジオ 持ち運び",
+      "rating": 4.6,
+      "reviews": 16,
+      "price": 25140,
+      "image": "https://m.media-amazon.com/images/I/71CWFmMRs-L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 65,
+      "asin": "B0FQNX9GGV",
+      "title": "ESI GIGAPORT eX USB 3.1 Type-C接続24bit/192kHz対応 USBモバイル・オーディオインターフェース",
+      "rating": 5,
+      "reviews": 1,
+      "price": 11800,
+      "image": "https://m.media-amazon.com/images/I/61EbAMjjv5L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 66,
+      "asin": "B08CN99WHM",
+      "title": "ESI GIGAPORT eX USB 3.1 Type-C接続24bit/192kHz対応 USBモバイル・オーディオインターフェース",
+      "rating": 3.8,
+      "reviews": 8,
+      "price": 34651,
+      "image": "https://m.media-amazon.com/images/I/51zs07DGv2L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 67,
+      "asin": "B0FX1R7ZDK",
+      "title": "BOMGE U204 USB オーディオインターフェイス PC コンピュータ音楽録音用 2x2 ギターオーディオインターフェイス Mac 用 32Bit/192kHz ポッドキャストストリーミング ボーカリストプロデューサー用 48V ファントム付き",
+      "rating": 4.2,
+      "reviews": 34,
+      "price": 109714,
+      "image": "https://m.media-amazon.com/images/I/71sZi+Sbp-L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 68,
+      "asin": "B0CSK8TQQQ",
+      "title": "BOMGE U204 USB オーディオインターフェイス PC コンピュータ音楽録音用 2x2 ギターオーディオインターフェイス Mac 用 32Bit/192kHz ポッドキャストストリーミング ボーカリストプロデューサー用 48V ファントム付き",
+      "rating": 3.7,
+      "reviews": 76,
+      "price": 7290,
+      "image": "https://m.media-amazon.com/images/I/51rSTCwTmcL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 69,
+      "asin": "B0G12Z3NQP",
+      "title": "BONKYO カラオケセット家庭用 DJ ミキサー セット F998 ライブ サウンドカード 男声 女声 ボイスチェンジャー/マイク スタンド/オーディオミキサー 配信機材 実況者や家庭用カラオケに適用 日本語説明書付き",
+      "rating": 5,
+      "reviews": 1,
+      "price": 13800,
+      "image": "https://m.media-amazon.com/images/I/61GAneuVefL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 70,
+      "asin": "B0C6KGC7WJ",
+      "title": "BONKYO カラオケセット家庭用 DJ ミキサー セット F998 ライブ サウンドカード 男声 女声 ボイスチェンジャー/マイク スタンド/オーディオミキサー 配信機材 実況者や家庭用カラオケに適用 日本語説明書付き",
+      "rating": 3.4,
+      "reviews": 31,
+      "price": 5500,
+      "image": "https://m.media-amazon.com/images/I/71uNa10QUdL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 71,
+      "asin": "B0GHMQM3GW",
+      "title": "ヤマハ YAMAHA USB-C オーディオインターフェイス 32bit/192kHz 6イン/4アウト HDMI搭載 URX44V W",
+      "rating": 4,
+      "reviews": 1,
+      "price": 114899,
+      "image": "https://m.media-amazon.com/images/I/51GF29rfShL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 72,
+      "asin": "B0B79FXP2J",
+      "title": "co2CREA 収納ケース 互換品 ZOOM ズーム AMS-24/AMS-44 オーディオ・インターフェース（ケースのみ） | 硬質EVA素材 衝撃吸収 防塵防滴 軽量コンパクト",
+      "rating": 4.2,
+      "reviews": 27,
+      "price": 2299,
+      "image": "https://m.media-amazon.com/images/I/71wPUh+P5XL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 73,
+      "asin": "B0GX9S6V36",
+      "title": "LEWITT RAY と CONNECT 2 のセット品",
+      "rating": 4.7,
+      "reviews": 55,
+      "price": 75834,
+      "image": "https://m.media-amazon.com/images/I/61beBEQDp8L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 74,
+      "asin": "B00GRKXRIE",
+      "title": "Ueteto ギター用オーディオインターフェース | ポータブル内蔵録音サウンドカード ライブストリーミング iPhone iPad Android対応 ドライバー不要",
+      "rating": 4.7,
+      "reviews": 55,
+      "price": 57800,
+      "image": "https://m.media-amazon.com/images/I/61A5FZuKj5L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 75,
+      "asin": "B0D8P7SXYJ",
+      "title": "Ueteto ギター用オーディオインターフェース | ポータブル内蔵録音サウンドカード ライブストリーミング iPhone iPad Android対応 ドライバー不要",
+      "rating": 4.2,
+      "reviews": 418,
+      "price": 4930,
+      "image": "https://m.media-amazon.com/images/I/61EM1cTJEYL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 76,
+      "asin": "B08D93XF5F",
+      "title": "MOTU USB-Cオーディオ・インターフェース (M2) [並行輸入品]",
+      "rating": 4.6,
+      "reviews": 87,
+      "price": 40198,
+      "image": "https://m.media-amazon.com/images/I/51YMO0pVmlL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 77,
+      "asin": "B0CF2V1JNC",
+      "title": "Maker hart MixMate 4チャンネルミュージックオーディオミキサー",
+      "rating": 4,
+      "reviews": 438,
+      "price": 20800,
+      "image": "https://m.media-amazon.com/images/I/51PsXaszFYL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 78,
+      "asin": "B0BRL27ZYJ",
+      "title": "Maker hart MixMate 4チャンネルミュージックオーディオミキサー",
+      "rating": 5,
+      "reviews": 2,
+      "price": 6500,
+      "image": "https://m.media-amazon.com/images/I/71cJtTklmWL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 79,
+      "asin": "B0CZJ4M89S",
+      "title": "Lewitt Connect 2オーディオインターフェース",
+      "rating": 4.5,
+      "reviews": 54,
+      "price": 31800,
+      "image": "https://m.media-amazon.com/images/I/61sXE-SHbLL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 80,
+      "asin": "B0D7YFNMRG",
+      "title": "Focusrite Scarlett 18i20 (4th Gen) 18in 20out オーディオインターフェイス 第4世代 フォーカスライト | 26-In 26-Out、8マイクプリアンプ、2つのHi-Z入力、デュアルADAT、S/PDIF、MIDI、ワードクロック、トークバックマイク、オートゲイン、クリップセーフ",
+      "rating": 4.6,
+      "reviews": 95,
+      "price": 93000,
+      "image": "https://m.media-amazon.com/images/I/61sbXhVv8dL._AC_SL1500_.jpg"
+    }
+  ]
+}

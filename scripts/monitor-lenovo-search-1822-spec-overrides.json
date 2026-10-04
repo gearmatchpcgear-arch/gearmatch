@@ -1,0 +1,72 @@
+{
+  "B0H4XZFT5D": {
+    "name": "ThinkVision S22e-20",
+    "brand": "Lenovo",
+    "price": 7500,
+    "screenSize": "21.5 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "panel": "VA",
+    "refreshRate": "75 Hz",
+    "responseTime": "4 ms",
+    "connection": "HDMI / VGA (D-Sub)",
+    "features": "FreeSync / VESA対応 / チルト",
+    "tagline": "21.5\" FHD VA 整備済み"
+  },
+  "B0FCFFLRHK": {
+    "name": "ThinkVision E22-30",
+    "brand": "Lenovo",
+    "price": 16307,
+    "screenSize": "21.5 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "panel": "IPS",
+    "refreshRate": "60 Hz",
+    "responseTime": "4 ms",
+    "connection": "HDMI / DisplayPort / VGA (D-Sub)",
+    "features": "非光沢 / VESA対応 / チルト",
+    "tagline": "21.5\" FHD IPS ビジネス"
+  },
+  "B0CGLJGD4V": {
+    "name": "ThinkVision E20-30",
+    "brand": "Lenovo",
+    "price": 20535,
+    "screenSize": "19.5 インチ",
+    "resolution": "1600 x 900 (HD+)",
+    "panel": "IPS",
+    "refreshRate": "60 Hz",
+    "connection": "HDMI / VGA (D-Sub)",
+    "features": "非光沢 / チルト / VESA対応",
+    "tagline": "19.5\" HD+ IPS"
+  },
+  "B0FPRGSK6J": {
+    "name": "L22-4e",
+    "brand": "Lenovo",
+    "screenSize": "21.5 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "panel": "IPS",
+    "refreshRate": "100 Hz",
+    "responseTime": "4 ms (MPRT)",
+    "connection": "HDMI / VGA (D-Sub)",
+    "features": "チルト / 99% sRGB"
+  },
+  "B0FYPJVF6S": {
+    "name": "ThinkVision T22i-30",
+    "brand": "Lenovo",
+    "screenSize": "21.5 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "panel": "IPS",
+    "refreshRate": "60 Hz",
+    "responseTime": "4 ms",
+    "connection": "HDMI / DisplayPort / VGA (D-Sub) / USB",
+    "features": "高さ調整 / ピボット / VESA対応"
+  },
+  "B0FXX8SMD2": {
+    "name": "ThinkVision TIO22 Gen5",
+    "brand": "Lenovo",
+    "screenSize": "21.5 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "panel": "IPS",
+    "refreshRate": "60 Hz",
+    "connection": "HDMI / DisplayPort",
+    "features": "内蔵Webカメラ / 一体型"
+  }
+}

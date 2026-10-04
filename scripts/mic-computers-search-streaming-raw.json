@@ -1,0 +1,4332 @@
+{
+  "fetchedAt": "2026-08-14T04:26:11.963Z",
+  "sourceUrl": "https://www.amazon.co.jp/s?k=%E3%83%9E%E3%82%A4%E3%82%AF&i=computers&rh=n%3A2127209051%2Cp_n_g-101013572236111%3A17833755051&dc",
+  "source": "browser-cdp-scrape",
+  "totalItems": 216,
+  "microphones": [
+    {
+      "amazonRank": 1,
+      "asin": "B075PJ7V3V",
+      "title": "FIFINE USB Microphone Condenser Microphone PC Microphone for Net Calls Game Streaming Remote Work Voice Chat Single Directional Adjustable Volume with Tripod Microphone Stand Compatible with Windows | 全金属製でノイズ干渉防止 USB高速伝送 マイク音量調節機能搭載 パソコン適用 USBケーブル付き(Type-Cアタブターあり) YouTube/Zoom/ASMR用のおすすめマイク",
+      "rating": 4.2,
+      "reviews": 0,
+      "price": 4899,
+      "image": "https://m.media-amazon.com/images/I/616cb57PoCL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 2,
+      "asin": "B09KNKBCQK",
+      "title": "FIFINE USB Condenser Microphone, RGB Lighting, Cardioid Directionality, Plug & Play, PC/PlayStation Mic, USB-C to A Cable Included, One-Touch Mute, YouTube, Skype, Discord, Zoom, Recording, Game",
+      "rating": 4.3,
+      "reviews": 0,
+      "price": 5699,
+      "image": "https://m.media-amazon.com/images/I/71laV06lutL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 3,
+      "asin": "B0DP54XTCG",
+      "title": "MAONO XLR/USB Gaming Microphone Noise Cancelling PC Microphone for Podcast, Streaming, Dynamic Microphone with Mute Button, Unidirectional for YouTube, Recording, Voice Chat, Live Streaming, Game",
+      "rating": 4.4,
+      "reviews": 0,
+      "price": 6944,
+      "image": "https://m.media-amazon.com/images/I/61VscaoyfML._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 4,
+      "asin": "B0CMTQPWQ8",
+      "title": "Razer レイザー Seiren V3 Mini コンデンサーマイク 超コンパクト設計 タップ式ミュートセンサー ゲーミングマイク USB マイク 配信 セイレーン ブイスリー ミニ【日本正規代理店保証品】",
+      "rating": 4.6,
+      "reviews": 0,
+      "price": 6880,
+      "image": "https://m.media-amazon.com/images/I/61YoVaG-ShL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 5,
+      "asin": "B0FLKJ7FH7",
+      "title": "HyperX SoloCast 2 Condenser Microphone USB Microphone with Built-in Shock Mount and Pop Filter for Telework/Streamer/Content Creator/Gamer Compatible with PC, Mac, PS4, PS5 Black 2-Year Manufacturer | ポップフィルター,テレワーク,ストリーマー,コンテンツクリエーター,ゲームプレイヤー向け,PC,Mac,PS4,PS5対応,メーカー保証2年間,カーディオイド（単一指向性）,タップでミュート,振動ノイズを抑制",
+      "rating": 4.4,
+      "reviews": 0,
+      "price": 8982,
+      "image": "https://m.media-amazon.com/images/I/71jznpAUWgL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 6,
+      "asin": "B0B6FTQTS8",
+      "title": "FIFINE USB Condenser Microphone, Tabletop Microphone, Unidirectional, Volume Adjustable, with Mute Button, Gooseneck Microphone Arm, PC Microphone for Online Meetings, Live Streaming, Game Streaming | Adjustable Volume with Mute Button for Online Meetings, Live Distribution, Gaming, Telework, PC/PS4/PS5",
+      "rating": 4.3,
+      "reviews": 0,
+      "price": 4099,
+      "image": "https://m.media-amazon.com/images/I/61y1+d8gYZL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 7,
+      "asin": "B09TN7QJ7Y",
+      "title": "FIFINE USB Condenser Microphone with RGB Light, Cardioid Directionality, Plug & Play, Computer/PlayStation Microphone, Includes USB Cable, One-Touch Mute, Ideal for YouTube, Skype, Discord, Zoom",
+      "rating": 4.3,
+      "reviews": 0,
+      "price": 7999,
+      "image": "https://m.media-amazon.com/images/I/71M5zSSCxsL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 8,
+      "asin": "B0D3DRTGQ7",
+      "title": "FDUCE Gaming USB Microphone, Mute, Gain, Monitoring, RGB Condenser Microphone with Boom Arm for Streaming, Podcast, Twitch, YouTube, PC, Computer, PS5 (M160+)",
+      "rating": 4.3,
+      "reviews": 0,
+      "price": 4500,
+      "image": "https://m.media-amazon.com/images/I/61xiVpKKZZL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 9,
+      "asin": "B09R48XTP9",
+      "title": "ZOOM ZUM-2PMP USB Condenser Microphone Set | Microphone + Headphone + Stand, Domestic Authentic Products, Game Reviews, VTuber, Narration",
+      "rating": 4.6,
+      "reviews": 0,
+      "price": 3020,
+      "image": "https://m.media-amazon.com/images/I/51gI1czoUBL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 10,
+      "asin": "B0GX7BKVDX",
+      "title": "Dynamic Microphone, XLR/USB Connection, Noise Reduction Gaming Microphone, Unidirectional, Volume Control, Echo Adjustment, Mute Function, XLR Interface, With RGB Light, Headphone Jack, Real-time",
+      "rating": 4.7,
+      "reviews": 0,
+      "price": 5125,
+      "image": "https://m.media-amazon.com/images/I/516QDkvNHhL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 11,
+      "asin": "B0GSQPND7C",
+      "title": "GRAPHT (Arm Set) Condenser Microphone, Ultra-Small, XLR Connection, Microphone Arm, Low Profile, Black, Vtuber Distribution, Gaming, Sharp, Small, Integrated Cable, XLR Terminal, Load Capacity, 4.4",
+      "rating": 2.9,
+      "reviews": 0,
+      "price": 21940,
+      "image": "https://m.media-amazon.com/images/I/51rn6tEIkUL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 12,
+      "asin": "B0FH27MKW5",
+      "title": "【2025 New Release・Enhanced Sound Quality】BILIWAL Pin Microphone Wireless Compatible with iPhone iPad Android Vlog Cameras Instant Connection Audio-Video Synchronization Noise Reduction Pairing Lock | Type-C ノイズ軽減 ペアリングロック機能 リバーブ機能 9時間連続使用 360°集音 超ミニ クリップ式 2個セット Vlogカメラ対応 Vlog撮影/動画配信/生放送/ASMR/TikTok用（受信機:Type-C端子）",
+      "rating": 3.6,
+      "reviews": 0,
+      "price": 3680,
+      "image": "https://m.media-amazon.com/images/I/71C5W10PbdL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 13,
+      "asin": "B0DXW278KB",
+      "title": "HyperX QuadCast 2 Condenser Microphone USB Microphone for Streamers/Content Creators/Gamers/PC Mac 2-Year Manufacturer Warranty Frost AN1D9AA | Ambassador-favorite for streamers, content creators, gamers, PC, Mac, studio-level sound quality of 24 bit/96 KHz",
+      "rating": 4.6,
+      "reviews": 0,
+      "price": 22800,
+      "image": "https://m.media-amazon.com/images/I/51x+qqX44-L._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 14,
+      "asin": "B0CF23FR3T",
+      "title": "FIFINE AM8T XLR/USB Gaming Microphone Set for Streaming, Podcasting, Dynamic Microphone, PC Microphone, Boom Arm Stand, RGB Function, Mute Button, Headphone Jack, Vocal Chat, Recording, Distribution | 接続簡単 音声モニター/ワンタッチ式ミュート/デュアル音量調節機能搭載 USBケーブル付き(Type-Cアタブターあり) パソコン/XLR機器適用 録音用/会議用/卓上用のおすすめマイク",
+      "rating": 4.4,
+      "reviews": 0,
+      "price": 10799,
+      "image": "https://m.media-amazon.com/images/I/71Kpw41yVTL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 15,
+      "asin": "B0BVVX5FBD",
+      "title": "FIFINE XLR/USB Connection Dynamic Microphone for Gaming, Streaming, and Broadcasting, Single Directional, Noise Reduction, Plug & Play, Compatible with PC, PS4, PS5, Live Streaming, Game Commentary | 接続簡単 音声モニター/ワンタッチ式ミュート/デュアル音量調節機能搭載 USBケーブル付き(Type-Cアタブターあり) パソコン/XLR機器適用 配信用/会議用/卓上用のおすすめマイク",
+      "rating": 4.2,
+      "reviews": 0,
+      "price": 9099,
+      "image": "https://m.media-amazon.com/images/I/61hGerNcY1L._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 16,
+      "asin": "B0FJ899YS7",
+      "title": "COMICA EJoy Uni S USB Condenser Microphone, AI Noise Cancelling Microphone, RGB Lighting, Noise Reduction, One-Touch Mute, Game Streaming, Home Work, Podcast, Streaming, Narration Recording | RGBライティング ノイズ軽減 ワンタッチミュート 配信用マイク ゲーム実況 在宅勤務 ポッドキャスト ストリーミング ナレーション録音に最適(白)",
+      "rating": 4.2,
+      "reviews": 0,
+      "price": 6382,
+      "image": "https://m.media-amazon.com/images/I/5197u64JRWL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 17,
+      "asin": "B0CMTRDWLL",
+      "title": "Razer レイザー Seiren V3 Mini White コンデンサーマイク 超コンパクト設計 タップ式ミュートセンサー ゲーミングマイク USB マイク 配信 セイレーン ブイスリー ミニ ホワイト",
+      "rating": 4.6,
+      "reviews": 0,
+      "price": 7878,
+      "image": "https://m.media-amazon.com/images/I/61SOA8-WWJL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 18,
+      "asin": "B0CWGP7BX1",
+      "title": "Razer Seiren V3 Mini Condenser Microphone, Ultra Compact Design, Tap-to-Mute Sensor, Gaming Microphone, USB Microphone, Streaming, Seiren V3 Mini [Japanese Official Distributor Warranty]",
+      "rating": 4.5,
+      "reviews": 0,
+      "price": 8380,
+      "image": "https://m.media-amazon.com/images/I/61YoVaG-ShL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 19,
+      "asin": "B0BC913ZHC",
+      "title": "FIFINE USB Condenser Microphone for Gamers with RGB Lighting, Cardioid Directionality, Plug & Play PC Microphone with USB Cable, Compatible with PlayStation Microphone, Touch Mute/RGB Control | USB高速伝送 RGBライト/ワンタッチ式ミュート/音声モニター/マイク音量調節機能搭載 パソコン適用 フィルター/USBケーブル付き(Type-Cアタブターあり) ゲーム実況/web会議用のおすすめマイク",
+      "rating": 4.2,
+      "reviews": 0,
+      "price": 7199,
+      "image": "https://m.media-amazon.com/images/I/71RiWEOm+ZL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 20,
+      "asin": "B0DXQ1HZ8Y",
+      "title": "MAONO XLR/USB Gaming Microphone, Noise Cancelling, PC Microphone, for Podcast, Streaming, Dynamic Microphone, Mute Button, Unidirectional, YouTube Recording, Voice Chat, Live Distribution, Games, PD100X, White",
+      "rating": 4.4,
+      "reviews": 0,
+      "price": 7184,
+      "image": "https://m.media-amazon.com/images/I/61NOO64eO+L._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 21,
+      "asin": "B0D1R5VK6B",
+      "title": "Logicool G Gaming Microphone YETI ORB Condenser Microphone G-YETI-ORB-WH Streaming Broadcast Noise Reduction RGB LIGHTSYNC USB BLUE VO!CE PC MAC Gaming Microphone White Condenser Windows Authentic",
+      "rating": 4.3,
+      "reviews": 0,
+      "price": 7900,
+      "image": "https://m.media-amazon.com/images/I/619KbWWZ7sL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 22,
+      "asin": "B0CWGS19RG",
+      "title": "Razer Seiren V3 Mini White Condenser Microphone, Ultra-Compact Design, Tap-to-Mute Sensor, Gaming Microphone, USB Microphone for Streaming, Seiren V3 Mini White [Japanese Official Distributor Warranty",
+      "rating": 4.3,
+      "reviews": 0,
+      "price": 8381,
+      "image": "https://m.media-amazon.com/images/I/61SOA8-WWJL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 23,
+      "asin": "B09XXN89YZ",
+      "title": "FIFINE USB Condenser Microphone, RGB Lighting, Cardioid Directional, Plug & Play, PC/PlayStation Microphone, USB-C to A Cable Included, One-Touch Mute, YouTube, Skype, Discord, Zoom, Recording, Game",
+      "rating": 4.3,
+      "reviews": 0,
+      "price": 5899,
+      "image": "https://m.media-amazon.com/images/I/71xYz2XgfIL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 24,
+      "asin": "B09XXNXZ11",
+      "title": "FIFINE USB Condenser Microphone RGB Lighting Cardioid Directionality Plug & Play PC/PS Microphone with USB-C to A Cable, One-Touch Mute, Ideal for YouTube, Skype, Discord, Zoom, Recording, Gaming",
+      "rating": 4.2,
+      "reviews": 0,
+      "price": 5899,
+      "image": "https://m.media-amazon.com/images/I/81x3cD5l1tL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 25,
+      "asin": "B0CNVZ27YH",
+      "title": "DUNGZDUZ USB Microphone for Laptop and Desktop USB Microphone for Laptop and Desktop, High Sensitivity for Clear Calls, Plug and Play, High Gain, Cordless Mini Size Portable, Ideal for Work and Study | High sensitivity microphone for clear voice recording Compact design, easy to carry, perfect for work or study",
+      "rating": 4,
+      "reviews": 0,
+      "price": 1799,
+      "image": "https://m.media-amazon.com/images/I/51CuBiCQGrL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 26,
+      "asin": "B0CBLWD9T5",
+      "title": "FIFINE AM8W USB/XLR Dynamic Microphone, Unidirectional PC/PS4/PS5 Compatible, For Gaming/Distribution, White | 接続簡単 音声モニター/ワンタッチ式ミュート/デュアル音量調節機能搭載 USBケーブル付き(Type-Cアタブターあり) パソコン/XLR機器適用 録音用/会議用/卓上用のおすすめマイク",
+      "rating": 4.3,
+      "reviews": 0,
+      "price": 9399,
+      "image": "https://m.media-amazon.com/images/I/61S2XqhSC4L._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 27,
+      "asin": "B0DG9X4WHW",
+      "title": "HyperX QuadCast 2 S Condenser Microphone USB Microphone with RGB Lighting Black for Telework/Streamer/Content Creator/Gamer PC Mac Manufacturer Warranty 2 Years 9A273AA | 指向性の変更可能,単一指向性、全方向性、双指向性、ステレオ,RGBライティング,ストリーマー,コンテンツクリエーター,ゲーマー向け,PC,Mac,メーカー保証2年間,LEDインジケーター,",
+      "rating": 4.6,
+      "reviews": 0,
+      "price": 29716,
+      "image": "https://m.media-amazon.com/images/I/61be+CZMIkL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 28,
+      "asin": "B077Y974JF",
+      "title": "FIFINE USB Pin Microphone Mini Clip Microphone Condenser Microphone Unidirectional Earphone Jack with Audio Monitoring PC Microphone for Internet Calls Game Commentary Live Streaming Recording Remote | 単一指向性 イヤホン端子付き 音声モニタリング可能 PC用マイク ネット通話 ゲーム実況 ライブ配信 録音 在宅勤務 会議用 Windows/Macに対応 適格請求書発行可",
+      "rating": 3.7,
+      "reviews": 0,
+      "price": 2999,
+      "image": "https://m.media-amazon.com/images/I/61vIelHXx1L._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 29,
+      "asin": "B09NRHF5CD",
+      "title": "FIFINE K683B USBデスクトップPCマイク ポップフィルター付き コンピューターとMac用 スタジオコンデンサーマイク ゲインコントロール付き ミュートボタン ヘッドホンジャック デスクスタンド 予備USB-Cプラグ ブラック",
+      "rating": 3.9,
+      "reviews": 0,
+      "price": 4500,
+      "image": "https://m.media-amazon.com/images/I/519Ski3cM5L._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 30,
+      "asin": "B07ZQB2VF3",
+      "title": "Cubilux Type-C Microphone, Compatible with iPhone 16/15 Pro Max, iPad Pro 13/12.9/11, iPad Air 13/5th/4th, Samsung S25/S24/S23/S22 Ultra, Tab S10/S9/S8/S7, Pixel 9/8/7/6 Pro 8a/7a/6a, USB C Clip-on",
+      "rating": 4.2,
+      "reviews": 0,
+      "price": 2790,
+      "image": "https://m.media-amazon.com/images/I/61jjmCbCo4L._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 31,
+      "asin": "B0CF269L4N",
+      "title": "FIFINE AM8TW XLR/USB Gaming Microphone Set for Streaming, Podcasting, Dynamic Microphone, PC Microphone, Boom Arm Stand, RGB Function, Mute Button, Headphone Jack, Vocal Chat, Recording, Distribution | 接続簡単 音声モニター/ワンタッチ式ミュート/デュアル音量調節機能搭載 USBケーブル付き(Type-Cアタブターあり) パソコン/XLR機器適用 録音用/会議用/卓上用のおすすめマイク",
+      "rating": 4.1,
+      "reviews": 0,
+      "price": 11199,
+      "image": "https://m.media-amazon.com/images/I/71O6DVRaiXL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 32,
+      "asin": "B0FKTCPR94",
+      "title": "HyperX FlipCast Dynamic Microphone XLR/USB Dual Connection Cardioid (Unidirectional) with Multifunction Knob, Tap Mute Compatible, NGENUITY Compatible for Telework, Streamers, Content Creators, Gamers | ,XLR/USB,デュアルコネクション,カーディオイドマルチファンクションノブ搭載,NGENUITY対応,テレワーク,ストリーマー,コンテンツクリエーター,ゲーマー向け,PC,Mac,PS4,PS5,Nintendo,Switch,保証2年間,",
+      "rating": 4.6,
+      "reviews": 0,
+      "price": 31980,
+      "image": "https://m.media-amazon.com/images/I/61g9pDg870L._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 33,
+      "asin": "B0GJD41V2J",
+      "title": "Sanwa Supply MM-MCTC02NC Noise Canceling USB Microphone",
+      "rating": 4,
+      "reviews": 0,
+      "price": 8640,
+      "image": "https://m.media-amazon.com/images/I/61wVfUAs2eL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 34,
+      "asin": "B0BXSSNL15",
+      "title": "FIFINE A8Plus USB Condenser Microphone, 4 Directional with Stand, Compatible with PC/PS4/PS5, for Game Play/ASMR Distribution | 単一指向性 双方向性 無指向性 ステレオ指向性 ミュートボタン/音量調整 /RGBライティング 録音/Web会議用のおすすめマイク",
+      "rating": 4.7,
+      "reviews": 0,
+      "price": 9199,
+      "image": "https://m.media-amazon.com/images/I/71qAuF4d9wL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 35,
+      "asin": "B0B4V4232M",
+      "title": "FIFINE USB Condenser Microphone RGB Light Cardioid Directionality Plug & Play Computer/PlayStation Microphone with USB Cable One-Touch Mute for YouTube Skype Discord Zoom Recording Game Streaming",
+      "rating": 4.3,
+      "reviews": 0,
+      "price": 8299,
+      "image": "https://m.media-amazon.com/images/I/811LnykHypL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 36,
+      "asin": "B0DNQ8CLXR",
+      "title": "Hollyland Lark M2S USB Type-C Version [2025DGP Gold Award] (USB-C RX) Wireless Microphone, Ultra Lightweight 0.3 oz (7 g), Titanium Clip-Type, 48 Khz/24 Bit, Wireless Lavalier Microphone for iPhone",
+      "rating": 4.5,
+      "reviews": 0,
+      "price": 17500,
+      "image": "https://m.media-amazon.com/images/I/61jFVkpc5rL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 37,
+      "asin": "B09XXPNXX4",
+      "title": "FIFINE USB Condenser Microphone, RGB Lighting, Cardioid Directionality, Plug & Play, PC/PlayStation Mic, USB-C to A Cable Included, One-Touch Mute, YouTube, Skype, Discord, Zoom, Recording, Game",
+      "rating": 4.1,
+      "reviews": 0,
+      "price": 5899,
+      "image": "https://m.media-amazon.com/images/I/71PGCFw34GL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 38,
+      "asin": "B0FP5534M6",
+      "title": "USB-C Mini Microphone for Mac mini M4/M4 Pro, MacBook, Plug & Play | Compact and portable condenser microphone. Clear voice recording, perfect for work and learning",
+      "rating": 4.3,
+      "reviews": 0,
+      "price": 1769,
+      "image": "https://m.media-amazon.com/images/I/51rsfXxK4cL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 39,
+      "asin": "B0CF24YH9S",
+      "title": "FIFINE XLR/USB Gaming Microphone Set for Streaming, Podcast, Dynamic Microphone, PC Microphone with Boom Arm Stand, RGB Function, Mute Button, Headphone Jack, Vocal, Voice Chat, Recording, Streaming | 接続簡単 音声モニター/ワンタッチ式ミュート/デュアル音量調節機能搭載 USBケーブル付き(Type-Cアタブターあり) パソコン/XLR機器適用 録音用/会議用/卓上用のおすすめマイク",
+      "rating": 4.5,
+      "reviews": 0,
+      "price": 11199,
+      "image": "https://m.media-amazon.com/images/I/61ga131-QlL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 40,
+      "asin": "B01N122H2L",
+      "title": "FIFINE K669 USB Microphone, Condenser Microphone, Unidirectional Microphone, for PC, Internet Calls, Home Work, Distribution, Games, Home Recording, Volume Adjustable, Tripod Stand Included | ネット通話 在宅勤務 配信 ゲーム実況 宅録 音量調節可能 三脚スタンド付属 Windows/Mac/PS4に対応",
+      "rating": 4.2,
+      "reviews": 0,
+      "price": 4899,
+      "image": "https://m.media-amazon.com/images/I/61T3rxgomlL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 41,
+      "asin": "B0839FL7J5",
+      "title": "Cubilux Type-C Microphone, Compatible with iPad Pro 13/12.9/11, iPad Air 13/5th/4th, iPad 10, Samsung Galaxy S25/S24/S23/S22 Ultra, Google Pixel 9/8/7/6 Pro 8a/7a/6a XL, USB Type C Microphone, 3M",
+      "rating": 4.1,
+      "reviews": 0,
+      "price": 2890,
+      "image": "https://m.media-amazon.com/images/I/61jjmCbCo4L._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 42,
+      "asin": "B0CNXKMSJG",
+      "title": "Razer Seiren V3 Chroma - RGB USB Microphone with Tap to Mute (Reactive Lighting for Stream and Game, Supercardioid Condenser Microphone, Digital Gain Limiter, Built-in Shock Absorber) Black",
+      "rating": 4.6,
+      "reviews": 0,
+      "price": 21980,
+      "image": "https://m.media-amazon.com/images/I/71CnqjberCL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 43,
+      "asin": "B0F637C7JG",
+      "title": "Cubilux USB C Gooseneck Microphone Type C Boom Microphone for MacBook Pro/Air iPhone 17/16/15 iPad Pro 13/12.9/11 iPad Air 13/11 Galaxy S25/S24/S23 Pixel 10/9/8/7/6 Pro Laptop 30cm",
+      "rating": 2.9,
+      "reviews": 0,
+      "price": 2690,
+      "image": "https://m.media-amazon.com/images/I/61TWlriSNLL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 44,
+      "asin": "B0D29CJGGH",
+      "title": "Bluetooth Wireless Microphone, Mini Size, Clear Sound Quality, For Online Meetings, Classes, Live Streaming, Live Streaming, Video Streaming, For Work, Entertainment, Recording, Compatible with Gopro HERO 12",
+      "rating": 2.5,
+      "reviews": 0,
+      "price": 7700,
+      "image": "https://m.media-amazon.com/images/I/61n7K8X7IYL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 45,
+      "asin": "B0BC8XB73V",
+      "title": "FIFINE USB Condenser Microphone, RGB Light, Cardioid Directional, Plug & Play PC Microphone, PlayStation Microphone with USB Cable, Touch Mute, RGB Control, YouTube, Skype, Discord, Zoom, Recording | USB高速伝送 RGBライト/ワンタッチ式ミュート/音声モニター/マイク音量調節機能搭載 パソコン適用 フィルター/USBケーブル付き(Type-Cアタブターあり) ゲーム実況/web会議用のおすすめマイク",
+      "rating": 4.3,
+      "reviews": 0,
+      "price": 7199,
+      "image": "https://m.media-amazon.com/images/I/71-KfVbQ3FL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 46,
+      "asin": "B0DFGMHM4B",
+      "title": "Lavalier Microphone USB-C, Condenser Microphone Compatible with iPhone 16/15 & Android Type-C, USB-A Connection for PC and Laptop, 200CM Length, Ideal for YouTube Shooting, Vlog, ASMR, Interviews, and | 全指向性コンデンサーピンマイク，iPhone 17/16/15、Samsung、Google、OnePlus、PC対応，YouTube・インタビュー・ポッドキャストに最適",
+      "rating": 3.9,
+      "reviews": 0,
+      "price": 2499,
+      "image": "https://m.media-amazon.com/images/I/61e83g3e0gL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 47,
+      "asin": "B0BW87WZSV",
+      "title": "MAONO Gaming Microphone USB/XLR PC Microphone Unidirectional Dynamic Microphone Dedicated Software Mute Button RGB Lighting Voice Chat Live Streaming Narration Recording Optimal for Game Commentary",
+      "rating": 4.3,
+      "reviews": 0,
+      "price": 12699,
+      "image": "https://m.media-amazon.com/images/I/51kUjSEv6mL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 48,
+      "asin": "B0CWGTBPSB",
+      "title": "Razer Seiren V3 Chroma Condenser Microphone, Multifunction, Tap-to-Mute Sensor, Gaming Microphone, USB Microphone, Streaming, Seiren V3 Chroma [Official Japanese Distributor Warranty]",
+      "rating": 4.3,
+      "reviews": 0,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/71CnqjberCL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 49,
+      "asin": "B0C6CNWHW1",
+      "title": "BitTradeOne Binaural Microphone \"Beautiful Ear\" Easy Binaural Recording, ASMR Environmental Sound Recording, Ear Cleaning ADBMM (W x H x D): 7.2 x 1.9 x 2.6 inches (182 x 48 x 65 mm)",
+      "rating": 4.1,
+      "reviews": 0,
+      "price": 23400,
+      "image": "https://m.media-amazon.com/images/I/41e3NTmB-1L._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 50,
+      "asin": "B0CK4MM8XB",
+      "title": "SteelSeries Alias Pro PC PS5/4 Compatible XLR Microphone for Streaming, Gaming, Streamers, Content Creators, Sonar Audio Software with AI Noise Cancellation, Unidirectional Cardioid",
+      "rating": 4.4,
+      "reviews": 0,
+      "price": 38495,
+      "image": "https://m.media-amazon.com/images/I/81PIkCNzI4L._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 51,
+      "asin": "B0GS5Q54Z3",
+      "title": "GRAPHT Ultra Compact Condenser Microphone, 2.4 inches (60 mm), Made in Japan, High Parker Diode, XLR Connection, White, Distribution, Gaming, Integrated Cable, Sharp, xlr Terminal, Vtuber Streamer",
+      "rating": 4.7,
+      "reviews": 0,
+      "price": 14960,
+      "image": "https://m.media-amazon.com/images/I/513Yf4PGEqL._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 52,
+      "asin": "B0CDX2GYRY",
+      "title": "CDM25U Desktop USB Microphone",
+      "rating": 5,
+      "reviews": 0,
+      "price": 980,
+      "image": "https://m.media-amazon.com/images/I/41dVrvqnjTL._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 53,
+      "asin": "B0GXK5HQT1",
+      "title": "Pin Microphone Type C Microphone Wired for iPhone 17/16/15 Series, iPad Pro 13/12.9/11, iPad Air 13/5th/4th, Samsung S25/S24/S23/S22 Ultra, Tab S10/S9/S8/S7, Pixel 9/8/7/6 Pro 8a/7a/6 a, USB C Clip",
+      "rating": 4,
+      "reviews": 0,
+      "price": 1280,
+      "image": "https://m.media-amazon.com/images/I/61oID7NtzzL._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 54,
+      "asin": "B0CBLXVCCD",
+      "title": "FIFINE AM8P USB/XLR Standalone Microphone, Unidirectional Dynamic Microphone, Compatible with PC/PS4/PS5 | ストリーマー ゲーマー PC/PS4/PS5/サウンドカード/ミキサー/オーディオインターフェース対応可能 ミュートボタン RGBイルミネーションスイッチ 入力/出力音量調節 ヘッドフォン端子付き ピンク AmpliGame",
+      "rating": 4,
+      "reviews": 0,
+      "price": 9399,
+      "image": "https://m.media-amazon.com/images/I/61XZPF4HIbL._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 55,
+      "asin": "B0C1ZJVFSS",
+      "title": "Logicool G Blue Snowball BM250W USB Gaming Microphone Condenser Microphone Unidirectional Live Streaming Streaming Microphone Compact Game Gaming PC Mac PS5 PS4 White White Authentic Product 2-Year",
+      "rating": 4,
+      "reviews": 0,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/516FtMy+aUL._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 56,
+      "asin": "B0DP48MZ4Q",
+      "title": "NEEWER LM2 Lapel Microphone, USB A Wired Microphone, Clip On, Plug & Play, Omnidirectional, Long Range Transmission, Noise Reduction, Includes 0.14 inch (3.5 mm) Monitoring Headphone Jack, Mini",
+      "rating": 3.8,
+      "reviews": 0,
+      "price": 2969,
+      "image": "https://m.media-amazon.com/images/I/61l9mYIjxEL._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 57,
+      "asin": "B00Q3K32I8",
+      "title": "Audio-Technica USB Microphone PC Microphone Condenser Microphone Streamer Content Creator Gamer Voice Chat Commentary Windows MAC Domestic Genuine Product",
+      "rating": 4.5,
+      "reviews": 0,
+      "price": 17000,
+      "image": "https://m.media-amazon.com/images/I/81YKCbgqkuL._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 58,
+      "asin": "B088P2WK3B",
+      "title": "Elgato Wave 1/3 Microphone Exclusive Accessory Shock Mount / Enhanced Rubber Vibration Resistant Suspension Shock Mount Noise Control Accessories | Reinforced elastic suspension, solid steel chassis, native 5/8\" thread, with 3/8\" and 1/4\" adapters",
+      "rating": 4.8,
+      "reviews": 0,
+      "price": 6473,
+      "image": "https://m.media-amazon.com/images/I/51qfVBdYUoL._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 59,
+      "asin": "B09L7QD1HP",
+      "title": "USB Microphone Thronmax ROSA EDITION Pink MG-M4R",
+      "rating": 4,
+      "reviews": 0,
+      "price": 4980,
+      "image": "https://m.media-amazon.com/images/I/511OG7uK-dL._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 60,
+      "asin": "B08LYCJJY4",
+      "title": "Miyoshi ZUMF-04/BK USB Digital Microphone, Flexible Arm with Mute Switch, All-Omnidirectional Type, Compatible with Windows/MacOS",
+      "rating": 4.3,
+      "reviews": 0,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/51KPaT5bD0L._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 61,
+      "asin": "B0DHCGFBPN",
+      "title": "Elgato Wave: 3 - Premium USB Capacity - Microphone, \"Call of Duty: Black Ops 6\" Special Edition Distribution, Podcast, Playback and Home Office Applications, Free Mixer Software, Sound Effect Plug-in, No Distortion, Plug & Play Mac/PC",
+      "rating": 5,
+      "reviews": 0,
+      "price": 20565,
+      "image": "https://m.media-amazon.com/images/I/61QFjLg4JHL._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 62,
+      "asin": "B088P2KKHS",
+      "title": "Elgato Wave:1 - Premium Cardioid USB Condenser Microphone, Perfect for Distribution, Gaming, Home Office, Free Mixer Software, Sound Effect Plug-in, No Distortion, Plug & Play, Mac/PC Compatible, Stream Deck Compatible",
+      "rating": 4.7,
+      "reviews": 0,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/61chF9lKLzL._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 63,
+      "asin": "B0DNSWRPJ8",
+      "title": "HB128 USB Gaming Condenser Microphone Pink Heart Design One Click Mute Gain Control Plug and Play for PC/Console/Phone, Twitch/YouTube/TikTok, Streamer Gamer, Video Creator",
+      "rating": 4.2,
+      "reviews": 0,
+      "price": 9900,
+      "image": "https://m.media-amazon.com/images/I/41JZL20glML._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 64,
+      "asin": "B0FDB13F3V",
+      "title": "Streamplify Microphone, Condenser Microphone, Unidirectional Microphone, MIC Mini MIC-MINI-48-RGB-ST-BK",
+      "rating": 4,
+      "reviews": 0,
+      "price": 5800,
+      "image": "https://m.media-amazon.com/images/I/61FgSkcZGsL._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 65,
+      "asin": "B0BYX4RQFS",
+      "title": "Logicool G Blue Yeti X BM600X USB Gaming Microphone, Condenser Microphone, PC, Mac, PS5, PS4, Audio Distribution, Black",
+      "rating": 3.2,
+      "reviews": 0,
+      "price": 24800,
+      "image": "https://m.media-amazon.com/images/I/61ZoOwXWjLL._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 66,
+      "asin": "B0C253KWRT",
+      "title": "Saramonic Blink Me B2 2.4G Touch Screen Wireless Microphone System (2 Transmitters, 1 Receiver)",
+      "rating": 4.2,
+      "reviews": 0,
+      "price": 7993,
+      "image": "https://m.media-amazon.com/images/I/71VlEi9skOL._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 67,
+      "asin": "B07D561S67",
+      "title": "Dynamic Microphone with 6 Feet Cord, Lightweight, Battery-Free, Plug and Play Accessory, Designed for SPKA30/SPKA700 Karaoke Machines | PC Microphone with Mute Button & LED Indicator, Noise Cancelling Technology, Plug and Play, Compatible with Windows & MacOS",
+      "rating": 4.4,
+      "reviews": 0,
+      "price": 9221,
+      "image": "https://m.media-amazon.com/images/I/51PTOTHzHkL._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 68,
+      "asin": "B0C8MGHR2C",
+      "title": "Audio Technica Condenser Microphone AT2020USB-XP & Microphone Arm 8700J USB-Type-C No Driver Required Gaming Microphone Streaming Microphone Home Recording Windows MAC PS4 PS5 Domestic Genuine Product",
+      "rating": 4,
+      "reviews": 0,
+      "price": 35200,
+      "image": "https://m.media-amazon.com/images/I/81oLHNQdg9L._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 69,
+      "asin": "B09DTJ3NFS",
+      "title": "NZXT CAPSULE BLACK Cardioid USB Microphone AP-WUMIC-B1 SP1008",
+      "rating": 4.5,
+      "reviews": 0,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/618PQZYODmL._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 70,
+      "asin": "B0D1R585XT",
+      "title": "Logitech G Gaming Microphone, YETI GX Dynamic Microphone, G-YETI-GX-WH, Streaming, Super Cardioid Noise Reduction, RGB LIGHTSYNC Compatible, USB BLUE VO!CE PC MAC Gaming Microphone, White, Windows",
+      "rating": 3.8,
+      "reviews": 0,
+      "price": 28882,
+      "image": "https://m.media-amazon.com/images/I/51PRX4x-UEL._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 71,
+      "asin": "B08KDVW9Z3",
+      "title": "Audio-Technica ATR2100x-USB USB Microphone for Telework/Home Work/Live Broadcast/Recording/Podcast/Live Video (Black)",
+      "rating": 4.1,
+      "reviews": 0,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/71wQAiEPKYL._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 72,
+      "asin": "B07PVH1ZW1",
+      "title": "KLIM Talk PCおよびMac対応卓上USBマイク 全てのパソコンで使用可能 デスクトップマイク ハイディフィニションオーディオ ホワイト",
+      "rating": 4.4,
+      "reviews": 0,
+      "price": 4818,
+      "image": "https://m.media-amazon.com/images/I/51mwzTMZyTL._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 73,
+      "asin": "B0G13VB386",
+      "title": "AR0A0AA Condenser Microphone, USB Microphone, Built-in Shock Mount, Pop Filter, For Telework, Streamers, Content Creators, Gamers, Compatible with PC, Mac, PS4, PS5, Black",
+      "rating": 4,
+      "reviews": 0,
+      "price": 8600,
+      "image": "https://m.media-amazon.com/images/I/61jemW68STL._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 74,
+      "asin": "B09F2FM43B",
+      "title": "AKG Pro Audio Ara Professional USB-C Condenser Microphone Dual Pattern Audio Capture Mode for Podcasting, Video Blogging, Gaming, Streaming, Blue & Silver",
+      "rating": 4.6,
+      "reviews": 0,
+      "price": 11917,
+      "image": "https://m.media-amazon.com/images/I/61b9fd3RPnL._AC_SL1500_.jpg",
+      "searchPage": 4
+    },
+    {
+      "amazonRank": 75,
+      "asin": "B0CZ9MJ5PB",
+      "title": "NGALE R Premium USB Microphone for Recording & Streaming, Plug and Play with USB Connection, Mute, RGB & Gain, Low Cut Filter for Gaming, Black",
+      "rating": 4.6,
+      "reviews": 0,
+      "price": 8049,
+      "image": "https://m.media-amazon.com/images/I/71fe3jZjkUL._AC_SL1500_.jpg",
+      "searchPage": 4
+    },
+    {
+      "amazonRank": 76,
+      "asin": "B0GDXW2FYC",
+      "title": "3.5mm 取り外し可能なブームマイク Razer Barracuda X ゲーミングヘッドセット対応 ノイズキャンセリングブームマイク フォーム付き 15cm",
+      "rating": 5,
+      "reviews": 0,
+      "price": 3546,
+      "image": "https://m.media-amazon.com/images/I/61pmndtsWLL._AC_SL1500_.jpg",
+      "searchPage": 4
+    },
+    {
+      "amazonRank": 77,
+      "asin": "B0C8LTKWLG",
+      "title": "Audio Technica Condenser Microphone AT2020USB-XP & Shock Mount AT8455 USB-Type-C No Driver Required Gaming Microphone Streaming Microphone Home Recording Compatible with Windows, MAC, PS4, PS5",
+      "rating": 5,
+      "reviews": 0,
+      "price": 28200,
+      "image": "https://m.media-amazon.com/images/I/81TbBAPV+SL._AC_SL1500_.jpg",
+      "searchPage": 4
+    },
+    {
+      "amazonRank": 78,
+      "asin": "B0D9LXG8LH",
+      "title": "RODE Microphones Road Microphones Pod Microphone USB Dynamic Broadcast Microphone White PODMICUSBW | XLR and USB connectivity for podcast, streaming and content creation",
+      "rating": 4.2,
+      "reviews": 0,
+      "price": 40000,
+      "image": "https://m.media-amazon.com/images/I/717WRAhMD9L._AC_SL1500_.jpg",
+      "searchPage": 4
+    },
+    {
+      "amazonRank": 79,
+      "asin": "B0CP6BCR7Z",
+      "title": "CMTECK USB Computer Microphone G009 Noise Cancelling Recording Desktop Microphone for PC Laptop Online Chat Home Studio Podcasting Game Skype YouTube with Mute Function (Windows/Mac) (Grey) | 内蔵ポップフィルターとメタルベース。 360°調節可能なネック、ミュートボタン。 ポッドキャスト、ゲーム、YouTube(Windows/macOS)に最適。",
+      "rating": 4.5,
+      "reviews": 0,
+      "price": 4540,
+      "image": "https://m.media-amazon.com/images/I/61yhrBbIH6L._AC_SL1500_.jpg",
+      "searchPage": 4
+    },
+    {
+      "amazonRank": 80,
+      "asin": "B003D2U08E",
+      "title": "Pyle-Pro PMHM2 Headset Microphone, Beige",
+      "rating": 4,
+      "reviews": 0,
+      "price": 5601,
+      "image": "https://m.media-amazon.com/images/I/71aoS-2nUxL._AC_SL1500_.jpg",
+      "searchPage": 4
+    },
+    {
+      "amazonRank": 81,
+      "asin": "B0DM12LT7Q",
+      "title": "FEELWORLD VM1 Pink Gaming PC Microphone USB Condenser Microphone with Boom Arm Stand Noise Cancelling RGB Light Mute for Computer PS4 PS5 Streaming Recording Podcast Chat | ノイズキャンセリング、ミュート、RGBライト、ゲーム機器、ギフト用、YouTubeTwitchポッドキャストストリーミング録画。",
+      "rating": 4.6,
+      "reviews": 0,
+      "price": 11009,
+      "image": "https://m.media-amazon.com/images/I/61MyntLGGYL._AC_SL1500_.jpg",
+      "searchPage": 4
+    },
+    {
+      "amazonRank": 82,
+      "asin": "B0G2SBCXPN",
+      "title": "PC用マイク、",
+      "rating": 4.4,
+      "reviews": 0,
+      "price": 4564,
+      "image": "https://m.media-amazon.com/images/I/61nJMWXjyiL._AC_SL1500_.jpg",
+      "searchPage": 4
+    },
+    {
+      "amazonRank": 83,
+      "asin": "B075HTKBNP",
+      "title": "CMTECK Conference USB Microphone Mute Button Omnidirectional Condenser Boundary Microphone for Recording, Streaming, Gaming, Skype (Windows/macOS) - No Speaker | ミュートボタン内蔵、コンパクトなデスクトップデザイン。 会議やストリーミング用の非常にクリアなピックアップ。 Windows/macOSで動作します。",
+      "rating": 4.2,
+      "reviews": 0,
+      "price": 3341,
+      "image": "https://m.media-amazon.com/images/I/71yT7iNofuL._AC_SL1500_.jpg",
+      "searchPage": 4
+    },
+    {
+      "amazonRank": 84,
+      "asin": "B0GX5321BJ",
+      "title": "USB Microphone for Streaming and Recording with Pop Filter and Shock Mount USB Type A Plug and Play Microphone for PC Laptop Gaming Podcast",
+      "rating": 4,
+      "reviews": 0,
+      "price": 2282,
+      "image": "https://m.media-amazon.com/images/I/515p+qVLiNL._AC_SL1500_.jpg",
+      "searchPage": 4
+    },
+    {
+      "amazonRank": 85,
+      "asin": "B0G7WSV2VC",
+      "title": "USBマイク Lavalier ラペルクリップオンマイク 6.6フィートケーブル付き ノートパソコン コンピューター PC ストリーミング会議 インタビュー オンライン歌 Skype MSN オーディオビデオ録画用 クリア&ナチュラルサウンド",
+      "rating": 4.6,
+      "reviews": 0,
+      "price": 3820,
+      "image": "https://m.media-amazon.com/images/I/61I8orhYdML._AC_SL1500_.jpg",
+      "searchPage": 4
+    },
+    {
+      "amazonRank": 86,
+      "asin": "B0DJB3HH4K",
+      "title": "Neptune Sonus Gaming Microphone | Streaming Microphone with Pop Filter Vocal Clarity | Desktop Microphone for Streaming, Gaming, Recording, Podcast | Microphone for PC with Type-C to USB Cable (White)",
+      "rating": 4.2,
+      "reviews": 0,
+      "price": 4824,
+      "image": "https://m.media-amazon.com/images/I/71xskTQVfpL._AC_SL1500_.jpg",
+      "searchPage": 4
+    },
+    {
+      "amazonRank": 87,
+      "asin": "B0DQTT85ZV",
+      "title": "SoloCast 519T2AA USB Stand-Alone Microphone, White, For Telework/Streamer/Content Creator/Gamer Usable PC, PS4, PS5",
+      "rating": 4,
+      "reviews": 0,
+      "price": 8100,
+      "image": "https://m.media-amazon.com/images/I/61Rm3RPX74L._AC_SL1500_.jpg",
+      "searchPage": 4
+    },
+    {
+      "amazonRank": 88,
+      "asin": "B09BZXP8Y1",
+      "title": "Shure MOTIV MV88+ Stereo USB Microphone: Condenser Mic for Recording, Singing, Instruments, Guitar, Drums, Performance, Live Broadcasting, Streaming, Gaming, Podcast, Compatible with iOS, Android, Mac",
+      "rating": 4.2,
+      "reviews": 0,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/71VAOfpbvcL._AC_SL1500_.jpg",
+      "searchPage": 4
+    },
+    {
+      "amazonRank": 89,
+      "asin": "B071ZB53KM",
+      "title": "AVerMedia USB Microphone Record with Cardioid Pattern, Plug and Play, Ultra Low Latency Real Time Monitor for Live Gaming Podcast Streaming Youtuber (AM310)",
+      "rating": 4.3,
+      "reviews": 0,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/51Ypgb4i5CL._AC_SL1500_.jpg",
+      "searchPage": 4
+    },
+    {
+      "amazonRank": 90,
+      "asin": "B0FWZCFWYN",
+      "title": "USBデスクトップマイク LEDインジケーター付き 360度調整可能スタンド ミュートボタン PC ノートパソコン ゲーム ストリーミング 録音用 ブラック",
+      "rating": 4.8,
+      "reviews": 0,
+      "price": 3944,
+      "image": "https://m.media-amazon.com/images/I/41gw4keFt0L._AC_SL1500_.jpg",
+      "searchPage": 4
+    },
+    {
+      "amazonRank": 91,
+      "asin": "B0FCYHZWZ7",
+      "title": "Plug and Play USB Computer Microphone Flexible Gooseneck & Mute Button LED - Desktop Microphone for Gaming, YouTube, Streaming Support Windows/Mac (1.8m/6ft)",
+      "rating": 4.5,
+      "reviews": 0,
+      "price": 3986,
+      "image": "https://m.media-amazon.com/images/I/51WEijkoRqL._AC_SL1500_.jpg",
+      "searchPage": 4
+    },
+    {
+      "amazonRank": 92,
+      "asin": "B0176NRE1G",
+      "title": "Movo M1 USB Lavalier Lapel Clip-On Omnidirectional Microphone for Laptop PC Mac Podcast Gaming Streaming Desktop Microphone (6M Cord)",
+      "rating": 4.1,
+      "reviews": 0,
+      "price": 4783,
+      "image": "https://m.media-amazon.com/images/I/61iQ3+ReGgL._AC_SL1500_.jpg",
+      "searchPage": 4
+    },
+    {
+      "amazonRank": 93,
+      "asin": "B01720YK1A",
+      "title": "Elinka Computer Microphone Condenser Microphone Professional Sound Podcast Studio Microphone for PC Laptop Skype MSN Computer Recording Black Windscreen with Sponge Sleeve",
+      "rating": 3.9,
+      "reviews": 0,
+      "price": 2658,
+      "image": "https://m.media-amazon.com/images/I/51YLMAcXvhL._AC_SL1500_.jpg",
+      "searchPage": 4
+    },
+    {
+      "amazonRank": 94,
+      "asin": "B0CTJ5F2FB",
+      "title": "Razer Seiren V3 Chroma RGB USB Microphone: Stream & Game Reactive Lighting - Tap to Mute Sensor - Condenser Microphone - Digital Gain Limiter & Shock Absorber - PC, Discord, OBS Studio, XSplit-White",
+      "rating": 4.6,
+      "reviews": 0,
+      "price": 14083,
+      "image": "https://m.media-amazon.com/images/I/71699l9qx1L._AC_SL1500_.jpg",
+      "searchPage": 4
+    },
+    {
+      "amazonRank": 95,
+      "asin": "B0DKP4V5V1",
+      "title": "USBコンピュータマイク ミュートボタンとRGB照明付き プラグアンドプレイマイク 会議 ゲーム YouTube用 デスクトップPCマイク Mac/Window用 ブラック -M8(3ポートハブ)",
+      "rating": 4,
+      "reviews": 0,
+      "price": 3575,
+      "image": "https://m.media-amazon.com/images/I/51TZNdbTIiL._AC_SL1500_.jpg",
+      "searchPage": 4
+    },
+    {
+      "amazonRank": 96,
+      "asin": "B08F74HBX1",
+      "title": "2021 Upgraded USB Microphone for Computer Gaming Podcast Live Streaming Youtube Recording Karaoke PC Plug and Play with Adjustable Metal Tripod Stand for Windows MacOS Best Gift",
+      "rating": 4.3,
+      "reviews": 0,
+      "price": 5360,
+      "image": "https://m.media-amazon.com/images/I/71gYdL3mpkL._AC_SL1500_.jpg",
+      "searchPage": 4
+    },
+    {
+      "amazonRank": 97,
+      "asin": "B0CQJRXC9L",
+      "title": "Replacement Gaming Microphone Wired for Kingston HyperX Cloud III Gaming Headset Detachable Microphone Boom for PC PS5 PS4 Xbox Series X/S",
+      "rating": 4.8,
+      "reviews": 0,
+      "price": 2888,
+      "image": "https://m.media-amazon.com/images/I/41atUUv5MkL._AC_SL1500_.jpg",
+      "searchPage": 4
+    },
+    {
+      "amazonRank": 98,
+      "asin": "B09FW5F6R9",
+      "title": "Canon DME1D Stereo Microphone | Multifunctional hot shoe and cardioid polar pattern for stereo audio capture",
+      "rating": 4.2,
+      "reviews": 0,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/71W2Ekyh9bL._AC_SL1500_.jpg",
+      "searchPage": 5
+    },
+    {
+      "amazonRank": 99,
+      "asin": "B0FLDM5BSX",
+      "title": "FIFINE AM8PROT Gaming Microphone Kit, XLR/USB Dynamic PC Microphone with Boom Arm for Podcast Recording, RGB Streaming Microphone Set with Software, Tap-to-Mute, Mix Control, Headphone Jack | ブームアーム、RGB、タップ・トゥ・ミュート、ミックスコントロール、ヘッドホンジャック、ポッドキャスト録音用ボリュームノブ付きストリーミングマイクセット。",
+      "rating": 4.6,
+      "reviews": 0,
+      "price": 23018,
+      "image": "https://m.media-amazon.com/images/I/714-WPZTmYL._AC_SL1500_.jpg",
+      "searchPage": 5
+    },
+    {
+      "amazonRank": 100,
+      "asin": "B0HBQHJVZR",
+      "title": "USB コンデンサーマイク 超コンパクト タップ操作ミュート機能付き ゲーム・配信用 | タップ式ミュートセンサー, ゲーミングマイク, 配信向け, 日本正規代理店保証品",
+      "rating": 4,
+      "reviews": 0,
+      "price": 7800,
+      "image": "https://m.media-amazon.com/images/I/51fnmUaulmL._AC_SL1500_.jpg",
+      "searchPage": 5
+    },
+    {
+      "amazonRank": 101,
+      "asin": "B0DQTRNN4S",
+      "title": "SoloCast HMIS1X-XX-BK/G (4P5P8AA) USB Stand-Alone Microphone for Telework/Streamer/Content Creator/Gamers Compatible with PC, PS4, PS5",
+      "rating": 4,
+      "reviews": 0,
+      "price": 8800,
+      "image": "https://m.media-amazon.com/images/I/61WGKNzXwNL._AC_SL1500_.jpg",
+      "searchPage": 5
+    },
+    {
+      "amazonRank": 102,
+      "asin": "B0CTBGMNMB",
+      "title": "JBL Quantum Stream Studio - Recording and Games - Chrome | Triple condenser microphone for perfect streaming, four selectable voice pickup patterns, dynamic range compressor",
+      "rating": 4.7,
+      "reviews": 0,
+      "price": 34887,
+      "image": "https://m.media-amazon.com/images/I/61Hte0AjhOL._AC_SL1500_.jpg",
+      "searchPage": 5
+    },
+    {
+      "amazonRank": 103,
+      "asin": "B0G4G564K6",
+      "title": "SINWE Gaming Microphone with Noise Cancelling & Gain Control - USB PC Microphone for Streaming, Gaming, Podcast, PC, PS4 - with Pop Filter, Shock Mount, Quick Mute, RGB Lighting | ストリーミング、ゲーム、ポッドキャスト、PS4用のUSB PCマイク - ポップフィルター、ショックマウント、クイックミュート、RGB照明付き",
+      "rating": 4,
+      "reviews": 0,
+      "price": 7749,
+      "image": "https://m.media-amazon.com/images/I/61WyajJPkwL._AC_SL1500_.jpg",
+      "searchPage": 5
+    },
+    {
+      "amazonRank": 104,
+      "asin": "B088HHWC47",
+      "title": "Elgato Wave:3 Premium Studio Quality USB Condenser Microphone, Perfect for Streaming, Podcast, Gaming and Home Office, Free Mixer Software, Sound Effects Plugins, Anti-Distortion, Plug and Play, Mac/PC Compatible",
+      "rating": 4.6,
+      "reviews": 0,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/61KjhEX33JL._AC_SL1500_.jpg",
+      "searchPage": 5
+    },
+    {
+      "amazonRank": 105,
+      "asin": "B0CFXNWXM8",
+      "title": "Ko-Star USB Microphone Game PC Pink Mini Computer Gaming Microphone for PS4 PS5 Mac PC Gaming Streaming Microphone Condenser Microphone with RGB Streaming Shock Mount for PopFilter Recording Pod",
+      "rating": 4.3,
+      "reviews": 0,
+      "price": 10274,
+      "image": "https://m.media-amazon.com/images/I/711RPv8WzaL._AC_SL1500_.jpg",
+      "searchPage": 5
+    },
+    {
+      "amazonRank": 106,
+      "asin": "B0GTZ865L3",
+      "title": "USBコンデンサーマイク PCゲーム、ストリーミング&ポッドキャスト、プラグアンドプレイRGBデスクトップマイク ワンタッチミュート カーディオイドノイズキャンセリングコンピューターマイク Twitch、YouTube、PCやノートパソコンでの録音用 (ブラック)",
+      "rating": 4.6,
+      "reviews": 0,
+      "price": 8039,
+      "image": "https://m.media-amazon.com/images/I/71sWJkQ8HmL._AC_SL1500_.jpg",
+      "searchPage": 5
+    },
+    {
+      "amazonRank": 107,
+      "asin": "B0FFMR3KPS",
+      "title": "PUPGSIS PC Gaming Microphone Noise Cancelling Condenser Microphone with RGB Light Mute Monitoring Pop Filter Desktop Microphone for Streaming Podcasting Recording Gaming Equipment Plug and Play Black",
+      "rating": 4.5,
+      "reviews": 0,
+      "price": 10406,
+      "image": "https://m.media-amazon.com/images/I/61XB+4JOEYL._AC_SL1500_.jpg",
+      "searchPage": 5
+    },
+    {
+      "amazonRank": 108,
+      "asin": "B0D9681CB2",
+      "title": "USB Lavalier Microphone Noise Cancelling Wired Microphone for Laptop PC Omnidirectional Lapel Shirt Collar Clip-on Microphone for Recording, Streaming Interview, Gaming and Podcasting 2M",
+      "rating": 4.3,
+      "reviews": 0,
+      "price": 2528,
+      "image": "https://m.media-amazon.com/images/I/61obToPB5NL._AC_SL1500_.jpg",
+      "searchPage": 5
+    },
+    {
+      "amazonRank": 109,
+      "asin": "B08365S89Q",
+      "title": "Marantz Pro MPH-1 USB Condenser Microphone, Unidirectional, Shock Mount, Pop Filter, Gaming, Telework, Credit, Studio Grade Sound, Umpire + Sealed Monitor Headphones, Wired 1.6 inches (40 mm) Over-Ear Headphones",
+      "rating": 4,
+      "reviews": 0,
+      "price": 10538,
+      "image": "https://m.media-amazon.com/images/I/71GfyO3UtRL._AC_SL1500_.jpg",
+      "searchPage": 5
+    },
+    {
+      "amazonRank": 110,
+      "asin": "B0CQP4FYY2",
+      "title": "BOYA USB Condenser Gaming Microphone PC Mac PS4 PS5 Computer Plug Play Microphone with Gain Control Volume Control Mute Headphone Jack for Live Streaming Music Recording Video Voice YouTube CM6",
+      "rating": 5,
+      "reviews": 0,
+      "price": 5737,
+      "image": "https://m.media-amazon.com/images/I/61ExeIoDjkL._AC_SL1500_.jpg",
+      "searchPage": 5
+    },
+    {
+      "amazonRank": 111,
+      "asin": "B0DFYFM63S",
+      "title": "Replacement Gaming Microphone for Kingston HyperX Cloud Revolver S/Revolver Gaming Headset, Detachable Mic Noise Cancelling Microphone, 3.5mm Black | PS4 Pro PS5 Xbox One X PC用、取り外し可能、ノイズキャンセリング。",
+      "rating": 4,
+      "reviews": 0,
+      "price": 2518,
+      "image": "https://m.media-amazon.com/images/I/51rqo4bUrzL._AC_SL1500_.jpg",
+      "searchPage": 5
+    },
+    {
+      "amazonRank": 112,
+      "asin": "B0FWZJ42PB",
+      "title": "Mini USB 2.0 マイク デスクトップとノートパソコン用 プラグアンドプレイ ドライバーフリーオーディオレシーバー Skype MSN音声認識対応 ブラック",
+      "rating": 4.1,
+      "reviews": 0,
+      "price": 3168,
+      "image": "https://m.media-amazon.com/images/I/21CvFYHdhnL._AC_SL1500_.jpg",
+      "searchPage": 5
+    },
+    {
+      "amazonRank": 113,
+      "asin": "B0BFL1S9FP",
+      "title": "JLab JBuds Talk USB Gaming Streaming Microphone White USB-C Output Cardioid Omni Stereo Bi-Directional 96k Sampling Rate, Volume Control, Gain Control, Quick Mute, 3.5mm AUX Plug and Play",
+      "rating": 4.4,
+      "reviews": 0,
+      "price": 11255,
+      "image": "https://m.media-amazon.com/images/I/81DkwyYLxTL._AC_SL1500_.jpg",
+      "searchPage": 5
+    },
+    {
+      "amazonRank": 114,
+      "asin": "B07JB984Y7",
+      "title": "Computer Microphone,FIFINE Desktop Gooseneck Microphone,Mute Button with LED Indicator,USB Microphone for Windows/Mac.Perfect for Gaming Streaming YouTube Podcast (K052)",
+      "rating": 4.5,
+      "reviews": 0,
+      "price": 13268,
+      "image": "https://m.media-amazon.com/images/I/5158ov+iTDL._AC_SL1500_.jpg",
+      "searchPage": 5
+    },
+    {
+      "amazonRank": 115,
+      "asin": "B0C1Z1TFXT",
+      "title": "USBマイク プラグアンドプレイマイク PC用 デスクトップ全方向コンデンサー ノートパソコンマイク ミュートボタン LEDインジケーター付き Windows/Mac対応 YouTube動画/Skype/録画に最適",
+      "rating": 4.4,
+      "reviews": 0,
+      "price": 3630,
+      "image": "https://m.media-amazon.com/images/I/61hUqK2fdDL._AC_SL1500_.jpg",
+      "searchPage": 5
+    },
+    {
+      "amazonRank": 116,
+      "asin": "B0B17QSWXL",
+      "title": "RELAND SUN Desktop USB Laptop Mini Microphone Flexible Tube Neck Adjustable",
+      "rating": 4,
+      "reviews": 0,
+      "price": 1075,
+      "image": "https://m.media-amazon.com/images/I/41YUrMjkaWL._AC_SL1500_.jpg",
+      "searchPage": 5
+    },
+    {
+      "amazonRank": 117,
+      "asin": "B0FF4WYX76",
+      "title": "Plug and Play USB Computer Microphone for Podcasting Streaming Conference Noise Cancelling Microphone with Mute Button LED for PC/Mac Computer",
+      "rating": 4.6,
+      "reviews": 0,
+      "price": 6635,
+      "image": "https://m.media-amazon.com/images/I/616HtUIj-nL._AC_SL1500_.jpg",
+      "searchPage": 5
+    },
+    {
+      "amazonRank": 118,
+      "asin": "B08THGFBTV",
+      "title": "USB Conference Microphone with Speaker, Laptop Omnidirectional Computer Microphone, Mute/Volume Control, Zoom Conference, Skype, VoIP Calling, Interview, Christmas Stocking Surprise",
+      "rating": 4,
+      "reviews": 0,
+      "price": 6410,
+      "image": "https://m.media-amazon.com/images/I/61XlxWGyyJL._AC_SL1500_.jpg",
+      "searchPage": 5
+    },
+    {
+      "amazonRank": 119,
+      "asin": "B0F23M64WR",
+      "title": "LIANGSTAR USBコンピューターマイク ポッドキャストマイク デスクトップミュートボタン付き ストリーミング録画/カラー変更/全方向コンデンサー/プラグアンドプレイスタンド付き PC/ノートパソコン/Mac/YouTube用",
+      "rating": 4,
+      "reviews": 0,
+      "price": 4535,
+      "image": "https://m.media-amazon.com/images/I/71W3BsdRvfL._AC_SL1500_.jpg",
+      "searchPage": 5
+    },
+    {
+      "amazonRank": 120,
+      "asin": "B00078N8MM",
+      "title": "Sony ECM-77B Electret Condenser Microphone (Omnidirectional)",
+      "rating": 4.9,
+      "reviews": 0,
+      "price": 66877,
+      "image": "https://m.media-amazon.com/images/I/71SK718d1LL._AC_SL1500_.jpg",
+      "searchPage": 5
+    },
+    {
+      "amazonRank": 121,
+      "asin": "B0CT7BK716",
+      "title": "Razer Seiren V3 Chroma RGB USB Microphone with Tap to Mute Quartz Edition | タップトゥミュートセンサー、コンデンサーマイク、デジタルゲインリミッター&ショックアブソーバー、OBS、Discord、Zoom、Teamsで動作。",
+      "rating": 4.4,
+      "reviews": 0,
+      "price": 13971,
+      "image": "https://m.media-amazon.com/images/I/613TxRU5DpL._AC_SL1500_.jpg",
+      "searchPage": 5
+    },
+    {
+      "amazonRank": 122,
+      "asin": "B01MQ2AA0X",
+      "title": "ノートパソコン／デスクトップ用2016 Newest YOUMI Super Mini USB 2.0 マイクロフォン - Skype／音声認識ソフト対応 - MSN PC Notebook用音声受信アダプター付",
+      "rating": 3.9,
+      "reviews": 0,
+      "price": 3184,
+      "image": "https://m.media-amazon.com/images/I/31bW+5eK1SL._AC_SL1500_.jpg",
+      "searchPage": 6
+    },
+    {
+      "amazonRank": 123,
+      "asin": "B0CXQ31WCC",
+      "title": "Music Streaming Microphone | Studio Quality USB Microphone | Desktop and Laptop USB Microphone Kit, Compact Streaming Microphone Setup, USB Microphone Bundle for Podcasters and Streaming | アップ ポッドキャスターやストリーミング用のUSBマイクバンドル",
+      "rating": 4,
+      "reviews": 0,
+      "price": 2199,
+      "image": "https://m.media-amazon.com/images/I/61mUwXTenQL._AC_SL1500_.jpg",
+      "searchPage": 6
+    },
+    {
+      "amazonRank": 124,
+      "asin": "B07WD52LXJ",
+      "title": "USB Speakerphone Microphone, Conference Speaker Omnidirectional Computer Microphone, 360 Degree Voice Pickup, Mute/Unmute, Streaming, Calling Speaker Skype, Webinar, Interview Touch Sensor Button",
+      "rating": 4.1,
+      "reviews": 0,
+      "price": 8276,
+      "image": "https://m.media-amazon.com/images/I/613seg1PwjL._AC_SL1500_.jpg",
+      "searchPage": 6
+    },
+    {
+      "amazonRank": 125,
+      "asin": "B08JCQ17DY",
+      "title": "Granvela Long Neck USB Microphone for PC Desktop Omnidirectional Condenser Microphone with Mute Button/RGB LED Indicator for Gaming, Office, Home",
+      "rating": 3.8,
+      "reviews": 0,
+      "price": 4702,
+      "image": "https://m.media-amazon.com/images/I/41pj3kwn0tL._AC_SL1500_.jpg",
+      "searchPage": 6
+    },
+    {
+      "amazonRank": 126,
+      "asin": "B0FPD4L2KN",
+      "title": "USB Microphone for PC, PS4, PS5, Mac Condenser Computer Microphone Quick Mute 192kHz/24bit 8RGB Hi-Fi, Deep Noise Reduction 16mm Microphone Head Gaming Microphone with Podcast Recording",
+      "rating": 4,
+      "reviews": 0,
+      "price": 5824,
+      "image": "https://m.media-amazon.com/images/I/71kFChiAFuL._AC_SL1500_.jpg",
+      "searchPage": 6
+    },
+    {
+      "amazonRank": 127,
+      "asin": "B0B18NT4XD",
+      "title": "Ruilogod PC 角度調整可能 ボイスチャット テーブル マイク",
+      "rating": 4,
+      "reviews": 0,
+      "price": 1176,
+      "image": "https://m.media-amazon.com/images/I/31ARLaxa+ZL._AC_SL1500_.jpg",
+      "searchPage": 6
+    },
+    {
+      "amazonRank": 128,
+      "asin": "B0DQTPV6SZ",
+      "title": "DuoCast 4P5E2AA USB Stand-Alone Microphone for Telework/Streamer/Content Creator/Gamers Compatible with PC, PS4, PS5 Manufacturer, Black",
+      "rating": 4,
+      "reviews": 0,
+      "price": 12600,
+      "image": "https://m.media-amazon.com/images/I/61wFF9fJ1iL._AC_SL1500_.jpg",
+      "searchPage": 6
+    },
+    {
+      "amazonRank": 129,
+      "asin": "B09F3KNCSY",
+      "title": "AUDIOPRO USB Microphone, Computer Condenser Gaming Microphone for PC Laptop PS4 5 Headphone Output Volume Control USB Type C Plug and Play LED Mute Button for Streaming Podcast Studio Recording",
+      "rating": 4.4,
+      "reviews": 0,
+      "price": 15817,
+      "image": "https://m.media-amazon.com/images/I/81GYqmukfcL._AC_SL1500_.jpg",
+      "searchPage": 6
+    },
+    {
+      "amazonRank": 130,
+      "asin": "B09DTJK4HL",
+      "title": "NZXT BOOM ARM Low Noise Rotating Microphone Arm AP-BOOMA-B1 SP1006",
+      "rating": 3.4,
+      "reviews": 0,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/41YWPEraVBL._AC_SL1500_.jpg",
+      "searchPage": 6
+    },
+    {
+      "amazonRank": 131,
+      "asin": "B0G6C2SCFG",
+      "title": "USB Aラベリアマイク、ラペルクリップオン全方向コンデンサーコンピューターマイク 2Mケーブル付き YouTub PCおよびMacノートパソコン ゲームオーディオビデオ録画用",
+      "rating": 4,
+      "reviews": 0,
+      "price": 3335,
+      "image": "https://m.media-amazon.com/images/I/715DCDOE1oL._AC_SL1500_.jpg",
+      "searchPage": 6
+    },
+    {
+      "amazonRank": 132,
+      "asin": "B08KD5NHKV",
+      "title": "FIFINE USB Studio Recording Microphone Computer Podcast Mic for PC, PS4, Mac with Mute Button & Monitor Headphone Jack, Four Pickup Patterns for Vocals YouTube Streaming Gaming ASMR Zoom-Class (K690)",
+      "rating": 4.6,
+      "reviews": 0,
+      "price": 18685,
+      "image": "https://m.media-amazon.com/images/I/61MF838vt5L._AC_SL1500_.jpg",
+      "searchPage": 6
+    },
+    {
+      "amazonRank": 133,
+      "asin": "B09MJLF4WX",
+      "title": "Adesso Xtream M1 有線コンデンサーマイク 6フィート 20Hz~20kHz 680オーム 38dB 全指向性 グースネック デスクトップ USB",
+      "rating": 3.9,
+      "reviews": 0,
+      "price": 7654,
+      "image": "https://m.media-amazon.com/images/I/51Ma0xpkpCL._AC_SL1500_.jpg",
+      "searchPage": 6
+    },
+    {
+      "amazonRank": 134,
+      "asin": "B0DPM2P42M",
+      "title": "JOUNIVO USB Microphone, PC Microphone for Gaming, Podcast, Gaming Microphone with Noise Cancelling (JV908)",
+      "rating": 3.5,
+      "reviews": 0,
+      "price": 5613,
+      "image": "https://m.media-amazon.com/images/I/61MKZxk2M1L._AC_SL1500_.jpg",
+      "searchPage": 6
+    },
+    {
+      "amazonRank": 135,
+      "asin": "B0DFC4GTVN",
+      "title": "AVerMedia USB Microphone Streaming Podcasting Gaming Microphone Cardioid Polar Pattern Tripod Stand Headphone Output Mute Button All Metal Microphone for PC Laptop iPhone Android Phone",
+      "rating": 4.3,
+      "reviews": 0,
+      "price": 12523,
+      "image": "https://m.media-amazon.com/images/I/41NuOq1FkrL._AC_SL1500_.jpg",
+      "searchPage": 6
+    },
+    {
+      "amazonRank": 136,
+      "asin": "B0GLZ1FQ9Y",
+      "title": "USBコンデンサーマイク PCゲーム、ストリーミング、ポッドキャスト用 - プラグアンドプレイRGBデスクトップマイク ワンタッチミュート ノイズキャンセリングコンピューターマイク YouTube/録音/PC/ノートパソコン用 (ブラック)",
+      "rating": 4,
+      "reviews": 0,
+      "price": 7801,
+      "image": "https://m.media-amazon.com/images/I/71NDGcAAvQL._AC_SL1500_.jpg",
+      "searchPage": 6
+    },
+    {
+      "amazonRank": 137,
+      "asin": "B0FB3DC3R3",
+      "title": "Gaming Microphone, USB Microphone for PC, Plug and Play Condenser Microphone with RGB Light, Desk Computer Microphone, Gain Control, Singing, Recording, Streaming, Podcasting, PS4/5 Conference",
+      "rating": 4.2,
+      "reviews": 0,
+      "price": 7884,
+      "image": "https://m.media-amazon.com/images/I/61fpTHyEF1L._AC_SL1500_.jpg",
+      "searchPage": 6
+    },
+    {
+      "amazonRank": 138,
+      "asin": "B0FX4SN7MF",
+      "title": "AR0A0AA Condenser Microphone, USB Microphone, Built-in Shock Mount, Pop Filter, For Telework, Streamers, Content Creators, Gamers, Compatible with PC, Mac, PS4, PS5, Black",
+      "rating": 4,
+      "reviews": 0,
+      "price": 8500,
+      "image": "https://m.media-amazon.com/images/I/61jemW68STL._AC_SL1500_.jpg",
+      "searchPage": 6
+    },
+    {
+      "amazonRank": 139,
+      "asin": "B07CZ6LWW4",
+      "title": "Reliable Streaming GXT 232 Mantis USB Microphone, for Streaming, Black | USB電源、ショックマウント、ポップフィルター、三脚スタンド。",
+      "rating": 4.3,
+      "reviews": 0,
+      "price": 10967,
+      "image": "https://m.media-amazon.com/images/I/811EF2ToI7L._AC_SL1500_.jpg",
+      "searchPage": 6
+    },
+    {
+      "amazonRank": 140,
+      "asin": "B0H744Q143",
+      "title": "ヘッドセットマイク 3.5mmプラグ 調節可能 360度曲げられるジャック ブラック ゲーミングヘッドセット用 マイクヘッドセットアクセサリー",
+      "rating": 4,
+      "reviews": 0,
+      "price": 1997,
+      "image": "https://m.media-amazon.com/images/I/51XsuPdxIDL._AC_SL1500_.jpg",
+      "searchPage": 6
+    },
+    {
+      "amazonRank": 141,
+      "asin": "B07SZ932T9",
+      "title": "Blue Microphone Yeti Microphone (Solid Black) Knox Gear Pop Filter and 3.0 4-Port USB Hub Bundle | スタジオポップフィルター、4ポート3.0ハブ - マイクは録音、コンピューターゲーム、ストリーミング、ポッドキャストに最適です(3アイテム)。",
+      "rating": 4.7,
+      "reviews": 0,
+      "price": 37868,
+      "image": "https://m.media-amazon.com/images/I/71TSz8LtCcL._AC_SL1500_.jpg",
+      "searchPage": 6
+    },
+    {
+      "amazonRank": 142,
+      "asin": "B09BNMJM2C",
+      "title": "FIFINE K658 USBゲーミングダイナミックマイク クイックミュート付き PCストリーミング用 | ゲインコントロール、ヘッドホンジャック、カーディオイドピックアップ、RGBコントロール、ショックマウント、PS5ストリーミングポッドキャストTwitch YouTubeディスコード用",
+      "rating": 4.7,
+      "reviews": 0,
+      "price": 18349,
+      "image": "https://m.media-amazon.com/images/I/61lCdWdqYVL._AC_SL1500_.jpg",
+      "searchPage": 6
+    },
+    {
+      "amazonRank": 143,
+      "asin": "B0971WMHP9",
+      "title": "TalkWorks USB Microphone with Tripod - External Microphone for Computer - Gaming, Streaming, Meeting, Podcast, Recording and More - Adjustable and Portable with USB Cable",
+      "rating": 3.2,
+      "reviews": 0,
+      "price": 5495,
+      "image": "https://m.media-amazon.com/images/I/51M--0Hkx5L._AC_SL1500_.jpg",
+      "searchPage": 6
+    },
+    {
+      "amazonRank": 144,
+      "asin": "B0B18R6S99",
+      "title": "Ruilogod ノートパソコン 自立式 調節可能 スタンド グースネック サウンド マイクマウント 3.5mm コネクター ブラック",
+      "rating": 4,
+      "reviews": 0,
+      "price": 929,
+      "image": "https://m.media-amazon.com/images/I/5141kVhFV2L._AC_SL1500_.jpg",
+      "searchPage": 6
+    },
+    {
+      "amazonRank": 145,
+      "asin": "B0G6M6FB5X",
+      "title": "Mini USB 2.0 マイクオーディオアダプター ノートパソコン/ノートブック/PC用 全方向ステレオ音声マイクドライバーフリー",
+      "rating": 4,
+      "reviews": 0,
+      "price": 1432,
+      "image": "https://m.media-amazon.com/images/I/41NH2BfpGtL._AC_SL1500_.jpg",
+      "searchPage": 6
+    },
+    {
+      "amazonRank": 146,
+      "asin": "B0FGXR1M4H",
+      "title": "Replacement Microphone for JBL Quantum 100 (Q100) Gaming Headset Noise Cancelling Crystal Clear Voice Boom Microphone for Switch PS5 PS4 Mac PC Computer 2.5mm Jack",
+      "rating": 4.3,
+      "reviews": 0,
+      "price": 3520,
+      "image": "https://m.media-amazon.com/images/I/61XD5pOwlLL._AC_SL1500_.jpg",
+      "searchPage": 7
+    },
+    {
+      "amazonRank": 147,
+      "asin": "B07XB39R7B",
+      "title": "Razer Seiren Emote Microphone Compact Streamer with Super Cardioid Recording Pattern",
+      "rating": 4.2,
+      "reviews": 0,
+      "price": 9347,
+      "image": "https://m.media-amazon.com/images/I/71BVjl1Hm0L._AC_SL1500_.jpg",
+      "searchPage": 7
+    },
+    {
+      "amazonRank": 148,
+      "asin": "B0FYNFTWXW",
+      "title": "TRRS Lavalier Lapel Microphone 3.5mm 4-Pole Oslaveria Microphone D/JI Mic Voice Amplifier Teacher Speaker Coaching Presentation Live Streaming Laptop Compatible PC (4.9ft/1.5m)",
+      "rating": 4.8,
+      "reviews": 0,
+      "price": 7914,
+      "image": "https://m.media-amazon.com/images/I/51EHMwWqU5L._AC_SL1500_.jpg",
+      "searchPage": 7
+    },
+    {
+      "amazonRank": 149,
+      "asin": "B0FSJH4SP8",
+      "title": "録音とパフォーマンスのためのFuturtecerプロフェッショナルマイク。",
+      "rating": 3.9,
+      "reviews": 0,
+      "price": 5911,
+      "image": "https://m.media-amazon.com/images/I/61T9ymeZJAL._AC_SL1500_.jpg",
+      "searchPage": 7
+    },
+    {
+      "amazonRank": 150,
+      "asin": "B0CDL1X55R",
+      "title": "Gooseneck USB Microphone for PC, Elegant Plug and Play PC Microphone Condenser Microphone Computer Microphone for Gaming Live Streaming Omnidirectional Microphone USB for Podcast and Conference (EGM",
+      "rating": 3.9,
+      "reviews": 0,
+      "price": 6730,
+      "image": "https://m.media-amazon.com/images/I/513ZtOZ90DL._AC_SL1500_.jpg",
+      "searchPage": 7
+    },
+    {
+      "amazonRank": 151,
+      "asin": "B0FJFKYZQT",
+      "title": "USB Condenser Gaming Microphone PC Microphone Streaming Podcast Recording Desktop Computer Microphone with Mute Button & LED Indicator Volume Control Headphone Jack",
+      "rating": 4,
+      "reviews": 0,
+      "price": 8381,
+      "image": "https://m.media-amazon.com/images/I/716RHeTlpmL._AC_SL1500_.jpg",
+      "searchPage": 7
+    },
+    {
+      "amazonRank": 153,
+      "asin": "B0C7TC1NMQ",
+      "title": "NUROUM NEARSTREAM AM10B USB Condenser Gaming Microphone, 3-Pole Pattern Noise Cancelling Computer Microphone, Desktop Podcast Microphone with Mute Audio Gain Control Pop Filter for Streaming Recording",
+      "rating": 4.6,
+      "reviews": 0,
+      "price": 13849,
+      "image": "https://m.media-amazon.com/images/I/61nzML42w7L._AC_SL1500_.jpg",
+      "searchPage": 7
+    },
+    {
+      "amazonRank": 155,
+      "asin": "B0GKMMHCXC",
+      "title": "SINWE ゲーミングマイク 調節可能なブームアーム&ゲインコントロール付き",
+      "rating": 4.2,
+      "reviews": 0,
+      "price": 13216,
+      "image": "https://m.media-amazon.com/images/I/61ZcC7ZeqiL._AC_SL1500_.jpg",
+      "searchPage": 7
+    },
+    {
+      "amazonRank": 157,
+      "asin": "B07JV8F5P9",
+      "title": "Audio-Technica USB Gaming Desktop Microphone ATGM1-USB Black",
+      "rating": 4.3,
+      "reviews": 0,
+      "price": 20847,
+      "image": "https://m.media-amazon.com/images/I/5179encSEiL._AC_SL1500_.jpg",
+      "searchPage": 7
+    },
+    {
+      "amazonRank": 158,
+      "asin": "B0BY1K83MM",
+      "title": "USB Microphone",
+      "rating": 4.5,
+      "reviews": 0,
+      "price": 12753,
+      "image": "https://m.media-amazon.com/images/I/61f0WqEEDSL._AC_SL1500_.jpg",
+      "searchPage": 7
+    },
+    {
+      "amazonRank": 159,
+      "asin": "B0CQH66S7T",
+      "title": "Replacement Gaming Microphone for JBL Quantum 100 Q100 Stereo Studio Gaming Headset PS5 PS4 PC Xbox MAC Detachable Noise Cancelling Crystal Clear Gaming Voice Microphone Boom 2.5mm Jack",
+      "rating": 4,
+      "reviews": 0,
+      "price": 2548,
+      "image": "https://m.media-amazon.com/images/I/51eUEUe+FfL._AC_SL1500_.jpg",
+      "searchPage": 7
+    },
+    {
+      "amazonRank": 161,
+      "asin": "B0DJ8K8SXX",
+      "title": "II Gaming Microphone Detachable Boom Microphone with LED Mute Indicator 3.5mm Jack Noise Reduction Cardioid Polar Pattern",
+      "rating": 4,
+      "reviews": 0,
+      "price": 2495,
+      "image": "https://m.media-amazon.com/images/I/51rIq38HrbL._AC_SL1500_.jpg",
+      "searchPage": 7
+    },
+    {
+      "amazonRank": 162,
+      "asin": "B0BFJRZHJJ",
+      "title": "JLab Epic Talk USB Gaming Streaming Microphone White USB-C Output Cardioid Omni Stereo Bi-Directional 192k Sample Rate Volume Control Gain Control Quick Mute 3.5mm AUX Plug and Play",
+      "rating": 4.6,
+      "reviews": 0,
+      "price": 20908,
+      "image": "https://m.media-amazon.com/images/I/81xSCGi-qqL._AC_SL1500_.jpg",
+      "searchPage": 7
+    },
+    {
+      "amazonRank": 163,
+      "asin": "B09YCWFKNC",
+      "title": "WMT USB Microphone, Condenser Gaming Microphone for PC/MAC/PS4/PS5/Phone- Cardioid Mic with Brilliant RGB Lighting Headphone Output Volume Control, Mute Button, for Streaming Podcast YouTube Discord",
+      "rating": 4.4,
+      "reviews": 0,
+      "price": 13168,
+      "image": "https://m.media-amazon.com/images/I/714reGgb8mL._AC_SL1500_.jpg",
+      "searchPage": 7
+    },
+    {
+      "amazonRank": 164,
+      "asin": "B0CQJT8KFL",
+      "title": "Replacement Gaming Microphone Microphone for Previous 2021 Wired Kingston HyperX Cloud 2 II Cloud Core Cloud Pro Cloud Silver Cloud X PS5 Switch PC Gaming Headset (Old Wired Version)",
+      "rating": 3.2,
+      "reviews": 0,
+      "price": 2548,
+      "image": "https://m.media-amazon.com/images/I/41mCuNYH2ML._AC_SL1500_.jpg",
+      "searchPage": 7
+    },
+    {
+      "amazonRank": 165,
+      "asin": "B0DRQM2BPR",
+      "title": "TONOR TCX3+ Gaming Microphone, Xbox Compatible, RGB Streaming Microphone, Boom Arm, 30H Battery Life, Low Noise, Monitoring, Gain Control, One-Tap Mute, Rapid Charging, Capture Card Compatible, Black",
+      "rating": 4.1,
+      "reviews": 0,
+      "price": 20894,
+      "image": "https://m.media-amazon.com/images/I/71YYgBtJfHL._AC_SL1500_.jpg",
+      "searchPage": 7
+    },
+    {
+      "amazonRank": 166,
+      "asin": "B0GTXG96MZ",
+      "title": "MAILANGSHI 192kHz/32bitダイナミックマイク PC用 USB/XLR ゲーミングマイク | 95dB SNR、リアルタイムモニタリング、タッチミュート、RGB。ポッドキャスター、ゲーマー、コンテンツクリエイター向けのストリーミングマイク。",
+      "rating": 4.4,
+      "reviews": 0,
+      "price": 23330,
+      "image": "https://m.media-amazon.com/images/I/61cUT8B+QQL._AC_SL1500_.jpg",
+      "searchPage": 7
+    },
+    {
+      "amazonRank": 168,
+      "asin": "B0BVBBVB9R",
+      "title": "CHERRY UM 3.0 USB Microphone Podcast Streaming Home Office Cardioid Headphone Connection for PC/Mac/PS4/PS5 (Black)",
+      "rating": 3.8,
+      "reviews": 0,
+      "price": 16449,
+      "image": "https://m.media-amazon.com/images/I/61KzX4svirL._AC_SL1500_.jpg",
+      "searchPage": 7
+    },
+    {
+      "amazonRank": 169,
+      "asin": "B07W4DH8KG",
+      "title": "Logitech G Yeti GX Dynamic RGB Gaming Microphone with LIGHTSYNC USB Microphone for Streaming Super Cardioid USB Plug and Play for PC/Mac, White | ストリーミング用USBマイク、スーパーカーディオイド、PC/Mac用プラグアンドプレイ - ホワイト。",
+      "rating": 4.2,
+      "reviews": 0,
+      "price": 33353,
+      "image": "https://m.media-amazon.com/images/I/41dZ6leOWVL._AC_SL1500_.jpg",
+      "searchPage": 7
+    },
+    {
+      "amazonRank": 170,
+      "asin": "B09CCXPX51",
+      "title": "Blue Yeti USB Mic for Recording & Streaming on PC and Mac, 3 Condenser Capsules, 4 Pickup Patterns, Headphone Output and Volume Control, Mic Gain Control, Adjustable Stand - Silver (Renewed)",
+      "rating": 4.4,
+      "reviews": 0,
+      "price": 28826,
+      "image": "https://m.media-amazon.com/images/I/51ZZV+k9WXL._AC_SL1500_.jpg",
+      "searchPage": 8
+    },
+    {
+      "amazonRank": 171,
+      "asin": "B09D38565S",
+      "title": "Microphone for Podcast, USB Microphone Kit for Phone, PC/Micro/Mac/Android, Plug&Play Studio Microphone with Stand for Gaming, Online Chatting, Videos, Voice Overs, Streaming",
+      "rating": 4.1,
+      "reviews": 0,
+      "price": 11969,
+      "image": "https://m.media-amazon.com/images/I/71kqgeYqvBL._AC_SL1500_.jpg",
+      "searchPage": 8
+    },
+    {
+      "amazonRank": 172,
+      "asin": "B09DSRLKBT",
+      "title": "Thronmax MDrill One Pro 96kHz/24bit Multi-Directional USB Microphone",
+      "rating": 4,
+      "reviews": 0,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/31bgDKW8YVL._AC_SL1500_.jpg",
+      "searchPage": 8
+    },
+    {
+      "amazonRank": 173,
+      "asin": "B0DT9JVSRZ",
+      "title": "Mars Gaming MMIC-CX Professional Studio Microphone, Compact ARGB Design, ENC Noise Cancelling, Cardioid Capacitor, Mute Button, USB Plug & Play, 3.5mm Jack, White",
+      "rating": 4.2,
+      "reviews": 0,
+      "price": 12947,
+      "image": "https://m.media-amazon.com/images/I/612F-oq3+4L._AC_SL1500_.jpg",
+      "searchPage": 8
+    },
+    {
+      "amazonRank": 174,
+      "asin": "B0BM4PZGY4",
+      "title": "ENDORFY Solum Streaming T Noir Microphone de PC",
+      "rating": 5,
+      "reviews": 0,
+      "price": 16259,
+      "image": "https://m.media-amazon.com/images/I/51bceq+kDzL._AC_SL1500_.jpg",
+      "searchPage": 8
+    },
+    {
+      "amazonRank": 175,
+      "asin": "B0FGXYHFCX",
+      "title": "Replacement Gaming Microphone for Logitech G PRO X2, G PRO X Wireless, G Pro Wired Gaming Headset, Detachable Noise Cancelling Crystal Clear Gaming Microphone, 3.5mm Jack",
+      "rating": 4,
+      "reviews": 0,
+      "price": 3444,
+      "image": "https://m.media-amazon.com/images/I/51I0oATi0CL._AC_SL1500_.jpg",
+      "searchPage": 8
+    },
+    {
+      "amazonRank": 176,
+      "asin": "B0F1LKHQVN",
+      "title": "USB Microphone for Gaming, Streaming and Podcast Recording - Computer Microphone with USB C Plug & Play, Noise Canceling, Mute Gain Button - Studio Quality Sound for PC, Laptop, PS5",
+      "rating": 3.9,
+      "reviews": 0,
+      "price": 11521,
+      "image": "https://m.media-amazon.com/images/I/61a8xkWv2hL._AC_SL1500_.jpg",
+      "searchPage": 8
+    },
+    {
+      "amazonRank": 177,
+      "asin": "B081TR5D9M",
+      "title": "Movo UM700 Computer Condenser USB Gaming Microphone Pickup Pattern Adjustable - Microphone for PC, PS5, Podcasting, Streaming, ASMR",
+      "rating": 4.4,
+      "reviews": 0,
+      "price": 22991,
+      "image": "https://m.media-amazon.com/images/I/61095sTpCsL._AC_SL1500_.jpg",
+      "searchPage": 8
+    },
+    {
+      "amazonRank": 178,
+      "asin": "B0B19RSCFG",
+      "title": "3.5mm Replacement Microphone 19cm Noise Reduction Detachable SteelSeries Arctis 1 Wired Wireless Gaming Headset Black with Foam Cover",
+      "rating": 4,
+      "reviews": 0,
+      "price": 9288,
+      "image": "https://m.media-amazon.com/images/I/51LF5wKXWBL._AC_SL1500_.jpg",
+      "searchPage": 8
+    },
+    {
+      "amazonRank": 180,
+      "asin": "B09JQZH7TP",
+      "title": "Movo WebMic-HD Webcam and Condenser Microphone - 1080p HD Webcam Pro Cardioid Condenser Microphone - HD USB Camera and Computer Microphone for Streaming, Gaming, Telecommuting and Video Calling",
+      "rating": 4,
+      "reviews": 0,
+      "price": 12454,
+      "image": "https://m.media-amazon.com/images/I/51j3OnaUG7L._AC_SL1500_.jpg",
+      "searchPage": 8
+    },
+    {
+      "amazonRank": 181,
+      "asin": "B0BLFLN69G",
+      "title": "HyperX Duocast Omnidirectional USB Microphone RGB Lighting (Black Renewed)",
+      "rating": 4.4,
+      "reviews": 0,
+      "price": 30032,
+      "image": "https://m.media-amazon.com/images/I/51Y-LYs8B3L._AC_SL1500_.jpg",
+      "searchPage": 8
+    },
+    {
+      "amazonRank": 182,
+      "asin": "B0B2YDRPWN",
+      "title": "ENHANCE USB Microphone for PC - Omnidirectional Condenser Microphone with Mute Button LED Indicator 360 Degree Gooseneck - USB Microphone for Gaming PC PS5 Streaming YouTube Recording Zoom Podcast",
+      "rating": 3.8,
+      "reviews": 0,
+      "price": 12579,
+      "image": "https://m.media-amazon.com/images/I/71GBfntpyDL._AC_SL1500_.jpg",
+      "searchPage": 8
+    },
+    {
+      "amazonRank": 183,
+      "asin": "B0FNVV9BWL",
+      "title": "PUPGSIS レコーディングPCマイク ポッドキャストダイナミックマイク ミュートボタン付き リバーブエフェクト ヘッドフォンジャック デスクトップスタンド USB-C XLR出力 USBマイク ゲーム/ストリーミング/ボーカル/ボイスオーバー用 ブラック",
+      "rating": 4,
+      "reviews": 0,
+      "price": 12661,
+      "image": "https://m.media-amazon.com/images/I/51wzjS+SEqL._AC_SL1500_.jpg",
+      "searchPage": 8
+    },
+    {
+      "amazonRank": 185,
+      "asin": "B0FNW7YDMD",
+      "title": "PUPGSIS USB PCマイク ゲーミングマイク ストリーミング/ポッドキャスト/Twitch/YouTube用 Mac&WindowsのDiscord用 コンデンサー録音マイク ミュート ゲイン モニタリング ポップフィルター RGBインジケーター ブラック",
+      "rating": 4,
+      "reviews": 0,
+      "price": 11219,
+      "image": "https://m.media-amazon.com/images/I/61kjoe-nrGL._AC_SL1500_.jpg",
+      "searchPage": 8
+    },
+    {
+      "amazonRank": 186,
+      "asin": "B0C47C28VP",
+      "title": "RIG M100 HD Streaming Microphone - USB Microphone for Gaming, Recording, Podcast, Broadcast, Cardioid Polar Pattern, USB Plug and Play, for PS4, PS5, PC, Mac, Twitch, YouTube, Discord, Black",
+      "rating": 4.1,
+      "reviews": 0,
+      "price": 22068,
+      "image": "https://m.media-amazon.com/images/I/61otTFyBKAL._AC_SL1500_.jpg",
+      "searchPage": 8
+    },
+    {
+      "amazonRank": 187,
+      "asin": "B0012AUHXW",
+      "title": "Blue Microphones ポータブルタイプUSBマイクロフォン SNOWFLAKE",
+      "rating": 4.2,
+      "reviews": 0,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/71LKd8bujzL._AC_SL1500_.jpg",
+      "searchPage": 8
+    },
+    {
+      "amazonRank": 188,
+      "asin": "B09YHQPRWQ",
+      "title": "Blue Microphones Yeti USBマイク(ミッドナイトブルー) クローズドバックスタジオモニターヘッドフォンとポップフィルター付き 放送と録音用 (3アイテム)",
+      "rating": 5,
+      "reviews": 0,
+      "price": 37998,
+      "image": "https://m.media-amazon.com/images/I/71MBv6mixFL._AC_SL1500_.jpg",
+      "searchPage": 8
+    },
+    {
+      "amazonRank": 189,
+      "asin": "B0DPGGLJHM",
+      "title": "GXT 234P Yunix",
+      "rating": 4,
+      "reviews": 0,
+      "price": 9968,
+      "image": "https://m.media-amazon.com/images/I/51RHMWCoIwL._AC_SL1500_.jpg",
+      "searchPage": 8
+    },
+    {
+      "amazonRank": 190,
+      "asin": "B0H834KWJ7",
+      "title": "DJI mic 2 2v1 Mobile",
+      "rating": 1,
+      "reviews": 0,
+      "price": 38476,
+      "image": "https://m.media-amazon.com/images/I/61lV80N9y5L._AC_SL1500_.jpg",
+      "searchPage": 8
+    },
+    {
+      "amazonRank": 191,
+      "asin": "B0776H1N79",
+      "title": "HEIMU Wired Double Earhook Headset Boom Mini XLR Omni-Directional Microphone (for Audio-Technica Type 4 pin Mini Plug Skin)",
+      "rating": 4.6,
+      "reviews": 0,
+      "price": 9468,
+      "image": "https://m.media-amazon.com/images/I/316UzsGXZRL._AC_SL1500_.jpg",
+      "searchPage": 8
+    },
+    {
+      "amazonRank": 192,
+      "asin": "B0CGKHKDBQ",
+      "title": "Emerson EAM-9052 USBゲーム&ストリーミングコンデンサーマイク LED照明とポップフィルター付き",
+      "rating": 4,
+      "reviews": 0,
+      "price": 15641,
+      "image": "https://m.media-amazon.com/images/I/61ci-+5hv6L._AC_SL1500_.jpg",
+      "searchPage": 8
+    },
+    {
+      "amazonRank": 193,
+      "asin": "B0CJ7X98CB",
+      "title": "KONF Yealink VCM35 Mikrofon",
+      "rating": 4,
+      "reviews": 0,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/81sQ1dCLteL._AC_SL1500_.jpg",
+      "searchPage": 8
+    },
+    {
+      "amazonRank": 194,
+      "asin": "B0CNKLL2BB",
+      "title": "ENDORFY Solum Voice S Streaming Chat Podcast Recording Microphone RGB Lighting USB Plug and Play Tap to Mute Button GAIN Control Cardioid Pattern EY1B013",
+      "rating": 4.6,
+      "reviews": 0,
+      "price": 18340,
+      "image": "https://m.media-amazon.com/images/I/51qor8HipLL._AC_SL1500_.jpg",
+      "searchPage": 9
+    },
+    {
+      "amazonRank": 195,
+      "asin": "B0BM4QMG2M",
+      "title": "ENDORFY Solum Streaming Onyx White, USB Plug & Play, White USB Computer Microphone, Adjustable Arm, Pop Filter Hidden in Frame",
+      "rating": 5,
+      "reviews": 0,
+      "price": 27994,
+      "image": "https://m.media-amazon.com/images/I/51SGlKdu5kL._AC_SL1500_.jpg",
+      "searchPage": 9
+    },
+    {
+      "amazonRank": 196,
+      "asin": "B0FCNTTFFJ",
+      "title": "Movo USB Podcast Equipment Set for 2 - USB Interface with 2 UM700 Condenser Microphones - 4-Port Power Supply Hub for Streaming, Podcasting, Interview (with 2 Mics) | プラグアンドプレイ、ドライバーなし:Zoom、OBS、Audacity、Mac、Windows。 ヘッドホンモニタリング。 インタビュー、ストリーミング、教室に。",
+      "rating": 3.6,
+      "reviews": 0,
+      "price": 21262,
+      "image": "https://m.media-amazon.com/images/I/61JBSBVYZpL._AC_SL1500_.jpg",
+      "searchPage": 9
+    },
+    {
+      "amazonRank": 197,
+      "asin": "B0CBNVCCPJ",
+      "title": "SteelSeries Alias Pro Kit - XLR Microphone + Stream Mixer - 3x Larger Capsule for Gaming, Streaming and Podcasting - USB/XLR Interface - Sonar Audio Software - Custom Control - RGB - Single or Dual PC",
+      "rating": 4.4,
+      "reviews": 0,
+      "price": 60500,
+      "image": "https://m.media-amazon.com/images/I/61XUwdczOGL._AC_SL1500_.jpg",
+      "searchPage": 9
+    },
+    {
+      "amazonRank": 198,
+      "asin": "B09WJHYRR9",
+      "title": "THOR AV Hammer SE-9 ヘッドセットマイク (3.5mm - ゼンハイザーEW対応 ブラック)",
+      "rating": 4,
+      "reviews": 0,
+      "price": 74264,
+      "image": "https://m.media-amazon.com/images/I/416PkwVjPjL._AC_SL1500_.jpg",
+      "searchPage": 9
+    },
+    {
+      "amazonRank": 199,
+      "asin": "B09DHWCB6J",
+      "title": "BEACN Light Dynamic USB Microphone for PC | Professional Microphone for Podcast, Gaming, Streaming | Studio Quality Desk Microphone for YouTube, Twitch, Recording | Microphone for PC, Gaming, Streaming",
+      "rating": 4.4,
+      "reviews": 0,
+      "price": 62865,
+      "image": "https://m.media-amazon.com/images/I/71VyEoUKJsL._AC_SL1500_.jpg",
+      "searchPage": 9
+    },
+    {
+      "amazonRank": 200,
+      "asin": "B09MRSQDJ7",
+      "title": "Logitech Blue Sona Active Dynamic XLR Broadcast Microphone for Streaming and Content Creating, ClearAmp Active Preamplifier, Dual Diaphragm Capsules, Internal Shock Mount, Graphite",
+      "rating": 4.6,
+      "reviews": 0,
+      "price": 86257,
+      "image": "https://m.media-amazon.com/images/I/61dHlB8ZTlL._AC_SL1500_.jpg",
+      "searchPage": 9
+    },
+    {
+      "amazonRank": 201,
+      "asin": "B07YN26PBT",
+      "title": "Antlion Audio ModMic USB Mountable Noise Cancelling Microphone with Mute Switch for Mac, Windows PC, PlayStation 4 and More",
+      "rating": 3.9,
+      "reviews": 0,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/61XQyAviMvL._AC_SL1500_.jpg",
+      "searchPage": 9
+    },
+    {
+      "amazonRank": 202,
+      "asin": "B0DXQ8CN91",
+      "title": "JARO USB 192kHz/24bit Cardioid Condenser Microphone with Boom Arm Pop Filter Mute Noise Reduction for RGB Gaming Podcast Streaming Youtube Zoom Recording [PC Laptop Mac PS4/5 Compatible] J100-CB",
+      "rating": 4.2,
+      "reviews": 0,
+      "price": 19266,
+      "image": "https://m.media-amazon.com/images/I/71TswZIL5CL._AC_SL1500_.jpg",
+      "searchPage": 9
+    },
+    {
+      "amazonRank": 203,
+      "asin": "B0CXX1SCML",
+      "title": "Mute Button USB Microphone Cam Control Button One Touch Mute Button with LED Indicator PC Microphone Mute Switch Free Software Download for Online Calling Classes Recording Video",
+      "rating": 4.6,
+      "reviews": 0,
+      "price": 12358,
+      "image": "https://m.media-amazon.com/images/I/61WOgfgLNzL._AC_SL1500_.jpg",
+      "searchPage": 9
+    },
+    {
+      "amazonRank": 204,
+      "asin": "B00V66XWTI",
+      "title": "Audio-Technica AT8024 Stereo/Mono Camera-Mount Microphone by Audio-Technica",
+      "rating": 4.3,
+      "reviews": 0,
+      "price": 57059,
+      "image": "https://m.media-amazon.com/images/I/712l6fK+PSL._AC_SL1500_.jpg",
+      "searchPage": 9
+    },
+    {
+      "amazonRank": 205,
+      "asin": "B0D9CFFCFJ",
+      "title": "Logitech G Yeti GX Dynamic RGB Gaming Microphone, Black",
+      "rating": 4.6,
+      "reviews": 0,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/61YTNgk4vUL._AC_SL1500_.jpg",
+      "searchPage": 9
+    },
+    {
+      "amazonRank": 206,
+      "asin": "B0CXFDCRHQ",
+      "title": "MuteLight by On Air Warning Video Conference Indicator, Large and Bright, Double-Sided LED with On-Screen Mute Button. Change the color. Mute the on-screen microphone and cam. Mac & PC. (Vertical)",
+      "rating": 4.2,
+      "reviews": 0,
+      "price": 13061,
+      "image": "https://m.media-amazon.com/images/I/61kJYQa4hTL._AC_SL1500_.jpg",
+      "searchPage": 9
+    },
+    {
+      "amazonRank": 207,
+      "asin": "B0FGJNLF1Y",
+      "title": "USB/XLR デュアルモードデスクトップマイク RGB照明 3.5mmモニタリングジャック プロ用生放送 (マイクブームアームデュアルケーブルクリップ)",
+      "rating": 4,
+      "reviews": 0,
+      "price": 16231,
+      "image": "https://m.media-amazon.com/images/I/61xUMYdEOmL._AC_SL1500_.jpg",
+      "searchPage": 9
+    },
+    {
+      "amazonRank": 208,
+      "asin": "B0F2JHQF2T",
+      "title": "MXL MXLAC370 USB境界マイク",
+      "rating": 4,
+      "reviews": 0,
+      "price": 126546,
+      "image": "https://m.media-amazon.com/images/I/81hIip5S4EL._AC_SL1500_.jpg",
+      "searchPage": 9
+    },
+    {
+      "amazonRank": 209,
+      "asin": "B09DHXL8L8",
+      "title": "BEACN Dark Dynamic USB Microphone for PC | Professional Podcast Gaming & Streaming Microphone | Studio Quality Desk Microphone for YouTube, Twitch, Recording | YouTube、Twitch、ゲーム、ストリーミング、録音用のスタジオ品質のUSB-Cマイク。 RGB照明、DSPコントロール、ヘッドホンモニター。",
+      "rating": 4.4,
+      "reviews": 0,
+      "price": 52929,
+      "image": "https://m.media-amazon.com/images/I/71wXcR6m-3L._AC_SL1500_.jpg",
+      "searchPage": 9
+    },
+    {
+      "amazonRank": 210,
+      "asin": "B0DF46SQLB",
+      "title": "ASUS ROG Carnyx USB Gaming Microphone (25mm Capacitor Capsule, 192kHz/24-bit, Cardioid, Hi-Pass Filter, Built-In Pop Filter, Metal Shock Mount, One-Touch Mute, Aura Sync RGB) - Moonlight White",
+      "rating": 4.5,
+      "reviews": 0,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/71bRXWbs6iL._AC_SL1500_.jpg",
+      "searchPage": 9
+    },
+    {
+      "amazonRank": 211,
+      "asin": "B09DS9CQRH",
+      "title": "Thronmax Mdrill Zero Plus 96kHz/24bit Multi-Directional USB Microphone",
+      "rating": 4,
+      "reviews": 0,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/31hiVryxYIL._AC_SL1500_.jpg",
+      "searchPage": 9
+    },
+    {
+      "amazonRank": 212,
+      "asin": "B0B34YRMN8",
+      "title": "Blue Yeti USBマイク ノックスポップフィルター付(ミッドナイト、2個) | 3x14mmカプセル、4パターン、ゲインとミュート、ヘッドホンボル、レイテンシーなし3.5mm出力、Knox Gearポップフィルター付き。",
+      "rating": 4,
+      "reviews": 0,
+      "price": 34946,
+      "image": "https://m.media-amazon.com/images/I/31+XcSLnXHL._AC_SL1500_.jpg",
+      "searchPage": 9
+    },
+    {
+      "amazonRank": 213,
+      "asin": "B08SYJR67N",
+      "title": "Tula Mic Cream",
+      "rating": 4.4,
+      "reviews": 0,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/61w8bwCAG5L._AC_SL1500_.jpg",
+      "searchPage": 9
+    },
+    {
+      "amazonRank": 214,
+      "asin": "B00PG8VN20",
+      "title": "MXL 会議用USBマイクロフォン AC-424",
+      "rating": 3.8,
+      "reviews": 0,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/61Bm73dQfXL._AC_SL1500_.jpg",
+      "searchPage": 9
+    },
+    {
+      "amazonRank": 215,
+      "asin": "B0DDP56245",
+      "title": "Mute Kit - Busy light for mute button, camera, microphone, meeting status Free software download required. Customize your color. Works with All-Mute Button, Secure Mute, Zoom, Team Meeting, Webex, etc",
+      "rating": 4.3,
+      "reviews": 0,
+      "price": 23580,
+      "image": "https://m.media-amazon.com/images/I/71+eEnmRT7L._AC_SL1500_.jpg",
+      "searchPage": 9
+    },
+    {
+      "amazonRank": 216,
+      "asin": "B0BXB66NQY",
+      "title": "Nuance PowerMic 4マイク Dragon 16用 6フィート コイルコード",
+      "rating": 4,
+      "reviews": 0,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/61n11Sz-agL._AC_SL1500_.jpg",
+      "searchPage": 9
+    }
+  ],
+  "excluded": [
+    {
+      "amazonRank": 152,
+      "asin": "B0DH5HHS13",
+      "title": "取り外し可能なノイズキャンセリング交換用マイク HyperX Cloud Flight対応 回転可能なマイク PCゲーム用",
+      "rating": 4,
+      "reviews": 0,
+      "price": 2528,
+      "image": "https://m.media-amazon.com/images/I/51u7kPr0hkL._AC_SL1500_.jpg",
+      "searchPage": 7
+    },
+    {
+      "amazonRank": 154,
+      "asin": "B0FGXYJH4W",
+      "title": "マイク交換用 Kingston HyperX Cloud Alpha Cloud Alpha S ゲーミングヘッドセット ノイズキャンセリングマイク Switch PS5 PS4 Mac PC コンピューター用 3.5mmジャック",
+      "rating": 4.2,
+      "reviews": 0,
+      "price": 3554,
+      "image": "https://m.media-amazon.com/images/I/61JphrUHEzL._AC_SL1500_.jpg",
+      "searchPage": 7
+    },
+    {
+      "amazonRank": 156,
+      "asin": "B0DFCDNSFG",
+      "title": "交換用マイク Astro A40 A40TR ゲーミングヘッドホン ノイズキャンセリングマイク PS5 PS4 PC Mac Xbox One用 ウィンドスクリーン付き 3.5mm ブラック 7インチ",
+      "rating": 3.8,
+      "reviews": 0,
+      "price": 2528,
+      "image": "https://m.media-amazon.com/images/I/51CGGXLhiLL._AC_SL1500_.jpg",
+      "searchPage": 7
+    },
+    {
+      "amazonRank": 160,
+      "asin": "B0CQHSYRZM",
+      "title": "交換用ゲームマイク Turtle Beach Ear Force PX4 PX5 PX51 XP300 XP400 XP500 XP510 X4 X41 X42 500X ゲーミングヘッドセット用 取り外し可能なノイズキャンセリング クリスタルクリア ゲームマイク 2.5mmジャック",
+      "rating": 3.5,
+      "reviews": 0,
+      "price": 2548,
+      "image": "https://m.media-amazon.com/images/I/51O-fRMdoML._AC_SL1500_.jpg",
+      "searchPage": 7
+    },
+    {
+      "amazonRank": 167,
+      "asin": "B0CQHTDPMH",
+      "title": "交換用ゲームマイク Turtle Beach Ear Force XO Three XO Four Stealth Recon 150 50 50X 50P 60P ゲーミングヘッドセット ノイズキャンセリング クリスタルクリア ゲームサウンドマイクブーム 3.5mmジャック",
+      "rating": 4.1,
+      "reviews": 0,
+      "price": 2548,
+      "image": "https://m.media-amazon.com/images/I/51O-fRMdoML._AC_SL1500_.jpg",
+      "searchPage": 7
+    },
+    {
+      "amazonRank": 179,
+      "asin": "B0FRN2TFCG",
+      "title": "OYSTERBOY 交換用ゲーミングマイクブーム HyperX Cloudヘッドフォン、ノイズキャンセリングマイク(Cloud 3 III)用",
+      "rating": 4,
+      "reviews": 0,
+      "price": 3509,
+      "image": "https://m.media-amazon.com/images/I/41ml1LiNPaL._AC_SL1500_.jpg",
+      "searchPage": 8
+    },
+    {
+      "amazonRank": 184,
+      "asin": "B0CQGFX4FM",
+      "title": "Oilmal交換用マイクマイク RazerKrakenV3 / KrakenV3 ゲーミングヘッドセット 取り外し可能なヘッドホン マイクブーム RazerKrakenV3 / KrakenV3 ゲーミングヘッドセット用",
+      "rating": 5,
+      "reviews": 0,
+      "price": 4145,
+      "image": "https://m.media-amazon.com/images/I/41nuNerxSML._AC_SL1500_.jpg",
+      "searchPage": 8
+    }
+  ],
+  "raw": [
+    {
+      "amazonRank": 1,
+      "asin": "B075PJ7V3V",
+      "title": "FIFINE USB Microphone Condenser Microphone PC Microphone for Net Calls Game Streaming Remote Work Voice Chat Single Directional Adjustable Volume with Tripod Microphone Stand Compatible with Windows | 全金属製でノイズ干渉防止 USB高速伝送 マイク音量調節機能搭載 パソコン適用 USBケーブル付き(Type-Cアタブターあり) YouTube/Zoom/ASMR用のおすすめマイク",
+      "rating": 4.2,
+      "reviews": 0,
+      "price": 4899,
+      "image": "https://m.media-amazon.com/images/I/616cb57PoCL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 2,
+      "asin": "B09KNKBCQK",
+      "title": "FIFINE USB Condenser Microphone, RGB Lighting, Cardioid Directionality, Plug & Play, PC/PlayStation Mic, USB-C to A Cable Included, One-Touch Mute, YouTube, Skype, Discord, Zoom, Recording, Game",
+      "rating": 4.3,
+      "reviews": 0,
+      "price": 5699,
+      "image": "https://m.media-amazon.com/images/I/71laV06lutL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 3,
+      "asin": "B0DP54XTCG",
+      "title": "MAONO XLR/USB Gaming Microphone Noise Cancelling PC Microphone for Podcast, Streaming, Dynamic Microphone with Mute Button, Unidirectional for YouTube, Recording, Voice Chat, Live Streaming, Game",
+      "rating": 4.4,
+      "reviews": 0,
+      "price": 6944,
+      "image": "https://m.media-amazon.com/images/I/61VscaoyfML._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 4,
+      "asin": "B0CMTQPWQ8",
+      "title": "Razer レイザー Seiren V3 Mini コンデンサーマイク 超コンパクト設計 タップ式ミュートセンサー ゲーミングマイク USB マイク 配信 セイレーン ブイスリー ミニ【日本正規代理店保証品】",
+      "rating": 4.6,
+      "reviews": 0,
+      "price": 6880,
+      "image": "https://m.media-amazon.com/images/I/61YoVaG-ShL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 5,
+      "asin": "B0FLKJ7FH7",
+      "title": "HyperX SoloCast 2 Condenser Microphone USB Microphone with Built-in Shock Mount and Pop Filter for Telework/Streamer/Content Creator/Gamer Compatible with PC, Mac, PS4, PS5 Black 2-Year Manufacturer | ポップフィルター,テレワーク,ストリーマー,コンテンツクリエーター,ゲームプレイヤー向け,PC,Mac,PS4,PS5対応,メーカー保証2年間,カーディオイド（単一指向性）,タップでミュート,振動ノイズを抑制",
+      "rating": 4.4,
+      "reviews": 0,
+      "price": 8982,
+      "image": "https://m.media-amazon.com/images/I/71jznpAUWgL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 6,
+      "asin": "B0B6FTQTS8",
+      "title": "FIFINE USB Condenser Microphone, Tabletop Microphone, Unidirectional, Volume Adjustable, with Mute Button, Gooseneck Microphone Arm, PC Microphone for Online Meetings, Live Streaming, Game Streaming | Adjustable Volume with Mute Button for Online Meetings, Live Distribution, Gaming, Telework, PC/PS4/PS5",
+      "rating": 4.3,
+      "reviews": 0,
+      "price": 4099,
+      "image": "https://m.media-amazon.com/images/I/61y1+d8gYZL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 7,
+      "asin": "B09TN7QJ7Y",
+      "title": "FIFINE USB Condenser Microphone with RGB Light, Cardioid Directionality, Plug & Play, Computer/PlayStation Microphone, Includes USB Cable, One-Touch Mute, Ideal for YouTube, Skype, Discord, Zoom",
+      "rating": 4.3,
+      "reviews": 0,
+      "price": 7999,
+      "image": "https://m.media-amazon.com/images/I/71M5zSSCxsL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 8,
+      "asin": "B0D3DRTGQ7",
+      "title": "FDUCE Gaming USB Microphone, Mute, Gain, Monitoring, RGB Condenser Microphone with Boom Arm for Streaming, Podcast, Twitch, YouTube, PC, Computer, PS5 (M160+)",
+      "rating": 4.3,
+      "reviews": 0,
+      "price": 4500,
+      "image": "https://m.media-amazon.com/images/I/61xiVpKKZZL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 9,
+      "asin": "B09R48XTP9",
+      "title": "ZOOM ZUM-2PMP USB Condenser Microphone Set | Microphone + Headphone + Stand, Domestic Authentic Products, Game Reviews, VTuber, Narration",
+      "rating": 4.6,
+      "reviews": 0,
+      "price": 3020,
+      "image": "https://m.media-amazon.com/images/I/51gI1czoUBL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 10,
+      "asin": "B0GX7BKVDX",
+      "title": "Dynamic Microphone, XLR/USB Connection, Noise Reduction Gaming Microphone, Unidirectional, Volume Control, Echo Adjustment, Mute Function, XLR Interface, With RGB Light, Headphone Jack, Real-time",
+      "rating": 4.7,
+      "reviews": 0,
+      "price": 5125,
+      "image": "https://m.media-amazon.com/images/I/516QDkvNHhL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 11,
+      "asin": "B0GSQPND7C",
+      "title": "GRAPHT (Arm Set) Condenser Microphone, Ultra-Small, XLR Connection, Microphone Arm, Low Profile, Black, Vtuber Distribution, Gaming, Sharp, Small, Integrated Cable, XLR Terminal, Load Capacity, 4.4",
+      "rating": 2.9,
+      "reviews": 0,
+      "price": 21940,
+      "image": "https://m.media-amazon.com/images/I/51rn6tEIkUL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 12,
+      "asin": "B0FH27MKW5",
+      "title": "【2025 New Release・Enhanced Sound Quality】BILIWAL Pin Microphone Wireless Compatible with iPhone iPad Android Vlog Cameras Instant Connection Audio-Video Synchronization Noise Reduction Pairing Lock | Type-C ノイズ軽減 ペアリングロック機能 リバーブ機能 9時間連続使用 360°集音 超ミニ クリップ式 2個セット Vlogカメラ対応 Vlog撮影/動画配信/生放送/ASMR/TikTok用（受信機:Type-C端子）",
+      "rating": 3.6,
+      "reviews": 0,
+      "price": 3680,
+      "image": "https://m.media-amazon.com/images/I/71C5W10PbdL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 13,
+      "asin": "B0DXW278KB",
+      "title": "HyperX QuadCast 2 Condenser Microphone USB Microphone for Streamers/Content Creators/Gamers/PC Mac 2-Year Manufacturer Warranty Frost AN1D9AA | Ambassador-favorite for streamers, content creators, gamers, PC, Mac, studio-level sound quality of 24 bit/96 KHz",
+      "rating": 4.6,
+      "reviews": 0,
+      "price": 22800,
+      "image": "https://m.media-amazon.com/images/I/51x+qqX44-L._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 14,
+      "asin": "B0CF23FR3T",
+      "title": "FIFINE AM8T XLR/USB Gaming Microphone Set for Streaming, Podcasting, Dynamic Microphone, PC Microphone, Boom Arm Stand, RGB Function, Mute Button, Headphone Jack, Vocal Chat, Recording, Distribution | 接続簡単 音声モニター/ワンタッチ式ミュート/デュアル音量調節機能搭載 USBケーブル付き(Type-Cアタブターあり) パソコン/XLR機器適用 録音用/会議用/卓上用のおすすめマイク",
+      "rating": 4.4,
+      "reviews": 0,
+      "price": 10799,
+      "image": "https://m.media-amazon.com/images/I/71Kpw41yVTL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 15,
+      "asin": "B0BVVX5FBD",
+      "title": "FIFINE XLR/USB Connection Dynamic Microphone for Gaming, Streaming, and Broadcasting, Single Directional, Noise Reduction, Plug & Play, Compatible with PC, PS4, PS5, Live Streaming, Game Commentary | 接続簡単 音声モニター/ワンタッチ式ミュート/デュアル音量調節機能搭載 USBケーブル付き(Type-Cアタブターあり) パソコン/XLR機器適用 配信用/会議用/卓上用のおすすめマイク",
+      "rating": 4.2,
+      "reviews": 0,
+      "price": 9099,
+      "image": "https://m.media-amazon.com/images/I/61hGerNcY1L._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 16,
+      "asin": "B0FJ899YS7",
+      "title": "COMICA EJoy Uni S USB Condenser Microphone, AI Noise Cancelling Microphone, RGB Lighting, Noise Reduction, One-Touch Mute, Game Streaming, Home Work, Podcast, Streaming, Narration Recording | RGBライティング ノイズ軽減 ワンタッチミュート 配信用マイク ゲーム実況 在宅勤務 ポッドキャスト ストリーミング ナレーション録音に最適(白)",
+      "rating": 4.2,
+      "reviews": 0,
+      "price": 6382,
+      "image": "https://m.media-amazon.com/images/I/5197u64JRWL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 17,
+      "asin": "B0CMTRDWLL",
+      "title": "Razer レイザー Seiren V3 Mini White コンデンサーマイク 超コンパクト設計 タップ式ミュートセンサー ゲーミングマイク USB マイク 配信 セイレーン ブイスリー ミニ ホワイト",
+      "rating": 4.6,
+      "reviews": 0,
+      "price": 7878,
+      "image": "https://m.media-amazon.com/images/I/61SOA8-WWJL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 18,
+      "asin": "B0CWGP7BX1",
+      "title": "Razer Seiren V3 Mini Condenser Microphone, Ultra Compact Design, Tap-to-Mute Sensor, Gaming Microphone, USB Microphone, Streaming, Seiren V3 Mini [Japanese Official Distributor Warranty]",
+      "rating": 4.5,
+      "reviews": 0,
+      "price": 8380,
+      "image": "https://m.media-amazon.com/images/I/61YoVaG-ShL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 19,
+      "asin": "B0BC913ZHC",
+      "title": "FIFINE USB Condenser Microphone for Gamers with RGB Lighting, Cardioid Directionality, Plug & Play PC Microphone with USB Cable, Compatible with PlayStation Microphone, Touch Mute/RGB Control | USB高速伝送 RGBライト/ワンタッチ式ミュート/音声モニター/マイク音量調節機能搭載 パソコン適用 フィルター/USBケーブル付き(Type-Cアタブターあり) ゲーム実況/web会議用のおすすめマイク",
+      "rating": 4.2,
+      "reviews": 0,
+      "price": 7199,
+      "image": "https://m.media-amazon.com/images/I/71RiWEOm+ZL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 20,
+      "asin": "B0DXQ1HZ8Y",
+      "title": "MAONO XLR/USB Gaming Microphone, Noise Cancelling, PC Microphone, for Podcast, Streaming, Dynamic Microphone, Mute Button, Unidirectional, YouTube Recording, Voice Chat, Live Distribution, Games, PD100X, White",
+      "rating": 4.4,
+      "reviews": 0,
+      "price": 7184,
+      "image": "https://m.media-amazon.com/images/I/61NOO64eO+L._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 21,
+      "asin": "B0D1R5VK6B",
+      "title": "Logicool G Gaming Microphone YETI ORB Condenser Microphone G-YETI-ORB-WH Streaming Broadcast Noise Reduction RGB LIGHTSYNC USB BLUE VO!CE PC MAC Gaming Microphone White Condenser Windows Authentic",
+      "rating": 4.3,
+      "reviews": 0,
+      "price": 7900,
+      "image": "https://m.media-amazon.com/images/I/619KbWWZ7sL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 22,
+      "asin": "B0CWGS19RG",
+      "title": "Razer Seiren V3 Mini White Condenser Microphone, Ultra-Compact Design, Tap-to-Mute Sensor, Gaming Microphone, USB Microphone for Streaming, Seiren V3 Mini White [Japanese Official Distributor Warranty",
+      "rating": 4.3,
+      "reviews": 0,
+      "price": 8381,
+      "image": "https://m.media-amazon.com/images/I/61SOA8-WWJL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 23,
+      "asin": "B09XXN89YZ",
+      "title": "FIFINE USB Condenser Microphone, RGB Lighting, Cardioid Directional, Plug & Play, PC/PlayStation Microphone, USB-C to A Cable Included, One-Touch Mute, YouTube, Skype, Discord, Zoom, Recording, Game",
+      "rating": 4.3,
+      "reviews": 0,
+      "price": 5899,
+      "image": "https://m.media-amazon.com/images/I/71xYz2XgfIL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 24,
+      "asin": "B09XXNXZ11",
+      "title": "FIFINE USB Condenser Microphone RGB Lighting Cardioid Directionality Plug & Play PC/PS Microphone with USB-C to A Cable, One-Touch Mute, Ideal for YouTube, Skype, Discord, Zoom, Recording, Gaming",
+      "rating": 4.2,
+      "reviews": 0,
+      "price": 5899,
+      "image": "https://m.media-amazon.com/images/I/81x3cD5l1tL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 25,
+      "asin": "B0CNVZ27YH",
+      "title": "DUNGZDUZ USB Microphone for Laptop and Desktop USB Microphone for Laptop and Desktop, High Sensitivity for Clear Calls, Plug and Play, High Gain, Cordless Mini Size Portable, Ideal for Work and Study | High sensitivity microphone for clear voice recording Compact design, easy to carry, perfect for work or study",
+      "rating": 4,
+      "reviews": 0,
+      "price": 1799,
+      "image": "https://m.media-amazon.com/images/I/51CuBiCQGrL._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 26,
+      "asin": "B0CBLWD9T5",
+      "title": "FIFINE AM8W USB/XLR Dynamic Microphone, Unidirectional PC/PS4/PS5 Compatible, For Gaming/Distribution, White | 接続簡単 音声モニター/ワンタッチ式ミュート/デュアル音量調節機能搭載 USBケーブル付き(Type-Cアタブターあり) パソコン/XLR機器適用 録音用/会議用/卓上用のおすすめマイク",
+      "rating": 4.3,
+      "reviews": 0,
+      "price": 9399,
+      "image": "https://m.media-amazon.com/images/I/61S2XqhSC4L._AC_SL1500_.jpg",
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 27,
+      "asin": "B0DG9X4WHW",
+      "title": "HyperX QuadCast 2 S Condenser Microphone USB Microphone with RGB Lighting Black for Telework/Streamer/Content Creator/Gamer PC Mac Manufacturer Warranty 2 Years 9A273AA | 指向性の変更可能,単一指向性、全方向性、双指向性、ステレオ,RGBライティング,ストリーマー,コンテンツクリエーター,ゲーマー向け,PC,Mac,メーカー保証2年間,LEDインジケーター,",
+      "rating": 4.6,
+      "reviews": 0,
+      "price": 29716,
+      "image": "https://m.media-amazon.com/images/I/61be+CZMIkL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 28,
+      "asin": "B077Y974JF",
+      "title": "FIFINE USB Pin Microphone Mini Clip Microphone Condenser Microphone Unidirectional Earphone Jack with Audio Monitoring PC Microphone for Internet Calls Game Commentary Live Streaming Recording Remote | 単一指向性 イヤホン端子付き 音声モニタリング可能 PC用マイク ネット通話 ゲーム実況 ライブ配信 録音 在宅勤務 会議用 Windows/Macに対応 適格請求書発行可",
+      "rating": 3.7,
+      "reviews": 0,
+      "price": 2999,
+      "image": "https://m.media-amazon.com/images/I/61vIelHXx1L._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 29,
+      "asin": "B09NRHF5CD",
+      "title": "FIFINE K683B USBデスクトップPCマイク ポップフィルター付き コンピューターとMac用 スタジオコンデンサーマイク ゲインコントロール付き ミュートボタン ヘッドホンジャック デスクスタンド 予備USB-Cプラグ ブラック",
+      "rating": 3.9,
+      "reviews": 0,
+      "price": 4500,
+      "image": "https://m.media-amazon.com/images/I/519Ski3cM5L._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 30,
+      "asin": "B07ZQB2VF3",
+      "title": "Cubilux Type-C Microphone, Compatible with iPhone 16/15 Pro Max, iPad Pro 13/12.9/11, iPad Air 13/5th/4th, Samsung S25/S24/S23/S22 Ultra, Tab S10/S9/S8/S7, Pixel 9/8/7/6 Pro 8a/7a/6a, USB C Clip-on",
+      "rating": 4.2,
+      "reviews": 0,
+      "price": 2790,
+      "image": "https://m.media-amazon.com/images/I/61jjmCbCo4L._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 31,
+      "asin": "B0CF269L4N",
+      "title": "FIFINE AM8TW XLR/USB Gaming Microphone Set for Streaming, Podcasting, Dynamic Microphone, PC Microphone, Boom Arm Stand, RGB Function, Mute Button, Headphone Jack, Vocal Chat, Recording, Distribution | 接続簡単 音声モニター/ワンタッチ式ミュート/デュアル音量調節機能搭載 USBケーブル付き(Type-Cアタブターあり) パソコン/XLR機器適用 録音用/会議用/卓上用のおすすめマイク",
+      "rating": 4.1,
+      "reviews": 0,
+      "price": 11199,
+      "image": "https://m.media-amazon.com/images/I/71O6DVRaiXL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 32,
+      "asin": "B0FKTCPR94",
+      "title": "HyperX FlipCast Dynamic Microphone XLR/USB Dual Connection Cardioid (Unidirectional) with Multifunction Knob, Tap Mute Compatible, NGENUITY Compatible for Telework, Streamers, Content Creators, Gamers | ,XLR/USB,デュアルコネクション,カーディオイドマルチファンクションノブ搭載,NGENUITY対応,テレワーク,ストリーマー,コンテンツクリエーター,ゲーマー向け,PC,Mac,PS4,PS5,Nintendo,Switch,保証2年間,",
+      "rating": 4.6,
+      "reviews": 0,
+      "price": 31980,
+      "image": "https://m.media-amazon.com/images/I/61g9pDg870L._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 33,
+      "asin": "B0GJD41V2J",
+      "title": "Sanwa Supply MM-MCTC02NC Noise Canceling USB Microphone",
+      "rating": 4,
+      "reviews": 0,
+      "price": 8640,
+      "image": "https://m.media-amazon.com/images/I/61wVfUAs2eL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 34,
+      "asin": "B0BXSSNL15",
+      "title": "FIFINE A8Plus USB Condenser Microphone, 4 Directional with Stand, Compatible with PC/PS4/PS5, for Game Play/ASMR Distribution | 単一指向性 双方向性 無指向性 ステレオ指向性 ミュートボタン/音量調整 /RGBライティング 録音/Web会議用のおすすめマイク",
+      "rating": 4.7,
+      "reviews": 0,
+      "price": 9199,
+      "image": "https://m.media-amazon.com/images/I/71qAuF4d9wL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 35,
+      "asin": "B0B4V4232M",
+      "title": "FIFINE USB Condenser Microphone RGB Light Cardioid Directionality Plug & Play Computer/PlayStation Microphone with USB Cable One-Touch Mute for YouTube Skype Discord Zoom Recording Game Streaming",
+      "rating": 4.3,
+      "reviews": 0,
+      "price": 8299,
+      "image": "https://m.media-amazon.com/images/I/811LnykHypL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 36,
+      "asin": "B0DNQ8CLXR",
+      "title": "Hollyland Lark M2S USB Type-C Version [2025DGP Gold Award] (USB-C RX) Wireless Microphone, Ultra Lightweight 0.3 oz (7 g), Titanium Clip-Type, 48 Khz/24 Bit, Wireless Lavalier Microphone for iPhone",
+      "rating": 4.5,
+      "reviews": 0,
+      "price": 17500,
+      "image": "https://m.media-amazon.com/images/I/61jFVkpc5rL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 37,
+      "asin": "B09XXPNXX4",
+      "title": "FIFINE USB Condenser Microphone, RGB Lighting, Cardioid Directionality, Plug & Play, PC/PlayStation Mic, USB-C to A Cable Included, One-Touch Mute, YouTube, Skype, Discord, Zoom, Recording, Game",
+      "rating": 4.1,
+      "reviews": 0,
+      "price": 5899,
+      "image": "https://m.media-amazon.com/images/I/71PGCFw34GL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 38,
+      "asin": "B0FP5534M6",
+      "title": "USB-C Mini Microphone for Mac mini M4/M4 Pro, MacBook, Plug & Play | Compact and portable condenser microphone. Clear voice recording, perfect for work and learning",
+      "rating": 4.3,
+      "reviews": 0,
+      "price": 1769,
+      "image": "https://m.media-amazon.com/images/I/51rsfXxK4cL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 39,
+      "asin": "B0CF24YH9S",
+      "title": "FIFINE XLR/USB Gaming Microphone Set for Streaming, Podcast, Dynamic Microphone, PC Microphone with Boom Arm Stand, RGB Function, Mute Button, Headphone Jack, Vocal, Voice Chat, Recording, Streaming | 接続簡単 音声モニター/ワンタッチ式ミュート/デュアル音量調節機能搭載 USBケーブル付き(Type-Cアタブターあり) パソコン/XLR機器適用 録音用/会議用/卓上用のおすすめマイク",
+      "rating": 4.5,
+      "reviews": 0,
+      "price": 11199,
+      "image": "https://m.media-amazon.com/images/I/61ga131-QlL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 40,
+      "asin": "B01N122H2L",
+      "title": "FIFINE K669 USB Microphone, Condenser Microphone, Unidirectional Microphone, for PC, Internet Calls, Home Work, Distribution, Games, Home Recording, Volume Adjustable, Tripod Stand Included | ネット通話 在宅勤務 配信 ゲーム実況 宅録 音量調節可能 三脚スタンド付属 Windows/Mac/PS4に対応",
+      "rating": 4.2,
+      "reviews": 0,
+      "price": 4899,
+      "image": "https://m.media-amazon.com/images/I/61T3rxgomlL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 41,
+      "asin": "B0839FL7J5",
+      "title": "Cubilux Type-C Microphone, Compatible with iPad Pro 13/12.9/11, iPad Air 13/5th/4th, iPad 10, Samsung Galaxy S25/S24/S23/S22 Ultra, Google Pixel 9/8/7/6 Pro 8a/7a/6a XL, USB Type C Microphone, 3M",
+      "rating": 4.1,
+      "reviews": 0,
+      "price": 2890,
+      "image": "https://m.media-amazon.com/images/I/61jjmCbCo4L._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 42,
+      "asin": "B0CNXKMSJG",
+      "title": "Razer Seiren V3 Chroma - RGB USB Microphone with Tap to Mute (Reactive Lighting for Stream and Game, Supercardioid Condenser Microphone, Digital Gain Limiter, Built-in Shock Absorber) Black",
+      "rating": 4.6,
+      "reviews": 0,
+      "price": 21980,
+      "image": "https://m.media-amazon.com/images/I/71CnqjberCL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 43,
+      "asin": "B0F637C7JG",
+      "title": "Cubilux USB C Gooseneck Microphone Type C Boom Microphone for MacBook Pro/Air iPhone 17/16/15 iPad Pro 13/12.9/11 iPad Air 13/11 Galaxy S25/S24/S23 Pixel 10/9/8/7/6 Pro Laptop 30cm",
+      "rating": 2.9,
+      "reviews": 0,
+      "price": 2690,
+      "image": "https://m.media-amazon.com/images/I/61TWlriSNLL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 44,
+      "asin": "B0D29CJGGH",
+      "title": "Bluetooth Wireless Microphone, Mini Size, Clear Sound Quality, For Online Meetings, Classes, Live Streaming, Live Streaming, Video Streaming, For Work, Entertainment, Recording, Compatible with Gopro HERO 12",
+      "rating": 2.5,
+      "reviews": 0,
+      "price": 7700,
+      "image": "https://m.media-amazon.com/images/I/61n7K8X7IYL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 45,
+      "asin": "B0BC8XB73V",
+      "title": "FIFINE USB Condenser Microphone, RGB Light, Cardioid Directional, Plug & Play PC Microphone, PlayStation Microphone with USB Cable, Touch Mute, RGB Control, YouTube, Skype, Discord, Zoom, Recording | USB高速伝送 RGBライト/ワンタッチ式ミュート/音声モニター/マイク音量調節機能搭載 パソコン適用 フィルター/USBケーブル付き(Type-Cアタブターあり) ゲーム実況/web会議用のおすすめマイク",
+      "rating": 4.3,
+      "reviews": 0,
+      "price": 7199,
+      "image": "https://m.media-amazon.com/images/I/71-KfVbQ3FL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 46,
+      "asin": "B0DFGMHM4B",
+      "title": "Lavalier Microphone USB-C, Condenser Microphone Compatible with iPhone 16/15 & Android Type-C, USB-A Connection for PC and Laptop, 200CM Length, Ideal for YouTube Shooting, Vlog, ASMR, Interviews, and | 全指向性コンデンサーピンマイク，iPhone 17/16/15、Samsung、Google、OnePlus、PC対応，YouTube・インタビュー・ポッドキャストに最適",
+      "rating": 3.9,
+      "reviews": 0,
+      "price": 2499,
+      "image": "https://m.media-amazon.com/images/I/61e83g3e0gL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 47,
+      "asin": "B0BW87WZSV",
+      "title": "MAONO Gaming Microphone USB/XLR PC Microphone Unidirectional Dynamic Microphone Dedicated Software Mute Button RGB Lighting Voice Chat Live Streaming Narration Recording Optimal for Game Commentary",
+      "rating": 4.3,
+      "reviews": 0,
+      "price": 12699,
+      "image": "https://m.media-amazon.com/images/I/51kUjSEv6mL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 48,
+      "asin": "B0CWGTBPSB",
+      "title": "Razer Seiren V3 Chroma Condenser Microphone, Multifunction, Tap-to-Mute Sensor, Gaming Microphone, USB Microphone, Streaming, Seiren V3 Chroma [Official Japanese Distributor Warranty]",
+      "rating": 4.3,
+      "reviews": 0,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/71CnqjberCL._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 49,
+      "asin": "B0C6CNWHW1",
+      "title": "BitTradeOne Binaural Microphone \"Beautiful Ear\" Easy Binaural Recording, ASMR Environmental Sound Recording, Ear Cleaning ADBMM (W x H x D): 7.2 x 1.9 x 2.6 inches (182 x 48 x 65 mm)",
+      "rating": 4.1,
+      "reviews": 0,
+      "price": 23400,
+      "image": "https://m.media-amazon.com/images/I/41e3NTmB-1L._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 50,
+      "asin": "B0CK4MM8XB",
+      "title": "SteelSeries Alias Pro PC PS5/4 Compatible XLR Microphone for Streaming, Gaming, Streamers, Content Creators, Sonar Audio Software with AI Noise Cancellation, Unidirectional Cardioid",
+      "rating": 4.4,
+      "reviews": 0,
+      "price": 38495,
+      "image": "https://m.media-amazon.com/images/I/81PIkCNzI4L._AC_SL1500_.jpg",
+      "searchPage": 2
+    },
+    {
+      "amazonRank": 51,
+      "asin": "B0GS5Q54Z3",
+      "title": "GRAPHT Ultra Compact Condenser Microphone, 2.4 inches (60 mm), Made in Japan, High Parker Diode, XLR Connection, White, Distribution, Gaming, Integrated Cable, Sharp, xlr Terminal, Vtuber Streamer",
+      "rating": 4.7,
+      "reviews": 0,
+      "price": 14960,
+      "image": "https://m.media-amazon.com/images/I/513Yf4PGEqL._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 52,
+      "asin": "B0CDX2GYRY",
+      "title": "CDM25U Desktop USB Microphone",
+      "rating": 5,
+      "reviews": 0,
+      "price": 980,
+      "image": "https://m.media-amazon.com/images/I/41dVrvqnjTL._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 53,
+      "asin": "B0GXK5HQT1",
+      "title": "Pin Microphone Type C Microphone Wired for iPhone 17/16/15 Series, iPad Pro 13/12.9/11, iPad Air 13/5th/4th, Samsung S25/S24/S23/S22 Ultra, Tab S10/S9/S8/S7, Pixel 9/8/7/6 Pro 8a/7a/6 a, USB C Clip",
+      "rating": 4,
+      "reviews": 0,
+      "price": 1280,
+      "image": "https://m.media-amazon.com/images/I/61oID7NtzzL._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 54,
+      "asin": "B0CBLXVCCD",
+      "title": "FIFINE AM8P USB/XLR Standalone Microphone, Unidirectional Dynamic Microphone, Compatible with PC/PS4/PS5 | ストリーマー ゲーマー PC/PS4/PS5/サウンドカード/ミキサー/オーディオインターフェース対応可能 ミュートボタン RGBイルミネーションスイッチ 入力/出力音量調節 ヘッドフォン端子付き ピンク AmpliGame",
+      "rating": 4,
+      "reviews": 0,
+      "price": 9399,
+      "image": "https://m.media-amazon.com/images/I/61XZPF4HIbL._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 55,
+      "asin": "B0C1ZJVFSS",
+      "title": "Logicool G Blue Snowball BM250W USB Gaming Microphone Condenser Microphone Unidirectional Live Streaming Streaming Microphone Compact Game Gaming PC Mac PS5 PS4 White White Authentic Product 2-Year",
+      "rating": 4,
+      "reviews": 0,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/516FtMy+aUL._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 56,
+      "asin": "B0DP48MZ4Q",
+      "title": "NEEWER LM2 Lapel Microphone, USB A Wired Microphone, Clip On, Plug & Play, Omnidirectional, Long Range Transmission, Noise Reduction, Includes 0.14 inch (3.5 mm) Monitoring Headphone Jack, Mini",
+      "rating": 3.8,
+      "reviews": 0,
+      "price": 2969,
+      "image": "https://m.media-amazon.com/images/I/61l9mYIjxEL._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 57,
+      "asin": "B00Q3K32I8",
+      "title": "Audio-Technica USB Microphone PC Microphone Condenser Microphone Streamer Content Creator Gamer Voice Chat Commentary Windows MAC Domestic Genuine Product",
+      "rating": 4.5,
+      "reviews": 0,
+      "price": 17000,
+      "image": "https://m.media-amazon.com/images/I/81YKCbgqkuL._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 58,
+      "asin": "B088P2WK3B",
+      "title": "Elgato Wave 1/3 Microphone Exclusive Accessory Shock Mount / Enhanced Rubber Vibration Resistant Suspension Shock Mount Noise Control Accessories | Reinforced elastic suspension, solid steel chassis, native 5/8\" thread, with 3/8\" and 1/4\" adapters",
+      "rating": 4.8,
+      "reviews": 0,
+      "price": 6473,
+      "image": "https://m.media-amazon.com/images/I/51qfVBdYUoL._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 59,
+      "asin": "B09L7QD1HP",
+      "title": "USB Microphone Thronmax ROSA EDITION Pink MG-M4R",
+      "rating": 4,
+      "reviews": 0,
+      "price": 4980,
+      "image": "https://m.media-amazon.com/images/I/511OG7uK-dL._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 60,
+      "asin": "B08LYCJJY4",
+      "title": "Miyoshi ZUMF-04/BK USB Digital Microphone, Flexible Arm with Mute Switch, All-Omnidirectional Type, Compatible with Windows/MacOS",
+      "rating": 4.3,
+      "reviews": 0,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/51KPaT5bD0L._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 61,
+      "asin": "B0DHCGFBPN",
+      "title": "Elgato Wave: 3 - Premium USB Capacity - Microphone, \"Call of Duty: Black Ops 6\" Special Edition Distribution, Podcast, Playback and Home Office Applications, Free Mixer Software, Sound Effect Plug-in, No Distortion, Plug & Play Mac/PC",
+      "rating": 5,
+      "reviews": 0,
+      "price": 20565,
+      "image": "https://m.media-amazon.com/images/I/61QFjLg4JHL._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 62,
+      "asin": "B088P2KKHS",
+      "title": "Elgato Wave:1 - Premium Cardioid USB Condenser Microphone, Perfect for Distribution, Gaming, Home Office, Free Mixer Software, Sound Effect Plug-in, No Distortion, Plug & Play, Mac/PC Compatible, Stream Deck Compatible",
+      "rating": 4.7,
+      "reviews": 0,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/61chF9lKLzL._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 63,
+      "asin": "B0DNSWRPJ8",
+      "title": "HB128 USB Gaming Condenser Microphone Pink Heart Design One Click Mute Gain Control Plug and Play for PC/Console/Phone, Twitch/YouTube/TikTok, Streamer Gamer, Video Creator",
+      "rating": 4.2,
+      "reviews": 0,
+      "price": 9900,
+      "image": "https://m.media-amazon.com/images/I/41JZL20glML._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 64,
+      "asin": "B0FDB13F3V",
+      "title": "Streamplify Microphone, Condenser Microphone, Unidirectional Microphone, MIC Mini MIC-MINI-48-RGB-ST-BK",
+      "rating": 4,
+      "reviews": 0,
+      "price": 5800,
+      "image": "https://m.media-amazon.com/images/I/61FgSkcZGsL._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 65,
+      "asin": "B0BYX4RQFS",
+      "title": "Logicool G Blue Yeti X BM600X USB Gaming Microphone, Condenser Microphone, PC, Mac, PS5, PS4, Audio Distribution, Black",
+      "rating": 3.2,
+      "reviews": 0,
+      "price": 24800,
+      "image": "https://m.media-amazon.com/images/I/61ZoOwXWjLL._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 66,
+      "asin": "B0C253KWRT",
+      "title": "Saramonic Blink Me B2 2.4G Touch Screen Wireless Microphone System (2 Transmitters, 1 Receiver)",
+      "rating": 4.2,
+      "reviews": 0,
+      "price": 7993,
+      "image": "https://m.media-amazon.com/images/I/71VlEi9skOL._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 67,
+      "asin": "B07D561S67",
+      "title": "Dynamic Microphone with 6 Feet Cord, Lightweight, Battery-Free, Plug and Play Accessory, Designed for SPKA30/SPKA700 Karaoke Machines | PC Microphone with Mute Button & LED Indicator, Noise Cancelling Technology, Plug and Play, Compatible with Windows & MacOS",
+      "rating": 4.4,
+      "reviews": 0,
+      "price": 9221,
+      "image": "https://m.media-amazon.com/images/I/51PTOTHzHkL._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 68,
+      "asin": "B0C8MGHR2C",
+      "title": "Audio Technica Condenser Microphone AT2020USB-XP & Microphone Arm 8700J USB-Type-C No Driver Required Gaming Microphone Streaming Microphone Home Recording Windows MAC PS4 PS5 Domestic Genuine Product",
+      "rating": 4,
+      "reviews": 0,
+      "price": 35200,
+      "image": "https://m.media-amazon.com/images/I/81oLHNQdg9L._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 69,
+      "asin": "B09DTJ3NFS",
+      "title": "NZXT CAPSULE BLACK Cardioid USB Microphone AP-WUMIC-B1 SP1008",
+      "rating": 4.5,
+      "reviews": 0,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/618PQZYODmL._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 70,
+      "asin": "B0D1R585XT",
+      "title": "Logitech G Gaming Microphone, YETI GX Dynamic Microphone, G-YETI-GX-WH, Streaming, Super Cardioid Noise Reduction, RGB LIGHTSYNC Compatible, USB BLUE VO!CE PC MAC Gaming Microphone, White, Windows",
+      "rating": 3.8,
+      "reviews": 0,
+      "price": 28882,
+      "image": "https://m.media-amazon.com/images/I/51PRX4x-UEL._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 71,
+      "asin": "B08KDVW9Z3",
+      "title": "Audio-Technica ATR2100x-USB USB Microphone for Telework/Home Work/Live Broadcast/Recording/Podcast/Live Video (Black)",
+      "rating": 4.1,
+      "reviews": 0,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/71wQAiEPKYL._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 72,
+      "asin": "B07PVH1ZW1",
+      "title": "KLIM Talk PCおよびMac対応卓上USBマイク 全てのパソコンで使用可能 デスクトップマイク ハイディフィニションオーディオ ホワイト",
+      "rating": 4.4,
+      "reviews": 0,
+      "price": 4818,
+      "image": "https://m.media-amazon.com/images/I/51mwzTMZyTL._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 73,
+      "asin": "B0G13VB386",
+      "title": "AR0A0AA Condenser Microphone, USB Microphone, Built-in Shock Mount, Pop Filter, For Telework, Streamers, Content Creators, Gamers, Compatible with PC, Mac, PS4, PS5, Black",
+      "rating": 4,
+      "reviews": 0,
+      "price": 8600,
+      "image": "https://m.media-amazon.com/images/I/61jemW68STL._AC_SL1500_.jpg",
+      "searchPage": 3
+    },
+    {
+      "amazonRank": 74,
+      "asin": "B09F2FM43B",
+      "title": "AKG Pro Audio Ara Professional USB-C Condenser Microphone Dual Pattern Audio Capture Mode for Podcasting, Video Blogging, Gaming, Streaming, Blue & Silver",
+      "rating": 4.6,
+      "reviews": 0,
+      "price": 11917,
+      "image": "https://m.media-amazon.com/images/I/61b9fd3RPnL._AC_SL1500_.jpg",
+      "searchPage": 4
+    },
+    {
+      "amazonRank": 75,
+      "asin": "B0CZ9MJ5PB",
+      "title": "NGALE R Premium USB Microphone for Recording & Streaming, Plug and Play with USB Connection, Mute, RGB & Gain, Low Cut Filter for Gaming, Black",
+      "rating": 4.6,
+      "reviews": 0,
+      "price": 8049,
+      "image": "https://m.media-amazon.com/images/I/71fe3jZjkUL._AC_SL1500_.jpg",
+      "searchPage": 4
+    },
+    {
+      "amazonRank": 76,
+      "asin": "B0GDXW2FYC",
+      "title": "3.5mm 取り外し可能なブームマイク Razer Barracuda X ゲーミングヘッドセット対応 ノイズキャンセリングブームマイク フォーム付き 15cm",
+      "rating": 5,
+      "reviews": 0,
+      "price": 3546,
+      "image": "https://m.media-amazon.com/images/I/61pmndtsWLL._AC_SL1500_.jpg",
+      "searchPage": 4
+    },
+    {
+      "amazonRank": 77,
+      "asin": "B0C8LTKWLG",
+      "title": "Audio Technica Condenser Microphone AT2020USB-XP & Shock Mount AT8455 USB-Type-C No Driver Required Gaming Microphone Streaming Microphone Home Recording Compatible with Windows, MAC, PS4, PS5",
+      "rating": 5,
+      "reviews": 0,
+      "price": 28200,
+      "image": "https://m.media-amazon.com/images/I/81TbBAPV+SL._AC_SL1500_.jpg",
+      "searchPage": 4
+    },
+    {
+      "amazonRank": 78,
+      "asin": "B0D9LXG8LH",
+      "title": "RODE Microphones Road Microphones Pod Microphone USB Dynamic Broadcast Microphone White PODMICUSBW | XLR and USB connectivity for podcast, streaming and content creation",
+      "rating": 4.2,
+      "reviews": 0,
+      "price": 40000,
+      "image": "https://m.media-amazon.com/images/I/717WRAhMD9L._AC_SL1500_.jpg",
+      "searchPage": 4
+    },
+    {
+      "amazonRank": 79,
+      "asin": "B0CP6BCR7Z",
+      "title": "CMTECK USB Computer Microphone G009 Noise Cancelling Recording Desktop Microphone for PC Laptop Online Chat Home Studio Podcasting Game Skype YouTube with Mute Function (Windows/Mac) (Grey) | 内蔵ポップフィルターとメタルベース。 360°調節可能なネック、ミュートボタン。 ポッドキャスト、ゲーム、YouTube(Windows/macOS)に最適。",
+      "rating": 4.5,
+      "reviews": 0,
+      "price": 4540,
+      "image": "https://m.media-amazon.com/images/I/61yhrBbIH6L._AC_SL1500_.jpg",
+      "searchPage": 4
+    },
+    {
+      "amazonRank": 80,
+      "asin": "B003D2U08E",
+      "title": "Pyle-Pro PMHM2 Headset Microphone, Beige",
+      "rating": 4,
+      "reviews": 0,
+      "price": 5601,
+      "image": "https://m.media-amazon.com/images/I/71aoS-2nUxL._AC_SL1500_.jpg",
+      "searchPage": 4
+    },
+    {
+      "amazonRank": 81,
+      "asin": "B0DM12LT7Q",
+      "title": "FEELWORLD VM1 Pink Gaming PC Microphone USB Condenser Microphone with Boom Arm Stand Noise Cancelling RGB Light Mute for Computer PS4 PS5 Streaming Recording Podcast Chat | ノイズキャンセリング、ミュート、RGBライト、ゲーム機器、ギフト用、YouTubeTwitchポッドキャストストリーミング録画。",
+      "rating": 4.6,
+      "reviews": 0,
+      "price": 11009,
+      "image": "https://m.media-amazon.com/images/I/61MyntLGGYL._AC_SL1500_.jpg",
+      "searchPage": 4
+    },
+    {
+      "amazonRank": 82,
+      "asin": "B0G2SBCXPN",
+      "title": "PC用マイク、",
+      "rating": 4.4,
+      "reviews": 0,
+      "price": 4564,
+      "image": "https://m.media-amazon.com/images/I/61nJMWXjyiL._AC_SL1500_.jpg",
+      "searchPage": 4
+    },
+    {
+      "amazonRank": 83,
+      "asin": "B075HTKBNP",
+      "title": "CMTECK Conference USB Microphone Mute Button Omnidirectional Condenser Boundary Microphone for Recording, Streaming, Gaming, Skype (Windows/macOS) - No Speaker | ミュートボタン内蔵、コンパクトなデスクトップデザイン。 会議やストリーミング用の非常にクリアなピックアップ。 Windows/macOSで動作します。",
+      "rating": 4.2,
+      "reviews": 0,
+      "price": 3341,
+      "image": "https://m.media-amazon.com/images/I/71yT7iNofuL._AC_SL1500_.jpg",
+      "searchPage": 4
+    },
+    {
+      "amazonRank": 84,
+      "asin": "B0GX5321BJ",
+      "title": "USB Microphone for Streaming and Recording with Pop Filter and Shock Mount USB Type A Plug and Play Microphone for PC Laptop Gaming Podcast",
+      "rating": 4,
+      "reviews": 0,
+      "price": 2282,
+      "image": "https://m.media-amazon.com/images/I/515p+qVLiNL._AC_SL1500_.jpg",
+      "searchPage": 4
+    },
+    {
+      "amazonRank": 85,
+      "asin": "B0G7WSV2VC",
+      "title": "USBマイク Lavalier ラペルクリップオンマイク 6.6フィートケーブル付き ノートパソコン コンピューター PC ストリーミング会議 インタビュー オンライン歌 Skype MSN オーディオビデオ録画用 クリア&ナチュラルサウンド",
+      "rating": 4.6,
+      "reviews": 0,
+      "price": 3820,
+      "image": "https://m.media-amazon.com/images/I/61I8orhYdML._AC_SL1500_.jpg",
+      "searchPage": 4
+    },
+    {
+      "amazonRank": 86,
+      "asin": "B0DJB3HH4K",
+      "title": "Neptune Sonus Gaming Microphone | Streaming Microphone with Pop Filter Vocal Clarity | Desktop Microphone for Streaming, Gaming, Recording, Podcast | Microphone for PC with Type-C to USB Cable (White)",
+      "rating": 4.2,
+      "reviews": 0,
+      "price": 4824,
+      "image": "https://m.media-amazon.com/images/I/71xskTQVfpL._AC_SL1500_.jpg",
+      "searchPage": 4
+    },
+    {
+      "amazonRank": 87,
+      "asin": "B0DQTT85ZV",
+      "title": "SoloCast 519T2AA USB Stand-Alone Microphone, White, For Telework/Streamer/Content Creator/Gamer Usable PC, PS4, PS5",
+      "rating": 4,
+      "reviews": 0,
+      "price": 8100,
+      "image": "https://m.media-amazon.com/images/I/61Rm3RPX74L._AC_SL1500_.jpg",
+      "searchPage": 4
+    },
+    {
+      "amazonRank": 88,
+      "asin": "B09BZXP8Y1",
+      "title": "Shure MOTIV MV88+ Stereo USB Microphone: Condenser Mic for Recording, Singing, Instruments, Guitar, Drums, Performance, Live Broadcasting, Streaming, Gaming, Podcast, Compatible with iOS, Android, Mac",
+      "rating": 4.2,
+      "reviews": 0,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/71VAOfpbvcL._AC_SL1500_.jpg",
+      "searchPage": 4
+    },
+    {
+      "amazonRank": 89,
+      "asin": "B071ZB53KM",
+      "title": "AVerMedia USB Microphone Record with Cardioid Pattern, Plug and Play, Ultra Low Latency Real Time Monitor for Live Gaming Podcast Streaming Youtuber (AM310)",
+      "rating": 4.3,
+      "reviews": 0,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/51Ypgb4i5CL._AC_SL1500_.jpg",
+      "searchPage": 4
+    },
+    {
+      "amazonRank": 90,
+      "asin": "B0FWZCFWYN",
+      "title": "USBデスクトップマイク LEDインジケーター付き 360度調整可能スタンド ミュートボタン PC ノートパソコン ゲーム ストリーミング 録音用 ブラック",
+      "rating": 4.8,
+      "reviews": 0,
+      "price": 3944,
+      "image": "https://m.media-amazon.com/images/I/41gw4keFt0L._AC_SL1500_.jpg",
+      "searchPage": 4
+    },
+    {
+      "amazonRank": 91,
+      "asin": "B0FCYHZWZ7",
+      "title": "Plug and Play USB Computer Microphone Flexible Gooseneck & Mute Button LED - Desktop Microphone for Gaming, YouTube, Streaming Support Windows/Mac (1.8m/6ft)",
+      "rating": 4.5,
+      "reviews": 0,
+      "price": 3986,
+      "image": "https://m.media-amazon.com/images/I/51WEijkoRqL._AC_SL1500_.jpg",
+      "searchPage": 4
+    },
+    {
+      "amazonRank": 92,
+      "asin": "B0176NRE1G",
+      "title": "Movo M1 USB Lavalier Lapel Clip-On Omnidirectional Microphone for Laptop PC Mac Podcast Gaming Streaming Desktop Microphone (6M Cord)",
+      "rating": 4.1,
+      "reviews": 0,
+      "price": 4783,
+      "image": "https://m.media-amazon.com/images/I/61iQ3+ReGgL._AC_SL1500_.jpg",
+      "searchPage": 4
+    },
+    {
+      "amazonRank": 93,
+      "asin": "B01720YK1A",
+      "title": "Elinka Computer Microphone Condenser Microphone Professional Sound Podcast Studio Microphone for PC Laptop Skype MSN Computer Recording Black Windscreen with Sponge Sleeve",
+      "rating": 3.9,
+      "reviews": 0,
+      "price": 2658,
+      "image": "https://m.media-amazon.com/images/I/51YLMAcXvhL._AC_SL1500_.jpg",
+      "searchPage": 4
+    },
+    {
+      "amazonRank": 94,
+      "asin": "B0CTJ5F2FB",
+      "title": "Razer Seiren V3 Chroma RGB USB Microphone: Stream & Game Reactive Lighting - Tap to Mute Sensor - Condenser Microphone - Digital Gain Limiter & Shock Absorber - PC, Discord, OBS Studio, XSplit-White",
+      "rating": 4.6,
+      "reviews": 0,
+      "price": 14083,
+      "image": "https://m.media-amazon.com/images/I/71699l9qx1L._AC_SL1500_.jpg",
+      "searchPage": 4
+    },
+    {
+      "amazonRank": 95,
+      "asin": "B0DKP4V5V1",
+      "title": "USBコンピュータマイク ミュートボタンとRGB照明付き プラグアンドプレイマイク 会議 ゲーム YouTube用 デスクトップPCマイク Mac/Window用 ブラック -M8(3ポートハブ)",
+      "rating": 4,
+      "reviews": 0,
+      "price": 3575,
+      "image": "https://m.media-amazon.com/images/I/51TZNdbTIiL._AC_SL1500_.jpg",
+      "searchPage": 4
+    },
+    {
+      "amazonRank": 96,
+      "asin": "B08F74HBX1",
+      "title": "2021 Upgraded USB Microphone for Computer Gaming Podcast Live Streaming Youtube Recording Karaoke PC Plug and Play with Adjustable Metal Tripod Stand for Windows MacOS Best Gift",
+      "rating": 4.3,
+      "reviews": 0,
+      "price": 5360,
+      "image": "https://m.media-amazon.com/images/I/71gYdL3mpkL._AC_SL1500_.jpg",
+      "searchPage": 4
+    },
+    {
+      "amazonRank": 97,
+      "asin": "B0CQJRXC9L",
+      "title": "Replacement Gaming Microphone Wired for Kingston HyperX Cloud III Gaming Headset Detachable Microphone Boom for PC PS5 PS4 Xbox Series X/S",
+      "rating": 4.8,
+      "reviews": 0,
+      "price": 2888,
+      "image": "https://m.media-amazon.com/images/I/41atUUv5MkL._AC_SL1500_.jpg",
+      "searchPage": 4
+    },
+    {
+      "amazonRank": 98,
+      "asin": "B09FW5F6R9",
+      "title": "Canon DME1D Stereo Microphone | Multifunctional hot shoe and cardioid polar pattern for stereo audio capture",
+      "rating": 4.2,
+      "reviews": 0,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/71W2Ekyh9bL._AC_SL1500_.jpg",
+      "searchPage": 5
+    },
+    {
+      "amazonRank": 99,
+      "asin": "B0FLDM5BSX",
+      "title": "FIFINE AM8PROT Gaming Microphone Kit, XLR/USB Dynamic PC Microphone with Boom Arm for Podcast Recording, RGB Streaming Microphone Set with Software, Tap-to-Mute, Mix Control, Headphone Jack | ブームアーム、RGB、タップ・トゥ・ミュート、ミックスコントロール、ヘッドホンジャック、ポッドキャスト録音用ボリュームノブ付きストリーミングマイクセット。",
+      "rating": 4.6,
+      "reviews": 0,
+      "price": 23018,
+      "image": "https://m.media-amazon.com/images/I/714-WPZTmYL._AC_SL1500_.jpg",
+      "searchPage": 5
+    },
+    {
+      "amazonRank": 100,
+      "asin": "B0HBQHJVZR",
+      "title": "USB コンデンサーマイク 超コンパクト タップ操作ミュート機能付き ゲーム・配信用 | タップ式ミュートセンサー, ゲーミングマイク, 配信向け, 日本正規代理店保証品",
+      "rating": 4,
+      "reviews": 0,
+      "price": 7800,
+      "image": "https://m.media-amazon.com/images/I/51fnmUaulmL._AC_SL1500_.jpg",
+      "searchPage": 5
+    },
+    {
+      "amazonRank": 101,
+      "asin": "B0DQTRNN4S",
+      "title": "SoloCast HMIS1X-XX-BK/G (4P5P8AA) USB Stand-Alone Microphone for Telework/Streamer/Content Creator/Gamers Compatible with PC, PS4, PS5",
+      "rating": 4,
+      "reviews": 0,
+      "price": 8800,
+      "image": "https://m.media-amazon.com/images/I/61WGKNzXwNL._AC_SL1500_.jpg",
+      "searchPage": 5
+    },
+    {
+      "amazonRank": 102,
+      "asin": "B0CTBGMNMB",
+      "title": "JBL Quantum Stream Studio - Recording and Games - Chrome | Triple condenser microphone for perfect streaming, four selectable voice pickup patterns, dynamic range compressor",
+      "rating": 4.7,
+      "reviews": 0,
+      "price": 34887,
+      "image": "https://m.media-amazon.com/images/I/61Hte0AjhOL._AC_SL1500_.jpg",
+      "searchPage": 5
+    },
+    {
+      "amazonRank": 103,
+      "asin": "B0G4G564K6",
+      "title": "SINWE Gaming Microphone with Noise Cancelling & Gain Control - USB PC Microphone for Streaming, Gaming, Podcast, PC, PS4 - with Pop Filter, Shock Mount, Quick Mute, RGB Lighting | ストリーミング、ゲーム、ポッドキャスト、PS4用のUSB PCマイク - ポップフィルター、ショックマウント、クイックミュート、RGB照明付き",
+      "rating": 4,
+      "reviews": 0,
+      "price": 7749,
+      "image": "https://m.media-amazon.com/images/I/61WyajJPkwL._AC_SL1500_.jpg",
+      "searchPage": 5
+    },
+    {
+      "amazonRank": 104,
+      "asin": "B088HHWC47",
+      "title": "Elgato Wave:3 Premium Studio Quality USB Condenser Microphone, Perfect for Streaming, Podcast, Gaming and Home Office, Free Mixer Software, Sound Effects Plugins, Anti-Distortion, Plug and Play, Mac/PC Compatible",
+      "rating": 4.6,
+      "reviews": 0,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/61KjhEX33JL._AC_SL1500_.jpg",
+      "searchPage": 5
+    },
+    {
+      "amazonRank": 105,
+      "asin": "B0CFXNWXM8",
+      "title": "Ko-Star USB Microphone Game PC Pink Mini Computer Gaming Microphone for PS4 PS5 Mac PC Gaming Streaming Microphone Condenser Microphone with RGB Streaming Shock Mount for PopFilter Recording Pod",
+      "rating": 4.3,
+      "reviews": 0,
+      "price": 10274,
+      "image": "https://m.media-amazon.com/images/I/711RPv8WzaL._AC_SL1500_.jpg",
+      "searchPage": 5
+    },
+    {
+      "amazonRank": 106,
+      "asin": "B0GTZ865L3",
+      "title": "USBコンデンサーマイク PCゲーム、ストリーミング&ポッドキャスト、プラグアンドプレイRGBデスクトップマイク ワンタッチミュート カーディオイドノイズキャンセリングコンピューターマイク Twitch、YouTube、PCやノートパソコンでの録音用 (ブラック)",
+      "rating": 4.6,
+      "reviews": 0,
+      "price": 8039,
+      "image": "https://m.media-amazon.com/images/I/71sWJkQ8HmL._AC_SL1500_.jpg",
+      "searchPage": 5
+    },
+    {
+      "amazonRank": 107,
+      "asin": "B0FFMR3KPS",
+      "title": "PUPGSIS PC Gaming Microphone Noise Cancelling Condenser Microphone with RGB Light Mute Monitoring Pop Filter Desktop Microphone for Streaming Podcasting Recording Gaming Equipment Plug and Play Black",
+      "rating": 4.5,
+      "reviews": 0,
+      "price": 10406,
+      "image": "https://m.media-amazon.com/images/I/61XB+4JOEYL._AC_SL1500_.jpg",
+      "searchPage": 5
+    },
+    {
+      "amazonRank": 108,
+      "asin": "B0D9681CB2",
+      "title": "USB Lavalier Microphone Noise Cancelling Wired Microphone for Laptop PC Omnidirectional Lapel Shirt Collar Clip-on Microphone for Recording, Streaming Interview, Gaming and Podcasting 2M",
+      "rating": 4.3,
+      "reviews": 0,
+      "price": 2528,
+      "image": "https://m.media-amazon.com/images/I/61obToPB5NL._AC_SL1500_.jpg",
+      "searchPage": 5
+    },
+    {
+      "amazonRank": 109,
+      "asin": "B08365S89Q",
+      "title": "Marantz Pro MPH-1 USB Condenser Microphone, Unidirectional, Shock Mount, Pop Filter, Gaming, Telework, Credit, Studio Grade Sound, Umpire + Sealed Monitor Headphones, Wired 1.6 inches (40 mm) Over-Ear Headphones",
+      "rating": 4,
+      "reviews": 0,
+      "price": 10538,
+      "image": "https://m.media-amazon.com/images/I/71GfyO3UtRL._AC_SL1500_.jpg",
+      "searchPage": 5
+    },
+    {
+      "amazonRank": 110,
+      "asin": "B0CQP4FYY2",
+      "title": "BOYA USB Condenser Gaming Microphone PC Mac PS4 PS5 Computer Plug Play Microphone with Gain Control Volume Control Mute Headphone Jack for Live Streaming Music Recording Video Voice YouTube CM6",
+      "rating": 5,
+      "reviews": 0,
+      "price": 5737,
+      "image": "https://m.media-amazon.com/images/I/61ExeIoDjkL._AC_SL1500_.jpg",
+      "searchPage": 5
+    },
+    {
+      "amazonRank": 111,
+      "asin": "B0DFYFM63S",
+      "title": "Replacement Gaming Microphone for Kingston HyperX Cloud Revolver S/Revolver Gaming Headset, Detachable Mic Noise Cancelling Microphone, 3.5mm Black | PS4 Pro PS5 Xbox One X PC用、取り外し可能、ノイズキャンセリング。",
+      "rating": 4,
+      "reviews": 0,
+      "price": 2518,
+      "image": "https://m.media-amazon.com/images/I/51rqo4bUrzL._AC_SL1500_.jpg",
+      "searchPage": 5
+    },
+    {
+      "amazonRank": 112,
+      "asin": "B0FWZJ42PB",
+      "title": "Mini USB 2.0 マイク デスクトップとノートパソコン用 プラグアンドプレイ ドライバーフリーオーディオレシーバー Skype MSN音声認識対応 ブラック",
+      "rating": 4.1,
+      "reviews": 0,
+      "price": 3168,
+      "image": "https://m.media-amazon.com/images/I/21CvFYHdhnL._AC_SL1500_.jpg",
+      "searchPage": 5
+    },
+    {
+      "amazonRank": 113,
+      "asin": "B0BFL1S9FP",
+      "title": "JLab JBuds Talk USB Gaming Streaming Microphone White USB-C Output Cardioid Omni Stereo Bi-Directional 96k Sampling Rate, Volume Control, Gain Control, Quick Mute, 3.5mm AUX Plug and Play",
+      "rating": 4.4,
+      "reviews": 0,
+      "price": 11255,
+      "image": "https://m.media-amazon.com/images/I/81DkwyYLxTL._AC_SL1500_.jpg",
+      "searchPage": 5
+    },
+    {
+      "amazonRank": 114,
+      "asin": "B07JB984Y7",
+      "title": "Computer Microphone,FIFINE Desktop Gooseneck Microphone,Mute Button with LED Indicator,USB Microphone for Windows/Mac.Perfect for Gaming Streaming YouTube Podcast (K052)",
+      "rating": 4.5,
+      "reviews": 0,
+      "price": 13268,
+      "image": "https://m.media-amazon.com/images/I/5158ov+iTDL._AC_SL1500_.jpg",
+      "searchPage": 5
+    },
+    {
+      "amazonRank": 115,
+      "asin": "B0C1Z1TFXT",
+      "title": "USBマイク プラグアンドプレイマイク PC用 デスクトップ全方向コンデンサー ノートパソコンマイク ミュートボタン LEDインジケーター付き Windows/Mac対応 YouTube動画/Skype/録画に最適",
+      "rating": 4.4,
+      "reviews": 0,
+      "price": 3630,
+      "image": "https://m.media-amazon.com/images/I/61hUqK2fdDL._AC_SL1500_.jpg",
+      "searchPage": 5
+    },
+    {
+      "amazonRank": 116,
+      "asin": "B0B17QSWXL",
+      "title": "RELAND SUN Desktop USB Laptop Mini Microphone Flexible Tube Neck Adjustable",
+      "rating": 4,
+      "reviews": 0,
+      "price": 1075,
+      "image": "https://m.media-amazon.com/images/I/41YUrMjkaWL._AC_SL1500_.jpg",
+      "searchPage": 5
+    },
+    {
+      "amazonRank": 117,
+      "asin": "B0FF4WYX76",
+      "title": "Plug and Play USB Computer Microphone for Podcasting Streaming Conference Noise Cancelling Microphone with Mute Button LED for PC/Mac Computer",
+      "rating": 4.6,
+      "reviews": 0,
+      "price": 6635,
+      "image": "https://m.media-amazon.com/images/I/616HtUIj-nL._AC_SL1500_.jpg",
+      "searchPage": 5
+    },
+    {
+      "amazonRank": 118,
+      "asin": "B08THGFBTV",
+      "title": "USB Conference Microphone with Speaker, Laptop Omnidirectional Computer Microphone, Mute/Volume Control, Zoom Conference, Skype, VoIP Calling, Interview, Christmas Stocking Surprise",
+      "rating": 4,
+      "reviews": 0,
+      "price": 6410,
+      "image": "https://m.media-amazon.com/images/I/61XlxWGyyJL._AC_SL1500_.jpg",
+      "searchPage": 5
+    },
+    {
+      "amazonRank": 119,
+      "asin": "B0F23M64WR",
+      "title": "LIANGSTAR USBコンピューターマイク ポッドキャストマイク デスクトップミュートボタン付き ストリーミング録画/カラー変更/全方向コンデンサー/プラグアンドプレイスタンド付き PC/ノートパソコン/Mac/YouTube用",
+      "rating": 4,
+      "reviews": 0,
+      "price": 4535,
+      "image": "https://m.media-amazon.com/images/I/71W3BsdRvfL._AC_SL1500_.jpg",
+      "searchPage": 5
+    },
+    {
+      "amazonRank": 120,
+      "asin": "B00078N8MM",
+      "title": "Sony ECM-77B Electret Condenser Microphone (Omnidirectional)",
+      "rating": 4.9,
+      "reviews": 0,
+      "price": 66877,
+      "image": "https://m.media-amazon.com/images/I/71SK718d1LL._AC_SL1500_.jpg",
+      "searchPage": 5
+    },
+    {
+      "amazonRank": 121,
+      "asin": "B0CT7BK716",
+      "title": "Razer Seiren V3 Chroma RGB USB Microphone with Tap to Mute Quartz Edition | タップトゥミュートセンサー、コンデンサーマイク、デジタルゲインリミッター&ショックアブソーバー、OBS、Discord、Zoom、Teamsで動作。",
+      "rating": 4.4,
+      "reviews": 0,
+      "price": 13971,
+      "image": "https://m.media-amazon.com/images/I/613TxRU5DpL._AC_SL1500_.jpg",
+      "searchPage": 5
+    },
+    {
+      "amazonRank": 122,
+      "asin": "B01MQ2AA0X",
+      "title": "ノートパソコン／デスクトップ用2016 Newest YOUMI Super Mini USB 2.0 マイクロフォン - Skype／音声認識ソフト対応 - MSN PC Notebook用音声受信アダプター付",
+      "rating": 3.9,
+      "reviews": 0,
+      "price": 3184,
+      "image": "https://m.media-amazon.com/images/I/31bW+5eK1SL._AC_SL1500_.jpg",
+      "searchPage": 6
+    },
+    {
+      "amazonRank": 123,
+      "asin": "B0CXQ31WCC",
+      "title": "Music Streaming Microphone | Studio Quality USB Microphone | Desktop and Laptop USB Microphone Kit, Compact Streaming Microphone Setup, USB Microphone Bundle for Podcasters and Streaming | アップ ポッドキャスターやストリーミング用のUSBマイクバンドル",
+      "rating": 4,
+      "reviews": 0,
+      "price": 2199,
+      "image": "https://m.media-amazon.com/images/I/61mUwXTenQL._AC_SL1500_.jpg",
+      "searchPage": 6
+    },
+    {
+      "amazonRank": 124,
+      "asin": "B07WD52LXJ",
+      "title": "USB Speakerphone Microphone, Conference Speaker Omnidirectional Computer Microphone, 360 Degree Voice Pickup, Mute/Unmute, Streaming, Calling Speaker Skype, Webinar, Interview Touch Sensor Button",
+      "rating": 4.1,
+      "reviews": 0,
+      "price": 8276,
+      "image": "https://m.media-amazon.com/images/I/613seg1PwjL._AC_SL1500_.jpg",
+      "searchPage": 6
+    },
+    {
+      "amazonRank": 125,
+      "asin": "B08JCQ17DY",
+      "title": "Granvela Long Neck USB Microphone for PC Desktop Omnidirectional Condenser Microphone with Mute Button/RGB LED Indicator for Gaming, Office, Home",
+      "rating": 3.8,
+      "reviews": 0,
+      "price": 4702,
+      "image": "https://m.media-amazon.com/images/I/41pj3kwn0tL._AC_SL1500_.jpg",
+      "searchPage": 6
+    },
+    {
+      "amazonRank": 126,
+      "asin": "B0FPD4L2KN",
+      "title": "USB Microphone for PC, PS4, PS5, Mac Condenser Computer Microphone Quick Mute 192kHz/24bit 8RGB Hi-Fi, Deep Noise Reduction 16mm Microphone Head Gaming Microphone with Podcast Recording",
+      "rating": 4,
+      "reviews": 0,
+      "price": 5824,
+      "image": "https://m.media-amazon.com/images/I/71kFChiAFuL._AC_SL1500_.jpg",
+      "searchPage": 6
+    },
+    {
+      "amazonRank": 127,
+      "asin": "B0B18NT4XD",
+      "title": "Ruilogod PC 角度調整可能 ボイスチャット テーブル マイク",
+      "rating": 4,
+      "reviews": 0,
+      "price": 1176,
+      "image": "https://m.media-amazon.com/images/I/31ARLaxa+ZL._AC_SL1500_.jpg",
+      "searchPage": 6
+    },
+    {
+      "amazonRank": 128,
+      "asin": "B0DQTPV6SZ",
+      "title": "DuoCast 4P5E2AA USB Stand-Alone Microphone for Telework/Streamer/Content Creator/Gamers Compatible with PC, PS4, PS5 Manufacturer, Black",
+      "rating": 4,
+      "reviews": 0,
+      "price": 12600,
+      "image": "https://m.media-amazon.com/images/I/61wFF9fJ1iL._AC_SL1500_.jpg",
+      "searchPage": 6
+    },
+    {
+      "amazonRank": 129,
+      "asin": "B09F3KNCSY",
+      "title": "AUDIOPRO USB Microphone, Computer Condenser Gaming Microphone for PC Laptop PS4 5 Headphone Output Volume Control USB Type C Plug and Play LED Mute Button for Streaming Podcast Studio Recording",
+      "rating": 4.4,
+      "reviews": 0,
+      "price": 15817,
+      "image": "https://m.media-amazon.com/images/I/81GYqmukfcL._AC_SL1500_.jpg",
+      "searchPage": 6
+    },
+    {
+      "amazonRank": 130,
+      "asin": "B09DTJK4HL",
+      "title": "NZXT BOOM ARM Low Noise Rotating Microphone Arm AP-BOOMA-B1 SP1006",
+      "rating": 3.4,
+      "reviews": 0,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/41YWPEraVBL._AC_SL1500_.jpg",
+      "searchPage": 6
+    },
+    {
+      "amazonRank": 131,
+      "asin": "B0G6C2SCFG",
+      "title": "USB Aラベリアマイク、ラペルクリップオン全方向コンデンサーコンピューターマイク 2Mケーブル付き YouTub PCおよびMacノートパソコン ゲームオーディオビデオ録画用",
+      "rating": 4,
+      "reviews": 0,
+      "price": 3335,
+      "image": "https://m.media-amazon.com/images/I/715DCDOE1oL._AC_SL1500_.jpg",
+      "searchPage": 6
+    },
+    {
+      "amazonRank": 132,
+      "asin": "B08KD5NHKV",
+      "title": "FIFINE USB Studio Recording Microphone Computer Podcast Mic for PC, PS4, Mac with Mute Button & Monitor Headphone Jack, Four Pickup Patterns for Vocals YouTube Streaming Gaming ASMR Zoom-Class (K690)",
+      "rating": 4.6,
+      "reviews": 0,
+      "price": 18685,
+      "image": "https://m.media-amazon.com/images/I/61MF838vt5L._AC_SL1500_.jpg",
+      "searchPage": 6
+    },
+    {
+      "amazonRank": 133,
+      "asin": "B09MJLF4WX",
+      "title": "Adesso Xtream M1 有線コンデンサーマイク 6フィート 20Hz~20kHz 680オーム 38dB 全指向性 グースネック デスクトップ USB",
+      "rating": 3.9,
+      "reviews": 0,
+      "price": 7654,
+      "image": "https://m.media-amazon.com/images/I/51Ma0xpkpCL._AC_SL1500_.jpg",
+      "searchPage": 6
+    },
+    {
+      "amazonRank": 134,
+      "asin": "B0DPM2P42M",
+      "title": "JOUNIVO USB Microphone, PC Microphone for Gaming, Podcast, Gaming Microphone with Noise Cancelling (JV908)",
+      "rating": 3.5,
+      "reviews": 0,
+      "price": 5613,
+      "image": "https://m.media-amazon.com/images/I/61MKZxk2M1L._AC_SL1500_.jpg",
+      "searchPage": 6
+    },
+    {
+      "amazonRank": 135,
+      "asin": "B0DFC4GTVN",
+      "title": "AVerMedia USB Microphone Streaming Podcasting Gaming Microphone Cardioid Polar Pattern Tripod Stand Headphone Output Mute Button All Metal Microphone for PC Laptop iPhone Android Phone",
+      "rating": 4.3,
+      "reviews": 0,
+      "price": 12523,
+      "image": "https://m.media-amazon.com/images/I/41NuOq1FkrL._AC_SL1500_.jpg",
+      "searchPage": 6
+    },
+    {
+      "amazonRank": 136,
+      "asin": "B0GLZ1FQ9Y",
+      "title": "USBコンデンサーマイク PCゲーム、ストリーミング、ポッドキャスト用 - プラグアンドプレイRGBデスクトップマイク ワンタッチミュート ノイズキャンセリングコンピューターマイク YouTube/録音/PC/ノートパソコン用 (ブラック)",
+      "rating": 4,
+      "reviews": 0,
+      "price": 7801,
+      "image": "https://m.media-amazon.com/images/I/71NDGcAAvQL._AC_SL1500_.jpg",
+      "searchPage": 6
+    },
+    {
+      "amazonRank": 137,
+      "asin": "B0FB3DC3R3",
+      "title": "Gaming Microphone, USB Microphone for PC, Plug and Play Condenser Microphone with RGB Light, Desk Computer Microphone, Gain Control, Singing, Recording, Streaming, Podcasting, PS4/5 Conference",
+      "rating": 4.2,
+      "reviews": 0,
+      "price": 7884,
+      "image": "https://m.media-amazon.com/images/I/61fpTHyEF1L._AC_SL1500_.jpg",
+      "searchPage": 6
+    },
+    {
+      "amazonRank": 138,
+      "asin": "B0FX4SN7MF",
+      "title": "AR0A0AA Condenser Microphone, USB Microphone, Built-in Shock Mount, Pop Filter, For Telework, Streamers, Content Creators, Gamers, Compatible with PC, Mac, PS4, PS5, Black",
+      "rating": 4,
+      "reviews": 0,
+      "price": 8500,
+      "image": "https://m.media-amazon.com/images/I/61jemW68STL._AC_SL1500_.jpg",
+      "searchPage": 6
+    },
+    {
+      "amazonRank": 139,
+      "asin": "B07CZ6LWW4",
+      "title": "Reliable Streaming GXT 232 Mantis USB Microphone, for Streaming, Black | USB電源、ショックマウント、ポップフィルター、三脚スタンド。",
+      "rating": 4.3,
+      "reviews": 0,
+      "price": 10967,
+      "image": "https://m.media-amazon.com/images/I/811EF2ToI7L._AC_SL1500_.jpg",
+      "searchPage": 6
+    },
+    {
+      "amazonRank": 140,
+      "asin": "B0H744Q143",
+      "title": "ヘッドセットマイク 3.5mmプラグ 調節可能 360度曲げられるジャック ブラック ゲーミングヘッドセット用 マイクヘッドセットアクセサリー",
+      "rating": 4,
+      "reviews": 0,
+      "price": 1997,
+      "image": "https://m.media-amazon.com/images/I/51XsuPdxIDL._AC_SL1500_.jpg",
+      "searchPage": 6
+    },
+    {
+      "amazonRank": 141,
+      "asin": "B07SZ932T9",
+      "title": "Blue Microphone Yeti Microphone (Solid Black) Knox Gear Pop Filter and 3.0 4-Port USB Hub Bundle | スタジオポップフィルター、4ポート3.0ハブ - マイクは録音、コンピューターゲーム、ストリーミング、ポッドキャストに最適です(3アイテム)。",
+      "rating": 4.7,
+      "reviews": 0,
+      "price": 37868,
+      "image": "https://m.media-amazon.com/images/I/71TSz8LtCcL._AC_SL1500_.jpg",
+      "searchPage": 6
+    },
+    {
+      "amazonRank": 142,
+      "asin": "B09BNMJM2C",
+      "title": "FIFINE K658 USBゲーミングダイナミックマイク クイックミュート付き PCストリーミング用 | ゲインコントロール、ヘッドホンジャック、カーディオイドピックアップ、RGBコントロール、ショックマウント、PS5ストリーミングポッドキャストTwitch YouTubeディスコード用",
+      "rating": 4.7,
+      "reviews": 0,
+      "price": 18349,
+      "image": "https://m.media-amazon.com/images/I/61lCdWdqYVL._AC_SL1500_.jpg",
+      "searchPage": 6
+    },
+    {
+      "amazonRank": 143,
+      "asin": "B0971WMHP9",
+      "title": "TalkWorks USB Microphone with Tripod - External Microphone for Computer - Gaming, Streaming, Meeting, Podcast, Recording and More - Adjustable and Portable with USB Cable",
+      "rating": 3.2,
+      "reviews": 0,
+      "price": 5495,
+      "image": "https://m.media-amazon.com/images/I/51M--0Hkx5L._AC_SL1500_.jpg",
+      "searchPage": 6
+    },
+    {
+      "amazonRank": 144,
+      "asin": "B0B18R6S99",
+      "title": "Ruilogod ノートパソコン 自立式 調節可能 スタンド グースネック サウンド マイクマウント 3.5mm コネクター ブラック",
+      "rating": 4,
+      "reviews": 0,
+      "price": 929,
+      "image": "https://m.media-amazon.com/images/I/5141kVhFV2L._AC_SL1500_.jpg",
+      "searchPage": 6
+    },
+    {
+      "amazonRank": 145,
+      "asin": "B0G6M6FB5X",
+      "title": "Mini USB 2.0 マイクオーディオアダプター ノートパソコン/ノートブック/PC用 全方向ステレオ音声マイクドライバーフリー",
+      "rating": 4,
+      "reviews": 0,
+      "price": 1432,
+      "image": "https://m.media-amazon.com/images/I/41NH2BfpGtL._AC_SL1500_.jpg",
+      "searchPage": 6
+    },
+    {
+      "amazonRank": 146,
+      "asin": "B0FGXR1M4H",
+      "title": "Replacement Microphone for JBL Quantum 100 (Q100) Gaming Headset Noise Cancelling Crystal Clear Voice Boom Microphone for Switch PS5 PS4 Mac PC Computer 2.5mm Jack",
+      "rating": 4.3,
+      "reviews": 0,
+      "price": 3520,
+      "image": "https://m.media-amazon.com/images/I/61XD5pOwlLL._AC_SL1500_.jpg",
+      "searchPage": 7
+    },
+    {
+      "amazonRank": 147,
+      "asin": "B07XB39R7B",
+      "title": "Razer Seiren Emote Microphone Compact Streamer with Super Cardioid Recording Pattern",
+      "rating": 4.2,
+      "reviews": 0,
+      "price": 9347,
+      "image": "https://m.media-amazon.com/images/I/71BVjl1Hm0L._AC_SL1500_.jpg",
+      "searchPage": 7
+    },
+    {
+      "amazonRank": 148,
+      "asin": "B0FYNFTWXW",
+      "title": "TRRS Lavalier Lapel Microphone 3.5mm 4-Pole Oslaveria Microphone D/JI Mic Voice Amplifier Teacher Speaker Coaching Presentation Live Streaming Laptop Compatible PC (4.9ft/1.5m)",
+      "rating": 4.8,
+      "reviews": 0,
+      "price": 7914,
+      "image": "https://m.media-amazon.com/images/I/51EHMwWqU5L._AC_SL1500_.jpg",
+      "searchPage": 7
+    },
+    {
+      "amazonRank": 149,
+      "asin": "B0FSJH4SP8",
+      "title": "録音とパフォーマンスのためのFuturtecerプロフェッショナルマイク。",
+      "rating": 3.9,
+      "reviews": 0,
+      "price": 5911,
+      "image": "https://m.media-amazon.com/images/I/61T9ymeZJAL._AC_SL1500_.jpg",
+      "searchPage": 7
+    },
+    {
+      "amazonRank": 150,
+      "asin": "B0CDL1X55R",
+      "title": "Gooseneck USB Microphone for PC, Elegant Plug and Play PC Microphone Condenser Microphone Computer Microphone for Gaming Live Streaming Omnidirectional Microphone USB for Podcast and Conference (EGM",
+      "rating": 3.9,
+      "reviews": 0,
+      "price": 6730,
+      "image": "https://m.media-amazon.com/images/I/513ZtOZ90DL._AC_SL1500_.jpg",
+      "searchPage": 7
+    },
+    {
+      "amazonRank": 151,
+      "asin": "B0FJFKYZQT",
+      "title": "USB Condenser Gaming Microphone PC Microphone Streaming Podcast Recording Desktop Computer Microphone with Mute Button & LED Indicator Volume Control Headphone Jack",
+      "rating": 4,
+      "reviews": 0,
+      "price": 8381,
+      "image": "https://m.media-amazon.com/images/I/716RHeTlpmL._AC_SL1500_.jpg",
+      "searchPage": 7
+    },
+    {
+      "amazonRank": 152,
+      "asin": "B0DH5HHS13",
+      "title": "取り外し可能なノイズキャンセリング交換用マイク HyperX Cloud Flight対応 回転可能なマイク PCゲーム用",
+      "rating": 4,
+      "reviews": 0,
+      "price": 2528,
+      "image": "https://m.media-amazon.com/images/I/51u7kPr0hkL._AC_SL1500_.jpg",
+      "searchPage": 7
+    },
+    {
+      "amazonRank": 153,
+      "asin": "B0C7TC1NMQ",
+      "title": "NUROUM NEARSTREAM AM10B USB Condenser Gaming Microphone, 3-Pole Pattern Noise Cancelling Computer Microphone, Desktop Podcast Microphone with Mute Audio Gain Control Pop Filter for Streaming Recording",
+      "rating": 4.6,
+      "reviews": 0,
+      "price": 13849,
+      "image": "https://m.media-amazon.com/images/I/61nzML42w7L._AC_SL1500_.jpg",
+      "searchPage": 7
+    },
+    {
+      "amazonRank": 154,
+      "asin": "B0FGXYJH4W",
+      "title": "マイク交換用 Kingston HyperX Cloud Alpha Cloud Alpha S ゲーミングヘッドセット ノイズキャンセリングマイク Switch PS5 PS4 Mac PC コンピューター用 3.5mmジャック",
+      "rating": 4.2,
+      "reviews": 0,
+      "price": 3554,
+      "image": "https://m.media-amazon.com/images/I/61JphrUHEzL._AC_SL1500_.jpg",
+      "searchPage": 7
+    },
+    {
+      "amazonRank": 155,
+      "asin": "B0GKMMHCXC",
+      "title": "SINWE ゲーミングマイク 調節可能なブームアーム&ゲインコントロール付き",
+      "rating": 4.2,
+      "reviews": 0,
+      "price": 13216,
+      "image": "https://m.media-amazon.com/images/I/61ZcC7ZeqiL._AC_SL1500_.jpg",
+      "searchPage": 7
+    },
+    {
+      "amazonRank": 156,
+      "asin": "B0DFCDNSFG",
+      "title": "交換用マイク Astro A40 A40TR ゲーミングヘッドホン ノイズキャンセリングマイク PS5 PS4 PC Mac Xbox One用 ウィンドスクリーン付き 3.5mm ブラック 7インチ",
+      "rating": 3.8,
+      "reviews": 0,
+      "price": 2528,
+      "image": "https://m.media-amazon.com/images/I/51CGGXLhiLL._AC_SL1500_.jpg",
+      "searchPage": 7
+    },
+    {
+      "amazonRank": 157,
+      "asin": "B07JV8F5P9",
+      "title": "Audio-Technica USB Gaming Desktop Microphone ATGM1-USB Black",
+      "rating": 4.3,
+      "reviews": 0,
+      "price": 20847,
+      "image": "https://m.media-amazon.com/images/I/5179encSEiL._AC_SL1500_.jpg",
+      "searchPage": 7
+    },
+    {
+      "amazonRank": 158,
+      "asin": "B0BY1K83MM",
+      "title": "USB Microphone",
+      "rating": 4.5,
+      "reviews": 0,
+      "price": 12753,
+      "image": "https://m.media-amazon.com/images/I/61f0WqEEDSL._AC_SL1500_.jpg",
+      "searchPage": 7
+    },
+    {
+      "amazonRank": 159,
+      "asin": "B0CQH66S7T",
+      "title": "Replacement Gaming Microphone for JBL Quantum 100 Q100 Stereo Studio Gaming Headset PS5 PS4 PC Xbox MAC Detachable Noise Cancelling Crystal Clear Gaming Voice Microphone Boom 2.5mm Jack",
+      "rating": 4,
+      "reviews": 0,
+      "price": 2548,
+      "image": "https://m.media-amazon.com/images/I/51eUEUe+FfL._AC_SL1500_.jpg",
+      "searchPage": 7
+    },
+    {
+      "amazonRank": 160,
+      "asin": "B0CQHSYRZM",
+      "title": "交換用ゲームマイク Turtle Beach Ear Force PX4 PX5 PX51 XP300 XP400 XP500 XP510 X4 X41 X42 500X ゲーミングヘッドセット用 取り外し可能なノイズキャンセリング クリスタルクリア ゲームマイク 2.5mmジャック",
+      "rating": 3.5,
+      "reviews": 0,
+      "price": 2548,
+      "image": "https://m.media-amazon.com/images/I/51O-fRMdoML._AC_SL1500_.jpg",
+      "searchPage": 7
+    },
+    {
+      "amazonRank": 161,
+      "asin": "B0DJ8K8SXX",
+      "title": "II Gaming Microphone Detachable Boom Microphone with LED Mute Indicator 3.5mm Jack Noise Reduction Cardioid Polar Pattern",
+      "rating": 4,
+      "reviews": 0,
+      "price": 2495,
+      "image": "https://m.media-amazon.com/images/I/51rIq38HrbL._AC_SL1500_.jpg",
+      "searchPage": 7
+    },
+    {
+      "amazonRank": 162,
+      "asin": "B0BFJRZHJJ",
+      "title": "JLab Epic Talk USB Gaming Streaming Microphone White USB-C Output Cardioid Omni Stereo Bi-Directional 192k Sample Rate Volume Control Gain Control Quick Mute 3.5mm AUX Plug and Play",
+      "rating": 4.6,
+      "reviews": 0,
+      "price": 20908,
+      "image": "https://m.media-amazon.com/images/I/81xSCGi-qqL._AC_SL1500_.jpg",
+      "searchPage": 7
+    },
+    {
+      "amazonRank": 163,
+      "asin": "B09YCWFKNC",
+      "title": "WMT USB Microphone, Condenser Gaming Microphone for PC/MAC/PS4/PS5/Phone- Cardioid Mic with Brilliant RGB Lighting Headphone Output Volume Control, Mute Button, for Streaming Podcast YouTube Discord",
+      "rating": 4.4,
+      "reviews": 0,
+      "price": 13168,
+      "image": "https://m.media-amazon.com/images/I/714reGgb8mL._AC_SL1500_.jpg",
+      "searchPage": 7
+    },
+    {
+      "amazonRank": 164,
+      "asin": "B0CQJT8KFL",
+      "title": "Replacement Gaming Microphone Microphone for Previous 2021 Wired Kingston HyperX Cloud 2 II Cloud Core Cloud Pro Cloud Silver Cloud X PS5 Switch PC Gaming Headset (Old Wired Version)",
+      "rating": 3.2,
+      "reviews": 0,
+      "price": 2548,
+      "image": "https://m.media-amazon.com/images/I/41mCuNYH2ML._AC_SL1500_.jpg",
+      "searchPage": 7
+    },
+    {
+      "amazonRank": 165,
+      "asin": "B0DRQM2BPR",
+      "title": "TONOR TCX3+ Gaming Microphone, Xbox Compatible, RGB Streaming Microphone, Boom Arm, 30H Battery Life, Low Noise, Monitoring, Gain Control, One-Tap Mute, Rapid Charging, Capture Card Compatible, Black",
+      "rating": 4.1,
+      "reviews": 0,
+      "price": 20894,
+      "image": "https://m.media-amazon.com/images/I/71YYgBtJfHL._AC_SL1500_.jpg",
+      "searchPage": 7
+    },
+    {
+      "amazonRank": 166,
+      "asin": "B0GTXG96MZ",
+      "title": "MAILANGSHI 192kHz/32bitダイナミックマイク PC用 USB/XLR ゲーミングマイク | 95dB SNR、リアルタイムモニタリング、タッチミュート、RGB。ポッドキャスター、ゲーマー、コンテンツクリエイター向けのストリーミングマイク。",
+      "rating": 4.4,
+      "reviews": 0,
+      "price": 23330,
+      "image": "https://m.media-amazon.com/images/I/61cUT8B+QQL._AC_SL1500_.jpg",
+      "searchPage": 7
+    },
+    {
+      "amazonRank": 167,
+      "asin": "B0CQHTDPMH",
+      "title": "交換用ゲームマイク Turtle Beach Ear Force XO Three XO Four Stealth Recon 150 50 50X 50P 60P ゲーミングヘッドセット ノイズキャンセリング クリスタルクリア ゲームサウンドマイクブーム 3.5mmジャック",
+      "rating": 4.1,
+      "reviews": 0,
+      "price": 2548,
+      "image": "https://m.media-amazon.com/images/I/51O-fRMdoML._AC_SL1500_.jpg",
+      "searchPage": 7
+    },
+    {
+      "amazonRank": 168,
+      "asin": "B0BVBBVB9R",
+      "title": "CHERRY UM 3.0 USB Microphone Podcast Streaming Home Office Cardioid Headphone Connection for PC/Mac/PS4/PS5 (Black)",
+      "rating": 3.8,
+      "reviews": 0,
+      "price": 16449,
+      "image": "https://m.media-amazon.com/images/I/61KzX4svirL._AC_SL1500_.jpg",
+      "searchPage": 7
+    },
+    {
+      "amazonRank": 169,
+      "asin": "B07W4DH8KG",
+      "title": "Logitech G Yeti GX Dynamic RGB Gaming Microphone with LIGHTSYNC USB Microphone for Streaming Super Cardioid USB Plug and Play for PC/Mac, White | ストリーミング用USBマイク、スーパーカーディオイド、PC/Mac用プラグアンドプレイ - ホワイト。",
+      "rating": 4.2,
+      "reviews": 0,
+      "price": 33353,
+      "image": "https://m.media-amazon.com/images/I/41dZ6leOWVL._AC_SL1500_.jpg",
+      "searchPage": 7
+    },
+    {
+      "amazonRank": 170,
+      "asin": "B09CCXPX51",
+      "title": "Blue Yeti USB Mic for Recording & Streaming on PC and Mac, 3 Condenser Capsules, 4 Pickup Patterns, Headphone Output and Volume Control, Mic Gain Control, Adjustable Stand - Silver (Renewed)",
+      "rating": 4.4,
+      "reviews": 0,
+      "price": 28826,
+      "image": "https://m.media-amazon.com/images/I/51ZZV+k9WXL._AC_SL1500_.jpg",
+      "searchPage": 8
+    },
+    {
+      "amazonRank": 171,
+      "asin": "B09D38565S",
+      "title": "Microphone for Podcast, USB Microphone Kit for Phone, PC/Micro/Mac/Android, Plug&Play Studio Microphone with Stand for Gaming, Online Chatting, Videos, Voice Overs, Streaming",
+      "rating": 4.1,
+      "reviews": 0,
+      "price": 11969,
+      "image": "https://m.media-amazon.com/images/I/71kqgeYqvBL._AC_SL1500_.jpg",
+      "searchPage": 8
+    },
+    {
+      "amazonRank": 172,
+      "asin": "B09DSRLKBT",
+      "title": "Thronmax MDrill One Pro 96kHz/24bit Multi-Directional USB Microphone",
+      "rating": 4,
+      "reviews": 0,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/31bgDKW8YVL._AC_SL1500_.jpg",
+      "searchPage": 8
+    },
+    {
+      "amazonRank": 173,
+      "asin": "B0DT9JVSRZ",
+      "title": "Mars Gaming MMIC-CX Professional Studio Microphone, Compact ARGB Design, ENC Noise Cancelling, Cardioid Capacitor, Mute Button, USB Plug & Play, 3.5mm Jack, White",
+      "rating": 4.2,
+      "reviews": 0,
+      "price": 12947,
+      "image": "https://m.media-amazon.com/images/I/612F-oq3+4L._AC_SL1500_.jpg",
+      "searchPage": 8
+    },
+    {
+      "amazonRank": 174,
+      "asin": "B0BM4PZGY4",
+      "title": "ENDORFY Solum Streaming T Noir Microphone de PC",
+      "rating": 5,
+      "reviews": 0,
+      "price": 16259,
+      "image": "https://m.media-amazon.com/images/I/51bceq+kDzL._AC_SL1500_.jpg",
+      "searchPage": 8
+    },
+    {
+      "amazonRank": 175,
+      "asin": "B0FGXYHFCX",
+      "title": "Replacement Gaming Microphone for Logitech G PRO X2, G PRO X Wireless, G Pro Wired Gaming Headset, Detachable Noise Cancelling Crystal Clear Gaming Microphone, 3.5mm Jack",
+      "rating": 4,
+      "reviews": 0,
+      "price": 3444,
+      "image": "https://m.media-amazon.com/images/I/51I0oATi0CL._AC_SL1500_.jpg",
+      "searchPage": 8
+    },
+    {
+      "amazonRank": 176,
+      "asin": "B0F1LKHQVN",
+      "title": "USB Microphone for Gaming, Streaming and Podcast Recording - Computer Microphone with USB C Plug & Play, Noise Canceling, Mute Gain Button - Studio Quality Sound for PC, Laptop, PS5",
+      "rating": 3.9,
+      "reviews": 0,
+      "price": 11521,
+      "image": "https://m.media-amazon.com/images/I/61a8xkWv2hL._AC_SL1500_.jpg",
+      "searchPage": 8
+    },
+    {
+      "amazonRank": 177,
+      "asin": "B081TR5D9M",
+      "title": "Movo UM700 Computer Condenser USB Gaming Microphone Pickup Pattern Adjustable - Microphone for PC, PS5, Podcasting, Streaming, ASMR",
+      "rating": 4.4,
+      "reviews": 0,
+      "price": 22991,
+      "image": "https://m.media-amazon.com/images/I/61095sTpCsL._AC_SL1500_.jpg",
+      "searchPage": 8
+    },
+    {
+      "amazonRank": 178,
+      "asin": "B0B19RSCFG",
+      "title": "3.5mm Replacement Microphone 19cm Noise Reduction Detachable SteelSeries Arctis 1 Wired Wireless Gaming Headset Black with Foam Cover",
+      "rating": 4,
+      "reviews": 0,
+      "price": 9288,
+      "image": "https://m.media-amazon.com/images/I/51LF5wKXWBL._AC_SL1500_.jpg",
+      "searchPage": 8
+    },
+    {
+      "amazonRank": 179,
+      "asin": "B0FRN2TFCG",
+      "title": "OYSTERBOY 交換用ゲーミングマイクブーム HyperX Cloudヘッドフォン、ノイズキャンセリングマイク(Cloud 3 III)用",
+      "rating": 4,
+      "reviews": 0,
+      "price": 3509,
+      "image": "https://m.media-amazon.com/images/I/41ml1LiNPaL._AC_SL1500_.jpg",
+      "searchPage": 8
+    },
+    {
+      "amazonRank": 180,
+      "asin": "B09JQZH7TP",
+      "title": "Movo WebMic-HD Webcam and Condenser Microphone - 1080p HD Webcam Pro Cardioid Condenser Microphone - HD USB Camera and Computer Microphone for Streaming, Gaming, Telecommuting and Video Calling",
+      "rating": 4,
+      "reviews": 0,
+      "price": 12454,
+      "image": "https://m.media-amazon.com/images/I/51j3OnaUG7L._AC_SL1500_.jpg",
+      "searchPage": 8
+    },
+    {
+      "amazonRank": 181,
+      "asin": "B0BLFLN69G",
+      "title": "HyperX Duocast Omnidirectional USB Microphone RGB Lighting (Black Renewed)",
+      "rating": 4.4,
+      "reviews": 0,
+      "price": 30032,
+      "image": "https://m.media-amazon.com/images/I/51Y-LYs8B3L._AC_SL1500_.jpg",
+      "searchPage": 8
+    },
+    {
+      "amazonRank": 182,
+      "asin": "B0B2YDRPWN",
+      "title": "ENHANCE USB Microphone for PC - Omnidirectional Condenser Microphone with Mute Button LED Indicator 360 Degree Gooseneck - USB Microphone for Gaming PC PS5 Streaming YouTube Recording Zoom Podcast",
+      "rating": 3.8,
+      "reviews": 0,
+      "price": 12579,
+      "image": "https://m.media-amazon.com/images/I/71GBfntpyDL._AC_SL1500_.jpg",
+      "searchPage": 8
+    },
+    {
+      "amazonRank": 183,
+      "asin": "B0FNVV9BWL",
+      "title": "PUPGSIS レコーディングPCマイク ポッドキャストダイナミックマイク ミュートボタン付き リバーブエフェクト ヘッドフォンジャック デスクトップスタンド USB-C XLR出力 USBマイク ゲーム/ストリーミング/ボーカル/ボイスオーバー用 ブラック",
+      "rating": 4,
+      "reviews": 0,
+      "price": 12661,
+      "image": "https://m.media-amazon.com/images/I/51wzjS+SEqL._AC_SL1500_.jpg",
+      "searchPage": 8
+    },
+    {
+      "amazonRank": 184,
+      "asin": "B0CQGFX4FM",
+      "title": "Oilmal交換用マイクマイク RazerKrakenV3 / KrakenV3 ゲーミングヘッドセット 取り外し可能なヘッドホン マイクブーム RazerKrakenV3 / KrakenV3 ゲーミングヘッドセット用",
+      "rating": 5,
+      "reviews": 0,
+      "price": 4145,
+      "image": "https://m.media-amazon.com/images/I/41nuNerxSML._AC_SL1500_.jpg",
+      "searchPage": 8
+    },
+    {
+      "amazonRank": 185,
+      "asin": "B0FNW7YDMD",
+      "title": "PUPGSIS USB PCマイク ゲーミングマイク ストリーミング/ポッドキャスト/Twitch/YouTube用 Mac&WindowsのDiscord用 コンデンサー録音マイク ミュート ゲイン モニタリング ポップフィルター RGBインジケーター ブラック",
+      "rating": 4,
+      "reviews": 0,
+      "price": 11219,
+      "image": "https://m.media-amazon.com/images/I/61kjoe-nrGL._AC_SL1500_.jpg",
+      "searchPage": 8
+    },
+    {
+      "amazonRank": 186,
+      "asin": "B0C47C28VP",
+      "title": "RIG M100 HD Streaming Microphone - USB Microphone for Gaming, Recording, Podcast, Broadcast, Cardioid Polar Pattern, USB Plug and Play, for PS4, PS5, PC, Mac, Twitch, YouTube, Discord, Black",
+      "rating": 4.1,
+      "reviews": 0,
+      "price": 22068,
+      "image": "https://m.media-amazon.com/images/I/61otTFyBKAL._AC_SL1500_.jpg",
+      "searchPage": 8
+    },
+    {
+      "amazonRank": 187,
+      "asin": "B0012AUHXW",
+      "title": "Blue Microphones ポータブルタイプUSBマイクロフォン SNOWFLAKE",
+      "rating": 4.2,
+      "reviews": 0,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/71LKd8bujzL._AC_SL1500_.jpg",
+      "searchPage": 8
+    },
+    {
+      "amazonRank": 188,
+      "asin": "B09YHQPRWQ",
+      "title": "Blue Microphones Yeti USBマイク(ミッドナイトブルー) クローズドバックスタジオモニターヘッドフォンとポップフィルター付き 放送と録音用 (3アイテム)",
+      "rating": 5,
+      "reviews": 0,
+      "price": 37998,
+      "image": "https://m.media-amazon.com/images/I/71MBv6mixFL._AC_SL1500_.jpg",
+      "searchPage": 8
+    },
+    {
+      "amazonRank": 189,
+      "asin": "B0DPGGLJHM",
+      "title": "GXT 234P Yunix",
+      "rating": 4,
+      "reviews": 0,
+      "price": 9968,
+      "image": "https://m.media-amazon.com/images/I/51RHMWCoIwL._AC_SL1500_.jpg",
+      "searchPage": 8
+    },
+    {
+      "amazonRank": 190,
+      "asin": "B0H834KWJ7",
+      "title": "DJI mic 2 2v1 Mobile",
+      "rating": 1,
+      "reviews": 0,
+      "price": 38476,
+      "image": "https://m.media-amazon.com/images/I/61lV80N9y5L._AC_SL1500_.jpg",
+      "searchPage": 8
+    },
+    {
+      "amazonRank": 191,
+      "asin": "B0776H1N79",
+      "title": "HEIMU Wired Double Earhook Headset Boom Mini XLR Omni-Directional Microphone (for Audio-Technica Type 4 pin Mini Plug Skin)",
+      "rating": 4.6,
+      "reviews": 0,
+      "price": 9468,
+      "image": "https://m.media-amazon.com/images/I/316UzsGXZRL._AC_SL1500_.jpg",
+      "searchPage": 8
+    },
+    {
+      "amazonRank": 192,
+      "asin": "B0CGKHKDBQ",
+      "title": "Emerson EAM-9052 USBゲーム&ストリーミングコンデンサーマイク LED照明とポップフィルター付き",
+      "rating": 4,
+      "reviews": 0,
+      "price": 15641,
+      "image": "https://m.media-amazon.com/images/I/61ci-+5hv6L._AC_SL1500_.jpg",
+      "searchPage": 8
+    },
+    {
+      "amazonRank": 193,
+      "asin": "B0CJ7X98CB",
+      "title": "KONF Yealink VCM35 Mikrofon",
+      "rating": 4,
+      "reviews": 0,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/81sQ1dCLteL._AC_SL1500_.jpg",
+      "searchPage": 8
+    },
+    {
+      "amazonRank": 194,
+      "asin": "B0CNKLL2BB",
+      "title": "ENDORFY Solum Voice S Streaming Chat Podcast Recording Microphone RGB Lighting USB Plug and Play Tap to Mute Button GAIN Control Cardioid Pattern EY1B013",
+      "rating": 4.6,
+      "reviews": 0,
+      "price": 18340,
+      "image": "https://m.media-amazon.com/images/I/51qor8HipLL._AC_SL1500_.jpg",
+      "searchPage": 9
+    },
+    {
+      "amazonRank": 195,
+      "asin": "B0BM4QMG2M",
+      "title": "ENDORFY Solum Streaming Onyx White, USB Plug & Play, White USB Computer Microphone, Adjustable Arm, Pop Filter Hidden in Frame",
+      "rating": 5,
+      "reviews": 0,
+      "price": 27994,
+      "image": "https://m.media-amazon.com/images/I/51SGlKdu5kL._AC_SL1500_.jpg",
+      "searchPage": 9
+    },
+    {
+      "amazonRank": 196,
+      "asin": "B0FCNTTFFJ",
+      "title": "Movo USB Podcast Equipment Set for 2 - USB Interface with 2 UM700 Condenser Microphones - 4-Port Power Supply Hub for Streaming, Podcasting, Interview (with 2 Mics) | プラグアンドプレイ、ドライバーなし:Zoom、OBS、Audacity、Mac、Windows。 ヘッドホンモニタリング。 インタビュー、ストリーミング、教室に。",
+      "rating": 3.6,
+      "reviews": 0,
+      "price": 21262,
+      "image": "https://m.media-amazon.com/images/I/61JBSBVYZpL._AC_SL1500_.jpg",
+      "searchPage": 9
+    },
+    {
+      "amazonRank": 197,
+      "asin": "B0CBNVCCPJ",
+      "title": "SteelSeries Alias Pro Kit - XLR Microphone + Stream Mixer - 3x Larger Capsule for Gaming, Streaming and Podcasting - USB/XLR Interface - Sonar Audio Software - Custom Control - RGB - Single or Dual PC",
+      "rating": 4.4,
+      "reviews": 0,
+      "price": 60500,
+      "image": "https://m.media-amazon.com/images/I/61XUwdczOGL._AC_SL1500_.jpg",
+      "searchPage": 9
+    },
+    {
+      "amazonRank": 198,
+      "asin": "B09WJHYRR9",
+      "title": "THOR AV Hammer SE-9 ヘッドセットマイク (3.5mm - ゼンハイザーEW対応 ブラック)",
+      "rating": 4,
+      "reviews": 0,
+      "price": 74264,
+      "image": "https://m.media-amazon.com/images/I/416PkwVjPjL._AC_SL1500_.jpg",
+      "searchPage": 9
+    },
+    {
+      "amazonRank": 199,
+      "asin": "B09DHWCB6J",
+      "title": "BEACN Light Dynamic USB Microphone for PC | Professional Microphone for Podcast, Gaming, Streaming | Studio Quality Desk Microphone for YouTube, Twitch, Recording | Microphone for PC, Gaming, Streaming",
+      "rating": 4.4,
+      "reviews": 0,
+      "price": 62865,
+      "image": "https://m.media-amazon.com/images/I/71VyEoUKJsL._AC_SL1500_.jpg",
+      "searchPage": 9
+    },
+    {
+      "amazonRank": 200,
+      "asin": "B09MRSQDJ7",
+      "title": "Logitech Blue Sona Active Dynamic XLR Broadcast Microphone for Streaming and Content Creating, ClearAmp Active Preamplifier, Dual Diaphragm Capsules, Internal Shock Mount, Graphite",
+      "rating": 4.6,
+      "reviews": 0,
+      "price": 86257,
+      "image": "https://m.media-amazon.com/images/I/61dHlB8ZTlL._AC_SL1500_.jpg",
+      "searchPage": 9
+    },
+    {
+      "amazonRank": 201,
+      "asin": "B07YN26PBT",
+      "title": "Antlion Audio ModMic USB Mountable Noise Cancelling Microphone with Mute Switch for Mac, Windows PC, PlayStation 4 and More",
+      "rating": 3.9,
+      "reviews": 0,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/61XQyAviMvL._AC_SL1500_.jpg",
+      "searchPage": 9
+    },
+    {
+      "amazonRank": 202,
+      "asin": "B0DXQ8CN91",
+      "title": "JARO USB 192kHz/24bit Cardioid Condenser Microphone with Boom Arm Pop Filter Mute Noise Reduction for RGB Gaming Podcast Streaming Youtube Zoom Recording [PC Laptop Mac PS4/5 Compatible] J100-CB",
+      "rating": 4.2,
+      "reviews": 0,
+      "price": 19266,
+      "image": "https://m.media-amazon.com/images/I/71TswZIL5CL._AC_SL1500_.jpg",
+      "searchPage": 9
+    },
+    {
+      "amazonRank": 203,
+      "asin": "B0CXX1SCML",
+      "title": "Mute Button USB Microphone Cam Control Button One Touch Mute Button with LED Indicator PC Microphone Mute Switch Free Software Download for Online Calling Classes Recording Video",
+      "rating": 4.6,
+      "reviews": 0,
+      "price": 12358,
+      "image": "https://m.media-amazon.com/images/I/61WOgfgLNzL._AC_SL1500_.jpg",
+      "searchPage": 9
+    },
+    {
+      "amazonRank": 204,
+      "asin": "B00V66XWTI",
+      "title": "Audio-Technica AT8024 Stereo/Mono Camera-Mount Microphone by Audio-Technica",
+      "rating": 4.3,
+      "reviews": 0,
+      "price": 57059,
+      "image": "https://m.media-amazon.com/images/I/712l6fK+PSL._AC_SL1500_.jpg",
+      "searchPage": 9
+    },
+    {
+      "amazonRank": 205,
+      "asin": "B0D9CFFCFJ",
+      "title": "Logitech G Yeti GX Dynamic RGB Gaming Microphone, Black",
+      "rating": 4.6,
+      "reviews": 0,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/61YTNgk4vUL._AC_SL1500_.jpg",
+      "searchPage": 9
+    },
+    {
+      "amazonRank": 206,
+      "asin": "B0CXFDCRHQ",
+      "title": "MuteLight by On Air Warning Video Conference Indicator, Large and Bright, Double-Sided LED with On-Screen Mute Button. Change the color. Mute the on-screen microphone and cam. Mac & PC. (Vertical)",
+      "rating": 4.2,
+      "reviews": 0,
+      "price": 13061,
+      "image": "https://m.media-amazon.com/images/I/61kJYQa4hTL._AC_SL1500_.jpg",
+      "searchPage": 9
+    },
+    {
+      "amazonRank": 207,
+      "asin": "B0FGJNLF1Y",
+      "title": "USB/XLR デュアルモードデスクトップマイク RGB照明 3.5mmモニタリングジャック プロ用生放送 (マイクブームアームデュアルケーブルクリップ)",
+      "rating": 4,
+      "reviews": 0,
+      "price": 16231,
+      "image": "https://m.media-amazon.com/images/I/61xUMYdEOmL._AC_SL1500_.jpg",
+      "searchPage": 9
+    },
+    {
+      "amazonRank": 208,
+      "asin": "B0F2JHQF2T",
+      "title": "MXL MXLAC370 USB境界マイク",
+      "rating": 4,
+      "reviews": 0,
+      "price": 126546,
+      "image": "https://m.media-amazon.com/images/I/81hIip5S4EL._AC_SL1500_.jpg",
+      "searchPage": 9
+    },
+    {
+      "amazonRank": 209,
+      "asin": "B09DHXL8L8",
+      "title": "BEACN Dark Dynamic USB Microphone for PC | Professional Podcast Gaming & Streaming Microphone | Studio Quality Desk Microphone for YouTube, Twitch, Recording | YouTube、Twitch、ゲーム、ストリーミング、録音用のスタジオ品質のUSB-Cマイク。 RGB照明、DSPコントロール、ヘッドホンモニター。",
+      "rating": 4.4,
+      "reviews": 0,
+      "price": 52929,
+      "image": "https://m.media-amazon.com/images/I/71wXcR6m-3L._AC_SL1500_.jpg",
+      "searchPage": 9
+    },
+    {
+      "amazonRank": 210,
+      "asin": "B0DF46SQLB",
+      "title": "ASUS ROG Carnyx USB Gaming Microphone (25mm Capacitor Capsule, 192kHz/24-bit, Cardioid, Hi-Pass Filter, Built-In Pop Filter, Metal Shock Mount, One-Touch Mute, Aura Sync RGB) - Moonlight White",
+      "rating": 4.5,
+      "reviews": 0,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/71bRXWbs6iL._AC_SL1500_.jpg",
+      "searchPage": 9
+    },
+    {
+      "amazonRank": 211,
+      "asin": "B09DS9CQRH",
+      "title": "Thronmax Mdrill Zero Plus 96kHz/24bit Multi-Directional USB Microphone",
+      "rating": 4,
+      "reviews": 0,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/31hiVryxYIL._AC_SL1500_.jpg",
+      "searchPage": 9
+    },
+    {
+      "amazonRank": 212,
+      "asin": "B0B34YRMN8",
+      "title": "Blue Yeti USBマイク ノックスポップフィルター付(ミッドナイト、2個) | 3x14mmカプセル、4パターン、ゲインとミュート、ヘッドホンボル、レイテンシーなし3.5mm出力、Knox Gearポップフィルター付き。",
+      "rating": 4,
+      "reviews": 0,
+      "price": 34946,
+      "image": "https://m.media-amazon.com/images/I/31+XcSLnXHL._AC_SL1500_.jpg",
+      "searchPage": 9
+    },
+    {
+      "amazonRank": 213,
+      "asin": "B08SYJR67N",
+      "title": "Tula Mic Cream",
+      "rating": 4.4,
+      "reviews": 0,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/61w8bwCAG5L._AC_SL1500_.jpg",
+      "searchPage": 9
+    },
+    {
+      "amazonRank": 214,
+      "asin": "B00PG8VN20",
+      "title": "MXL 会議用USBマイクロフォン AC-424",
+      "rating": 3.8,
+      "reviews": 0,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/61Bm73dQfXL._AC_SL1500_.jpg",
+      "searchPage": 9
+    },
+    {
+      "amazonRank": 215,
+      "asin": "B0DDP56245",
+      "title": "Mute Kit - Busy light for mute button, camera, microphone, meeting status Free software download required. Customize your color. Works with All-Mute Button, Secure Mute, Zoom, Team Meeting, Webex, etc",
+      "rating": 4.3,
+      "reviews": 0,
+      "price": 23580,
+      "image": "https://m.media-amazon.com/images/I/71+eEnmRT7L._AC_SL1500_.jpg",
+      "searchPage": 9
+    },
+    {
+      "amazonRank": 216,
+      "asin": "B0BXB66NQY",
+      "title": "Nuance PowerMic 4マイク Dragon 16用 6フィート コイルコード",
+      "rating": 4,
+      "reviews": 0,
+      "price": null,
+      "image": "https://m.media-amazon.com/images/I/61n11Sz-agL._AC_SL1500_.jpg",
+      "searchPage": 9
+    }
+  ]
+}

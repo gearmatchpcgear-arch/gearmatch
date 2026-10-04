@@ -1,0 +1,25 @@
+{
+  "mode": "apply",
+  "fetched": 165,
+  "changes": 2,
+  "dashed": 1,
+  "changeList": [
+    {
+      "id": "ai-rank-028",
+      "name": "MVX2U (第2世代)",
+      "asin": "B0GK2HV2XZ",
+      "before": "48kHz",
+      "after": "192kHz",
+      "source": "AI_SPECS_KNOWN"
+    },
+    {
+      "id": "ai-search-110",
+      "name": "ポータブルオーディオIF",
+      "asin": "B0DVYYQRK5",
+      "before": "48kHz",
+      "after": "—",
+      "source": "unknown"
+    }
+  ],
+  "generatedAt": "2026-08-18T13:20:17.273Z"
+}

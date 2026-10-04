@@ -1,0 +1,651 @@
+{
+  "fetchedAt": "2026-08-14T13:50:09.131Z",
+  "sourceUrl": "https://www.amazon.co.jp/s?k=%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4&rh=p_n_g-101013577303111%3A18161464051%257C18161468051%2Cp_123%3A234478%257C247341%257C254596%257C338933",
+  "searchPage": 1,
+  "scrapeMethod": "browser",
+  "monitors": [
+    {
+      "amazonRank": 1,
+      "asin": "B0FX4V8L8N",
+      "price": 20980,
+      "title": "Acer Nitro 24.5\" IPS 240Hz Full HD 0.5ms(GTG) Anti-glare sRGB 99% AMD FreeSync Premium HDR10 HDMI 2.1 DisplayPort v1.4 Speaker and Headphone Jack Zero Frame Gaming",
+      "image": "https://m.media-amazon.com/images/I/810x87JO2SL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 2,
+      "asin": "B0FF9GHPSK",
+      "price": 16980,
+      "title": "Acer 24.5-Inch Full HD 200 Hz 0.5 ms (GtG) Wide Viewing Angle VA Matte sRGB 99% AMD FreeSync Premium HDR10 HDMI 2.0 DisplayPort v1.2",
+      "image": "https://m.media-amazon.com/images/I/61FGoBAvUVL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 3,
+      "asin": "B0DL5X394K",
+      "price": 11990,
+      "title": "Acer Monitor 24.5-inch Full HD Matte IPS 120Hz 1ms (VRB) sRGB 99% AdaptiveSync HDMI 1.4 Mini D-Sub 15 Pin Zero Frame Design",
+      "image": "https://m.media-amazon.com/images/I/61N+kF++m4L._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 4,
+      "asin": "B0FX57S1BD",
+      "price": 10980,
+      "title": "Acer 21.5-Inch VA Full HD 120Hz 1ms(VRB) Matte sRGB 99% Adaptive-Sync Low Blue Light Zero Frame HDMI 1.4 Mini D-Sub 15-Pin EK221QJ0bi",
+      "image": "https://m.media-amazon.com/images/I/61gggQQ10xL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 5,
+      "asin": "B0C4J5MPL4",
+      "price": 11800,
+      "title": "Acer Nitro QG221QHbmiix Gaming Monitor, 21.5-Inch, VA, Full HD, 100Hz, 1ms (VRB), HDMI, Mini D-Sub15, VESA Mount, Built-in Speaker, AMD FreeSync",
+      "image": "https://m.media-amazon.com/images/I/61OWVzAo81L._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 6,
+      "asin": "B0FCM37HCT",
+      "price": 13980,
+      "title": "Acer 23.8-inch Full HD 144Hz 1ms (VRB) IPS Non-glare sRGB 99% AMD FreeSync HDMI 1.4 DisplayPort v1.2",
+      "image": "https://m.media-amazon.com/images/I/61ZwVfzi0uL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 7,
+      "asin": "B0FX4Z1YX1",
+      "price": 12980,
+      "title": "Acer Monitor 23.8\" IPS Full HD 144Hz 1ms (VRB) Anti-Glare sRGB 99% AMD FreeSync Built-in Speaker Zero Frame HDMI 1.4 Mini D-Sub 15-Pin",
+      "image": "https://m.media-amazon.com/images/I/61QKJiSgVCL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 8,
+      "asin": "B0DMDQVRPT",
+      "price": 12980,
+      "title": "Acer Monitor 23.8 Inch Full HD Non-Gloss IPS 120Hz 1ms (VRB) sRGB 99% AdaptiveSync HDMI 1.4 Mini D-Sub 15 Pin Speaker/Headphone Port VESA Mount Compatible Zero Frame Design",
+      "image": "https://m.media-amazon.com/images/I/61xg3OGIrIL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 9,
+      "asin": "B0FX58C11Q",
+      "price": 11980,
+      "title": "Acer Monitor 23.8-Inch IPS Full HD 144Hz 1ms (VRB) Anti-Glare sRGB 99% AMD FreeSync Zero Frame HDMI 1.4 Mini D-Sub 15-Pin",
+      "image": "https://m.media-amazon.com/images/I/61f5D8tkzkL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 10,
+      "asin": "B0FCM4WL7F",
+      "price": 15990,
+      "title": "Acer 23.8\" Full HD 144Hz 1ms (VRB) IPS Anti-Glare sRGB 99% AMD FreeSync HDMI 1.4 DisplayPort v1.2 Speaker and Headphone Port",
+      "image": "https://m.media-amazon.com/images/I/61mCmqMyu+L._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 11,
+      "asin": "B0G2MSZ4HZ",
+      "price": 18980,
+      "title": "Acer Nitro 23.8\" IPS 240Hz Full HD 0.5ms(GTG) Matte sRGB 99% AMD FreeSync Premium HDR10 HDMI 2.0 DisplayPort v1.4 VG240YW3bmiipx",
+      "image": "https://m.media-amazon.com/images/I/81MpEDdbxJL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 12,
+      "asin": "B0DMF3351F",
+      "price": 9374,
+      "title": "Acer Monitor 19.5-inch HD+ (1600x900) Non-Glare TN 75Hz 6ms (GTG) HDMI 1.4 Mini D-Sub 15-Pin E200Qbi",
+      "image": "https://m.media-amazon.com/images/I/61+-rLS6KLL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 13,
+      "asin": "B0FF9DJVYS",
+      "price": 14980,
+      "title": "Acer 23.8-Inch Full HD 200 Hz 0.5 ms (GtG) Wide Viewing Angle VA Matte sRGB 99% AMD FreeSync Premium HDR10 HDMI 2.0 DisplayPort v1.4",
+      "image": "https://m.media-amazon.com/images/I/61aLfZ1thBL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 14,
+      "asin": "B0G5HRZTNV",
+      "price": 11880,
+      "title": "Acer 21.5\" VA Full HD 120Hz 1ms (VRB) Matte sRGB 99% Adaptive-Sync Blue Light Reduction Zero Frame HDMI 1.4 Mini D-Sub 15 Pin EK221QJ0bmix",
+      "image": "https://m.media-amazon.com/images/I/61uCe11Hw3L._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 15,
+      "asin": "B0FX54Z96J",
+      "price": 24980,
+      "title": "Acer Nitro 24.5\" IPS 320Hz Full HD 0.5ms(GTG) Matte sRGB 99% AMD FreeSync Premium HDR10 HDMI 2.0 DisplayPort v1.4 VG250QF3bmiipx",
+      "image": "https://m.media-amazon.com/images/I/618Of7fdPbL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 16,
+      "asin": "B0FX561MSM",
+      "price": 12980,
+      "title": "Acer KA242YP6bmix 23.8\" IPS Monitor Full HD 144Hz 1ms (VRB) Matte sRGB 99% AMD FreeSync Built-in Speaker Zero Frame HDMI 1.4 Mini D-Sub 15 Pin",
+      "image": "https://m.media-amazon.com/images/I/61CIGz36OtL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 17,
+      "asin": "B0F8BVZR8X",
+      "price": 14990,
+      "title": "Acer Nitro Gaming Monitor 23.8\" Wide Full HD Anti-Glare IPS 120Hz 1ms (VRB) sRGB 99% AdaptiveSync HDMI 1.4 DisplayPort 1.2 Built-in Speaker VESA Mount Compatible Zero Frame",
+      "image": "https://m.media-amazon.com/images/I/614W0QSFCmL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 18,
+      "asin": "B07DQPQKC8",
+      "price": null,
+      "title": "Acer SA240YAbmi AlphaLine 23.8-Inch Monitor Display with Full HD IPS Frameless HDMI D-Sub Speaker, Blue Light Reduction",
+      "image": "https://m.media-amazon.com/images/I/61nEwJ73gKL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 19,
+      "asin": "B0DMF317JS",
+      "price": 23980,
+      "title": "Acer Gaming Monitor 24.5\" VA Full HD Matte 280Hz 1ms sRGB99% AMD FreeSync Premium HDR10 HDMI 2.0 DisplayPort 1.4 Nitro KG251QZ1bmiipx",
+      "image": "https://m.media-amazon.com/images/I/61CGetpxzsL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 20,
+      "asin": "B0H6WQTYQG",
+      "price": 16679,
+      "title": "Acer Nitro 23.8\" IPS Full HD 180Hz 1ms (VRB) Matte sRGB 99% AMD FreeSync Blue Light Reduction Black Boost HDMI 2.1 Mini D-Sub 15 Pin Speaker Headphone Jack",
+      "image": "https://m.media-amazon.com/images/I/61H0BoxMC6L._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 21,
+      "asin": "B0GK5S5W6Q",
+      "price": 12880,
+      "title": "Acer Nitro 21\" VA 120Hz Full HD 1ms (VRB) Matte sRGB 99% AMD FreeSync Blue Light Reduction HDMI 1.4 Mini D-Sub 15 Pin QG221QJ0bmix",
+      "image": "https://m.media-amazon.com/images/I/71g9UXyACJL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 22,
+      "asin": "B0DM8K72P1",
+      "price": 17680,
+      "title": "Acer Gaming Monitor 23.8\" IPS Full HD Matte 200Hz 0.5ms sRGB 99% AMD FreeSync Premium HDR10 HDMI 2.0 DisplayPort v1.2 Nitro VG240YX1bmiipx",
+      "image": "https://m.media-amazon.com/images/I/61EyjdTJaNL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 23,
+      "asin": "B0H6WWMF8Y",
+      "price": 19979,
+      "title": "Acer Nitro 23.8\" IPS Full HD 260Hz 0.5ms(GTG) Matte sRGB 99% AMD FreeSync Premium HDR10 HDMI 2.1 DisplayPort v1.4 Zero Frame Gaming Monitor",
+      "image": "https://m.media-amazon.com/images/I/61lB6bJ29RL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 24,
+      "asin": "B0FJ2Y8ZKD",
+      "price": 14680,
+      "title": "Acer 24.5\" IPS 144Hz 1ms (VRB) Matte sRGB 99% AMD FreeSync Zero Frame Pro HDMI 1.4 Mini D-Sub 15 Pin EK251QP6bmix",
+      "image": "https://m.media-amazon.com/images/I/613LryqrTbL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 25,
+      "asin": "B0GQ3CC7LD",
+      "price": 13280,
+      "title": "Acer EK251QP6bi 24.5-inch IPS Monitor Full HD 144Hz 1ms (VRB) Matte sRGB 99% AMD FreeSync Blue Light Reduction HDMI 1.4 Mini D-Sub 15-pin",
+      "image": "https://m.media-amazon.com/images/I/61i+-KjjYUL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 26,
+      "asin": "B0FN2L4XTZ",
+      "price": 10965,
+      "title": "acer SDGs Propulsion, 21.5 type, 1920 x 1080, HDMI, Mini D-Sub, Black, No Speaker, Zero Frame, VA, Non-Glossy",
+      "image": "https://m.media-amazon.com/images/I/41Kyf5OwYJL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 27,
+      "asin": "B08HZ448KY",
+      "price": null,
+      "title": "Acer VG240YSbmiipfx 23.8-Inch Gaming Monitor IPS Matte Full HD 0.5 ms (GtG, Min.) 165 Hz HDMI AMD FreeSync Premium HDR 10",
+      "image": "https://m.media-amazon.com/images/I/71PNjK2j3JL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 28,
+      "asin": "B0GNPZWMSS",
+      "price": 17980,
+      "title": "Acer VERO 23.8\" Full HD IPS Matte Ergo Stand 144Hz 1ms (VRB) sRGB 99% Blue Light Shield Pro HDMI 1.4 DisplayPort v1.2 Mini D-Sub 15 Pin Speaker Headphone Jack VESA Mount",
+      "image": "https://m.media-amazon.com/images/I/61RIJBfwpeL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 29,
+      "asin": "B0BLCFJ9H1",
+      "price": null,
+      "title": "Acer SigmaLine KG251QSbmiipx Gaming Monitor, 24.5-Inch, VA Matte, Full HD, 165Hz, 1ms (VRB), FreeSync Premium, Built-in Speaker, VESA Mount, Tilt",
+      "image": "https://m.media-amazon.com/images/I/61pvI9UsjNL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 30,
+      "asin": "B0C4J5N3VK",
+      "price": null,
+      "title": "Acer QG241YEbmiix 23.8\" Nitro Gaming Monitor, IPS, Anti-Glare, Full HD, 100Hz, 1ms VRB, HDMI Mini D-Sub 15, VESA Mount Compatible with Speaker, AMD FreeSync, Amazon.co.jp Exclusive",
+      "image": "https://m.media-amazon.com/images/I/61pTtgJ7nPL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 31,
+      "asin": "B083YCHRZ3",
+      "price": null,
+      "title": "Acer AlphaLine K242HQLbi Monitor Display, 23.6-Inch, Full HD VA HDMI, D-Sub, Blue Light Reduction, VESA Compatible, Speaker Not Included",
+      "image": "https://m.media-amazon.com/images/I/71q+yX1bRkL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 32,
+      "asin": "B0FJS4YHPL",
+      "price": 25192,
+      "title": "Acer Portable Monitor 18.5\" FHD IPS 100Hz Adaptive Sync Slim Design HDMI 1.4 2x USB Type-C PM191Q Ebmiuux",
+      "image": "https://m.media-amazon.com/images/I/619LNzolY9L._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    }
+  ],
+  "excluded": [],
+  "raw": [
+    {
+      "amazonRank": 1,
+      "asin": "B0FX4V8L8N",
+      "price": 20980,
+      "title": "Acer Nitro 24.5\" IPS 240Hz Full HD 0.5ms(GTG) Anti-glare sRGB 99% AMD FreeSync Premium HDR10 HDMI 2.1 DisplayPort v1.4 Speaker and Headphone Jack Zero Frame Gaming",
+      "image": "https://m.media-amazon.com/images/I/810x87JO2SL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 2,
+      "asin": "B0FF9GHPSK",
+      "price": 16980,
+      "title": "Acer 24.5-Inch Full HD 200 Hz 0.5 ms (GtG) Wide Viewing Angle VA Matte sRGB 99% AMD FreeSync Premium HDR10 HDMI 2.0 DisplayPort v1.2",
+      "image": "https://m.media-amazon.com/images/I/61FGoBAvUVL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 3,
+      "asin": "B0DL5X394K",
+      "price": 11990,
+      "title": "Acer Monitor 24.5-inch Full HD Matte IPS 120Hz 1ms (VRB) sRGB 99% AdaptiveSync HDMI 1.4 Mini D-Sub 15 Pin Zero Frame Design",
+      "image": "https://m.media-amazon.com/images/I/61N+kF++m4L._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 4,
+      "asin": "B0FX57S1BD",
+      "price": 10980,
+      "title": "Acer 21.5-Inch VA Full HD 120Hz 1ms(VRB) Matte sRGB 99% Adaptive-Sync Low Blue Light Zero Frame HDMI 1.4 Mini D-Sub 15-Pin EK221QJ0bi",
+      "image": "https://m.media-amazon.com/images/I/61gggQQ10xL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 5,
+      "asin": "B0C4J5MPL4",
+      "price": 11800,
+      "title": "Acer Nitro QG221QHbmiix Gaming Monitor, 21.5-Inch, VA, Full HD, 100Hz, 1ms (VRB), HDMI, Mini D-Sub15, VESA Mount, Built-in Speaker, AMD FreeSync",
+      "image": "https://m.media-amazon.com/images/I/61OWVzAo81L._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 6,
+      "asin": "B0FCM37HCT",
+      "price": 13980,
+      "title": "Acer 23.8-inch Full HD 144Hz 1ms (VRB) IPS Non-glare sRGB 99% AMD FreeSync HDMI 1.4 DisplayPort v1.2",
+      "image": "https://m.media-amazon.com/images/I/61ZwVfzi0uL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 7,
+      "asin": "B0FX4Z1YX1",
+      "price": 12980,
+      "title": "Acer Monitor 23.8\" IPS Full HD 144Hz 1ms (VRB) Anti-Glare sRGB 99% AMD FreeSync Built-in Speaker Zero Frame HDMI 1.4 Mini D-Sub 15-Pin",
+      "image": "https://m.media-amazon.com/images/I/61QKJiSgVCL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 8,
+      "asin": "B0DMDQVRPT",
+      "price": 12980,
+      "title": "Acer Monitor 23.8 Inch Full HD Non-Gloss IPS 120Hz 1ms (VRB) sRGB 99% AdaptiveSync HDMI 1.4 Mini D-Sub 15 Pin Speaker/Headphone Port VESA Mount Compatible Zero Frame Design",
+      "image": "https://m.media-amazon.com/images/I/61xg3OGIrIL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 9,
+      "asin": "B0FX58C11Q",
+      "price": 11980,
+      "title": "Acer Monitor 23.8-Inch IPS Full HD 144Hz 1ms (VRB) Anti-Glare sRGB 99% AMD FreeSync Zero Frame HDMI 1.4 Mini D-Sub 15-Pin",
+      "image": "https://m.media-amazon.com/images/I/61f5D8tkzkL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 10,
+      "asin": "B0FCM4WL7F",
+      "price": 15990,
+      "title": "Acer 23.8\" Full HD 144Hz 1ms (VRB) IPS Anti-Glare sRGB 99% AMD FreeSync HDMI 1.4 DisplayPort v1.2 Speaker and Headphone Port",
+      "image": "https://m.media-amazon.com/images/I/61mCmqMyu+L._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 11,
+      "asin": "B0G2MSZ4HZ",
+      "price": 18980,
+      "title": "Acer Nitro 23.8\" IPS 240Hz Full HD 0.5ms(GTG) Matte sRGB 99% AMD FreeSync Premium HDR10 HDMI 2.0 DisplayPort v1.4 VG240YW3bmiipx",
+      "image": "https://m.media-amazon.com/images/I/81MpEDdbxJL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 12,
+      "asin": "B0DMF3351F",
+      "price": 9374,
+      "title": "Acer Monitor 19.5-inch HD+ (1600x900) Non-Glare TN 75Hz 6ms (GTG) HDMI 1.4 Mini D-Sub 15-Pin E200Qbi",
+      "image": "https://m.media-amazon.com/images/I/61+-rLS6KLL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 13,
+      "asin": "B0FF9DJVYS",
+      "price": 14980,
+      "title": "Acer 23.8-Inch Full HD 200 Hz 0.5 ms (GtG) Wide Viewing Angle VA Matte sRGB 99% AMD FreeSync Premium HDR10 HDMI 2.0 DisplayPort v1.4",
+      "image": "https://m.media-amazon.com/images/I/61aLfZ1thBL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 14,
+      "asin": "B0G5HRZTNV",
+      "price": 11880,
+      "title": "Acer 21.5\" VA Full HD 120Hz 1ms (VRB) Matte sRGB 99% Adaptive-Sync Blue Light Reduction Zero Frame HDMI 1.4 Mini D-Sub 15 Pin EK221QJ0bmix",
+      "image": "https://m.media-amazon.com/images/I/61uCe11Hw3L._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 15,
+      "asin": "B0FX54Z96J",
+      "price": 24980,
+      "title": "Acer Nitro 24.5\" IPS 320Hz Full HD 0.5ms(GTG) Matte sRGB 99% AMD FreeSync Premium HDR10 HDMI 2.0 DisplayPort v1.4 VG250QF3bmiipx",
+      "image": "https://m.media-amazon.com/images/I/618Of7fdPbL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 16,
+      "asin": "B0FX561MSM",
+      "price": 12980,
+      "title": "Acer KA242YP6bmix 23.8\" IPS Monitor Full HD 144Hz 1ms (VRB) Matte sRGB 99% AMD FreeSync Built-in Speaker Zero Frame HDMI 1.4 Mini D-Sub 15 Pin",
+      "image": "https://m.media-amazon.com/images/I/61CIGz36OtL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 17,
+      "asin": "B0F8BVZR8X",
+      "price": 14990,
+      "title": "Acer Nitro Gaming Monitor 23.8\" Wide Full HD Anti-Glare IPS 120Hz 1ms (VRB) sRGB 99% AdaptiveSync HDMI 1.4 DisplayPort 1.2 Built-in Speaker VESA Mount Compatible Zero Frame",
+      "image": "https://m.media-amazon.com/images/I/614W0QSFCmL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 18,
+      "asin": "B07DQPQKC8",
+      "price": null,
+      "title": "Acer SA240YAbmi AlphaLine 23.8-Inch Monitor Display with Full HD IPS Frameless HDMI D-Sub Speaker, Blue Light Reduction",
+      "image": "https://m.media-amazon.com/images/I/61nEwJ73gKL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 19,
+      "asin": "B0DMF317JS",
+      "price": 23980,
+      "title": "Acer Gaming Monitor 24.5\" VA Full HD Matte 280Hz 1ms sRGB99% AMD FreeSync Premium HDR10 HDMI 2.0 DisplayPort 1.4 Nitro KG251QZ1bmiipx",
+      "image": "https://m.media-amazon.com/images/I/61CGetpxzsL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 20,
+      "asin": "B0H6WQTYQG",
+      "price": 16679,
+      "title": "Acer Nitro 23.8\" IPS Full HD 180Hz 1ms (VRB) Matte sRGB 99% AMD FreeSync Blue Light Reduction Black Boost HDMI 2.1 Mini D-Sub 15 Pin Speaker Headphone Jack",
+      "image": "https://m.media-amazon.com/images/I/61H0BoxMC6L._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 21,
+      "asin": "B0GK5S5W6Q",
+      "price": 12880,
+      "title": "Acer Nitro 21\" VA 120Hz Full HD 1ms (VRB) Matte sRGB 99% AMD FreeSync Blue Light Reduction HDMI 1.4 Mini D-Sub 15 Pin QG221QJ0bmix",
+      "image": "https://m.media-amazon.com/images/I/71g9UXyACJL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 22,
+      "asin": "B0DM8K72P1",
+      "price": 17680,
+      "title": "Acer Gaming Monitor 23.8\" IPS Full HD Matte 200Hz 0.5ms sRGB 99% AMD FreeSync Premium HDR10 HDMI 2.0 DisplayPort v1.2 Nitro VG240YX1bmiipx",
+      "image": "https://m.media-amazon.com/images/I/61EyjdTJaNL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 23,
+      "asin": "B0H6WWMF8Y",
+      "price": 19979,
+      "title": "Acer Nitro 23.8\" IPS Full HD 260Hz 0.5ms(GTG) Matte sRGB 99% AMD FreeSync Premium HDR10 HDMI 2.1 DisplayPort v1.4 Zero Frame Gaming Monitor",
+      "image": "https://m.media-amazon.com/images/I/61lB6bJ29RL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 24,
+      "asin": "B0FJ2Y8ZKD",
+      "price": 14680,
+      "title": "Acer 24.5\" IPS 144Hz 1ms (VRB) Matte sRGB 99% AMD FreeSync Zero Frame Pro HDMI 1.4 Mini D-Sub 15 Pin EK251QP6bmix",
+      "image": "https://m.media-amazon.com/images/I/613LryqrTbL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 25,
+      "asin": "B0GQ3CC7LD",
+      "price": 13280,
+      "title": "Acer EK251QP6bi 24.5-inch IPS Monitor Full HD 144Hz 1ms (VRB) Matte sRGB 99% AMD FreeSync Blue Light Reduction HDMI 1.4 Mini D-Sub 15-pin",
+      "image": "https://m.media-amazon.com/images/I/61i+-KjjYUL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 26,
+      "asin": "B0FN2L4XTZ",
+      "price": 10965,
+      "title": "acer SDGs Propulsion, 21.5 type, 1920 x 1080, HDMI, Mini D-Sub, Black, No Speaker, Zero Frame, VA, Non-Glossy",
+      "image": "https://m.media-amazon.com/images/I/41Kyf5OwYJL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 27,
+      "asin": "B08HZ448KY",
+      "price": null,
+      "title": "Acer VG240YSbmiipfx 23.8-Inch Gaming Monitor IPS Matte Full HD 0.5 ms (GtG, Min.) 165 Hz HDMI AMD FreeSync Premium HDR 10",
+      "image": "https://m.media-amazon.com/images/I/71PNjK2j3JL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 28,
+      "asin": "B0GNPZWMSS",
+      "price": 17980,
+      "title": "Acer VERO 23.8\" Full HD IPS Matte Ergo Stand 144Hz 1ms (VRB) sRGB 99% Blue Light Shield Pro HDMI 1.4 DisplayPort v1.2 Mini D-Sub 15 Pin Speaker Headphone Jack VESA Mount",
+      "image": "https://m.media-amazon.com/images/I/61RIJBfwpeL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 29,
+      "asin": "B0BLCFJ9H1",
+      "price": null,
+      "title": "Acer SigmaLine KG251QSbmiipx Gaming Monitor, 24.5-Inch, VA Matte, Full HD, 165Hz, 1ms (VRB), FreeSync Premium, Built-in Speaker, VESA Mount, Tilt",
+      "image": "https://m.media-amazon.com/images/I/61pvI9UsjNL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 30,
+      "asin": "B0C4J5N3VK",
+      "price": null,
+      "title": "Acer QG241YEbmiix 23.8\" Nitro Gaming Monitor, IPS, Anti-Glare, Full HD, 100Hz, 1ms VRB, HDMI Mini D-Sub 15, VESA Mount Compatible with Speaker, AMD FreeSync, Amazon.co.jp Exclusive",
+      "image": "https://m.media-amazon.com/images/I/61pTtgJ7nPL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 31,
+      "asin": "B083YCHRZ3",
+      "price": null,
+      "title": "Acer AlphaLine K242HQLbi Monitor Display, 23.6-Inch, Full HD VA HDMI, D-Sub, Blue Light Reduction, VESA Compatible, Speaker Not Included",
+      "image": "https://m.media-amazon.com/images/I/71q+yX1bRkL._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    },
+    {
+      "amazonRank": 32,
+      "asin": "B0FJS4YHPL",
+      "price": 25192,
+      "title": "Acer Portable Monitor 18.5\" FHD IPS 100Hz Adaptive Sync Slim Design HDMI 1.4 2x USB Type-C PM191Q Ebmiuux",
+      "image": "https://m.media-amazon.com/images/I/619LNzolY9L._AC_SL1500_.jpg",
+      "rating": 4,
+      "reviews": 0,
+      "searchPage": 1
+    }
+  ]
+}

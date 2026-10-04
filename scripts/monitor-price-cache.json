@@ -1,0 +1,237 @@
+{
+  "B0BG1NBRCY": {
+    "price": 22016,
+    "source": "html",
+    "at": "2026-08-15T23:55:35.860Z"
+  },
+  "B005PAI9OE": {
+    "price": 4980,
+    "source": "html",
+    "at": "2026-08-15T23:55:42.426Z"
+  },
+  "B08DRRHJVW": {
+    "price": 23500,
+    "source": "html",
+    "at": "2026-08-15T23:55:49.137Z"
+  },
+  "B06XYLDND3": {
+    "price": 32800,
+    "source": "html",
+    "at": "2026-08-15T23:55:55.845Z"
+  },
+  "B0CGSSNBGH": {
+    "price": 19169,
+    "source": "html",
+    "at": "2026-08-15T23:56:02.828Z"
+  },
+  "B0BCQJJJWS": {
+    "remove": true,
+    "reason": "used-only",
+    "at": "2026-08-15T23:56:09.383Z"
+  },
+  "B09M2L8T5H": {
+    "price": 97535,
+    "source": "playwright",
+    "at": "2026-08-15T23:56:16.089Z"
+  },
+  "B0GCNC4W9M": {
+    "price": 14980,
+    "source": "html",
+    "at": "2026-08-15T23:56:22.797Z"
+  },
+  "B0C7CZYLWQ": {
+    "price": 80166,
+    "source": "html",
+    "at": "2026-08-15T23:56:29.848Z"
+  },
+  "B0DLT7CJV1": {
+    "price": 119800,
+    "source": "html",
+    "at": "2026-08-15T23:56:36.402Z"
+  },
+  "B0FGW61ZBD": {
+    "price": null,
+    "reason": "no-price-kept",
+    "at": "2026-08-15T23:56:42.969Z"
+  },
+  "B0CGNRK1TX": {
+    "price": 22016,
+    "source": "html",
+    "at": "2026-08-15T23:56:49.656Z"
+  },
+  "B00M40R476": {
+    "price": 66700,
+    "source": "html",
+    "at": "2026-08-15T23:56:56.519Z"
+  },
+  "B0CD2C55M5": {
+    "price": 69980,
+    "source": "html",
+    "at": "2026-08-15T23:57:03.169Z"
+  },
+  "B0BD65ZXG3": {
+    "price": 97349,
+    "source": "playwright",
+    "at": "2026-08-15T23:57:09.982Z"
+  },
+  "B0CP376Q5C": {
+    "price": 32800,
+    "source": "html",
+    "at": "2026-08-15T23:57:16.605Z"
+  },
+  "B0DCZBBD6M": {
+    "price": 87593,
+    "source": "html",
+    "at": "2026-08-15T23:57:23.404Z"
+  },
+  "B0CVN36JXY": {
+    "price": 32800,
+    "source": "html",
+    "at": "2026-08-15T23:57:29.946Z"
+  },
+  "B0CLSSG57W": {
+    "price": 25800,
+    "source": "html",
+    "at": "2026-08-15T23:57:36.624Z"
+  },
+  "B0BGPW9PQZ": {
+    "price": 28078,
+    "source": "playwright",
+    "at": "2026-08-15T23:57:43.259Z"
+  },
+  "B0G2T2V6JJ": {
+    "price": 54610,
+    "source": "html",
+    "at": "2026-08-15T23:57:50.096Z"
+  },
+  "B0BNSYF7FK": {
+    "price": null,
+    "reason": "no-price-kept",
+    "at": "2026-08-15T23:57:56.816Z"
+  },
+  "B09QCL771L": {
+    "price": 19980,
+    "source": "html",
+    "at": "2026-08-15T23:58:03.534Z"
+  },
+  "B08QHYD2BP": {
+    "price": 19980,
+    "source": "html",
+    "at": "2026-08-15T23:58:10.210Z"
+  },
+  "B07PS5YJ2H": {
+    "price": 27650,
+    "source": "html",
+    "at": "2026-08-15T23:58:16.892Z"
+  },
+  "B0BL6TK685": {
+    "price": 19000,
+    "source": "html",
+    "at": "2026-08-15T23:58:23.646Z"
+  },
+  "B0CGLGPLPL": {
+    "price": 32800,
+    "source": "html",
+    "at": "2026-08-15T23:58:30.410Z"
+  },
+  "B0GQ39Q3KG": {
+    "price": 23618,
+    "source": "html",
+    "at": "2026-08-15T23:58:37.179Z"
+  },
+  "B0F8F1GXCV": {
+    "price": 19980,
+    "source": "html",
+    "at": "2026-08-15T23:58:43.767Z"
+  },
+  "B01L8H204W": {
+    "price": 51914,
+    "source": "html",
+    "at": "2026-08-15T23:58:51.023Z"
+  },
+  "B078XXYDWZ": {
+    "price": 63800,
+    "source": "html",
+    "at": "2026-08-15T23:58:58.129Z"
+  },
+  "B01LY1A3ER": {
+    "price": 70348,
+    "source": "html",
+    "at": "2026-08-15T23:59:05.371Z"
+  },
+  "B075ZWRH6Z": {
+    "price": 125109,
+    "source": "html",
+    "at": "2026-08-15T23:59:12.382Z"
+  },
+  "B071D1HN9Y": {
+    "price": 94976,
+    "source": "html",
+    "at": "2026-08-15T23:59:19.401Z"
+  },
+  "B073S5HDGY": {
+    "price": 148990,
+    "source": "html",
+    "at": "2026-08-15T23:59:26.350Z"
+  },
+  "B078XYFG2V": {
+    "price": 87980,
+    "source": "html",
+    "at": "2026-08-15T23:59:33.304Z"
+  },
+  "B071DB2KQZ": {
+    "price": 39900,
+    "source": "playwright",
+    "at": "2026-08-15T23:59:40.274Z"
+  },
+  "B0787HV5XP": {
+    "price": 132723,
+    "source": "html",
+    "at": "2026-08-15T23:59:47.051Z"
+  },
+  "B071CGGTJY": {
+    "price": 94976,
+    "source": "html",
+    "at": "2026-08-15T23:59:53.833Z"
+  },
+  "B0721XWT78": {
+    "price": 94976,
+    "source": "html",
+    "at": "2026-08-16T00:00:01.084Z"
+  },
+  "B0BW8W1VN3": {
+    "price": 15400,
+    "source": "html",
+    "at": "2026-08-16T00:00:07.767Z"
+  },
+  "B084B948TK": {
+    "price": 24980,
+    "source": "html",
+    "at": "2026-08-16T00:00:14.507Z"
+  },
+  "B0GWNQWXMF": {
+    "price": 74280,
+    "source": "html",
+    "at": "2026-08-16T00:00:21.234Z"
+  },
+  "B0F18R25R3": {
+    "price": 16980,
+    "source": "playwright",
+    "at": "2026-08-16T00:00:28.327Z"
+  },
+  "B0FNN97M6M": {
+    "remove": true,
+    "reason": "used-only",
+    "at": "2026-08-16T00:00:34.840Z"
+  },
+  "B0DMT5LHY8": {
+    "price": 33895,
+    "source": "html",
+    "at": "2026-08-16T00:00:41.524Z"
+  },
+  "B0FNQ24T2T": {
+    "price": 58700,
+    "source": "html",
+    "at": "2026-08-16T00:00:48.180Z"
+  }
+}

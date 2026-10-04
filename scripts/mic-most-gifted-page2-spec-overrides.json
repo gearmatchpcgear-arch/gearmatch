@@ -1,0 +1,188 @@
+{
+  "B0D41PZJNG": {
+    "name": "ROG Carnyx C501",
+    "brand": "ASUS",
+    "connection": "USB",
+    "polar": "単一指向性 (カーディオイド)",
+    "type": "コンデンサー",
+    "micFilterTags": ["stand", "condenser"]
+  },
+  "B09JNRKQK7": {
+    "name": "PowerConf S330",
+    "brand": "Anker",
+    "connection": "USB",
+    "polar": "全指向性",
+    "type": "会議用スピーカーフォン",
+    "micFilterTags": ["conference"],
+    "features": {
+      "ノイズリダクション": "対応",
+      "ハウリング抑制": "対応"
+    }
+  },
+  "B07FMLLMKD": {
+    "name": "M2",
+    "brand": "EMEET",
+    "connection": "USB / Bluetooth / AUX",
+    "polar": "全指向性 (360°)",
+    "type": "会議用スピーカーフォン",
+    "micFilterTags": ["conference"],
+    "features": {
+      "ハウリング抑制": "対応",
+      "Bluetooth": "対応"
+    }
+  },
+  "B0C6XJ9W5T": {
+    "name": "PD200X",
+    "brand": "MAONO",
+    "connection": "XLR / USB",
+    "polar": "単一指向性 (カーディオイド)",
+    "type": "ダイナミック",
+    "micFilterTags": ["dynamic", "stand"],
+    "features": {
+      "RGBライティング": "対応",
+      "ミュートボタン": "対応",
+      "イヤホンジャック": "対応"
+    }
+  },
+  "B0CCV74CL7": {
+    "name": "TC310+",
+    "brand": "TONOR",
+    "connection": "USB",
+    "polar": "単一指向性 (カーディオイド)",
+    "type": "コンデンサー",
+    "micFilterTags": ["stand", "condenser"],
+    "features": {
+      "RGBライティング": "対応",
+      "ミュートボタン": "ワンタッチミュート"
+    }
+  },
+  "B0C1ZJVFSS": {
+    "name": "Snowball BM250W",
+    "brand": "Logicool G",
+    "connection": "USB",
+    "polar": "単一指向性 (カーディオイド)",
+    "type": "コンデンサー",
+    "micFilterTags": ["stand", "condenser"]
+  },
+  "B014PYGYRE": {
+    "name": "QuadCast2S",
+    "brand": "HyperX",
+    "connection": "USB",
+    "polar": "指向性切替対応 (4パターン)",
+    "type": "コンデンサー",
+    "micFilterTags": ["stand", "condenser"],
+    "features": {
+      "RGBライティング": "対応"
+    }
+  },
+  "B0DG9X4WHW": {
+    "name": "QuadCast2S",
+    "brand": "HyperX",
+    "connection": "USB",
+    "polar": "指向性切替対応 (4パターン)",
+    "type": "コンデンサー",
+    "micFilterTags": ["stand", "condenser"],
+    "features": {
+      "RGBライティング": "対応"
+    }
+  },
+  "B0D1R585XT": {
+    "name": "Yeti GX",
+    "brand": "Logicool G",
+    "connection": "USB",
+    "polar": "超単一指向性 (スーパーカーディオイド)",
+    "type": "ダイナミック",
+    "micFilterTags": ["dynamic", "stand"],
+    "features": {
+      "RGBライティング": "対応",
+      "ノイズ軽減": "BLUE VO!CE"
+    }
+  },
+  "B08NPRVBJT": {
+    "name": "ワイヤレスピンマイク",
+    "brand": "BILIWAL",
+    "connection": "USB Type-C",
+    "polar": "全指向性 (360°)",
+    "type": "ワイヤレスピンマイク",
+    "micFilterTags": ["wireless", "pin"]
+  },
+  "B0DYCR675L": {
+    "name": "ワイヤレスピンマイク",
+    "brand": "BILIWAL",
+    "connection": "USB Type-C",
+    "polar": "全指向性 (360°)",
+    "type": "ワイヤレスピンマイク",
+    "micFilterTags": ["wireless", "pin"]
+  },
+  "B08YS2G4FB": {
+    "name": "XS LAV USB-C",
+    "brand": "Sennheiser",
+    "connection": "USB Type-C",
+    "polar": "全指向性",
+    "type": "コンデンサー",
+    "micFilterTags": ["pin", "condenser"]
+  },
+  "B0796VFD73": {
+    "name": "USBスピーカーフォン",
+    "brand": "Kaysuda",
+    "connection": "USB",
+    "polar": "全指向性",
+    "type": "会議用スピーカーフォン",
+    "micFilterTags": ["conference"]
+  },
+  "B00HWOEYG8": {
+    "name": "MM-MC28",
+    "brand": "サンワサプライ",
+    "connection": "USB",
+    "polar": "全指向性",
+    "type": "会議用スピーカーフォン",
+    "micFilterTags": ["conference"]
+  },
+  "B00CXLFZL8": {
+    "name": "400-MC003",
+    "brand": "サンワダイレクト",
+    "connection": "USB",
+    "polar": "全指向性",
+    "type": "会議用スピーカーフォン",
+    "micFilterTags": ["conference"],
+    "features": {
+      "エコーキャンセラー": "対応",
+      "ノイズキャンセリング": "対応"
+    }
+  },
+  "B0FX4NQKGL": {
+    "name": "USB卓上マイク",
+    "brand": "—",
+    "connection": "USB",
+    "polar": "全指向性 (360°)",
+    "type": "コンデンサー",
+    "micFilterTags": ["stand", "condenser"],
+    "features": {
+      "ミュートボタン": "ワンタッチミュート"
+    }
+  },
+  "B09XDPPKTT": {
+    "name": "EJoy Uni S",
+    "brand": "COMICA",
+    "connection": "USB",
+    "polar": "単一指向性 (カーディオイド)",
+    "type": "コンデンサー",
+    "micFilterTags": ["stand", "condenser"],
+    "features": {
+      "RGBライティング": "対応",
+      "ノイズキャンセリング": "AIノイズキャンセリング"
+    }
+  },
+  "B0FJ899YS7": {
+    "name": "EJoy Uni S",
+    "brand": "COMICA",
+    "connection": "USB",
+    "polar": "単一指向性 (カーディオイド)",
+    "type": "コンデンサー",
+    "micFilterTags": ["stand", "condenser"],
+    "features": {
+      "RGBライティング": "対応",
+      "ノイズキャンセリング": "AIノイズキャンセリング"
+    }
+  }
+}

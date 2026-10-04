@@ -1,0 +1,549 @@
+{
+  "fetchedAt": "2026-08-13T15:44:42.320Z",
+  "monitors": [
+    {
+      "amazonRank": 1,
+      "asin": "B0GR4RLMKR",
+      "title": "Dell S2425HSM 23.8インチ モニター | 無輝点3年保証/FHD/IPS,非光沢/HDMIx2/sRGB 99%/縦横回転,高さ調整/1ms,144Hz/AMD FreeSync/内蔵スピーカー",
+      "rating": 4.3,
+      "reviews": 24,
+      "price": 19980,
+      "image": "https://m.media-amazon.com/images/I/716GLBIaGjL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 2,
+      "asin": "B0GR4M23MF",
+      "title": "Dell SE2225HM 21.5インチ モニター | 3年保証/FHD/VA,非光沢/HDMI1.4x1,VGAx1/傾き調整",
+      "rating": 3.8,
+      "reviews": 21,
+      "price": 10980,
+      "image": "https://m.media-amazon.com/images/I/7180Ks-incL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 3,
+      "asin": "B0H4L58ZFR",
+      "title": "IODATA GigaCrysta ゲーミングモニター 23.8インチ FHD 240Hz リモコン付（HDMI/DP） EX-GD243UDB | IPS方式, 0.2ms, 無輝点保証, スピーカー付",
+      "rating": 4.4,
+      "reviews": 282,
+      "price": 21800,
+      "image": "https://m.media-amazon.com/images/I/71z329Hi0jL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 4,
+      "asin": "B0GYPVGG2D",
+      "title": "LG モニター27U711B-B 27インチ/4K/IPS/約10.7億色表示(8bit+FRC)/DCI-P3 90%/HDR",
+      "rating": 4.1,
+      "reviews": 327,
+      "price": 37900,
+      "image": "https://m.media-amazon.com/images/I/71NDGee5qbL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 5,
+      "asin": "B0GYPH4QDC",
+      "title": "LG ゲーミング モニター 24G414B-B 23.8インチ/フルHD/144Hz/IPS 1ms/HDMI、DP/スピーカー多機能スタンド",
+      "rating": 4.4,
+      "reviews": 84,
+      "price": 17163,
+      "image": "https://m.media-amazon.com/images/I/71RYLqd8zZL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 6,
+      "asin": "B0GR4Q6FL4",
+      "title": "Dell S3425DW 34インチ 曲面 モニター | 無輝点3年保証/WQHD/VA非光沢,1800R曲面/USB Type-Cx1,HDMIx2/DCI-P3 95%/1ms,120Hz/FreeSync Premium/HDR10/内蔵スピーカー/高さ調整",
+      "rating": 4.4,
+      "reviews": 10,
+      "price": 64980,
+      "image": "https://m.media-amazon.com/images/I/710wTX832IL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 7,
+      "asin": "B0H3RH1Y2H",
+      "title": "LG ウルトラワイド モニター 34U640B-BAJP 34インチ/3440×1440/sRGB99%/144Hz/USB-C PD65W",
+      "rating": 4.6,
+      "reviews": 25,
+      "price": 63800,
+      "image": "https://m.media-amazon.com/images/I/71cznOkqKaL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 8,
+      "asin": "B096Y5RWHD",
+      "title": "MSI ゲーミングモニター MAG 274QF E20 27インチ/WQHD/RAPID IPS/200Hz/0.5ms（GTG、最小値）/DisplayHDR 400/G-SYNC Compatible/HDMI 2.0b/DP 1.4a/VESA100/PIP/PBPメーカー3年保証",
+      "rating": 4.5,
+      "reviews": 2,
+      "price": 31800,
+      "image": "https://m.media-amazon.com/images/I/818Z0DMpUXL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 9,
+      "asin": "B0GCDF8QLB",
+      "title": "【2026夏新登場】kksmart モバイル・ゲーミングモニター 16インチ 144Hz 2.5K解像度(2560x1600) 100%sRGB広色域 Switch2ドック不要 軽量670g ベゼルレス WQXGA 画像比調整可能 非光沢IPSパネル 収納ケース付 モバイルモニター Type-C/miniHDMI接続可能 PS5/XBOX/Switch/PC/Macなど対応 NK-16H",
+      "rating": 4.6,
+      "reviews": 1103,
+      "price": 20999,
+      "image": "https://m.media-amazon.com/images/I/81oL8owrYsL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 10,
+      "asin": "B0GR4RPP31",
+      "title": "Dell AW2525HM 24.5インチ Alienware ゲーミングモニター | 無輝点3年保証/FHD/IPS,非光沢/DP 1.4×1,HDMI×2/sRGB 99%/縦横回転,高さ調整/0.5ms,320Hz(DP),255Hz(HDMI)/ G-SYNC Compatible,AMD FreeSync Premium",
+      "rating": 4.7,
+      "reviews": 22,
+      "price": 28686,
+      "image": "https://m.media-amazon.com/images/I/61J1f8jMjwL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 11,
+      "asin": "B0GXFY2N8C",
+      "title": "CRUA 28インチ 4K+ 60Hz PCモニター 3840×2560 IPS Type-C HDMI2.0 DP1.4 スピーカー内蔵 ブラック | 15:10縦長画面・120% sRGB広色域・HDR/FreeSync対応・Type-C映像伝送/最大15W給電・10bit/1.07B表示色・178°広視野角・チルト調整・75×75mm壁掛け対応・コーディング/資料作成/動画編集向け",
+      "rating": 4.3,
+      "reviews": 3151,
+      "price": 22999,
+      "image": "https://m.media-amazon.com/images/I/71LVWQYxtCL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 12,
+      "asin": "B0H29BM2PR",
+      "title": "【Amazon.co.jp限定】JAPANNEXT 27インチ IPSパネル搭載 120Hz/1ms(MPRT)対応 4K(3840×2160)解像度 ゲーミングモニター JN-iA27G120U2 HDMI2.1 DP sRGB:100% HDR400相当 PS5 4K:120Hz接続 VRR【2年保証】 | IPSパネル,120Hz/1ms(MPRT)対応,4K(3840×2160)解像度,HDMI2.1,DP,sRGB:100%,HDR400相当,PS5,4K:120Hz接続,VRR,2年保証,ブラック",
+      "rating": 4.8,
+      "reviews": 5,
+      "price": 33980,
+      "image": "https://m.media-amazon.com/images/I/71PiMbVV0AL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 13,
+      "asin": "B0DTTNSKYH",
+      "title": "KOORUI モニター 27インチ pcモニター 144Hz フルhd 液晶ディスプレイ 非光沢 Adaptive Sync/ブルーライト軽減/傾き調整/HDMI＋VGAポート/VESA対応,E2712K",
+      "rating": 4.3,
+      "reviews": 1284,
+      "price": 14800,
+      "image": "https://m.media-amazon.com/images/I/81oFHiu3qjL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 14,
+      "asin": "B0H6HL2CL2",
+      "title": "Dell Alienware AW3426DW 34インチ曲面 有機EL ゲーミングモニター | 無輝点3年保証/WQHD/QD-OLED,抗反射,1800R曲面/HDMI2.1x2,DP1.4 x1/DCI-P3 99%/0.03ms,280Hz/FreeSync Premium Pro,DisplayHDR True Black 500",
+      "rating": 5,
+      "reviews": 1,
+      "price": 130980,
+      "image": "https://m.media-amazon.com/images/I/61oNFN+ncKL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 15,
+      "asin": "B0GYMYCTXL",
+      "title": "【整備済み品】 富士通 VL-E22-8T 21.5インチワイド 液晶モニター ディスプレイ 解像度1920x1080 フルHD IPSパネル ディスプレイポート/HDMI/VGA/VESA/スピーカ内蔵/角度調整/ブラック(Ymer)",
+      "rating": 4.4,
+      "reviews": 37,
+      "price": 6251,
+      "image": "https://m.media-amazon.com/images/I/71dIukI4NmL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 16,
+      "asin": "B0H2CZ824D",
+      "title": "【整備済み品】 富士通 VL-E22-8T 21.5インチワイド 液晶モニター ディスプレイ 解像度1920x1080 フルHD IPSパネル ディスプレイポート/HDMI/VGA/VESA/スピーカ内蔵/角度調整/ブラック(Ymer)",
+      "rating": 4.3,
+      "reviews": 73,
+      "price": 7000,
+      "image": "https://m.media-amazon.com/images/I/71ryQrZv06L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 17,
+      "asin": "B0G2VHV18G",
+      "title": "KEY TO COMBAT 23.8インチ FHD(1920*1080) 240Hz FAST IPSパネル 1ms HDR400 ゲーミングモニター ΔE<2 DC調光 400cd/m² sRGB 111% 色域 FreeSync & G-Sync ブルーライト軽減 HDMI2.0*2 DP1.4*1 USB2.0 チルト可能 VESA 三年保証付き KTC モニター 白い H24F7",
+      "rating": 4.2,
+      "reviews": 44,
+      "price": 16980,
+      "image": "https://m.media-amazon.com/images/I/615leE5bHVL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 18,
+      "asin": "B0GQH4SM7B",
+      "title": "KOORUI モニター 24インチ 144Hz ゲーミングモニター フルHD VAパネル (HDMI/VGA/AdaptiveSync/VESA対応/ブルーライト軽減) E2412K",
+      "rating": 4.2,
+      "reviews": 1505,
+      "price": 13980,
+      "image": "https://m.media-amazon.com/images/I/71zsPfEjiaL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 19,
+      "asin": "B0H6WSMXBL",
+      "title": "Acer モバイルモニター 14インチ WUXGA 16:10 IPS 非光沢 NTSC 45% 60Hz 7ms(GTG) 600g 超薄型 Adaptive-Sync HDR10 HDMI 1.4 USB-C デュアルスピーカー スタンド内蔵 無段階チルト調整 ブルーライト低減 PM141Wbmiuux",
+      "rating": 5,
+      "reviews": 2,
+      "price": 13999,
+      "image": "https://m.media-amazon.com/images/I/61zxJuvSVeL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 22,
+      "asin": "B0H368NS2X",
+      "title": "【整備済み品】Dell E2318H 23インチ 液晶モニター フルHD（1920×1080）IPS 非光沢 DisplayPort/VGA 5ms ComfortView VESA対応 チルト調整 ビジネス向け（Ymer-Shop）",
+      "rating": 5,
+      "reviews": 2,
+      "price": 6500,
+      "image": "https://m.media-amazon.com/images/I/71Y3+T7FX9L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 23,
+      "asin": "B0H1PWX6SN",
+      "title": "【Amazon.co.jp限定】Lenovo ゲーミングモニター LOQ 27Q-10 27インチ/QHD/IPSパネル/180㎐/1ms(GtG)/HDMI2.1x2, DP1.4x1/AMD FreeSync™ Premium/チルト対応/日本国内3年保証",
+      "rating": 5,
+      "reviews": 1,
+      "price": 19800,
+      "image": "https://m.media-amazon.com/images/I/71zS6MEikGL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 24,
+      "asin": "B0H6WS2CP1",
+      "title": "Acer Nitro モバイル ゲーミングモニター 16インチ ワイド IPS 非光沢 WUXGA 144Hz 4ms(GTG) NTSC 45% 785g 軽量薄型 AMD FreeSync HDR10 HDMI 1.4 USB-C デュアルスピーカー 縦画面表示 無段階チルト調整 ブルーライト抑制 3年保証(パネルは1年) PG161WP1bmiuux",
+      "rating": 4.6,
+      "reviews": 3,
+      "price": 19999,
+      "image": "https://m.media-amazon.com/images/I/61mucvplACL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 25,
+      "asin": "B0GYR9BBB9",
+      "title": "InnoView モバイルモニター 18.5インチ モバイルディスプレイ 120%sRGB 120Hz 2560×1440 QHD 大画面 保護ケース付きゲーミングモニター IPS液晶パネル 非光沢ポータブルモニター HDRモード FreeSync ブルーライト機能 Type-C/標準HDMI/PS4/PS5/Xbox/Switchなど対応 壁掛けに対応 内蔵スピーカー 薄型 軽量 持ち運び",
+      "rating": 4,
+      "reviews": 1253,
+      "price": 25999,
+      "image": "https://m.media-amazon.com/images/I/71Vl1iWGuuL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 26,
+      "asin": "B0GSV8QLRC",
+      "title": "【Switch2ドック不要】Upperizon モバイルモニター 14インチ 120Hz 2K 軽量530g 100%sRGB 高輝度450nits | 光沢IPS 2520×1680 2.5K 3対2 アスペクト比調整対応 極薄 自立型 無段階チルト調整 VESA対応 撥水収納ケース付き Type-C/Mini HDMI ゲーミング PC/Mac/ゲーム機 ポータブルディスプレイ G-14H",
+      "rating": 4.1,
+      "reviews": 344,
+      "price": 87980,
+      "image": "https://m.media-amazon.com/images/I/71cNfNSda0L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 27,
+      "asin": "B0GYFC8Q78",
+      "title": "【Switch2ドック不要】Upperizon モバイルモニター 14インチ 120Hz 2K 軽量530g 100%sRGB 高輝度450nits | 光沢IPS 2520×1680 2.5K 3対2 アスペクト比調整対応 極薄 自立型 無段階チルト調整 VESA対応 撥水収納ケース付き Type-C/Mini HDMI ゲーミング PC/Mac/ゲーム機 ポータブルディスプレイ G-14H",
+      "rating": 4.8,
+      "reviews": 189,
+      "price": 16999,
+      "image": "https://m.media-amazon.com/images/I/71HQc8AnBCL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 28,
+      "asin": "B0G26VMQB3",
+      "title": "AOC ゲーミングモニター 27インチ, QHD/2560x1440@180Hz, 応答速度0.5ms(MPRT), Fast IPS, HDMI2.0 x 1/ DP1.4x1,ブルーライト低減, フリッカーフリー, G-sync Compatible, HDR10対応, 3年保証 Q27G40E/11",
+      "rating": 4.2,
+      "reviews": 42,
+      "price": 18909,
+      "image": "https://m.media-amazon.com/images/I/814BDUy9gWL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 29,
+      "asin": "B0H8SBPYP6",
+      "title": "【2年保証モデル】JAPANNEXT 50インチ VAパネル搭載 4K(3840×2160)解像度 大型液晶モニター JN-V50U2-M HDMI ビデオ/音声入力 コンポーネント入力 オプティカル音声出力 USBメモリ再生対応 リモコン同梱 |",
+      "rating": 4.6,
+      "reviews": 41,
+      "price": 59980,
+      "image": "https://m.media-amazon.com/images/I/71+vTnfsGDL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 30,
+      "asin": "B0GYPLSKWT",
+      "title": "LG ゲーミング モニター 32G620B-B 31.5インチ/WQHD@200Hz/IPS 1ms/HDR/HDMI、DP/多機能スタンド",
+      "rating": 4.6,
+      "reviews": 41,
+      "price": 40200,
+      "image": "https://m.media-amazon.com/images/I/71+jinjzoiL._AC_SL1500_.jpg"
+    }
+  ],
+  "excluded": [
+    {
+      "amazonRank": 20,
+      "asin": "B0H4V4TH7M",
+      "title": "ソニー(SONY) INZONE M10S II : SDM‑27Q102 Fnatic共同開発 有機EL QHD 27インチ OLED 540Hz / 応答速度0.02ms Dual Mode HD720Hz（DFR）モーションブラー低減 アンチVRRフリッカー スーパーアンチグレアフィルム 24.5インチモード搭載 eスポーツ最上位モデル 最大垂直解像度",
+      "rating": 4.1,
+      "reviews": 6,
+      "price": 18980,
+      "image": "https://m.media-amazon.com/images/I/710Esmj6s5L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 21,
+      "asin": "B0GW82217C",
+      "title": "ソニー(SONY) INZONE M10S II : SDM‑27Q102 Fnatic共同開発 有機EL QHD 27インチ OLED 540Hz / 応答速度0.02ms Dual Mode HD720Hz（DFR）モーションブラー低減 アンチVRRフリッカー スーパーアンチグレアフィルム 24.5インチモード搭載 eスポーツ最上位モデル 最大垂直解像度",
+      "rating": 4.1,
+      "reviews": 6,
+      "price": 159000,
+      "image": "https://m.media-amazon.com/images/I/61CykL76CUL._AC_SL1500_.jpg"
+    }
+  ],
+  "raw": [
+    {
+      "amazonRank": 1,
+      "asin": "B0GR4RLMKR",
+      "title": "Dell S2425HSM 23.8インチ モニター | 無輝点3年保証/FHD/IPS,非光沢/HDMIx2/sRGB 99%/縦横回転,高さ調整/1ms,144Hz/AMD FreeSync/内蔵スピーカー",
+      "rating": 4.3,
+      "reviews": 24,
+      "price": 19980,
+      "image": "https://m.media-amazon.com/images/I/716GLBIaGjL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 2,
+      "asin": "B0GR4M23MF",
+      "title": "Dell SE2225HM 21.5インチ モニター | 3年保証/FHD/VA,非光沢/HDMI1.4x1,VGAx1/傾き調整",
+      "rating": 3.8,
+      "reviews": 21,
+      "price": 10980,
+      "image": "https://m.media-amazon.com/images/I/7180Ks-incL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 3,
+      "asin": "B0H4L58ZFR",
+      "title": "IODATA GigaCrysta ゲーミングモニター 23.8インチ FHD 240Hz リモコン付（HDMI/DP） EX-GD243UDB | IPS方式, 0.2ms, 無輝点保証, スピーカー付",
+      "rating": 4.4,
+      "reviews": 282,
+      "price": 21800,
+      "image": "https://m.media-amazon.com/images/I/71z329Hi0jL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 4,
+      "asin": "B0GYPVGG2D",
+      "title": "LG モニター27U711B-B 27インチ/4K/IPS/約10.7億色表示(8bit+FRC)/DCI-P3 90%/HDR",
+      "rating": 4.1,
+      "reviews": 327,
+      "price": 37900,
+      "image": "https://m.media-amazon.com/images/I/71NDGee5qbL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 5,
+      "asin": "B0GYPH4QDC",
+      "title": "LG ゲーミング モニター 24G414B-B 23.8インチ/フルHD/144Hz/IPS 1ms/HDMI、DP/スピーカー多機能スタンド",
+      "rating": 4.4,
+      "reviews": 84,
+      "price": 17163,
+      "image": "https://m.media-amazon.com/images/I/71RYLqd8zZL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 6,
+      "asin": "B0GR4Q6FL4",
+      "title": "Dell S3425DW 34インチ 曲面 モニター | 無輝点3年保証/WQHD/VA非光沢,1800R曲面/USB Type-Cx1,HDMIx2/DCI-P3 95%/1ms,120Hz/FreeSync Premium/HDR10/内蔵スピーカー/高さ調整",
+      "rating": 4.4,
+      "reviews": 10,
+      "price": 64980,
+      "image": "https://m.media-amazon.com/images/I/710wTX832IL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 7,
+      "asin": "B0H3RH1Y2H",
+      "title": "LG ウルトラワイド モニター 34U640B-BAJP 34インチ/3440×1440/sRGB99%/144Hz/USB-C PD65W",
+      "rating": 4.6,
+      "reviews": 25,
+      "price": 63800,
+      "image": "https://m.media-amazon.com/images/I/71cznOkqKaL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 8,
+      "asin": "B096Y5RWHD",
+      "title": "MSI ゲーミングモニター MAG 274QF E20 27インチ/WQHD/RAPID IPS/200Hz/0.5ms（GTG、最小値）/DisplayHDR 400/G-SYNC Compatible/HDMI 2.0b/DP 1.4a/VESA100/PIP/PBPメーカー3年保証",
+      "rating": 4.5,
+      "reviews": 2,
+      "price": 31800,
+      "image": "https://m.media-amazon.com/images/I/818Z0DMpUXL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 9,
+      "asin": "B0GCDF8QLB",
+      "title": "【2026夏新登場】kksmart モバイル・ゲーミングモニター 16インチ 144Hz 2.5K解像度(2560x1600) 100%sRGB広色域 Switch2ドック不要 軽量670g ベゼルレス WQXGA 画像比調整可能 非光沢IPSパネル 収納ケース付 モバイルモニター Type-C/miniHDMI接続可能 PS5/XBOX/Switch/PC/Macなど対応 NK-16H",
+      "rating": 4.6,
+      "reviews": 1103,
+      "price": 20999,
+      "image": "https://m.media-amazon.com/images/I/81oL8owrYsL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 10,
+      "asin": "B0GR4RPP31",
+      "title": "Dell AW2525HM 24.5インチ Alienware ゲーミングモニター | 無輝点3年保証/FHD/IPS,非光沢/DP 1.4×1,HDMI×2/sRGB 99%/縦横回転,高さ調整/0.5ms,320Hz(DP),255Hz(HDMI)/ G-SYNC Compatible,AMD FreeSync Premium",
+      "rating": 4.7,
+      "reviews": 22,
+      "price": 28686,
+      "image": "https://m.media-amazon.com/images/I/61J1f8jMjwL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 11,
+      "asin": "B0GXFY2N8C",
+      "title": "CRUA 28インチ 4K+ 60Hz PCモニター 3840×2560 IPS Type-C HDMI2.0 DP1.4 スピーカー内蔵 ブラック | 15:10縦長画面・120% sRGB広色域・HDR/FreeSync対応・Type-C映像伝送/最大15W給電・10bit/1.07B表示色・178°広視野角・チルト調整・75×75mm壁掛け対応・コーディング/資料作成/動画編集向け",
+      "rating": 4.3,
+      "reviews": 3151,
+      "price": 22999,
+      "image": "https://m.media-amazon.com/images/I/71LVWQYxtCL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 12,
+      "asin": "B0H29BM2PR",
+      "title": "【Amazon.co.jp限定】JAPANNEXT 27インチ IPSパネル搭載 120Hz/1ms(MPRT)対応 4K(3840×2160)解像度 ゲーミングモニター JN-iA27G120U2 HDMI2.1 DP sRGB:100% HDR400相当 PS5 4K:120Hz接続 VRR【2年保証】 | IPSパネル,120Hz/1ms(MPRT)対応,4K(3840×2160)解像度,HDMI2.1,DP,sRGB:100%,HDR400相当,PS5,4K:120Hz接続,VRR,2年保証,ブラック",
+      "rating": 4.8,
+      "reviews": 5,
+      "price": 33980,
+      "image": "https://m.media-amazon.com/images/I/71PiMbVV0AL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 13,
+      "asin": "B0DTTNSKYH",
+      "title": "KOORUI モニター 27インチ pcモニター 144Hz フルhd 液晶ディスプレイ 非光沢 Adaptive Sync/ブルーライト軽減/傾き調整/HDMI＋VGAポート/VESA対応,E2712K",
+      "rating": 4.3,
+      "reviews": 1284,
+      "price": 14800,
+      "image": "https://m.media-amazon.com/images/I/81oFHiu3qjL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 14,
+      "asin": "B0H6HL2CL2",
+      "title": "Dell Alienware AW3426DW 34インチ曲面 有機EL ゲーミングモニター | 無輝点3年保証/WQHD/QD-OLED,抗反射,1800R曲面/HDMI2.1x2,DP1.4 x1/DCI-P3 99%/0.03ms,280Hz/FreeSync Premium Pro,DisplayHDR True Black 500",
+      "rating": 5,
+      "reviews": 1,
+      "price": 130980,
+      "image": "https://m.media-amazon.com/images/I/61oNFN+ncKL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 15,
+      "asin": "B0GYMYCTXL",
+      "title": "【整備済み品】 富士通 VL-E22-8T 21.5インチワイド 液晶モニター ディスプレイ 解像度1920x1080 フルHD IPSパネル ディスプレイポート/HDMI/VGA/VESA/スピーカ内蔵/角度調整/ブラック(Ymer)",
+      "rating": 4.4,
+      "reviews": 37,
+      "price": 6251,
+      "image": "https://m.media-amazon.com/images/I/71dIukI4NmL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 16,
+      "asin": "B0H2CZ824D",
+      "title": "【整備済み品】 富士通 VL-E22-8T 21.5インチワイド 液晶モニター ディスプレイ 解像度1920x1080 フルHD IPSパネル ディスプレイポート/HDMI/VGA/VESA/スピーカ内蔵/角度調整/ブラック(Ymer)",
+      "rating": 4.3,
+      "reviews": 73,
+      "price": 7000,
+      "image": "https://m.media-amazon.com/images/I/71ryQrZv06L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 17,
+      "asin": "B0G2VHV18G",
+      "title": "KEY TO COMBAT 23.8インチ FHD(1920*1080) 240Hz FAST IPSパネル 1ms HDR400 ゲーミングモニター ΔE<2 DC調光 400cd/m² sRGB 111% 色域 FreeSync & G-Sync ブルーライト軽減 HDMI2.0*2 DP1.4*1 USB2.0 チルト可能 VESA 三年保証付き KTC モニター 白い H24F7",
+      "rating": 4.2,
+      "reviews": 44,
+      "price": 16980,
+      "image": "https://m.media-amazon.com/images/I/615leE5bHVL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 18,
+      "asin": "B0GQH4SM7B",
+      "title": "KOORUI モニター 24インチ 144Hz ゲーミングモニター フルHD VAパネル (HDMI/VGA/AdaptiveSync/VESA対応/ブルーライト軽減) E2412K",
+      "rating": 4.2,
+      "reviews": 1505,
+      "price": 13980,
+      "image": "https://m.media-amazon.com/images/I/71zsPfEjiaL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 19,
+      "asin": "B0H6WSMXBL",
+      "title": "Acer モバイルモニター 14インチ WUXGA 16:10 IPS 非光沢 NTSC 45% 60Hz 7ms(GTG) 600g 超薄型 Adaptive-Sync HDR10 HDMI 1.4 USB-C デュアルスピーカー スタンド内蔵 無段階チルト調整 ブルーライト低減 PM141Wbmiuux",
+      "rating": 5,
+      "reviews": 2,
+      "price": 13999,
+      "image": "https://m.media-amazon.com/images/I/61zxJuvSVeL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 20,
+      "asin": "B0H4V4TH7M",
+      "title": "ソニー(SONY) INZONE M10S II : SDM‑27Q102 Fnatic共同開発 有機EL QHD 27インチ OLED 540Hz / 応答速度0.02ms Dual Mode HD720Hz（DFR）モーションブラー低減 アンチVRRフリッカー スーパーアンチグレアフィルム 24.5インチモード搭載 eスポーツ最上位モデル 最大垂直解像度",
+      "rating": 4.1,
+      "reviews": 6,
+      "price": 18980,
+      "image": "https://m.media-amazon.com/images/I/710Esmj6s5L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 21,
+      "asin": "B0GW82217C",
+      "title": "ソニー(SONY) INZONE M10S II : SDM‑27Q102 Fnatic共同開発 有機EL QHD 27インチ OLED 540Hz / 応答速度0.02ms Dual Mode HD720Hz（DFR）モーションブラー低減 アンチVRRフリッカー スーパーアンチグレアフィルム 24.5インチモード搭載 eスポーツ最上位モデル 最大垂直解像度",
+      "rating": 4.1,
+      "reviews": 6,
+      "price": 159000,
+      "image": "https://m.media-amazon.com/images/I/61CykL76CUL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 22,
+      "asin": "B0H368NS2X",
+      "title": "【整備済み品】Dell E2318H 23インチ 液晶モニター フルHD（1920×1080）IPS 非光沢 DisplayPort/VGA 5ms ComfortView VESA対応 チルト調整 ビジネス向け（Ymer-Shop）",
+      "rating": 5,
+      "reviews": 2,
+      "price": 6500,
+      "image": "https://m.media-amazon.com/images/I/71Y3+T7FX9L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 23,
+      "asin": "B0H1PWX6SN",
+      "title": "【Amazon.co.jp限定】Lenovo ゲーミングモニター LOQ 27Q-10 27インチ/QHD/IPSパネル/180㎐/1ms(GtG)/HDMI2.1x2, DP1.4x1/AMD FreeSync™ Premium/チルト対応/日本国内3年保証",
+      "rating": 5,
+      "reviews": 1,
+      "price": 19800,
+      "image": "https://m.media-amazon.com/images/I/71zS6MEikGL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 24,
+      "asin": "B0H6WS2CP1",
+      "title": "Acer Nitro モバイル ゲーミングモニター 16インチ ワイド IPS 非光沢 WUXGA 144Hz 4ms(GTG) NTSC 45% 785g 軽量薄型 AMD FreeSync HDR10 HDMI 1.4 USB-C デュアルスピーカー 縦画面表示 無段階チルト調整 ブルーライト抑制 3年保証(パネルは1年) PG161WP1bmiuux",
+      "rating": 4.6,
+      "reviews": 3,
+      "price": 19999,
+      "image": "https://m.media-amazon.com/images/I/61mucvplACL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 25,
+      "asin": "B0GYR9BBB9",
+      "title": "InnoView モバイルモニター 18.5インチ モバイルディスプレイ 120%sRGB 120Hz 2560×1440 QHD 大画面 保護ケース付きゲーミングモニター IPS液晶パネル 非光沢ポータブルモニター HDRモード FreeSync ブルーライト機能 Type-C/標準HDMI/PS4/PS5/Xbox/Switchなど対応 壁掛けに対応 内蔵スピーカー 薄型 軽量 持ち運び",
+      "rating": 4,
+      "reviews": 1253,
+      "price": 25999,
+      "image": "https://m.media-amazon.com/images/I/71Vl1iWGuuL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 26,
+      "asin": "B0GSV8QLRC",
+      "title": "【Switch2ドック不要】Upperizon モバイルモニター 14インチ 120Hz 2K 軽量530g 100%sRGB 高輝度450nits | 光沢IPS 2520×1680 2.5K 3対2 アスペクト比調整対応 極薄 自立型 無段階チルト調整 VESA対応 撥水収納ケース付き Type-C/Mini HDMI ゲーミング PC/Mac/ゲーム機 ポータブルディスプレイ G-14H",
+      "rating": 4.1,
+      "reviews": 344,
+      "price": 87980,
+      "image": "https://m.media-amazon.com/images/I/71cNfNSda0L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 27,
+      "asin": "B0GYFC8Q78",
+      "title": "【Switch2ドック不要】Upperizon モバイルモニター 14インチ 120Hz 2K 軽量530g 100%sRGB 高輝度450nits | 光沢IPS 2520×1680 2.5K 3対2 アスペクト比調整対応 極薄 自立型 無段階チルト調整 VESA対応 撥水収納ケース付き Type-C/Mini HDMI ゲーミング PC/Mac/ゲーム機 ポータブルディスプレイ G-14H",
+      "rating": 4.8,
+      "reviews": 189,
+      "price": 16999,
+      "image": "https://m.media-amazon.com/images/I/71HQc8AnBCL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 28,
+      "asin": "B0G26VMQB3",
+      "title": "AOC ゲーミングモニター 27インチ, QHD/2560x1440@180Hz, 応答速度0.5ms(MPRT), Fast IPS, HDMI2.0 x 1/ DP1.4x1,ブルーライト低減, フリッカーフリー, G-sync Compatible, HDR10対応, 3年保証 Q27G40E/11",
+      "rating": 4.2,
+      "reviews": 42,
+      "price": 18909,
+      "image": "https://m.media-amazon.com/images/I/814BDUy9gWL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 29,
+      "asin": "B0H8SBPYP6",
+      "title": "【2年保証モデル】JAPANNEXT 50インチ VAパネル搭載 4K(3840×2160)解像度 大型液晶モニター JN-V50U2-M HDMI ビデオ/音声入力 コンポーネント入力 オプティカル音声出力 USBメモリ再生対応 リモコン同梱 |",
+      "rating": 4.6,
+      "reviews": 41,
+      "price": 59980,
+      "image": "https://m.media-amazon.com/images/I/71+vTnfsGDL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 30,
+      "asin": "B0GYPLSKWT",
+      "title": "LG ゲーミング モニター 32G620B-B 31.5インチ/WQHD@200Hz/IPS 1ms/HDR/HDMI、DP/多機能スタンド",
+      "rating": 4.6,
+      "reviews": 41,
+      "price": 40200,
+      "image": "https://m.media-amazon.com/images/I/71+jinjzoiL._AC_SL1500_.jpg"
+    }
+  ]
+}

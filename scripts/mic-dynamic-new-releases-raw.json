@@ -1,0 +1,45 @@
+{
+  "fetchedAt": "2026-08-14T04:35:00.000Z",
+  "sourceUrl": "https://www.amazon.co.jp/gp/new-releases/musical-instruments/2130075051",
+  "source": "browser-dom-scrape",
+  "microphones": [
+    {
+      "amazonRank": 1,
+      "asin": "B0HCYFPHYC",
+      "title": "ダイナミックマイク USB/XLRマイク PC用 単一指向性 音量調整 ミュート機能 ダイレクトモニタリング マイクスタンド付き ゲーム配信 録音 ボイスチャット オーディオインターフェース対応",
+      "rating": 4.0,
+      "reviews": 0,
+      "price": 8800,
+      "image": "https://m.media-amazon.com/images/I/61LUfjHQQXL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 2,
+      "asin": "B0H3DQCB5M",
+      "title": "COMICA D10 Pro ワイヤレスダイナミックマイク 有線/無線両対応 2.4G/USB/XLR AIノイズキャンセル 3EQ 配信 PC 黒 | 有線/USB/XLR、2.4Gワイヤレスの3Way接続、45時間連続駆動で長時間配信も安心、AIノイズキャンセルでクリアな音声、4段階ゲインと3種EQで声質カスタマイズ、卓上スタンド付属、PC/PS5/スマホ対応、配信/ゲーム実況/Web会議に",
+      "rating": 4.9,
+      "reviews": 17,
+      "price": 15445,
+      "image": "https://m.media-amazon.com/images/I/51vP7YPG20L._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 3,
+      "asin": "B0H65LZS36",
+      "title": "ZVGT Karaoke Microphone Custom Diamond Enclust Microphone for Live Stream Karaoke Shining Stage Essential Clear Sound and High Fidelity Recording (White Microphone and 1 Receiver)",
+      "rating": 4.0,
+      "reviews": 0,
+      "price": 14666,
+      "image": "https://m.media-amazon.com/images/I/51ihJTyYhrL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 4,
+      "asin": "B0FS6CK6C8",
+      "title": "CAROL AC-930 プロ用 有線ダイナミックマイク XLR接続 スーパーカーディオイド（超指向性） スイッチなし | 【大型ライブステージ専用】プロのシンガー向けに設計されたスイッチなしモデル。50Hz〜18kHzの広い周波数特性により、圧倒的な臨場感と繊細なニュアンスをそのまま忠実に再現。",
+      "rating": 4.5,
+      "reviews": 34,
+      "price": 17590,
+      "image": "https://m.media-amazon.com/images/I/71TRjwMv1eL._AC_SL1500_.jpg"
+    }
+  ],
+  "excluded": [],
+  "raw": []
+}

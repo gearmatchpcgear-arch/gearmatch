@@ -1,0 +1,214 @@
+{
+  "B06XX2N987": {
+    "title": "Jabra Speak 710 MS マイクロソフト認定スピーカーフォン Web会議 エコーキャンセラー内蔵 Bluetooth接続 USB接続",
+    "name": "Speak 710 MS",
+    "brand": "Jabra",
+    "price": 14780,
+    "connection": "Bluetooth / USB",
+    "polar": "全指向性 (360°)",
+    "type": "会議用スピーカーフォン",
+    "micFilterTags": ["conference"],
+    "features": {
+      "Microsoft認証": "対応",
+      "エコーキャンセラー": "内蔵"
+    }
+  },
+  "B09Y155R6Z": {
+    "name": "AIRHUG",
+    "brand": "AIRHUG",
+    "price": 5999,
+    "connection": "Bluetooth / USB-C",
+    "polar": "全指向性 (360°)",
+    "type": "会議用スピーカーフォン",
+    "micFilterTags": ["conference"]
+  },
+  "B0DP54XTCG": {
+    "name": "PD100X",
+    "brand": "MAONO",
+    "price": 6944,
+    "connection": "XLR / USB",
+    "polar": "単一指向性 (カーディオイド)",
+    "type": "ダイナミック",
+    "micFilterTags": ["dynamic", "stand"],
+    "features": {
+      "ノイズキャンセリング": "対応",
+      "ミュートボタン": "対応"
+    }
+  },
+  "B01HGGWB7K": {
+    "name": "HS-MC06BK",
+    "brand": "エレコム",
+    "price": 608,
+    "connection": "3.5mmミニプラグ",
+    "polar": "全指向性",
+    "type": "コンデンサー",
+    "micFilterTags": ["pin", "condenser"]
+  },
+  "B0B6FTQTS8": {
+    "name": "K054",
+    "brand": "FIFINE",
+    "price": 4099,
+    "connection": "USB",
+    "polar": "単一指向性 (カーディオイド)",
+    "type": "コンデンサー",
+    "micFilterTags": ["stand", "condenser"],
+    "features": {
+      "ミュートボタン": "対応",
+      "音量調整": "対応"
+    }
+  },
+  "B0CF23FR3T": {
+    "name": "AM8T",
+    "brand": "FIFINE",
+    "connection": "XLR / USB",
+    "polar": "単一指向性 (カーディオイド)",
+    "type": "ダイナミック",
+    "micFilterTags": ["dynamic", "stand"],
+    "features": {
+      "RGBライティング": "対応"
+    }
+  },
+  "B097TF2TYX": {
+    "name": "SP300",
+    "brand": "Kaysuda",
+    "price": 6799,
+    "connection": "Bluetooth / USB",
+    "polar": "全指向性",
+    "type": "会議用スピーカーフォン",
+    "micFilterTags": ["conference"]
+  },
+  "B0932MGBY8": {
+    "title": "SP300U スピーカーフォン マイクスピーカー 会議用スピーカーマイク PCマイク 全指向性マイク Zoom/Skype/Teams/Google meet などに対応",
+    "name": "SP300U",
+    "brand": "Kaysuda",
+    "price": 6799,
+    "connection": "USB",
+    "polar": "全指向性",
+    "type": "会議用スピーカーフォン",
+    "micFilterTags": ["conference"]
+  },
+  "B09BZH9J4Q": {
+    "name": "Sync 20+",
+    "brand": "Poly",
+    "connection": "USB-C / Bluetooth",
+    "polar": "全指向性",
+    "type": "会議用スピーカーフォン",
+    "micFilterTags": ["conference"]
+  },
+  "B086QVF3B9": {
+    "title": "PC用マイクUSBマイク 全指向性 360°集音 ミュート機能 スタンドマイク 音量調節可能 LEDランプ付き",
+    "name": "USBスタンドマイク",
+    "brand": "—",
+    "price": 2710,
+    "connection": "USB",
+    "polar": "全指向性 (360°)",
+    "type": "コンデンサー",
+    "micFilterTags": ["stand", "condenser"]
+  },
+  "B0822PMBTZ": {
+    "name": "Blue Yeti",
+    "brand": "Logicool G",
+    "connection": "USB",
+    "polar": "指向性切替対応 (4パターン)",
+    "type": "コンデンサー",
+    "sampleRate": "48kHz/16bit",
+    "micFilterTags": ["stand", "condenser"]
+  },
+  "B00T5ANN00": {
+    "name": "AT9933USB",
+    "brand": "オーディオテクニカ",
+    "price": 2700,
+    "connection": "USB",
+    "polar": "全指向性",
+    "type": "コンデンサー",
+    "micFilterTags": ["stand", "condenser"]
+  },
+  "B0029U1VOI": {
+    "title": "サンワサプライ MM-MC15W マルチメディアマイクロホン ホワイト",
+    "name": "MM-MC15W",
+    "brand": "サンワサプライ",
+    "price": 1027,
+    "connection": "3.5mmミニプラグ",
+    "polar": "全指向性",
+    "type": "コンデンサー",
+    "micFilterTags": ["condenser"]
+  },
+  "B0BXWKW4N2": {
+    "title": "PCマイク USB マイクベース ミュート機能 全指向性360° 3.5mm 白 MO-MIC04L-W",
+    "name": "MO-MIC04L-W",
+    "brand": "e-Better",
+    "price": 1480,
+    "connection": "USB / 3.5mm",
+    "polar": "全指向性 (360°)",
+    "type": "コンデンサー",
+    "micFilterTags": ["stand", "condenser"]
+  },
+  "B0GJZ1TCQP": {
+    "title": "PC用マイク コンデンサマイク ダイナミックマイク 全指向性 高感度 360°集音 ワンタッチミュート 小型卓上 有線 PC会議実況",
+    "name": "U30K",
+    "brand": "—",
+    "price": 2710,
+    "connection": "USB",
+    "polar": "全指向性 (360°)",
+    "type": "ダイナミック",
+    "micFilterTags": ["dynamic", "stand"],
+    "features": {
+      "RGBライティング": "対応",
+      "ミュートボタン": "ワンタッチミュート"
+    }
+  },
+  "B076SBDJH2": {
+    "title": "PLOY pc マイク usb マイク マイクロホン 卓上マイク usb会議高感度 360°全指向性",
+    "name": "USB卓上マイク",
+    "brand": "PLOY",
+    "price": 2380,
+    "connection": "USB",
+    "polar": "全指向性 (360°)",
+    "type": "コンデンサー",
+    "micFilterTags": ["stand", "condenser"]
+  },
+  "B0DW8VNQHC": {
+    "title": "SEIKO セイコー ピックアップマイク ブラック STM30BK",
+    "name": "STM30BK",
+    "brand": "SEIKO",
+    "price": 2200,
+    "connection": "3.5mmミニプラグ",
+    "polar": "全指向性",
+    "type": "コンデンサー",
+    "micFilterTags": ["pin", "condenser"]
+  },
+  "B0CWGTBPSB": {
+    "name": "Seiren V3 Chroma",
+    "brand": "Razer",
+    "price": 20739,
+    "connection": "USB",
+    "polar": "単一指向性 (カーディオイド)",
+    "type": "コンデンサー",
+    "micFilterTags": ["stand", "condenser"]
+  },
+  "B09QX6FX3Q": {
+    "name": "YVC-331",
+    "brand": "ヤマハ",
+    "connection": "USB",
+    "polar": "全指向性",
+    "type": "会議用スピーカーフォン",
+    "micFilterTags": ["conference"]
+  },
+  "B0FLKJ7FH7": {
+    "name": "SoloCast 2",
+    "brand": "HyperX",
+    "price": 8982
+  },
+  "B09TN7QJ7Y": {
+    "name": "A6T",
+    "brand": "FIFINE"
+  },
+  "B0G39C97WQ": {
+    "name": "Mic Mini 2",
+    "brand": "DJI",
+    "connection": "2.4GHzワイヤレス / USB-C / Lightning / 3.5mm TRS",
+    "polar": "全指向性",
+    "type": "ワイヤレスピンマイク",
+    "micFilterTags": ["wireless", "pin"]
+  }
+}

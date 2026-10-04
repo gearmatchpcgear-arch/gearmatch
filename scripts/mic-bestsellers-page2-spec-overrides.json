@@ -1,0 +1,142 @@
+{
+  "B07FMLLMKD": {
+    "name": "M2",
+    "brand": "EMEET",
+    "connection": "USB / Bluetooth",
+    "polar": "全指向性 (360°)",
+    "type": "会議用スピーカーフォン",
+    "micFilterTags": ["conference"],
+    "features": {
+      "ノイズキャンセリング": "対応",
+      "Bluetooth": "対応"
+    }
+  },
+  "B0BZXZ91HR": {
+    "name": "Luna Plus",
+    "brand": "EMEET",
+    "connection": "USB / Bluetooth",
+    "polar": "全指向性 (360°)",
+    "type": "会議用スピーカーフォン",
+    "micFilterTags": ["conference"],
+    "features": {
+      "ノイズキャンセリング": "対応"
+    }
+  },
+  "B08F252YBK": {
+    "name": "Luna",
+    "brand": "EMEET",
+    "connection": "USB / Bluetooth / AUX",
+    "polar": "全指向性 (360°)",
+    "type": "会議用スピーカーフォン",
+    "micFilterTags": ["conference"],
+    "features": {
+      "ノイズキャンセリング": "対応",
+      "Bluetooth": "対応"
+    }
+  },
+  "B08B68LM7R": {
+    "name": "PowerConf S3",
+    "brand": "Anker",
+    "connection": "USB Type-C / Bluetooth",
+    "polar": "全指向性 (360°)",
+    "type": "会議用スピーカーフォン",
+    "micFilterTags": ["conference"],
+    "features": {
+      "ノイズキャンセリング": "対応",
+      "Bluetooth": "対応"
+    }
+  },
+  "B07XRHZSJC": {
+    "name": "400-MC011",
+    "brand": "サンワダイレクト",
+    "connection": "USB",
+    "polar": "全指向性",
+    "type": "会議用スピーカーフォン",
+    "micFilterTags": ["conference"],
+    "features": {
+      "ミュートボタン": "対応"
+    }
+  },
+  "B0GFCJ96VP": {
+    "name": "HS-SP02M2BK",
+    "brand": "エレコム",
+    "connection": "USB / Bluetooth",
+    "polar": "全指向性",
+    "type": "会議用スピーカーフォン",
+    "micFilterTags": ["conference"],
+    "features": {
+      "エコーキャンセラー": "対応",
+      "ノイズリダクション": "対応"
+    }
+  },
+  "B08KFL3SFV": {
+    "name": "SoloCast",
+    "brand": "HyperX",
+    "connection": "USB",
+    "polar": "単一指向性 (カーディオイド)",
+    "type": "コンデンサー",
+    "sampleRate": "48kHz/16bit",
+    "frequency": "20Hz-20kHz",
+    "micFilterTags": ["stand", "condenser"],
+    "features": {
+      "タップミュート": "対応"
+    }
+  },
+  "B0CWGS19RG": {
+    "name": "Seiren V3 Mini White",
+    "brand": "Razer",
+    "connection": "USB",
+    "polar": "単一指向性 (カーディオイド)",
+    "type": "コンデンサー",
+    "sampleRate": "48kHz/24bit",
+    "micFilterTags": ["stand", "condenser"],
+    "features": {
+      "ミュートボタン": "タップ式ミュートセンサー"
+    }
+  },
+  "B077Y974JF": {
+    "name": "K053",
+    "brand": "FIFINE",
+    "connection": "USB",
+    "polar": "単一指向性 (カーディオイド)",
+    "type": "コンデンサー",
+    "micFilterTags": ["pin", "condenser"],
+    "features": {
+      "イヤホンジャック": "対応"
+    }
+  },
+  "B07NZZZ746": {
+    "name": "QuadCast",
+    "brand": "HyperX",
+    "connection": "USB",
+    "polar": "指向性切替対応 (4パターン)",
+    "type": "コンデンサー",
+    "sampleRate": "48kHz/16bit",
+    "frequency": "20Hz-20kHz",
+    "micFilterTags": ["stand", "condenser"]
+  },
+  "B00T5ANN00": {
+    "name": "AT9933USB",
+    "brand": "オーディオテクニカ",
+    "connection": "USB",
+    "polar": "全指向性",
+    "type": "コンデンサー",
+    "micFilterTags": ["stand", "condenser"]
+  },
+  "B0CK4MM8XB": {
+    "name": "Alias Pro",
+    "brand": "SteelSeries",
+    "connection": "XLR / USB",
+    "polar": "単一指向性 (カーディオイド)",
+    "type": "コンデンサー",
+    "micFilterTags": ["condenser"]
+  },
+  "B0DYCR675L": {
+    "name": "ワイヤレスピンマイク (2個セット)",
+    "brand": "BILIWAL",
+    "connection": "USB Type-C / 2.4GHzワイヤレス",
+    "polar": "全指向性",
+    "type": "ワイヤレスピンマイク",
+    "micFilterTags": ["pin", "wireless", "condenser"]
+  }
+}

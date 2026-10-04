@@ -1,0 +1,138 @@
+{
+  "B00J8Y2EFS": {
+    "price": 931,
+    "power": "有線給電",
+    "connection": "有線 USB",
+    "communicationInterface": "USB",
+    "mouseFilterTags": [
+      "reading-optical"
+    ],
+    "source": "ELECOM M-K6URBK/RS 公式（有線USB・USB給電）"
+  },
+  "B00BX9SI4M": {
+    "connection": "2.4GHz (USBレシーバー)",
+    "power": "単3形 乾電池（付属）",
+    "source": "Logicool Anywhere Mouse MX 公式（Unifying・単3形）"
+  },
+  "B00TZR3WRM": {
+    "connection": "2.4GHz (USBレシーバー) / Bluetooth",
+    "power": "充電式（内蔵バッテリー）",
+    "source": "Logicool MX Master 公式（充電式・Unifying/BT）"
+  },
+  "B09ZLV2531": {
+    "connection": "2.4GHz (HyperSpeed) / Bluetooth",
+    "source": "Razer DeathAdder V3 Pro 公式"
+  },
+  "B0FBKVC1RY": {
+    "price": 2980,
+    "source": "Amazon.co.jp 商品ページ（2026-08-13 確認）"
+  },
+  "B07DVC25R2": {
+    "price": 4718,
+    "power": "単3形乾電池x1",
+    "connection": "2.4GHz (LIGHTSPEED USBレシーバー)",
+    "source": "Amazon.co.jp G304 商品ページ（2026-08-13 確認）"
+  },
+  "B07D3GRQC8": {
+    "price": 4922,
+    "power": "単3形乾電池x1",
+    "connection": "2.4GHz (LIGHTSPEED USBレシーバー)",
+    "source": "Amazon.co.jp G304rWH ホワイト 商品ページ（2026-08-13 確認）"
+  },
+  "B099MXK6P8": {
+    "price": 4718,
+    "power": "乾電池",
+    "connection": "2.4GHz (LIGHTSPEED USBレシーバー)",
+    "source": "Amazon.co.jp G304-BL ブルー 商品ページ（2026-08-13 確認）"
+  },
+  "B07SYKKP47": {
+    "price": 8455,
+    "power": "充電式（内蔵バッテリー）",
+    "connection": "2.4GHz (LIGHTSPEED USBレシーバー)",
+    "source": "Amazon.co.jp Logicool G G703h 商品ページ（2026-08-13 確認）"
+  },
+  "B0D25MNB15": {
+    "price": 1950,
+    "power": "有線給電",
+    "connection": "有線 USB",
+    "source": "Amazon.co.jp MSI FORGE GM100 商品ページ（2026-08-13 確認）"
+  },
+  "B0FXCCV2NQ": {
+    "price": 3336,
+    "power": "充電式（内蔵バッテリー）",
+    "connection": "2.4GHz (USBレシーバー) / Bluetooth",
+    "source": "Amazon.co.jp MSI FORGE GM340 W NAVY MS0808 商品ページ（2026-08-13 確認）"
+  },
+  "B0BY1R8DSZ": {
+    "price": 3336,
+    "power": "有線給電",
+    "connection": "有線 USB",
+    "source": "Amazon.co.jp ASUS TUF Gaming M3 Gen II 商品ページ（2026-08-13 確認）"
+  },
+  "B0FX3ZV6WD": {
+    "price": 5990,
+    "power": "充電式（内蔵バッテリー）",
+    "connection": "Bluetooth / 2.4GHz (USBレシーバー)",
+    "source": "Amazon.co.jp ELECOM Precisionist M-PN10MBMSABK 商品ページ（2026-08-13 確認）"
+  },
+  "B088P8QYWN": {
+    "price": 1350,
+    "power": "単3形乾電池x1",
+    "connection": "2.4GHz (USBレシーバー)",
+    "source": "Amazon.co.jp ELECOM M-XGM10DBBK/EC EX-G 商品ページ（2026-08-13 確認）"
+  },
+  "B0DKT8S1XC": {
+    "price": 2818,
+    "power": "充電式（内蔵バッテリー）",
+    "connection": "2.4GHz (USBレシーバー) / Bluetooth",
+    "source": "Amazon.co.jp MSI VERSA 300 W MS0731 商品ページ（2026-08-13 確認）"
+  },
+  "B00Z9V0NKC": {
+    "price": 1799,
+    "power": "有線給電",
+    "connection": "有線 USB",
+    "source": "Amazon.co.jp BENGOO ゲーミングマウス 有線 商品ページ（2026-08-13 確認）"
+  },
+  "B0BB5S6DYD": {
+    "price": 3155,
+    "power": "充電式（内蔵バッテリー）",
+    "connection": "2.4GHz (USBレシーバー)",
+    "source": "Amazon.co.jp ELECOM V custom VM500 M-VM500BK 商品ページ（2026-08-13 確認）"
+  },
+  "B09YY5LQZ6": {
+    "price": 3990,
+    "source": "Amazon.co.jp 商品ページ（2026-08-13 確認）"
+  },
+  "B008OEHV6U": {
+    "price": 13999,
+    "source": "Amazon.co.jp 商品ページ（2026-08-13 確認）"
+  },
+  "B08PKLVTZT": {
+    "price": 12649,
+    "source": "Amazon.co.jp 商品ページ（2026-08-13 確認）"
+  },
+  "B0FG2N6QYX": {
+    "price": 2399,
+    "source": "ユーザー指定価格（2026-08-13）"
+  },
+  "B09C13PZX7": {
+    "price": 9305,
+    "source": "ユーザー指定価格（2026-08-13）"
+  },
+  "B0CM5SWRJW": {
+    "price": 7599,
+    "source": "Amazon.co.jp 商品ページ（2026-08-13 確認）"
+  },
+  "B0722Y5337": {
+    "price": 18873,
+    "source": "Amazon.co.jp 商品ページ（2026-08-13 確認）"
+  },
+  "B00HVMFFMI": {
+    "price": 4545,
+    "source": "Amazon.co.jp 商品ページ（2026-08-13 確認）"
+  },
+  "B08HR4K6QJ": {
+    "price": 5980,
+    "source": "Amazon.co.jp 商品ページ（2026-08-13 確認）"
+  }
+}

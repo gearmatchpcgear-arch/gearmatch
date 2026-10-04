@@ -1,0 +1,261 @@
+{
+  "B07LH1ZDSL": {
+    "name": "VZ249HR",
+    "brand": "ASUS",
+    "price": 12580,
+    "image": "https://m.media-amazon.com/images/I/71EcpHY3zZL._AC_SL1500_.jpg",
+    "screenSize": "23.8 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "refreshRate": "75 Hz",
+    "connection": "HDMI",
+    "weight": "2,900 g"
+  },
+  "B07MDV2L3S": {
+    "name": "VA329HE-J",
+    "brand": "ASUS",
+    "price": 24280,
+    "image": "https://m.media-amazon.com/images/I/71LeL2ZyntL._AC_SL1500_.jpg",
+    "screenSize": "31.5 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "refreshRate": "75 Hz",
+    "connection": "HDMI / VGA",
+    "weight": "7,100 g",
+    "panel": "IPS"
+  },
+  "B0813TDWJB": {
+    "name": "VG258QR-J",
+    "brand": "ASUS",
+    "price": 28980,
+    "image": "https://m.media-amazon.com/images/I/81UjEdt53nL._AC_SL1500_.jpg",
+    "screenSize": "24.5 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "refreshRate": "165 Hz",
+    "connection": "DisplayPort / HDMI / DVI-D",
+    "weight": "5,000 g",
+    "panel": "TN"
+  },
+  "B086ZSRRDB": {
+    "name": "PA279CRV-J",
+    "brand": "ASUS",
+    "price": 65800,
+    "image": "https://m.media-amazon.com/images/I/813B6KjWmlL._AC_SL1500_.jpg",
+    "screenSize": "27 インチ",
+    "resolution": "3840 x 2160 (4K UHD)",
+    "refreshRate": "60 Hz",
+    "weight": "5,780 g",
+    "connection": "HDMI / DisplayPort / USB Type-C",
+    "panel": "IPS"
+  },
+  "B08LGHP4C7": {
+    "name": "VY279HGR",
+    "brand": "ASUS",
+    "price": 14980,
+    "image": "https://m.media-amazon.com/images/I/71O2ThvdW6L._AC_SL1500_.jpg",
+    "screenSize": "27 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "refreshRate": "120 Hz",
+    "panel": "IPS",
+    "connection": "HDMI",
+    "weight": "4,050 g"
+  },
+  "B0921CPSNX": {
+    "name": "PA278CV",
+    "brand": "ASUS",
+    "price": 49209,
+    "image": "https://m.media-amazon.com/images/I/81LL6ybSGOL._AC_SL1500_.jpg",
+    "screenSize": "27 インチ",
+    "resolution": "2560 x 1440 (QHD)",
+    "refreshRate": "75 Hz",
+    "connection": "USB Type-C / DisplayPort / HDMI",
+    "weight": "8,700 g"
+  },
+  "B09BLF98K2": {
+    "name": "XG27AQDMES-J",
+    "brand": "ASUS",
+    "price": 73535,
+    "image": "https://m.media-amazon.com/images/I/91fgUa-f+rL._AC_SL1500_.jpg",
+    "screenSize": "27 インチ",
+    "resolution": "2560 x 1440 (QHD)",
+    "refreshRate": "240 Hz",
+    "weight": "6,800 g"
+  },
+  "B09CD5SV4H": {
+    "name": "XG27AQWMG",
+    "brand": "ASUS",
+    "price": 108000,
+    "image": "https://m.media-amazon.com/images/I/91GPT9EJUmL._AC_SL1500_.jpg",
+    "screenSize": "26.5 インチ",
+    "resolution": "2560 x 1440 (QHD)",
+    "weight": "6,700 g"
+  },
+  "B09TDSC9WS": {
+    "name": "XG259CMS",
+    "brand": "ASUS",
+    "price": 36800,
+    "image": "https://m.media-amazon.com/images/I/71WgxfjK38L._AC_SL1500_.jpg",
+    "screenSize": "24.5 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "refreshRate": "310 Hz",
+    "connection": "DisplayPort / HDMI",
+    "weight": "5,580 g",
+    "panel": "Fast IPS"
+  },
+  "B09TKJQHLQ": {
+    "name": "XG27AQDMG",
+    "brand": "ASUS",
+    "price": 68000,
+    "image": "https://m.media-amazon.com/images/I/91JZfPPJquL._AC_SL1500_.jpg",
+    "screenSize": "26.5 インチ",
+    "resolution": "2560 x 1440 (QHD)",
+    "refreshRate": "240 Hz",
+    "connection": "DisplayPort / HDMI",
+    "weight": "6,700 g"
+  },
+  "B0BRY53CZM": {
+    "name": "MB16AHV",
+    "brand": "ASUS",
+    "price": 25800,
+    "image": "https://m.media-amazon.com/images/I/81NHkNCnf2L._AC_SL1500_.jpg",
+    "screenSize": "15.6 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "refreshRate": "60 Hz",
+    "panel": "IPS",
+    "weight": "900 g"
+  },
+  "B0CJ56JD6R": {
+    "name": "VG27AQ3A",
+    "brand": "ASUS",
+    "price": 28800,
+    "image": "https://m.media-amazon.com/images/I/51WrtjKiX7L._AC_SL1500_.jpg",
+    "screenSize": "27 インチ",
+    "resolution": "2560 x 1440 (QHD)",
+    "refreshRate": "180 Hz",
+    "connection": "HDMI",
+    "weight": "4,600 g"
+  },
+  "B0D2948FZD": {
+    "name": "VG34VQL3A",
+    "brand": "ASUS",
+    "price": 46000,
+    "image": "https://m.media-amazon.com/images/I/71QTohvgVhL._AC_SL1500_.jpg",
+    "screenSize": "34 インチ",
+    "resolution": "3440 x 1440 (UWQHD)",
+    "refreshRate": "180 Hz",
+    "connection": "DisplayPort",
+    "weight": "8,100 g"
+  },
+  "B0D3GZXQ4Q": {
+    "name": "MB166CR-J",
+    "brand": "ASUS",
+    "price": 19800,
+    "image": "https://m.media-amazon.com/images/I/51oBwol1koL._AC_SL1500_.jpg",
+    "screenSize": "15.6 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "refreshRate": "60 Hz",
+    "connection": "DisplayPort",
+    "weight": "780 g"
+  },
+  "B0DVBFRTJG": {
+    "name": "PG27UCDM",
+    "brand": "ASUS",
+    "price": 178000,
+    "image": "https://m.media-amazon.com/images/I/91ZHpCIh8vL._AC_SL1500_.jpg",
+    "screenSize": "26.5 インチ",
+    "resolution": "3840 x 2160 (4K UHD)",
+    "refreshRate": "240 Hz",
+    "panel": "OLED",
+    "connection": "USB Type-C / DisplayPort / HDMI",
+    "weight": "7,620 g"
+  },
+  "B0F6XTTMNN": {
+    "name": "VA27UCPS",
+    "brand": "ASUS",
+    "price": 45800,
+    "image": "https://m.media-amazon.com/images/I/81HQF+IHPSL._AC_SL1500_.jpg",
+    "screenSize": "27 インチ",
+    "resolution": "3840 x 2160 (4K UHD)",
+    "refreshRate": "60 Hz",
+    "weight": "6,900 g"
+  },
+  "B0F9WJLW45": {
+    "name": "VG259Q5A",
+    "brand": "ASUS",
+    "price": 16980,
+    "image": "https://m.media-amazon.com/images/I/71hhyOqLuZL._AC_SL1500_.jpg",
+    "screenSize": "24.5 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "refreshRate": "200 Hz",
+    "panel": "Fast IPS",
+    "connection": "DisplayPort / HDMI",
+    "weight": "3,400 g"
+  },
+  "B0FJ19QDXL": {
+    "brand": "ASUS",
+    "price": 16470,
+    "screenSize": "27 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "refreshRate": "120 Hz"
+  },
+  "B0FQC2YS28": {
+    "name": "PA32QCV",
+    "brand": "ASUS",
+    "price": 163455,
+    "image": "https://m.media-amazon.com/images/I/811Vyb2oSQL._AC_SL1500_.jpg",
+    "screenSize": "31.5 インチ",
+    "refreshRate": "60 Hz",
+    "connection": "USB Type-C / DisplayPort / HDMI",
+    "weight": "9,300 g"
+  },
+  "B0G1YQZZLW": {
+    "name": "PG27AQWP-W",
+    "brand": "ASUS",
+    "price": 180000,
+    "image": "https://m.media-amazon.com/images/I/81uNaOT8OLL._AC_SL1500_.jpg",
+    "screenSize": "26.5 インチ",
+    "resolution": "2560 x 1440 (QHD)",
+    "refreshRate": "240 Hz",
+    "connection": "DisplayPort / HDMI",
+    "weight": "7,040 g"
+  },
+  "B0G4D34W46": {
+    "name": "VG249QML5A",
+    "brand": "ASUS",
+    "price": 24364,
+    "image": "https://m.media-amazon.com/images/I/71K3gAcUA-L._AC_SL1500_.jpg",
+    "screenSize": "23.8 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "refreshRate": "240 Hz",
+    "weight": "4,900 g"
+  },
+  "B0GY3SM484": {
+    "name": "PG32UCDM3",
+    "brand": "ASUS",
+    "price": 217091,
+    "image": "https://m.media-amazon.com/images/I/916Nitcjf5L._AC_SL1500_.jpg",
+    "screenSize": "31.5 インチ",
+    "resolution": "3840 x 2160 (4K UHD)",
+    "refreshRate": "240 Hz",
+    "weight": "8,700 g"
+  },
+  "B0GZ21C95F": {
+    "name": "MB16FC-J",
+    "brand": "ASUS",
+    "price": 23616,
+    "image": "https://m.media-amazon.com/images/I/81xjP36DeIL._AC_SL1500_.jpg",
+    "screenSize": "16 インチ",
+    "resolution": "1920 x 1200 (WUXGA)",
+    "refreshRate": "75 Hz",
+    "weight": "900 g"
+  },
+  "B0H3Z2PZNF": {
+    "name": "PG27AQWP-G",
+    "brand": "ASUS",
+    "price": 220469,
+    "image": "https://m.media-amazon.com/images/I/71-AxNYa3eL._AC_SL1500_.jpg",
+    "screenSize": "27 インチ",
+    "resolution": "2560 x 1440 (QHD)",
+    "refreshRate": "540 Hz",
+    "panel": "WOLED",
+    "connection": "HDMI"
+  }
+}

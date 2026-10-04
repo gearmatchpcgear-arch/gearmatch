@@ -1,0 +1,204 @@
+id,name,商品説明,指向性,接続方式,周波数特性,マイクタイプ,サンプルレート,価格,マイク感度,その他機能
+mic-blue-yeti,Blue Yeti,ゲーミングマイク BM400BK USB コンデンサーマイク ゲーミング 実況 ストリーミング 配信 マイク ブラックアウト ブラック 黒 PC Mac,指向性切替対応 (マルチパターン),USB Type-A,20Hz-20kHz,コンデンサー,48 kHz,18480,-,-
+mic-shure-sm7b,SM7B,ダイナミックマイク カーディオイド 単一指向性 XLR 有線 ノイズ除去 配信 ストリーミング 音声 音楽 演奏 録音 レコーディング YouTube 実況 ゲーミング ボーカル ポッドキャスト DTM 宅録【国内正規品/メーカー保証2年】,単一指向性,XLR,50Hz-20kHz,ダイナミック,-,58800,-,-
+mic-bs-006,USBマイク 超コンパクト設計 USB 直挿し PCマイク,世界最小USBマイク コンピュータ用マイク 無指向性 使用簡単 USB2.0 for Skype/VOIP音声認識ソフトウェア Windows PC/Mac/Raspberry Pi 4B/3B+/3B/2B/1B+/1B/用 PC Mac用,全指向性,USB Type-A,-,コンデンサー,-,375,-,-
+mic-bs-007,DUNGZDUZ USBマイク ノートPC・デスクトップ用 高感度 クリア通話 プラグ&プレイ 小…,USBマイク PC用 小型 コンパクト Plug&Play ノートPC・デスクトップ対応 高感度マイクでクリアな音声収音を実現,全指向性,USB Type-A,50Hz-15kHz,コンデンサー,48kHz,1799,-,-
+mic-bs-011,DUNGZDUZ USBマイク ノートPC・デスクトップ用 高感度 クリア通話 プラグ&プレイ 小…,USBマイク PC用 小型 コンパクト Plug&Play ノートPC・デスクトップ対応 高感度マイクでクリアな音声収音を実現,全指向性,USB Type-A,50Hz-15kHz,コンデンサー,-,1799,-,-
+mic-bs-012,USB PCマイク 高感度 スタンド付 全指向性 360°集音 ワンタッチミュート プラグ&プレイ…,サンワサプライ(Sanwa Supply) USBマイクロホン MM-MCU06BKN,全指向性,USB Type-A,70Hz-10kHz,コンデンサー,-,2299,-,ノイズキャンセリング
+mic-bs-015,MM-MCU06BKN,サンワサプライ(Sanwa Supply) USBマイクロホン MM-MCU06BKN,単一指向性,USB Type-A,70Hz-10kHz,コンデンサー,-,2082,-,-
+mic-bs-016,ピンマイク usb 直挿し pcマイク 無指向性 高感度 360°集音 角度調整可能 フレキシブル…,pcマイク 無指向性 高感度 360°集音 角度調整可能 フレキシブルアーム コンパクト 小型マイク 外付けマイク 有線 多人数 WEB会議 通話 録音に Skype ZOOM You Tube,全指向性,USB Type-A,-,コンデンサー,-,1699,-,-
+mic-bs-017,STM30WH,SEIKO セイコー ピックアップマイク ホワイト STM30WH,単一指向性,3.5mm,-,ピックアップマイク,-,2200,-,-
+mic-bs-018,タイプＣマイク USB C クリップ式ラベリア マイク 1.5M,usb コンデンサーマイク 高感度 USB PCマイク 卓上 無(全) 指向性 ワンタッチミュート プラグアンドプレイ 360˚全方向集音 小型 有線タイプ ゲーミング テレワーク 会議用 配信用 録音 ゲーム実況 ボイズチャット 携帯電話 パソコン PS4・5 / Windows/Mac対応,全指向性,USB Type-C,100Hz-10kHz,ピンマイク,-,2790,-,-
+mic-bs-021,Zyrvox PCマイク USBコンデンサーマイク 高感度 卓上 全指向性 360°集音 ワンタッ…,usb コンデンサーマイク 高感度 USB PCマイク 卓上 無(全) 指向性 ワンタッチミュート プラグアンドプレイ 360˚全方向集音 小型 有線タイプ ゲーミング テレワーク 会議用 配信用 録音 ゲーム実況 ボイズチャット 携帯電話 パソコン PS4・5 / Windows/Mac対応,全指向性,USB Type-A,-,コンデンサー,-,2598,-,ノイズキャンセリング
+mic-bs-022,USBマイク 超コンパクト USB直挿し PCマイク 世界最小クラス 全指向性 Skype/VOI…,世界最小USBマイク コンピュータ用マイク 無指向性 使用簡単 USB2.0 for Skype/VOIP音声認識ソフトウェア Windows PC/Mac/Raspberry Pi 4B/3B+/3B/2B/1B+/1B/用 PC Mac用,全指向性,USB Type-A,-,コンデンサー,-,375,-,-
+mic-bs-024,USB コンデンサーマイク ゲーミングマイク PCマイク RGBライト プラグ&プレイ ミュート …,ZealSound USB コンデンサーマイク ゲーミングマイク PCマイク RGBライト プラグ&プレイ ミュート 単一指向性 ライブ配信 Web会議 ゲーム実況 Skype Discord,単一指向性,USB Type-A,-,コンデンサー,24bit / 96kHz,5784,-,-
+mic-bs2-051,Luna Plus,ミニクリップマイク コンデンサーマイク 単一指向性 イヤホン端子付き 音声モニタリング可能 PC用マイク ネット通話 ゲーム実況 ライブ配信 録音 在宅勤務 会議用,全指向性,USB Type-A / Bluetooth,50Hz-16kHz,会議用スピーカーフォン,48KHｚ,10999,-,ノイズキャンセリング
+mic-bs2-054,K053,ミニクリップマイク コンデンサーマイク 単一指向性 イヤホン端子付き 音声モニタリング可能 PC用マイク ネット通話 ゲーム実況 ライブ配信 録音 在宅勤務 会議用,単一指向性,USB Type-A,50Hz-16kHz,コンデンサー,48KHｚ,2999,-,-
+mic-bs2-055,USB-Cミニマイク Mac mini M4/M4 Pro・MacBook対応 Plug&Play…,Mac mini M4/M4 Pro・MacBook対応 Plug&Playコンパクトで持ち運びやすいコンデンサーマイク,全指向性,USB Type-C,50Hz-15kHz,コンデンサー,-,1769,-,-
+mic-bs2-056,Seiren V3 Mini White,コンデンサーマイク ホワイト超コンパクト設計| タップ式ミュートセンサー| ゲーミングマイク| 配信用| 日本正規代理店保証品,単一指向性,USB Type-A,-,コンデンサー,96kHz,8381,-,-
+mic-bs2-057,Luna,スピーカーフォン Bluetooth会議用マイクスピーカー ブラック 360˚全方向集音マイク付き 特許VoiceIA技術を搭載 ノイズキャンセリング 双方向通話 連結機能 5-8名対応 USB/AUX接続,全指向性,USB Type-A / Bluetooth / AUX,-20kHz,会議用スピーカーフォン,-,8999,-,ノイズキャンセリング
+mic-bs2-059,PowerConf S3,【全指向性マイク搭載の主要会議ツールに対応したマイクスピーカー】 スピーカーフォン Bluetooth 24時間連続使用 グループモード対応 USB-C接続 オンライン会議 テレワーク 在宅 会議用システム ウェブ,全指向性,USB Type-C / Bluetooth,-,会議用スピーカーフォン,-,-,-,ノイズキャンセリング
+mic-bs2-060,MM-MCU03BKN,サンワサプライ MM-MCU03BKN USBマイクロホン,単一指向性,USB Type-A,70Hz-15kHz,コンデンサー,-,3181,-,-
+mic-bs2-061,PC USBマイク コンデンサーマイク 会議用 卓上 360°集音 フレキシブルアーム プラグ&プレイ,会議用 卓上 マイクロホン マイクロフォン 360°集音 パソコン フレキシブルアーム式 全指向性 スポンジ付き PC MSN ZOOM Skype Webチャット ゲーム実況,全指向性,USB Type-A,-,コンデンサー,-,2998,-,-
+mic-bs2-062,デスクトップマイク ピンマイク USB直挿し PCマイク 全指向性 フレキシブルアーム コンパクト,デスクトップマイク ピンマイク USB 直差し 直挿し PCマイク 無指向性 フレキシブルアーム 軽量 コンパクト 小型マイク 外付けマイク,全指向性,USB Type-A,-,ピンマイク,-,980,-,-
+mic-bs2-063,ワイヤレスピンマイク (2個セット),2026新型】BILIWAL ピンマイク ワイヤレス iPhone/Android/PC用 自動ペアリング 接続ロック 瞬時接続 音画同期 超軽量 Type-C ノイズ軽減 ペアリングロック機能 リバーブ機能 9時間連続使用 360°集音 超ミニ クリップ式 2個セット Vlogカメラ対応 Vlog撮影/動画配信/生放送,全指向性,USB Type-C / 2.4GHz ワイヤレス,-,ピンマイク,48kHz/24bit,3980,-,-
+mic-bs2-067,USBピンマイク 小型 全指向性 高感度 防風 録音 会議 カラオケ対応,USB ピンマイク 小型全方向性マイクロフォン 高感度 防風 録音・会議・カラオケ・インタビュー・VLOG,全指向性,USB Type-A,-,ピンマイク,-,559,-,-
+mic-bs2-068,HS-SP02M2BK,エレコム スピーカーフォン 会議用 USB接続 ノイズリダクション機能 エコーキャンセラー オートゲインコントロール対応 約350ml缶サイズ 無指向性マイク ブラック,全指向性,USB Type-A,20Hz-20kHz,会議用スピーカーフォン,-,7454,-,ノイズキャンセリング
+mic-bs2-069,MO-MIC04U-B,e-Better MO-MIC04U-B PCマイク USB ミュート機能 全指向性360° テレワーク,全指向性,USB Type-A / 3.5mm,-,コンデンサー,-,1480,-,ノイズキャンセリング
+mic-bs2-070,USB-C グースネックマイク Type-C 卓上 マイク MacBook/iPhone/iPad対応,サンワダイレクト 会議マイク 無指向性 USB接続 Zoom/Skype対応 直径5m集音 スピーカー接続可能 ミュート機能 薄型,単一指向性,USB Type-C,20Hz-16kHz,コンデンサー,24bit / 96kHz,2690,-,-
+mic-bs2-072,ラベリアマイク USB-C コンデンサーマイク iPhone 16/15 & Android Ty…,USB-C・USB-A対応 有線ピンマイク スマホ・PC用 2mケーブル 全指向性コンデンサーピンマイク，iPhone 17/16/15、Samsung、Google、OnePlus、PC対応，,全指向性,USB Type-C,20Hz-16kHz,ピンマイク,24bit / 96kHz,2499,-,-
+mic-bs2-074,PC USBマイク コンデンサーマイク 会議用 卓上 360°集音,Veetop PC USBマイク コンピュータ コンデンサーマイク 会議用 卓上 マイクロホン マイクロフォン 360°集音 パソコン フレキシブルアーム式 全指向性 スポンジ/LEDランプ付,全指向性,USB Type-A,100Hz-16kHz,コンデンサー,24bit / 96kHz,1680,-,-
+mic-bs2-077,PC用USBマイク 単一指向性 ラベリアクリップ式ミニピンマイク USB-A 1.2m,Cubilux PC用USBマイク 単一指向性 ラベリアクリップ式ミニピンマイク USB-A 1.2m,単一指向性,USB Type-A,96kHz,ピンマイク,24bit / 96kHz,1750,-,-
+mic-bs2-080,400-MC011,サンワダイレクト 会議マイク 無指向性 USB接続 Zoom/Skype対応 直径5m集音 スピーカー接続可能 ミュート機能 薄型,全指向性,USB Type-A,100Hz-10kHz,コンデンサー,-,4980,-,-
+mic-mg-002,K054,FIFINE USBコンデンサーマイク 単一指向性 全段式グースネック 卓上用/会議用/パソコン用 適格請求書発行可 K054,単一指向性,USB Type-A,50Hz-18kHz,コンデンサー,-,4099,-,-
+mic-mg-003,A6T,A6T RGB光り カーディオイド指向性 プラグ&プレイ| ワンタッチミュート| PC/PS4/PS5/Windows/MacOS対応| AmpliGame マイクロホンキット| USBケーブル付き,単一指向性,USB Type-C,60Hz-18kHz,コンデンサー,192kHz,7999,-,-
+mic-mg-004,USBスタンドマイク,PC用マイクUSBマイク 全指向性 360°集音 ミュート機能 スタンドマイク 音量調節可能 LEDランプ付き Skype zoom通話 ライブ配信 ゲーム実況 PC PS4 Windows Mac 対応,全指向性,USB Type-A,100Hz-10kHz,コンデンサー,-,2710,-,ノイズキャンセリング
+mic-mg-005,Sync 20+,スピーカーフォン USB-C/Bluetooth対応 Bluetoothドングル付属モデル 会議用 PC/Mac/スマートフォン対応 Teams/Zoom対応 簡易パッケージ,全指向性,USB Type-C / Bluetooth,-,会議用スピーカーフォン,-,24555,-,-
+mic-mg-006,SP300,SP300 スピーカーフォン Bluetooth対応 マイクスピーカー 会議用スピーカーマイク PCマイク 全指向性マイク 双方向通話 オンライン会議/ウェブ会議/在宅勤務/テレワーク/オンライン教育 Zoom/Skype/Teams/Go,全指向性,USB Type-C / Bluetooth,-,会議用スピーカーフォン,-,6799,-,ノイズキャンセリング
+mic-mg-007,SoloCast 2,"内蔵ショックマウント ゲーム実況 USBマイク ブラック 日本正規代理店品 AR0A0AA ポップフィルター,テレワーク,ストリーマー,コンテンツクリエーター,ゲームプレイヤー向け,PC,Mac,PS4,PS5対応,メーカー保証2年間,カーディオイド（単一指向性）,タップでミュート,振動ノイズを抑制",単一指向性,USB Type-C,20Hz-20kHz,コンデンサー,96KHz,8982,-,-
+mic-mg-008,HS-MC07UBK,2 TX + 1 スタンダードRX + 充電ケース） iPhone 17/16/15＆Android／カメラ／タブレット／PC用ワイヤレスマイク 48時間駆動 400 m伝送 多色Magカバー,単一指向性,USB Type-A,100Hz-10kHz,コンデンサー,-,1027,-,-
+mic-mg-013,Mic Mini 2,2 TX + 1 スタンダードRX + 充電ケース） iPhone 17/16/15＆Android／カメラ／タブレット／PC用ワイヤレスマイク 48時間駆動 400 m伝送 多色Magカバー,全指向性,Bluetooth,-,ピンマイク,-,14520,-,ノイズキャンセリング
+mic-mg-015,MO-MIC04L-W,PCマイク USB マイクベース ミュート機能 全指向性360° 3.5mm 白 MO-MIC04L-W リモートワーク テレワーク,全指向性,USB Type-A / 3.5mm,-,コンデンサー,-,1480,-,ノイズキャンセリング
+mic-mg-016,YVC-331,ヤマハ(YAMAHA) ユニファイドコミュニケーションマイクスピーカーシステム(有線モデル,単一指向性,USB Type-A,190Hz-20kHz,会議用スピーカーフォン,-,50607,-,ノイズキャンセリング
+mic-mg-017,Seiren X,ストリーミング 実況 配信 Quartz Pink ピンク 単一指向性 PC Windows10 PS5 PS4【日本正規代理店保証品】,超単一指向性,USB Type-A,20Hz-20kHz,コンデンサー,44.1kHz/48kHz/96kHz,2710,-,ノイズキャンセリング
+mic-mg-018,U30K,PC用マイク コンデンサマイク ダイナミックマイク 全指向性 高感度 360°集音 ワンタッチミュート 小型卓上 有線 PC会議実況,全指向性,USB Type-C / USB Type-A,-,コンデンサー,-,2710,-,ノイズキャンセリング
+mic-mg-019,DM30 RGB,MAONO USB コンデンサーマイク ゲーミングマイク PC マイク 専用ソフトウェア RGBライティング ヘッドホン出力端子あり 単一指向性 プラグ＆プレイ YouTube Skype ゲーム実況 ライブ配信 在宅勤務 Windows/,単一指向性,USB Type-A,20Hz-20kHz,コンデンサー,24bit/48kHz,8499,-,-
+mic-mg-021,SP300U,SP300U スピーカーフォン マイクスピーカー 会議用スピーカーマイク PCマイク 全指向性マイク Zoom/Skype/Teams/Google meet などに対応,全指向性,USB Type-C,-,会議用スピーカーフォン,-,6799,-,ノイズキャンセリング
+mic-mg-022,STM30BK,SEIKO セイコー ピックアップマイク ブラック STM30BK,単一指向性,3.5mm,-,ピックアップマイク,-,2200,-,-
+mic-mg-025,Speak 710 MS,Jabra Speak 710 MS マイクロソフト認定スピーカーフォン Web会議 エコーキャンセラー内蔵 Bluetooth接続 USB接続,全指向性,USB Type-A / Bluetooth,-,会議用スピーカーフォン,-,14780,-,ノイズキャンセリング
+mic-mg-026,PD100X,MAONO XLR/USB ゲーミングマイク ノイズキャンセリング PCマイク ポッドキャスト ストリーミング用 ダイナミックマイク ミュートボタン 単一指向性 YouTube 録音 ボイスチャット ライブ配信 ゲーム実況に PD100X,単一指向性,USB Type-C / XLR,40Hz-16kHz,ダイナミック,48kHz/24bit,6944,-,ノイズキャンセリング
+mic-mg-027,AIRHUG,AIRHUG 会議用スピーカーマイク（Bluetooth & USB接続対応） 360°全方位集音、高度なノイズリダクション機能、USB-Cプラグ＆プレイ対応、ZoomおよびMicrosoft Teams対応,全指向性,USB Type-A / Bluetooth,100Hz-24kHz,ハンドヘルド型内蔵マイク,48kHz,5999,-,ノイズキャンセリング
+mic-mg-028,AT9933USB,audio-technica USBコンデンサーマイク 在宅勤務/録音/動画配信/ポッドキャスト AT9933USB,全指向性,USB Type-A,40Hz-16kHz,コンデンサー,-,2700,-,-
+mic-mg-029,HS-MC06BK,エレコム コンデンサーマイク 3.5mm接続 パソコンマイク クリップ付 1.6m HS-MC06BK,全指向性,3.5mm,100Hz-10kHz,コンデンサー,-,608,-,-
+mic-mg-030,K054,FIFINE USBコンデンサーマイク 単一指向性 全段式グースネック 卓上用/会議用/パソコン用 適格請求書発行可 K054,単一指向性,USB Type-A,50Hz-18kHz,コンデンサー,-,4099,-,-
+mic-mg2-051,ROG Carnyx C501,TONOR USB/XLRダイナミックマイク 単一指向性 PC/PS4/PS5対応 RGB ゲーミング/配信用 黒 TD510 AIR S RGBライティング調整可能、接続簡単、音声モニター/ワンタッチ式ミュート/デュアル音量調節機能搭載、USBケーブル付き、パソコン/XLR機器対応、ゲーミング/配信/会議,単一指向性,USB Type-A,20Hz-20kHz,コンデンサー,192kHz/24-bit,21500,-,ノイズキャンセリング
+mic-mg2-053,PowerConf S330,Anker PowerConf S330【全指向性マイク搭載の主要会議ツールに対応したマイクスピーカー】,全指向性,USB Type-C,-,会議用スピーカーフォン,-,5680,-,ノイズキャンセリング
+mic-mg2-055,ピンマイク 単一指向性マイク ゲーミングマイク イヤホン PC ゲーム実況 配信 Zoom Sky…,G-MODELL ピンマイク 単一指向性マイク ゲーミングマイク イヤホン PC ゲーム実況 配信 Zoom Skype YouTube (イヤホンジャック3.5mm),単一指向性,3.5mm,-,ピンマイク,-,1199,-,-
+mic-mg2-060,USBマイク コンデンサーマイク TC310+ RGB 単一指向性 ゲーム実況 配信 Zoom P…,TONOR USB/XLRダイナミックマイク 単一指向性 PC/PS4/PS5対応 RGB ゲーミング/配信用 黒 TD510 AIR S RGBライティング調整可能、接続簡単、音声モニター/ワンタッチ式ミュート/デュアル音量調節機能搭載、USBケーブル付き、パソコン/XLR機器対応、ゲーミング/配信/会議,単一指向性,USB Type-C / XLR,-,ダイナミック,-,5499,-,ノイズキャンセリング
+mic-mg2-061,TC310+,コンデンサーマイク TC310+ RGB 単一指向性 ゲーム実況 配信 Zoom PS5/PS4対応 ワンタッチミュート ブームアーム付き,単一指向性,USB Type-A,-,コンデンサー,-,5499,-,ノイズキャンセリング
+mic-mg2-062,M2,EMEET M2 スピーカーフォン 会議用マイクスピーカー ブラック,全指向性,USB Type-A / Bluetooth / AUX,-,テーブルアレイマイク,-,23900,-,ノイズキャンセリング
+mic-mg2-063,EJoy Uni S,COMICA EJoy Uni S USBコンデンサーマイク AIノイズキャンセリングマイク RGBライティング ノイズ軽減 ワンタッチミュート ゲーム実況 在宅勤務 ポッドキャスト ストリーミング ナレーション録音に最適 PC/PS4/P,単一指向性,USB Type-C,20Hz-20kHz,コンデンサー,24bit/48kHz,6382,-,ノイズキャンセリング
+mic-mg2-065,USBスピーカーフォン,Kaysuda USBスピーカーフォン スピーカー・マイク一体化 PCマイク マイクスピーカー 双方向通話/全二重通信/ノイズキャンセリング/オートゲインコントロール対応 Zoom/Skype/Teams/Google meet 対応 ウェ,全指向性,USB Type-A,-,会議用スピーカーフォン,-,-,-,ノイズキャンセリング
+mic-mg2-066,XS LAV USB-C,サンワダイレクト WEB会議マイクスピーカーフォン エコー/ノイズキャンセル機能搭載 最大3m集音 マイク3基搭載 400-MC003,全指向性,USB Type-C,100Hz-5kHz,ピンマイク,-,1148,-,-
+mic-mg2-072,MM-MC28,サンワサプライ WEB会議小型スピーカーフォン マイク 有線USB接続 Skype・Zoom・Teams対応 MM-MC28,全指向性,USB Type-A / Bluetooth,100Hz-5kHz,会議用スピーカーフォン,-,23669,-,-
+mic-mg2-075,USB卓上マイク,PCマイク usb スタンド 高感度 卓上 無・全指向性 パソコンマイク ワンタッチミュート プラグアンドプレイ 360˚全方向集音 小型 有線タイプ ゲーミング・テレワーク・会議用・配信用 録音・ゲーム実況・ボイズチャッ Windows/,全指向性,USB Type-C,20Hz-16kHz,コンデンサー,-,1148,-,-
+mic-mg2-080,400-MC003,サンワダイレクト WEB会議マイクスピーカーフォン エコー/ノイズキャンセル機能搭載 最大3m集音 マイク3基搭載 400-MC003,全指向性,USB Type-A,20Hz-16kHz,テーブルアレイ型,-,-,-,-
+mic-srch-0006,Zyrvox PCマイク K6,Zyrvox PCマイク usb スタンド 高感度 USB 卓上 無・全指向性 パソコンマイク ワンタッチミュート プラグアンドプレイ 360˚全方向集音 小型 有線タイプ ゲーミング・テレワーク,全指向性,USB Type-A,-,コンデンサー,-,2599,-,-
+mic-srch-0009,DuoCast,"USBスタンドアロンマイク テレワーク ストリーマー ゲーマー向け ブラック 日本正規代理店品 4P5E2AA 薄型ショックマウント,タッチ式ミュート,コンテンツクリエーター,PC,Mac,2年保証,PC,PS5,PS4,Mac,対応,ハイレゾ24ビット,カスタマイズ可能なRGBライトリング,",全指向性,USB Type-C,20Hz-20kHz,テーブルアレイ,24ビット/96kHz,12837,-,-
+mic-srch-0018,QuadCast2,"コンデンサーマイク USBマイク ゲーム実況 テレワーク ライブ配信 日本正規代理店品 872V1AA アンバサダー愛用,ストリーマー,コンテンツクリエーター,ゲーマー向け,PC,Mac,2年間のメーカー保証,24bit/96KHzのスタジオレベルの音質,LEDステータスインジケータ",４モード,USB Type-A,-,コンデンサー,-,22591,-,-
+mic-srch-0019,SoloCast,JEOZBM BM700 USBコンデンサーマイク コンピューター用 Hi‑Fi カーディオイドマイクキット 防風カバーブラケット付き ゲームライブポッドキャスト用,単一指向性,USB Type-A,60Hz-19kHz,コンデンサー,96kHz、ビットレート24bit,27164,-,-
+mic-srch-0021,AT2020USB-X,AT2020USB-X コンデンサーマイク USB-Type-C ミュートボタン付き| 音量調整| イヤホン出力| ドライバー不要,単一指向性,USB Type-C,60Hz-19kHz,コンデンサー,96kHz/24bit,18480,-,-
+mic-srch-0051,PD200X,ゲーミングマイク USB/XLR ダイナミックマイク 専用ソフトウェア付属 PC用ポッドキャストマイク ミュートボタン ボリュームコントロール イヤホン出力端子 ゲーマー向けRGBライティング付き,単一指向性,USB Type-A / XLR,40Hz-16kHz,ダイナミック,96kHz、ビットレート24bit,11699,-,ノイズキャンセリング
+mic-srch-0054,Snowball,iCE BM200BK USB ゲーミングマイク コンデンサーマイク 単一指向性 実況 配信 マイク コンパクト ゲーム ゲーミング ストリーミング PC Mac PS5 PS4 ブラック 国内正規品 2年間無償保証,単一指向性,USB Type-A,40Hz-18kHz,コンデンサー,48kHz/16bit,-,-,-
+mic-srch-0062,QuadCast,"スタンドアロンマイク ストリーマー/コンテンツクリエーター/ゲーマー向け/PC,PS4使用可能 2年保証 HX-MICQC-BK",超単一指向性,USB Type-A,60Hz-19kHz,ダイナミック,96kHz、ビットレート24bit,17800,-,-
+mic-srch-0071,SteelSeries Alias,USB マイク 配信用 ゲーム ストリーマー用 コンテンツクリエーター ソナー オーディオ ソフトウェア AIノイズキャンセリング LEDモニタリング 単一指向性 カーディオイド,超単一指向性,USB Type-A,60Hz-19kHz,ダイナミック,96kHz、ビットレート24bit,27703,-,-
+mic-srch-0074,Snowball,【Amazon.co.jp限定】ロジクール G Blue Snowball iCE BM200W USB ゲーミングマイク コンデンサーマイク 単一指向性 実況 配信 マイク コンパクト ゲーム ゲーミング ストリーミング PC Mac PS5 PS4 ホワイト 国内正規品 2年間無償保証,単一指向性,USB Type-A,60Hz-19kHz,コンデンサー,96kHz、ビットレート24bit,-,-,-
+mic-srch-0076,Yeti GX,RGB ゲーミングマイク、LIGHTSYNC搭載ポッドキャスト、Blue VO!CE、G HUBコントロール、スーパーカーディオイド、PC/MacでUSBプラグアンドプレイ - ブラック,単一指向性,USB Type-C,20Hz-20kHz,ダイナミック,96kHz、ビットレート24bit,24890,-,ノイズキャンセリング
+mic-srch-0081,NZXT CAPSULE WHITE Cardioid USB Microphone AP-WUM…,NZXT CAPSULE WHITE カーディオイドUSBマイク AP-WUMIC-W1 SP1007,単一指向性,USB Type-A,96kHz,コンデンサー,24bit / 96kHz,-,-,-
+mic-srch-0083,Yeti GX,ダイナミックマイク G-YETI-GX-BK ストリーミング配信 スーパーカーディオイド ノイズ軽減 RGB LIGHTSYNC 対応 USB BLUE,超単一指向性,USB Type-C,60Hz-19kHz,ダイナミック,96kHz、ビットレート24bit,27164,-,ノイズキャンセリング
+mic-srch-0097,Professional USB Condenser Microphone PC Micropho…,USBコンデンサーマイク PC マイク 単一指向性 スタンド付属 ゲーミング ボイスチャット DTM DAW録音 配信用 レコーディング Mac、PC対応 マランツプロ,単一指向性,USB Type-A,20Hz-40kHz,コンデンサー,192kHz,-,-,-
+mic-srch-0109,SteelSeries Alias,USB マイク 配信用 ゲーム ストリーマー用 コンテンツクリエーター ソナー オーディオ ソフトウェア AIノイズキャンセリング LEDモニタリング 単一指向性 カーディオイド,全指向性,USB Type-A,20Hz-40kHz,コンデンサー,192kHz,26185,-,ノイズキャンセリング
+mic-srch-0148,GOWENIC 360 無指向性ピックアップ付き USB PC マイク、ワンタッチミュート、ノイズ…,GOWENIC 360 無指向性ピックアップ付き USB PC マイク、ワンタッチミュート、ノイズリダクション、スマートチップ付きコンピュータマイク、ライブストリーミングゲーム通話用,全指向性,USB Type-A,50Hz-20kHz,コンデンサー,192kHz,2103,-,-
+mic-srch-0227,USBマイク コンピューターマイク 360°集音 PC ノートパソコン 黒,USBマイク コンピューターマイク 360°集音 PC ノートパソコン 黒,全指向性,USB Type-A,20Hz-40kHz,会議用スピーカーフォン,192kHz,5279,-,-
+mic-srch-0255,PC用USBコンデンサーマイク RGBゲーミングマイク プラグアンドプレイ カーディオイドピックア…,PC用USBコンデンサーマイク RGBゲーミングマイク プラグアンドプレイ カーディオイドピックアップ リアルタイムモニタリング タップトゥミュート ストリーミング/ポッドキャスト/PC/Macでの録画用ゲインコントロール,単一指向性,USB Type-A,20Hz-40kHz,コンデンサー,192kHz,8640,-,ノイズキャンセリング
+mic-srch-0314,tegongse ゲーミングUSBマイク 30Hz~16kHz周波数 PC用 ブームアームとLED…,tegongse ゲーミングUSBマイク 30Hz~16kHz周波数 PC用 ブームアームとLEDライト付き 没入型ストリーミング用,全指向性,USB Type-C,20Hz-40kHz,コンデンサー,192kHz,4190,-,ノイズキャンセリング
+mic-srch-0327,VBESTLIFE USBノイズキャンセリングマイク、2チャンネルゲーミングマイク、360°サウン…,VBESTLIFE USBノイズキャンセリングマイク、2チャンネルゲーミングマイク、360°サウンドピックアップ、Wins、OSX、Androidに対応 (青),全指向性,USB Type-A,20Hz-40kHz,コンデンサー,192kHz,3525,-,ノイズキャンセリング
+mic-srch-0350,JEOZBM BM700 USBコンデンサーマイク コンピューター用 Hi‑Fi カーディオイドマ…,JEOZBM BM700 USBコンデンサーマイク コンピューター用 Hi‑Fi カーディオイドマイクキット 防風カバーブラケット付き ゲームライブポッドキャスト用,単一指向性,USB Type-A,-,コンデンサー,192kHz/24bit,10810,-,-
+mic-srch-0351,"TALOMEN USB Condenser Microphone, RGB Glow, Cardi…",セット買い】Razer レイザー Moray ゲーミングイヤホン ハイブリッドデュアルドライバー カスタムイヤーチップ キャリングケース + Seiren V2 X USB 25mm コンデンサーマイク スーパーカーディオイド集音パターン アナログゲインリミッター,単一指向性,USB Type-C,60Hz-18kHz,コンデンサー,192kHz,10440,-,-
+mic-srch-0360,RGYBAO ゲーミングUSBマイク,30Hz~16kHz 周波数 PC用 ブームアームとLED照明付き 臨場感あふれるストリーミング用,単一指向性,USB Type-C,30Hz-16kHz,コンデンサー,192kHz,9343,-,-
+mic-srch-0381,Samnuerly USBマイク,マイク 360° 自由に調整 スタジオ スピーチ ミニマイク ゲーム チャット 録音 USBマイク デスクトップ PC ノートパソコン (色 : 赤),全指向性,USB Type-A,20Hz-16kHz,コンデンサー,192kHz/24-bit,14129,-,-
+mic-srch-0426,USBデスクトップマイク 全指向性PCマイク ストリーミング/ポッドキャスティング ボーカル録音/…,USBデスクトップマイク 全指向性PCマイク ストリーミング/ポッドキャスティング ボーカル録音/ゲーム用 プラグアンドプレイUSBデスクマイク ノートパソコン、Mac、PS4、Windows、Linuxに対応,全指向性,USB Type-A,20Hz-16kHz,コンデンサー,192kHz/24-bit,1828,-,-
+mic-srch-0449,USBマイク USB会議スピーカー 360°全方向スピーカーフォンマイク オンライン会議 ゲーム …,USBマイク USB会議スピーカー 360°全方向スピーカーフォンマイク オンライン会議 ゲーム チャット用,全指向性,USB Type-A,20Hz-16kHz,コンデンサー,192kHz/24-bit,2719,-,-
+mic-srch-0636,NGS MS120 USBカーディオイドUSBマイク ストリーミング/ポッドキャスト/ゲーム用 レ…,NGS MS120 USBカーディオイドUSBマイク ストリーミング/ポッドキャスト/ゲーム用 レイテンシーフリーモニタリング ボリュームコントロール ミュートボタン プラグアンドプレイ PC PS4 PS5用 滑り止めスタンド,単一指向性,USB Type-A,20Hz-16kHz,コンデンサー,192kHz/24-bit,10026,-,-
+mic-srch-0796,USBマイク 全指向性USBマイク ゲーム用 ノートパソコン PCマイク スイッチ付き,USBマイク 全指向性USBマイク ゲーム用 ノートパソコン PCマイク スイッチ付き,全指向性,USB Type-A,20Hz-16kHz,コンデンサー,192kHz/24-bit,978,-,-
+mic-srch-0907,RVB USB Cardioid Microphoneコンピューター電話、光削減ノイズ、トランスミ…,RVB USB Cardioid Microphoneコンピューター電話、光削減ノイズ、トランスミッションゲームの11モードのRGB照明を録音する、ABS,単一指向性,USB Type-A,80Hz-20kHz,コンデンサー,192kHz/24-bit,8085,-,-
+mic-srch-0937,CANYON Lorgar Voicer 521 プロフェッショナル カーディオイド USB-C …,CANYON Lorgar Voicer 521 プロフェッショナル カーディオイド USB-C ゲーミングマイク ブラック LRG-CMT521,超単一指向性,USB Type-C,20Hz-20kHz,コンデンサー,-,14955,-,-
+mic-srch-0991,V2 X USB コンデンサーマイク,セット買い】Razer レイザー Moray ゲーミングイヤホン ハイブリッドデュアルドライバー カスタムイヤーチップ キャリングケース + Seiren V2 X USB 25mm コンデンサーマイク スーパーカーディオイド集音パターン アナログゲインリミッター,超単一指向性,USB Type-C,-,コンデンサー,-,33204,-,ノイズキャンセリング
+mic-srch-1015,“2025 New Arrival・Technological Innovation” Zyrvo…,Zyrvox PCマイク usb スタンド 高感度 USB 卓上 無・全指向性 パソコンマイク ワンタッチミュート プラグアンドプレイ 360˚全方向集音 小型 有線タイプ ゲーミング・テレワーク,全指向性,USB Type-A,-,コンデンサー,-,2599,-,-
+mic-strm-0004,Seiren V3 Mini,3x14mmカプセル、4パターン、ゲインとミュート、ヘッドホンボル、レイテンシーなし3.5mm出力、Knox Gearポップフィルター付き,単一指向性,USB Type-A,-,コンデンサー,48kHz,6880,-,-
+mic-strm-0011,GRAPHT Compact-Mic XLR Streamer Edition,【アームセット】 コンデンサーマイク 超小型 日本メーカー XLR接続 マイクアーム ロープロファイル 白 Vtuber 配信 ゲーム実況 鋭指向性 小型 ケーブル一体型 xlr端子 耐荷重 2kg 360度回転 角度調節可能 マイククリップ付き,指向性切替対応 (マルチパターン),XLR,-,コンデンサー,48kHz,21940,-,-
+mic-strm-0012,【2025 New Release・Enhanced Sound Quality】BILIWAL …,【2026新型】BILIWAL ピンマイク ワイヤレス iPhone/Android/PC用 自動ペアリング 接続ロック 瞬時接続 音画同期 超軽量 Type-C ノイズ軽減 ペアリングロック機能 リバーブ機能 9時間連続使用 360°集音 超ミニ クリップ式 2個セット Vlogカメラ対応,全指向性,USB Type-C,-,ピンマイク,-,3680,-,-
+mic-strm-0013,QuadCast2,"コンデンサーマイク USBマイク ゲーム実況 テレワーク ライブ配信 フロスト 日本正規代理店品 AN1D9AA アンバサダー愛用,ストリーマー,コンテンツクリエーター,ゲーマー向け,PC,Mac,2年間のメーカー保証,24bit/96KHzのスタジオレベルの音質,LEDステータスインジケーター",４モード,USB Type-C,20Hz-20kHz,コンデンサー,96kHz/24bit,22800,-,-
+mic-strm-0014,AM8T,"FIFINE AM8TW XLR/USB Gaming Microphone Set for Streaming, Podcasting, Dynamic Microphone, PC Microphone, Boom Arm Stand,",単一指向性,USB Type-C / XLR,50Hz-16kHz,ダイナミック,48kHz/16bit,10799,-,ノイズキャンセリング
+mic-strm-0027,QuadCast2S,"コンデンサーマイク USBマイク ゲーム実況 テレワーク ライブ配信 ブラック 日本正規代理店品 9A273AA 指向性の変更可能,単一指向性、全方向性、双指向性、ステレオ,RGBライティング,ストリーマー,コンテンツクリエーター,ゲーマー向け,PC,Mac,メーカー保証2年間,LEDインジケーター,",指向性切替対応 (4パターン),USB Type-C,20Hz-20kHz,コンデンサー,48kHz/16bit,29716,-,-
+mic-strm-0031,AM8TW XLR/USB Gaming Microphone Set for Streaming…,"FIFINE AM8TW XLR/USB Gaming Microphone Set for Streaming, Podcasting, Dynamic Microphone, PC Microphone, Boom Arm Stand,",単一指向性,USB Type-C / XLR,50Hz-16kHz,ダイナミック,-,11199,-,ノイズキャンセリング
+mic-strm-0032,FlipCast Dynamic Microphone XLR/USB Dual Connecti…,"ダイナミックマイク 単一指向性 タップミュート対応 ゲーミング テレワーク ブラック 日本正規代理店品 B2CM1AA ,XLR/USB,デュアルコネクション,カーディオイドマルチファンクションノブ搭載,NGENUITY対応,テレワーク,ストリーマー,コンテンツクリエーター,ゲーマー向け,PC,Mac,PS4,PS5,Nintendo,Switch,保証2年間,",単一指向性,USB Type-C / XLR,-20kHz,ダイナミック,-,31980,-,ノイズキャンセリング
+mic-strm-0033,Sanwa Supply MM-MCTC02NC Noise Canceling USB Micr…,PC PS5/4使用可能 XLR マイク 配信用 ゲーム ストリーマー用 コンテンツクリエーター ソナー オーディオ ソフトウェア AIノイズキャンセリング 単一指向性 カーディオイド,単一指向性,USB Type-C,50Hz-20kHz,コンデンサー,48kHz/24bit,8640,-,ノイズキャンセリング
+mic-strm-0039,FIFINE USB/XLRダイナミックマイク AM8TP,"USB/XLRダイナミックマイク 単一指向性 PC/PS4/PS5対応 アーム付き ゲーミング/配信用 ピンク AM8TP 音声モニター, ワンタッチ式ミュート, RGBライト, マイクとイヤホン端子音量調節機能搭載, USB-AとType-C給電ケーブル付属, パソコン, XLR機器適用",単一指向性,USB Type-C / XLR,50Hz-16kHz,ダイナミック,-,11199,-,-
+mic-strm-0042,Seiren V3 Chroma,コンデンサーマイク マルチファンクション タップ式ミュートセンサー ゲーミングマイク USB マイク 配信 セイレン ブイスリー クローマ 【日本正規代理店保証品】,超単一指向性,USB Type-C,40Hz-16kHz,コンデンサー,-,21980,-,-
+mic-strm-0047,MAONO PD200X,ゲーミングマイク USB/XLR PCマイク 単一指向性ダイナミックマイク 専用ソフトウェア ミュートボタン RGBライティング,単一指向性,USB Type-C / XLR,40Hz-16kHz,ダイナミック,-,12699,-,ノイズキャンセリング
+mic-strm-0050,Alias Pro,PC PS5/4使用可能 XLR マイク 配信用 ゲーム ストリーマー用 コンテンツクリエーター ソナー オーディオ ソフトウェア AIノイズキャンセリング 単一指向性 カーディオイド,単一指向性,USB Type-C / XLR,-,コンデンサー,-,38495,-,ノイズキャンセリング
+mic-strm-0051,GRAPHT XLR,オーディオテクニカ USBマイク PC マイク コンデンサーマイクロホン ストリーマー コンテンツクリエーター ゲーマー ボイスチャット 実況 Windows MAC 国内正規品,超単一指向性,XLR,100Hz-10kHz,コンデンサー,44.1kHz、/48kHz,14960,-,-
+mic-strm-0055,Snowball BM250W,BM250W USB ゲーミングマイク コンデンサーマイク 単一指向性 実況 ストリーミング 配信 マイク コンパクト ゲーム ゲーミング PC Mac PS5 PS4 ホワイト 白 国内正規品 2年間メーカー保証,単一指向性,USB Type-A,-,コンデンサー,44.1kHz、/48kHz,-,-,-
+mic-strm-0057,Audio-Technica USB Microphone PC Microphone Conde…,オーディオテクニカ USBマイク PC マイク コンデンサーマイクロホン ストリーマー コンテンツクリエーター ゲーマー ボイスチャット 実況 Windows MAC 国内正規品,単一指向性,USB Type-A,-,コンデンサー,44.1kHz、/48kHz,17000,-,-
+mic-strm-0061,Elgato Wave: 3 - Premium USB Capacity - Microphon…,プレミアムUSB容量ーマイク、 「 Call of Duty®: Black Ops 6 」スペシャルエディション 配信、ポッドキャスト、再生、およびホームオフィス適用、無料のミキサーソフトウェア、サウンドエフェクトプラグイン、歪みなし、プラグ&プレイMac/PC対応,単一指向性,USB Type-C,70Hz-20kHz,コンデンサー,48kHz、96kHz,20565,-,-
+mic-strm-0062,Elgato Wave:1 - Premium Cardioid USB Condenser Mi…,カーディオイドUSBマイク AP-WUMIC-B1 SP1008,単一指向性,USB Type-C,70Hz-20kHz,コンデンサー,48kHz,-,-,-
+mic-strm-0069,NZXT CAPSULE BLACK,カーディオイドUSBマイク AP-WUMIC-B1 SP1008,単一指向性,USB Type-A / XLR,96kHz,コンデンサー,24bit / 96kHz,-,-,ノイズキャンセリング
+mic-strm-0070,Yeti GX,ダイナミックマイク G-YETI-GX-WH ストリーミング配信 スーパーカーディオイド ノイズ軽減 RGB LIGHTSYNC 対応 USB BLUE VO!CE PC MAC ゲーミング マイク 白 ホワイト,超単一指向性,USB Type-A,60Hz-19kHz,ダイナミック,96kHz、ビットレート24bit,28882,-,ノイズキャンセリング
+mic-strm-0071,Audio-Technica ATR2100x-USB USB Microphone for Te…,ショックマウント AT8455 USB-Type-C ドライバー不要 ゲーミングマイク 配信用マイク 宅録 Windows MAC PS4 PS5 国内正規品,単一指向性,USB Type-C / XLR,20Hz-20kHz,ダイナミック,24bit / 192kHz,28200,-,-
+mic-strm-0074,AKG Pro Audio Ara Professional USB-C Condenser Mi…,USB-C コンデンサーマイク デュアルパターン オーディオキャプチャモード ポッドキャスティング ビデオブログ ゲーム ストリーミング用 ブルー&シルバー,2モード (単一/全指向性),USB Type-C,20Hz-20kHz,コンデンサー,96kHz,11917,-,-
+mic-strm-0077,Audio Technica Condenser Microphone AT2020USB-XP …,ショックマウント AT8455 USB-Type-C ドライバー不要 ゲーミングマイク 配信用マイク 宅録 Windows MAC PS4 PS5 国内正規品,単一指向性,USB Type-C,-,コンデンサー,24bit / 192kHz,28200,-,ノイズキャンセリング
+mic-strm-0078,RODE Microphones Road Microphones Pod Microphone …,コンデンサーマイク 録音 レコーディング 歌 楽器 ギター ドラム 演奏 実況 配信 ゲーム ゲーミング ポッドキャスト MOTIVシリーズ iOS Android Mac Windows対応 MV88+STEREO-USB ブラック USBケーブル付属 【国内正規品/メーカー保証2年】,単一指向性,USB Type-C / XLR,20Hz-20kHz,ダイナミック,48kHz,40000,-,ノイズキャンセリング
+mic-strm-0081,FEELWORLD VM1 Pink Gaming PC Microphone USB Conde…,FEELWORLD VM1 ピンク USB ゲーミングコンデンサーマイク PC用 ブームアームスタンド ノイズキャンセリング、ミュート、RGBライト、ゲーム機器、ギフト用、,単一指向性,USB Type-C,50Hz-16kHz,コンデンサー,48kHz,11009,-,ノイズキャンセリング
+mic-strm-0088,SHURE MV88+ ステレオ USB マイクロホン,コンデンサーマイク 録音 レコーディング 歌 楽器 ギター ドラム 演奏 実況 配信 ゲーム ゲーミング ポッドキャスト MOTIVシリーズ iOS Android Mac Windows対応 MV88+STEREO-USB ブラック USBケーブル付属 【国内正規品/メーカー保証2年】,４モード,USB Type-A,-,コンデンサー,-,23380,-,-
+mic-strm-0089,AVerMedia USB Microphone Record with Cardioid Pat…,USB-C 出力 カーディオイド オムニ ステレオ 双方向 192k サンプルレート ボリュームコントロール ゲインコントロール クイックミュート 3.5mm AUX プラグアンドプレイ,単一指向性,USB Type-A,100Hz-16kHz,コンデンサー,192kHz/24bit,3575,-,-
+mic-strm-0095,Blapsuro USBコンピュータマイク M8,ミュートボタンとRGB照明付き プラグアンドプレイマイク 会議 ゲーム YouTube用 デスクトップPCマイク Mac/Window用 ブラック,全指向性,USB Type-A,100Hz-16kHz,コンデンサー,192kHz/24bit,3575,-,ノイズキャンセリング
+mic-strm-0106,BRIBAT USBコンデンサーマイク,プラグアンドプレイRGBデスクトップマイク ワンタッチミュート カーディオイドノイズキャンセリングコンピューターマイク Twitch、YouTube、PCやノートパソコンでの録音用,単一指向性,USB Type-A,20Hz-20kHz,コンデンサー,192kHz/24bit,8039,-,ノイズキャンセリング
+mic-strm-0113,JLab JBuds Talk USB Gaming Streaming Microphone W…,USB-C マイク カーディオイド、オムニ、ステレオ、双方向モード、ゲインとミュートコントロール、3.5mm AUX、ホワイト,全指向性,USB Type-C / USB Type-A,20Hz-20kHz,コンデンサー,192kHz/24bit,11255,-,-
+mic-strm-0133,Adesso Xtream M1,有線コンデンサーマイク 6フィート 20Hz~20kHz 680オーム 38dB 全指向性 グースネック デスクトップ USB,単一指向性,USB Type-A,20Hz-20kHz,ダイナミック,192kHz/24bit,7654,-,-
+mic-strm-0135,AVerMedia USB Microphone Streaming Podcasting Gam…,ポッドキャスティング カーディオイドポーラーパターン付きゲーム用 三脚スタンド ヘッドホン出力 ミュートボタン オールメタル,単一指向性,USB Type-C,20Hz-20kHz,コンデンサー,192kHz/24bit,12523,-,ノイズキャンセリング
+mic-strm-0142,FIFINE K658 USBゲーミングダイナミックマイク,クイックミュート付き PCストリーミング用ゲインコントロール、ヘッドホンジャック、カーディオイドピックアップ、RGBコントロール、ショックマウント,単一指向性,USB Type-C,20Hz-20kHz,ダイナミック,192kHz/24bit,18349,-,ノイズキャンセリング
+mic-strm-0162,JLab Epic Talk USB ゲーミングストリーミングマイク,USB-C 出力 カーディオイド オムニ ステレオ 双方向 192k サンプルレート ボリュームコントロール ゲインコントロール クイックミュート 3.5mm AUX プラグアンドプレイ,４モード,USB Type-A / 3.5mm,20Hz-20kHz,トライカプセルアレイ,192kHz/24bit,20908,-,-
+mic-strm-0163,"WMT USB Microphone, Condenser Gaming Microphone f…",192kHz/32bitダイナミックマイク PC用 USB/XLR ゲーミングマイク95dB SNR、リアルタイムモニタリング、タッチミュート、RGB,単一指向性,USB Type-C,-,コンデンサー,192kHz,13168,-,ノイズキャンセリング
+mic-strm-0166,MAILANGSHI 192kHz/32bitダイナミックマイク PC用 USB/XLR ゲーミン…,192kHz/32bitダイナミックマイク PC用 USB/XLR ゲーミングマイク95dB SNR、リアルタイムモニタリング、タッチミュート、RGB,単一指向性,USB Type-C / XLR,-,ダイナミック,192kHz/32ビット,23330,-,-
+mic-strm-0168,CHERRY UM 3.0 USB Microphone Podcast Streaming Ho…,CHERRY UM 3.0 USBマイク ポッドキャスト ストリーミング ホームオフィス カーディオイド特性 ヘッドホン接続,単一指向性,USB Type-C,20Hz-20kHz,コンデンサー,96KHz,16449,-,-
+mic-strm-0169,Yeti GX,スロンマックス MDrill One Pro 96kHz/24bit マルチ指向性 USBマイク,超単一指向性,USB Type-C,20Hz-20kHz,ダイナミック,96kHz/24bit,33353,-,ノイズキャンセリング
+mic-strm-0172,Thronmax MDrill One Pro 96kHz/24bit Multi-Directi…,スロンマックス MDrill One Pro 96kHz/24bit マルチ指向性 USBマイク,全指向性,USB Type-A,20Hz-20kHz,コンデンサー,96kHz/24bit,-,-,-
+mic-strm-0173,Mars Gaming MMIC-CX Professional Studio Microphon…,ウェブカメラとコンデンサーマイク - 1080p HD ウェブカメラ プロカーディオイドコンデンサーマイク - HD USBカメラとコンピューターマイク,単一指向性,USB Type-A,20Hz-20kHz,コンデンサー,48KHｚ,12947,-,ノイズキャンセリング
+mic-strm-0180,Movo WebMic-HD,ウェブカメラとコンデンサーマイク - 1080p HD ウェブカメラ プロカーディオイドコンデンサーマイク - HD USBカメラとコンピューターマイク,単一指向性,USB Type-A,-,コンデンサー,-,12454,-,ノイズキャンセリング
+mic-strm-0182,ENHANCE USB Microphone for PC - Omnidirectional C…,USBゲーミングマイク (25mmコンデンサーカプセル、192kHz/24ビット、カーディオイド、ハイパスフィルター、ポップフィルター内蔵、メタルショックマウント、ワンタッチミュート、オーラ同期RGB),全指向性,USB Type-A,100Hz-10kHz,コンデンサー,16bit/48kHz,12579,-,-
+mic-strm-0186,RIG M100 HD Streaming Microphone - USB Microphone…,USBマイク ゲーム/録画/ポッドキャスト/ブロードキャスト用 カーディオイドポーラーパターン USBプラグアンドプレイ,単一指向性,USB Type-A,100Hz-10kHz,コンデンサー,16bit/48kHz,22068,-,ノイズキャンセリング
+mic-strm-0194,ENDORFY Solum Voice S,ストリーミング/チャット/ポッドキャスト録画用マイク RGB照明 USBプラグアンドプレイ タップしてミュートボタン GAINコントロール カーディオイドパターン,単一指向性,USB Type-A,80Hz-20kHz,コンデンサー,192kHz/24bit,18340,-,-
+mic-strm-0202,JARO J100-CB,192kHz/24bit カーディオイドコンデンサーマイク ブームアームポップフィルター付き ミュート ノイズリダクション RGB ゲームポッドキャストストリーミング,単一指向性,USB Type-A,80Hz-20kHz,コンデンサー,192kHz/24bit,19266,-,ノイズキャンセリング
+mic-strm-0210,ASUS ROG Carnyx,USBゲーミングマイク (25mmコンデンサーカプセル、192kHz/24ビット、カーディオイド、ハイパスフィルター、ポップフィルター内蔵、メタルショックマウント、ワンタッチミュート、オーラ同期RGB),単一指向性,USB Type-A,20Hz-20kHz,コンデンサー,24bit / 192kHz,-,-,ノイズキャンセリング
+mic-strm-0211,Thronmax Mdrill Zero Plus 96kHz/24bit Multi-Direc…,スロンマックス Mdrill Zero Plus 96kHz/24bit マルチ指向性 USBマイク,全指向性,USB Type-A,20Hz-20kHz,コンデンサー,96kHz/24bit,9000,-,-
+mic-strm-0212,Blue Yeti,3x14mmカプセル、4パターン、ゲインとミュート、ヘッドホンボル、レイテンシーなし3.5mm出力、Knox Gearポップフィルター付き,指向性切替対応 (マルチパターン),USB Type-A,-,コンデンサー,48kHz,34946,-,-
+mic-cnd-001,USBコンデンサーマイク,Amazonベーシック USBコンデンサーマイク PC用 ストリーミング/ゲーミング/ポッドキャスト向け ‎8.6cm x 14.7cm,単一指向性,USB Type-C,-,コンデンサー,96kHz/24bit,3867,-,-
+microphone-audio-technica-at2020,オーディオテクニカ AT2020,コンデンサーマイク XLR 単一指向性 配信 ブラック レコーディング 宅録 DTM 動画配信 ポッドキャスト 実況 ゲーミング 【国内正規品】,単一指向性,XLR,20Hz-20kHz,コンデンサー,-,13200,−37dB,-
+mic-cnd-005,コンデンサーマイク ABS製 24bit/96kHz RGBライト 単一指向性 ノイズ低減 20,コンデンサーマイク ゲーミングマイク PC/卓上マイク RGBライティング 単一指向性 ノイズ低減| ワンタッチミュート| 7RGBライティングモード| ポップフィルター マイクスタンド付き,単一指向性,USB Type-C,-,コンデンサー,96kHz,2959,-,ノイズキャンセリング
+mic-cnd-006,QUANTUM STREAM,デュアルコンデンサー ブラック スタンドアロン| テレワーク/ゲーマー/コンテンツクリエーター/ストリーマー対応| PC/MAC/PS4/PS5/SWITCH使用可能|,2モード (全/単一指向性),USB Type-C,-,コンデンサー,44.1kHz/48kHz/96kHz,7900,-,-
+mic-cnd-007,HS-MC09UBK,MAONO USBマイク コンデンサーマイク PC マイクセット アームスタンド付き 録音 生放送 YOUTUBE ゲーム実況 在宅勤務 適格請求書発行可 AU-A04,全指向性,USB Type-A,20Hz-20kHz,コンデンサー,192kHz/24bit,1300,-,-
+mic-cnd-010,AU-A04,MAONO USBマイク コンデンサーマイク PC マイクセット アームスタンド付き 録音 生放送 YOUTUBE ゲーム実況 在宅勤務 適格請求書発行可 AU-A04,単一指向性,USB Type-A,30Hz-19kHz,コンデンサー,192kHz/24bit,7699,-,-
+mic-cnd-011,AT4040,オーディオテクニカ AT4040 コンデンサーマイク XLR 1インチ大口径ダイアフラム / DCバイアス/単一指向性 / 80Hzローカットフィルタースイッチ / 10dBパッドスイッチ / 専用シ,単一指向性,XLR,20Hz-20kHz,コンデンサー,-,39600,-,-
+mic-cnd-012,マイク コンデンサーマイク PCマイク 単一指向性 エコー機能付き 会議用 ゲーム 実況 タブレ,コンデンサーマイク USB マイク ゲーミングマイク PC マイク 卓上 192kHz/24bit アクティブノイズキャンセリング エコモード搭載 RGBライト カーディオイド 静音機能付き 高感度,単一指向性,USB Type-C,-,コンデンサー,48kHz/16bit,5287,-,ノイズキャンセリング
+mic-cnd-014,コンデンサーマイク USB マイク ゲーミングマイク PC マイク 卓上 192kHz/24bi,コンデンサーマイク USB マイク ゲーミングマイク PC マイク 卓上 192kHz/24bit アクティブノイズキャンセリング エコモード搭載 RGBライト カーディオイド 静音機能付き 高感度,超単一指向性,USB Type-C,-,コンデンサー,192kHz/24bit,2299,-,ノイズキャンセリング
+mic-cnd-015,ECM-TL3,ソニー(SONY) コンデンサーマイク モノラル/電話録音用 ECM-TL3 黒,全指向性,3.5mm,100Hz-10kHz,コンデンサー,-,1727,-,-
+mic-cnd-016,MPM-2000U,Marantz Professional MPM-2000U USB コンデンサーマイク,単一指向性,USB Type-A,20Hz-17kHz,コンデンサー,48kHz/16bit,7999,-,ノイズキャンセリング
+mic-cnd-017,K670,FIFINE USBマイクロフォン コンデンサーマイク イヤホン端子付き マイクスタンド高さ調節可能 ABタイプ USBケーブル付き 単一指向性 Skype ライブ配信 ゲーム実況 PC用 Windo,単一指向性,USB Type-A,50Hz-15kHz,コンデンサー,-,3200,-,ノイズキャンセリング
+mic-cnd-018,AT2035,オーディオテクニカ AT2035 コンデンサーマイク 単一指向/ローカットスイッチ/パッドスイッチ/専用ショックマウント付属/レコーディング/宅録/動画配信/ポッドキャスト/実況/DTM/ブラック 【,単一指向性,XLR,20Hz-20kHz,コンデンサー,-,19800,-,ノイズキャンセリング
+mic-cnd-019,ピンマイク 有線 マイク コンデンサーType-C端子 全指向性 スマホ/PC/タブレット対応,全指向性| スマホ/PC/タブレット対応| iPhone iPad Android カメラ対応| 録音 ゲーム ライブ配信 オンライン授業 会議用| 専用カラーボックス＆収納布袋付き,全指向性,USB Type-C,-,コンデンサー,-,558,-,-
+mic-cnd-020,EasySing Mic Mini Duo,JBL EasySing Mic Mini Duo/小型ワイヤレスマイク/AI搭載/ピンマイク/ハンドマイク/ボーカルリムーバル機能/ 最大6時間バッテリー/JBL Oneアプリ対応/ピッチ変更/ブラ,単一指向性,USB Type-C / Bluetooth,50Hz-15kHz,ピンマイク,-,27000,-,ノイズキャンセリング
+mic-cnd-021,MV88+,SHURE シュア MV88+ ビデオキット ステレオコンデンサーマイク MV88+DIG-VIDKIT USB接続 USB-C スマホ ステレオ iOS Android 対応 外付け 動画撮影用マイ,４モード,USB Type-C / Lightning,-,コンデンサー,48kHz/24bit,29750,-,-
+mic-cnd-022,QUANTUM STREAM TALK,JBL QUANTUM STREAM TALK シングルコンデンサーマイク 卓上 スタンドマイク ミュート機能付 USBプラグ＆プレイ 3.5mm ゲーミング リモート会議 配信用 JBLSTRMTA,超単一指向性,USB Type-C,50Hz-12kHz,コンデンサー,44.1kHz / 48kHz / 96kHz,6930,-,-
+mic-cnd-023,YETI ORB,Logicool G ゲーミングマイク YETI ORB コンデンサーマイク G-YETI-ORB-BK ストリーミング配信 ノイズ軽減 RGB LIGHTSYNC USB BLUE VO!CE PC,単一指向性,USB Type-C,70Hz-20kHz,コンデンサー,48kHz,7900,-,ノイズキャンセリング
+mic-cnd-024,USBマイク コンデンサーマイク 192kHz/24bit 16mm高感度 カーディオイド DS,ソニー(SONY)【付属品でUSB接続も簡単】ソニー エレクトレットコンデンサーマイクロホン PC/ゲーム用 ECM-PCV80U,単一指向性,USB Type-C,80Hz-15kHz,コンデンサー,192kHz/24bit,1804,-,ノイズキャンセリング
+mic-cnd-026,ECM-PCV80U,ソニー(SONY)【付属品でUSB接続も簡単】ソニー エレクトレットコンデンサーマイクロホン PC/ゲーム用 ECM-PCV80U,単一指向性,USB Type-A,80Hz-15kHz,コンデンサー,-,-,-,-
+microphone-rode-nt1-5th-gen,RODE NT1（第5世代）,XLRとUSB-Cのデュアルコネクトに対応した大口径ラージダイアフラム・コンデンサーマイク。超低ノイズかつ32bit float録音にも対応した高品質スタジオモデル。,単一指向性,USB Type-C / XLR,20Hz-20kHz,コンデンサー,192kHz,42060,-32dB,-
+mic-cnd2-001,PRO35,金管楽器・サックス向けXLRコンデンサーマイク。楽器用ホルダー付属、高耐入力145dB,単一指向性,XLR,50Hz-18kHz,コンデンサー,-,13155,-,-
+mic-cnd2-002,コンデンサーマイク USB 卓上 PC マイク 192kHz/24bit 録音 2段階ノイズキャ,コンデンサーマイク USB 卓上 PC マイク 192kHz/24bit 録音 2段階ノイズキャンセリング機能搭載 カーディオイド 8種類RGB 16mmマイクヘッド 静音モード リバーブモード Hi,単一指向性,USB Type-C,-,コンデンサー,192kHz/24bit,699,-,-
+mic-cnd2-003,Profile USB,ポッドキャスト・ストリーマー・ゲーマー向けUSBコンデンサーマイク（国内正規品）,単一指向性,USB Type-C,-,コンデンサー,-,15445,-,-
+mic-cnd2-004,GamerWave,MAONO USB コンデンサーマイク ゲーミングマイク ノイズキャンセリング PC マイク ミュートボタン 単一指向性 RGBライティング 音量コントロール プラグ＆プレイ パソコンマイク ゲーム実,単一指向性,USB Type-C,50Hz-20kHz,コンデンサー,-,7700,-,ノイズキャンセリング
+mic-cnd2-005,RGBライト PCマイク USB ゲーム マイク Windows MacOS スマホ PS4/P,FerBuee RGBライト PCマイク USB ゲーム マイク Windows MacOS スマホ PS4/PS5等対応 ゲーム実況 生放送 カラオケ 録音 配信などに適用 ミュートボタン 音量調整,単一指向性,USB Type-C,-,コンデンサー,192khz,2000,-,-
+mic-cnd2-006,Wave:3,Wave FX Processor・Clipguard 2.0搭載のプレミアムUSBコンデンサーマイク,超単一指向性,USB Type-C,70Hz-20kHz,コンデンサー,48kHz,28980,-,ノイズキャンセリング
+mic-cnd2-007,USB ゲーミングマイク *Phoneマイク コンデンサーマイクミュートボタン カーディオイド指,超単一指向性USBコンデンサーマイク。ウェブ会議・配信・ゲーム実況向け,全指向性,USB Type-C,-18kHz,コンデンサー,48kHz/16bit,9609,-,-
+mic-cnd2-010,TM-250U,超単一指向性USBコンデンサーマイク。ウェブ会議・配信・ゲーム実況向け,超単一指向性,USB Type-C,-,コンデンサー,48kHz/16bit,7480,-,-
+mic-cnd2-011,AT9901,ZOOM(ズーム) Am7 Androidスマホマイク USB Type-C ブラック,単一指向性,3.5mm,-,コンデンサー,48kHz,3400,-,-
+mic-cnd2-014,Am7,ZOOM(ズーム) Am7 Androidスマホマイク USB Type-C ブラック,単一指向性,USB Type-C,-,コンデンサー,48kHz,11490,-,-
+mic-cnd2-015,ECM-999,Superlux 測定用 無指向性コンデンサーマイクロホン ECM-999 ブラック,全指向性,XLR,20Hz-20kHz,コンデンサー,-,5535,-,-
+mic-cnd2-016,auriq01,asmrlabo XLR耳型バイノーラルマイク「auriq01 Pro」（Primo EM272マイクカプセル搭載）（ブラック）asmr 環境音,全指向性,XLR,20Hz-20kHz,コンデンサー,-,42000,-,ASMR
+mic-cnd2-017,ワイヤレスピンマイク (3in1),Type-C/Lightning/3.5mm対応のコードレスピンマイク。360°全指向性・2人同時収音,全指向性,USB Type-C / 3.5mm / Lightning,-,コンデンサー,-,1399,-,-
+mic-cnd2-018,SoloCast (ホワイト),タップトゥミュート・LEDステータス搭載のUSBコンデンサーマイク（ホワイト）,単一指向性,USB Type-A,-,コンデンサー,48kHz/16bit,-,-,-
+mic-cnd2-019,AT875R,オーディオテクニカ AT875R ショットガンマイク XLR コンデンサーマイク ファンタム電源 放送 制作 カメラ 【国内正規品】,超単一指向性,XLR,90Hz-20kHz,コンデンサー,-,22222,-,-
+mic-cnd2-020,クリップマイク ピンマイク マイクロフォン 長さ120mm ジャック 3.5mm φプラグ iP,Rosebe クリップマイク ピンマイク マイクロフォン 長さ120mm ジャック 3.5mm φプラグ iPhone/iPad/Android/カメラ 対応[ブラック],全指向性,3.5mm,-,ピンマイク,-,990,-,-
+mic-dyn-001,K688CT,USB/XLRマイク PCセット ブラック 単一指向性| 音量調整・ミュートボタン| 音声モニタリング| アーム付き| USB/XLR/PS4/PS5/オーディオインターフェース対応,単一指向性,USB Type-C / XLR,50Hz-16kHz,ダイナミック,48kHz/16bit,12899,-,-
+mic-dyn-002,AT2040,超単一指向性ダイナミックマイク。内蔵ポップフィルター・XLR出力。ポッドキャスト/配信向け,超単一指向性,XLR,80Hz-16kHz,ダイナミック,-,13200,-,-
+mic-dyn-003,MV7+,MV7+-K : OBS 認証 ダイナミックマイク カーディオイド 単一指向性 USB-C XLR 有線 ノイズ除去 配信 ストリーミング YouTube 録音 レコーディング 音楽 実況 ゲーミング ボーカル DTM 宅録 iOS Android Mac Windows対応 【国内正規品/メーカー保証2年】,単一指向性,USB Type-C / XLR,50Hz-16kHz,ダイナミック,48kHz/16bit,47000,−55dB,ノイズキャンセリング
+mic-dyn-005,SM7dB,ダイナミックマイク カーディオイド 単一指向性 XLR 有線 ストリーミング 配信 YouTube 音声 音楽 演奏 録音 レコーディング 実況 ゲーミング ポッドキャスト ボーカル DTM 【国内正規品/メーカー保証2年】,単一指向性,XLR,50Hz-20kHz,ダイナミック,-,75800,-,ノイズキャンセリング
+mic-dyn-007,PartyBox Wireless Mic 2-Piece Set/2.4GHz Wire…,2本セット/2.4GHz 無線方式デジタル/単一指向性ダイナミックマイク/有効距離最大30m/ブラック JBLPBWIRELESSMIC,単一指向性,2.4GHz ワイヤレス,50Hz-15kHz,ワイヤレスダイナミックマイク,-,17700,-,-
+mic-dyn-009,SHURE SM58SE,ON/OFFスイッチ付き マイクスタンド用ネジ有 単一指向性 カーディオイド XLR 有線 ボーカル 歌 ライブ 収録 録音 レコーディング DTM 宅録 マイクロホン マイクロフォン 【国内正規品/メーカー保証2年】,単一指向性,XLR,50Hz-20kHz,ダイナミック,-,16010,-,ノイズキャンセリング
+mic-dyn-010,MV6,スーパーカーディオイドボーカル向けダイナミックマイク。XLR・国内正規品,単一指向性,USB Type-C,50Hz-15kHz,ダイナミック,44.1kHz、/48kHz,24749,-,ノイズキャンセリング
+mic-dyn-014,PD200XS,USB XLR接続 ダイナミックマイク 専用ソフトウェア付属 単一指向性PCマイク ミュートボタン ボリューム調整 RGBライティング付き PC PS4 PS5 オーディオミキサー対応 ゲーム実況 ライブ配信 ポッドキャスト ナレーション録音,単一指向性,USB Type-C / XLR,40Hz-16kHz,ダイナミック,-,13980,-,ノイズキャンセリング
+mic-dyn-017,BETA 58A,ダイナミック ボーカル マイク : スーパーカーディオイド 単一指向性 XLR 有線 プロ仕様 ノイズ低減 高耐久性 歌 ライブ 収録 録音 レコーディング DTM 宅録マイクロホン マイクロフォン 【国内正規品/メーカー保証2年】,超単一指向性,XLR,50Hz-16kHz,ダイナミック,-,21700,-,-
+mic-dyn-021,e 945,スーパーカーディオイドボーカル向けダイナミックマイク。XLR・国内正規品,超単一指向性,XLR,40Hz-18kHz,ダイナミック,-,22500,-,-
+mic-dyn-024,e 935,カーディオイドボーカル向けダイナミックマイク。XLR・国内正規品,単一指向性,XLR,40Hz-18kHz,ダイナミック,-,22600,-,-
+mic-dyn2-053,PGA48-XLR-J,Razer Seiren V2 Pro 30mm USBダイナミックマイク。ハイパスフィルター・アナログゲインリミッター搭載,単一指向性,XLR,70Hz-15kHz,ダイナミック,96kHz/24bit,7900,-,-
+mic-dyn2-055,e 845-S,スーパーカーディオイド・サイレントON/OFFスイッチ付きライブボーカル用,超単一指向性,XLR,40Hz-16kHz,ダイナミック,96kHz/24bit,14864,-,-
+mic-dyn2-056,D5S,TOA DM-1200ハンド型ダイナミックマイク DM-1200,超単一指向性,XLR,70Hz-20kHz,ダイナミック,-,14850,-,-
+mic-dyn2-059,PodMic,ポッドキャスト向けダイナミックマイク。XLR接続,単一指向性,XLR,20Hz-20kHz,ダイナミック,-,18000,-,-
+mic-dyn2-061,TOA DM-1200ハンド型ダイナミックマイク DM-1200,TOA DM-1200ハンド型ダイナミックマイク DM-1200,単一指向性,XLR,50Hz-12kHz,ダイナミック,-,12706,-,-
+mic-dyn2-074,PRO41,PRO41 ダイナミックマイク XLR/単一指向性マイク/ON/OFFスイッチ搭載/ボーカル/スピーチ/マイククランパー付属/マイクポーチ付属/XLRマイクケーブル付属 【国内正規品】,単一指向性,XLR,90Hz-16kHz,ダイナミック,-,8254,-,-
+mic-dyn2-075,CM5,CLASSIC PRO（クラシックプロ）ダイナミックマイク。単一指向性・XLR接続,単一指向性,AUX,15kHz,ダイナミック,-,2950,-,-
+mic-dyn2-076,XM1800S,Razer Seiren V2 Pro 30mm USBダイナミックマイク。ハイパスフィルター・アナログゲインリミッター搭載,単一指向性,XLR,50Hz-15kHz,ダイナミック,96kHz/24bit,6889,-,-
+mic-dyn2-079,Seiren V2 Pro,Razer Seiren V2 Pro 30mm USBダイナミックマイク。ハイパスフィルター・アナログゲインリミッター搭載,単一指向性,USB Type-C,20Hz-20kHz,ダイナミック,96kHz/24bit,18359,-,ノイズキャンセリング
+mic-dyn-nr-01,USB/XLR ダイナミックマイク,プロ用有線ダイナミックマイク。XLR接続・スーパーカーディオイド・スイッチなし（大型ライブステージ向け）,単一指向性,USB Type-C / XLR,50Hz-18kHz,ダイナミック,-,8800,-,-
+mic-dyn-nr-04,AC-930,プロ用有線ダイナミックマイク。XLR接続・スーパーカーディオイド・スイッチなし（大型ライブステージ向け）,超単一指向性,XLR,50Hz-18kHz,ダイナミック,-,17590,-,-

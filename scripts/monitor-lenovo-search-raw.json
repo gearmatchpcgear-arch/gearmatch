@@ -1,0 +1,857 @@
+{
+  "fetchedAt": "2026-08-14T13:11:35.336Z",
+  "sourceUrl": "https://www.amazon.co.jp/s?k=%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4&rh=p_n_g-101013577303111%3A18161464051%2Cp_123%3A391242",
+  "totalPages": 1,
+  "scrapeMethod": "browser",
+  "monitors": [
+    {
+      "amazonRank": 1,
+      "asin": "B0G42QB93M",
+      "price": 9900,
+      "rating": 4,
+      "reviews": 0,
+      "title": "【Amazon.co.jp限定】 Lenovo モニター L24-41 日本国内5年保証 / 23.8インチ / フルHD / IPSパネル / 100Hz / HDMI / VGA (D-Sub)",
+      "image": "https://m.media-amazon.com/images/I/71tdguv6GFL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 2,
+      "asin": "B0HBVT2TDK",
+      "price": 8800,
+      "rating": 4,
+      "reviews": 0,
+      "title": "【整備済み品】 Lenovo ThinkCentre Tiny-in-One 24 Gen 4 23.8インチ 液晶モニター フルHD (1920 x 1080) IPS 非光沢 内蔵Webカメラ",
+      "image": "https://m.media-amazon.com/images/I/61-xrY136pL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 3,
+      "asin": "B0G42NGPTD",
+      "price": 15180,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ゲーミングモニター Legion 24-15 23.8インチ / フルHD / Fast IPSパネル / 240Hz / 1ms (GtG) / HDMI 2.1×2 / DP 1.4×1 / HDR10 / AMD FreeSync Premium",
+      "image": "https://m.media-amazon.com/images/I/71Qcb3pfVEL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 4,
+      "asin": "B08QHYD2BP",
+      "price": null,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo 22.5インチ WUXGA (1920x1200) IPS 非光沢 ThinkVision T23d-10 61C3MAR6JP",
+      "image": ""
+    },
+    {
+      "amazonRank": 5,
+      "asin": "B0GK8H12LS",
+      "price": 15051,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ThinkVision C24-40 63DCKAR6JP 23.8インチ FHD VA 非光沢 HDMI mini D-Sub チルト VESA",
+      "image": ""
+    },
+    {
+      "amazonRank": 6,
+      "asin": "B0D32DXWWK",
+      "price": 8900,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo Japan ThinkVision S24e-20 62AEKAR2J9 23.8インチ",
+      "image": ""
+    },
+    {
+      "amazonRank": 7,
+      "asin": "B0CWL8TTVN",
+      "price": 8500,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ThinkVision S24e-10 61CAKAR1JP 23.8インチ (整備済み品)",
+      "image": ""
+    },
+    {
+      "amazonRank": 8,
+      "asin": "B0CVN7VL3F",
+      "price": 18300,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ゲーミングモニター R25f-30 24.5インチ VA FHD 240Hz 0.5ms 非光沢 チルト VESA 67B8GACBJP",
+      "image": ""
+    },
+    {
+      "amazonRank": 9,
+      "asin": "B0FKGD982B",
+      "price": 16800,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo Japan ThinkVision T23i-30 63B2MAR6JP (Renewed)",
+      "image": ""
+    },
+    {
+      "amazonRank": 10,
+      "asin": "B0BB6Y92GV",
+      "price": 22000,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo G25-20 ゲーミングモニター 24.5インチ 165Hz 0.8ms TN FHD 非光沢 高さ調整 VESA DisplayPortケーブル同梱",
+      "image": ""
+    },
+    {
+      "amazonRank": 11,
+      "asin": "B0DCNQBYP9",
+      "price": 25300,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo R25i-30 67B7GACBJP 24.5インチ IPS FHD 165Hz 0.5ms 非光沢 チルト VESA",
+      "image": ""
+    },
+    {
+      "amazonRank": 12,
+      "asin": "B0FPRKBD8J",
+      "price": 21208,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo L24-4e 23.8インチ IPS FHD 100Hz 4ms HDMI 1.4 VGA チルト",
+      "image": ""
+    },
+    {
+      "amazonRank": 13,
+      "asin": "B0GPC1QNKV",
+      "price": 54706,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ThinkVision P24QD-40 64B1GAR1JP 23.8インチ IPS WQHD 48-120Hz HDMI DisplayPort USB Type-C RJ45",
+      "image": ""
+    },
+    {
+      "amazonRank": 14,
+      "asin": "B07PS5YJ2H",
+      "price": null,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo Legion Y25f 24.5インチ ゲーミングモニター 65D9GAC4JP",
+      "image": ""
+    },
+    {
+      "amazonRank": 15,
+      "asin": "B0BT4ZL24J",
+      "price": 31800,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo Legion Y25g-30 24.5インチ FHD WLED ゲーミングLCDモニター",
+      "image": ""
+    },
+    {
+      "amazonRank": 16,
+      "asin": "B0CGLH1MD2",
+      "price": 23945,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo Japan ThinkVision T23i-30 63B2MAR6JP",
+      "image": ""
+    },
+    {
+      "amazonRank": 17,
+      "asin": "B0GK87J5L7",
+      "price": 33000,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ThinkVision T24-40 64A4MARXJP 23.8インチ IPS FHD HDMI VGA DisplayPort 高さ調整 ピボット",
+      "image": ""
+    },
+    {
+      "amazonRank": 18,
+      "asin": "B072ZCXNFN",
+      "price": 27500,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ThinkVision T24d-10 61B4MAR1JP",
+      "image": ""
+    },
+    {
+      "amazonRank": 19,
+      "asin": "B0BZWLJFTD",
+      "price": 34389,
+      "rating": 4,
+      "reviews": 0,
+      "title": "ThinkVision T24i-30 23.8インチ FHD WLED LCDモニター",
+      "image": ""
+    },
+    {
+      "amazonRank": 20,
+      "asin": "B07LGHWQ1C",
+      "price": 38006,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo 23.6インチ LEDモニター 62A0KAT1UK 1920×1080 1ms VGA HDMI VESA",
+      "image": ""
+    },
+    {
+      "amazonRank": 21,
+      "asin": "B08G1RNRWJ",
+      "price": 38045,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo D24-20 23.6インチ VA FHD VGA/HDMI 60Hz 1ms LCDモニター",
+      "image": ""
+    },
+    {
+      "amazonRank": 22,
+      "asin": "B0FQJPMZLJ",
+      "price": 32912,
+      "rating": 4,
+      "reviews": 0,
+      "title": "ThinkVision S24-4e 23.8インチ モニター",
+      "image": ""
+    },
+    {
+      "amazonRank": 23,
+      "asin": "B0D3QQ7MR8",
+      "price": 44292,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ThinkVision E24-30 24インチ FHD LEDモニター",
+      "image": ""
+    },
+    {
+      "amazonRank": 24,
+      "asin": "B0CLH7R3KY",
+      "price": 33409,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo R25i-30 24.5インチ FHD LEDディスプレイ",
+      "image": ""
+    },
+    {
+      "amazonRank": 25,
+      "asin": "B08DP5BNDH",
+      "price": 41327,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ThinkVision T23i-20 23インチ FHD IPS LED 6ms",
+      "image": ""
+    },
+    {
+      "amazonRank": 26,
+      "asin": "B098TSWSD8",
+      "price": 41508,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ThinkVision S24e-20 23.8インチ FHD VA WLED LCDモニター",
+      "image": ""
+    },
+    {
+      "amazonRank": 27,
+      "asin": "B0D29WH27Y",
+      "price": 47747,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ThinkVision E24-30 24インチ IPS FHD WLED",
+      "image": ""
+    },
+    {
+      "amazonRank": 28,
+      "asin": "B0CH7DVMX6",
+      "price": 41382,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo TS S24i-30 23.8インチ IPSモニター",
+      "image": ""
+    },
+    {
+      "amazonRank": 29,
+      "asin": "B0DZQ685Q3",
+      "price": 47263,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo Legion R24e 23.8インチ FHD 180Hz 1ms AMD FreeSync HDR HDMI 2.1 DP 1.4",
+      "image": ""
+    },
+    {
+      "amazonRank": 30,
+      "asin": "B0CGLKB7D7",
+      "price": 51279,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo Japan ThinkVision T24t-20 62C5GAR1JP",
+      "image": ""
+    },
+    {
+      "amazonRank": 31,
+      "asin": "B0BL6TK685",
+      "price": null,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo G24e-20 66D7GAR1JP 23.8インチ VA FHD 100-120Hz 1ms MPRT HDMIケーブル同梱",
+      "image": ""
+    },
+    {
+      "amazonRank": 32,
+      "asin": "B0CGLGPLPL",
+      "price": null,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo Japan ThinkVision S24e-20 62AEKAR2J9",
+      "image": ""
+    },
+    {
+      "amazonRank": 33,
+      "asin": "B0GQ39Q3KG",
+      "price": null,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ThinkVision E24q-30 23.8インチ QHD 63ECGAR2JP",
+      "image": ""
+    },
+    {
+      "amazonRank": 34,
+      "asin": "B08D6SKVVN",
+      "price": 59968,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo Q24h-10 23.8インチ QHD USB-C 75Hz 4ms AMD FreeSync スピーカー内蔵",
+      "image": ""
+    },
+    {
+      "amazonRank": 35,
+      "asin": "B0F8F1GXCV",
+      "price": null,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo L24-4e 23.8インチ FHD IPS 100Hz 4ms HDMI VGA HDMIケーブル同梱",
+      "image": ""
+    },
+    {
+      "amazonRank": 36,
+      "asin": "B0BTMNBSZ2",
+      "price": 49705,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ThinkVision P24q-30 24インチ WQHD LCDモニター",
+      "image": ""
+    },
+    {
+      "amazonRank": 37,
+      "asin": "B09C8CPQ2Y",
+      "price": 55520,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ThinkVision T24i-2L 23.8インチ FHD IPS 60Hz",
+      "image": ""
+    },
+    {
+      "amazonRank": 38,
+      "asin": "B0BT7MYZC8",
+      "price": 49525,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ThinkVision T22i-30 21.5インチ FHD WLED LCDモニター",
+      "image": ""
+    },
+    {
+      "amazonRank": 39,
+      "asin": "B0BDT5RKZD",
+      "price": 48353,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ThinkVision S24e-20 23.8インチ FHD USB Hub付き",
+      "image": ""
+    },
+    {
+      "amazonRank": 40,
+      "asin": "B0FPBDLRHV",
+      "price": 51148,
+      "rating": 4,
+      "reviews": 0,
+      "title": "ThinkVision T24-40 23.8インチ モニター",
+      "image": ""
+    },
+    {
+      "amazonRank": 41,
+      "asin": "B0FK2VJ5RQ",
+      "price": 62890,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ThinkVision 24インチ FHD IPS 4ms DisplayPort HDMI",
+      "image": ""
+    },
+    {
+      "amazonRank": 42,
+      "asin": "B0C3943YVG",
+      "price": 48234,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ThinkVision T24i-30 24インチ FHD",
+      "image": ""
+    },
+    {
+      "amazonRank": 43,
+      "asin": "B0BXHM5699",
+      "price": 46501,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ThinkVision T23i-30 23インチ FHD",
+      "image": ""
+    },
+    {
+      "amazonRank": 44,
+      "asin": "B08FBH31TM",
+      "price": 54151,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ThinkVision T24i-20 23.8インチ FHD WLED LCD",
+      "image": ""
+    },
+    {
+      "amazonRank": 45,
+      "asin": "B0C7HGFC37",
+      "price": 82671,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ThinkVision P24H-30 23.8インチ IPS 2560×1440 HDMI DP USB",
+      "image": ""
+    },
+    {
+      "amazonRank": 46,
+      "asin": "B0FK2W43ZM",
+      "price": 69047,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ThinkVision T24-40 24インチ FHD IPS DisplayPort HDMI",
+      "image": ""
+    },
+    {
+      "amazonRank": 47,
+      "asin": "B0BXH2P9Q9",
+      "price": 53573,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo T24v-30 24インチ LEDモニター",
+      "image": ""
+    }
+  ],
+  "excluded": [],
+  "raw": [
+    {
+      "amazonRank": 1,
+      "asin": "B0G42QB93M",
+      "price": 9900,
+      "rating": 4,
+      "reviews": 0,
+      "title": "【Amazon.co.jp限定】 Lenovo モニター L24-41 日本国内5年保証 / 23.8インチ / フルHD / IPSパネル / 100Hz / HDMI / VGA (D-Sub)",
+      "image": "https://m.media-amazon.com/images/I/71tdguv6GFL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 2,
+      "asin": "B0HBVT2TDK",
+      "price": 8800,
+      "rating": 4,
+      "reviews": 0,
+      "title": "【整備済み品】 Lenovo ThinkCentre Tiny-in-One 24 Gen 4 23.8インチ 液晶モニター フルHD (1920 x 1080) IPS 非光沢 内蔵Webカメラ",
+      "image": "https://m.media-amazon.com/images/I/61-xrY136pL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 3,
+      "asin": "B0G42NGPTD",
+      "price": 15180,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ゲーミングモニター Legion 24-15 23.8インチ / フルHD / Fast IPSパネル / 240Hz / 1ms (GtG) / HDMI 2.1×2 / DP 1.4×1 / HDR10 / AMD FreeSync Premium",
+      "image": "https://m.media-amazon.com/images/I/71Qcb3pfVEL._AC_SL1500_.jpg"
+    },
+    {
+      "amazonRank": 4,
+      "asin": "B08QHYD2BP",
+      "price": null,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo 22.5インチ WUXGA (1920x1200) IPS 非光沢 ThinkVision T23d-10 61C3MAR6JP",
+      "image": ""
+    },
+    {
+      "amazonRank": 5,
+      "asin": "B0GK8H12LS",
+      "price": 15051,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ThinkVision C24-40 63DCKAR6JP 23.8インチ FHD VA 非光沢 HDMI mini D-Sub チルト VESA",
+      "image": ""
+    },
+    {
+      "amazonRank": 6,
+      "asin": "B0D32DXWWK",
+      "price": 8900,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo Japan ThinkVision S24e-20 62AEKAR2J9 23.8インチ",
+      "image": ""
+    },
+    {
+      "amazonRank": 7,
+      "asin": "B0CWL8TTVN",
+      "price": 8500,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ThinkVision S24e-10 61CAKAR1JP 23.8インチ (整備済み品)",
+      "image": ""
+    },
+    {
+      "amazonRank": 8,
+      "asin": "B0CVN7VL3F",
+      "price": 18300,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ゲーミングモニター R25f-30 24.5インチ VA FHD 240Hz 0.5ms 非光沢 チルト VESA 67B8GACBJP",
+      "image": ""
+    },
+    {
+      "amazonRank": 9,
+      "asin": "B0FKGD982B",
+      "price": 16800,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo Japan ThinkVision T23i-30 63B2MAR6JP (Renewed)",
+      "image": ""
+    },
+    {
+      "amazonRank": 10,
+      "asin": "B0BB6Y92GV",
+      "price": 22000,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo G25-20 ゲーミングモニター 24.5インチ 165Hz 0.8ms TN FHD 非光沢 高さ調整 VESA DisplayPortケーブル同梱",
+      "image": ""
+    },
+    {
+      "amazonRank": 11,
+      "asin": "B0DCNQBYP9",
+      "price": 25300,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo R25i-30 67B7GACBJP 24.5インチ IPS FHD 165Hz 0.5ms 非光沢 チルト VESA",
+      "image": ""
+    },
+    {
+      "amazonRank": 12,
+      "asin": "B0FPRKBD8J",
+      "price": 21208,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo L24-4e 23.8インチ IPS FHD 100Hz 4ms HDMI 1.4 VGA チルト",
+      "image": ""
+    },
+    {
+      "amazonRank": 13,
+      "asin": "B0GPC1QNKV",
+      "price": 54706,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ThinkVision P24QD-40 64B1GAR1JP 23.8インチ IPS WQHD 48-120Hz HDMI DisplayPort USB Type-C RJ45",
+      "image": ""
+    },
+    {
+      "amazonRank": 14,
+      "asin": "B07PS5YJ2H",
+      "price": null,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo Legion Y25f 24.5インチ ゲーミングモニター 65D9GAC4JP",
+      "image": ""
+    },
+    {
+      "amazonRank": 15,
+      "asin": "B0BT4ZL24J",
+      "price": 31800,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo Legion Y25g-30 24.5インチ FHD WLED ゲーミングLCDモニター",
+      "image": ""
+    },
+    {
+      "amazonRank": 16,
+      "asin": "B0CGLH1MD2",
+      "price": 23945,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo Japan ThinkVision T23i-30 63B2MAR6JP",
+      "image": ""
+    },
+    {
+      "amazonRank": 17,
+      "asin": "B0GK87J5L7",
+      "price": 33000,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ThinkVision T24-40 64A4MARXJP 23.8インチ IPS FHD HDMI VGA DisplayPort 高さ調整 ピボット",
+      "image": ""
+    },
+    {
+      "amazonRank": 18,
+      "asin": "B072ZCXNFN",
+      "price": 27500,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ThinkVision T24d-10 61B4MAR1JP",
+      "image": ""
+    },
+    {
+      "amazonRank": 19,
+      "asin": "B0BZWLJFTD",
+      "price": 34389,
+      "rating": 4,
+      "reviews": 0,
+      "title": "ThinkVision T24i-30 23.8インチ FHD WLED LCDモニター",
+      "image": ""
+    },
+    {
+      "amazonRank": 20,
+      "asin": "B07LGHWQ1C",
+      "price": 38006,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo 23.6インチ LEDモニター 62A0KAT1UK 1920×1080 1ms VGA HDMI VESA",
+      "image": ""
+    },
+    {
+      "amazonRank": 21,
+      "asin": "B08G1RNRWJ",
+      "price": 38045,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo D24-20 23.6インチ VA FHD VGA/HDMI 60Hz 1ms LCDモニター",
+      "image": ""
+    },
+    {
+      "amazonRank": 22,
+      "asin": "B0FQJPMZLJ",
+      "price": 32912,
+      "rating": 4,
+      "reviews": 0,
+      "title": "ThinkVision S24-4e 23.8インチ モニター",
+      "image": ""
+    },
+    {
+      "amazonRank": 23,
+      "asin": "B0D3QQ7MR8",
+      "price": 44292,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ThinkVision E24-30 24インチ FHD LEDモニター",
+      "image": ""
+    },
+    {
+      "amazonRank": 24,
+      "asin": "B0CLH7R3KY",
+      "price": 33409,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo R25i-30 24.5インチ FHD LEDディスプレイ",
+      "image": ""
+    },
+    {
+      "amazonRank": 25,
+      "asin": "B08DP5BNDH",
+      "price": 41327,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ThinkVision T23i-20 23インチ FHD IPS LED 6ms",
+      "image": ""
+    },
+    {
+      "amazonRank": 26,
+      "asin": "B098TSWSD8",
+      "price": 41508,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ThinkVision S24e-20 23.8インチ FHD VA WLED LCDモニター",
+      "image": ""
+    },
+    {
+      "amazonRank": 27,
+      "asin": "B0D29WH27Y",
+      "price": 47747,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ThinkVision E24-30 24インチ IPS FHD WLED",
+      "image": ""
+    },
+    {
+      "amazonRank": 28,
+      "asin": "B0CH7DVMX6",
+      "price": 41382,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo TS S24i-30 23.8インチ IPSモニター",
+      "image": ""
+    },
+    {
+      "amazonRank": 29,
+      "asin": "B0DZQ685Q3",
+      "price": 47263,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo Legion R24e 23.8インチ FHD 180Hz 1ms AMD FreeSync HDR HDMI 2.1 DP 1.4",
+      "image": ""
+    },
+    {
+      "amazonRank": 30,
+      "asin": "B0CGLKB7D7",
+      "price": 51279,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo Japan ThinkVision T24t-20 62C5GAR1JP",
+      "image": ""
+    },
+    {
+      "amazonRank": 31,
+      "asin": "B0BL6TK685",
+      "price": null,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo G24e-20 66D7GAR1JP 23.8インチ VA FHD 100-120Hz 1ms MPRT HDMIケーブル同梱",
+      "image": ""
+    },
+    {
+      "amazonRank": 32,
+      "asin": "B0CGLGPLPL",
+      "price": null,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo Japan ThinkVision S24e-20 62AEKAR2J9",
+      "image": ""
+    },
+    {
+      "amazonRank": 33,
+      "asin": "B0GQ39Q3KG",
+      "price": null,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ThinkVision E24q-30 23.8インチ QHD 63ECGAR2JP",
+      "image": ""
+    },
+    {
+      "amazonRank": 34,
+      "asin": "B08D6SKVVN",
+      "price": 59968,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo Q24h-10 23.8インチ QHD USB-C 75Hz 4ms AMD FreeSync スピーカー内蔵",
+      "image": ""
+    },
+    {
+      "amazonRank": 35,
+      "asin": "B0F8F1GXCV",
+      "price": null,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo L24-4e 23.8インチ FHD IPS 100Hz 4ms HDMI VGA HDMIケーブル同梱",
+      "image": ""
+    },
+    {
+      "amazonRank": 36,
+      "asin": "B0BTMNBSZ2",
+      "price": 49705,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ThinkVision P24q-30 24インチ WQHD LCDモニター",
+      "image": ""
+    },
+    {
+      "amazonRank": 37,
+      "asin": "B09C8CPQ2Y",
+      "price": 55520,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ThinkVision T24i-2L 23.8インチ FHD IPS 60Hz",
+      "image": ""
+    },
+    {
+      "amazonRank": 38,
+      "asin": "B0BT7MYZC8",
+      "price": 49525,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ThinkVision T22i-30 21.5インチ FHD WLED LCDモニター",
+      "image": ""
+    },
+    {
+      "amazonRank": 39,
+      "asin": "B0BDT5RKZD",
+      "price": 48353,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ThinkVision S24e-20 23.8インチ FHD USB Hub付き",
+      "image": ""
+    },
+    {
+      "amazonRank": 40,
+      "asin": "B0FPBDLRHV",
+      "price": 51148,
+      "rating": 4,
+      "reviews": 0,
+      "title": "ThinkVision T24-40 23.8インチ モニター",
+      "image": ""
+    },
+    {
+      "amazonRank": 41,
+      "asin": "B0FK2VJ5RQ",
+      "price": 62890,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ThinkVision 24インチ FHD IPS 4ms DisplayPort HDMI",
+      "image": ""
+    },
+    {
+      "amazonRank": 42,
+      "asin": "B0C3943YVG",
+      "price": 48234,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ThinkVision T24i-30 24インチ FHD",
+      "image": ""
+    },
+    {
+      "amazonRank": 43,
+      "asin": "B0BXHM5699",
+      "price": 46501,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ThinkVision T23i-30 23インチ FHD",
+      "image": ""
+    },
+    {
+      "amazonRank": 44,
+      "asin": "B08FBH31TM",
+      "price": 54151,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ThinkVision T24i-20 23.8インチ FHD WLED LCD",
+      "image": ""
+    },
+    {
+      "amazonRank": 45,
+      "asin": "B0C7HGFC37",
+      "price": 82671,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ThinkVision P24H-30 23.8インチ IPS 2560×1440 HDMI DP USB",
+      "image": ""
+    },
+    {
+      "amazonRank": 46,
+      "asin": "B0FK2W43ZM",
+      "price": 69047,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo ThinkVision T24-40 24インチ FHD IPS DisplayPort HDMI",
+      "image": ""
+    },
+    {
+      "amazonRank": 47,
+      "asin": "B0BXH2P9Q9",
+      "price": 53573,
+      "rating": 4,
+      "reviews": 0,
+      "title": "Lenovo T24v-30 24インチ LEDモニター",
+      "image": ""
+    }
+  ]
+}

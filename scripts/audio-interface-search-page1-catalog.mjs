@@ -1,0 +1,30 @@
+/**
+ * Amazon.co.jp オーディオIF検索 1ページ目 (featured-rank, 4星以上)
+ * https://www.amazon.co.jp/s?i=mi&rh=n%3A2130084051%2Cp_72%3A4-&s=featured-rank
+ */
+export const AUDIO_INTERFACE_SEARCH_PAGE1_CATALOG = [
+  {"searchRank":1,"asin":"B0D8KBPVJR","title":"【Set Purchase】Audio Technica AT-UMX3 Audio Interface & BX3/3.0 BK Cannon Mic Cable XLR Streaming Equipment","rating":4.0,"reviews":0,"price":23400,"image":"https://m.media-amazon.com/images/I/41VhCLJHZYL._AC_SL1500_.jpg"},
+  {"searchRank":2,"asin":"B0C5JSHP7M","title":"Focusrite Scarlett Solo 4th Generation USB Audio Interface for Guitarists, Vocalists, and Producers High Fidelity Studio Quality Recording","rating":4.5,"reviews":2622,"price":18490,"image":"https://m.media-amazon.com/images/I/61wOuqJprgL._AC_SL1500_.jpg"},
+  {"searchRank":3,"asin":"B09VFDKDDM","title":"Yamaha AG03MK2 W Live Streaming Mixer, 3 Channels, White","rating":4.5,"reviews":1361,"price":25300,"image":"https://m.media-amazon.com/images/I/811ZI+pQBKL._AC_SL1500_.jpg"},
+  {"searchRank":4,"asin":"B0815V2N4X","title":"MOTU M2 2in 2out USB Audio Interface Domestic Genuine Product USB-DAC Gaming iPhone/iPad Compatible","rating":4.4,"reviews":418,"price":35970,"image":"https://m.media-amazon.com/images/I/511Ei9TIaBL._AC_SL1500_.jpg"},
+  {"searchRank":5,"asin":"B0CTJBGSNX","title":"Yamaha YAMAHA Game/Streaming Audio Mixer Game Streaming Mixer ZG02","rating":4.3,"reviews":196,"price":23555,"image":"https://m.media-amazon.com/images/I/61ocBLG8wvL._AC_SL1500_.jpg"},
+  {"searchRank":6,"asin":"B08Q1NJSBQ","title":"M-Audio USB Audio Interface M-Track Solo","rating":4.0,"reviews":7593,"price":6600,"image":"https://m.media-amazon.com/images/I/915NdoAXMoL._AC_SL1500_.jpg"},
+  {"searchRank":7,"asin":"B0B4J522TB","title":"Zoom AMS-22 Ultra Small Audio Interface | 2 in 2 out, loop back, smartphone connection","rating":4.1,"reviews":95,"price":9900,"image":"https://m.media-amazon.com/images/I/61Q3p4swhnL._AC_SL1500_.jpg"},
+  {"searchRank":8,"asin":"B081BVF3DH","title":"RME USB Audio Interface Babyface Pro FS [Domestic Genuine Product] Silver","rating":4.5,"reviews":167,"price":165000,"image":"https://m.media-amazon.com/images/I/51MGLR3FZlL._AC_SL1500_.jpg"},
+  {"searchRank":9,"asin":"B0CMCSH7HY","title":"Roland BRIDGE CAST/Gaming DAC Amp/Audio Interface/Streaming/Gaming Mixer","rating":4.4,"reviews":220,"price":37400,"image":"https://m.media-amazon.com/images/I/71pPkjFXhlL._AC_SL1500_.jpg"},
+  {"searchRank":10,"asin":"B0FC2SGNC1","title":"MAONO Gaming Streaming Equipment Set: Audio Interface Mixer, XLR Dynamic Microphone, RGB Lighting, MaonoCaster PD200XS&G1 NEO","rating":4.2,"reviews":0,"price":21999,"image":"https://m.media-amazon.com/images/I/71LEz+5VhPL._AC_SL1500_.jpg"},
+  {"searchRank":11,"asin":"B0FTLY42KJ","title":"Yamaha URX22C USB 3.1 Audio Interface, 32bit/192kHz, 2 in/2 Out, Loopback Function","rating":4.4,"reviews":24,"price":28600,"image":"https://m.media-amazon.com/images/I/51USc3RAoXL._AC_SL1500_.jpg"},
+  {"searchRank":12,"asin":"B09HKBPYQJ","title":"Arturia MiniFuse 1 Portable Audio Interface with Music Production Software, White","rating":4.3,"reviews":0,"price":12848,"image":"https://m.media-amazon.com/images/I/61htGqFBvzL._AC_SL1500_.jpg"},
+  {"searchRank":13,"asin":"B0G7X16LSR","title":"Zoom Podcast Recorder P4Next & Semi-Hard Case Set","rating":4.0,"reviews":0,"price":21661,"image":"https://m.media-amazon.com/images/I/51Wkixj8UgL._AC_SL1500_.jpg"},
+  {"searchRank":14,"asin":"B09WL44BK1","title":"YAMAHA / AG03MK2 WHITE AT2020 For iPhone Users Streaming/DTM Set - AT2020 Condenser Microphone","rating":4.1,"reviews":42,"price":42800,"image":"https://m.media-amazon.com/images/I/61AqGZPZUcL._AC_SL1500_.jpg"},
+  {"searchRank":15,"asin":"B0FTM85D18","title":"UNIVERSAL AUDIO Volt 876 USB Audio Interface Volt Series","rating":4.0,"reviews":0,"price":158500,"image":"https://m.media-amazon.com/images/I/61+rJn81H9L._AC_SL1500_.jpg"},
+  {"searchRank":16,"asin":"B0DJR86266","title":"Solid State Logic (SSL) Solid State Logic/SSL2 MkII Audio Interface","rating":4.3,"reviews":73,"price":36850,"image":"https://m.media-amazon.com/images/I/615U-87g8DL._AC_SL1500_.jpg"},
+  {"searchRank":17,"asin":"B0FTLW1PMF","title":"Yamaha UR12MK3W USB 2.0 Audio Interface, 24bit/192kHz, 2 in/2 Out, Loopback Function, White","rating":4.5,"reviews":0,"price":16500,"image":"https://m.media-amazon.com/images/I/61BBezxDh3L._AC_SL1500_.jpg"},
+  {"searchRank":18,"asin":"B0GK2HV2XZ","title":"Shure Audio Interface MVX2U (Second Generation) with Headphone Output XLR-USB Conversion Adapter USB-C","rating":4.7,"reviews":53,"price":21900,"image":"https://m.media-amazon.com/images/I/41Eplvd1F8L._AC_SL1500_.jpg"},
+  {"searchRank":19,"asin":"B0GQS4D34B","title":"Elgato Wave XLR MK.2 - XLR Microphone USB Audio Interface & DSP Mixer, 80dB Gain, Stream Deck Compatible","rating":5.0,"reviews":0,"price":28980,"image":"https://m.media-amazon.com/images/I/51Id1KNebzL._AC_SL1500_.jpg"},
+  {"searchRank":20,"asin":"B0H1W97B86","title":"DILVO Gaming Audio Mixer, Audio Interface, Bluetooth-Compatible, PC, PS4, PS5, iPhone, Podcast, RGB, XLR","rating":4.0,"reviews":17,"price":6980,"image":"https://m.media-amazon.com/images/I/61zTERrjpxL._AC_SL1500_.jpg"},
+  {"searchRank":21,"asin":"B0CSCRF8L1","title":"Roland BRIDGE CAST X/HDMI Video Capture/Gaming DAC Amplifier/Audio Interface","rating":4.3,"reviews":55,"price":68200,"image":"https://m.media-amazon.com/images/I/71RVf00wd-L._AC_SL1500_.jpg"},
+  {"searchRank":22,"asin":"B00GRSDKI8","title":"Steinberg 6 x 4 USB 2.0 Audio Interface UR44","rating":4.1,"reviews":0,"price":null,"image":"https://m.media-amazon.com/images/I/81NLLlNIVXL._AC_SL1500_.jpg"},
+  {"searchRank":23,"asin":"B0F2J1HPB6","title":"MAONO Gaming Audio Mixer Audio Interface Maonocaster E2 AU-E2 Mute Voice Changer Reverb XLR RGB","rating":4.2,"reviews":359,"price":9999,"image":"https://m.media-amazon.com/images/I/613n5TQ0FLL._AC_SL1500_.jpg"},
+  {"searchRank":24,"asin":"B00EK1OTZC","title":"BEHRINGER UM2 USB Audio Interface U-PHORIA","rating":4.1,"reviews":17563,"price":7700,"image":"https://m.media-amazon.com/images/I/61iou9KKssL._AC_SL1500_.jpg"},
+]

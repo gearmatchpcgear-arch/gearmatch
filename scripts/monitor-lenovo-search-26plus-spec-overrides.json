@@ -1,0 +1,93 @@
+{
+  "B0GR1RGFFZ": {
+    "name": "ThinkVision P27q-30",
+    "brand": "Lenovo",
+    "price": 76673,
+    "screenSize": "27 インチ",
+    "resolution": "2560 x 1440 (WQHD)",
+    "panel": "IPS",
+    "refreshRate": "60 Hz",
+    "responseTime": "4 ms",
+    "connection": "HDMI / DisplayPort / USB Type-C",
+    "features": "高さ調整 / ピボット / スワベル / VESA対応",
+    "tagline": "27\" WQHD IPS"
+  },
+  "B07988L39H": {
+    "name": "ThinkVision T22v",
+    "brand": "Lenovo",
+    "price": 70167,
+    "screenSize": "21.5 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "panel": "IPS",
+    "refreshRate": "60 Hz",
+    "responseTime": "6 ms",
+    "connection": "HDMI / DisplayPort / VGA (D-Sub)",
+    "features": "内蔵Webカメラ / 内蔵マイク / 高さ調整 / ピボット",
+    "tagline": "21.5\" FHD Webカメラ内蔵"
+  },
+  "B0BGQDTM53": {
+    "name": "Legion Y27q-30",
+    "brand": "Lenovo",
+    "price": 87869,
+    "screenSize": "27 インチ",
+    "resolution": "2560 x 1440 (WQHD)",
+    "panel": "IPS",
+    "refreshRate": "165 Hz",
+    "responseTime": "0.5 ms",
+    "connection": "HDMI 2.1 / DisplayPort 1.4",
+    "features": "AMD FreeSync Premium / HDR / 高さ調整 / ピボット / スワベル",
+    "tagline": "27\" WQHD IPS ゲーミング"
+  },
+  "B0H1PWX6SN": {
+    "name": "LOQ 27Q-10",
+    "brand": "Lenovo",
+    "screenSize": "27 インチ",
+    "resolution": "2560 x 1440 (QHD)",
+    "panel": "IPS",
+    "refreshRate": "180 Hz",
+    "responseTime": "1 ms (GtG)",
+    "connection": "HDMI / DisplayPort"
+  },
+  "B0G64CW3LL": {
+    "name": "Legion 27Q-15",
+    "brand": "Lenovo",
+    "screenSize": "27 インチ",
+    "resolution": "2560 x 1440 (QHD)",
+    "panel": "Fast IPS",
+    "refreshRate": "240 Hz",
+    "responseTime": "1 ms (GtG)",
+    "connection": "HDMI 2.1 ×2 / DisplayPort 1.4",
+    "features": "HDR10 / AMD FreeSync Premium / 高さ調整 / ピボット"
+  },
+  "B0G64DFTWR": {
+    "name": "Legion Pro 27Q-15",
+    "brand": "Lenovo",
+    "screenSize": "26.5 インチ",
+    "resolution": "2560 x 1440 (QHD)",
+    "panel": "QD-OLED",
+    "refreshRate": "280 Hz",
+    "responseTime": "0.03 ms (GtG)",
+    "connection": "HDMI 2.1 / DisplayPort 1.4",
+    "features": "DisplayHDR True Black 400 / AMD FreeSync Premium Pro"
+  },
+  "B0CGTK2RVK": {
+    "name": "Legion R27q-30",
+    "brand": "Lenovo",
+    "screenSize": "27 インチ",
+    "resolution": "2560 x 1440 (QHD)",
+    "panel": "IPS",
+    "refreshRate": "180 Hz",
+    "responseTime": "0.5 ms",
+    "connection": "HDMI 2.1 / DisplayPort 1.4",
+    "features": "AMD FreeSync Premium / 高さ調整 / ピボット / スワベル"
+  },
+  "B085S89955": {
+    "name": "ThinkVision T32p-20",
+    "brand": "Lenovo",
+    "screenSize": "31.5 インチ",
+    "resolution": "3840 x 2160 (4K UHD)",
+    "panel": "IPS",
+    "refreshRate": "60 Hz",
+    "connection": "HDMI / DisplayPort / USB Type-C"
+  }
+}

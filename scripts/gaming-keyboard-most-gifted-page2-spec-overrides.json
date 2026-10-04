@@ -1,0 +1,109 @@
+{
+  "B09N6MYQSN": {
+    "name": "Pulsar PCMK 2HE TKL",
+    "brand": "Pulsar",
+    "connection": "有線 USB (8000Hz)",
+    "layout": "テンキーレス（JIS 91キー）",
+    "internalStructure": "磁気スイッチ（ラピッドトリガー）",
+    "power": "有線給電",
+    "hasRapidTrigger": true
+  },
+  "B0DNSJSF2W": {
+    "name": "Pulsar PCMK 2HE TKL",
+    "brand": "Pulsar",
+    "connection": "有線 USB (8000Hz)",
+    "layout": "テンキーレス（JIS 91キー）",
+    "internalStructure": "磁気スイッチ（ラピッドトリガー）",
+    "power": "有線給電",
+    "hasRapidTrigger": true
+  },
+  "B0B5X5DB33": {
+    "name": "V-custom VK200S",
+    "brand": "エレコム",
+    "connection": "有線 USB",
+    "layout": "65%（JIS日本語配列・テンキーレス）",
+    "internalStructure": "メカニカル（銀軸）",
+    "power": "有線給電"
+  },
+  "B0BB6FVBFJ": {
+    "name": "V-custom VK200S",
+    "brand": "エレコム",
+    "connection": "有線 USB",
+    "layout": "65%（JIS日本語配列・テンキーレス）",
+    "internalStructure": "メカニカル（銀軸）",
+    "power": "有線給電"
+  },
+  "B0FGCDSH1J": {
+    "name": "Logicool G G515 RAPID TKL",
+    "brand": "Logicool G",
+    "connection": "有線 USB",
+    "layout": "テンキーレス（JIS日本語配列）",
+    "internalStructure": "磁気式（ラピッドトリガー）",
+    "power": "有線給電",
+    "hasRapidTrigger": true
+  },
+  "B0DW3V9L1T": {
+    "name": "RK ROYAL KLUDGE L75",
+    "brand": "RK ROYAL KLUDGE",
+    "connection": "Bluetooth / 2.4GHz / USB-C",
+    "layout": "75%（US配列・テンキーレス）",
+    "internalStructure": "メカニカル（ホットスワップ・ガスケット）",
+    "power": "充電式 (USB-C)"
+  },
+  "B09FY64KW7": {
+    "name": "Razer Huntsman V2",
+    "brand": "Razer",
+    "connection": "有線 USB",
+    "layout": "US英語配列",
+    "internalStructure": "オプティカル（リニア）",
+    "power": "有線給電"
+  },
+  "B08PZ4R15Z": {
+    "name": "Razer BlackWidow V3 JP",
+    "brand": "Razer",
+    "connection": "有線 USB",
+    "layout": "JIS日本語配列",
+    "internalStructure": "メカニカル（黄軸）",
+    "power": "有線給電"
+  },
+  "B0FC6CMFXH": {
+    "name": "YUNZII X98",
+    "brand": "YUNZII",
+    "connection": "Bluetooth / 2.4GHz / USB-C",
+    "layout": "98キー",
+    "internalStructure": "メカニカル（ホットスワップ・ガスケット）",
+    "power": "充電式 (USB-C)"
+  },
+  "B0BP7CT8SW": {
+    "name": "YUNZII YZ75",
+    "brand": "YUNZII",
+    "connection": "Bluetooth 5.0 / 2.4GHz / USB-C",
+    "layout": "75%",
+    "internalStructure": "メカニカル（ホットスワップ）",
+    "power": "充電式 (USB-C)"
+  },
+  "B097BXSJV9": {
+    "name": "ROCCAT Vulcan II Max JP",
+    "brand": "ROCCAT",
+    "connection": "有線 USB",
+    "layout": "フルサイズ（JIS日本語配列）",
+    "internalStructure": "オプティカル（リニア・静音）",
+    "power": "有線給電"
+  },
+  "B0CYQ2CKCC": {
+    "name": "AKS068pro",
+    "brand": "—",
+    "connection": "Bluetooth 5.0 / 2.4GHz / USB-C",
+    "layout": "68キー（アリス配列）",
+    "internalStructure": "メカニカル（ホットスワップ・ガスケット）",
+    "power": "充電式 (USB-C)"
+  },
+  "B0CCXR86L9": {
+    "name": "MAMBASNAKE K75",
+    "brand": "MAMBASNAKE",
+    "connection": "Bluetooth / 2.4GHz / USB-C",
+    "layout": "75%",
+    "internalStructure": "メカニカル（ホットスワップ・ガスケット）",
+    "power": "充電式 (USB-C)"
+  }
+}

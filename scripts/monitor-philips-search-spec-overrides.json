@@ -1,0 +1,259 @@
+{
+  "B094FMX5YB": {
+    "name": "243B9/11",
+    "brand": "PHILIPS",
+    "price": 16980,
+    "image": "https://m.media-amazon.com/images/I/71wK2Dw9+rS._AC_SL1500_.jpg",
+    "screenSize": "23.8 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "refreshRate": "60 Hz",
+    "connection": "VGA"
+  },
+  "B09FX72TT3": {
+    "brand": "PHILIPS",
+    "price": 7600,
+    "image": "https://m.media-amazon.com/images/I/61QarhoRemL._AC_SL1500_.jpg",
+    "screenSize": "23.6 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "refreshRate": "60 Hz",
+    "connection": "HDMI",
+    "weight": "3,660 g"
+  },
+  "B09PQHH6ST": {
+    "name": "223V7QJAB/11",
+    "brand": "PHILIPS",
+    "price": 7980,
+    "image": "https://m.media-amazon.com/images/I/61inRmQ8MJL._AC_SL1500_.jpg",
+    "screenSize": "21.5 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "refreshRate": "60 Hz",
+    "connection": "DisplayPort / HDMI / VGA",
+    "weight": "4,104 g"
+  },
+  "B0B7N2ML9L": {
+    "name": "272S1AE/11",
+    "brand": "PHILIPS",
+    "price": 16980,
+    "image": "https://m.media-amazon.com/images/I/71izkhFxpBL._AC_SL1500_.jpg",
+    "resolution": "1920 x 1080 (FHD)",
+    "connection": "HDMI"
+  },
+  "B0BTT3D43V": {
+    "brand": "PHILIPS",
+    "price": 49800,
+    "image": "https://m.media-amazon.com/images/I/717n9f7U5lL._AC_SL1500_.jpg",
+    "screenSize": "34 インチ",
+    "resolution": "3440 x 1440 (UWQHD)",
+    "refreshRate": "100 Hz",
+    "connection": "USB Type-C / DisplayPort / HDMI"
+  },
+  "B0BTT3M22X": {
+    "name": "271V8L/11",
+    "brand": "PHILIPS",
+    "price": 13675,
+    "image": "https://m.media-amazon.com/images/I/51sYG26NTOL._AC_SL1500_.jpg",
+    "screenSize": "27 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "refreshRate": "75 Hz",
+    "connection": "HDMI / VGA"
+  },
+  "B0BYRZQ7WN": {
+    "name": "273V7QDAB/11",
+    "brand": "PHILIPS",
+    "price": 13000,
+    "screenSize": "27 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "panel": "IPS",
+    "connection": "HDMI / VGA / DVI-D",
+    "weight": "5,814 g"
+  },
+  "B0CNQ2743P": {
+    "name": "45B1U6900CH/11",
+    "brand": "PHILIPS",
+    "price": 126645,
+    "image": "https://m.media-amazon.com/images/I/51qcHccxHIL._AC_SL1500_.jpg",
+    "screenSize": "44.5 インチ",
+    "resolution": "5120 x 1440 (DQHD)",
+    "refreshRate": "75 Hz",
+    "panel": "VA",
+    "connection": "DisplayPort / HDMI",
+    "weight": "12,960 g"
+  },
+  "B0CPBZMBKT": {
+    "name": "241S9A/11",
+    "brand": "PHILIPS",
+    "price": 11960,
+    "resolution": "1920 x 1080 (FHD)"
+  },
+  "B0CPC17DZ9": {
+    "name": "221S9A/11",
+    "brand": "PHILIPS",
+    "price": 9900,
+    "resolution": "1920 x 1080 (FHD)"
+  },
+  "B0D93LGMHR": {
+    "name": "27E1N1800A/11",
+    "brand": "PHILIPS",
+    "price": 26980,
+    "image": "https://m.media-amazon.com/images/I/61F0Ar51u+L._AC_SL1500_.jpg",
+    "screenSize": "27 インチ",
+    "resolution": "3840 x 2160 (4K UHD)",
+    "refreshRate": "60 Hz",
+    "panel": "IPS",
+    "connection": "DisplayPort / HDMI",
+    "weight": "4,350 g"
+  },
+  "B0DCNN7G7V": {
+    "name": "27M2N3500NL/11",
+    "brand": "PHILIPS",
+    "price": 20707,
+    "image": "https://m.media-amazon.com/images/I/616DrmKM9xL._AC_SL1500_.jpg",
+    "screenSize": "27 インチ",
+    "resolution": "2560 x 1440 (QHD)",
+    "refreshRate": "180 Hz",
+    "panel": "VA",
+    "connection": "DisplayPort / HDMI",
+    "weight": "4,340 g"
+  },
+  "B0F1QY415D": {
+    "name": "27E1N5500B/11",
+    "brand": "PHILIPS",
+    "price": 24400,
+    "image": "https://m.media-amazon.com/images/I/81sCQZxfyEL._AC_SL1500_.jpg",
+    "screenSize": "27 インチ",
+    "resolution": "2560 x 1440 (QHD)",
+    "refreshRate": "100 Hz",
+    "panel": "IPS",
+    "connection": "DisplayPort / HDMI",
+    "weight": "5,590 g"
+  },
+  "B0FC2JWSMN": {
+    "name": "16B1P3320/11",
+    "brand": "PHILIPS",
+    "price": 16980,
+    "image": "https://m.media-amazon.com/images/I/71-R1VTUFFL._AC_SL1500_.jpg",
+    "screenSize": "15.6 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "refreshRate": "60 Hz",
+    "panel": "IPS",
+    "connection": "USB Type-C / HDMI / Micro HDMI",
+    "weight": "1,030 g"
+  },
+  "B0FCQPC9FQ": {
+    "name": "24E1N2300AE/11",
+    "brand": "PHILIPS",
+    "price": 19506,
+    "image": "https://m.media-amazon.com/images/I/618NtTAWhhL._AC_SL1500_.jpg",
+    "screenSize": "23.8 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "refreshRate": "120 Hz",
+    "panel": "IPS",
+    "connection": "USB Type-C / HDMI",
+    "weight": "4,680 g"
+  },
+  "B0FH22XCQL": {
+    "name": "32E1N1800LA/11",
+    "brand": "PHILIPS",
+    "price": 35475,
+    "image": "https://m.media-amazon.com/images/I/61W0lMfphCL._AC_SL1500_.jpg",
+    "screenSize": "31.5 インチ",
+    "resolution": "3840 x 2160 (4K UHD)",
+    "refreshRate": "60 Hz",
+    "panel": "VA",
+    "connection": "DisplayPort / HDMI",
+    "weight": "7,390 g"
+  },
+  "B0FH24FR2N": {
+    "name": "24E2N2100/11",
+    "brand": "PHILIPS",
+    "price": 11480,
+    "image": "https://m.media-amazon.com/images/I/71ymH71qeEL._AC_SL1500_.jpg",
+    "screenSize": "23.8 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "refreshRate": "120 Hz",
+    "panel": "IPS",
+    "connection": "HDMI / VGA",
+    "weight": "2,460 g"
+  },
+  "B0FV856B9M": {
+    "name": "24E1N2100D/11",
+    "brand": "PHILIPS",
+    "price": 12800,
+    "image": "https://m.media-amazon.com/images/I/61kUfLQOfkL._AC_SL1500_.jpg",
+    "screenSize": "23.8 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "refreshRate": "120 Hz",
+    "panel": "IPS",
+    "connection": "HDMI / VGA / DVI-D",
+    "weight": "2,910 g"
+  },
+  "B0G91LKMV9": {
+    "name": "34B2U3600C/11",
+    "brand": "PHILIPS",
+    "price": 54930,
+    "image": "https://m.media-amazon.com/images/I/717IyOgxReL._AC_SL1500_.jpg",
+    "screenSize": "34 インチ",
+    "resolution": "3440 x 1440 (UWQHD)",
+    "refreshRate": "120 Hz",
+    "panel": "VA",
+    "connection": "USB Type-C / DisplayPort / HDMI",
+    "weight": "10,400 g"
+  },
+  "B0GTXXZF6W": {
+    "name": "27B1U3900/11",
+    "brand": "PHILIPS",
+    "price": 42222,
+    "image": "https://m.media-amazon.com/images/I/81ktOEV6TSL._AC_SL1500_.jpg",
+    "screenSize": "27 インチ",
+    "resolution": "3840 x 2160 (4K UHD)",
+    "refreshRate": "60 Hz",
+    "panel": "IPS",
+    "connection": "USB Type-C / DisplayPort / HDMI",
+    "weight": "6,650 g"
+  },
+  "B0GTY2H5TK": {
+    "name": "32B1U3900/11",
+    "brand": "PHILIPS",
+    "price": 53334,
+    "image": "https://m.media-amazon.com/images/I/81PkqMs2wUL._AC_SL1500_.jpg",
+    "screenSize": "31.5 インチ",
+    "resolution": "3840 x 2160 (4K UHD)",
+    "refreshRate": "60 Hz",
+    "panel": "IPS",
+    "connection": "USB Type-C / DisplayPort / HDMI",
+    "weight": "11,470 g"
+  },
+  "B0GVY6JKYJ": {
+    "name": "27E2G5600W/11",
+    "brand": "PHILIPS",
+    "price": 26557,
+    "image": "https://m.media-amazon.com/images/I/610pDu0OZaL._AC_SL1500_.jpg",
+    "screenSize": "27 インチ",
+    "resolution": "2560 x 1440 (QHD)",
+    "refreshRate": "144 Hz",
+    "panel": "IPS",
+    "connection": "USB Type-C"
+  },
+  "B0GZSG3ZB8": {
+    "name": "243V7",
+    "brand": "PHILIPS",
+    "price": 8180,
+    "image": "https://m.media-amazon.com/images/I/61tPbTtkOyL._AC_SL1500_.jpg",
+    "screenSize": "23.8 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "refreshRate": "60 Hz",
+    "panel": "IPS",
+    "connection": "DisplayPort / HDMI / VGA"
+  },
+  "B0GZSQ3NC8": {
+    "name": "273V7QDAB/11",
+    "brand": "PHILIPS",
+    "price": 12800,
+    "image": "https://m.media-amazon.com/images/I/61n2X3ch7AL._AC_SL1500_.jpg",
+    "screenSize": "27 インチ",
+    "resolution": "1920 x 1080 (FHD)",
+    "refreshRate": "60 Hz",
+    "panel": "IPS",
+    "connection": "HDMI / VGA / DVI-D"
+  }
+}

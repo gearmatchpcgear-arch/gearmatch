@@ -1,0 +1,407 @@
+{
+  "B0CVRGCGWJ": {
+    "name": "Viper V3 Pro",
+    "brand": "Razer",
+    "connection": "2.4GHz (HyperSpeed) / USB-C",
+    "reading": "光学式（Focus Pro 35K）",
+    "power": "充電式 (USB-C)",
+    "weight": "55 g",
+    "buttonCount": "6"
+  },
+  "B0CVRTT6L1": {
+    "name": "Viper V3 Pro White Edition",
+    "brand": "Razer",
+    "connection": "2.4GHz (HyperSpeed) / USB-C",
+    "reading": "光学式（Focus Pro 35K）",
+    "power": "充電式 (USB-C)",
+    "weight": "55 g",
+    "buttonCount": "6"
+  },
+  "B0GLM7WKVH": {
+    "name": "Viper V4 Pro",
+    "brand": "Razer",
+    "connection": "2.4GHz (HyperSpeed) / USB-C",
+    "reading": "光学式（Focus Pro）",
+    "power": "充電式 (USB-C)",
+    "weight": "49 g",
+    "buttonCount": "6"
+  },
+  "B0DRJ8FC3B": {
+    "name": "Mercury X Pro",
+    "brand": "GravaStar",
+    "connection": "2.4GHz (USBレシーバー) / Bluetooth / USB-C",
+    "reading": "光学式（PAW3950）",
+    "power": "充電式 (USB-C)",
+    "weight": "49 g",
+    "buttonCount": "6"
+  },
+  "B0D8KDFVK8": {
+    "name": "M6",
+    "brand": "Keychron",
+    "connection": "Bluetooth 5.3 / 2.4GHz (USBレシーバー) / USB-C",
+    "reading": "光学式（PAW3395）",
+    "power": "充電式 (USB-C)",
+    "weight": "63 g",
+    "buttonCount": "6"
+  },
+  "B0FP2D8DW6": {
+    "name": "M6",
+    "brand": "Keychron",
+    "connection": "Bluetooth 5.3 / 2.4GHz (USBレシーバー) / USB-C",
+    "reading": "光学式（PAW3395）",
+    "power": "充電式 (USB-C)",
+    "weight": "63 g",
+    "buttonCount": "6"
+  },
+  "B0GPDC376L": {
+    "name": "AJ139 V2 MC",
+    "brand": "Ajazz",
+    "connection": "Bluetooth / 2.4GHz / USB-C",
+    "reading": "光学式（PAW3311）",
+    "power": "充電式 (USB-C)",
+    "weight": "66 g",
+    "buttonCount": "6"
+  },
+  "B0GZNSNRKK": {
+    "name": "AJ159PMCPRO",
+    "brand": "Ajazz",
+    "connection": "2.4GHz / USB-C",
+    "reading": "光学式（PAW3311）",
+    "power": "充電式 (USB-C)",
+    "weight": "57 g",
+    "buttonCount": "6"
+  },
+  "B0H66GSNDW": {
+    "name": "AJ200NLAIMC",
+    "brand": "Ajazz",
+    "connection": "Bluetooth / 2.4GHz / USB-C",
+    "reading": "光学式（PAW3311）",
+    "power": "充電式 (USB-C)",
+    "weight": "61 g",
+    "buttonCount": "6"
+  },
+  "B0H7RCMG3X": {
+    "name": "AJ200NLAIMC",
+    "brand": "Ajazz",
+    "connection": "Bluetooth / 2.4GHz / USB-C",
+    "reading": "光学式（PAW3311）",
+    "power": "充電式 (USB-C)",
+    "weight": "61 g",
+    "buttonCount": "6"
+  },
+  "B0GY3BPFST": {
+    "name": "R1",
+    "brand": "MAGIC-REFINER",
+    "connection": "2.4GHz / USB-C",
+    "reading": "光学式",
+    "power": "充電式 (USB-C)",
+    "weight": "65 g",
+    "buttonCount": "6"
+  },
+  "B0GYNR4NHP": {
+    "name": "R1",
+    "brand": "MAGIC-REFINER",
+    "connection": "2.4GHz / USB-C",
+    "reading": "光学式",
+    "power": "充電式 (USB-C)",
+    "weight": "65 g",
+    "buttonCount": "6"
+  },
+  "B0H6SC44MQ": {
+    "name": "RS3 ULTRA",
+    "brand": "ATTACK SHARK",
+    "connection": "2.4GHz (USBレシーバー) / USB-C",
+    "reading": "光学式（PAW3955）",
+    "power": "充電式 (USB-C)",
+    "weight": "—",
+    "buttonCount": "6"
+  },
+  "B0FH6X16SF": {
+    "name": "AE7 PRO",
+    "brand": "DAREU",
+    "connection": "2.4GHz (USBレシーバー) / USB-C",
+    "reading": "光学式",
+    "power": "充電式 (USB-C)",
+    "weight": "62 g",
+    "buttonCount": "6"
+  },
+  "B0GTYXXGD3": {
+    "name": "AE7 PRO",
+    "brand": "DAREU",
+    "connection": "2.4GHz (USBレシーバー) / USB-C",
+    "reading": "光学式",
+    "power": "充電式 (USB-C)",
+    "weight": "62 g",
+    "buttonCount": "6"
+  },
+  "B0GYNMMNX5": {
+    "name": "Stormbreaker V3",
+    "brand": "PWNAGE",
+    "connection": "2.4GHz (USBレシーバー) / USB-C",
+    "reading": "光学式",
+    "power": "充電式 (USB-C)",
+    "weight": "—",
+    "buttonCount": "5"
+  },
+  "B0H1BGXGYQ": {
+    "name": "KO-ONE WHITE",
+    "brand": "CRDRAKO",
+    "connection": "2.4GHz (USBレシーバー) / USB-C",
+    "reading": "光学式",
+    "power": "充電式 (USB-C)",
+    "weight": "35 g",
+    "buttonCount": "5"
+  },
+  "B0G3PM7JBD": {
+    "name": "KO-ONE BLACK",
+    "brand": "CRDRAKO",
+    "connection": "2.4GHz (USBレシーバー) / USB-C",
+    "reading": "光学式",
+    "power": "充電式 (USB-C)",
+    "weight": "35 g",
+    "buttonCount": "5"
+  },
+  "B0H1BYJLQ2": {
+    "name": "KO-ONE BLACK",
+    "brand": "CRDRAKO",
+    "connection": "2.4GHz (USBレシーバー) / USB-C",
+    "reading": "光学式",
+    "power": "充電式 (USB-C)",
+    "weight": "35 g",
+    "buttonCount": "5"
+  },
+  "B0GW1BKC59": {
+    "name": "UltralightX Frostlord",
+    "brand": "Finalmouse",
+    "connection": "2.4GHz (USBレシーバー)",
+    "reading": "光学式",
+    "power": "充電式 (USB-C)",
+    "weight": "—",
+    "buttonCount": "5"
+  },
+  "B0FGX8N9KP": {
+    "name": "DeathAdder V4 Pro",
+    "brand": "Razer",
+    "connection": "2.4GHz (HyperSpeed) / USB-C",
+    "reading": "光学式（Focus Pro）",
+    "power": "充電式 (USB-C)",
+    "weight": "56 g",
+    "buttonCount": "6"
+  },
+  "B0GV244HTD": {
+    "name": "DeathAdder V4 Pro NiKo Edition",
+    "brand": "Razer",
+    "connection": "2.4GHz (HyperSpeed) / USB-C",
+    "reading": "光学式（Focus Pro）",
+    "power": "充電式 (USB-C)",
+    "weight": "56 g",
+    "buttonCount": "6"
+  },
+  "B0GZ81FN4M": {
+    "name": "VM-V1",
+    "brand": "VARO",
+    "connection": "Bluetooth / 2.4GHz / USB-C",
+    "reading": "光学式",
+    "power": "充電式 (USB-C)",
+    "weight": "45 g",
+    "buttonCount": "6"
+  },
+  "B0GY52YRYL": {
+    "name": "M2",
+    "brand": "TMKB",
+    "connection": "Bluetooth / 2.4GHz / USB-C",
+    "reading": "光学式",
+    "power": "充電式 (USB-C)",
+    "weight": "—",
+    "buttonCount": "6"
+  },
+  "B0H3STF4DH": {
+    "name": "CRC-GMRGB03_FP",
+    "brand": "Century",
+    "connection": "有線 USB",
+    "reading": "光学式",
+    "power": "有線給電",
+    "weight": "—",
+    "buttonCount": "12"
+  },
+  "B0GZFTP12B": {
+    "name": "iClever Gaming Mouse",
+    "brand": "iClever",
+    "connection": "有線 USB",
+    "reading": "光学式",
+    "power": "有線給電",
+    "weight": "—",
+    "buttonCount": "6"
+  },
+  "B0GTLHS4RQ": {
+    "name": "iClever Gaming Mouse",
+    "brand": "iClever",
+    "connection": "有線 USB",
+    "reading": "光学式",
+    "power": "有線給電",
+    "weight": "—",
+    "buttonCount": "6"
+  },
+  "B0DBQC2YP6": {
+    "name": "M814",
+    "brand": "Redragon",
+    "connection": "Bluetooth / 2.4GHz / USB-C",
+    "reading": "光学式",
+    "power": "充電式 (USB-C)",
+    "weight": "—",
+    "buttonCount": "7"
+  },
+  "B0H38KKFF3": {
+    "name": "M814",
+    "brand": "Redragon",
+    "connection": "Bluetooth / 2.4GHz / USB-C",
+    "reading": "光学式",
+    "power": "充電式 (USB-C)",
+    "weight": "—",
+    "buttonCount": "7"
+  },
+  "B0H4X9J6JS": {
+    "name": "IRONCLAW WIRELESS SE",
+    "brand": "CORSAIR",
+    "connection": "2.4GHz (USBレシーバー) / Bluetooth",
+    "reading": "光学式",
+    "power": "充電式 (USB-C)",
+    "weight": "—",
+    "buttonCount": "6"
+  },
+  "B0G3QF1GGW": {
+    "name": "IRONCLAW WIRELESS SE",
+    "brand": "CORSAIR",
+    "connection": "2.4GHz (USBレシーバー) / Bluetooth",
+    "reading": "光学式",
+    "power": "充電式 (USB-C)",
+    "weight": "—",
+    "buttonCount": "6"
+  },
+  "B0GNM9S22Q": {
+    "name": "Aerox 3 WL Gen 2 Shadow",
+    "brand": "SteelSeries",
+    "connection": "Bluetooth / 2.4GHz / USB-C",
+    "reading": "光学式",
+    "power": "充電式 (USB-C)",
+    "weight": "—",
+    "buttonCount": "6"
+  },
+  "B0GXZHRJR3": {
+    "name": "Orochi V2",
+    "brand": "Razer",
+    "connection": "2.4GHz (HyperSpeed) / Bluetooth",
+    "reading": "光学式",
+    "power": "単3形 乾電池×1",
+    "weight": "—",
+    "buttonCount": "6"
+  },
+  "B0FXCCV2NQ": {
+    "name": "FORGE GM340 W",
+    "brand": "MSI",
+    "connection": "2.4GHz (USBレシーバー)",
+    "reading": "光学式",
+    "power": "充電式 (USB-C)",
+    "weight": "—",
+    "buttonCount": "6"
+  },
+  "B0H8N5P4NQ": {
+    "name": "RS3 ULTRA",
+    "brand": "ATTACK SHARK",
+    "connection": "2.4GHz (USBレシーバー) / USB-C",
+    "reading": "光学式（PAW3955）",
+    "power": "充電式 (USB-C)",
+    "weight": "—",
+    "buttonCount": "6"
+  },
+  "B0H6Q55DZQ": {
+    "name": "RS3 ULTRA",
+    "brand": "ATTACK SHARK",
+    "connection": "2.4GHz (USBレシーバー) / USB-C",
+    "reading": "光学式（PAW3955）",
+    "power": "充電式 (USB-C)",
+    "weight": "—",
+    "buttonCount": "6"
+  },
+  "B0GV6TB77V": {
+    "name": "RS3 Ultra",
+    "brand": "ATTACK SHARK",
+    "connection": "2.4GHz (USBレシーバー) / USB-C",
+    "reading": "光学式",
+    "power": "充電式 (USB-C)",
+    "weight": "—",
+    "buttonCount": "6"
+  },
+  "B0GV6CWR64": {
+    "name": "RS3 Ultra",
+    "brand": "ATTACK SHARK",
+    "connection": "2.4GHz (USBレシーバー) / USB-C",
+    "reading": "光学式",
+    "power": "充電式 (USB-C)",
+    "weight": "—",
+    "buttonCount": "6"
+  },
+  "B0H6Q294XN": {
+    "name": "RS3 Ultra",
+    "brand": "ATTACK SHARK",
+    "connection": "2.4GHz (USBレシーバー) / USB-C",
+    "reading": "光学式",
+    "power": "充電式 (USB-C)",
+    "weight": "—",
+    "buttonCount": "6"
+  },
+  "B0H3ZXTK76": {
+    "name": "Basilisk V3 Pro White",
+    "brand": "Razer",
+    "connection": "2.4GHz (HyperSpeed) / Bluetooth / USB-C",
+    "reading": "光学式（Focus Pro 30K）",
+    "power": "充電式 (USB-C)",
+    "weight": "—",
+    "buttonCount": "6"
+  },
+  "B0BSTNXYHR": {
+    "name": "Basilisk V3 Pro White",
+    "brand": "Razer",
+    "connection": "2.4GHz (HyperSpeed) / Bluetooth / USB-C",
+    "reading": "光学式（Focus Pro 30K）",
+    "power": "充電式 (USB-C)",
+    "weight": "—",
+    "buttonCount": "6"
+  },
+  "B0GTX55LJY": {
+    "name": "Cobra Cinnamonroll Edition",
+    "brand": "Razer",
+    "connection": "有線 USB",
+    "reading": "光学式",
+    "power": "有線給電",
+    "weight": "58 g",
+    "buttonCount": "6"
+  },
+  "B0BW414LJL": {
+    "name": "Naga V2 Pro",
+    "brand": "Razer",
+    "connection": "2.4GHz (HyperSpeed) / Bluetooth",
+    "reading": "光学式",
+    "power": "充電式 (USB-C)",
+    "weight": "134 g",
+    "buttonCount": "19"
+  },
+  "B0GX3LLQGR": {
+    "name": "Viper V3 Pro SE",
+    "brand": "Razer",
+    "connection": "2.4GHz (HyperSpeed) / USB-C",
+    "reading": "光学式（Focus Pro 35K）",
+    "power": "充電式 (USB-C)",
+    "weight": "54 g",
+    "buttonCount": "6"
+  },
+  "B0GC5BKR24": {
+    "name": "Viper V3 Pro SE",
+    "brand": "Razer",
+    "connection": "2.4GHz (HyperSpeed) / USB-C",
+    "reading": "光学式（Focus Pro 35K）",
+    "power": "充電式 (USB-C)",
+    "weight": "54 g",
+    "buttonCount": "6"
+  }
+}
