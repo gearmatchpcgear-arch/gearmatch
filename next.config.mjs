@@ -1,5 +1,7 @@
 /** @type {import('next').NextConfig} */
+/** Cloudflare Pages: ビルド `pnpm run build`、出力ディレクトリ `out` */
 const nextConfig = {
+  output: "export",
   typescript: {
     ignoreBuildErrors: true,
   },
