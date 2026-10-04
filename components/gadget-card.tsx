@@ -1,7 +1,7 @@
 "use client"
 
 import { memo, useMemo } from "react"
-import { Star, Plus, Check, Trash2 } from "lucide-react"
+import { Star, Plus, Check } from "lucide-react"
 import { cn } from "@/lib/utils"
 import {
   formatPrice,
@@ -57,7 +57,6 @@ export const GadgetCard = memo(function GadgetCard({
   gadget,
   size = "large",
   onOpen,
-  onDelete,
   onToggleCompare,
   isComparing,
   compareDisabled,
@@ -65,7 +64,6 @@ export const GadgetCard = memo(function GadgetCard({
   gadget: Gadget
   size?: CardSize
   onOpen: (gadgetId: string) => void
-  onDelete: (gadgetId: string) => void
   onToggleCompare: (gadgetId: string) => void
   isComparing: boolean
   compareDisabled: boolean
@@ -96,7 +94,7 @@ export const GadgetCard = memo(function GadgetCard({
         <div
           className={cn(
             "pointer-events-none absolute z-10 flex flex-col items-start gap-1",
-            isSmall ? "left-1.5 top-1.5 max-w-[calc(100%-4.5rem)]" : "left-2.5 top-2.5 max-w-[calc(100%-5.5rem)]",
+            isSmall ? "left-1.5 top-1.5 max-w-[calc(100%-2.5rem)]" : "left-2.5 top-2.5 max-w-[calc(100%-3rem)]",
           )}
         >
           <span className={cn(badgeClassName, isSmall && "px-1.5 text-[8px]")}>{displayBadge}</span>
@@ -109,20 +107,6 @@ export const GadgetCard = memo(function GadgetCard({
           isSmall ? "right-1.5 top-1.5 gap-1" : "right-2.5 top-2.5 gap-1.5",
         )}
       >
-        <button
-          type="button"
-          onClick={(event) => {
-            event.stopPropagation()
-            onDelete(gadget.id)
-          }}
-          aria-label={`${gadget.name} を一覧から削除`}
-          className={cn(
-            "inline-flex items-center justify-center rounded-full bg-card/95 text-muted-foreground shadow-sm ring-1 ring-border/60 backdrop-blur transition-colors hover:bg-destructive/10 hover:text-destructive",
-            isSmall ? "size-6" : "size-7",
-          )}
-        >
-          <Trash2 className={isSmall ? "size-3" : "size-3.5"} />
-        </button>
         <button
           type="button"
           onClick={(event) => {

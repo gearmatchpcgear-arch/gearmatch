@@ -615,7 +615,6 @@ export function GadgetExplorer() {
                   gadget={g}
                   size={cardSize}
                   onOpen={handleOpenGadget}
-                  onDelete={handleDeleteGadget}
                   onToggleCompare={toggleCompare}
                   isComparing={compareIdSet.has(g.id)}
                   compareDisabled={compareAtMax}
