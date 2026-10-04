@@ -1672,7 +1672,8 @@ export const mousePopularBrands: Gadget[] = [
     category: "mouse",
     name: "Razer Cobra Gengar Edition - Lightweight Wired Gaming Mouse - 8500 DP…",
     brand: "Razer",
-    tagline: "Razer Cobra Gengar Edition - Lightweight Wired Gaming Mouse - 8500 DPI Sensor - 58g - 3rd Generation Optical Mouse Switch - Chroma Lighti…",
+    tagline:
+      "軽量有線ゲーミングマウス - 8500 DPIセンサー - 58g - 第3世代光学式マウススイッチ - クロマライティング - スピードフレックスケーブル - PC/MAC | ポケモンゲンガー",
     price: 10825,
     rating: 4.9,
     reviews: 73,

@@ -2,7 +2,7 @@
 
 import { useEffect } from "react"
 import { cn } from "@/lib/utils"
-import { X, Star, Cable, Trash2 } from "lucide-react"
+import { X, Star, Cable } from "lucide-react"
 import { CompatPill } from "@/components/compat-pill"
 import { GadgetImage } from "@/components/gadget-image"
 import { ShopLink } from "@/components/shop-link"
@@ -42,11 +42,9 @@ const detailTextClass =
 export function GadgetDetail({
   gadget,
   onClose,
-  onDelete,
 }: {
   gadget: Gadget | null
   onClose: () => void
-  onDelete: (gadgetId: string) => void
 }) {
   useEffect(() => {
     if (!gadget) return
@@ -185,15 +183,7 @@ export function GadgetDetail({
               <p className="mt-1.5 text-sm text-muted-foreground">{getReviewDisplayLabel(gadget)}</p>
             )}
           </div>
-          <div className="flex shrink-0 items-center gap-1.5">
-            <button
-              type="button"
-              onClick={() => onDelete(gadget.id)}
-              aria-label={`${gadget.name} を一覧から削除`}
-              className="inline-flex size-9 items-center justify-center rounded-full bg-secondary text-muted-foreground transition-colors hover:bg-destructive/10 hover:text-destructive"
-            >
-              <Trash2 className="size-4" />
-            </button>
+          <div className="flex shrink-0 items-center">
             <button
               type="button"
               onClick={onClose}

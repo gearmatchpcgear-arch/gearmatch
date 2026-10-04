@@ -45,8 +45,6 @@ import {
 } from "@/lib/price-filter"
 import { gadgetMatchesSearchQuery, getGadgetSearchHaystack } from "@/lib/gadget-search"
 
-const LEGACY_HIDDEN_GADGET_IDS_STORAGE_KEY = "gadget-comparison:hidden-gadget-ids"
-
 const MAX_COMPARE_ITEMS = 10
 const DEFAULT_ITEMS_PER_PAGE = 24
 const SMALL_CARD_ITEMS_PER_PAGE = 100
@@ -191,32 +189,6 @@ export function GadgetExplorer() {
   const [showCompare, setShowCompare] = useState(false)
   const [visibleCount, setVisibleCount] = useState(() => getItemsPerPage("large"))
   const listableGadgets = useMemo(() => getListableGadgets(gadgets, false), [])
-
-  useEffect(() => {
-    let legacyIds: string[] = []
-    try {
-      const raw = localStorage.getItem(LEGACY_HIDDEN_GADGET_IDS_STORAGE_KEY)
-      if (raw) {
-        const parsed = JSON.parse(raw)
-        if (Array.isArray(parsed)) {
-          legacyIds = parsed.filter((id): id is string => typeof id === "string" && id.trim())
-        }
-      }
-    } catch {
-      legacyIds = []
-    }
-    if (legacyIds.length === 0) return
-
-    void (async () => {
-      await fetch("/api/repository-exclude-gadget", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ ids: legacyIds, purgeSource: true }),
-      })
-      localStorage.removeItem(LEGACY_HIDDEN_GADGET_IDS_STORAGE_KEY)
-      window.location.reload()
-    })()
-  }, [])
 
   const searchableGadgets = useMemo(
     () => buildSearchableGadgets(listableGadgets),
@@ -383,21 +355,6 @@ export function GadgetExplorer() {
       if (gadget) setOpenGadget(gadget)
     },
     [gadgetById],
-  )
-
-  const handleDeleteGadget = useCallback(
-    (id: string) => {
-      setCompareIds((prev) => prev.filter((x) => x !== id))
-      setOpenGadget((prev) => (prev?.id === id ? null : prev))
-      void fetch("/api/repository-exclude-gadget", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ id, purgeSource: true }),
-      }).then(() => {
-        window.location.reload()
-      })
-    },
-    [],
   )
 
   const toggleFilter = useCallback((id: FilterId) => {
@@ -694,11 +651,7 @@ export function GadgetExplorer() {
         </div>
       )}
 
-      <GadgetDetail
-        gadget={openGadget}
-        onClose={() => setOpenGadget(null)}
-        onDelete={handleDeleteGadget}
-      />
+      <GadgetDetail gadget={openGadget} onClose={() => setOpenGadget(null)} />
 
       {showCompare && compareGadgets.length >= 2 && (
         <CompareView
