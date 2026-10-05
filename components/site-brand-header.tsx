@@ -16,18 +16,7 @@ type SiteBrandHeaderProps = {
 export function SiteBrandHeader({ children, className, topSlot }: SiteBrandHeaderProps) {
   return (
     <header className={cn(headerShellClassName, className)}>
-      <div
-        className="pointer-events-none absolute inset-0 bg-[radial-gradient(#a1a1aa_1px,transparent_1px)] opacity-25 [background-size:16px_16px]"
-        aria-hidden
-      />
-      <div
-        className="pointer-events-none absolute inset-x-0 bottom-0 z-[1] h-3 bg-gradient-to-t from-zinc-900/[0.07] to-transparent"
-        aria-hidden
-      />
-      <div
-        className="pointer-events-none absolute inset-x-0 bottom-0 z-20 h-px bg-gradient-to-r from-transparent via-zinc-900/45 to-transparent"
-        aria-hidden
-      />
+      <div className={headerDotOverlayClassName} aria-hidden />
       <div className="relative z-10 mx-auto max-w-6xl px-4 py-4 sm:py-5">
         {topSlot}
         <div className="flex items-center justify-between gap-4">
@@ -62,10 +51,13 @@ export function SiteBrandHeader({ children, className, topSlot }: SiteBrandHeade
             v0.app
           </a>
         </div>
-        {children ? <div className="relative z-10 mt-4">{children}</div> : null}
+        {children ? <div className="mt-4">{children}</div> : null}
       </div>
     </header>
   )
 }
 
-export { headerShellClassName }
+const headerDotOverlayClassName =
+  "pointer-events-none absolute inset-0 bg-[radial-gradient(#a1a1aa_1px,transparent_1px)] opacity-25 [background-size:16px_16px]"
+
+export { headerDotOverlayClassName, headerShellClassName }

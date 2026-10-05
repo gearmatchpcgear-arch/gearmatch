@@ -11,7 +11,7 @@ type SitePageShellProps = {
 
 export function SitePageShell({ title, description, children, compact = false }: SitePageShellProps) {
   return (
-    <div className="flex min-h-0 flex-1 flex-col bg-background">
+    <div className="flex min-h-0 flex-1 flex-col bg-slate-100/70">
       <SiteBrandHeader
         className={compact ? "[&>div]:max-w-3xl [&>div]:py-2.5" : undefined}
         topSlot={

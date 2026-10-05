@@ -11,6 +11,7 @@ import {
 } from "react"
 import { Search, X, GitCompareArrows, ArrowUpDown, ChevronDown, Sparkles } from "lucide-react"
 import { CategoryScrollRow } from "@/components/category-scroll-row"
+import { headerDotOverlayClassName, headerShellClassName } from "@/components/site-brand-header"
 import { cn } from "@/lib/utils"
 import {
   categories,
@@ -103,9 +104,9 @@ const CARD_SIZE_OPTIONS: { value: CardSize; label: string }[] = [
 ]
 
 const CARD_GRID_BY_SIZE: Record<CardSize, string> = {
-  large: "grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-3 lg:gap-4",
-  medium: "grid grid-cols-2 gap-3 md:grid-cols-3 md:gap-4 lg:grid-cols-4 lg:gap-4",
-  small: "grid grid-cols-2 gap-2 md:grid-cols-4 md:gap-3 lg:grid-cols-6 lg:gap-3",
+  large: "grid grid-cols-1 gap-4 md:grid-cols-2 md:gap-5 lg:grid-cols-3 lg:gap-6",
+  medium: "grid grid-cols-2 gap-3.5 sm:gap-4 md:grid-cols-3 md:gap-5 lg:grid-cols-4 lg:gap-6",
+  small: "grid grid-cols-2 gap-3 sm:gap-4 md:grid-cols-4 md:gap-4 lg:grid-cols-6 lg:gap-5",
 }
 
 /** レビュー評価が高い順: 11件以上を優先 → 星降順 → 同評価は件数降順 */
@@ -370,81 +371,110 @@ export function GadgetExplorer() {
     return () => node.removeEventListener("wheel", chainPageScrollOnNestedBoundary)
   }, [specFilterOpen, activeCategory, visibleFilterGroups.length])
 
+  const handleCardSizeChange = (size: CardSize) => {
+    setCardSize(size)
+    setVisibleCount(getItemsPerPage(size))
+  }
+
+  const searchField = (
+    <div className="relative min-w-0 flex-1">
+      <Search className="pointer-events-none absolute left-3.5 top-1/2 size-4 -translate-y-1/2 text-muted-foreground/70" />
+      <input
+        type="text"
+        value={query}
+        onChange={(e) => setQuery(e.target.value)}
+        placeholder="メーカー名・特徴等の調べたい情報で検索"
+        aria-label="ガジェットを検索"
+        className="w-full rounded-2xl border border-border/70 bg-card py-3 pl-10 pr-10 text-sm text-foreground shadow-sm placeholder:text-muted-foreground/70 focus:border-primary/40 focus:outline-none focus:ring-2 focus:ring-ring"
+      />
+      {query ? (
+        <button
+          type="button"
+          onClick={() => setQuery("")}
+          aria-label="検索をクリア"
+          className="absolute right-3 top-1/2 -translate-y-1/2 text-muted-foreground hover:text-foreground"
+        >
+          <X className="size-4" />
+        </button>
+      ) : null}
+    </div>
+  )
+
+  const sortSelect = (
+    <div className="relative w-full sm:w-56">
+      <ArrowUpDown className="pointer-events-none absolute left-3.5 top-1/2 size-4 -translate-y-1/2 text-muted-foreground/70" />
+      <select
+        value={sortBy}
+        onChange={(e) => setSortBy(e.target.value as SortOption)}
+        aria-label="並べ替え"
+        className="h-full w-full cursor-pointer appearance-none rounded-2xl border border-border/70 bg-card py-3 pl-10 pr-10 text-sm text-foreground shadow-sm transition-colors hover:border-primary/30 focus:border-primary/40 focus:outline-none focus:ring-2 focus:ring-ring"
+      >
+        {SORT_OPTIONS.map((opt) => (
+          <option key={opt.value} value={opt.value} className="bg-card text-foreground">
+            {opt.label}
+          </option>
+        ))}
+      </select>
+      <ChevronDown className="pointer-events-none absolute right-3.5 top-1/2 size-4 -translate-y-1/2 text-muted-foreground/70" />
+    </div>
+  )
+
+  const categoryTagsRow = (rowClassName?: string) => (
+    <CategoryScrollRow className={cn("mt-3", rowClassName)}>
+      <CategoryTag
+        active={activeCategory === "all"}
+        label="すべて"
+        count={categoryCounts.all}
+        showCount
+        onClick={() => selectCategory("all")}
+      />
+      {categories.map((c) => (
+        <CategoryTag
+          key={c.id}
+          active={activeCategory === c.id}
+          label={c.label}
+          count={categoryCounts[c.id]}
+          showCount={activeCategory === c.id}
+          category={c.id}
+          onClick={() => selectCategory(c.id)}
+        />
+      ))}
+    </CategoryScrollRow>
+  )
+
   return (
     <div className="pb-28">
-      {/* 検索・並べ替え・カテゴリ（固定ヘッダー） */}
-      <div className="sticky top-0 z-30 border-b border-border/60 bg-background/95 shadow-[0_1px_0_oklch(0.91_0.008_260_/_40%)] backdrop-blur-md">
-        <div className="mx-auto max-w-6xl px-4 py-3">
-          <div className="flex flex-col gap-3 sm:flex-row sm:items-stretch">
-            <div className="relative min-w-0 flex-1">
-              <Search className="pointer-events-none absolute left-3.5 top-1/2 size-4 -translate-y-1/2 text-muted-foreground/70" />
-              <input
-                type="text"
-                value={query}
-                onChange={(e) => setQuery(e.target.value)}
-                placeholder="メーカー名・特徴等の調べたい情報で検索"
-                aria-label="ガジェットを検索"
-                className="w-full rounded-2xl border border-border/70 bg-card py-3 pl-10 pr-10 text-sm text-foreground shadow-sm placeholder:text-muted-foreground/70 focus:border-primary/40 focus:outline-none focus:ring-2 focus:ring-ring"
-              />
-              {query && (
-                <button
-                  type="button"
-                  onClick={() => setQuery("")}
-                  aria-label="検索をクリア"
-                  className="absolute right-3 top-1/2 -translate-y-1/2 text-muted-foreground hover:text-foreground"
-                >
-                  <X className="size-4" />
-                </button>
-              )}
-            </div>
+      {/* スマホ: 検索・ソート（スクロールで隠れる） */}
+      <div className={cn(headerShellClassName, "w-full sm:hidden")}>
+        <div className={headerDotOverlayClassName} aria-hidden />
+        <div className="relative z-10 mx-auto max-w-6xl px-4 py-3">
+          <div className="flex flex-col gap-3">
+            {searchField}
+            {sortSelect}
+          </div>
+        </div>
+      </div>
 
-            <div className="flex shrink-0 flex-col gap-2 sm:flex-row sm:items-stretch">
-              <CardSizeToggle
-                value={cardSize}
-                onChange={(size) => {
-                  setCardSize(size)
-                  setVisibleCount(getItemsPerPage(size))
-                }}
-              />
-              <div className="relative sm:w-56">
-                <ArrowUpDown className="pointer-events-none absolute left-3.5 top-1/2 size-4 -translate-y-1/2 text-muted-foreground/70" />
-                <select
-                  value={sortBy}
-                  onChange={(e) => setSortBy(e.target.value as SortOption)}
-                  aria-label="並べ替え"
-                  className="h-full w-full cursor-pointer appearance-none rounded-2xl border border-border/70 bg-card py-3 pl-10 pr-10 text-sm text-foreground shadow-sm transition-colors hover:border-primary/30 focus:border-primary/40 focus:outline-none focus:ring-2 focus:ring-ring"
-                >
-                  {SORT_OPTIONS.map((opt) => (
-                    <option key={opt.value} value={opt.value} className="bg-card text-foreground">
-                      {opt.label}
-                    </option>
-                  ))}
-                </select>
-                <ChevronDown className="pointer-events-none absolute right-3.5 top-1/2 size-4 -translate-y-1/2 text-muted-foreground/70" />
-              </div>
+      {/* スマホ: カードサイズ・カテゴリのみ sticky */}
+      <div className="sticky top-0 z-10 w-full border-b border-slate-200/80 bg-white shadow-sm sm:hidden">
+        <div className="mx-auto max-w-6xl px-4 py-2.5">
+          <CardSizeToggle value={cardSize} onChange={handleCardSizeChange} />
+          {categoryTagsRow("mt-2.5")}
+        </div>
+      </div>
+
+      {/* PC: 検索・並べ替え・カテゴリ（従来どおり一式 sticky） */}
+      <div className={cn(headerShellClassName, "sticky top-0 z-30 hidden w-full sm:block")}>
+        <div className={headerDotOverlayClassName} aria-hidden />
+        <div className="relative z-10 mx-auto max-w-6xl px-4 py-3">
+          <div className="flex flex-row items-stretch gap-3">
+            {searchField}
+            <div className="flex shrink-0 flex-row items-stretch gap-2">
+              <CardSizeToggle value={cardSize} onChange={handleCardSizeChange} />
+              {sortSelect}
             </div>
           </div>
-
-          <CategoryScrollRow className="mt-3">
-            <CategoryTag
-              active={activeCategory === "all"}
-              label="すべて"
-              count={categoryCounts.all}
-              showCount
-              onClick={() => selectCategory("all")}
-            />
-            {categories.map((c) => (
-              <CategoryTag
-                key={c.id}
-                active={activeCategory === c.id}
-                label={c.label}
-                count={categoryCounts[c.id]}
-                showCount={activeCategory === c.id}
-                category={c.id}
-                onClick={() => selectCategory(c.id)}
-              />
-            ))}
-          </CategoryScrollRow>
+          {categoryTagsRow()}
         </div>
       </div>
 

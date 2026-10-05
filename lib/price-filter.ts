@@ -115,15 +115,18 @@ export const PRICE_SLIDER_MIN = 0
 export const PRICE_SLIDER_STEP = 1000
 export const DEFAULT_PRICE_SLIDER_MAX = 100_000
 
-/** スライダー上限（商品最高価格を step 単位で切り上げ、最低 10 万円） */
-export function computePriceSliderMax(prices: Array<unknown>): number {
-  let max = 0
-  for (const price of prices) {
-    const parsed = parsePrice(price)
-    if (parsed != null && parsed > max) max = parsed
-  }
-  const rounded = Math.ceil(max / PRICE_SLIDER_STEP) * PRICE_SLIDER_STEP
-  return Math.max(rounded, DEFAULT_PRICE_SLIDER_MAX)
+/**
+ * スライダー上限（常に 10 万円）。
+ * 右端は「¥100,000+」表示。最大ハンドルが右端のとき適用 max は null となり、10 万円超も含めて表示する。
+ */
+export function computePriceSliderMax(_prices: Array<unknown>): number {
+  return DEFAULT_PRICE_SLIDER_MAX
+}
+
+/** スライダー用に step 単位へ丸めつつ 0〜上限に収める */
+export function clampToPriceSliderStep(value: number, sliderMax: number): number {
+  const snapped = Math.round(value / PRICE_SLIDER_STEP) * PRICE_SLIDER_STEP
+  return Math.max(PRICE_SLIDER_MIN, Math.min(snapped, sliderMax))
 }
 
 export function appliedRangeToSliderValues(

@@ -6,7 +6,7 @@ import { SiteDisclaimer } from "@/components/site-disclaimer"
 
 export default function Page() {
   return (
-    <main className="flex min-h-0 flex-1 flex-col bg-background">
+    <main className="flex min-h-0 flex-1 flex-col bg-slate-100/70">
       <SiteBrandHeader>
         <SiteDisclaimer className="border-zinc-300/80 bg-white/55 text-zinc-700" />
         <div className="mt-4">
@@ -15,7 +15,7 @@ export default function Page() {
             className="inline-flex items-center gap-2 rounded-xl bg-primary px-5 py-2.5 text-sm font-bold text-primary-foreground shadow-md transition-opacity hover:opacity-90"
           >
             <Sparkles className="size-4" aria-hidden />
-            自分に合ったGearを見つける
+            自分に合ったデバイスを見つける
           </Link>
         </div>
       </SiteBrandHeader>

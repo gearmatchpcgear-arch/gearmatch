@@ -39,15 +39,11 @@ export function SiteHeader({ query, onQueryChange, className }: SiteHeaderProps)
   return (
     <header
       className={cn(
-        "relative overflow-hidden border-b border-zinc-300/80 bg-zinc-200/90 text-zinc-900 shadow-sm backdrop-blur-md",
+        "relative bg-background text-foreground",
         className,
       )}
     >
-      <div
-        className="pointer-events-none absolute inset-0 bg-[radial-gradient(#a1a1aa_1px,transparent_1px)] opacity-25 [background-size:16px_16px]"
-        aria-hidden
-      />
-      <div className="relative z-10 mx-auto max-w-6xl px-4 py-6 sm:py-7">
+      <div className="mx-auto max-w-6xl px-4 py-6 sm:py-7">
         <div className="flex flex-col gap-5 lg:flex-row lg:items-center lg:justify-between">
           <div className="flex min-w-0 items-center gap-4">
             <GearMatchEmblem />

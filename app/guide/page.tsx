@@ -4,14 +4,14 @@ import { GuidePageContent } from "@/components/guide-page-content"
 import { SITE_NAME } from "@/lib/site-config"
 
 export const metadata: Metadata = {
-  title: `自分に合ったGearを見つける | ${SITE_NAME}`,
+  title: `自分に合ったデバイスを見つける | ${SITE_NAME}`,
   description: `${SITE_NAME}のデバイス選び方ガイド。カテゴリ別の選定ポイントとおすすめモデルを紹介します。`,
 }
 
 export default function GuidePage() {
   return (
     <SitePageShell
-      title="自分に合ったGearを見つけるガイド"
+      title="自分に合ったデバイスを見つけるガイド"
       description="カテゴリを選んで、失敗しないデバイスの選び方とおすすめモデルをチェックしましょう。"
     >
       <GuidePageContent />

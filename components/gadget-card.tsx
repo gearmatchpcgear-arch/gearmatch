@@ -83,11 +83,11 @@ export const GadgetCard = memo(function GadgetCard({
   return (
     <article
       className={cn(
-        "group relative flex h-full flex-col overflow-hidden bg-card shadow-sm ring-1 transition-all duration-200",
-        isSmall ? "rounded-lg" : "rounded-xl",
+        "group relative flex h-full flex-col overflow-hidden rounded-xl border border-slate-200/80 bg-white shadow-sm transition-all duration-200",
+        isSmall && "rounded-lg",
         isComparing
-          ? "ring-primary/50 shadow-md"
-          : "ring-border/60 hover:shadow-md hover:ring-primary/25",
+          ? "border-primary/40 shadow-md ring-2 ring-primary/15"
+          : "hover:-translate-y-0.5 hover:border-slate-300 hover:shadow-lg",
       )}
     >
       {displayBadge ? (
@@ -121,7 +121,7 @@ export const GadgetCard = memo(function GadgetCard({
             isSmall ? "size-6" : "size-7",
             isComparing
               ? "bg-primary text-primary-foreground"
-              : "bg-card/95 text-muted-foreground ring-1 ring-border/60 backdrop-blur hover:text-foreground disabled:opacity-40",
+              : "bg-white/95 text-muted-foreground ring-1 ring-slate-200 backdrop-blur hover:text-foreground disabled:opacity-40",
           )}
         >
           {isComparing ? (
@@ -137,7 +137,7 @@ export const GadgetCard = memo(function GadgetCard({
         onClick={() => onOpen(gadget.id)}
         className="flex min-h-0 min-w-0 flex-1 flex-col text-left focus:outline-none focus-visible:ring-2 focus-visible:ring-ring"
       >
-        <div className="relative aspect-square overflow-hidden bg-gradient-to-b from-secondary/50 to-card">
+        <div className="relative aspect-square overflow-hidden bg-gradient-to-b from-slate-50 to-white">
           <GadgetImage
             src={gadget.image}
             alt={`${displayGadget.brand} ${displayGadget.name}`}
@@ -159,8 +159,12 @@ export const GadgetCard = memo(function GadgetCard({
 
         <div
           className={cn(
-            "flex min-w-0 flex-1 flex-col overflow-hidden",
-            isSmall ? "gap-1 p-2" : isMedium ? "gap-1 p-2.5" : "gap-1.5 p-3",
+            "flex min-w-0 flex-1 flex-col overflow-hidden bg-white",
+            isSmall
+              ? "gap-1.5 p-3.5 md:p-4"
+              : isMedium
+                ? "gap-2 p-4 md:p-4 lg:p-5"
+                : "gap-2 p-4 lg:p-5",
           )}
         >
           {showBrand && (
@@ -186,7 +190,7 @@ export const GadgetCard = memo(function GadgetCard({
 
           <h3
             className={cn(
-              "font-semibold leading-snug text-card-foreground",
+              "font-semibold leading-snug text-slate-900",
               isSmall ? "line-clamp-2 text-xs" : isMedium ? "line-clamp-2 text-sm" : "line-clamp-1 text-sm",
             )}
           >
@@ -202,8 +206,8 @@ export const GadgetCard = memo(function GadgetCard({
           {showSpecs && (
             <dl
               className={cn(
-                "grid min-w-0 grid-cols-2 overflow-hidden rounded-lg bg-secondary/50 text-center",
-                isMedium ? "gap-x-1.5 gap-y-1 p-2" : "gap-x-2 gap-y-1 p-2.5",
+                "grid min-w-0 grid-cols-2 overflow-hidden rounded-lg border border-slate-100 bg-slate-50 text-center",
+                isMedium ? "gap-x-1.5 gap-y-1 p-2.5" : "gap-x-2 gap-y-1.5 p-3",
               )}
             >
               {highlights.map((h) => (
@@ -211,7 +215,7 @@ export const GadgetCard = memo(function GadgetCard({
                   <dt className="block min-w-0 truncate whitespace-nowrap text-xs leading-4 text-muted-foreground">
                     {getCardHighlightLabel(gadget, h.label)}
                   </dt>
-                  <dd className="mt-0.5 block min-w-0 truncate whitespace-nowrap text-xs font-semibold leading-4 text-card-foreground">
+                  <dd className="mt-0.5 block min-w-0 truncate whitespace-nowrap text-xs font-semibold leading-4 text-slate-800">
                     {h.value}
                   </dd>
                 </div>
@@ -222,7 +226,7 @@ export const GadgetCard = memo(function GadgetCard({
           {hasCardDisplayPrice(gadget) ? (
             <p
               className={cn(
-                "mt-auto font-mono font-semibold text-card-foreground",
+                "mt-auto font-mono font-semibold text-slate-900",
                 isSmall ? "pt-0.5 text-sm" : isMedium ? "pt-0.5 text-sm" : "pt-1 text-base",
               )}
             >

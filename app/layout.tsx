@@ -44,7 +44,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="ja" className={`light ${geistSans.variable} ${geistMono.variable}`}>
-      <body className="bg-background font-sans antialiased">
+      <body className="bg-slate-100/70 font-sans antialiased">
         <div className="flex min-h-svh flex-col">
           {children}
           <SiteFooter />
