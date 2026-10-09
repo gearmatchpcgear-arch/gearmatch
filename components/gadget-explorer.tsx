@@ -466,7 +466,7 @@ export function GadgetExplorer() {
       </div>
 
       {/* スマホ: カードサイズ・カテゴリのみ sticky */}
-      <div className="sticky top-0 z-10 w-full border-b border-slate-200/80 bg-white shadow-sm sm:hidden">
+      <div className="sticky top-0 z-30 w-full border-b border-slate-200/80 bg-white shadow-sm sm:hidden">
         <div className="mx-auto max-w-6xl px-4 py-2.5">
           <CardSizeToggle value={cardSize} onChange={handleCardSizeChange} />
           {categoryTagsRow("mt-2.5")}

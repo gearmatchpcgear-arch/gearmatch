@@ -23,15 +23,20 @@ const badgeClassName =
 
 export type CardSize = "large" | "medium" | "small"
 
-const IMAGE_RATING_BADGE_CLASS =
-  "pointer-events-none absolute bottom-2 right-2 z-10 inline-flex h-6 min-w-[4.5rem] items-center justify-end gap-1 rounded bg-black/60 px-1.5 py-0.5 text-white backdrop-blur-sm"
+const IMAGE_RATING_BADGE_OVERLAY_CLASS =
+  "pointer-events-none absolute bottom-2 right-2 z-[1] inline-flex h-6 min-w-[4.5rem] items-center justify-end gap-1 rounded bg-black/60 px-1.5 py-0.5 text-white backdrop-blur-sm"
+
+const IMAGE_RATING_BADGE_INLINE_CLASS =
+  "pointer-events-none inline-flex h-6 shrink-0 items-center justify-end gap-1 rounded bg-black/60 px-1.5 py-0.5 text-white backdrop-blur-sm"
 
 function ImageRatingBadge({
   gadget,
   compact = false,
+  inline = false,
 }: {
   gadget: Gadget
   compact?: boolean
+  inline?: boolean
 }) {
   if (!hasDisplayReviews(gadget)) return null
 
@@ -40,7 +45,10 @@ function ImageRatingBadge({
 
   return (
     <div
-      className={cn(IMAGE_RATING_BADGE_CLASS, compact ? "text-[10px] leading-none" : "text-xs leading-none")}
+      className={cn(
+        inline ? IMAGE_RATING_BADGE_INLINE_CLASS : IMAGE_RATING_BADGE_OVERLAY_CLASS,
+        compact ? "min-w-0 text-[10px] leading-none" : "min-w-[4.5rem] text-xs leading-none",
+      )}
       aria-label={`評価 ${rating.toFixed(1)}、レビュー ${reviews.toLocaleString("ja-JP")}件`}
     >
       <Star
@@ -141,7 +149,7 @@ export const GadgetCard = memo(function GadgetCard({
   return (
     <article
       className={cn(
-        "group relative flex h-full flex-col overflow-hidden rounded-xl border border-slate-200/80 bg-white shadow-sm transition-all duration-200",
+        "group relative isolate flex h-full flex-col overflow-hidden rounded-xl border border-slate-200/80 bg-white shadow-sm transition-all duration-200",
         isSmall && "rounded-lg",
         isComparing
           ? "border-primary/40 shadow-md ring-2 ring-primary/15"
@@ -151,7 +159,7 @@ export const GadgetCard = memo(function GadgetCard({
       {displayBadge ? (
         <div
           className={cn(
-            "pointer-events-none absolute z-10 flex flex-col items-start gap-1",
+            "pointer-events-none absolute z-[1] flex flex-col items-start gap-1",
             isSmall ? "left-1.5 top-1.5 max-w-[calc(100%-2.5rem)]" : "left-2.5 top-2.5 max-w-[calc(100%-3rem)]",
           )}
         >
@@ -161,12 +169,18 @@ export const GadgetCard = memo(function GadgetCard({
 
       <div
         className={cn(
-          "absolute z-10 flex items-center",
+          "absolute z-[1] flex items-center",
           isSmall && "right-1.5 top-1.5 gap-1",
-          isMedium && "bottom-2 right-2 gap-1 sm:bottom-auto sm:right-2.5 sm:top-2.5 sm:gap-1.5",
+          isMedium &&
+            "bottom-2 right-2 flex-row items-center gap-1.5 sm:bottom-auto sm:right-2.5 sm:top-2.5 sm:gap-1.5",
           isLarge && "right-2.5 top-2.5 gap-1.5",
         )}
       >
+        {isMedium ? (
+          <div className="sm:hidden">
+            <ImageRatingBadge gadget={gadget} compact inline />
+          </div>
+        ) : null}
         <button
           type="button"
           onClick={(event) => {
@@ -209,13 +223,12 @@ export const GadgetCard = memo(function GadgetCard({
                     sizes="80px"
                     className="p-1 transition-transform duration-300 group-hover:scale-[1.02]"
                   />
-                  <ImageRatingBadge gadget={gadget} compact />
                 </div>
                 {showSpecs ? specHighlightsGrid("medium-mobile") : null}
               </div>
-              <div className="flex min-w-0 flex-col gap-1 border-t border-slate-100 px-3.5 pb-2 pr-10 pt-2.5">
-                <h3 className={cn(titleClassName, "min-w-0 pr-1")}>{displayGadget.name}</h3>
-                {priceBlock ? <div className="pb-1 pr-1">{priceBlock}</div> : null}
+              <div className="flex min-w-0 flex-col gap-1 border-t border-slate-100 px-3.5 pb-10 pt-2.5">
+                <h3 className={cn(titleClassName, "min-w-0")}>{displayGadget.name}</h3>
+                {priceBlock ? <div className="pr-1">{priceBlock}</div> : null}
               </div>
             </div>
 
