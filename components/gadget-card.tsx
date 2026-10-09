@@ -74,8 +74,6 @@ export const GadgetCard = memo(function GadgetCard({
   const showBrand = isLarge
   const showTagline = isLarge
   const showSpecs = isLarge || isMedium
-  const showRatingInBody = isLarge
-  const showRatingOnImage = isMedium || isSmall
   const displayGadget = useMemo(() => withGamingChairCsvOverlay(gadget), [gadget])
   const highlights = useMemo(() => getCardHighlights(gadget), [gadget])
   const displayBadge = useMemo(() => getDisplayBadge(gadget), [gadget])
@@ -164,7 +162,9 @@ export const GadgetCard = memo(function GadgetCard({
       <div
         className={cn(
           "absolute z-10 flex items-center",
-          isSmall ? "right-1.5 top-1.5 gap-1" : "right-2.5 top-2.5 gap-1.5",
+          isSmall && "right-1.5 top-1.5 gap-1",
+          isMedium && "bottom-2 right-2 gap-1 sm:bottom-auto sm:right-2.5 sm:top-2.5 sm:gap-1.5",
+          isLarge && "right-2.5 top-2.5 gap-1.5",
         )}
       >
         <button
@@ -209,13 +209,13 @@ export const GadgetCard = memo(function GadgetCard({
                     sizes="80px"
                     className="p-1 transition-transform duration-300 group-hover:scale-[1.02]"
                   />
-                  {showRatingOnImage ? <ImageRatingBadge gadget={gadget} compact /> : null}
+                  <ImageRatingBadge gadget={gadget} compact />
                 </div>
                 {showSpecs ? specHighlightsGrid("medium-mobile") : null}
               </div>
-              <div className="flex min-w-0 flex-col gap-1 border-t border-slate-100 px-3.5 pb-4 pt-2.5">
-                <h3 className={cn(titleClassName, "min-w-0")}>{displayGadget.name}</h3>
-                {priceBlock}
+              <div className="flex min-w-0 flex-col gap-1 border-t border-slate-100 px-3.5 pb-2 pr-10 pt-2.5">
+                <h3 className={cn(titleClassName, "min-w-0 pr-1")}>{displayGadget.name}</h3>
+                {priceBlock ? <div className="pb-1 pr-1">{priceBlock}</div> : null}
               </div>
             </div>
 
@@ -228,7 +228,7 @@ export const GadgetCard = memo(function GadgetCard({
                   sizes="(max-width: 768px) 50vw, 240px"
                   className="p-3 transition-transform duration-300 group-hover:scale-[1.02]"
                 />
-                {showRatingOnImage ? <ImageRatingBadge gadget={gadget} /> : null}
+                <ImageRatingBadge gadget={gadget} />
               </div>
               <div className="flex min-w-0 flex-1 flex-col gap-2 overflow-hidden bg-white p-4 md:p-4 lg:p-5">
                 <h3 className={titleClassName}>{displayGadget.name}</h3>
@@ -254,7 +254,7 @@ export const GadgetCard = memo(function GadgetCard({
                   isSmall ? "p-2" : "p-4",
                 )}
               />
-              {showRatingOnImage ? <ImageRatingBadge gadget={gadget} compact={isSmall} /> : null}
+              <ImageRatingBadge gadget={gadget} compact={isSmall} />
             </div>
 
             <div
@@ -263,26 +263,11 @@ export const GadgetCard = memo(function GadgetCard({
                 isSmall ? "gap-1.5 p-3.5 md:p-4" : "gap-2 p-4 lg:p-5",
               )}
             >
-              {showBrand && (
-                <div className="flex min-w-0 items-start justify-between gap-2">
-                  <span className="min-w-0 truncate text-[11px] font-medium uppercase tracking-wide text-muted-foreground">
-                    {displayGadget.brand}
-                  </span>
-                  {showRatingInBody ? (
-                    hasDisplayReviews(gadget) ? (
-                      <span className="inline-flex min-w-0 shrink flex-wrap items-center justify-end gap-x-0.5 gap-y-0.5 text-[11px] text-chart-3">
-                        <Star className="size-2.5 fill-chart-3 text-chart-3" />
-                        {getDisplayRating(gadget).toFixed(1)}
-                        <span className="text-muted-foreground">
-                          ({getDisplayReviewCount(gadget).toLocaleString("ja-JP")})
-                        </span>
-                      </span>
-                    ) : (
-                      <span className="shrink-0 text-[11px] text-muted-foreground">レビューなし</span>
-                    )
-                  ) : null}
-                </div>
-              )}
+              {showBrand ? (
+                <span className="min-w-0 truncate text-[11px] font-medium uppercase tracking-wide text-muted-foreground">
+                  {displayGadget.brand}
+                </span>
+              ) : null}
 
               <h3 className={titleClassName}>{displayGadget.name}</h3>
 
