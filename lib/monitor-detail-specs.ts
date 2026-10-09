@@ -3,17 +3,40 @@ import { getMonitorVesaStandardDisplay } from "@/lib/monitor-vesa-standard"
 
 const UNSPECIFIED_SPEC = "—" as const
 
-/** 詳細モーダルに表示しないランキング・検索系ラベル */
+/** 詳細モーダルに表示しないランキング・検索系ラベル（完全一致） */
 const HIDDEN_DETAIL_LABELS = new Set([
   "Amazonギフト",
   "Amazon新着",
   "Amazon売れ筋",
   "Amazon新着ランキング",
+  "Amazonランキング",
   "Amazon検索",
   "検索順位",
+  "ランキング",
+  "売れ筋ランキング",
+  "カテゴリ順位",
 ])
 
-const HIDDEN_DETAIL_GROUP_TITLES = new Set(["Amazon検索"])
+/** 詳細モーダルに表示しないスペック行ラベル（ランキング・Amazon順位系） */
+export function isHiddenDetailSpecLabel(label: string): boolean {
+  const normalized = label.trim()
+  if (!normalized) return false
+  if (HIDDEN_DETAIL_LABELS.has(normalized)) return true
+  if (/ランキング/.test(normalized)) return true
+  if (/順位/.test(normalized)) return true
+  if (/^Amazon/i.test(normalized)) return true
+  if (/^売れ筋/.test(normalized)) return true
+  return false
+}
+
+/** 詳細モーダルに表示しないスペックグループ見出し */
+export function isHiddenDetailSpecGroupTitle(title: string): boolean {
+  const normalized = title.trim()
+  if (!normalized) return false
+  if (/^Amazon/i.test(normalized)) return true
+  if (/ランキング|売れ筋/.test(normalized)) return true
+  return false
+}
 
 function allRows(gadget: Gadget): SpecRow[] {
   return gadget.specGroups.flatMap((g) => g.rows)
@@ -27,8 +50,9 @@ function findRowValue(gadget: Gadget, labels: string[]): string | null {
   return null
 }
 
-function isHiddenDetailLabel(label: string) {
-  return HIDDEN_DETAIL_LABELS.has(label)
+/** 詳細モーダル用の主要スペックからランキング行を除外 */
+export function filterDetailHighlightRows<T extends { label: string }>(rows: T[]): T[] {
+  return rows.filter((row) => !isHiddenDetailSpecLabel(row.label))
 }
 
 /** 詳細の重量表示（kg を優先。g のみの場合は kg に換算） */
@@ -66,13 +90,13 @@ export function inferMonitorWeightKg(gadget: Gadget): string {
 }
 
 function filterRows(rows: SpecRow[]): SpecRow[] {
-  return rows.filter((row) => !isHiddenDetailLabel(row.label))
+  return rows.filter((row) => !isHiddenDetailSpecLabel(row.label))
 }
 
 /** 詳細モーダル用: Amazon検索・ランキング系のグループ/行を除外 */
 export function filterDetailSpecGroups(groups: SpecGroup[]): SpecGroup[] {
   return groups
-    .filter((group) => !HIDDEN_DETAIL_GROUP_TITLES.has(group.title))
+    .filter((group) => !isHiddenDetailSpecGroupTitle(group.title))
     .map((group) => ({ ...group, rows: filterRows(group.rows) }))
     .filter((group) => group.rows.length > 0)
 }
@@ -97,7 +121,7 @@ export function getMonitorDetailSpecGroups(gadget: Gadget): SpecGroup[] {
   groups.push({ title: "本体", rows: bodyRows })
 
   for (const group of gadget.specGroups) {
-    if (HIDDEN_DETAIL_GROUP_TITLES.has(group.title)) continue
+    if (isHiddenDetailSpecGroupTitle(group.title)) continue
     if (/ディスプレイ|画面|接続端子|端子|ポート/i.test(group.title)) continue
 
     const rows = filterRows(group.rows).filter(

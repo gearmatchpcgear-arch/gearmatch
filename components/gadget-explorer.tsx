@@ -103,6 +103,9 @@ const CARD_SIZE_OPTIONS: { value: CardSize; label: string }[] = [
   { value: "small", label: "小" },
 ]
 
+/** Tailwind `sm` と揃える（640px 未満をスマホ表示） */
+const MOBILE_CARD_SIZE_MAX_WIDTH_PX = 639
+
 const CARD_GRID_BY_SIZE: Record<CardSize, string> = {
   large: "grid grid-cols-1 gap-4 md:grid-cols-2 md:gap-5 lg:grid-cols-3 lg:gap-6",
   medium: "grid grid-cols-2 gap-3.5 sm:gap-4 md:grid-cols-3 md:gap-5 lg:grid-cols-4 lg:gap-6",
@@ -179,7 +182,7 @@ export function GadgetExplorer() {
   const [query, setQuery] = useState("")
   const [activeCategory, setActiveCategory] = useState<CategoryId | "all">("all")
   const [sortBy, setSortBy] = useState<SortOption>("rating-desc")
-  const [cardSize, setCardSize] = useState<CardSize>("large")
+  const [cardSize, setCardSize] = useState<CardSize>("medium")
   const [activeFilters, setActiveFilters] = useState<FilterId[]>([])
   const [appliedPriceRange, setAppliedPriceRange] = useState<AppliedPriceRange>(EMPTY_PRICE_RANGE)
   const [priceFilterOpen, setPriceFilterOpen] = useState(false)
@@ -188,8 +191,15 @@ export function GadgetExplorer() {
   const [openGadget, setOpenGadget] = useState<Gadget | null>(null)
   const [compareIds, setCompareIds] = useState<string[]>([])
   const [showCompare, setShowCompare] = useState(false)
-  const [visibleCount, setVisibleCount] = useState(() => getItemsPerPage("large"))
+  const [visibleCount, setVisibleCount] = useState(() => getItemsPerPage("medium"))
   const listableGadgets = useMemo(() => getListableGadgets(gadgets, false), [])
+
+  useLayoutEffect(() => {
+    if (window.matchMedia(`(min-width: ${MOBILE_CARD_SIZE_MAX_WIDTH_PX + 1}px)`).matches) {
+      setCardSize("large")
+      setVisibleCount(getItemsPerPage("large"))
+    }
+  }, [])
 
   const searchableGadgets = useMemo(
     () => buildSearchableGadgets(listableGadgets),

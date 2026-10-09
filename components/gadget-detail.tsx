@@ -3,7 +3,6 @@
 import { useEffect } from "react"
 import { cn } from "@/lib/utils"
 import { X, Star, Cable } from "lucide-react"
-import { CompatPill } from "@/components/compat-pill"
 import { GadgetImage } from "@/components/gadget-image"
 import { ShopLink } from "@/components/shop-link"
 import {
@@ -14,27 +13,28 @@ import {
   getDisplayBadge,
   getDisplayPrice,
   getReviewDisplayLabel,
-  getListableGadgets,
   hasDisplayPrice,
   hasDisplayReviews,
   getDisplayRating,
   formatDetailSpecRowDisplayValue,
   showsGadgetConnection,
-  gadgets,
   withGamingChairCsvOverlay,
   type Gadget,
 } from "@/lib/gadgets"
 import { getGamingChairDetailSpecSections } from "@/lib/gaming-chair-detail-specs"
-import { getDetailFilterTags } from "@/lib/gadget-filters"
 import {
+  filterDetailHighlightRows,
   filterDetailSpecGroups,
   getMonitorDetailSpecGroups,
+  isHiddenDetailSpecLabel,
 } from "@/lib/monitor-detail-specs"
 import { getCameraDetailSpecGroups } from "@/lib/camera-detail-specs"
 import { getMonitorArmDetailSpecGroups } from "@/lib/monitor-arm-detail-specs"
 import { getAudioInterfaceDetailSpecGroups } from "@/lib/audio-interface-detail-specs"
-
-const listableGadgetsForFilters = getListableGadgets(gadgets, false)
+import {
+  filterKeyboardDetailHighlights,
+  filterKeyboardDetailSpecGroups,
+} from "@/lib/keyboard-detail-display"
 
 const detailTextClass =
   "whitespace-normal break-words text-pretty [overflow-wrap:anywhere]"
@@ -63,8 +63,10 @@ export function GadgetDetail({
 
   const displayGadget = withGamingChairCsvOverlay(gadget)
   const displayBadge = getDisplayBadge(gadget)
-  const filterTags = getDetailFilterTags(gadget, listableGadgetsForFilters)
-  const detailHighlights = getDetailHighlights(gadget)
+  const detailHighlights = filterKeyboardDetailHighlights(
+    gadget,
+    filterDetailHighlightRows(getDetailHighlights(gadget)),
+  )
   const gamingChairDetailSections =
     gadget.category === "gaming-chair" ? getGamingChairDetailSpecSections(gadget) : null
   let specGroups =
@@ -82,7 +84,7 @@ export function GadgetDetail({
     specGroups = []
   }
 
-  specGroups = filterDetailSpecGroups(specGroups)
+  specGroups = filterKeyboardDetailSpecGroups(gadget, filterDetailSpecGroups(specGroups))
 
   const detailHighlightsBlock = (
     <dl className="grid grid-cols-2 gap-2 rounded-xl bg-secondary/50 p-3">
@@ -242,29 +244,14 @@ export function GadgetDetail({
                 </p>
               </section>
 
-              {filterTags.length > 0 && (
-                <section className="mt-5">
-                  <h3 className="text-xs font-semibold tracking-wide text-muted-foreground">
-                    絞り込み条件
-                  </h3>
-                  <div className="mt-2 flex flex-wrap gap-2">
-                    {filterTags.map((tag) => (
-                      <CompatPill
-                        key={tag.label}
-                        tag={tag}
-                        className="h-auto max-w-full whitespace-normal break-words text-left [overflow-wrap:anywhere]"
-                      />
-                    ))}
-                  </div>
-                </section>
-              )}
-
               {gamingChairDetailSections ? (
                 <section className="mt-6 min-w-0 space-y-5 border-t border-border/50 pt-6 pb-2">
                   <div className="min-w-0">
                     <h3 className="text-sm font-semibold text-primary">詳細情報</h3>
                     <dl className="mt-2.5 grid min-w-0 grid-cols-2 gap-2">
-                      {gamingChairDetailSections.detailInfo.map((item) => (
+                      {gamingChairDetailSections.detailInfo
+                        .filter((item) => !isHiddenDetailSpecLabel(item.label))
+                        .map((item) => (
                         <div
                           key={`${gadget.id}-detail-${item.label}`}
                           className="min-w-0 space-y-1 rounded-lg bg-secondary/50 px-3 py-2.5 text-sm"
@@ -283,7 +270,9 @@ export function GadgetDetail({
                   <div className="min-w-0">
                     <h3 className="text-sm font-semibold text-primary">フレーム</h3>
                     <dl className="mt-2.5 grid min-w-0 grid-cols-2 gap-2">
-                      {gamingChairDetailSections.frame.map((item) => (
+                      {gamingChairDetailSections.frame
+                        .filter((item) => !isHiddenDetailSpecLabel(item.label))
+                        .map((item) => (
                         <div
                           key={`${gadget.id}-frame-${item.label}`}
                           className="min-w-0 space-y-1 rounded-lg bg-secondary/50 px-3 py-2.5 text-sm"

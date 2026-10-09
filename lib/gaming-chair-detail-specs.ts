@@ -3,7 +3,7 @@ import { getCardHighlights, UNSPECIFIED_SPEC } from "@/lib/gadgets"
 import { getGamingChairFrameMaterial } from "@/lib/gaming-chair-filter-tags"
 import { formatShapeLabel } from "@/lib/gaming-chair-shape-display"
 import { getGamingChairCsvRow, hasGamingChairCsvRow } from "@/lib/gaming-chairs-csv-data"
-import { filterDetailSpecGroups } from "@/lib/monitor-detail-specs"
+import { filterDetailSpecGroups, isHiddenDetailSpecLabel } from "@/lib/monitor-detail-specs"
 
 export type GamingChairDetailSpecItem = {
   label: string
@@ -58,6 +58,7 @@ function rowsFromSpecGroups(
     if (SKIP_GROUP_TITLES.test(group.title)) continue
     for (const row of group.rows) {
       if (!isFilledValue(row.value)) continue
+      if (isHiddenDetailSpecLabel(row.label)) continue
       if (isPrimaryHighlightLabel(row.label, primaryLabels)) continue
       if (skipLabels.has(row.label)) continue
       if (isHiddenSecondaryLabel(row.label)) continue

@@ -10,6 +10,7 @@ import {
   formatSpecRowDisplayValue,
   type Gadget,
 } from "@/lib/gadgets"
+import { filterDetailSpecGroups, isHiddenDetailSpecLabel } from "@/lib/monitor-detail-specs"
 
 type Row = { label: string; values: (string | null)[] }
 type Group = { title: string; rows: Row[] }
@@ -17,29 +18,34 @@ type Group = { title: string; rows: Row[] }
 function buildGroups(gadgets: Gadget[]): Group[] {
   const groupTitles: string[] = []
   for (const g of gadgets) {
-    for (const grp of g.specGroups) {
+    for (const grp of filterDetailSpecGroups(g.specGroups)) {
       if (!groupTitles.includes(grp.title)) groupTitles.push(grp.title)
     }
   }
 
-  return groupTitles.map((title) => {
-    const labels: string[] = []
-    for (const g of gadgets) {
-      const grp = g.specGroups.find((x) => x.title === title)
-      if (!grp) continue
-      for (const r of grp.rows) if (!labels.includes(r.label)) labels.push(r.label)
-    }
-    const rows: Row[] = labels.map((label) => ({
-      label,
-      values: gadgets.map((g) => {
-        const grp = g.specGroups.find((x) => x.title === title)
-        const value = grp?.rows.find((r) => r.label === label)?.value ?? null
-        if (value) return formatSpecRowDisplayValue(g, label, value)
-        return value
-      }),
-    }))
-    return { title, rows }
-  })
+  return groupTitles
+    .map((title) => {
+      const labels: string[] = []
+      for (const g of gadgets) {
+        const grp = filterDetailSpecGroups(g.specGroups).find((x) => x.title === title)
+        if (!grp) continue
+        for (const r of grp.rows) {
+          if (isHiddenDetailSpecLabel(r.label)) continue
+          if (!labels.includes(r.label)) labels.push(r.label)
+        }
+      }
+      const rows: Row[] = labels.map((label) => ({
+        label,
+        values: gadgets.map((g) => {
+          const grp = filterDetailSpecGroups(g.specGroups).find((x) => x.title === title)
+          const value = grp?.rows.find((r) => r.label === label)?.value ?? null
+          if (value) return formatSpecRowDisplayValue(g, label, value)
+          return value
+        }),
+      }))
+      return { title, rows }
+    })
+    .filter((group) => group.rows.length > 0)
 }
 
 export function CompareView({
