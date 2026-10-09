@@ -80,43 +80,47 @@ export const GadgetCard = memo(function GadgetCard({
   const highlights = useMemo(() => getCardHighlights(gadget), [gadget])
   const displayBadge = useMemo(() => getDisplayBadge(gadget), [gadget])
 
-  const specHighlightsGrid = (variant: "medium-mobile" | "default") => (
-    <dl
-      className={cn(
-        "grid min-w-0 overflow-hidden rounded-lg border border-slate-100 bg-slate-50 text-center",
-        variant === "medium-mobile"
-          ? "grid-cols-4 gap-1 p-1"
-          : cn("grid-cols-2", isMedium ? "gap-x-1.5 gap-y-1 p-2.5" : "gap-x-2 gap-y-1.5 p-3"),
-      )}
-    >
-      {highlights.map((h) => (
-        <div
-          key={`${gadget.id}-${h.label}-${variant}`}
-          className={cn(
-            "min-w-0",
-            variant === "medium-mobile" ? "px-0.5 py-0" : "overflow-hidden px-1 py-0.5",
-          )}
-        >
-          <dt
-            className={cn(
-              "block min-w-0 text-xs leading-4 text-muted-foreground",
-              variant === "medium-mobile" ? "break-words [overflow-wrap:anywhere]" : "truncate whitespace-nowrap",
-            )}
-          >
-            {getCardHighlightLabel(gadget, h.label)}
-          </dt>
-          <dd
-            className={cn(
-              "mt-0.5 block min-w-0 text-xs font-semibold leading-4 text-slate-800",
-              variant === "medium-mobile" ? "break-words [overflow-wrap:anywhere]" : "truncate whitespace-nowrap",
-            )}
-          >
-            {h.value}
-          </dd>
-        </div>
-      ))}
-    </dl>
-  )
+  const specHighlightsGrid = (variant: "medium-mobile" | "default") => {
+    if (variant === "medium-mobile") {
+      return (
+        <dl className="flex min-w-0 flex-1 flex-col justify-center gap-1 rounded-lg border border-slate-100 bg-slate-50 p-2 text-left">
+          {highlights.map((h) => (
+            <div
+              key={`${gadget.id}-${h.label}-medium-mobile`}
+              className="flex min-w-0 flex-row items-baseline justify-between gap-2 py-0.5"
+            >
+              <dt className="min-w-0 max-w-[46%] shrink-0 text-xs leading-4 text-muted-foreground [overflow-wrap:anywhere]">
+                {getCardHighlightLabel(gadget, h.label)}
+              </dt>
+              <dd className="min-w-0 flex-1 text-right text-xs font-semibold leading-4 text-slate-800 [overflow-wrap:anywhere]">
+                {h.value}
+              </dd>
+            </div>
+          ))}
+        </dl>
+      )
+    }
+
+    return (
+      <dl
+        className={cn(
+          "grid min-w-0 grid-cols-2 overflow-hidden rounded-lg border border-slate-100 bg-slate-50 text-center",
+          isMedium ? "gap-x-1.5 gap-y-1 p-2.5" : "gap-x-2 gap-y-1.5 p-3",
+        )}
+      >
+        {highlights.map((h) => (
+          <div key={`${gadget.id}-${h.label}-default`} className="min-w-0 overflow-hidden px-1 py-0.5">
+            <dt className="block min-w-0 truncate whitespace-nowrap text-xs leading-4 text-muted-foreground">
+              {getCardHighlightLabel(gadget, h.label)}
+            </dt>
+            <dd className="mt-0.5 block min-w-0 truncate whitespace-nowrap text-xs font-semibold leading-4 text-slate-800">
+              {h.value}
+            </dd>
+          </div>
+        ))}
+      </dl>
+    )
+  }
 
   const priceBlock = (
     hasCardDisplayPrice(gadget) ? (
@@ -195,25 +199,23 @@ export const GadgetCard = memo(function GadgetCard({
       >
         {isMedium ? (
           <>
-            <div className="flex flex-col bg-white sm:hidden">
-              <div className="flex min-w-0 flex-row items-stretch gap-1 p-2 pt-3">
-                <div className="relative aspect-square w-20 shrink-0 overflow-hidden rounded-md bg-gradient-to-b from-slate-50 to-white ring-1 ring-slate-100">
+            <div className="flex min-h-[8.5rem] flex-col bg-white sm:hidden">
+              <div className="flex min-w-0 flex-1 flex-row items-stretch gap-2.5 p-3.5 pt-4">
+                <div className="relative aspect-square w-24 shrink-0 overflow-hidden rounded-md bg-gradient-to-b from-slate-50 to-white ring-1 ring-slate-100">
                   <GadgetImage
                     src={gadget.image}
                     alt={`${displayGadget.brand} ${displayGadget.name}`}
                     category={gadget.category}
-                    sizes="80px"
-                    className="p-1 transition-transform duration-300 group-hover:scale-[1.02]"
+                    sizes="96px"
+                    className="p-1.5 transition-transform duration-300 group-hover:scale-[1.02]"
                   />
                   {showRatingOnImage ? <ImageRatingBadge gadget={gadget} compact /> : null}
                 </div>
                 {showSpecs ? specHighlightsGrid("medium-mobile") : null}
               </div>
-              <div className="flex min-w-0 flex-col gap-0.5 border-t border-slate-100 px-2 pb-2.5 pt-1.5">
-                <div className="flex min-w-0 items-start justify-between gap-2">
-                  <h3 className={cn(titleClassName, "min-w-0 flex-1")}>{displayGadget.name}</h3>
-                  {priceBlock ? <div className="shrink-0 text-right">{priceBlock}</div> : null}
-                </div>
+              <div className="flex min-w-0 flex-col gap-1 border-t border-slate-100 px-3.5 pb-4 pt-2.5">
+                <h3 className={cn(titleClassName, "min-w-0")}>{displayGadget.name}</h3>
+                {priceBlock}
               </div>
             </div>
 
