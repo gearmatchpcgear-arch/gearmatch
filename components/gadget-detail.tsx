@@ -34,10 +34,17 @@ import { getAudioInterfaceDetailSpecGroups } from "@/lib/audio-interface-detail-
 import {
   filterKeyboardDetailHighlights,
   filterKeyboardDetailSpecGroups,
+  formatKeyboardDetailSpecRowDisplayValue,
 } from "@/lib/keyboard-detail-display"
 
 const detailTextClass =
   "whitespace-normal break-words text-pretty [overflow-wrap:anywhere]"
+
+function formatDetailSpecDisplay(gadget: Gadget, label: string, value: string): string {
+  const keyboardValue = formatKeyboardDetailSpecRowDisplayValue(gadget, label, value)
+  if (keyboardValue !== undefined) return keyboardValue
+  return formatDetailSpecRowDisplayValue(gadget, label, value)
+}
 
 export function GadgetDetail({
   gadget,
@@ -185,7 +192,7 @@ export function GadgetDetail({
                       {getCardHighlightLabel(gadget, item.label)}
                     </dt>
                     <dd className={cn(detailTextClass, "font-mono text-[13px] leading-snug text-card-foreground")}>
-                      {formatDetailSpecRowDisplayValue(gadget, item.label, item.value)}
+                      {formatDetailSpecDisplay(gadget, item.label, item.value)}
                     </dd>
                   </div>
                 ))}
@@ -206,7 +213,7 @@ export function GadgetDetail({
                       {getCardHighlightLabel(gadget, item.label)}
                     </dt>
                     <dd className={cn(detailTextClass, "font-mono text-[13px] leading-snug text-card-foreground")}>
-                      {formatDetailSpecRowDisplayValue(gadget, item.label, item.value)}
+                      {formatDetailSpecDisplay(gadget, item.label, item.value)}
                     </dd>
                   </div>
                 ))}
@@ -229,7 +236,7 @@ export function GadgetDetail({
                     {getCardHighlightLabel(gadget, row.label)}
                   </dt>
                   <dd className={cn(detailTextClass, "font-mono text-[13px] leading-snug text-card-foreground")}>
-                    {formatDetailSpecRowDisplayValue(gadget, row.label, row.value)}
+                    {formatDetailSpecDisplay(gadget, row.label, row.value)}
                   </dd>
                 </div>
               ))}
@@ -290,30 +297,28 @@ export function GadgetDetail({
                 className="max-h-full p-4"
               />
               {displayBadge ? (
-                <span className="absolute left-3 top-3 inline-flex w-fit items-center rounded-full bg-primary/10 px-2 py-0.5 text-[9px] font-bold text-primary ring-1 ring-primary/20">
+                <span className="absolute left-3 top-3 z-10 inline-flex w-fit items-center rounded-full bg-primary/10 px-2 py-0.5 text-[9px] font-bold text-primary ring-1 ring-primary/20">
                   {displayBadge}
                 </span>
               ) : null}
+              <button
+                type="button"
+                onClick={onClose}
+                aria-label="閉じる"
+                className="absolute right-3 top-3 z-10 inline-flex size-10 items-center justify-center rounded-full bg-black/40 p-2 text-white shadow-md backdrop-blur-sm transition-colors hover:bg-black/55"
+              >
+                <X className="size-5" aria-hidden />
+              </button>
             </div>
 
             <div className="space-y-4 p-4 pb-8">
-              <div className="flex items-start justify-between gap-3">
-                <div className="min-w-0 flex-1">
-                  <p className="text-xs font-medium uppercase tracking-wide text-muted-foreground">
-                    {displayGadget.brand}
-                  </p>
-                  <h2 className="text-balance text-lg font-semibold leading-snug text-card-foreground">
-                    {displayGadget.name}
-                  </h2>
-                </div>
-                <button
-                  type="button"
-                  onClick={onClose}
-                  aria-label="閉じる"
-                  className="inline-flex size-9 shrink-0 items-center justify-center rounded-full bg-secondary text-muted-foreground transition-colors hover:bg-secondary/80 hover:text-foreground"
-                >
-                  <X className="size-4" />
-                </button>
+              <div className="min-w-0">
+                <p className="text-xs font-medium uppercase tracking-wide text-muted-foreground">
+                  {displayGadget.brand}
+                </p>
+                <h2 className="text-balance text-lg font-semibold leading-snug text-card-foreground">
+                  {displayGadget.name}
+                </h2>
               </div>
 
               <div className="flex flex-wrap items-center justify-between gap-3">
