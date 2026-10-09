@@ -321,9 +321,9 @@ export function GadgetDetail({
                 </h2>
               </div>
 
-              <div className="flex flex-wrap items-center justify-between gap-3">
-                {reviewBlock}
+              <div className="flex flex-row flex-wrap items-center justify-between gap-2">
                 {priceDisplay}
+                {reviewBlock}
               </div>
 
               <div className="flex flex-col gap-2 sm:flex-row">

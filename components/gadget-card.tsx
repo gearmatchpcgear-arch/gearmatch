@@ -146,6 +146,35 @@ export const GadgetCard = memo(function GadgetCard({
     isSmall ? "line-clamp-2 text-xs" : isMedium ? "line-clamp-2 text-sm" : "line-clamp-1 text-sm",
   )
 
+  const cardOpenButtonClassName =
+    "text-left focus:outline-none focus-visible:ring-2 focus-visible:ring-ring"
+
+  const compareButton = (
+    <button
+      type="button"
+      onClick={(event) => {
+        event.stopPropagation()
+        onToggleCompare(gadget.id)
+      }}
+      disabled={compareDisabled && !isComparing}
+      aria-pressed={isComparing}
+      aria-label={isComparing ? "比較から外す" : "比較に追加"}
+      className={cn(
+        "inline-flex items-center justify-center rounded-full text-xs shadow-sm transition-colors",
+        isSmall ? "size-6" : "size-7",
+        isComparing
+          ? "bg-primary text-primary-foreground"
+          : "bg-white/95 text-muted-foreground ring-1 ring-slate-200 backdrop-blur hover:text-foreground disabled:opacity-40",
+      )}
+    >
+      {isComparing ? (
+        <Check className={isSmall ? "size-3" : "size-3.5"} />
+      ) : (
+        <Plus className={isSmall ? "size-3" : "size-3.5"} />
+      )}
+    </button>
+  )
+
   return (
     <article
       className={cn(
@@ -171,49 +200,21 @@ export const GadgetCard = memo(function GadgetCard({
         className={cn(
           "absolute z-[1] flex items-center",
           isSmall && "right-1.5 top-1.5 gap-1",
-          isMedium &&
-            "bottom-2 right-2 flex-row items-center gap-1.5 sm:bottom-auto sm:right-2.5 sm:top-2.5 sm:gap-1.5",
+          isMedium && "max-sm:hidden right-2.5 top-2.5 gap-1.5",
           isLarge && "right-2.5 top-2.5 gap-1.5",
         )}
       >
-        {isMedium ? (
-          <div className="sm:hidden">
-            <ImageRatingBadge gadget={gadget} compact inline />
-          </div>
-        ) : null}
-        <button
-          type="button"
-          onClick={(event) => {
-            event.stopPropagation()
-            onToggleCompare(gadget.id)
-          }}
-          disabled={compareDisabled && !isComparing}
-          aria-pressed={isComparing}
-          aria-label={isComparing ? "比較から外す" : "比較に追加"}
-          className={cn(
-            "inline-flex items-center justify-center rounded-full text-xs shadow-sm transition-colors",
-            isSmall ? "size-6" : "size-7",
-            isComparing
-              ? "bg-primary text-primary-foreground"
-              : "bg-white/95 text-muted-foreground ring-1 ring-slate-200 backdrop-blur hover:text-foreground disabled:opacity-40",
-          )}
-        >
-          {isComparing ? (
-            <Check className={isSmall ? "size-3" : "size-3.5"} />
-          ) : (
-            <Plus className={isSmall ? "size-3" : "size-3.5"} />
-          )}
-        </button>
+        {compareButton}
       </div>
 
-      <button
-        type="button"
-        onClick={() => onOpen(gadget.id)}
-        className="flex min-h-0 min-w-0 flex-1 flex-col text-left focus:outline-none focus-visible:ring-2 focus-visible:ring-ring"
-      >
-        {isMedium ? (
-          <>
-            <div className="flex min-h-[8.5rem] flex-col bg-white sm:hidden">
+      {isMedium ? (
+        <>
+          <div className="flex min-h-0 min-w-0 flex-1 flex-col bg-white sm:hidden">
+            <button
+              type="button"
+              onClick={() => onOpen(gadget.id)}
+              className={cn(cardOpenButtonClassName, "flex min-w-0 flex-1 flex-col")}
+            >
               <div className="flex min-w-0 flex-1 flex-row items-stretch gap-1.5 p-3.5 pt-4">
                 <div className="relative aspect-square w-20 shrink-0 overflow-hidden rounded-md bg-gradient-to-b from-slate-50 to-white ring-1 ring-slate-100">
                   <GadgetImage
@@ -226,31 +227,60 @@ export const GadgetCard = memo(function GadgetCard({
                 </div>
                 {showSpecs ? specHighlightsGrid("medium-mobile") : null}
               </div>
-              <div className="flex min-w-0 flex-col gap-1 border-t border-slate-100 px-3.5 pb-10 pt-2.5">
+              <div className="border-t border-slate-100 px-3.5 pt-2 pb-1">
                 <h3 className={cn(titleClassName, "min-w-0")}>{displayGadget.name}</h3>
-                {priceBlock ? <div className="pr-1">{priceBlock}</div> : null}
+              </div>
+            </button>
+            <div className="flex items-center justify-between gap-2 px-3.5 pb-2.5 pt-0.5">
+              {priceBlock ? (
+                <button
+                  type="button"
+                  onClick={() => onOpen(gadget.id)}
+                  className={cn(cardOpenButtonClassName, "min-w-0 shrink")}
+                >
+                  {priceBlock}
+                </button>
+              ) : (
+                <div className="min-w-0 flex-1" aria-hidden />
+              )}
+              <div className="flex shrink-0 items-center gap-1.5">
+                <ImageRatingBadge gadget={gadget} compact inline />
+                {compareButton}
               </div>
             </div>
+          </div>
 
-            <div className="hidden min-h-0 min-w-0 flex-1 flex-col sm:flex">
-              <div className="relative aspect-square overflow-hidden bg-gradient-to-b from-slate-50 to-white">
-                <GadgetImage
-                  src={gadget.image}
-                  alt={`${displayGadget.brand} ${displayGadget.name}`}
-                  category={gadget.category}
-                  sizes="(max-width: 768px) 50vw, 240px"
-                  className="p-3 transition-transform duration-300 group-hover:scale-[1.02]"
-                />
-                <ImageRatingBadge gadget={gadget} />
-              </div>
-              <div className="flex min-w-0 flex-1 flex-col gap-2 overflow-hidden bg-white p-4 md:p-4 lg:p-5">
-                <h3 className={titleClassName}>{displayGadget.name}</h3>
-                {showSpecs ? specHighlightsGrid("default") : null}
-                {priceBlock}
-              </div>
+          <button
+            type="button"
+            onClick={() => onOpen(gadget.id)}
+            className={cn(
+              cardOpenButtonClassName,
+              "hidden min-h-0 min-w-0 flex-1 flex-col sm:flex",
+            )}
+          >
+            <div className="relative aspect-square overflow-hidden bg-gradient-to-b from-slate-50 to-white">
+              <GadgetImage
+                src={gadget.image}
+                alt={`${displayGadget.brand} ${displayGadget.name}`}
+                category={gadget.category}
+                sizes="(max-width: 768px) 50vw, 240px"
+                className="p-3 transition-transform duration-300 group-hover:scale-[1.02]"
+              />
+              <ImageRatingBadge gadget={gadget} />
             </div>
-          </>
-        ) : (
+            <div className="flex min-w-0 flex-1 flex-col gap-2 overflow-hidden bg-white p-4 md:p-4 lg:p-5">
+              <h3 className={titleClassName}>{displayGadget.name}</h3>
+              {showSpecs ? specHighlightsGrid("default") : null}
+              {priceBlock}
+            </div>
+          </button>
+        </>
+      ) : (
+        <button
+          type="button"
+          onClick={() => onOpen(gadget.id)}
+          className={cn(cardOpenButtonClassName, "flex min-h-0 min-w-0 flex-1 flex-col")}
+        >
           <>
             <div className="relative aspect-square overflow-hidden bg-gradient-to-b from-slate-50 to-white">
               <GadgetImage
@@ -294,8 +324,8 @@ export const GadgetCard = memo(function GadgetCard({
               {priceBlock}
             </div>
           </>
-        )}
-      </button>
+        </button>
+      )}
     </article>
   )
 })
