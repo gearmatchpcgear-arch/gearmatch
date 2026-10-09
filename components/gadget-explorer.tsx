@@ -108,7 +108,7 @@ const MOBILE_CARD_SIZE_MAX_WIDTH_PX = 639
 
 const CARD_GRID_BY_SIZE: Record<CardSize, string> = {
   large: "grid grid-cols-1 gap-4 md:grid-cols-2 md:gap-5 lg:grid-cols-3 lg:gap-6",
-  medium: "grid grid-cols-2 gap-3.5 sm:gap-4 md:grid-cols-3 md:gap-5 lg:grid-cols-4 lg:gap-6",
+  medium: "grid grid-cols-1 gap-3.5 sm:grid-cols-2 sm:gap-4 md:grid-cols-3 md:gap-5 lg:grid-cols-4 lg:gap-6",
   small: "grid grid-cols-2 gap-3 sm:gap-4 md:grid-cols-4 md:gap-4 lg:grid-cols-6 lg:gap-5",
 }
 
