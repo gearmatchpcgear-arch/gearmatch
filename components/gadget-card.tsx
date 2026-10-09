@@ -21,6 +21,9 @@ import { GadgetImage } from "@/components/gadget-image"
 const badgeClassName =
   "inline-flex w-fit items-center rounded-full bg-primary/10 px-2 py-0.5 text-[9px] font-bold tracking-wide text-primary ring-1 ring-primary/20"
 
+const specGridShellClassName =
+  "overflow-hidden rounded-lg border border-slate-200/80 bg-slate-50"
+
 export type CardSize = "large" | "medium" | "small"
 
 const IMAGE_RATING_BADGE_OVERLAY_CLASS =
@@ -89,11 +92,16 @@ export const GadgetCard = memo(function GadgetCard({
   const specHighlightsGrid = (variant: "medium-mobile" | "default") => {
     if (variant === "medium-mobile") {
       return (
-        <dl className="flex min-w-0 flex-1 flex-col justify-center gap-0.5 overflow-hidden rounded-lg border border-slate-100 bg-slate-50 px-1 py-1 text-left">
+        <dl
+          className={cn(
+            specGridShellClassName,
+            "flex min-w-0 flex-1 flex-col justify-center gap-1.5 p-2.5 text-left",
+          )}
+        >
           {highlights.map((h) => (
             <div
               key={`${gadget.id}-${h.label}-medium-mobile`}
-              className="grid w-full min-w-0 grid-cols-[auto_minmax(0,1fr)] items-center gap-x-0.5"
+              className="grid w-full min-w-0 grid-cols-[auto_minmax(0,1fr)] items-center gap-x-2"
             >
               <dt className="shrink-0 whitespace-nowrap text-xs leading-4 text-muted-foreground">
                 {getCardHighlightLabel(gadget, h.label)}
@@ -110,12 +118,13 @@ export const GadgetCard = memo(function GadgetCard({
     return (
       <dl
         className={cn(
-          "grid min-w-0 grid-cols-2 overflow-hidden rounded-lg border border-slate-100 bg-slate-50 text-center",
-          isMedium ? "gap-x-1.5 gap-y-1 p-2.5" : "gap-x-2 gap-y-1.5 p-3",
+          specGridShellClassName,
+          "grid min-w-0 grid-cols-2 gap-2 text-center",
+          isMedium ? "p-2.5" : "p-3",
         )}
       >
         {highlights.map((h) => (
-          <div key={`${gadget.id}-${h.label}-default`} className="min-w-0 overflow-hidden px-1 py-0.5">
+          <div key={`${gadget.id}-${h.label}-default`} className="min-w-0 overflow-hidden">
             <dt className="block min-w-0 truncate whitespace-nowrap text-xs leading-4 text-muted-foreground">
               {getCardHighlightLabel(gadget, h.label)}
             </dt>

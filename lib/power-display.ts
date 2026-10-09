@@ -185,6 +185,16 @@ export function formatGadgetPowerDisplay(gadget: PowerGadgetContext, rawValue: s
   return raw
 }
 
+/** マウス一覧カード用：全角・半角括弧と括弧内テキストを除去 */
+export function compactMouseCardPowerDisplay(text: string): string {
+  if (!text?.trim() || text === UNSPECIFIED_SPEC || text === "-") return text
+  const stripped = text
+    .replace(/[（(][^）)]*[）)]/g, "")
+    .replace(/\s+/g, " ")
+    .trim()
+  return stripped || text
+}
+
 /** カード・詳細モーダル共通の「電源」表示 */
 export function getGadgetPowerDisplay(gadget: PowerGadgetContext): string {
   const raw = readGadgetPowerRaw(gadget)

@@ -760,14 +760,14 @@ function FilterResultBadge({
   ready?: boolean
 }) {
   if (!ready) {
-    return <CountSkeleton className="h-5 w-14 rounded-full" />
+    return <CountSkeleton className="hidden h-5 w-14 rounded-full sm:inline-block" />
   }
 
   const isNarrowed = filtered < total
 
   return (
     <span
-      className="inline-flex shrink-0 items-center gap-1.5"
+      className="hidden shrink-0 items-center gap-1.5 sm:inline-flex"
       aria-label={
         isNarrowed ? `全${total}件中${filtered}件を表示` : `${filtered}件を表示`
       }
@@ -969,14 +969,14 @@ function CategoryTag({
         (countsReady ? (
           <span
             className={cn(
-              "font-mono text-xs",
+              "hidden font-mono text-xs sm:inline",
               active ? "text-primary-foreground/75" : "text-muted-foreground/70",
             )}
           >
             {count}
           </span>
         ) : (
-          <CountSkeleton className="h-3.5 w-8 rounded-full" />
+          <CountSkeleton className="hidden h-3.5 w-8 rounded-full sm:inline-block" />
         ))}
     </button>
   )

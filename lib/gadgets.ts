@@ -97,7 +97,11 @@ import {
   getGadgetConnectionDisplay,
   normalizeUsbConnectionDisplay,
 } from "./usb-connection-display"
-import { formatGadgetPowerDisplay, getGadgetPowerDisplay } from "./power-display"
+import {
+  compactMouseCardPowerDisplay,
+  formatGadgetPowerDisplay,
+  getGadgetPowerDisplay,
+} from "./power-display"
 import {
   getKeyboardCardHighlightEntries,
   getKeyboardInternalStructure,
@@ -1987,7 +1991,10 @@ function formatSpecRowDisplayValueInner(
   }
 
   const sanitized = sanitizeSpecDisplayValue(value, label, gadget)
-  if (label === "電源") return getGadgetPowerDisplay(gadget)
+  if (label === "電源") {
+    if (gadget.category === "mouse" && isCardSpecValueFilled(sanitized)) return sanitized
+    return getGadgetPowerDisplay(gadget)
+  }
   if (label === "重量") {
     if (gadget.category === "monitor") {
       if (/\bkg\b/i.test(sanitized)) return sanitized
@@ -2092,20 +2099,29 @@ export function getMouseCardPowerDisplay(gadget: Gadget): string {
     battery?: string
   }
 
+  let resolved = ""
+
   for (const candidate of [extended.powerSource, extended.powerType, extended.battery]) {
     if (isCardSpecValueFilled(candidate)) {
       const formatted = formatGadgetPowerDisplay(gadget, candidate!)
-      if (isCardSpecValueFilled(formatted)) return formatted
+      if (isCardSpecValueFilled(formatted)) {
+        resolved = formatted
+        break
+      }
     }
   }
 
-  const fromHighlight = gadget.highlights.find((h) => h.label === "電源")?.value
-  if (isCardSpecValueFilled(fromHighlight)) {
-    const formatted = formatGadgetPowerDisplay(gadget, fromHighlight!)
-    if (isCardSpecValueFilled(formatted)) return formatted
+  if (!resolved) {
+    const fromHighlight = gadget.highlights.find((h) => h.label === "電源")?.value
+    if (isCardSpecValueFilled(fromHighlight)) {
+      const formatted = formatGadgetPowerDisplay(gadget, fromHighlight!)
+      if (isCardSpecValueFilled(formatted)) resolved = formatted
+    }
   }
 
-  return getGadgetPowerDisplay(gadget)
+  if (!resolved) resolved = getGadgetPowerDisplay(gadget)
+
+  return compactMouseCardPowerDisplay(resolved)
 }
 
 export { getMouseButtonCountDisplay } from "./mouse-button-count"
@@ -2560,7 +2576,15 @@ export function getDetailHighlights(gadget: Gadget): { label: string; value: str
 
   return getCardHighlights(gadget).map((h) => {
     let value = h.value
-    if (/[…\.]{3}$/.test(value.trim())) {
+    if (gadget.category === "mouse" && h.label === "電源") {
+      for (const group of gadget.specGroups) {
+        const row = group.rows.find((r) => r.label === "電源")
+        if (row?.value && isCardSpecValueFilled(row.value)) {
+          value = sanitizeSpecDisplayValue(row.value, h.label, gadget)
+          break
+        }
+      }
+    } else if (/[…\.]{3}$/.test(value.trim())) {
       for (const group of gadget.specGroups) {
         const row = group.rows.find((r) => r.label === h.label)
         if (row?.value && isCardSpecValueFilled(row.value) && row.value.length > value.length) {
