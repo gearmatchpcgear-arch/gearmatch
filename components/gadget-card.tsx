@@ -83,16 +83,16 @@ export const GadgetCard = memo(function GadgetCard({
   const specHighlightsGrid = (variant: "medium-mobile" | "default") => {
     if (variant === "medium-mobile") {
       return (
-        <dl className="flex min-w-0 flex-1 flex-col justify-center gap-1 rounded-lg border border-slate-100 bg-slate-50 p-2 text-left">
+        <dl className="flex min-w-0 flex-1 flex-col justify-center gap-0.5 overflow-hidden rounded-lg border border-slate-100 bg-slate-50 px-1 py-1 text-left">
           {highlights.map((h) => (
             <div
               key={`${gadget.id}-${h.label}-medium-mobile`}
-              className="flex min-w-0 flex-row items-baseline justify-between gap-2 py-0.5"
+              className="grid w-full min-w-0 grid-cols-[auto_minmax(0,1fr)] items-center gap-x-0.5"
             >
-              <dt className="min-w-0 max-w-[46%] shrink-0 text-xs leading-4 text-muted-foreground [overflow-wrap:anywhere]">
+              <dt className="shrink-0 whitespace-nowrap text-xs leading-4 text-muted-foreground">
                 {getCardHighlightLabel(gadget, h.label)}
               </dt>
-              <dd className="min-w-0 flex-1 text-right text-xs font-semibold leading-4 text-slate-800 [overflow-wrap:anywhere]">
+              <dd className="min-w-0 truncate whitespace-nowrap text-right text-xs font-semibold leading-4 text-slate-800">
                 {h.value}
               </dd>
             </div>
@@ -200,14 +200,14 @@ export const GadgetCard = memo(function GadgetCard({
         {isMedium ? (
           <>
             <div className="flex min-h-[8.5rem] flex-col bg-white sm:hidden">
-              <div className="flex min-w-0 flex-1 flex-row items-stretch gap-2.5 p-3.5 pt-4">
-                <div className="relative aspect-square w-24 shrink-0 overflow-hidden rounded-md bg-gradient-to-b from-slate-50 to-white ring-1 ring-slate-100">
+              <div className="flex min-w-0 flex-1 flex-row items-stretch gap-1.5 p-3.5 pt-4">
+                <div className="relative aspect-square w-20 shrink-0 overflow-hidden rounded-md bg-gradient-to-b from-slate-50 to-white ring-1 ring-slate-100">
                   <GadgetImage
                     src={gadget.image}
                     alt={`${displayGadget.brand} ${displayGadget.name}`}
                     category={gadget.category}
-                    sizes="96px"
-                    className="p-1.5 transition-transform duration-300 group-hover:scale-[1.02]"
+                    sizes="80px"
+                    className="p-1 transition-transform duration-300 group-hover:scale-[1.02]"
                   />
                   {showRatingOnImage ? <ImageRatingBadge gadget={gadget} compact /> : null}
                 </div>
