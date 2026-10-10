@@ -4,6 +4,7 @@ import Image from "next/image"
 import { useEffect, useMemo, useState, type ImgHTMLAttributes } from "react"
 import { toProxiedProductImageSrc } from "@/lib/amazon-product-image-proxy"
 import { cn } from "@/lib/utils"
+import { GUIDE_RECOMMENDATION_IMAGE_SIZES } from "@/lib/guide-image-config"
 
 type ProductImageWithFallbackProps = {
   candidates: string[]
@@ -28,7 +29,7 @@ export function ProductImageWithFallback({
   className,
   loading = "lazy",
   priority = false,
-  sizes = "(max-width: 768px) 80vw, 320px",
+  sizes = GUIDE_RECOMMENDATION_IMAGE_SIZES,
   width = DEFAULT_GUIDE_IMAGE_SIZE,
   height = DEFAULT_GUIDE_IMAGE_SIZE,
   exhaustedLabel,
@@ -40,10 +41,12 @@ export function ProductImageWithFallback({
   )
   const [index, setIndex] = useState(0)
   const [exhausted, setExhausted] = useState(false)
+  const [loaded, setLoaded] = useState(false)
 
   useEffect(() => {
     setIndex(0)
     setExhausted(false)
+    setLoaded(false)
   }, [normalizedCandidates])
 
   const src = normalizedCandidates[index] ?? normalizedCandidates[normalizedCandidates.length - 1] ?? ""
@@ -65,28 +68,42 @@ export function ProductImageWithFallback({
   }
 
   return (
-    <Image
-      key={displaySrc}
-      src={displaySrc}
-      alt={alt}
-      width={width}
-      height={height}
-      sizes={sizes}
-      unoptimized
-      priority={priority}
-      loading={priority ? undefined : loading}
-      referrerPolicy={referrerPolicy}
-      decoding={priority ? "sync" : "async"}
-      onError={() => {
-        setIndex((current) => {
-          if (current < normalizedCandidates.length - 1) {
-            return current + 1
-          }
-          setExhausted(true)
-          return current
-        })
-      }}
-      className={cn(className)}
-    />
+    <div className="relative flex h-full w-full items-center justify-center">
+      {!loaded ? (
+        <div
+          className="absolute inset-0 animate-pulse rounded-md bg-slate-100 ring-1 ring-slate-200/80"
+          aria-hidden
+        />
+      ) : null}
+      <Image
+        key={displaySrc}
+        src={displaySrc}
+        alt={alt}
+        width={width}
+        height={height}
+        sizes={sizes}
+        unoptimized
+        priority={priority}
+        loading={priority ? undefined : loading}
+        referrerPolicy={referrerPolicy}
+        decoding={priority ? "sync" : "async"}
+        onLoad={() => setLoaded(true)}
+        onError={() => {
+          setLoaded(false)
+          setIndex((current) => {
+            if (current < normalizedCandidates.length - 1) {
+              return current + 1
+            }
+            setExhausted(true)
+            return current
+          })
+        }}
+        className={cn(
+          "relative z-[1] transition-opacity duration-200",
+          loaded ? "opacity-100" : "opacity-0",
+          className,
+        )}
+      />
+    </div>
   )
 }

@@ -40,11 +40,8 @@ import {
 const detailTextClass =
   "whitespace-normal break-words text-pretty [overflow-wrap:anywhere]"
 
-/** 一覧カードのスペック枠（border-slate-100 / bg-slate-50）に合わせた詳細モーダル用 */
-const detailSpecShellClassName =
-  "min-w-0 overflow-hidden rounded-xl border border-slate-200/80 bg-slate-50 shadow-sm"
-const detailSpecGridClassName = "grid min-w-0 gap-2 p-3 sm:grid-cols-2 sm:gap-3 sm:p-4"
-const detailSpecItemClassName = "min-w-0 space-y-1"
+const detailSpecItemClassName =
+  "min-w-0 space-y-1 rounded-lg border border-border/40 bg-secondary/50 px-3 py-2.5 text-sm"
 
 function formatDetailSpecDisplay(gadget: Gadget, label: string, value: string): string {
   const keyboardValue = formatKeyboardDetailSpecRowDisplayValue(gadget, label, value)
@@ -100,7 +97,7 @@ export function GadgetDetail({
   specGroups = filterKeyboardDetailSpecGroups(gadget, filterDetailSpecGroups(specGroups))
 
   const detailHighlightsBlock = (
-    <dl className={cn(detailSpecShellClassName, detailSpecGridClassName, "grid-cols-2")}>
+    <dl className="grid grid-cols-2 gap-2">
       {detailHighlights.map((h) => (
         <div
           key={`${gadget.id}-${h.label}`}
@@ -122,7 +119,7 @@ export function GadgetDetail({
 
   const connectionBlock =
     gadget.category !== "monitor" && showsGadgetConnection(gadget) ? (
-    <div className={cn(detailSpecShellClassName, "flex items-start gap-2 p-3 text-sm sm:p-4")}>
+    <div className="flex items-start gap-2 rounded-xl bg-secondary/40 px-3 py-2.5 text-sm">
       <Cable className="mt-0.5 size-4 shrink-0 text-primary/70" aria-hidden="true" />
       <p className={cn(detailTextClass, "min-w-0 leading-snug text-muted-foreground")}>
         <span className="font-medium text-foreground">接続</span>
@@ -186,7 +183,7 @@ export function GadgetDetail({
         <section className="min-w-0 space-y-5 border-t border-border/50 pt-6 pb-2 lg:mt-6">
           <div className="min-w-0">
             <h3 className="text-sm font-semibold text-primary">詳細情報</h3>
-            <dl className={cn(detailSpecShellClassName, detailSpecGridClassName, "mt-2.5 grid-cols-2")}>
+            <dl className="mt-2.5 grid min-w-0 grid-cols-2 gap-2">
               {gamingChairDetailSections.detailInfo
                 .filter((item) => !isHiddenDetailSpecLabel(item.label))
                 .map((item) => (
@@ -204,7 +201,7 @@ export function GadgetDetail({
 
           <div className="min-w-0">
             <h3 className="text-sm font-semibold text-primary">フレーム</h3>
-            <dl className={cn(detailSpecShellClassName, detailSpecGridClassName, "mt-2.5 grid-cols-2")}>
+            <dl className="mt-2.5 grid min-w-0 grid-cols-2 gap-2">
               {gamingChairDetailSections.frame
                 .filter((item) => !isHiddenDetailSpecLabel(item.label))
                 .map((item) => (
@@ -226,7 +223,7 @@ export function GadgetDetail({
         {specGroups.map((group) => (
           <div key={group.title} className="min-w-0">
             <h3 className="text-sm font-semibold text-primary">{group.title}</h3>
-            <dl className={cn(detailSpecShellClassName, detailSpecGridClassName, "mt-2.5")}>
+            <dl className="mt-2.5 grid min-w-0 gap-2 sm:grid-cols-2">
               {group.rows.map((row) => (
                 <div key={row.label} className={detailSpecItemClassName}>
                   <dt className={cn(detailTextClass, "leading-snug text-muted-foreground")}>

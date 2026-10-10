@@ -1,6 +1,6 @@
 "use client"
 
-import { useMemo, useState } from "react"
+import { useEffect, useMemo, useState } from "react"
 import { CategoryIcon } from "@/components/category-icon"
 import { CategoryScrollRow } from "@/components/category-scroll-row"
 import { GuidePointsSection } from "@/components/guide-points-section"
@@ -20,11 +20,23 @@ import {
   type CategoryId,
 } from "@/lib/gadgets"
 import { cn } from "@/lib/utils"
+import {
+  getGuideCategoryRecommendationImageUrls,
+  preloadGuideProductImages,
+  preloadGuideSlowCategoryImages,
+} from "@/lib/guide-image-preload"
 
 export function GuidePageContent() {
   const [activeCategory, setActiveCategory] = useState<CategoryId>("mouse")
 
   const listableGadgets = useMemo(() => getListableGadgets(gadgets, false), [])
+
+  useEffect(() => preloadGuideSlowCategoryImages(listableGadgets), [listableGadgets])
+
+  useEffect(() => {
+    const urls = getGuideCategoryRecommendationImageUrls(activeCategory, listableGadgets)
+    return preloadGuideProductImages(urls, 8)
+  }, [activeCategory, listableGadgets])
 
   const currentGuide = GUIDE_CONTENTS[activeCategory]
   const activeLabel = categories.find((c) => c.id === activeCategory)?.label ?? ""
@@ -37,6 +49,14 @@ export function GuidePageContent() {
             <button
               key={category.id}
               type="button"
+              onMouseEnter={() => {
+                const urls = getGuideCategoryRecommendationImageUrls(category.id, listableGadgets)
+                preloadGuideProductImages(urls, 6)
+              }}
+              onFocus={() => {
+                const urls = getGuideCategoryRecommendationImageUrls(category.id, listableGadgets)
+                preloadGuideProductImages(urls, 6)
+              }}
               onClick={() => setActiveCategory(category.id)}
               aria-pressed={activeCategory === category.id}
               className={cn(

@@ -20,6 +20,7 @@ import {
 } from "@/lib/gadgets"
 import { getGuideMonitorCardSpecs } from "@/lib/guide-monitor-card-specs"
 import { resolveGuidePriceLabel } from "@/lib/guide-price-label"
+import { GUIDE_RECOMMENDATION_IMAGE_SIZES } from "@/lib/guide-image-config"
 
 type GuideRecommendationCardProps = {
   pick: GuideCategoryRecommendation
@@ -87,7 +88,7 @@ export function GuideRecommendationCard({
               alt={pick.title}
               priority={priority}
               loading={priority ? "eager" : "lazy"}
-              sizes="(max-width: 768px) 80vw, 320px"
+              sizes={GUIDE_RECOMMENDATION_IMAGE_SIZES}
               referrerPolicy="no-referrer"
               className="max-h-full max-w-full object-contain"
             />

@@ -11,7 +11,10 @@ import {
   type GuideMicRecommendationId,
 } from "@/lib/guide-mic-recommendations"
 import { gadgets, type Gadget } from "@/lib/gadgets"
-import { preloadGuideProductImages } from "@/lib/guide-image-preload"
+import {
+  collectGuideRecommendationImageUrls,
+  preloadGuideProductImages,
+} from "@/lib/guide-image-preload"
 import { cn } from "@/lib/utils"
 
 function resolveGadget(gadgetId: string | undefined, pool: Gadget[]): Gadget | undefined {
@@ -38,17 +41,18 @@ export function GuideMicRecommendations({ pool }: GuideMicRecommendationsProps) 
   )
 
   useEffect(() => {
-    const urls = [
-      ...GUIDE_MIC_RECOMMENDATIONS.dynamic,
-      ...GUIDE_MIC_RECOMMENDATIONS.condenser,
-    ].flatMap((pick) => [pick.imageUrl, ...(pick.imageFallbackUrls ?? [])])
-    return preloadGuideProductImages(urls, 8)
-  }, [])
+    const resolve = (id: string) => resolveGadget(id, pool)
+    const urls = collectGuideRecommendationImageUrls(
+      [...GUIDE_MIC_RECOMMENDATIONS.dynamic, ...GUIDE_MIC_RECOMMENDATIONS.condenser],
+      resolve,
+    )
+    return preloadGuideProductImages(urls, 10)
+  }, [pool])
 
   useEffect(() => {
-    const urls = picks.flatMap((pick) => [pick.imageUrl, ...(pick.imageFallbackUrls ?? [])])
-    return preloadGuideProductImages(urls, 4)
-  }, [picks])
+    const urls = collectGuideRecommendationImageUrls(picks, (id) => resolveGadget(id, pool))
+    return preloadGuideProductImages(urls, 6)
+  }, [picks, pool])
 
   return (
     <section className="mb-12 space-y-6">

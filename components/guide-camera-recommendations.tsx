@@ -1,10 +1,14 @@
 "use client"
 
-import { useMemo } from "react"
+import { useEffect, useMemo } from "react"
 import Link from "next/link"
 import { GuideRecommendationCard } from "@/components/guide-recommendation-card"
 import { GUIDE_CAMERA_RECOMMENDATIONS } from "@/lib/guide-camera-recommendations"
 import { gadgets, type Gadget } from "@/lib/gadgets"
+import {
+  collectGuideRecommendationImageUrls,
+  preloadGuideProductImages,
+} from "@/lib/guide-image-preload"
 
 function resolveGadget(gadgetId: string | undefined, pool: Gadget[]): Gadget | undefined {
   if (!gadgetId) return undefined
@@ -25,6 +29,13 @@ export function GuideCameraRecommendations({ pool }: GuideCameraRecommendationsP
       })),
     [pool],
   )
+
+  useEffect(() => {
+    const urls = collectGuideRecommendationImageUrls(GUIDE_CAMERA_RECOMMENDATIONS, (id) =>
+      resolveGadget(id, pool),
+    )
+    return preloadGuideProductImages(urls, 6)
+  }, [pool])
 
   return (
     <section className="mb-12 space-y-6">

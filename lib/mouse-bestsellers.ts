@@ -2558,14 +2558,14 @@ export const mouseBestsellers: Gadget[] = [
     mouseUsage: "productivity",
     mouseFilterTags: ["reading-trackball"],
     highlights: [
-      { label: "重量", value: "26 g" },
+      { label: "重量", value: "90 g" },
       { label: "最大DPI", value: "—" },
       { label: "読み取り方式", value: "トラックボール" },
       { label: "ポーリングレート", value: "—" }],
     compat: [],
     specGroups: [
       { title: "サイズ / 重量", rows: [
-          { label: "重量", value: "26 g" }]},
+          { label: "重量", value: "90 g" }]},
       { title: "センサー / 入力", rows: [
           { label: "読み取り方式", value: "トラックボール" },
           { label: "ボタン数", value: "3ボタン" },

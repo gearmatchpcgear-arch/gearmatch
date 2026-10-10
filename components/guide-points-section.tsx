@@ -30,22 +30,29 @@ function StackedWideGuidePointCard({
   const description = renderGuidePointDescription(point)
 
   return (
-    <div className="w-full space-y-4 rounded-2xl border bg-card p-6 shadow-sm">
+    <div className="w-full space-y-2 rounded-2xl border bg-card p-4 shadow-sm sm:space-y-4 sm:p-6">
       <div>
-        <h3 className="text-xl font-bold text-foreground">
+        <h3 className="text-base font-bold text-foreground sm:text-xl">
           ポイント{index + 1} {point.head}
         </h3>
         {description ? (
-          <p className="mt-1 text-sm leading-relaxed text-muted-foreground">{description}</p>
+          <p className="mt-0.5 text-xs leading-snug text-muted-foreground sm:mt-1 sm:text-sm sm:leading-relaxed">
+            {description}
+          </p>
         ) : null}
       </div>
 
       {point.bullets?.length ? (
-        <ul className="space-y-2 border-t pt-3 text-xs text-muted-foreground">
+        <ul className="space-y-1 border-t border-border/60 pt-2 text-xs text-muted-foreground sm:space-y-2 sm:pt-3">
           {point.bullets.map((bullet) => (
-            <li key={bullet.label} className="flex items-start gap-1.5">
-              <span className="shrink-0 font-bold text-foreground">・{bullet.label}:</span>
-              <span className="leading-relaxed">{bullet.text}</span>
+            <li
+              key={bullet.label}
+              className="flex flex-col gap-0.5 sm:flex-row sm:items-start sm:gap-1.5"
+            >
+              <span className="shrink-0 font-bold text-foreground sm:whitespace-nowrap">
+                ・{bullet.label}:
+              </span>
+              <span className="leading-snug sm:leading-relaxed">{bullet.text}</span>
             </li>
           ))}
         </ul>
@@ -160,7 +167,7 @@ export function GuidePointsSection({
                         "flex h-full flex-col justify-between bg-card p-6",
                         isThreeColumn && "rounded-2xl",
                       )
-                    : "space-y-2 bg-card p-5",
+                    : "space-y-1.5 bg-card p-4 sm:space-y-2 sm:p-5",
                   isTwoColumn && point.fullWidth && "md:col-span-2",
                 )}
               >
@@ -191,10 +198,16 @@ export function GuidePointsSection({
                     </p>
                   ) : null}
                   {point.bullets?.length ? (
-                    <ul className="list-inside list-disc space-y-1.5 text-xs text-foreground/90 md:text-sm">
+                    <ul className="space-y-1 text-xs text-foreground/90 sm:space-y-1.5 md:text-sm">
                       {point.bullets.map((bullet) => (
-                        <li key={bullet.label}>
-                          <strong>{bullet.label}:</strong> {bullet.text}
+                        <li
+                          key={bullet.label}
+                          className="flex flex-col gap-0.5 sm:flex-row sm:items-start sm:gap-1"
+                        >
+                          <strong className="shrink-0 font-bold">{bullet.label}:</strong>
+                          <span className="leading-snug text-muted-foreground sm:leading-normal sm:text-foreground/90">
+                            {bullet.text}
+                          </span>
                         </li>
                       ))}
                     </ul>
@@ -204,10 +217,10 @@ export function GuidePointsSection({
                       className={cn(
                         "text-xs",
                         point.subCardsColumns === 3 && point.subCardsVariant === "plain"
-                          ? "grid grid-cols-3 gap-2 border-t border-border/60 pt-3 md:gap-3"
+                          ? "grid grid-cols-1 gap-1.5 border-t border-border/60 pt-2 sm:grid-cols-3 sm:gap-2 sm:pt-3 md:gap-3"
                           : point.subCardsColumns === 3
-                            ? "grid grid-cols-3 gap-2.5"
-                            : "space-y-2.5",
+                            ? "grid grid-cols-1 gap-2 sm:grid-cols-3 sm:gap-2.5"
+                            : "space-y-1.5 sm:space-y-2.5",
                       )}
                     >
                       {point.subCards.map((card, cardIndex) => {
@@ -219,8 +232,9 @@ export function GuidePointsSection({
                             className={cn(
                               isPlainRow
                                 ? cn(
-                                    "min-w-0 space-y-1",
-                                    cardIndex > 0 && "border-l border-border/60 pl-2.5 md:pl-3",
+                                    "flex min-w-0 flex-col gap-0.5 sm:gap-1",
+                                    cardIndex > 0 &&
+                                      "border-t border-border/60 pt-1.5 sm:border-l sm:border-t-0 sm:pt-0 sm:pl-2.5 md:pl-3",
                                   )
                                 : cn(
                                     "rounded-lg border bg-muted/40",
@@ -234,7 +248,7 @@ export function GuidePointsSection({
                               className={cn(
                                 "font-bold text-foreground",
                                 isPlainRow
-                                  ? "whitespace-nowrap text-xs md:text-sm"
+                                  ? "text-sm font-bold sm:whitespace-nowrap sm:text-xs md:text-sm"
                                   : point.subCardsColumns === 3
                                     ? "text-xs"
                                     : undefined,
