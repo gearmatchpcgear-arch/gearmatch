@@ -3,6 +3,7 @@
 import { useMemo } from "react"
 import { ShopLink, SHOP_LINK_LABEL } from "@/components/shop-link"
 import { GuideCardBadge } from "@/components/guide-card-badge"
+import { GuideRecommendationProductSummary } from "@/components/guide-recommendation-product-summary"
 import { ProductImageWithFallback } from "@/components/product-image-with-fallback"
 import type { GuideCategoryRecommendation } from "@/lib/guide-category-recommendations"
 import { getProductImageCandidates, isValidProductImage } from "@/lib/gadget-images"
@@ -22,10 +23,8 @@ import { getGuideMonitorCardSpecs } from "@/lib/guide-monitor-card-specs"
 import { resolveGuidePriceLabel } from "@/lib/guide-price-label"
 import { GUIDE_RECOMMENDATION_IMAGE_SIZES } from "@/lib/guide-image-config"
 import {
-  guideRecommendationsImageAreaClassName,
   guideRecommendationsInnerInsetClassName,
   guideRecommendationsMidGridClassName,
-  guideRecommendationsProductSummaryClassName,
 } from "@/components/guide-recommendations-layout"
 import { cn } from "@/lib/utils"
 
@@ -87,43 +86,35 @@ export function GuideRecommendationCard({
   return (
     <div className={guideRecommendationsMidGridClassName}>
       <div className="md:col-span-5">
-        <div className={guideRecommendationsProductSummaryClassName}>
-            <div
-              className={cn(
-                guideRecommendationsImageAreaClassName,
-                "mb-3 flex h-48 w-full items-center justify-center p-3",
-              )}
-            >
-              <GuideCardBadge>{pick.badge}</GuideCardBadge>
-              <ProductImageWithFallback
-                candidates={imageCandidates}
-                alt={pick.title}
-                priority={priority}
-                loading={priority ? "eager" : "lazy"}
-                sizes={GUIDE_RECOMMENDATION_IMAGE_SIZES}
-                referrerPolicy="no-referrer"
-                className="max-h-full max-w-full object-contain"
-              />
-            </div>
-
-            <h3 className="mb-1 text-base font-bold text-foreground">{pick.title}</h3>
-            {pick.modelNumber ? (
-              <p className="mb-1 text-xs text-muted-foreground">{pick.modelNumber}</p>
-            ) : null}
-
-            {showReviews ? (
-              <div className="mb-3 flex items-center gap-1.5 text-xs">
+        <GuideRecommendationProductSummary
+          badge={<GuideCardBadge>{pick.badge}</GuideCardBadge>}
+          image={
+            <ProductImageWithFallback
+              candidates={imageCandidates}
+              alt={pick.title}
+              priority={priority}
+              loading={priority ? "eager" : "lazy"}
+              sizes={GUIDE_RECOMMENDATION_IMAGE_SIZES}
+              referrerPolicy="no-referrer"
+              className="max-h-full max-w-full object-contain"
+            />
+          }
+          title={pick.title}
+          modelNumber={pick.modelNumber}
+          reviewSlot={
+            showReviews ? (
+              <div className="flex items-center gap-1.5 text-xs">
                 <span className="font-bold text-chart-3">★ {displayRating!.toFixed(1)}</span>
                 <span className="text-muted-foreground">
                   ({displayReviews!.toLocaleString("ja-JP")}件のレビュー)
                 </span>
               </div>
-            ) : null}
-
-            <div className="mb-4 text-lg font-bold text-primary">{priceLabel}</div>
-
-            {cardSpecs.length > 0 ? (
-              <div className={cn(guideRecommendationsInnerInsetClassName, "mt-4 text-xs text-muted-foreground")}>
+            ) : null
+          }
+          priceSlot={priceLabel}
+          specsSlot={
+            cardSpecs.length > 0 ? (
+              <div className={cn(guideRecommendationsInnerInsetClassName, "text-xs text-muted-foreground")}>
                 <div className="space-y-1.5">
                   {cardSpecs.map((spec) => (
                     <div key={spec.label} className="flex justify-between gap-3">
@@ -133,26 +124,30 @@ export function GuideRecommendationCard({
                   ))}
                 </div>
               </div>
-            ) : null}
-
-            {gadget ? (
+            ) : (
+              <div aria-hidden className="min-h-[6.75rem]" />
+            )
+          }
+          shopSlot={
+            gadget ? (
               pick.purchaseUrl ? (
                 <a
                   href={pick.purchaseUrl}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="mt-4 inline-flex w-full items-center justify-center gap-1.5 rounded-lg bg-primary px-4 py-2.5 text-sm font-semibold text-primary-foreground transition-opacity hover:opacity-90"
+                  className="inline-flex w-full items-center justify-center gap-1.5 rounded-lg bg-primary px-4 py-2.5 text-sm font-semibold text-primary-foreground transition-opacity hover:opacity-90"
                 >
                   {SHOP_LINK_LABEL}
                 </a>
               ) : (
                 <ShopLink
                   gadget={gadget}
-                  className="mt-4 inline-flex w-full items-center justify-center gap-1.5 rounded-lg bg-primary px-4 py-2.5 text-sm font-semibold text-primary-foreground transition-opacity hover:opacity-90"
+                  className="inline-flex w-full items-center justify-center gap-1.5 rounded-lg bg-primary px-4 py-2.5 text-sm font-semibold text-primary-foreground transition-opacity hover:opacity-90"
                 />
               )
-            ) : null}
-        </div>
+            ) : undefined
+          }
+        />
       </div>
 
       <div className="space-y-4 md:col-span-7">

@@ -18,6 +18,7 @@ import {
 } from "@/lib/gadgets"
 import { GadgetImage } from "@/components/gadget-image"
 import { cardPrimarySpecShellClassName } from "@/lib/card-primary-spec-shell"
+import { productListCardTitleClassName } from "@/lib/product-card-layout"
 
 const badgeClassName =
   "inline-flex w-fit items-center rounded-full bg-primary/10 px-2 py-0.5 text-[9px] font-bold tracking-wide text-primary ring-1 ring-primary/20"
@@ -148,10 +149,7 @@ export const GadgetCard = memo(function GadgetCard({
     ) : null
   )
 
-  const titleClassName = cn(
-    "font-semibold leading-snug text-slate-900",
-    isSmall ? "line-clamp-2 text-xs" : isMedium ? "line-clamp-2 text-sm" : "line-clamp-1 text-sm",
-  )
+  const titleClassName = productListCardTitleClassName(isSmall, isMedium)
 
   const cardBodyClassName = "text-left"
 
@@ -280,9 +278,11 @@ export const GadgetCard = memo(function GadgetCard({
                 "flex min-w-0 flex-1 flex-col gap-2 overflow-hidden bg-white p-4 md:p-4 lg:p-5",
               )}
             >
-              <h3 className={titleClassName}>{displayGadget.name}</h3>
-              {showSpecs ? specHighlightsGrid("default") : null}
-              {priceBlock}
+              <h3 className={cn(titleClassName, "shrink-0")}>{displayGadget.name}</h3>
+              {showSpecs ? (
+                <div className="shrink-0">{specHighlightsGrid("default")}</div>
+              ) : null}
+              {priceBlock ? <div className="mt-auto shrink-0">{priceBlock}</div> : null}
             </div>
           </div>
         </>
