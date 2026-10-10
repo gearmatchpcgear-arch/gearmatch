@@ -30,7 +30,7 @@ function StackedWideGuidePointCard({
   const description = renderGuidePointDescription(point)
 
   return (
-    <div className="w-full space-y-2 rounded-2xl border bg-card p-4 shadow-sm sm:space-y-4 sm:p-6">
+    <div className="w-full space-y-2 rounded-xl border border-slate-200 bg-white p-4 shadow-sm sm:space-y-4 sm:p-6">
       <div>
         <h3 className="text-base font-bold text-foreground sm:text-xl">
           ポイント{index + 1} {point.head}
@@ -66,7 +66,7 @@ function StackedWideGuidePointCard({
           )}
         >
           {point.subCards.map((card) => (
-            <div key={card.title} className="rounded-lg bg-muted p-2.5">
+            <div key={card.title} className="rounded-lg border border-slate-200 bg-slate-50 p-2.5">
               <div className="font-bold text-foreground">{card.title}</div>
               {card.text ? (
                 <div className="mt-0.5 text-[11px] leading-snug text-muted-foreground">{card.text}</div>
@@ -164,28 +164,22 @@ export function GuidePointsSection({
                   "rounded-xl border shadow-sm",
                   isCardGrid
                     ? cn(
-                        "flex h-full flex-col justify-between bg-card p-6",
+                        "flex h-full flex-col justify-between border-slate-200 bg-white p-6",
                         isThreeColumn && "rounded-2xl",
                       )
-                    : "space-y-1.5 bg-card p-4 sm:space-y-2 sm:p-5",
+                    : "space-y-1.5 border-slate-200 bg-white p-4 sm:space-y-2 sm:p-5",
                   isTwoColumn && point.fullWidth && "md:col-span-2",
                 )}
               >
                 <div>
-                  {isCardGrid ? (
-                    <div className={cn("mb-4", point.subCardsColumns === 3 && "mb-3")}>
-                      <span className="inline-block rounded-full border border-primary/20 bg-primary/10 px-3 py-1 text-xs font-semibold text-primary">
-                        ポイント {index + 1}
-                      </span>
-                      <h3 className="mt-2 text-base font-bold text-foreground md:text-lg">
-                        {point.head}
-                      </h3>
-                    </div>
-                  ) : (
-                    <h3 className="mb-2 text-base font-bold text-foreground md:text-lg">
-                      ポイント{index + 1} {point.head}
-                    </h3>
-                  )}
+                  <h3
+                    className={cn(
+                      "mb-2 text-base font-bold text-foreground md:text-lg",
+                      isCardGrid && point.subCardsColumns === 3 && "mb-3",
+                    )}
+                  >
+                    ポイント{index + 1} {point.head}
+                  </h3>
                   {description ? (
                     <p
                       className={cn(
@@ -237,7 +231,7 @@ export function GuidePointsSection({
                                       "border-t border-border/60 pt-1.5 sm:border-l sm:border-t-0 sm:pt-0 sm:pl-2.5 md:pl-3",
                                   )
                                 : cn(
-                                    "rounded-lg border bg-muted/40",
+                                    "rounded-lg border border-slate-200 bg-slate-50",
                                     point.subCardsColumns === 3
                                       ? "flex min-w-0 flex-col justify-between p-3"
                                       : "space-y-1 p-2.5",
@@ -326,7 +320,7 @@ export function GuidePointsSection({
       className={cn(
         "mb-12",
         isStackedWide && !boxed && "space-y-6",
-        boxed && "my-10 rounded-2xl border bg-card p-6 shadow-sm md:p-8",
+        boxed && "my-10 rounded-xl border border-slate-200 bg-white p-6 shadow-sm md:p-8",
       )}
     >
       {inner}

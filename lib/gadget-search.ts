@@ -1,5 +1,5 @@
 import type { Gadget } from "@/lib/gadgets"
-import { withGamingChairCsvOverlay } from "@/lib/gadgets"
+import { withCatalogCsvOverlay } from "@/lib/gadgets"
 import { getGamingChairCsvRow } from "@/lib/gaming-chairs-csv-data"
 
 /** 検索用：全半角・大小文字・連続空白を揃える */
@@ -14,7 +14,7 @@ export function normalizeSearchText(raw: string): string {
 
 /** 一覧検索の対象文字列（CSV B列名称など表示用データを含む） */
 export function getGadgetSearchHaystack(gadget: Gadget): string {
-  const display = withGamingChairCsvOverlay(gadget)
+  const display = withCatalogCsvOverlay(gadget)
   const chunks: string[] = [
     gadget.name,
     display.name,

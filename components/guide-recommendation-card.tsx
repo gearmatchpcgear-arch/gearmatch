@@ -21,6 +21,13 @@ import {
 import { getGuideMonitorCardSpecs } from "@/lib/guide-monitor-card-specs"
 import { resolveGuidePriceLabel } from "@/lib/guide-price-label"
 import { GUIDE_RECOMMENDATION_IMAGE_SIZES } from "@/lib/guide-image-config"
+import {
+  guideRecommendationsImageAreaClassName,
+  guideRecommendationsInnerInsetClassName,
+  guideRecommendationsMidGridClassName,
+  guideRecommendationsProductSummaryClassName,
+} from "@/components/guide-recommendations-layout"
+import { cn } from "@/lib/utils"
 
 type GuideRecommendationCardProps = {
   pick: GuideCategoryRecommendation
@@ -78,70 +85,80 @@ export function GuideRecommendationCard({
     category === "monitor" ? getGuideMonitorCardSpecs(pick.specs) : pick.specs
 
   return (
-    <div className="rounded-xl border border-border/60 bg-card p-5 shadow-sm sm:p-6">
-      <div className="flex flex-col items-start gap-6 md:flex-row">
-        <div className="w-full rounded-lg border border-border/60 bg-background p-4 shadow-sm md:w-5/12">
-          <div className="relative mb-3 flex h-48 w-full items-center justify-center overflow-hidden rounded-lg border bg-white p-3 shadow-inner">
-            <GuideCardBadge>{pick.badge}</GuideCardBadge>
-            <ProductImageWithFallback
-              candidates={imageCandidates}
-              alt={pick.title}
-              priority={priority}
-              loading={priority ? "eager" : "lazy"}
-              sizes={GUIDE_RECOMMENDATION_IMAGE_SIZES}
-              referrerPolicy="no-referrer"
-              className="max-h-full max-w-full object-contain"
-            />
-          </div>
-
-          <h3 className="mb-1 text-base font-bold text-foreground">{pick.title}</h3>
-          {pick.modelNumber ? (
-            <p className="mb-1 text-xs text-muted-foreground">{pick.modelNumber}</p>
-          ) : null}
-
-          {showReviews ? (
-            <div className="mb-3 flex items-center gap-1.5 text-xs">
-              <span className="font-bold text-chart-3">★ {displayRating!.toFixed(1)}</span>
-              <span className="text-muted-foreground">
-                ({displayReviews!.toLocaleString("ja-JP")}件のレビュー)
-              </span>
-            </div>
-          ) : null}
-
-          <div className="mb-4 text-lg font-bold text-primary">{priceLabel}</div>
-
-          <div className="mb-4 space-y-1.5 border-t border-border/60 pt-3 text-xs text-muted-foreground">
-            {cardSpecs.map((spec) => (
-              <div key={spec.label} className="flex justify-between gap-3">
-                <span>{spec.label}</span>
-                <span className="text-right font-medium text-foreground">{spec.value}</span>
-              </div>
-            ))}
-          </div>
-
-          {gadget ? (
-            pick.purchaseUrl ? (
-              <a
-                href={pick.purchaseUrl}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="mt-4 inline-flex w-full items-center justify-center gap-1.5 rounded-lg bg-primary px-4 py-2.5 text-sm font-semibold text-primary-foreground transition-opacity hover:opacity-90"
-              >
-                {SHOP_LINK_LABEL}
-              </a>
-            ) : (
-              <ShopLink
-                gadget={gadget}
-                className="mt-4 inline-flex w-full items-center justify-center gap-1.5 rounded-lg bg-primary px-4 py-2.5 text-sm font-semibold text-primary-foreground transition-opacity hover:opacity-90"
+    <div className={guideRecommendationsMidGridClassName}>
+      <div className="md:col-span-5">
+        <div className={guideRecommendationsProductSummaryClassName}>
+            <div
+              className={cn(
+                guideRecommendationsImageAreaClassName,
+                "mb-3 flex h-48 w-full items-center justify-center p-3",
+              )}
+            >
+              <GuideCardBadge>{pick.badge}</GuideCardBadge>
+              <ProductImageWithFallback
+                candidates={imageCandidates}
+                alt={pick.title}
+                priority={priority}
+                loading={priority ? "eager" : "lazy"}
+                sizes={GUIDE_RECOMMENDATION_IMAGE_SIZES}
+                referrerPolicy="no-referrer"
+                className="max-h-full max-w-full object-contain"
               />
-            )
-          ) : null}
-        </div>
+            </div>
 
-        <div className="w-full space-y-3 md:w-7/12">
-          <h4 className="border-b border-border/60 pb-2 text-base font-bold text-foreground">
-            {pick.heading}
-          </h4>
+            <h3 className="mb-1 text-base font-bold text-foreground">{pick.title}</h3>
+            {pick.modelNumber ? (
+              <p className="mb-1 text-xs text-muted-foreground">{pick.modelNumber}</p>
+            ) : null}
+
+            {showReviews ? (
+              <div className="mb-3 flex items-center gap-1.5 text-xs">
+                <span className="font-bold text-chart-3">★ {displayRating!.toFixed(1)}</span>
+                <span className="text-muted-foreground">
+                  ({displayReviews!.toLocaleString("ja-JP")}件のレビュー)
+                </span>
+              </div>
+            ) : null}
+
+            <div className="mb-4 text-lg font-bold text-primary">{priceLabel}</div>
+
+            {cardSpecs.length > 0 ? (
+              <div className={cn(guideRecommendationsInnerInsetClassName, "mt-4 text-xs text-muted-foreground")}>
+                <div className="space-y-1.5">
+                  {cardSpecs.map((spec) => (
+                    <div key={spec.label} className="flex justify-between gap-3">
+                      <span>{spec.label}</span>
+                      <span className="text-right font-medium text-foreground">{spec.value}</span>
+                    </div>
+                  ))}
+                </div>
+              </div>
+            ) : null}
+
+            {gadget ? (
+              pick.purchaseUrl ? (
+                <a
+                  href={pick.purchaseUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="mt-4 inline-flex w-full items-center justify-center gap-1.5 rounded-lg bg-primary px-4 py-2.5 text-sm font-semibold text-primary-foreground transition-opacity hover:opacity-90"
+                >
+                  {SHOP_LINK_LABEL}
+                </a>
+              ) : (
+                <ShopLink
+                  gadget={gadget}
+                  className="mt-4 inline-flex w-full items-center justify-center gap-1.5 rounded-lg bg-primary px-4 py-2.5 text-sm font-semibold text-primary-foreground transition-opacity hover:opacity-90"
+                />
+              )
+            ) : null}
+        </div>
+      </div>
+
+      <div className="space-y-4 md:col-span-7">
+        <h4 className="border-b border-slate-200 pb-2 text-base font-bold text-foreground">
+          {pick.heading}
+        </h4>
 
           <ul className="space-y-2.5 text-xs leading-relaxed text-foreground/90 md:text-sm">
             {pick.reasons.map((reason) => (
@@ -155,7 +172,7 @@ export function GuideRecommendationCard({
               </li>
             ))}
             {pick.concern ? (
-              <li className="flex items-start gap-2 border-t border-border/60 pt-2.5 text-amber-700 dark:text-amber-400">
+              <li className="flex items-start gap-2 border-t border-slate-200 pt-2.5 text-amber-700 dark:text-amber-400">
                 <span className="shrink-0 font-bold" aria-hidden>
                   ⚠️
                 </span>
@@ -164,8 +181,7 @@ export function GuideRecommendationCard({
                 </span>
               </li>
             ) : null}
-          </ul>
-        </div>
+        </ul>
       </div>
     </div>
   )

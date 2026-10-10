@@ -3774,7 +3774,7 @@ export const mousePopularBrands: Gadget[] = [
     category: "mouse",
     name: "RAPOO MT750 Wireless Bluetooth Mouse, 5.0/2.4 GHz, Rechargeable, 4 DP…",
     brand: "ASUS",
-    tagline: "RAPOO MT750 Wireless Bluetooth Mouse, 5.0/2.4 GHz, Rechargeable, 4 DPI Settings, Supports Connections Up to 4 Devices, Ergonomic Design, …",
+    tagline: "RAPOO MT750 マウス 無線 ワイヤレス Bluetooth 5.0/2.4GHz 充電式 4段階DPI切替 最大4台デバイス接続対応 エルゴノミクス設計 6プログラムボタン 光学マウス 側ローラー付き",
     price: 5699,
     rating: 4.3,
     reviews: 82,

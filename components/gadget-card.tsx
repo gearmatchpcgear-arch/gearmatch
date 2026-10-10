@@ -13,16 +13,14 @@ import {
   hasCardDisplayPrice,
   hasDisplayReviews,
   getCardHighlights,
-  withGamingChairCsvOverlay,
+  withCatalogCsvOverlay,
   type Gadget,
 } from "@/lib/gadgets"
 import { GadgetImage } from "@/components/gadget-image"
+import { cardPrimarySpecShellClassName } from "@/lib/card-primary-spec-shell"
 
 const badgeClassName =
   "inline-flex w-fit items-center rounded-full bg-primary/10 px-2 py-0.5 text-[9px] font-bold tracking-wide text-primary ring-1 ring-primary/20"
-
-const specGridShellClassName =
-  "overflow-hidden rounded-lg border border-slate-200/80 bg-slate-50"
 
 export type CardSize = "large" | "medium" | "small"
 
@@ -85,7 +83,7 @@ export const GadgetCard = memo(function GadgetCard({
   const showBrand = isLarge
   const showTagline = isLarge
   const showSpecs = isLarge || isMedium
-  const displayGadget = useMemo(() => withGamingChairCsvOverlay(gadget), [gadget])
+  const displayGadget = useMemo(() => withCatalogCsvOverlay(gadget), [gadget])
   const highlights = useMemo(() => getCardHighlights(gadget), [gadget])
   const displayBadge = useMemo(() => getDisplayBadge(gadget), [gadget])
 
@@ -94,7 +92,7 @@ export const GadgetCard = memo(function GadgetCard({
       return (
         <dl
           className={cn(
-            specGridShellClassName,
+            cardPrimarySpecShellClassName,
             "flex min-w-0 flex-1 flex-col justify-center gap-1.5 p-2.5 text-left",
           )}
         >
@@ -118,9 +116,9 @@ export const GadgetCard = memo(function GadgetCard({
     return (
       <dl
         className={cn(
-          specGridShellClassName,
+          cardPrimarySpecShellClassName,
           "grid min-w-0 grid-cols-2 gap-2 text-center",
-          isMedium ? "p-2.5" : "p-3",
+          isMedium ? "gap-2 p-2.5" : "gap-2 p-3",
         )}
       >
         {highlights.map((h) => (
@@ -155,10 +153,11 @@ export const GadgetCard = memo(function GadgetCard({
     isSmall ? "line-clamp-2 text-xs" : isMedium ? "line-clamp-2 text-sm" : "line-clamp-1 text-sm",
   )
 
-  const cardOpenButtonClassName =
-    "text-left focus:outline-none focus-visible:ring-2 focus-visible:ring-ring"
+  const cardBodyClassName = "text-left"
 
-  const compareButton = (
+  const openDetail = () => onOpen(gadget.id)
+
+  const compareButton = (compact?: boolean) => (
     <button
       type="button"
       onClick={(event) => {
@@ -169,31 +168,51 @@ export const GadgetCard = memo(function GadgetCard({
       aria-pressed={isComparing}
       aria-label={isComparing ? "比較から外す" : "比較に追加"}
       className={cn(
-        "inline-flex items-center justify-center rounded-full text-xs shadow-sm transition-colors",
-        isSmall ? "size-6" : "size-7",
+        "inline-flex items-center justify-center rounded-full shadow-sm backdrop-blur-sm transition-colors",
+        compact ? "size-7" : "size-8",
         isComparing
           ? "bg-primary text-primary-foreground"
-          : "bg-white/95 text-muted-foreground ring-1 ring-slate-200 backdrop-blur hover:text-foreground disabled:opacity-40",
+          : "bg-white/80 text-muted-foreground ring-1 ring-slate-200/80 hover:bg-white hover:text-foreground disabled:opacity-40",
       )}
     >
       {isComparing ? (
-        <Check className={isSmall ? "size-3" : "size-3.5"} />
+        <Check className={compact ? "size-3.5" : "size-4"} />
       ) : (
-        <Plus className={isSmall ? "size-3" : "size-3.5"} />
+        <Plus className={compact ? "size-3.5" : "size-4"} />
       )}
     </button>
   )
 
+  const compareOnImage = (compact?: boolean) => (
+    <div
+      className={cn("pointer-events-none absolute z-10", compact ? "right-1 top-1" : "right-2 top-2")}
+    >
+      <div className="pointer-events-auto">{compareButton(compact)}</div>
+    </div>
+  )
+
+  const openDetailLabel = `${displayGadget.brand} ${displayGadget.name} の詳細を見る`
+
+  const imageAreaClassName =
+    "relative aspect-square cursor-pointer overflow-hidden bg-gradient-to-b from-slate-50 to-white"
+
+  const imageClassName = cn(
+    "pointer-events-none relative z-0 transition-transform duration-300 group-hover:scale-[1.02]",
+  )
+
   return (
     <article
+      role="presentation"
+      onClick={openDetail}
       className={cn(
-        "group relative isolate flex h-full flex-col overflow-hidden rounded-xl border border-slate-200/80 bg-white shadow-sm transition-all duration-200",
+        "group relative isolate flex h-full cursor-pointer flex-col overflow-hidden rounded-xl border border-slate-200/80 bg-white shadow-sm transition-all duration-200",
         isSmall && "rounded-lg",
         isComparing
           ? "border-primary/40 shadow-md ring-2 ring-primary/15"
           : "hover:-translate-y-0.5 hover:border-slate-300 hover:shadow-lg",
       )}
     >
+      <span className="sr-only">{openDetailLabel}</span>
       {displayBadge ? (
         <div
           className={cn(
@@ -205,135 +224,111 @@ export const GadgetCard = memo(function GadgetCard({
         </div>
       ) : null}
 
-      <div
-        className={cn(
-          "absolute z-[1] flex items-center",
-          isSmall && "right-1.5 top-1.5 gap-1",
-          isMedium && "max-sm:hidden right-2.5 top-2.5 gap-1.5",
-          isLarge && "right-2.5 top-2.5 gap-1.5",
-        )}
-      >
-        {compareButton}
-      </div>
-
       {isMedium ? (
         <>
           <div className="flex min-h-0 min-w-0 flex-1 flex-col bg-white sm:hidden">
-            <button
-              type="button"
-              onClick={() => onOpen(gadget.id)}
-              className={cn(cardOpenButtonClassName, "flex min-w-0 flex-1 flex-col")}
-            >
-              <div className="flex min-w-0 flex-1 flex-row items-stretch gap-1.5 p-3.5 pt-4">
-                <div className="relative aspect-square w-20 shrink-0 overflow-hidden rounded-md bg-gradient-to-b from-slate-50 to-white ring-1 ring-slate-100">
+            <div className="flex min-w-0 flex-1 flex-row items-stretch gap-1.5 p-3.5 pt-4">
+              <div
+                className={cn(imageAreaClassName, "aspect-square w-20 shrink-0 rounded-md ring-1 ring-slate-100")}
+                aria-hidden
+              >
+                <div className="pointer-events-none h-full w-full">
                   <GadgetImage
                     src={gadget.image}
                     alt={`${displayGadget.brand} ${displayGadget.name}`}
                     category={gadget.category}
                     sizes="80px"
-                    className="p-1 transition-transform duration-300 group-hover:scale-[1.02]"
+                    className={cn(imageClassName, "p-1")}
                   />
                 </div>
+                {compareOnImage(true)}
+              </div>
+              <div className={cn(cardBodyClassName, "min-w-0 flex-1")}>
                 {showSpecs ? specHighlightsGrid("medium-mobile") : null}
               </div>
-              <div className="border-t border-slate-100 px-3.5 pt-2 pb-1">
-                <h3 className={cn(titleClassName, "min-w-0")}>{displayGadget.name}</h3>
-              </div>
-            </button>
+            </div>
+            <div className={cn(cardBodyClassName, "border-t border-slate-100 px-3.5 pt-2 pb-1")}>
+              <h3 className={cn(titleClassName, "min-w-0")}>{displayGadget.name}</h3>
+            </div>
             <div className="flex items-center justify-between gap-2 px-3.5 pb-2.5 pt-0.5">
               {priceBlock ? (
-                <button
-                  type="button"
-                  onClick={() => onOpen(gadget.id)}
-                  className={cn(cardOpenButtonClassName, "min-w-0 shrink")}
-                >
-                  {priceBlock}
-                </button>
+                <div className={cn(cardBodyClassName, "min-w-0 shrink")}>{priceBlock}</div>
               ) : (
                 <div className="min-w-0 flex-1" aria-hidden />
               )}
-              <div className="flex shrink-0 items-center gap-1.5">
-                <ImageRatingBadge gadget={gadget} compact inline />
-                {compareButton}
-              </div>
+              <ImageRatingBadge gadget={gadget} compact inline />
             </div>
           </div>
 
-          <button
-            type="button"
-            onClick={() => onOpen(gadget.id)}
-            className={cn(
-              cardOpenButtonClassName,
-              "hidden min-h-0 min-w-0 flex-1 flex-col sm:flex",
-            )}
-          >
-            <div className="relative aspect-square overflow-hidden bg-gradient-to-b from-slate-50 to-white">
-              <GadgetImage
-                src={gadget.image}
-                alt={`${displayGadget.brand} ${displayGadget.name}`}
-                category={gadget.category}
-                sizes="(max-width: 768px) 50vw, 240px"
-                className="p-3 transition-transform duration-300 group-hover:scale-[1.02]"
-              />
+          <div className="hidden min-h-0 min-w-0 flex-1 flex-col sm:flex">
+            <div className={imageAreaClassName} aria-hidden>
+              <div className="pointer-events-none h-full w-full">
+                <GadgetImage
+                  src={gadget.image}
+                  alt={`${displayGadget.brand} ${displayGadget.name}`}
+                  category={gadget.category}
+                  sizes="(max-width: 768px) 50vw, 240px"
+                  className={cn(imageClassName, "p-3")}
+                />
+              </div>
+              {compareOnImage()}
               <ImageRatingBadge gadget={gadget} />
             </div>
-            <div className="flex min-w-0 flex-1 flex-col gap-2 overflow-hidden bg-white p-4 md:p-4 lg:p-5">
+            <div
+              className={cn(
+                cardBodyClassName,
+                "flex min-w-0 flex-1 flex-col gap-2 overflow-hidden bg-white p-4 md:p-4 lg:p-5",
+              )}
+            >
               <h3 className={titleClassName}>{displayGadget.name}</h3>
               {showSpecs ? specHighlightsGrid("default") : null}
               {priceBlock}
             </div>
-          </button>
+          </div>
         </>
       ) : (
-        <button
-          type="button"
-          onClick={() => onOpen(gadget.id)}
-          className={cn(cardOpenButtonClassName, "flex min-h-0 min-w-0 flex-1 flex-col")}
-        >
-          <>
-            <div className="relative aspect-square overflow-hidden bg-gradient-to-b from-slate-50 to-white">
+        <div className="flex min-h-0 min-w-0 flex-1 flex-col">
+          <div className={imageAreaClassName} aria-hidden>
+            <div className="pointer-events-none h-full w-full">
               <GadgetImage
                 src={gadget.image}
                 alt={`${displayGadget.brand} ${displayGadget.name}`}
                 category={gadget.category}
                 sizes={
-                  isSmall
-                    ? "(max-width: 768px) 50vw, 160px"
-                    : "(max-width: 768px) 100vw, 320px"
+                  isSmall ? "(max-width: 768px) 50vw, 160px" : "(max-width: 768px) 100vw, 320px"
                 }
-                className={cn(
-                  "transition-transform duration-300 group-hover:scale-[1.02]",
-                  isSmall ? "p-2" : "p-4",
-                )}
+                className={cn(imageClassName, isSmall ? "p-2" : "p-4")}
               />
-              <ImageRatingBadge gadget={gadget} compact={isSmall} />
             </div>
+            {compareOnImage(isSmall)}
+            <ImageRatingBadge gadget={gadget} compact={isSmall} />
+          </div>
 
-            <div
-              className={cn(
-                "flex min-w-0 flex-1 flex-col overflow-hidden bg-white",
-                isSmall ? "gap-1.5 p-3.5 md:p-4" : "gap-2 p-4 lg:p-5",
-              )}
-            >
-              {showBrand ? (
-                <span className="min-w-0 truncate text-[11px] font-medium uppercase tracking-wide text-muted-foreground">
-                  {displayGadget.brand}
-                </span>
-              ) : null}
+          <div
+            className={cn(
+              cardBodyClassName,
+              "flex min-w-0 flex-1 flex-col overflow-hidden bg-white",
+              isSmall ? "gap-1.5 p-3.5 md:p-4" : "gap-2 p-4 lg:p-5",
+            )}
+          >
+            {showBrand ? (
+              <span className="min-w-0 truncate text-[11px] font-medium uppercase tracking-wide text-muted-foreground">
+                {displayGadget.brand}
+              </span>
+            ) : null}
 
-              <h3 className={titleClassName}>{displayGadget.name}</h3>
+            <h3 className={titleClassName}>{displayGadget.name}</h3>
 
-              {showTagline && (
-                <p className="line-clamp-1 min-h-[1.45em] text-[11px] leading-[1.45] text-muted-foreground">
-                  {displayGadget.tagline}
-                </p>
-              )}
+            {showTagline && (
+              <p className="line-clamp-1 min-h-[1.45em] text-[11px] leading-[1.45] text-muted-foreground">
+                {displayGadget.tagline}
+              </p>
+            )}
 
-              {showSpecs ? specHighlightsGrid("default") : null}
-              {priceBlock}
-            </div>
-          </>
-        </button>
+            {showSpecs ? specHighlightsGrid("default") : null}
+            {priceBlock}
+          </div>
+        </div>
       )}
     </article>
   )

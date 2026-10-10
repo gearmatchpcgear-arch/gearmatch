@@ -44,45 +44,35 @@ export function CategoryScrollRow({ children, className, bleed }: CategoryScroll
 
   return (
     <div className={cn("relative min-w-0 max-w-full", className)}>
-      {canScrollLeft && (
-        <>
-          <div
-            aria-hidden
-            className="pointer-events-none absolute inset-y-0 left-0 z-10 w-10 bg-gradient-to-r from-background via-background/80 to-transparent"
-          />
-          <button
-            type="button"
-            onClick={() => scrollBy(-220)}
-            aria-label="カテゴリを左にスクロール"
-            className="absolute left-0 top-1/2 z-20 inline-flex size-7 -translate-y-1/2 items-center justify-center rounded-full border border-border/60 bg-card/95 text-muted-foreground shadow-sm backdrop-blur hover:text-foreground"
-          >
-            <ChevronLeft className="size-4" />
-          </button>
-        </>
-      )}
+      {canScrollLeft ? (
+        <button
+          type="button"
+          onClick={() => scrollBy(-220)}
+          aria-label="カテゴリを左にスクロール"
+          className="absolute left-0 top-1/2 z-20 inline-flex size-7 -translate-y-1/2 items-center justify-center rounded-full border border-border/60 bg-card/95 text-muted-foreground shadow-sm backdrop-blur hover:text-foreground"
+        >
+          <ChevronLeft className="size-4" />
+        </button>
+      ) : null}
 
-      {canScrollRight && (
-        <>
-          <div
-            aria-hidden
-            className="pointer-events-none absolute inset-y-0 right-0 z-10 w-10 bg-gradient-to-l from-background via-background/80 to-transparent"
-          />
-          <button
-            type="button"
-            onClick={() => scrollBy(220)}
-            aria-label="カテゴリを右にスクロール"
-            className="absolute right-0 top-1/2 z-20 inline-flex size-7 -translate-y-1/2 items-center justify-center rounded-full border border-border/60 bg-card/95 text-muted-foreground shadow-sm backdrop-blur hover:text-foreground"
-          >
-            <ChevronRight className="size-4" />
-          </button>
-        </>
-      )}
+      {canScrollRight ? (
+        <button
+          type="button"
+          onClick={() => scrollBy(220)}
+          aria-label="カテゴリを右にスクロール"
+          className="absolute right-0 top-1/2 z-20 inline-flex size-7 -translate-y-1/2 items-center justify-center rounded-full border border-border/60 bg-card/95 text-muted-foreground shadow-sm backdrop-blur hover:text-foreground"
+        >
+          <ChevronRight className="size-4" />
+        </button>
+      ) : null}
 
       <div
         ref={scrollRef}
         className={cn(
           "scrollbar-none flex min-w-0 w-full max-w-full flex-nowrap gap-2 overflow-x-auto overscroll-x-contain scroll-smooth pb-0.5 [-webkit-overflow-scrolling:touch]",
           bleed ? "-mx-4 w-[calc(100%+2rem)] max-w-[100vw] scroll-px-4 px-4 py-2" : "px-1",
+          canScrollLeft && (bleed ? "pl-9" : "pl-8"),
+          canScrollRight && (bleed ? "pr-9" : "pr-8"),
         )}
       >
         {children}

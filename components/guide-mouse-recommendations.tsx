@@ -1,8 +1,16 @@
 "use client"
 
 import { useMemo, useState } from "react"
-import Link from "next/link"
-import { CheckCircle2, Sparkles } from "lucide-react"
+import { CheckCircle2 } from "lucide-react"
+import {
+  GuideRecommendationsHeader,
+  GuideRecommendationsSection,
+  GuideRecommendationsTabs,
+  guideRecommendationsImageAreaClassName,
+  guideRecommendationsInnerInsetClassName,
+  guideRecommendationsMidGridClassName,
+  guideRecommendationsProductSummaryClassName,
+} from "@/components/guide-recommendations-layout"
 import { GuideCardBadge } from "@/components/guide-card-badge"
 import { GadgetImage } from "@/components/gadget-image"
 import { ShopLink } from "@/components/shop-link"
@@ -93,48 +101,19 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
   )
 
   return (
-    <section className="rounded-xl border border-border/60 bg-card p-5 shadow-sm sm:p-6">
-      <div className="mb-4 flex flex-wrap items-end justify-between gap-3">
-        <div>
-          <h2 className="flex items-center gap-2 text-xl font-bold text-foreground">
-            <Sparkles className="size-5 text-primary" aria-hidden />
-            あなたに合うおすすめのマウスを選ぶ
-          </h2>
-          <p className="mt-1 text-xs text-muted-foreground">
-            用途ボタンを選択すると、最適なおすすめモデルと選定理由が表示されます。
-          </p>
-        </div>
-        <Link
-          href="/"
-          className="text-xs font-medium text-primary underline-offset-4 hover:underline"
-        >
-          トップの一覧で比較する →
-        </Link>
-      </div>
-
-      <div className="mb-8 grid grid-cols-1 gap-3 md:grid-cols-3">
-        {GUIDE_MOUSE_TABS.map((item) => (
-          <button
-            key={item.id}
-            type="button"
-            onClick={() => setSelectedType(item.id)}
-            aria-pressed={selectedType === item.id}
-            className={cn(
-              "rounded-lg border px-4 py-3 text-center text-sm font-semibold transition-all",
-              selectedType === item.id
-                ? "border-primary bg-primary text-primary-foreground shadow-md ring-2 ring-primary/20"
-                : "border-input bg-background text-foreground hover:bg-accent",
-            )}
-          >
-            {item.label}
-          </button>
-        ))}
-      </div>
+    <GuideRecommendationsSection>
+      <GuideRecommendationsHeader categoryLabel="マウス" compareHref="/" />
+      <GuideRecommendationsTabs
+        tabs={GUIDE_MOUSE_TABS}
+        selectedId={selectedType}
+        onSelect={setSelectedType}
+      />
 
       {currentItem ? (
-      <div className="grid items-start gap-6 rounded-xl border border-border/60 bg-muted/40 p-5 md:grid-cols-12 md:p-6">
-        <div className="rounded-lg border border-border/60 bg-card p-4 shadow-sm md:col-span-5">
-          <div className="relative mb-4 aspect-[4/3] overflow-hidden rounded-lg bg-secondary/30">
+      <div className={guideRecommendationsMidGridClassName}>
+        <div className="md:col-span-5">
+          <div className={guideRecommendationsProductSummaryClassName}>
+          <div className={cn(guideRecommendationsImageAreaClassName, "relative mb-4 aspect-[4/3]")}>
             <GuideCardBadge>{currentItem.badge}</GuideCardBadge>
             {currentGadget ? (
               <GadgetImage
@@ -165,7 +144,7 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
             )}
           </div>
 
-          <div className="mt-4 space-y-1.5 border-t border-border/60 pt-3 text-xs text-muted-foreground">
+          <div className={cn(guideRecommendationsInnerInsetClassName, "mt-4 space-y-1.5 text-xs text-muted-foreground")}>
             <div className="flex justify-between gap-3">
               <span>重量</span>
               <span className="font-medium text-foreground">{currentItem.specs.weight}</span>
@@ -227,10 +206,11 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
               className="mt-4 inline-flex w-full items-center justify-center gap-1.5 rounded-lg bg-primary px-4 py-2.5 text-sm font-semibold text-primary-foreground transition-opacity hover:opacity-90"
             />
           ) : null}
+          </div>
         </div>
 
         <div className="space-y-4 md:col-span-7">
-          <h4 className="border-b border-border/60 pb-2 text-base font-bold text-foreground">
+          <h4 className="border-b border-slate-200 pb-2 text-base font-bold text-foreground">
             {currentItem.reasonsHeading ?? "なぜこのマウスがおすすめなのか？"}
           </h4>
 
@@ -253,10 +233,11 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
       ) : null}
 
       {selectedType === "beginner" ? (
-        <div className="mt-8 space-y-8 border-t border-border/60 pt-6">
-          <div className="grid items-start gap-6 rounded-xl border border-border/60 bg-muted/40 p-5 md:grid-cols-12 md:p-6">
-            <div className="rounded-lg border border-border/60 bg-card p-4 shadow-sm md:col-span-5">
-              <div className="relative mb-4 aspect-[4/3] overflow-hidden rounded-lg bg-secondary/30">
+        <div className="mt-8 space-y-8 border-t border-slate-200 pt-6">
+          <div className={guideRecommendationsMidGridClassName}>
+            <div className="md:col-span-5">
+              <div className={guideRecommendationsProductSummaryClassName}>
+              <div className={cn(guideRecommendationsImageAreaClassName, "relative mb-4 aspect-[4/3]")}>
                 <GuideCardBadge>{GUIDE_MOUSE_BEGINNER_UPGRADE.badge}</GuideCardBadge>
                 {upgradeGadget ? (
                   <GadgetImage
@@ -283,7 +264,7 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
                 {resolveGuidePriceLabel(upgradeGadget)}
               </div>
 
-              <div className="mt-4 space-y-1.5 border-t border-border/60 pt-3 text-xs text-muted-foreground">
+              <div className={cn(guideRecommendationsInnerInsetClassName, "mt-4 space-y-1.5 text-xs text-muted-foreground")}>
                 <div className="flex justify-between gap-3">
                   <span>重量</span>
                   <span className="font-medium text-foreground">
@@ -316,10 +297,11 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
                   className="mt-4 inline-flex w-full items-center justify-center gap-1.5 rounded-lg bg-primary px-4 py-2.5 text-sm font-semibold text-primary-foreground transition-opacity hover:opacity-90"
                 />
               ) : null}
+              </div>
             </div>
 
             <div className="space-y-4 md:col-span-7">
-              <h4 className="border-b border-border/60 pb-2 text-base font-bold text-foreground">
+              <h4 className="border-b border-slate-200 pb-2 text-base font-bold text-foreground">
                 予算に余裕があるなら「これを選んでおけば間違いなし」の最高峰
               </h4>
 
@@ -338,9 +320,10 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
             </div>
           </div>
 
-          <div className="grid items-start gap-6 rounded-xl border border-border/60 bg-muted/40 p-5 md:grid-cols-12 md:p-6">
-            <div className="rounded-lg border border-border/60 bg-card p-4 shadow-sm md:col-span-5">
-              <div className="relative mb-4 aspect-[4/3] overflow-hidden rounded-lg bg-secondary/30">
+          <div className={guideRecommendationsMidGridClassName}>
+            <div className="md:col-span-5">
+              <div className={guideRecommendationsProductSummaryClassName}>
+              <div className={cn(guideRecommendationsImageAreaClassName, "relative mb-4 aspect-[4/3]")}>
                 <GuideCardBadge>{GUIDE_MOUSE_BEGINNER_HYPERX.badge}</GuideCardBadge>
                 {hyperxGadget ? (
                   <GadgetImage
@@ -367,7 +350,7 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
                 {resolveGuidePriceLabel(hyperxGadget)}
               </div>
 
-              <div className="mt-4 space-y-1.5 border-t border-border/60 pt-3 text-xs text-muted-foreground">
+              <div className={cn(guideRecommendationsInnerInsetClassName, "mt-4 space-y-1.5 text-xs text-muted-foreground")}>
                 <div className="flex justify-between gap-3">
                   <span>重量</span>
                   <span className="font-medium text-foreground">
@@ -400,10 +383,11 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
                   className="mt-4 inline-flex w-full items-center justify-center gap-1.5 rounded-lg bg-primary px-4 py-2.5 text-sm font-semibold text-primary-foreground transition-opacity hover:opacity-90"
                 />
               ) : null}
+              </div>
             </div>
 
             <div className="space-y-4 md:col-span-7">
-              <h4 className="border-b border-border/60 pb-2 text-base font-bold text-foreground">
+              <h4 className="border-b border-slate-200 pb-2 text-base font-bold text-foreground">
                 {GUIDE_MOUSE_BEGINNER_HYPERX.heading}
               </h4>
 
@@ -425,10 +409,11 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
       ) : null}
 
       {selectedType === "pro" ? (
-        <div className="mt-8 space-y-8 border-t border-border/60 pt-6">
-          <div className="grid items-start gap-6 rounded-xl border border-border/60 bg-muted/40 p-5 md:grid-cols-12 md:p-6">
-            <div className="rounded-lg border border-border/60 bg-card p-4 shadow-sm md:col-span-5">
-              <div className="relative mb-4 aspect-[4/3] overflow-hidden rounded-lg bg-secondary/30">
+        <div className="mt-8 space-y-8 border-t border-slate-200 pt-6">
+          <div className={guideRecommendationsMidGridClassName}>
+            <div className="md:col-span-5">
+              <div className={guideRecommendationsProductSummaryClassName}>
+              <div className={cn(guideRecommendationsImageAreaClassName, "relative mb-4 aspect-[4/3]")}>
                 <GuideCardBadge>{GUIDE_MOUSE_PRO_SUPERSTRIKE.badge}</GuideCardBadge>
                 {superstrikeGadget ? (
                   <GadgetImage
@@ -455,7 +440,7 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
                 {resolveGuidePriceLabel(superstrikeGadget)}
               </div>
 
-              <div className="mt-4 space-y-1.5 border-t border-border/60 pt-3 text-xs text-muted-foreground">
+              <div className={cn(guideRecommendationsInnerInsetClassName, "mt-4 space-y-1.5 text-xs text-muted-foreground")}>
                 <div className="flex justify-between gap-3">
                   <span>重量</span>
                   <span className="font-medium text-foreground">
@@ -488,10 +473,11 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
                   className="mt-4 inline-flex w-full items-center justify-center gap-1.5 rounded-lg bg-primary px-4 py-2.5 text-sm font-semibold text-primary-foreground transition-opacity hover:opacity-90"
                 />
               ) : null}
+              </div>
             </div>
 
             <div className="space-y-4 md:col-span-7">
-              <h4 className="border-b border-border/60 pb-2 text-base font-bold text-foreground">
+              <h4 className="border-b border-slate-200 pb-2 text-base font-bold text-foreground">
                 {GUIDE_MOUSE_PRO_SUPERSTRIKE.heading}
               </h4>
 
@@ -510,9 +496,10 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
             </div>
           </div>
 
-          <div className="grid items-start gap-6 rounded-xl border border-border/60 bg-muted/40 p-5 md:grid-cols-12 md:p-6">
-            <div className="rounded-lg border border-border/60 bg-card p-4 shadow-sm md:col-span-5">
-              <div className="relative mb-4 aspect-[4/3] overflow-hidden rounded-lg bg-secondary/30">
+          <div className={guideRecommendationsMidGridClassName}>
+            <div className="md:col-span-5">
+              <div className={guideRecommendationsProductSummaryClassName}>
+              <div className={cn(guideRecommendationsImageAreaClassName, "relative mb-4 aspect-[4/3]")}>
                 <GuideCardBadge>{GUIDE_MOUSE_PRO_G502.badge}</GuideCardBadge>
                 {g502Gadget ? (
                   <GadgetImage
@@ -539,7 +526,7 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
                 {resolveGuidePriceLabel(g502Gadget)}
               </div>
 
-              <div className="mt-4 space-y-1.5 border-t border-border/60 pt-3 text-xs text-muted-foreground">
+              <div className={cn(guideRecommendationsInnerInsetClassName, "mt-4 space-y-1.5 text-xs text-muted-foreground")}>
                 <div className="flex justify-between gap-3">
                   <span>重量</span>
                   <span className="font-medium text-foreground">
@@ -572,10 +559,11 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
                   className="mt-4 inline-flex w-full items-center justify-center gap-1.5 rounded-lg bg-primary px-4 py-2.5 text-sm font-semibold text-primary-foreground transition-opacity hover:opacity-90"
                 />
               ) : null}
+              </div>
             </div>
 
             <div className="space-y-4 md:col-span-7">
-              <h4 className="border-b border-border/60 pb-2 text-base font-bold text-foreground">
+              <h4 className="border-b border-slate-200 pb-2 text-base font-bold text-foreground">
                 {GUIDE_MOUSE_PRO_G502.heading}
               </h4>
 
@@ -598,9 +586,10 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
 
       {selectedType === "office" ? (
         <div className="space-y-8">
-          <div className="grid items-start gap-6 rounded-xl border border-border/60 bg-muted/40 p-5 md:grid-cols-12 md:p-6">
-            <div className="rounded-lg border border-border/60 bg-card p-4 shadow-sm md:col-span-5">
-              <div className="relative mb-4 aspect-[4/3] overflow-hidden rounded-lg bg-secondary/30">
+          <div className={guideRecommendationsMidGridClassName}>
+            <div className="md:col-span-5">
+              <div className={guideRecommendationsProductSummaryClassName}>
+              <div className={cn(guideRecommendationsImageAreaClassName, "relative mb-4 aspect-[4/3]")}>
                 <GuideCardBadge>{GUIDE_MOUSE_OFFICE_TECKNET.badge}</GuideCardBadge>
                 {tecknetGadget ? (
                   <GadgetImage
@@ -630,7 +619,7 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
                 )}
               </div>
 
-              <div className="mt-4 space-y-1.5 border-t border-border/60 pt-3 text-xs text-muted-foreground">
+              <div className={cn(guideRecommendationsInnerInsetClassName, "mt-4 space-y-1.5 text-xs text-muted-foreground")}>
                 <div className="flex justify-between gap-3">
                   <span>重量</span>
                   <span className="font-medium text-foreground">
@@ -663,10 +652,11 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
                   className="mt-4 inline-flex w-full items-center justify-center gap-1.5 rounded-lg bg-primary px-4 py-2.5 text-sm font-semibold text-primary-foreground transition-opacity hover:opacity-90"
                 />
               ) : null}
+              </div>
             </div>
 
             <div className="space-y-4 md:col-span-7">
-              <h4 className="border-b border-border/60 pb-2 text-base font-bold text-foreground">
+              <h4 className="border-b border-slate-200 pb-2 text-base font-bold text-foreground">
                 {GUIDE_MOUSE_OFFICE_TECKNET.heading}
               </h4>
 
@@ -685,9 +675,10 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
             </div>
           </div>
 
-          <div className="grid items-start gap-6 rounded-xl border border-border/60 bg-muted/40 p-5 md:grid-cols-12 md:p-6">
-            <div className="rounded-lg border border-border/60 bg-card p-4 shadow-sm md:col-span-5">
-              <div className="relative mb-4 aspect-[4/3] overflow-hidden rounded-lg bg-secondary/30">
+          <div className={guideRecommendationsMidGridClassName}>
+            <div className="md:col-span-5">
+              <div className={guideRecommendationsProductSummaryClassName}>
+              <div className={cn(guideRecommendationsImageAreaClassName, "relative mb-4 aspect-[4/3]")}>
                 <GuideCardBadge>{GUIDE_MOUSE_OFFICE_M750.badge}</GuideCardBadge>
                 {m750Gadget ? (
                   <GadgetImage
@@ -714,7 +705,7 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
                 {resolveGuidePriceLabel(m750Gadget, GUIDE_MOUSE_OFFICE_M750.priceLabel)}
               </div>
 
-              <div className="mt-4 space-y-1.5 border-t border-border/60 pt-3 text-xs text-muted-foreground">
+              <div className={cn(guideRecommendationsInnerInsetClassName, "mt-4 space-y-1.5 text-xs text-muted-foreground")}>
                 <div className="flex justify-between gap-3">
                   <span>重量</span>
                   <span className="font-medium text-foreground">
@@ -747,10 +738,11 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
                   className="mt-4 inline-flex w-full items-center justify-center gap-1.5 rounded-lg bg-primary px-4 py-2.5 text-sm font-semibold text-primary-foreground transition-opacity hover:opacity-90"
                 />
               ) : null}
+              </div>
             </div>
 
             <div className="space-y-4 md:col-span-7">
-              <h4 className="border-b border-border/60 pb-2 text-base font-bold text-foreground">
+              <h4 className="border-b border-slate-200 pb-2 text-base font-bold text-foreground">
                 {GUIDE_MOUSE_OFFICE_M750.heading}
               </h4>
 
@@ -769,9 +761,10 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
             </div>
           </div>
 
-          <div className="grid items-start gap-6 rounded-xl border border-border/60 bg-muted/40 p-5 md:grid-cols-12 md:p-6">
-            <div className="rounded-lg border border-border/60 bg-card p-4 shadow-sm md:col-span-5">
-              <div className="relative mb-4 aspect-[4/3] overflow-hidden rounded-lg bg-secondary/30">
+          <div className={guideRecommendationsMidGridClassName}>
+            <div className="md:col-span-5">
+              <div className={guideRecommendationsProductSummaryClassName}>
+              <div className={cn(guideRecommendationsImageAreaClassName, "relative mb-4 aspect-[4/3]")}>
                 <GuideCardBadge>{GUIDE_MOUSE_OFFICE_MX_MASTER_3S.badge}</GuideCardBadge>
                 {mxMaster3sGadget ? (
                   <GadgetImage
@@ -801,7 +794,7 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
                 )}
               </div>
 
-              <div className="mt-4 space-y-1.5 border-t border-border/60 pt-3 text-xs text-muted-foreground">
+              <div className={cn(guideRecommendationsInnerInsetClassName, "mt-4 space-y-1.5 text-xs text-muted-foreground")}>
                 <div className="flex justify-between gap-3">
                   <span>重量</span>
                   <span className="font-medium text-foreground">
@@ -834,10 +827,11 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
                   className="mt-4 inline-flex w-full items-center justify-center gap-1.5 rounded-lg bg-primary px-4 py-2.5 text-sm font-semibold text-primary-foreground transition-opacity hover:opacity-90"
                 />
               ) : null}
+              </div>
             </div>
 
             <div className="space-y-4 md:col-span-7">
-              <h4 className="border-b border-border/60 pb-2 text-base font-bold text-foreground">
+              <h4 className="border-b border-slate-200 pb-2 text-base font-bold text-foreground">
                 {GUIDE_MOUSE_OFFICE_MX_MASTER_3S.heading}
               </h4>
 
@@ -857,6 +851,6 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
           </div>
         </div>
       ) : null}
-    </section>
+    </GuideRecommendationsSection>
   )
 }

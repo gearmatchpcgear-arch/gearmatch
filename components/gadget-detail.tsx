@@ -18,7 +18,7 @@ import {
   getDisplayRating,
   formatDetailSpecRowDisplayValue,
   showsGadgetConnection,
-  withGamingChairCsvOverlay,
+  withCatalogCsvOverlay,
   type Gadget,
 } from "@/lib/gadgets"
 import { getGamingChairDetailSpecSections } from "@/lib/gaming-chair-detail-specs"
@@ -36,6 +36,7 @@ import {
   filterKeyboardDetailSpecGroups,
   formatKeyboardDetailSpecRowDisplayValue,
 } from "@/lib/keyboard-detail-display"
+import { cardPrimarySpecShellClassName } from "@/lib/card-primary-spec-shell"
 
 const detailTextClass =
   "whitespace-normal break-words text-pretty [overflow-wrap:anywhere]"
@@ -71,7 +72,7 @@ export function GadgetDetail({
 
   if (!gadget) return null
 
-  const displayGadget = withGamingChairCsvOverlay(gadget)
+  const displayGadget = withCatalogCsvOverlay(gadget)
   const displayBadge = getDisplayBadge(gadget)
   const detailHighlights = filterKeyboardDetailHighlights(
     gadget,
@@ -97,19 +98,23 @@ export function GadgetDetail({
   specGroups = filterKeyboardDetailSpecGroups(gadget, filterDetailSpecGroups(specGroups))
 
   const detailHighlightsBlock = (
-    <dl className="grid grid-cols-2 gap-2">
+    <dl
+      className={cn(
+        cardPrimarySpecShellClassName,
+        "grid min-w-0 grid-cols-2 gap-2 p-3 text-center",
+      )}
+    >
       {detailHighlights.map((h) => (
-        <div
-          key={`${gadget.id}-${h.label}`}
-          className={cn(
-            detailSpecItemClassName,
-            "colSpan" in h && h.colSpan === 2 ? "col-span-2" : undefined,
-          )}
-        >
-          <dt className={cn(detailTextClass, "text-[10px] font-medium leading-snug tracking-wide text-muted-foreground")}>
+        <div key={`${gadget.id}-${h.label}`} className="min-w-0 text-left sm:text-center">
+          <dt className={cn(detailTextClass, "text-xs leading-4 text-muted-foreground")}>
             {getCardHighlightLabel(gadget, h.label)}
           </dt>
-          <dd className={cn(detailTextClass, "mt-0.5 font-mono text-sm font-medium leading-snug text-card-foreground")}>
+          <dd
+            className={cn(
+              detailTextClass,
+              "mt-0.5 text-xs font-semibold leading-snug text-slate-800",
+            )}
+          >
             {h.value}
           </dd>
         </div>

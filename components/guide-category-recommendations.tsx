@@ -1,13 +1,18 @@
 "use client"
 
 import { useMemo } from "react"
-import Link from "next/link"
 import { GuideRecommendationCard } from "@/components/guide-recommendation-card"
+import {
+  GuideRecommendationsCardStack,
+  GuideRecommendationsHeader,
+  GuideRecommendationsSection,
+  guideRecommendationsListOnlySubtitle,
+} from "@/components/guide-recommendations-layout"
 import {
   GUIDE_CATEGORY_RECOMMENDATIONS,
   type GuideCategoryRecommendationId,
 } from "@/lib/guide-category-recommendations"
-import { gadgets, type Gadget } from "@/lib/gadgets"
+import { gadgets, type CategoryId, type Gadget } from "@/lib/gadgets"
 
 function resolveGadget(gadgetId: string | undefined, pool: Gadget[]): Gadget | undefined {
   if (!gadgetId) return undefined
@@ -36,26 +41,17 @@ export function GuideCategoryRecommendations({
     [picks, pool],
   )
 
+  const compareHref =
+    category === "gaming-chair" ? "/?category=gaming-chair" : `/?category=${category as CategoryId}`
+
   return (
-    <section className="space-y-6">
-      <div className="flex flex-wrap items-end justify-between gap-3">
-        <div>
-          <h2 className="text-xl font-bold text-foreground">おすすめの{categoryLabel}</h2>
-          <p className="mt-1 text-xs text-muted-foreground">
-            用途や予算に合わせたおすすめモデルと選定理由を紹介します。
-          </p>
-        </div>
-        <Link
-          href="/"
-          className="text-xs font-medium text-primary underline-offset-4 hover:underline"
-        >
-          トップの一覧で比較する →
-        </Link>
-      </div>
-
-      <div className="space-y-6">
-        <h3 className="text-lg font-bold text-foreground">おすすめモデル一覧</h3>
-
+    <GuideRecommendationsSection>
+      <GuideRecommendationsHeader
+        categoryLabel={categoryLabel}
+        compareHref={compareHref}
+        subtitle={guideRecommendationsListOnlySubtitle}
+      />
+      <GuideRecommendationsCardStack>
         {resolvedGadgets.map(({ pick, gadget }, index) => (
           <GuideRecommendationCard
             key={pick.id}
@@ -65,7 +61,7 @@ export function GuideCategoryRecommendations({
             priority={index < 2}
           />
         ))}
-      </div>
-    </section>
+      </GuideRecommendationsCardStack>
+    </GuideRecommendationsSection>
   )
 }

@@ -146,9 +146,18 @@ import {
   isGamingChairListedInCsv,
   withGamingChairCsvOverlay,
 } from "./gaming-chairs-csv-data"
+import {
+  passesMouseCatalogListFilter,
+  withMouseProductsCsvOverlay,
+} from "./mouse-products-catalog"
 import { isRepositoryExcludedGadgetId } from "./repository-excluded-gadget-ids"
 
-export { withGamingChairCsvOverlay }
+export { withGamingChairCsvOverlay, withMouseProductsCsvOverlay }
+
+/** 一覧・詳細の CSV 由来表示（チェア・マウス） */
+export function withCatalogCsvOverlay(gadget: Gadget): Gadget {
+  return withMouseProductsCsvOverlay(withGamingChairCsvOverlay(gadget))
+}
 export type { MouseFilterTag } from "./mouse-filter-tags"
 export type { KeyboardFilterTag } from "./keyboard-filter-tags"
 export type { KeyboardUseTag } from "./keyboard-use-tags"
@@ -1789,7 +1798,7 @@ export function getDisplayPrice(gadget: Gadget): number | null {
 
 /** 一覧カードに表示する価格（CSV 反映後・listPrice 優先）。絞り込み・ソートもこの値 */
 export function getCardDisplayPrice(gadget: Gadget): number | null {
-  return getDisplayPrice(withGamingChairCsvOverlay(gadget))
+  return getDisplayPrice(withCatalogCsvOverlay(gadget))
 }
 
 export function hasCardDisplayPrice(gadget: Gadget): boolean {
@@ -2235,6 +2244,9 @@ export function passesMicListFilter(gadget: Gadget): boolean {
   if (gadget.category !== "mic") return true
   return !isMicAccessoryProduct(gadget)
 }
+
+/** 一覧表示対象（`data/mouse_products.csv` I列「〇」除外） */
+export { passesMouseCatalogListFilter }
 
 /** 一覧表示対象（`gaming_chairs.csv` 登録 ID のみ） */
 export function passesGamingChairListFilter(gadget: Gadget): boolean {
@@ -2682,6 +2694,8 @@ export const gadgets: Gadget[] = dedupeGadgetsByPurchaseUrl(
     .filter(passesRepositoryExcludedFilter)
     .filter(passesKeyboardListFilter)
     .filter(passesMicListFilter)
+    .filter(passesMouseCatalogListFilter)
+    .filter(passesMouseListFilter)
     .filter(passesGamingChairListFilter)
     .filter(passesAudioInterfaceListFilter)
     .filter(passesCardSpecCompletenessFilter),
