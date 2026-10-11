@@ -12,9 +12,6 @@ const geistMono = Geist_Mono({ subsets: ['latin'], variable: '--font-geist-mono'
 export const metadata: Metadata = {
   title: SITE_TITLE,
   description: SITE_DESCRIPTION,
-  verification: {
-    google: 'nTRjXV5fTw_A1BebY6r4M5UFlxm_MaQcBh78gbHSJ-A',
-  },
   generator: 'v0.app',
   icons: {
     icon: [
@@ -47,6 +44,12 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="ja" className={`light ${geistSans.variable} ${geistMono.variable}`}>
+      <head>
+        <meta
+          name="google-site-verification"
+          content="nTRjXV5fTw_A1BebY6r4M5UFlxm_MaQcBh78gbHSJ-A"
+        />
+      </head>
       <body className="bg-slate-100/70 font-sans antialiased">
         <div className="flex min-h-svh flex-col">
           {children}
