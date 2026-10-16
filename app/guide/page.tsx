@@ -1,6 +1,6 @@
 import type { Metadata } from "next"
+import { GuidePortalContent } from "@/components/guide-portal-content"
 import { SitePageShell } from "@/components/site-page-shell"
-import { GuidePageContent } from "@/components/guide-page-content"
 import { SITE_NAME } from "@/lib/site-config"
 
 export const metadata: Metadata = {
@@ -14,7 +14,7 @@ export default function GuidePage() {
       title="デバイス購入のポイント"
       description="カテゴリを選んで、失敗しないデバイスの選び方とおすすめモデルをチェックしましょう。"
     >
-      <GuidePageContent />
+      <GuidePortalContent />
     </SitePageShell>
   )
 }

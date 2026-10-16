@@ -46,7 +46,7 @@ export const mouseGamingBestsellers: Gadget[] = [{
     price: 3727,
     rating: 4.4,
     reviews: 3286,
-    image: "https://m.media-amazon.com/images/I/61eElLlfVDL._AC_SL1500_.jpg",
+    image: "/images/mice/m-gbs-005.jpg",
     connection: "有線 USB",
     mouseSpreadsheetButtonCount: "6ボタン",
     mouseSpreadsheetUsageSpecs: ["gaming", "side-button"],

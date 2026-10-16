@@ -3,7 +3,11 @@
 import { useMemo } from "react"
 import { cn } from "@/lib/utils"
 import { ProductImageWithFallback } from "@/components/product-image-with-fallback"
-import { getProductImageCandidates, isValidProductImage } from "@/lib/gadget-images"
+import {
+  getProductImageCandidates,
+  isValidProductImage,
+  normalizeProductImageSrc,
+} from "@/lib/gadget-images"
 import {
   KEYBOARD_ELECOM_VK720A_AMAZON_IMAGE,
   KEYBOARD_ELECOM_VK720A_LOCAL_IMAGE,
@@ -37,19 +41,20 @@ export function GadgetImage({
   priority,
 }: GadgetImageProps) {
   const candidates = useMemo(() => {
+    const normalizedSrc = normalizeProductImageSrc(src)
     const extraFallbacks =
-      src === KEYBOARD_ELECOM_VK720A_LOCAL_IMAGE
+      normalizedSrc === KEYBOARD_ELECOM_VK720A_LOCAL_IMAGE
         ? [KEYBOARD_ELECOM_VK720A_AMAZON_IMAGE]
-        : src === KEYBOARD_REALFORCE_GX1PLUS_IMAGE
+        : normalizedSrc === KEYBOARD_REALFORCE_GX1PLUS_IMAGE
           ? [KEYBOARD_REALFORCE_GX1PLUS_IMAGE_FALLBACK]
-          : isInsta360Link2ImageSource(src)
+          : isInsta360Link2ImageSource(normalizedSrc)
             ? [...INSTA360_LINK_2_AMAZON_IMAGES]
             : []
 
-    if (!isValidProductImage(src)) {
+    if (!isValidProductImage(normalizedSrc)) {
       return getProductImageCandidates(undefined, category, extraFallbacks)
     }
-    return getProductImageCandidates(src, category, extraFallbacks)
+    return getProductImageCandidates(normalizedSrc, category, extraFallbacks)
   }, [src, category])
 
   return (

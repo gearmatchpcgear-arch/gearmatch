@@ -2,6 +2,8 @@
 
 import Link from "next/link"
 import { Sparkles } from "lucide-react"
+import { type ReactNode } from "react"
+import { buildGuideRecommendationTabHref } from "@/lib/guide-recommendation-tab-url"
 import {
   guideRecommendationsCardItemClassName,
   guideRecommendationsContentShellClassName,
@@ -105,29 +107,69 @@ type GuideRecommendationsTab = {
   label: string
 }
 
+export const GUIDE_RECOMMENDATIONS_PANEL_ID = "guide-recommendations-panel"
+
+type GuideRecommendationsPanelProps = {
+  children: ReactNode
+  className?: string
+  /** 現在選択中のタブ ID（スクリーンリーダー向け） */
+  tabId?: string
+}
+
+export function GuideRecommendationsPanel({
+  children,
+  className,
+  tabId,
+}: GuideRecommendationsPanelProps) {
+  return (
+    <div
+      id={GUIDE_RECOMMENDATIONS_PANEL_ID}
+      role="tabpanel"
+      tabIndex={-1}
+      aria-live="polite"
+      aria-labelledby={tabId ? `guide-tab-${tabId}` : undefined}
+      className={cn("scroll-mt-20 outline-none sm:scroll-mt-24", className)}
+    >
+      {children}
+    </div>
+  )
+}
+
 type GuideRecommendationsTabsProps = {
   tabs: readonly GuideRecommendationsTab[]
   selectedId: string
-  onSelect: (id: string) => void
+  /** 例: `/guide/mouse` — 各タブは `?tab=` 付き URL へ遷移 */
+  tabHrefBase: string
 }
 
-export function GuideRecommendationsTabs({ tabs, selectedId, onSelect }: GuideRecommendationsTabsProps) {
+export function GuideRecommendationsTabs({
+  tabs,
+  selectedId,
+  tabHrefBase,
+}: GuideRecommendationsTabsProps) {
   return (
-    <div className="mb-8 flex flex-wrap gap-2">
-      {tabs.map((tab) => (
-        <button
-          key={tab.id}
-          type="button"
-          onClick={() => onSelect(tab.id)}
-          aria-pressed={selectedId === tab.id}
-          className={cn(
-            guideRecommendationsTabButtonClass(selectedId === tab.id),
-            "min-w-[8.5rem] flex-1 sm:flex-none sm:min-w-[10rem]",
-          )}
-        >
-          {tab.label}
-        </button>
-      ))}
+    <div className="mb-8 flex flex-wrap gap-2" role="tablist" aria-label="おすすめの用途">
+      {tabs.map((tab) => {
+        const active = selectedId === tab.id
+        return (
+          <Link
+            key={tab.id}
+            id={`guide-tab-${tab.id}`}
+            href={buildGuideRecommendationTabHref(tabHrefBase, tab.id)}
+            scroll
+            role="tab"
+            aria-selected={active}
+            aria-controls={GUIDE_RECOMMENDATIONS_PANEL_ID}
+            aria-current={active ? "page" : undefined}
+            className={cn(
+              guideRecommendationsTabButtonClass(active),
+              "min-w-[8.5rem] flex-1 sm:flex-none sm:min-w-[10rem]",
+            )}
+          >
+            {tab.label}
+          </Link>
+        )
+      })}
     </div>
   )
 }

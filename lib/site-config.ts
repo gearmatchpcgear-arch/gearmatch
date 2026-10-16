@@ -1,3 +1,10 @@
+/** 本番の公開 URL（末尾スラッシュなし）。sitemap / canonical 用 */
+export function getSiteOrigin(): string {
+  const raw = process.env.NEXT_PUBLIC_SITE_URL?.trim()
+  if (raw) return raw.replace(/\/+$/, "")
+  return "http://localhost:3000"
+}
+
 export const SITE_NAME = "PC GearMatch"
 export const SITE_TAGLINE = "PCギア・デバイスの比較・検索サイト"
 export const SITE_TITLE = `${SITE_NAME} | ${SITE_TAGLINE}`

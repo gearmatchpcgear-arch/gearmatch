@@ -1,11 +1,12 @@
 "use client"
 
-import { useMemo, useState } from "react"
+import { useMemo } from "react"
 import { GuideRecommendationCard } from "@/components/guide-recommendation-card"
 import {
   GuideRecommendationsCardStack,
   GuideRecommendationsHeader,
   GuideRecommendationsListTitle,
+  GuideRecommendationsPanel,
   GuideRecommendationsSection,
   GuideRecommendationsTabs,
   guideRecommendationsEmptyStateClassName,
@@ -17,9 +18,10 @@ import {
   GUIDE_AUDIO_INTERFACE_PLACEHOLDER_MESSAGES,
   GUIDE_AUDIO_INTERFACE_RECOMMENDATIONS,
   GUIDE_AUDIO_INTERFACE_TABS,
-  type GuideAudioInterfaceRecommendationId,
 } from "@/lib/guide-audio-interface-recommendations"
 import { gadgets, type Gadget } from "@/lib/gadgets"
+import { guideCategoryPath } from "@/lib/guide-routes"
+import { useGuideRecommendationTabId } from "@/lib/use-guide-recommendation-tab-id"
 
 function resolveGadget(gadgetId: string | undefined, pool: Gadget[]): Gadget | undefined {
   if (!gadgetId) return undefined
@@ -30,11 +32,12 @@ type GuideAudioInterfaceRecommendationsProps = {
   pool: Gadget[]
 }
 
+const AUDIO_INTERFACE_TAB_IDS = GUIDE_AUDIO_INTERFACE_TABS.map((tab) => tab.id)
+
 export function GuideAudioInterfaceRecommendations({
   pool,
 }: GuideAudioInterfaceRecommendationsProps) {
-  const [selectedType, setSelectedType] =
-    useState<GuideAudioInterfaceRecommendationId>("beginner")
+  const selectedType = useGuideRecommendationTabId(AUDIO_INTERFACE_TAB_IDS, "beginner")
 
   const picks = GUIDE_AUDIO_INTERFACE_RECOMMENDATIONS[selectedType]
 
@@ -61,30 +64,32 @@ export function GuideAudioInterfaceRecommendations({
       <GuideRecommendationsTabs
         tabs={GUIDE_AUDIO_INTERFACE_TABS}
         selectedId={selectedType}
-        onSelect={setSelectedType}
+        tabHrefBase={guideCategoryPath("audio-interface")}
       />
-      <GuideRecommendationsListTitle>
-        {GUIDE_AUDIO_INTERFACE_LIST_TITLES[selectedType]}
-      </GuideRecommendationsListTitle>
-      <GuideRecommendationsCardStack>
-        {resolvedGadgets.length > 0 ? (
-          resolvedGadgets.map(({ pick, gadget }, index) => (
-            <GuideRecommendationCard
-              key={pick.id}
-              pick={pick}
-              category="audio-interface"
-              gadget={gadget}
-              priority={index < 2}
-            />
-          ))
-        ) : (
-          <div className={guideRecommendationsMidGridClassName}>
-            <div className={cn("md:col-span-12", guideRecommendationsEmptyStateClassName)}>
-              {placeholderMessage}
+      <GuideRecommendationsPanel tabId={selectedType}>
+        <GuideRecommendationsListTitle>
+          {GUIDE_AUDIO_INTERFACE_LIST_TITLES[selectedType]}
+        </GuideRecommendationsListTitle>
+        <GuideRecommendationsCardStack>
+          {resolvedGadgets.length > 0 ? (
+            resolvedGadgets.map(({ pick, gadget }, index) => (
+              <GuideRecommendationCard
+                key={pick.id}
+                pick={pick}
+                category="audio-interface"
+                gadget={gadget}
+                priority={index < 2}
+              />
+            ))
+          ) : (
+            <div className={guideRecommendationsMidGridClassName}>
+              <div className={cn("md:col-span-12", guideRecommendationsEmptyStateClassName)}>
+                {placeholderMessage}
+              </div>
             </div>
-          </div>
-        )}
-      </GuideRecommendationsCardStack>
+          )}
+        </GuideRecommendationsCardStack>
+      </GuideRecommendationsPanel>
     </GuideRecommendationsSection>
   )
 }

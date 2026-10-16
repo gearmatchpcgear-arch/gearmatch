@@ -16,6 +16,38 @@ export function getCategoryPlaceholder(category: CategoryId) {
   return CATEGORY_PLACEHOLDER[category]
 }
 
+/** `public/` 配下のルート相対パスに正規化（`images/foo.jpg` → `/images/foo.jpg`） */
+export function normalizeProductImageSrc(src: string): string {
+  const trimmed = src.trim()
+  if (!trimmed) return trimmed
+  if (
+    trimmed.startsWith("https://") ||
+    trimmed.startsWith("http://") ||
+    trimmed.startsWith("data:") ||
+    trimmed.startsWith("/")
+  ) {
+    return trimmed
+  }
+  if (
+    trimmed.startsWith("images/") ||
+    trimmed.startsWith("placeholders/") ||
+    trimmed.startsWith("products/")
+  ) {
+    return `/${trimmed}`
+  }
+  return trimmed
+}
+
+/** ローカル主画像 → Amazon 代替 URL（`public/images/` に実体がある商品） */
+export const LOCAL_PRODUCT_IMAGE_AMAZON_FALLBACK: Record<string, string> = {
+  "/images/mice/m-gbs-005.jpg":
+    "https://m.media-amazon.com/images/I/61eElLlfVDL._AC_SL1500_.jpg",
+  "/images/keyboards/vk720a.jpg":
+    "https://m.media-amazon.com/images/I/71ZXroF8jAL._AC_SL1500_.jpg",
+  "/images/cameras/insta360-link-2.jpg":
+    "https://m.media-amazon.com/images/I/51R6zRz7EVL._AC_SL1500_.jpg",
+}
+
 export function getCategoryImageLabel(category: CategoryId) {
   const labels: Record<CategoryId, string> = {
     mouse: "マウス",
@@ -32,17 +64,19 @@ export function getCategoryImageLabel(category: CategoryId) {
 
 /** 商品画像として有効な URL / ローカルパスか */
 export function isValidProductImage(src: string | null | undefined): boolean {
-  if (!src || /placeholder/i.test(src) || /\/images\/I\/61placeholder\b/i.test(src)) {
+  const normalized = src ? normalizeProductImageSrc(src) : src
+  if (!normalized || /placeholder/i.test(normalized) || /\/images\/I\/61placeholder\b/i.test(normalized)) {
     return false
   }
-  if (src.startsWith("/images/")) {
+  if (normalized.startsWith("/images/") || normalized.startsWith("/placeholders/")) {
     return true
   }
-  return /(?:media-amazon|images-na\.ssl-images-amazon)\.com\/images\/I\//i.test(src)
+  return /(?:media-amazon|images-na\.ssl-images-amazon)\.com\/images\/I\//i.test(normalized)
 }
 
 function isLocalProductImage(src: string): boolean {
-  return src.startsWith("/images/")
+  const normalized = normalizeProductImageSrc(src)
+  return normalized.startsWith("/images/") || normalized.startsWith("/placeholders/")
 }
 
 /** Amazon 画像 ID から代替ホスト URL を生成 */
@@ -80,10 +114,15 @@ export function getProductImageCandidates(
   const candidates: string[] = []
 
   if (src && isValidProductImage(src)) {
-    if (isLocalProductImage(src)) {
-      candidates.push(src)
+    const normalized = normalizeProductImageSrc(src)
+    if (isLocalProductImage(normalized)) {
+      candidates.push(normalized)
+      const amazonMirror = LOCAL_PRODUCT_IMAGE_AMAZON_FALLBACK[normalized]
+      if (amazonMirror) {
+        candidates.push(...getAmazonImageFallbacks(amazonMirror))
+      }
     } else {
-      candidates.push(...getAmazonImageFallbacks(src))
+      candidates.push(...getAmazonImageFallbacks(normalized))
     }
   }
 

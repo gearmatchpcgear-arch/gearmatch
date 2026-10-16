@@ -1,9 +1,10 @@
 "use client"
 
-import { useMemo, useState } from "react"
+import { useMemo } from "react"
 import { CheckCircle2 } from "lucide-react"
 import {
   GuideRecommendationsHeader,
+  GuideRecommendationsPanel,
   GuideRecommendationsSection,
   GuideRecommendationsTabs,
   guideRecommendationsImageAreaClassName,
@@ -24,7 +25,6 @@ import {
   GUIDE_MOUSE_PRO_SUPERSTRIKE,
   GUIDE_MOUSE_RECOMMENDATIONS,
   GUIDE_MOUSE_TABS,
-  type GuideMouseRecommendationId,
   type GuideMouseReason,
 } from "@/lib/guide-mouse-recommendations"
 import {
@@ -40,6 +40,8 @@ import {
   guideProductSummaryPanelClassName,
   guideProductTitleTwoLineClassName,
 } from "@/lib/product-card-layout"
+import { guideCategoryPath } from "@/lib/guide-routes"
+import { useGuideRecommendationTabId } from "@/lib/use-guide-recommendation-tab-id"
 import { cn } from "@/lib/utils"
 
 function resolveGadget(gadgetId: string, pool: Gadget[]): Gadget | undefined {
@@ -59,8 +61,10 @@ function renderReasonContent(reason: GuideMouseReason) {
   )
 }
 
+const MOUSE_TAB_IDS = GUIDE_MOUSE_TABS.map((tab) => tab.id)
+
 export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
-  const [selectedType, setSelectedType] = useState<GuideMouseRecommendationId>("beginner")
+  const selectedType = useGuideRecommendationTabId(MOUSE_TAB_IDS, "beginner")
 
   const currentItem =
     selectedType === "office"
@@ -114,9 +118,10 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
       <GuideRecommendationsTabs
         tabs={GUIDE_MOUSE_TABS}
         selectedId={selectedType}
-        onSelect={setSelectedType}
+        tabHrefBase={guideCategoryPath("mouse")}
       />
 
+      <GuideRecommendationsPanel tabId={selectedType}>
       {currentItem ? (
       <div className={guideRecommendationsMidGridClassName}>
         <div className="md:col-span-5">
@@ -891,6 +896,7 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
           </div>
         </div>
       ) : null}
+      </GuideRecommendationsPanel>
     </GuideRecommendationsSection>
   )
 }

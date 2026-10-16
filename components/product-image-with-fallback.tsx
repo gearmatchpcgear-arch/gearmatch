@@ -1,7 +1,6 @@
 "use client"
 
-import Image from "next/image"
-import { useEffect, useMemo, useState, type ImgHTMLAttributes } from "react"
+import { useCallback, useEffect, useMemo, useRef, useState, type ImgHTMLAttributes } from "react"
 import { toProxiedProductImageSrc } from "@/lib/amazon-product-image-proxy"
 import { cn } from "@/lib/utils"
 import { GUIDE_RECOMMENDATION_IMAGE_SIZES } from "@/lib/guide-image-config"
@@ -23,6 +22,12 @@ type ProductImageWithFallbackProps = {
 
 const DEFAULT_GUIDE_IMAGE_SIZE = 400
 
+function syncLoadedFromElement(img: HTMLImageElement | null, setLoaded: (value: boolean) => void) {
+  if (img?.complete && img.naturalWidth > 0) {
+    setLoaded(true)
+  }
+}
+
 export function ProductImageWithFallback({
   candidates,
   alt,
@@ -42,6 +47,7 @@ export function ProductImageWithFallback({
   const [index, setIndex] = useState(0)
   const [exhausted, setExhausted] = useState(false)
   const [loaded, setLoaded] = useState(false)
+  const imgRef = useRef<HTMLImageElement>(null)
 
   useEffect(() => {
     setIndex(0)
@@ -51,6 +57,15 @@ export function ProductImageWithFallback({
 
   const src = normalizedCandidates[index] ?? normalizedCandidates[normalizedCandidates.length - 1] ?? ""
   const displaySrc = src ? toProxiedProductImageSrc(src) : ""
+
+  useEffect(() => {
+    syncLoadedFromElement(imgRef.current, setLoaded)
+  }, [displaySrc])
+
+  const handleImgRef = useCallback((node: HTMLImageElement | null) => {
+    imgRef.current = node
+    syncLoadedFromElement(node, setLoaded)
+  }, [])
 
   if (!src || exhausted) {
     return (
@@ -75,16 +90,16 @@ export function ProductImageWithFallback({
           aria-hidden
         />
       ) : null}
-      <Image
+      <img
+        ref={handleImgRef}
         key={displaySrc}
         src={displaySrc}
         alt={alt}
         width={width}
         height={height}
         sizes={sizes}
-        unoptimized
-        priority={priority}
-        loading={priority ? undefined : loading}
+        fetchPriority={priority ? "high" : undefined}
+        loading={priority ? "eager" : loading}
         referrerPolicy={referrerPolicy}
         decoding={priority ? "sync" : "async"}
         onLoad={() => setLoaded(true)}
@@ -99,7 +114,7 @@ export function ProductImageWithFallback({
           })
         }}
         className={cn(
-          "relative z-[1] transition-opacity duration-200",
+          "relative z-[1] h-full w-full transition-opacity duration-200",
           loaded ? "opacity-100" : "opacity-0",
           className,
         )}

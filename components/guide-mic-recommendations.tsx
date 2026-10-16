@@ -1,11 +1,12 @@
 "use client"
 
-import { useEffect, useMemo, useState } from "react"
+import { useEffect, useMemo } from "react"
 import { GuideRecommendationCard } from "@/components/guide-recommendation-card"
 import {
   GuideRecommendationsCardStack,
   GuideRecommendationsHeader,
   GuideRecommendationsListTitle,
+  GuideRecommendationsPanel,
   GuideRecommendationsSection,
   GuideRecommendationsTabs,
   guideRecommendationsEmptyStateClassName,
@@ -17,9 +18,10 @@ import {
   GUIDE_MIC_PLACEHOLDER_MESSAGE,
   GUIDE_MIC_RECOMMENDATIONS,
   GUIDE_MIC_TABS,
-  type GuideMicRecommendationId,
 } from "@/lib/guide-mic-recommendations"
 import { gadgets, type Gadget } from "@/lib/gadgets"
+import { guideCategoryPath } from "@/lib/guide-routes"
+import { useGuideRecommendationTabId } from "@/lib/use-guide-recommendation-tab-id"
 import {
   collectGuideRecommendationImageUrls,
   preloadGuideProductImages,
@@ -34,8 +36,10 @@ type GuideMicRecommendationsProps = {
   pool: Gadget[]
 }
 
+const MIC_TAB_IDS = GUIDE_MIC_TABS.map((tab) => tab.id)
+
 export function GuideMicRecommendations({ pool }: GuideMicRecommendationsProps) {
-  const [micType, setMicType] = useState<GuideMicRecommendationId>("dynamic")
+  const micType = useGuideRecommendationTabId(MIC_TAB_IDS, "dynamic")
 
   const picks = GUIDE_MIC_RECOMMENDATIONS[micType]
 
@@ -65,27 +69,33 @@ export function GuideMicRecommendations({ pool }: GuideMicRecommendationsProps) 
   return (
     <GuideRecommendationsSection>
       <GuideRecommendationsHeader categoryLabel="マイク" compareHref="/?category=mic" />
-      <GuideRecommendationsTabs tabs={GUIDE_MIC_TABS} selectedId={micType} onSelect={setMicType} />
-      <GuideRecommendationsListTitle>{GUIDE_MIC_LIST_TITLES[micType]}</GuideRecommendationsListTitle>
-      <GuideRecommendationsCardStack>
-        {resolvedGadgets.length > 0 ? (
-          resolvedGadgets.map(({ pick, gadget }, index) => (
-            <GuideRecommendationCard
-              key={pick.id}
-              pick={pick}
-              category="mic"
-              gadget={gadget}
-              priority={index < 2}
-            />
-          ))
-        ) : (
-          <div className={guideRecommendationsMidGridClassName}>
-            <div className={cn("md:col-span-12", guideRecommendationsEmptyStateClassName)}>
-              {GUIDE_MIC_PLACEHOLDER_MESSAGE}
+      <GuideRecommendationsTabs
+        tabs={GUIDE_MIC_TABS}
+        selectedId={micType}
+        tabHrefBase={guideCategoryPath("mic")}
+      />
+      <GuideRecommendationsPanel tabId={micType}>
+        <GuideRecommendationsListTitle>{GUIDE_MIC_LIST_TITLES[micType]}</GuideRecommendationsListTitle>
+        <GuideRecommendationsCardStack>
+          {resolvedGadgets.length > 0 ? (
+            resolvedGadgets.map(({ pick, gadget }, index) => (
+              <GuideRecommendationCard
+                key={pick.id}
+                pick={pick}
+                category="mic"
+                gadget={gadget}
+                priority={index < 2}
+              />
+            ))
+          ) : (
+            <div className={guideRecommendationsMidGridClassName}>
+              <div className={cn("md:col-span-12", guideRecommendationsEmptyStateClassName)}>
+                {GUIDE_MIC_PLACEHOLDER_MESSAGE}
+              </div>
             </div>
-          </div>
-        )}
-      </GuideRecommendationsCardStack>
+          )}
+        </GuideRecommendationsCardStack>
+      </GuideRecommendationsPanel>
     </GuideRecommendationsSection>
   )
 }
