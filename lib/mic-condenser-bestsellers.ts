@@ -54,7 +54,7 @@ export const micCondenserBestsellers: Gadget[] = [
     reviews: 15384,
     image: "https://m.media-amazon.com/images/I/61y8x7sK8mL._AC_SL1500_.jpg",
     connection: "XLR",
-    purchaseUrl: "https://www.amazon.co.jp/dp/B0006H92QK?th=1",
+    purchaseUrl: "https://www.amazon.co.jp/dp/B0006H92QK",
     micFilterTags: ["condenser"],
     micUseTags: ["歌・楽器の録音（DTM）"],
     micFeatureTags: [],

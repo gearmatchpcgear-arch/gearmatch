@@ -519,7 +519,7 @@ export const gamingChairSearchPage3: Gadget[] = [{
     rating: 4.3,
     reviews: 29,
     image: "https://m.media-amazon.com/images/I/61TzBSlXQFL._AC_SL1500_.jpg",
-    purchaseUrl: "https://www.amazon.co.jp/gp/product/B0F3N1H577/ref=ox_sc_act_title_1?smid=A19C604L9PCD7C&psc=1",
+    purchaseUrl: "https://www.amazon.co.jp/dp/B0F3N1H577",
     highlights: [
       { label: "素材", value: "ファブリック" },
       { label: "最大リクライニング角度", value: "最大165°" },

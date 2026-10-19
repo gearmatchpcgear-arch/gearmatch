@@ -1,3 +1,4 @@
+import { cleanAmazonPurchaseUrl } from "./amazon-purchase-url"
 import { mouseBestsellers } from "./mouse-bestsellers"
 import { mouseGamingBestsellers } from "./mouse-gaming-bestsellers"
 import { mouseGamingNewReleases } from "./mouse-gaming-new-releases"
@@ -2673,9 +2674,9 @@ export function getMicTypeLabel(gadget: Gadget) {
   return raw ? normalizeMicTypeDisplay(raw) : null
 }
 
-/** 商品ページURL（Amazon等） */
+/** 商品ページ URL（Amazon は /dp/ASIN 形式） */
 export function shopUrl(gadget: Gadget) {
-  return gadget.purchaseUrl
+  return cleanAmazonPurchaseUrl(gadget.purchaseUrl)
 }
 
 /** 販売サイトを新しいタブで開く（埋め込みブラウザでも確実に遷移） */

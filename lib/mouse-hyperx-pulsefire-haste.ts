@@ -19,7 +19,7 @@ export const mouseHyperxPulsefireHaste: Gadget[] = [
     mouseUsage: "gaming",
     mouseSensitivity: "16000DPI",
     purchaseUrl:
-      "https://www.amazon.co.jp/dp/B09QXG3132/ref=nosim?tag=gmec-22&ec_product_id=106507&th=1",
+      "https://www.amazon.co.jp/dp/B09QXG3132",
     mouseFilterTags: ["reading-optical", "side-buttons"],
     highlights: [
       { label: "重量", value: "60 g" },

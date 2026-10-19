@@ -67,7 +67,7 @@ export function GuideNav({ currentCategory, showCategoryTabs = true }: GuideNavP
                   key={categoryId}
                   href={guideCategoryPath(categoryId)}
                   className={cn(
-                    "inline-flex shrink-0 items-center gap-1.5 whitespace-nowrap rounded-full px-3.5 py-1.5 text-sm font-medium transition-all",
+                    "inline-flex shrink-0 items-center gap-1.5 whitespace-nowrap rounded-full px-3 py-1.5 text-xs font-medium transition-all sm:px-3.5 sm:text-sm",
                     active
                       ? "bg-primary text-primary-foreground shadow-sm"
                       : "bg-card text-muted-foreground shadow-sm ring-1 ring-border/70 hover:text-foreground hover:ring-primary/30",

@@ -25,7 +25,14 @@ import { GUIDE_RECOMMENDATION_IMAGE_SIZES } from "@/lib/guide-image-config"
 import {
   guideRecommendationsInnerInsetClassName,
   guideRecommendationsMidGridClassName,
+  guideRecommendationsReasonColumnClassName,
 } from "@/components/guide-recommendations-layout"
+import {
+  guideProductReasonHeadingClassName,
+  guideProductSpecRowClassName,
+  guideProductSpecValueClassName,
+} from "@/lib/product-card-layout"
+import { cleanAmazonPurchaseUrl } from "@/lib/amazon-purchase-url"
 import { cn } from "@/lib/utils"
 
 type GuideRecommendationCardProps = {
@@ -84,8 +91,8 @@ export function GuideRecommendationCard({
     category === "monitor" ? getGuideMonitorCardSpecs(pick.specs) : pick.specs
 
   return (
-    <div className={guideRecommendationsMidGridClassName}>
-      <div className="md:col-span-5">
+    <div className={cn(guideRecommendationsMidGridClassName, "min-w-0 max-w-full")}>
+      <div className="min-w-0 md:col-span-5">
         <GuideRecommendationProductSummary
           badge={<GuideCardBadge>{pick.badge}</GuideCardBadge>}
           image={
@@ -117,32 +124,32 @@ export function GuideRecommendationCard({
               <div className={cn(guideRecommendationsInnerInsetClassName, "text-xs text-muted-foreground")}>
                 <div className="space-y-1.5">
                   {cardSpecs.map((spec) => (
-                    <div key={spec.label} className="flex justify-between gap-3">
-                      <span>{spec.label}</span>
-                      <span className="text-right font-medium text-foreground">{spec.value}</span>
+                    <div key={spec.label} className={guideProductSpecRowClassName}>
+                      <span className="shrink-0">{spec.label}</span>
+                      <span className={guideProductSpecValueClassName}>{spec.value}</span>
                     </div>
                   ))}
                 </div>
               </div>
             ) : (
-              <div aria-hidden className="min-h-[6.75rem]" />
+              <div aria-hidden className="min-h-[5.5rem] sm:min-h-[6.75rem]" />
             )
           }
           shopSlot={
             gadget ? (
               pick.purchaseUrl ? (
                 <a
-                  href={pick.purchaseUrl}
+                  href={cleanAmazonPurchaseUrl(pick.purchaseUrl)}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="inline-flex w-full items-center justify-center gap-1.5 rounded-lg bg-primary px-4 py-2.5 text-sm font-semibold text-primary-foreground transition-opacity hover:opacity-90"
+                  className="inline-flex w-full items-center justify-center gap-1.5 rounded-lg bg-primary px-3 py-2 text-xs font-semibold text-primary-foreground transition-opacity hover:opacity-90 sm:px-4 sm:py-2.5 sm:text-sm"
                 >
                   {SHOP_LINK_LABEL}
                 </a>
               ) : (
                 <ShopLink
                   gadget={gadget}
-                  className="inline-flex w-full items-center justify-center gap-1.5 rounded-lg bg-primary px-4 py-2.5 text-sm font-semibold text-primary-foreground transition-opacity hover:opacity-90"
+                  className="inline-flex w-full items-center justify-center gap-1.5 rounded-lg bg-primary px-3 py-2 text-xs font-semibold text-primary-foreground transition-opacity hover:opacity-90 sm:px-4 sm:py-2.5 sm:text-sm"
                 />
               )
             ) : undefined
@@ -150,32 +157,30 @@ export function GuideRecommendationCard({
         />
       </div>
 
-      <div className="space-y-4 md:col-span-7">
-        <h4 className="border-b border-slate-200 pb-2 text-base font-bold text-foreground">
-          {pick.heading}
-        </h4>
+      <div className={guideRecommendationsReasonColumnClassName}>
+        <h4 className={guideProductReasonHeadingClassName}>{pick.heading}</h4>
 
-          <ul className="space-y-2.5 text-xs leading-relaxed text-foreground/90 md:text-sm">
-            {pick.reasons.map((reason) => (
-              <li key={reason.emphasis} className="flex items-start gap-2">
-                <span className="shrink-0 text-primary" aria-hidden>
-                  ✔
-                </span>
-                <span>
-                  <strong>{reason.emphasis}</strong> {reason.text}
-                </span>
-              </li>
-            ))}
-            {pick.concern ? (
-              <li className="flex items-start gap-2 border-t border-slate-200 pt-2.5 text-amber-700 dark:text-amber-400">
-                <span className="shrink-0 font-bold" aria-hidden>
-                  ⚠️
-                </span>
-                <span>
-                  <strong>{pick.concern.emphasis}</strong> {pick.concern.text}
-                </span>
-              </li>
-            ) : null}
+        <ul className="space-y-2 text-[11px] leading-relaxed text-foreground/90 sm:space-y-2.5 sm:text-xs md:text-sm">
+          {pick.reasons.map((reason) => (
+            <li key={reason.emphasis} className="flex min-w-0 items-start gap-2">
+              <span className="shrink-0 text-primary" aria-hidden>
+                ✔
+              </span>
+              <span className="min-w-0 break-words">
+                <strong>{reason.emphasis}</strong> {reason.text}
+              </span>
+            </li>
+          ))}
+          {pick.concern ? (
+            <li className="flex min-w-0 items-start gap-2 border-t border-slate-200 pt-2.5 text-amber-700 dark:text-amber-400">
+              <span className="shrink-0 font-bold" aria-hidden>
+                ⚠️
+              </span>
+              <span className="min-w-0 break-words">
+                <strong>{pick.concern.emphasis}</strong> {pick.concern.text}
+              </span>
+            </li>
+          ) : null}
         </ul>
       </div>
     </div>

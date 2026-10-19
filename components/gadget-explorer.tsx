@@ -34,6 +34,7 @@ import { CategoryIcon } from "@/components/category-icon"
 import { GadgetCard, type CardSize } from "@/components/gadget-card"
 import { GadgetDetail } from "@/components/gadget-detail"
 import { GadgetImage } from "@/components/gadget-image"
+import { areProductImagesHiddenForReview } from "@/lib/product-images-display"
 import { CompareView } from "@/components/compare-view"
 import { PriceRangeFilter } from "@/components/price-range-filter"
 import {
@@ -650,15 +651,24 @@ export function GadgetExplorer() {
             <div className="flex min-w-0 flex-1 items-center gap-2 overflow-x-auto overscroll-x-contain py-0.5 [-ms-overflow-style:none] [scrollbar-width:thin]">
               {compareGadgets.map((g) => (
                 <div key={g.id} className="relative shrink-0">
-                  <div className="relative size-10 overflow-hidden rounded-lg bg-gradient-to-b from-secondary/40 to-card shadow-sm ring-1 ring-border/60 sm:size-11">
-                    <GadgetImage
-                      src={g.image}
-                      alt={`${g.brand} ${g.name}`}
-                      category={g.category}
-                      sizes="44px"
-                      className="p-1"
-                    />
-                  </div>
+                  {!areProductImagesHiddenForReview() ? (
+                    <div className="relative size-10 overflow-hidden rounded-lg bg-gradient-to-b from-secondary/40 to-card shadow-sm ring-1 ring-border/60 sm:size-11">
+                      <GadgetImage
+                        src={g.image}
+                        alt={`${g.brand} ${g.name}`}
+                        category={g.category}
+                        sizes="44px"
+                        className="p-1"
+                      />
+                    </div>
+                  ) : (
+                    <div
+                      className="flex size-10 max-w-[8rem] items-center rounded-lg bg-secondary/80 px-2 py-1 text-[10px] font-semibold leading-tight text-foreground ring-1 ring-border/60 sm:size-auto sm:min-h-11 sm:max-w-[9rem]"
+                      title={g.name}
+                    >
+                      <span className="line-clamp-2">{g.name}</span>
+                    </div>
+                  )}
                   <button
                     type="button"
                     onClick={() => toggleCompare(g.id)}

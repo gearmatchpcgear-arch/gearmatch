@@ -3,6 +3,7 @@
 import { useEffect } from "react"
 import { X } from "lucide-react"
 import { GadgetImage } from "@/components/gadget-image"
+import { areProductImagesHiddenForReview } from "@/lib/product-images-display"
 import {
   formatPrice,
   getCardDisplayPrice,
@@ -71,6 +72,7 @@ export function CompareView({
 
   const groups = buildGroups(gadgets)
   const gridCols = { gridTemplateColumns: `minmax(7rem,1fr) repeat(${gadgets.length}, minmax(8rem,1fr))` }
+  const hideImages = areProductImagesHiddenForReview()
 
   return (
     <div className="fixed inset-0 z-50 flex flex-col">
@@ -111,16 +113,18 @@ export function CompareView({
                   >
                     <X className="size-3" />
                   </button>
-                  <div className="relative mx-auto size-16 overflow-hidden rounded-lg bg-gradient-to-b from-secondary/40 to-card shadow-sm ring-1 ring-border/60">
-                    <GadgetImage
-                      src={g.image}
-                      alt={`${g.brand} ${g.name}`}
-                      category={g.category}
-                      sizes="72px"
-                      className="p-1.5"
-                    />
-                  </div>
-                  <p className="mt-1.5 line-clamp-2 text-xs font-semibold leading-snug text-card-foreground">
+                  {!hideImages ? (
+                    <div className="relative mx-auto size-16 overflow-hidden rounded-lg bg-gradient-to-b from-secondary/40 to-card shadow-sm ring-1 ring-border/60">
+                      <GadgetImage
+                        src={g.image}
+                        alt={`${g.brand} ${g.name}`}
+                        category={g.category}
+                        sizes="72px"
+                        className="p-1.5"
+                      />
+                    </div>
+                  ) : null}
+                  <p className={hideImages ? "line-clamp-3 text-xs font-semibold leading-snug text-card-foreground" : "mt-1.5 line-clamp-2 text-xs font-semibold leading-snug text-card-foreground"}>
                     {g.name}
                   </p>
                   <p className="mt-0.5 font-mono text-[10px] text-muted-foreground">

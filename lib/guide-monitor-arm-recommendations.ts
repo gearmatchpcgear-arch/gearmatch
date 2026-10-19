@@ -85,7 +85,7 @@ export const GUIDE_MONITOR_ARM_RECOMMENDATIONS: GuideCategoryRecommendation[] = 
     id: "guide-monitor-arm-huanuo-hnds6-dual",
     badge: "デュアル画面対応 / 二重クランプ設計 / 作業効率UP",
     gadgetId: "arm-sr-1048",
-    purchaseUrl: "https://www.amazon.co.jp/dp/B07W3KK949?th=1",
+    purchaseUrl: "https://www.amazon.co.jp/dp/B07W3KK949",
     imageUrl: "https://m.media-amazon.com/images/I/71R2cT3iGgL._AC_SL1500_.jpg",
     imageFallbackUrls: [
       "https://m.media-amazon.com/images/I/61ZJLx37Z3L._AC_SL1500_.jpg",

@@ -1,4 +1,5 @@
 import { toProxiedProductImageSrc } from "@/lib/amazon-product-image-proxy"
+import { areProductImagesHiddenForReview } from "@/lib/product-images-display"
 import {
   INSTA360_LINK_2_AMAZON_IMAGES,
   INSTA360_LINK_2_IMAGE_URL,
@@ -76,6 +77,7 @@ export function preloadGuideProductImages(
   limit = 4,
 ): () => void {
   if (typeof document === "undefined") return () => {}
+  if (areProductImagesHiddenForReview()) return () => {}
 
   const links: HTMLLinkElement[] = []
   const seen = new Set<string>()

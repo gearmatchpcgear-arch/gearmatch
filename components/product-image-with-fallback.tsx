@@ -2,6 +2,7 @@
 
 import { useCallback, useEffect, useMemo, useRef, useState, type ImgHTMLAttributes } from "react"
 import { toProxiedProductImageSrc } from "@/lib/amazon-product-image-proxy"
+import { areProductImagesHiddenForReview } from "@/lib/product-images-display"
 import { cn } from "@/lib/utils"
 import { GUIDE_RECOMMENDATION_IMAGE_SIZES } from "@/lib/guide-image-config"
 
@@ -40,6 +41,8 @@ export function ProductImageWithFallback({
   exhaustedLabel,
   referrerPolicy = "no-referrer",
 }: ProductImageWithFallbackProps) {
+  const hideImages = areProductImagesHiddenForReview()
+
   const normalizedCandidates = useMemo(
     () => candidates.filter((candidate, index) => candidate && candidates.indexOf(candidate) === index),
     [candidates],
@@ -66,6 +69,10 @@ export function ProductImageWithFallback({
     imgRef.current = node
     syncLoadedFromElement(node, setLoaded)
   }, [])
+
+  if (hideImages) {
+    return null
+  }
 
   if (!src || exhausted) {
     return (

@@ -33,18 +33,20 @@ export function SitePageShell({ title, description, children, compact = false }:
         className={
           compact
               ? "mx-auto flex min-h-0 w-full max-w-3xl flex-1 flex-col px-4 py-3 md:py-4"
-              : "mx-auto max-w-4xl px-4 py-8 sm:py-10"
+              : "mx-auto min-w-0 max-w-4xl px-3 py-6 sm:px-4 sm:py-8 md:py-10"
         }
       >
         {!compact ? (
           <>
-            <h1 className="text-2xl font-bold tracking-tight text-foreground sm:text-3xl">
+            <h1 className="text-xl font-bold tracking-tight text-foreground sm:text-2xl md:text-3xl">
               {title}
             </h1>
             {description ? (
-              <p className="mt-2 text-sm leading-relaxed text-muted-foreground">{description}</p>
+              <p className="mt-1.5 text-xs leading-relaxed text-muted-foreground sm:mt-2 sm:text-sm">
+                {description}
+              </p>
             ) : null}
-            <div className="mt-8 min-w-0 max-w-full">{children}</div>
+            <div className="mt-6 min-w-0 max-w-full sm:mt-8">{children}</div>
           </>
         ) : (
           children

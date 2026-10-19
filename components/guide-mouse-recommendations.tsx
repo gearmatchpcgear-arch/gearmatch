@@ -7,12 +7,15 @@ import {
   GuideRecommendationsPanel,
   GuideRecommendationsSection,
   GuideRecommendationsTabs,
+  guideRecommendationsHeroImageClassName,
   guideRecommendationsImageAreaClassName,
   guideRecommendationsInnerInsetClassName,
   guideRecommendationsMidGridClassName,
   guideRecommendationsProductSummaryClassName,
+  guideRecommendationsReasonColumnClassName,
 } from "@/components/guide-recommendations-layout"
 import { GuideCardBadge } from "@/components/guide-card-badge"
+import { GuideRecommendationImageBlock } from "@/components/guide-recommendation-image-block"
 import { GadgetImage } from "@/components/gadget-image"
 import { ShopLink } from "@/components/shop-link"
 import {
@@ -35,8 +38,11 @@ import { resolveGuidePriceLabel } from "@/lib/guide-price-label"
 import {
   guideProductMetaLineClassName,
   guideProductPriceSlotClassName,
+  guideProductReasonHeadingClassName,
   guideProductShopButtonSlotClassName,
+  guideProductSpecRowClassName,
   guideProductSpecSlotClassName,
+  guideProductSpecValueClassName,
   guideProductSummaryPanelClassName,
   guideProductTitleTwoLineClassName,
 } from "@/lib/product-card-layout"
@@ -123,11 +129,13 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
 
       <GuideRecommendationsPanel tabId={selectedType}>
       {currentItem ? (
-      <div className={guideRecommendationsMidGridClassName}>
-        <div className="md:col-span-5">
+      <div className={cn(guideRecommendationsMidGridClassName, "min-w-0 max-w-full")}>
+        <div className="min-w-0 md:col-span-5">
           <div className={cn(guideRecommendationsProductSummaryClassName, guideProductSummaryPanelClassName)}>
-          <div className={cn(guideRecommendationsImageAreaClassName, "relative mb-4 aspect-[4/3]")}>
-            <GuideCardBadge>{currentItem.badge}</GuideCardBadge>
+          <GuideRecommendationImageBlock
+            className={cn(guideRecommendationsImageAreaClassName, guideRecommendationsHeroImageClassName)}
+            badge={<GuideCardBadge>{currentItem.badge}</GuideCardBadge>}
+          >
             {currentGadget ? (
               <GadgetImage
                 src={currentGadget.image}
@@ -141,7 +149,7 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
                 画像を準備中
               </div>
             )}
-          </div>
+          </GuideRecommendationImageBlock>
 
           <h3 className={guideProductTitleTwoLineClassName}>{currentItem.title}</h3>
 
@@ -159,28 +167,28 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
 
           <div className={guideProductSpecSlotClassName}>
             <div className={cn(guideRecommendationsInnerInsetClassName, "mt-0 space-y-1.5 text-xs text-muted-foreground")}>
-            <div className="flex justify-between gap-3">
+            <div className={guideProductSpecRowClassName}>
               <span>重量</span>
-              <span className="font-medium text-foreground">{currentItem.specs.weight}</span>
+              <span className={guideProductSpecValueClassName}>{currentItem.specs.weight}</span>
             </div>
-            <div className="flex justify-between gap-3">
+            <div className={guideProductSpecRowClassName}>
               <span>接続</span>
-              <span className="text-right font-medium text-foreground">
+              <span className={guideProductSpecValueClassName}>
                 {currentItem.specs.connection}
               </span>
             </div>
             {currentItem.specs.sensitivity ? (
               <>
-                <div className="flex justify-between gap-3">
+                <div className={guideProductSpecRowClassName}>
                   <span>感度</span>
-                  <span className="text-right font-medium text-foreground">
+                  <span className={guideProductSpecValueClassName}>
                     {currentItem.specs.sensitivity}
                   </span>
                 </div>
                 {currentItem.specs.buttons ? (
-                  <div className="flex justify-between gap-3">
+                  <div className={guideProductSpecRowClassName}>
                     <span>ボタン数</span>
-                    <span className="font-medium text-foreground">
+                    <span className={guideProductSpecValueClassName}>
                       {currentItem.specs.buttons}
                     </span>
                   </div>
@@ -188,24 +196,24 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
               </>
             ) : (
               <>
-                <div className="flex justify-between gap-3">
+                <div className={guideProductSpecRowClassName}>
                   <span>センサー</span>
-                  <span className="text-right font-medium text-foreground">
+                  <span className={guideProductSpecValueClassName}>
                     {currentItem.specs.sensor}
                   </span>
                 </div>
                 {currentItem.specs.battery ? (
-                  <div className="flex justify-between gap-3">
+                  <div className={guideProductSpecRowClassName}>
                     <span>バッテリー</span>
-                    <span className="text-right font-medium text-foreground">
+                    <span className={guideProductSpecValueClassName}>
                       {currentItem.specs.battery}
                     </span>
                   </div>
                 ) : null}
                 {currentItem.specs.buttons ? (
-                  <div className="flex justify-between gap-3">
+                  <div className={guideProductSpecRowClassName}>
                     <span>ボタン数</span>
-                    <span className="text-right font-medium text-foreground">
+                    <span className={guideProductSpecValueClassName}>
                       {currentItem.specs.buttons}
                     </span>
                   </div>
@@ -226,12 +234,12 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
           </div>
         </div>
 
-        <div className="space-y-4 md:col-span-7">
-          <h4 className="border-b border-slate-200 pb-2 text-base font-bold text-foreground">
+        <div className={guideRecommendationsReasonColumnClassName}>
+          <h4 className={guideProductReasonHeadingClassName}>
             {currentItem.reasonsHeading ?? "なぜこのマウスがおすすめなのか？"}
           </h4>
 
-          <ul className="space-y-2.5 text-xs leading-relaxed text-foreground/90 md:text-sm">
+          <ul className="space-y-2 text-[11px] leading-relaxed text-foreground/90 sm:space-y-2.5 sm:text-xs md:text-sm">
             {currentItem.reasons.map((reason) => (
               <li key={reasonKey(reason)} className="flex items-start gap-2">
                 {currentItem.reasonsHeading ? (
@@ -251,11 +259,13 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
 
       {selectedType === "beginner" ? (
         <div className="mt-8 space-y-8 border-t border-slate-200 pt-6">
-          <div className={guideRecommendationsMidGridClassName}>
-            <div className="md:col-span-5">
+          <div className={cn(guideRecommendationsMidGridClassName, "min-w-0 max-w-full")}>
+            <div className="min-w-0 md:col-span-5">
               <div className={cn(guideRecommendationsProductSummaryClassName, guideProductSummaryPanelClassName)}>
-              <div className={cn(guideRecommendationsImageAreaClassName, "relative mb-4 aspect-[4/3]")}>
-                <GuideCardBadge>{GUIDE_MOUSE_BEGINNER_UPGRADE.badge}</GuideCardBadge>
+              <GuideRecommendationImageBlock
+                className={cn(guideRecommendationsImageAreaClassName, guideRecommendationsHeroImageClassName)}
+                badge={<GuideCardBadge>{GUIDE_MOUSE_BEGINNER_UPGRADE.badge}</GuideCardBadge>}
+              >
                 {upgradeGadget ? (
                   <GadgetImage
                     src={upgradeGadget.image}
@@ -268,7 +278,7 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
                     画像を準備中
                   </div>
                 )}
-              </div>
+              </GuideRecommendationImageBlock>
 
               <h3 className={guideProductTitleTwoLineClassName}>
                 {GUIDE_MOUSE_BEGINNER_UPGRADE.title}
@@ -283,27 +293,27 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
 
               <div className={guideProductSpecSlotClassName}>
             <div className={cn(guideRecommendationsInnerInsetClassName, "mt-0 space-y-1.5 text-xs text-muted-foreground")}>
-                <div className="flex justify-between gap-3">
+                <div className={guideProductSpecRowClassName}>
                   <span>重量</span>
-                  <span className="font-medium text-foreground">
+                  <span className={guideProductSpecValueClassName}>
                     {GUIDE_MOUSE_BEGINNER_UPGRADE.specs.weight}
                   </span>
                 </div>
-                <div className="flex justify-between gap-3">
+                <div className={guideProductSpecRowClassName}>
                   <span>接続</span>
-                  <span className="text-right font-medium text-foreground">
+                  <span className={guideProductSpecValueClassName}>
                     {GUIDE_MOUSE_BEGINNER_UPGRADE.specs.connection}
                   </span>
                 </div>
-                <div className="flex justify-between gap-3">
+                <div className={guideProductSpecRowClassName}>
                   <span>感度</span>
-                  <span className="text-right font-medium text-foreground">
+                  <span className={guideProductSpecValueClassName}>
                     {GUIDE_MOUSE_BEGINNER_UPGRADE.specs.sensitivity}
                   </span>
                 </div>
-                <div className="flex justify-between gap-3">
+                <div className={guideProductSpecRowClassName}>
                   <span>ボタン数</span>
-                  <span className="font-medium text-foreground">
+                  <span className={guideProductSpecValueClassName}>
                     {GUIDE_MOUSE_BEGINNER_UPGRADE.specs.buttons}
                   </span>
                 </div>
@@ -321,12 +331,12 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
               </div>
             </div>
 
-            <div className="space-y-4 md:col-span-7">
-              <h4 className="border-b border-slate-200 pb-2 text-base font-bold text-foreground">
+            <div className={guideRecommendationsReasonColumnClassName}>
+              <h4 className={guideProductReasonHeadingClassName}>
                 予算に余裕があるなら「これを選んでおけば間違いなし」の最高峰
               </h4>
 
-              <ul className="space-y-2.5 text-xs leading-relaxed text-foreground/90 md:text-sm">
+              <ul className="space-y-2 text-[11px] leading-relaxed text-foreground/90 sm:space-y-2.5 sm:text-xs md:text-sm">
                 {GUIDE_MOUSE_BEGINNER_UPGRADE.reasons.map((reason) => (
                   <li key={reason.emphasis} className="flex items-start gap-2">
                     <span className="shrink-0 text-primary" aria-hidden>
@@ -341,11 +351,13 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
             </div>
           </div>
 
-          <div className={guideRecommendationsMidGridClassName}>
-            <div className="md:col-span-5">
+          <div className={cn(guideRecommendationsMidGridClassName, "min-w-0 max-w-full")}>
+            <div className="min-w-0 md:col-span-5">
               <div className={cn(guideRecommendationsProductSummaryClassName, guideProductSummaryPanelClassName)}>
-              <div className={cn(guideRecommendationsImageAreaClassName, "relative mb-4 aspect-[4/3]")}>
-                <GuideCardBadge>{GUIDE_MOUSE_BEGINNER_HYPERX.badge}</GuideCardBadge>
+              <GuideRecommendationImageBlock
+                className={cn(guideRecommendationsImageAreaClassName, guideRecommendationsHeroImageClassName)}
+                badge={<GuideCardBadge>{GUIDE_MOUSE_BEGINNER_HYPERX.badge}</GuideCardBadge>}
+              >
                 {hyperxGadget ? (
                   <GadgetImage
                     src={hyperxGadget.image}
@@ -358,7 +370,7 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
                     画像を準備中
                   </div>
                 )}
-              </div>
+              </GuideRecommendationImageBlock>
 
               <h3 className={guideProductTitleTwoLineClassName}>
                 {GUIDE_MOUSE_BEGINNER_HYPERX.title}
@@ -373,27 +385,27 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
 
               <div className={guideProductSpecSlotClassName}>
             <div className={cn(guideRecommendationsInnerInsetClassName, "mt-0 space-y-1.5 text-xs text-muted-foreground")}>
-                <div className="flex justify-between gap-3">
+                <div className={guideProductSpecRowClassName}>
                   <span>重量</span>
-                  <span className="font-medium text-foreground">
+                  <span className={guideProductSpecValueClassName}>
                     {GUIDE_MOUSE_BEGINNER_HYPERX.specs.weight}
                   </span>
                 </div>
-                <div className="flex justify-between gap-3">
+                <div className={guideProductSpecRowClassName}>
                   <span>接続</span>
-                  <span className="text-right font-medium text-foreground">
+                  <span className={guideProductSpecValueClassName}>
                     {GUIDE_MOUSE_BEGINNER_HYPERX.specs.connection}
                   </span>
                 </div>
-                <div className="flex justify-between gap-3">
+                <div className={guideProductSpecRowClassName}>
                   <span>感度</span>
-                  <span className="text-right font-medium text-foreground">
+                  <span className={guideProductSpecValueClassName}>
                     {GUIDE_MOUSE_BEGINNER_HYPERX.specs.sensitivity}
                   </span>
                 </div>
-                <div className="flex justify-between gap-3">
+                <div className={guideProductSpecRowClassName}>
                   <span>ボタン数</span>
-                  <span className="font-medium text-foreground">
+                  <span className={guideProductSpecValueClassName}>
                     {GUIDE_MOUSE_BEGINNER_HYPERX.specs.buttons}
                   </span>
                 </div>
@@ -411,12 +423,12 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
               </div>
             </div>
 
-            <div className="space-y-4 md:col-span-7">
-              <h4 className="border-b border-slate-200 pb-2 text-base font-bold text-foreground">
+            <div className={guideRecommendationsReasonColumnClassName}>
+              <h4 className={guideProductReasonHeadingClassName}>
                 {GUIDE_MOUSE_BEGINNER_HYPERX.heading}
               </h4>
 
-              <ul className="space-y-2.5 text-xs leading-relaxed text-foreground/90 md:text-sm">
+              <ul className="space-y-2 text-[11px] leading-relaxed text-foreground/90 sm:space-y-2.5 sm:text-xs md:text-sm">
                 {GUIDE_MOUSE_BEGINNER_HYPERX.reasons.map((reason) => (
                   <li key={reason.emphasis} className="flex items-start gap-2">
                     <span className="shrink-0 text-primary" aria-hidden>
@@ -435,11 +447,13 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
 
       {selectedType === "pro" ? (
         <div className="mt-8 space-y-8 border-t border-slate-200 pt-6">
-          <div className={guideRecommendationsMidGridClassName}>
-            <div className="md:col-span-5">
+          <div className={cn(guideRecommendationsMidGridClassName, "min-w-0 max-w-full")}>
+            <div className="min-w-0 md:col-span-5">
               <div className={cn(guideRecommendationsProductSummaryClassName, guideProductSummaryPanelClassName)}>
-              <div className={cn(guideRecommendationsImageAreaClassName, "relative mb-4 aspect-[4/3]")}>
-                <GuideCardBadge>{GUIDE_MOUSE_PRO_SUPERSTRIKE.badge}</GuideCardBadge>
+              <GuideRecommendationImageBlock
+                className={cn(guideRecommendationsImageAreaClassName, guideRecommendationsHeroImageClassName)}
+                badge={<GuideCardBadge>{GUIDE_MOUSE_PRO_SUPERSTRIKE.badge}</GuideCardBadge>}
+              >
                 {superstrikeGadget ? (
                   <GadgetImage
                     src={superstrikeGadget.image}
@@ -452,7 +466,7 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
                     画像を準備中
                   </div>
                 )}
-              </div>
+              </GuideRecommendationImageBlock>
 
               <h3 className={guideProductTitleTwoLineClassName}>
                 {GUIDE_MOUSE_PRO_SUPERSTRIKE.title}
@@ -467,27 +481,27 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
 
               <div className={guideProductSpecSlotClassName}>
             <div className={cn(guideRecommendationsInnerInsetClassName, "mt-0 space-y-1.5 text-xs text-muted-foreground")}>
-                <div className="flex justify-between gap-3">
+                <div className={guideProductSpecRowClassName}>
                   <span>重量</span>
-                  <span className="font-medium text-foreground">
+                  <span className={guideProductSpecValueClassName}>
                     {GUIDE_MOUSE_PRO_SUPERSTRIKE.specs.weight}
                   </span>
                 </div>
-                <div className="flex justify-between gap-3">
+                <div className={guideProductSpecRowClassName}>
                   <span>接続</span>
-                  <span className="text-right font-medium text-foreground">
+                  <span className={guideProductSpecValueClassName}>
                     {GUIDE_MOUSE_PRO_SUPERSTRIKE.specs.connection}
                   </span>
                 </div>
-                <div className="flex justify-between gap-3">
+                <div className={guideProductSpecRowClassName}>
                   <span>感度</span>
-                  <span className="text-right font-medium text-foreground">
+                  <span className={guideProductSpecValueClassName}>
                     {GUIDE_MOUSE_PRO_SUPERSTRIKE.specs.sensitivity}
                   </span>
                 </div>
-                <div className="flex justify-between gap-3">
+                <div className={guideProductSpecRowClassName}>
                   <span>ボタン数</span>
-                  <span className="font-medium text-foreground">
+                  <span className={guideProductSpecValueClassName}>
                     {GUIDE_MOUSE_PRO_SUPERSTRIKE.specs.buttons}
                   </span>
                 </div>
@@ -505,12 +519,12 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
               </div>
             </div>
 
-            <div className="space-y-4 md:col-span-7">
-              <h4 className="border-b border-slate-200 pb-2 text-base font-bold text-foreground">
+            <div className={guideRecommendationsReasonColumnClassName}>
+              <h4 className={guideProductReasonHeadingClassName}>
                 {GUIDE_MOUSE_PRO_SUPERSTRIKE.heading}
               </h4>
 
-              <ul className="space-y-2.5 text-xs leading-relaxed text-foreground/90 md:text-sm">
+              <ul className="space-y-2 text-[11px] leading-relaxed text-foreground/90 sm:space-y-2.5 sm:text-xs md:text-sm">
                 {GUIDE_MOUSE_PRO_SUPERSTRIKE.reasons.map((reason) => (
                   <li key={reason.emphasis} className="flex items-start gap-2">
                     <span className="shrink-0 text-primary" aria-hidden>
@@ -525,11 +539,13 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
             </div>
           </div>
 
-          <div className={guideRecommendationsMidGridClassName}>
-            <div className="md:col-span-5">
+          <div className={cn(guideRecommendationsMidGridClassName, "min-w-0 max-w-full")}>
+            <div className="min-w-0 md:col-span-5">
               <div className={cn(guideRecommendationsProductSummaryClassName, guideProductSummaryPanelClassName)}>
-              <div className={cn(guideRecommendationsImageAreaClassName, "relative mb-4 aspect-[4/3]")}>
-                <GuideCardBadge>{GUIDE_MOUSE_PRO_G502.badge}</GuideCardBadge>
+              <GuideRecommendationImageBlock
+                className={cn(guideRecommendationsImageAreaClassName, guideRecommendationsHeroImageClassName)}
+                badge={<GuideCardBadge>{GUIDE_MOUSE_PRO_G502.badge}</GuideCardBadge>}
+              >
                 {g502Gadget ? (
                   <GadgetImage
                     src={g502Gadget.image}
@@ -542,7 +558,7 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
                     画像を準備中
                   </div>
                 )}
-              </div>
+              </GuideRecommendationImageBlock>
 
               <h3 className={guideProductTitleTwoLineClassName}>
                 {GUIDE_MOUSE_PRO_G502.title}
@@ -557,27 +573,27 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
 
               <div className={guideProductSpecSlotClassName}>
             <div className={cn(guideRecommendationsInnerInsetClassName, "mt-0 space-y-1.5 text-xs text-muted-foreground")}>
-                <div className="flex justify-between gap-3">
+                <div className={guideProductSpecRowClassName}>
                   <span>重量</span>
-                  <span className="font-medium text-foreground">
+                  <span className={guideProductSpecValueClassName}>
                     {GUIDE_MOUSE_PRO_G502.specs.weight}
                   </span>
                 </div>
-                <div className="flex justify-between gap-3">
+                <div className={guideProductSpecRowClassName}>
                   <span>接続</span>
-                  <span className="text-right font-medium text-foreground">
+                  <span className={guideProductSpecValueClassName}>
                     {GUIDE_MOUSE_PRO_G502.specs.connection}
                   </span>
                 </div>
-                <div className="flex justify-between gap-3">
+                <div className={guideProductSpecRowClassName}>
                   <span>感度</span>
-                  <span className="text-right font-medium text-foreground">
+                  <span className={guideProductSpecValueClassName}>
                     {GUIDE_MOUSE_PRO_G502.specs.sensitivity}
                   </span>
                 </div>
-                <div className="flex justify-between gap-3">
+                <div className={guideProductSpecRowClassName}>
                   <span>ボタン数</span>
-                  <span className="font-medium text-foreground">
+                  <span className={guideProductSpecValueClassName}>
                     {GUIDE_MOUSE_PRO_G502.specs.buttons}
                   </span>
                 </div>
@@ -595,12 +611,12 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
               </div>
             </div>
 
-            <div className="space-y-4 md:col-span-7">
-              <h4 className="border-b border-slate-200 pb-2 text-base font-bold text-foreground">
+            <div className={guideRecommendationsReasonColumnClassName}>
+              <h4 className={guideProductReasonHeadingClassName}>
                 {GUIDE_MOUSE_PRO_G502.heading}
               </h4>
 
-              <ul className="space-y-2.5 text-xs leading-relaxed text-foreground/90 md:text-sm">
+              <ul className="space-y-2 text-[11px] leading-relaxed text-foreground/90 sm:space-y-2.5 sm:text-xs md:text-sm">
                 {GUIDE_MOUSE_PRO_G502.reasons.map((reason) => (
                   <li key={reason.emphasis} className="flex items-start gap-2">
                     <span className="shrink-0 text-primary" aria-hidden>
@@ -619,11 +635,13 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
 
       {selectedType === "office" ? (
         <div className="space-y-8">
-          <div className={guideRecommendationsMidGridClassName}>
-            <div className="md:col-span-5">
+          <div className={cn(guideRecommendationsMidGridClassName, "min-w-0 max-w-full")}>
+            <div className="min-w-0 md:col-span-5">
               <div className={cn(guideRecommendationsProductSummaryClassName, guideProductSummaryPanelClassName)}>
-              <div className={cn(guideRecommendationsImageAreaClassName, "relative mb-4 aspect-[4/3]")}>
-                <GuideCardBadge>{GUIDE_MOUSE_OFFICE_TECKNET.badge}</GuideCardBadge>
+              <GuideRecommendationImageBlock
+                className={cn(guideRecommendationsImageAreaClassName, guideRecommendationsHeroImageClassName)}
+                badge={<GuideCardBadge>{GUIDE_MOUSE_OFFICE_TECKNET.badge}</GuideCardBadge>}
+              >
                 {tecknetGadget ? (
                   <GadgetImage
                     src={tecknetGadget.image}
@@ -636,7 +654,7 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
                     画像を準備中
                   </div>
                 )}
-              </div>
+              </GuideRecommendationImageBlock>
 
               <h3 className={guideProductTitleTwoLineClassName}>
                 {GUIDE_MOUSE_OFFICE_TECKNET.title}
@@ -654,27 +672,27 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
 
               <div className={guideProductSpecSlotClassName}>
             <div className={cn(guideRecommendationsInnerInsetClassName, "mt-0 space-y-1.5 text-xs text-muted-foreground")}>
-                <div className="flex justify-between gap-3">
+                <div className={guideProductSpecRowClassName}>
                   <span>重量</span>
-                  <span className="font-medium text-foreground">
+                  <span className={guideProductSpecValueClassName}>
                     {GUIDE_MOUSE_OFFICE_TECKNET.specs.weight}
                   </span>
                 </div>
-                <div className="flex justify-between gap-3">
+                <div className={guideProductSpecRowClassName}>
                   <span>接続</span>
-                  <span className="text-right font-medium text-foreground">
+                  <span className={guideProductSpecValueClassName}>
                     {GUIDE_MOUSE_OFFICE_TECKNET.specs.connection}
                   </span>
                 </div>
-                <div className="flex justify-between gap-3">
+                <div className={guideProductSpecRowClassName}>
                   <span>感度</span>
-                  <span className="text-right font-medium text-foreground">
+                  <span className={guideProductSpecValueClassName}>
                     {GUIDE_MOUSE_OFFICE_TECKNET.specs.sensitivity}
                   </span>
                 </div>
-                <div className="flex justify-between gap-3">
+                <div className={guideProductSpecRowClassName}>
                   <span>ボタン数</span>
-                  <span className="font-medium text-foreground">
+                  <span className={guideProductSpecValueClassName}>
                     {GUIDE_MOUSE_OFFICE_TECKNET.specs.buttons}
                   </span>
                 </div>
@@ -692,12 +710,12 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
               </div>
             </div>
 
-            <div className="space-y-4 md:col-span-7">
-              <h4 className="border-b border-slate-200 pb-2 text-base font-bold text-foreground">
+            <div className={guideRecommendationsReasonColumnClassName}>
+              <h4 className={guideProductReasonHeadingClassName}>
                 {GUIDE_MOUSE_OFFICE_TECKNET.heading}
               </h4>
 
-              <ul className="space-y-2.5 text-xs leading-relaxed text-foreground/90 md:text-sm">
+              <ul className="space-y-2 text-[11px] leading-relaxed text-foreground/90 sm:space-y-2.5 sm:text-xs md:text-sm">
                 {GUIDE_MOUSE_OFFICE_TECKNET.reasons.map((reason) => (
                   <li key={reason.emphasis} className="flex items-start gap-2">
                     <span className="shrink-0 text-primary" aria-hidden>
@@ -712,11 +730,13 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
             </div>
           </div>
 
-          <div className={guideRecommendationsMidGridClassName}>
-            <div className="md:col-span-5">
+          <div className={cn(guideRecommendationsMidGridClassName, "min-w-0 max-w-full")}>
+            <div className="min-w-0 md:col-span-5">
               <div className={cn(guideRecommendationsProductSummaryClassName, guideProductSummaryPanelClassName)}>
-              <div className={cn(guideRecommendationsImageAreaClassName, "relative mb-4 aspect-[4/3]")}>
-                <GuideCardBadge>{GUIDE_MOUSE_OFFICE_M750.badge}</GuideCardBadge>
+              <GuideRecommendationImageBlock
+                className={cn(guideRecommendationsImageAreaClassName, guideRecommendationsHeroImageClassName)}
+                badge={<GuideCardBadge>{GUIDE_MOUSE_OFFICE_M750.badge}</GuideCardBadge>}
+              >
                 {m750Gadget ? (
                   <GadgetImage
                     src={m750Gadget.image}
@@ -729,7 +749,7 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
                     画像を準備中
                   </div>
                 )}
-              </div>
+              </GuideRecommendationImageBlock>
 
               <h3 className={guideProductTitleTwoLineClassName}>
                 {GUIDE_MOUSE_OFFICE_M750.title}
@@ -744,27 +764,27 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
 
               <div className={guideProductSpecSlotClassName}>
             <div className={cn(guideRecommendationsInnerInsetClassName, "mt-0 space-y-1.5 text-xs text-muted-foreground")}>
-                <div className="flex justify-between gap-3">
+                <div className={guideProductSpecRowClassName}>
                   <span>重量</span>
-                  <span className="font-medium text-foreground">
+                  <span className={guideProductSpecValueClassName}>
                     {GUIDE_MOUSE_OFFICE_M750.specs.weight}
                   </span>
                 </div>
-                <div className="flex justify-between gap-3">
+                <div className={guideProductSpecRowClassName}>
                   <span>接続</span>
-                  <span className="text-right font-medium text-foreground">
+                  <span className={guideProductSpecValueClassName}>
                     {GUIDE_MOUSE_OFFICE_M750.specs.connection}
                   </span>
                 </div>
-                <div className="flex justify-between gap-3">
+                <div className={guideProductSpecRowClassName}>
                   <span>感度</span>
-                  <span className="text-right font-medium text-foreground">
+                  <span className={guideProductSpecValueClassName}>
                     {GUIDE_MOUSE_OFFICE_M750.specs.sensitivity}
                   </span>
                 </div>
-                <div className="flex justify-between gap-3">
+                <div className={guideProductSpecRowClassName}>
                   <span>ボタン数</span>
-                  <span className="font-medium text-foreground">
+                  <span className={guideProductSpecValueClassName}>
                     {GUIDE_MOUSE_OFFICE_M750.specs.buttons}
                   </span>
                 </div>
@@ -782,12 +802,12 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
               </div>
             </div>
 
-            <div className="space-y-4 md:col-span-7">
-              <h4 className="border-b border-slate-200 pb-2 text-base font-bold text-foreground">
+            <div className={guideRecommendationsReasonColumnClassName}>
+              <h4 className={guideProductReasonHeadingClassName}>
                 {GUIDE_MOUSE_OFFICE_M750.heading}
               </h4>
 
-              <ul className="space-y-2.5 text-xs leading-relaxed text-foreground/90 md:text-sm">
+              <ul className="space-y-2 text-[11px] leading-relaxed text-foreground/90 sm:space-y-2.5 sm:text-xs md:text-sm">
                 {GUIDE_MOUSE_OFFICE_M750.reasons.map((reason) => (
                   <li key={reason.emphasis} className="flex items-start gap-2">
                     <span className="shrink-0 text-primary" aria-hidden>
@@ -802,11 +822,13 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
             </div>
           </div>
 
-          <div className={guideRecommendationsMidGridClassName}>
-            <div className="md:col-span-5">
+          <div className={cn(guideRecommendationsMidGridClassName, "min-w-0 max-w-full")}>
+            <div className="min-w-0 md:col-span-5">
               <div className={cn(guideRecommendationsProductSummaryClassName, guideProductSummaryPanelClassName)}>
-              <div className={cn(guideRecommendationsImageAreaClassName, "relative mb-4 aspect-[4/3]")}>
-                <GuideCardBadge>{GUIDE_MOUSE_OFFICE_MX_MASTER_3S.badge}</GuideCardBadge>
+              <GuideRecommendationImageBlock
+                className={cn(guideRecommendationsImageAreaClassName, guideRecommendationsHeroImageClassName)}
+                badge={<GuideCardBadge>{GUIDE_MOUSE_OFFICE_MX_MASTER_3S.badge}</GuideCardBadge>}
+              >
                 {mxMaster3sGadget ? (
                   <GadgetImage
                     src={mxMaster3sGadget.image}
@@ -819,7 +841,7 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
                     画像を準備中
                   </div>
                 )}
-              </div>
+              </GuideRecommendationImageBlock>
 
               <h3 className={guideProductTitleTwoLineClassName}>
                 {GUIDE_MOUSE_OFFICE_MX_MASTER_3S.title}
@@ -837,27 +859,27 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
 
               <div className={guideProductSpecSlotClassName}>
             <div className={cn(guideRecommendationsInnerInsetClassName, "mt-0 space-y-1.5 text-xs text-muted-foreground")}>
-                <div className="flex justify-between gap-3">
+                <div className={guideProductSpecRowClassName}>
                   <span>重量</span>
-                  <span className="font-medium text-foreground">
+                  <span className={guideProductSpecValueClassName}>
                     {GUIDE_MOUSE_OFFICE_MX_MASTER_3S.specs.weight}
                   </span>
                 </div>
-                <div className="flex justify-between gap-3">
+                <div className={guideProductSpecRowClassName}>
                   <span>接続</span>
-                  <span className="text-right font-medium text-foreground">
+                  <span className={guideProductSpecValueClassName}>
                     {GUIDE_MOUSE_OFFICE_MX_MASTER_3S.specs.connection}
                   </span>
                 </div>
-                <div className="flex justify-between gap-3">
+                <div className={guideProductSpecRowClassName}>
                   <span>感度</span>
-                  <span className="text-right font-medium text-foreground">
+                  <span className={guideProductSpecValueClassName}>
                     {GUIDE_MOUSE_OFFICE_MX_MASTER_3S.specs.sensitivity}
                   </span>
                 </div>
-                <div className="flex justify-between gap-3">
+                <div className={guideProductSpecRowClassName}>
                   <span>ボタン数</span>
-                  <span className="font-medium text-foreground">
+                  <span className={guideProductSpecValueClassName}>
                     {GUIDE_MOUSE_OFFICE_MX_MASTER_3S.specs.buttons}
                   </span>
                 </div>
@@ -875,12 +897,12 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
               </div>
             </div>
 
-            <div className="space-y-4 md:col-span-7">
-              <h4 className="border-b border-slate-200 pb-2 text-base font-bold text-foreground">
+            <div className={guideRecommendationsReasonColumnClassName}>
+              <h4 className={guideProductReasonHeadingClassName}>
                 {GUIDE_MOUSE_OFFICE_MX_MASTER_3S.heading}
               </h4>
 
-              <ul className="space-y-2.5 text-xs leading-relaxed text-foreground/90 md:text-sm">
+              <ul className="space-y-2 text-[11px] leading-relaxed text-foreground/90 sm:space-y-2.5 sm:text-xs md:text-sm">
                 {GUIDE_MOUSE_OFFICE_MX_MASTER_3S.reasons.map((reason) => (
                   <li key={reason.emphasis} className="flex items-start gap-2">
                     <span className="shrink-0 text-primary" aria-hidden>

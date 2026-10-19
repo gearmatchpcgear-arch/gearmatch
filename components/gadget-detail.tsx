@@ -5,6 +5,7 @@ import { cn } from "@/lib/utils"
 import { X, Star, Cable } from "lucide-react"
 import { GadgetImage } from "@/components/gadget-image"
 import { ShopLink } from "@/components/shop-link"
+import { areProductImagesHiddenForReview } from "@/lib/product-images-display"
 import {
   formatPrice,
   getGadgetConnectionDisplay,
@@ -72,6 +73,7 @@ export function GadgetDetail({
 
   if (!gadget) return null
 
+  const hideImages = areProductImagesHiddenForReview()
   const displayGadget = withCatalogCsvOverlay(gadget)
   const displayBadge = getDisplayBadge(gadget)
   const detailHighlights = filterKeyboardDetailHighlights(
@@ -285,30 +287,43 @@ export function GadgetDetail({
 
         <div className="min-h-0 flex-1 overflow-x-hidden overflow-y-auto overscroll-contain">
           <div className="lg:hidden">
-            <div className="relative flex h-72 w-full max-h-[40vh] items-center justify-center bg-slate-50">
-              <GadgetImage
-                key={`${gadget.id}-mobile-hero`}
-                src={gadget.image}
-                alt={`${displayGadget.brand} ${displayGadget.name}`}
-                category={gadget.category}
-                sizes="100vw"
-                priority
-                className="max-h-full p-4"
-              />
-              {displayBadge ? (
-                <span className="absolute left-3 top-3 z-10 inline-flex w-fit items-center rounded-full bg-primary/10 px-2 py-0.5 text-[9px] font-bold text-primary ring-1 ring-primary/20">
-                  {displayBadge}
-                </span>
-              ) : null}
-              <button
-                type="button"
-                onClick={onClose}
-                aria-label="閉じる"
-                className="absolute right-3 top-3 z-10 inline-flex size-10 items-center justify-center rounded-full bg-black/40 p-2 text-white shadow-md backdrop-blur-sm transition-colors hover:bg-black/55"
-              >
-                <X className="size-5" aria-hidden />
-              </button>
-            </div>
+            {!hideImages ? (
+              <div className="relative flex h-72 w-full max-h-[40vh] items-center justify-center bg-slate-50">
+                <GadgetImage
+                  key={`${gadget.id}-mobile-hero`}
+                  src={gadget.image}
+                  alt={`${displayGadget.brand} ${displayGadget.name}`}
+                  category={gadget.category}
+                  sizes="100vw"
+                  priority
+                  className="max-h-full p-4"
+                />
+                {displayBadge ? (
+                  <span className="absolute left-3 top-3 z-10 inline-flex w-fit items-center rounded-full bg-primary/10 px-2 py-0.5 text-[9px] font-bold text-primary ring-1 ring-primary/20">
+                    {displayBadge}
+                  </span>
+                ) : null}
+                <button
+                  type="button"
+                  onClick={onClose}
+                  aria-label="閉じる"
+                  className="absolute right-3 top-3 z-10 inline-flex size-10 items-center justify-center rounded-full bg-black/40 p-2 text-white shadow-md backdrop-blur-sm transition-colors hover:bg-black/55"
+                >
+                  <X className="size-5" aria-hidden />
+                </button>
+              </div>
+            ) : (
+              <div className="flex justify-end border-b border-border/50 p-3">
+                <button
+                  type="button"
+                  onClick={onClose}
+                  aria-label="閉じる"
+                  className="inline-flex size-10 items-center justify-center rounded-full bg-secondary text-muted-foreground transition-colors hover:bg-secondary/80 hover:text-foreground"
+                >
+                  <X className="size-5" aria-hidden />
+                </button>
+              </div>
+            )}
 
             <div className="space-y-4 p-4 pb-8">
               <div className="min-w-0">
@@ -353,23 +368,31 @@ export function GadgetDetail({
           <div className="hidden min-w-0 flex-col lg:flex lg:flex-row">
             {/* 左カラム: 画像・価格・主要スペック（デスクトップ） */}
             <div className="hidden min-w-0 shrink-0 flex-col border-b border-border/50 lg:flex lg:w-[min(340px,38%)] lg:border-b-0 lg:border-r">
-              <div className="relative aspect-[5/4] w-full max-h-[min(36vh,320px)] overflow-hidden bg-gradient-to-b from-secondary/50 to-card">
-                <GadgetImage
-                  key={gadget.id}
-                  src={gadget.image}
-                  alt={`${displayGadget.brand} ${displayGadget.name}`}
-                  category={gadget.category}
-                  sizes="(max-width: 1024px) 100vw, 340px"
-                  className="p-6"
-                />
-                {displayBadge && (
-                  <div className="absolute left-4 top-4">
-                    <span className="inline-flex w-fit items-center rounded-full bg-primary/10 px-2.5 py-1 text-[10px] font-bold text-primary ring-1 ring-primary/20">
-                      {displayBadge}
-                    </span>
-                  </div>
-                )}
-              </div>
+              {!hideImages ? (
+                <div className="relative aspect-[5/4] w-full max-h-[min(36vh,320px)] overflow-hidden bg-gradient-to-b from-secondary/50 to-card">
+                  <GadgetImage
+                    key={gadget.id}
+                    src={gadget.image}
+                    alt={`${displayGadget.brand} ${displayGadget.name}`}
+                    category={gadget.category}
+                    sizes="(max-width: 1024px) 100vw, 340px"
+                    className="p-6"
+                  />
+                  {displayBadge && (
+                    <div className="absolute left-4 top-4">
+                      <span className="inline-flex w-fit items-center rounded-full bg-primary/10 px-2.5 py-1 text-[10px] font-bold text-primary ring-1 ring-primary/20">
+                        {displayBadge}
+                      </span>
+                    </div>
+                  )}
+                </div>
+              ) : displayBadge ? (
+                <div className="border-b border-border/50 px-5 py-3 lg:px-6">
+                  <span className="inline-flex w-fit items-center rounded-full bg-primary/10 px-2.5 py-1 text-[10px] font-bold text-primary ring-1 ring-primary/20">
+                    {displayBadge}
+                  </span>
+                </div>
+              ) : null}
 
               <div className="flex flex-col gap-4 p-5 lg:p-6">
                 {detailHighlightsBlock}

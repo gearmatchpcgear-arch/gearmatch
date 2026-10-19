@@ -11,9 +11,11 @@ import {
   guideProductTitleTwoLineClassName,
 } from "@/lib/product-card-layout"
 import {
+  guideRecommendationsCardImageClassName,
   guideRecommendationsImageAreaClassName,
   guideRecommendationsProductSummaryClassName,
 } from "@/components/guide-recommendations-layout"
+import { GuideRecommendationImageBlock } from "@/components/guide-recommendation-image-block"
 import { cn } from "@/lib/utils"
 
 type GuideRecommendationProductSummaryProps = {
@@ -40,17 +42,23 @@ export function GuideRecommendationProductSummary({
   imageAreaClassName,
 }: GuideRecommendationProductSummaryProps) {
   return (
-    <div className={cn(guideRecommendationsProductSummaryClassName, guideProductSummaryPanelClassName)}>
-      <div
+    <div
+      className={cn(
+        guideRecommendationsProductSummaryClassName,
+        guideProductSummaryPanelClassName,
+        "min-w-0 max-w-full",
+      )}
+    >
+      <GuideRecommendationImageBlock
+        badge={badge}
         className={cn(
           guideRecommendationsImageAreaClassName,
-          "mb-3 flex h-48 w-full shrink-0 items-center justify-center p-3",
+          guideRecommendationsCardImageClassName,
           imageAreaClassName,
         )}
       >
-        {badge}
         {image}
-      </div>
+      </GuideRecommendationImageBlock>
 
       <h3 className={guideProductTitleTwoLineClassName}>{title}</h3>
 

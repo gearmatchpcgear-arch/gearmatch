@@ -569,7 +569,7 @@ export const micComputersSearchStreaming: Gadget[] = [
     reviews: 30,
     image: "https://m.media-amazon.com/images/I/81PIkCNzI4L._AC_SL1500_.jpg",
     connection: "USB Type-C / XLR",
-    purchaseUrl: "https://www.amazon.co.jp/dp/B0CK4MM8XB?th=1",
+    purchaseUrl: "https://www.amazon.co.jp/dp/B0CK4MM8XB",
     micFilterTags: ["condenser"],
                     micUseTags: ["Web会議・オンライン授業・通話", "ゲーム実況・配信・ラジオ録音"],
                     micFeatureTags: ["ノイズキャンセリング機能"],

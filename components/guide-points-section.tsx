@@ -123,7 +123,9 @@ export function GuidePointsSection({
         <h2
           className={cn(
             "font-bold tracking-tight text-foreground",
-            boxed ? "mb-1.5 flex items-center gap-2 text-xl md:text-2xl" : "text-2xl",
+            boxed
+              ? "mb-1.5 flex items-center gap-2 text-lg sm:text-xl md:text-2xl"
+              : "text-lg sm:text-xl md:text-2xl",
           )}
         >
           {boxed && titleIcon ? (
@@ -133,7 +135,7 @@ export function GuidePointsSection({
           ) : null}
           {title}
         </h2>
-        <p className="text-sm text-muted-foreground">{subtitle}</p>
+        <p className="text-xs leading-relaxed text-muted-foreground sm:text-sm">{subtitle}</p>
       </div>
 
       {isStackedWide ? (
@@ -164,7 +166,7 @@ export function GuidePointsSection({
                   "rounded-xl border shadow-sm",
                   isCardGrid
                     ? cn(
-                        "flex h-full flex-col justify-between border-slate-200 bg-white p-6",
+                        "flex h-full flex-col justify-between border-slate-200 bg-white p-4 sm:p-6",
                         isThreeColumn && "rounded-2xl",
                       )
                     : "space-y-1.5 border-slate-200 bg-white p-4 sm:space-y-2 sm:p-5",
@@ -320,7 +322,7 @@ export function GuidePointsSection({
       className={cn(
         "mb-12",
         isStackedWide && !boxed && "space-y-6",
-        boxed && "my-10 rounded-xl border border-slate-200 bg-white p-6 shadow-sm md:p-8",
+        boxed && "my-8 rounded-xl border border-slate-200 bg-white p-4 shadow-sm sm:my-10 sm:p-6 md:p-8",
       )}
     >
       {inner}

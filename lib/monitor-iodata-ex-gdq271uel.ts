@@ -3,7 +3,7 @@ import type { Gadget } from "./gadgets"
 export const MONITOR_IODATA_EX_GDQ271UEL_ASIN = "B0FMR8HZP1"
 
 export const MONITOR_IODATA_EX_GDQ271UEL_AMAZON_URL =
-  "https://www.amazon.co.jp/dp/B0FMR8HZP1?th=1"
+  "https://www.amazon.co.jp/dp/B0FMR8HZP1"
 
 export const MONITOR_IODATA_EX_GDQ271UEL_IMAGE =
   "https://m.media-amazon.com/images/I/71unFkvo9hL._AC_SL1500_.jpg"

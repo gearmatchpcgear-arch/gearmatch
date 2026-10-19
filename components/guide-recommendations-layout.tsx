@@ -10,8 +10,11 @@ import {
   guideRecommendationsEmptyStateClassName,
   guideRecommendationsImageAreaClassName,
   guideRecommendationsInnerInsetClassName,
+  guideRecommendationsHeroImageClassName,
+  guideRecommendationsCardImageClassName,
   guideRecommendationsMidGridInnerClassName,
   guideRecommendationsProductSummaryClassName,
+  guideRecommendationsReasonColumnClassName,
   guideRecommendationsSectionClassName,
 } from "@/lib/guide-recommendation-shell"
 import { cn } from "@/lib/utils"
@@ -22,8 +25,11 @@ export {
   guideRecommendationsEmptyStateClassName,
   guideRecommendationsImageAreaClassName,
   guideRecommendationsInnerInsetClassName,
+  guideRecommendationsHeroImageClassName,
+  guideRecommendationsCardImageClassName,
   guideRecommendationsMidGridInnerClassName,
   guideRecommendationsProductSummaryClassName,
+  guideRecommendationsReasonColumnClassName,
   guideRecommendationsSectionClassName,
 }
 
@@ -52,7 +58,7 @@ export function guideRecommendationsHeading(categoryLabel: string): string {
 
 export function guideRecommendationsTabButtonClass(active: boolean): string {
   return cn(
-    "rounded-lg border px-4 py-3 text-center text-sm font-semibold transition-all",
+    "rounded-lg border px-3 py-2 text-center text-xs font-semibold transition-all sm:px-4 sm:py-2.5 sm:text-sm",
     active
       ? "border-primary bg-primary text-primary-foreground shadow-md ring-2 ring-primary/20"
       : "border-slate-200 bg-white text-foreground hover:border-slate-400 hover:bg-slate-50",
@@ -84,13 +90,13 @@ export function GuideRecommendationsHeader({
   subtitle = guideRecommendationsDefaultSubtitle,
 }: GuideRecommendationsHeaderProps) {
   return (
-    <div className="mb-4 flex flex-wrap items-end justify-between gap-3">
-      <div>
-        <h2 className="flex items-center gap-2 text-xl font-bold text-foreground">
-          <Sparkles className="size-5 shrink-0 text-primary" aria-hidden />
-          {guideRecommendationsHeading(categoryLabel)}
+    <div className="mb-4 flex min-w-0 flex-col gap-2 sm:flex-row sm:flex-wrap sm:items-end sm:justify-between sm:gap-3">
+      <div className="min-w-0 max-w-full">
+        <h2 className="flex min-w-0 items-start gap-1.5 text-base font-bold leading-snug text-foreground sm:items-center sm:gap-2 sm:text-lg md:text-xl">
+          <Sparkles className="mt-0.5 size-4 shrink-0 text-primary sm:mt-0 sm:size-5" aria-hidden />
+          <span className="min-w-0 break-words">{guideRecommendationsHeading(categoryLabel)}</span>
         </h2>
-        <p className="mt-1 text-xs text-muted-foreground">{subtitle}</p>
+        <p className="mt-1 text-[11px] leading-relaxed text-muted-foreground sm:text-xs">{subtitle}</p>
       </div>
       <Link
         href={compareHref}
@@ -148,7 +154,7 @@ export function GuideRecommendationsTabs({
   tabHrefBase,
 }: GuideRecommendationsTabsProps) {
   return (
-    <div className="mb-8 flex flex-wrap gap-2" role="tablist" aria-label="おすすめの用途">
+    <div className="mb-6 flex flex-wrap gap-1.5 sm:mb-8 sm:gap-2" role="tablist" aria-label="おすすめの用途">
       {tabs.map((tab) => {
         const active = selectedId === tab.id
         return (
@@ -163,7 +169,7 @@ export function GuideRecommendationsTabs({
             aria-current={active ? "page" : undefined}
             className={cn(
               guideRecommendationsTabButtonClass(active),
-              "min-w-[8.5rem] flex-1 sm:flex-none sm:min-w-[10rem]",
+              "min-w-0 flex-1 basis-[calc(50%-0.375rem)] sm:flex-none sm:basis-auto sm:min-w-[9rem] md:min-w-[10rem]",
             )}
           >
             {tab.label}
@@ -175,9 +181,9 @@ export function GuideRecommendationsTabs({
 }
 
 export function GuideRecommendationsListTitle({ children }: { children: React.ReactNode }) {
-  return <h3 className="mb-6 text-base font-bold text-foreground">{children}</h3>
+  return <h3 className="mb-4 text-sm font-bold text-foreground sm:mb-6 sm:text-base">{children}</h3>
 }
 
 export function GuideRecommendationsCardStack({ children }: { children: React.ReactNode }) {
-  return <div className="space-y-8">{children}</div>
+  return <div className="space-y-6 sm:space-y-8">{children}</div>
 }

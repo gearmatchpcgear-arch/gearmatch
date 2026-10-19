@@ -18,6 +18,7 @@ import {
 } from "@/lib/gadgets"
 import { GadgetImage } from "@/components/gadget-image"
 import { cardPrimarySpecShellClassName } from "@/lib/card-primary-spec-shell"
+import { areProductImagesHiddenForReview } from "@/lib/product-images-display"
 import { productListCardTitleClassName } from "@/lib/product-card-layout"
 
 const badgeClassName =
@@ -87,6 +88,7 @@ export const GadgetCard = memo(function GadgetCard({
   const displayGadget = useMemo(() => withCatalogCsvOverlay(gadget), [gadget])
   const highlights = useMemo(() => getCardHighlights(gadget), [gadget])
   const displayBadge = useMemo(() => getDisplayBadge(gadget), [gadget])
+  const hideImages = areProductImagesHiddenForReview()
 
   const specHighlightsGrid = (variant: "medium-mobile" | "default") => {
     if (variant === "medium-mobile") {
@@ -222,25 +224,38 @@ export const GadgetCard = memo(function GadgetCard({
         </div>
       ) : null}
 
+      {hideImages ? (
+        <div
+          className={cn(
+            "pointer-events-none absolute z-10",
+            isSmall ? "right-1.5 top-1.5" : "right-2 top-2",
+          )}
+        >
+          <div className="pointer-events-auto">{compareButton(isSmall)}</div>
+        </div>
+      ) : null}
+
       {isMedium ? (
         <>
           <div className="flex min-h-0 min-w-0 flex-1 flex-col bg-white sm:hidden">
             <div className="flex min-w-0 flex-1 flex-row items-stretch gap-1.5 p-3.5 pt-4">
-              <div
-                className={cn(imageAreaClassName, "aspect-square w-20 shrink-0 rounded-md ring-1 ring-slate-100")}
-                aria-hidden
-              >
-                <div className="pointer-events-none h-full w-full">
-                  <GadgetImage
-                    src={gadget.image}
-                    alt={`${displayGadget.brand} ${displayGadget.name}`}
-                    category={gadget.category}
-                    sizes="80px"
-                    className={cn(imageClassName, "p-1")}
-                  />
+              {!hideImages ? (
+                <div
+                  className={cn(imageAreaClassName, "aspect-square w-20 shrink-0 rounded-md ring-1 ring-slate-100")}
+                  aria-hidden
+                >
+                  <div className="pointer-events-none h-full w-full">
+                    <GadgetImage
+                      src={gadget.image}
+                      alt={`${displayGadget.brand} ${displayGadget.name}`}
+                      category={gadget.category}
+                      sizes="80px"
+                      className={cn(imageClassName, "p-1")}
+                    />
+                  </div>
+                  {compareOnImage(true)}
                 </div>
-                {compareOnImage(true)}
-              </div>
+              ) : null}
               <div className={cn(cardBodyClassName, "min-w-0 flex-1")}>
                 {showSpecs ? specHighlightsGrid("medium-mobile") : null}
               </div>
@@ -259,23 +274,26 @@ export const GadgetCard = memo(function GadgetCard({
           </div>
 
           <div className="hidden min-h-0 min-w-0 flex-1 flex-col sm:flex">
-            <div className={imageAreaClassName} aria-hidden>
-              <div className="pointer-events-none h-full w-full">
-                <GadgetImage
-                  src={gadget.image}
-                  alt={`${displayGadget.brand} ${displayGadget.name}`}
-                  category={gadget.category}
-                  sizes="(max-width: 768px) 50vw, 240px"
-                  className={cn(imageClassName, "p-3")}
-                />
+            {!hideImages ? (
+              <div className={imageAreaClassName} aria-hidden>
+                <div className="pointer-events-none h-full w-full">
+                  <GadgetImage
+                    src={gadget.image}
+                    alt={`${displayGadget.brand} ${displayGadget.name}`}
+                    category={gadget.category}
+                    sizes="(max-width: 768px) 50vw, 240px"
+                    className={cn(imageClassName, "p-3")}
+                  />
+                </div>
+                {compareOnImage()}
+                <ImageRatingBadge gadget={gadget} />
               </div>
-              {compareOnImage()}
-              <ImageRatingBadge gadget={gadget} />
-            </div>
+            ) : null}
             <div
               className={cn(
                 cardBodyClassName,
                 "flex min-w-0 flex-1 flex-col gap-2 overflow-hidden bg-white p-4 md:p-4 lg:p-5",
+                hideImages && "pt-10",
               )}
             >
               <h3 className={cn(titleClassName, "shrink-0")}>{displayGadget.name}</h3>
@@ -288,27 +306,30 @@ export const GadgetCard = memo(function GadgetCard({
         </>
       ) : (
         <div className="flex min-h-0 min-w-0 flex-1 flex-col">
-          <div className={imageAreaClassName} aria-hidden>
-            <div className="pointer-events-none h-full w-full">
-              <GadgetImage
-                src={gadget.image}
-                alt={`${displayGadget.brand} ${displayGadget.name}`}
-                category={gadget.category}
-                sizes={
-                  isSmall ? "(max-width: 768px) 50vw, 160px" : "(max-width: 768px) 100vw, 320px"
-                }
-                className={cn(imageClassName, isSmall ? "p-2" : "p-4")}
-              />
+          {!hideImages ? (
+            <div className={imageAreaClassName} aria-hidden>
+              <div className="pointer-events-none h-full w-full">
+                <GadgetImage
+                  src={gadget.image}
+                  alt={`${displayGadget.brand} ${displayGadget.name}`}
+                  category={gadget.category}
+                  sizes={
+                    isSmall ? "(max-width: 768px) 50vw, 160px" : "(max-width: 768px) 100vw, 320px"
+                  }
+                  className={cn(imageClassName, isSmall ? "p-2" : "p-4")}
+                />
+              </div>
+              {compareOnImage(isSmall)}
+              <ImageRatingBadge gadget={gadget} compact={isSmall} />
             </div>
-            {compareOnImage(isSmall)}
-            <ImageRatingBadge gadget={gadget} compact={isSmall} />
-          </div>
+          ) : null}
 
           <div
             className={cn(
               cardBodyClassName,
               "flex min-w-0 flex-1 flex-col overflow-hidden bg-white",
               isSmall ? "gap-1.5 p-3.5 md:p-4" : "gap-2 p-4 lg:p-5",
+              hideImages && (isSmall ? "pt-9" : "pt-10"),
             )}
           >
             {showBrand ? (

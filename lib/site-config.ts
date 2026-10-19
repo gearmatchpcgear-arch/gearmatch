@@ -20,5 +20,11 @@ export const CONTACT_EMAIL =
 
 export const SITE_OPERATOR_NAME = "松本展明"
 
+/**
+ * Amazon 審査中は true（商品画像を非表示）。審査通過後は false に戻す。
+ * 環境変数 `NEXT_PUBLIC_HIDE_PRODUCT_IMAGES`（true/false）で上書き可能。
+ */
+export const HIDE_PRODUCT_IMAGES_FOR_REVIEW = true
+
 export const AMAZON_ASSOCIATE_DISCLOSURE =
   "PC GearMatch は、Amazon.co.jpを宣伝しリンクすることによってサイトが紹介料を獲得できる手段を提供することを目的に設定されたアフィリエイトプログラムである、Amazonアソシエイト・プログラムの参加者です。"
