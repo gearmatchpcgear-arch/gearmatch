@@ -3,15 +3,28 @@ import { Analytics } from '@vercel/analytics/next'
 import type { Metadata, Viewport } from 'next'
 import { Geist, Geist_Mono } from 'next/font/google'
 import { SiteFooter } from '@/components/site-footer'
-import { SITE_DESCRIPTION, SITE_TITLE } from '@/lib/site-config'
+import { getSiteOrigin, SITE_DESCRIPTION, SITE_NAME, SITE_TITLE } from '@/lib/site-config'
 import './globals.css'
 
 const geistSans = Geist({ subsets: ['latin'], variable: '--font-geist-sans' })
 const geistMono = Geist_Mono({ subsets: ['latin'], variable: '--font-geist-mono' })
 
 export const metadata: Metadata = {
+  metadataBase: new URL(getSiteOrigin()),
   title: SITE_TITLE,
   description: SITE_DESCRIPTION,
+  openGraph: {
+    type: 'website',
+    locale: 'ja_JP',
+    siteName: SITE_NAME,
+    title: SITE_TITLE,
+    description: SITE_DESCRIPTION,
+  },
+  twitter: {
+    card: 'summary',
+    title: SITE_TITLE,
+    description: SITE_DESCRIPTION,
+  },
   generator: 'v0.app',
   icons: {
     icon: [
@@ -33,6 +46,8 @@ export const metadata: Metadata = {
 }
 
 export const viewport: Viewport = {
+  width: 'device-width',
+  initialScale: 1,
   colorScheme: 'light',
   themeColor: '#fafbfd',
 }

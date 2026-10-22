@@ -13,6 +13,7 @@ import {
   guideRecommendationsHeroImageClassName,
   guideRecommendationsCardImageClassName,
   guideRecommendationsMidGridInnerClassName,
+  guideRecommendationsProductColumnClassName,
   guideRecommendationsProductSummaryClassName,
   guideRecommendationsReasonColumnClassName,
   guideRecommendationsSectionClassName,
@@ -28,6 +29,7 @@ export {
   guideRecommendationsHeroImageClassName,
   guideRecommendationsCardImageClassName,
   guideRecommendationsMidGridInnerClassName,
+  guideRecommendationsProductColumnClassName,
   guideRecommendationsProductSummaryClassName,
   guideRecommendationsReasonColumnClassName,
   guideRecommendationsSectionClassName,
@@ -154,7 +156,11 @@ export function GuideRecommendationsTabs({
   tabHrefBase,
 }: GuideRecommendationsTabsProps) {
   return (
-    <div className="mb-6 flex flex-wrap gap-1.5 sm:mb-8 sm:gap-2" role="tablist" aria-label="おすすめの用途">
+    <div
+      className="mb-6 flex w-full min-w-0 max-w-full flex-col gap-2 sm:mb-8 sm:flex-row sm:flex-wrap sm:gap-2"
+      role="tablist"
+      aria-label="おすすめの用途"
+    >
       {tabs.map((tab) => {
         const active = selectedId === tab.id
         return (
@@ -169,7 +175,7 @@ export function GuideRecommendationsTabs({
             aria-current={active ? "page" : undefined}
             className={cn(
               guideRecommendationsTabButtonClass(active),
-              "min-w-0 flex-1 basis-[calc(50%-0.375rem)] sm:flex-none sm:basis-auto sm:min-w-[9rem] md:min-w-[10rem]",
+              "w-full min-w-0 sm:w-auto sm:min-w-[8.5rem] md:min-w-[10rem]",
             )}
           >
             {tab.label}

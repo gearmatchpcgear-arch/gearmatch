@@ -41,6 +41,7 @@ export default async function GuideCategoryPage({ params }: GuideCategoryPagePro
 
   return (
     <SitePageShell
+      wide
       title={`${label}の選び方`}
       description={`${label}を選ぶときのポイントと、用途別のおすすめモデルを紹介します。`}
     >

@@ -1,8 +1,16 @@
+import type { Metadata } from "next"
 import { Sparkles } from "lucide-react"
 import Link from "next/link"
 import { GadgetExplorer } from "@/components/gadget-explorer"
 import { SiteBrandHeader } from "@/components/site-brand-header"
 import { SiteDisclaimer } from "@/components/site-disclaimer"
+import { SITE_DESCRIPTION, SITE_TITLE } from "@/lib/site-config"
+
+export const metadata: Metadata = {
+  title: SITE_TITLE,
+  description: SITE_DESCRIPTION,
+  alternates: { canonical: "/" },
+}
 
 export default function Page() {
   return (

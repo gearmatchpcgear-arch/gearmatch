@@ -25,10 +25,10 @@ export const guideProductSpecSlotClassName =
 export const guideProductShopButtonSlotClassName = "mt-3 shrink-0 sm:mt-4"
 
 export const guideProductSpecRowClassName =
-  "flex justify-between gap-2 text-[11px] sm:gap-3 sm:text-xs"
+  "flex items-start justify-between gap-2 text-[11px] sm:gap-3 sm:text-xs"
 
 export const guideProductSpecValueClassName =
-  "min-w-0 max-w-[58%] break-words text-right font-medium text-foreground sm:max-w-[65%]"
+  "ml-2 min-w-0 flex-1 break-words text-right font-medium leading-snug text-foreground"
 
 export const guideProductReasonHeadingClassName =
   "border-b border-slate-200 pb-2 text-sm font-bold text-foreground sm:text-base"

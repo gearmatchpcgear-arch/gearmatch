@@ -65,7 +65,7 @@ export function GuideCategoryPageContent({ category }: GuideCategoryPageContentP
   }, [category, listableGadgets])
 
   return (
-    <>
+    <div className="min-w-0 w-full max-w-full">
       <GuideNav currentCategory={category} />
 
       <GuidePointsSection
@@ -78,6 +78,6 @@ export function GuideCategoryPageContent({ category }: GuideCategoryPageContentP
       />
 
       <GuideCategoryRecommendationsSection category={category} pool={listableGadgets} />
-    </>
+    </div>
   )
 }

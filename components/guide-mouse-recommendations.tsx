@@ -11,6 +11,7 @@ import {
   guideRecommendationsImageAreaClassName,
   guideRecommendationsInnerInsetClassName,
   guideRecommendationsMidGridClassName,
+  guideRecommendationsProductColumnClassName,
   guideRecommendationsProductSummaryClassName,
   guideRecommendationsReasonColumnClassName,
 } from "@/components/guide-recommendations-layout"
@@ -130,7 +131,7 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
       <GuideRecommendationsPanel tabId={selectedType}>
       {currentItem ? (
       <div className={cn(guideRecommendationsMidGridClassName, "min-w-0 max-w-full")}>
-        <div className="min-w-0 md:col-span-5">
+        <div className={guideRecommendationsProductColumnClassName}>
           <div className={cn(guideRecommendationsProductSummaryClassName, guideProductSummaryPanelClassName)}>
           <GuideRecommendationImageBlock
             className={cn(guideRecommendationsImageAreaClassName, guideRecommendationsHeroImageClassName)}
@@ -260,7 +261,7 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
       {selectedType === "beginner" ? (
         <div className="mt-8 space-y-8 border-t border-slate-200 pt-6">
           <div className={cn(guideRecommendationsMidGridClassName, "min-w-0 max-w-full")}>
-            <div className="min-w-0 md:col-span-5">
+            <div className={guideRecommendationsProductColumnClassName}>
               <div className={cn(guideRecommendationsProductSummaryClassName, guideProductSummaryPanelClassName)}>
               <GuideRecommendationImageBlock
                 className={cn(guideRecommendationsImageAreaClassName, guideRecommendationsHeroImageClassName)}
@@ -352,7 +353,7 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
           </div>
 
           <div className={cn(guideRecommendationsMidGridClassName, "min-w-0 max-w-full")}>
-            <div className="min-w-0 md:col-span-5">
+            <div className={guideRecommendationsProductColumnClassName}>
               <div className={cn(guideRecommendationsProductSummaryClassName, guideProductSummaryPanelClassName)}>
               <GuideRecommendationImageBlock
                 className={cn(guideRecommendationsImageAreaClassName, guideRecommendationsHeroImageClassName)}
@@ -448,7 +449,7 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
       {selectedType === "pro" ? (
         <div className="mt-8 space-y-8 border-t border-slate-200 pt-6">
           <div className={cn(guideRecommendationsMidGridClassName, "min-w-0 max-w-full")}>
-            <div className="min-w-0 md:col-span-5">
+            <div className={guideRecommendationsProductColumnClassName}>
               <div className={cn(guideRecommendationsProductSummaryClassName, guideProductSummaryPanelClassName)}>
               <GuideRecommendationImageBlock
                 className={cn(guideRecommendationsImageAreaClassName, guideRecommendationsHeroImageClassName)}
@@ -540,7 +541,7 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
           </div>
 
           <div className={cn(guideRecommendationsMidGridClassName, "min-w-0 max-w-full")}>
-            <div className="min-w-0 md:col-span-5">
+            <div className={guideRecommendationsProductColumnClassName}>
               <div className={cn(guideRecommendationsProductSummaryClassName, guideProductSummaryPanelClassName)}>
               <GuideRecommendationImageBlock
                 className={cn(guideRecommendationsImageAreaClassName, guideRecommendationsHeroImageClassName)}
@@ -636,7 +637,7 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
       {selectedType === "office" ? (
         <div className="space-y-8">
           <div className={cn(guideRecommendationsMidGridClassName, "min-w-0 max-w-full")}>
-            <div className="min-w-0 md:col-span-5">
+            <div className={guideRecommendationsProductColumnClassName}>
               <div className={cn(guideRecommendationsProductSummaryClassName, guideProductSummaryPanelClassName)}>
               <GuideRecommendationImageBlock
                 className={cn(guideRecommendationsImageAreaClassName, guideRecommendationsHeroImageClassName)}
@@ -731,7 +732,7 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
           </div>
 
           <div className={cn(guideRecommendationsMidGridClassName, "min-w-0 max-w-full")}>
-            <div className="min-w-0 md:col-span-5">
+            <div className={guideRecommendationsProductColumnClassName}>
               <div className={cn(guideRecommendationsProductSummaryClassName, guideProductSummaryPanelClassName)}>
               <GuideRecommendationImageBlock
                 className={cn(guideRecommendationsImageAreaClassName, guideRecommendationsHeroImageClassName)}
@@ -823,7 +824,7 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
           </div>
 
           <div className={cn(guideRecommendationsMidGridClassName, "min-w-0 max-w-full")}>
-            <div className="min-w-0 md:col-span-5">
+            <div className={guideRecommendationsProductColumnClassName}>
               <div className={cn(guideRecommendationsProductSummaryClassName, guideProductSummaryPanelClassName)}>
               <GuideRecommendationImageBlock
                 className={cn(guideRecommendationsImageAreaClassName, guideRecommendationsHeroImageClassName)}

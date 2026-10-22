@@ -11,6 +11,7 @@ export const metadata: Metadata = {
 export default function GuidePage() {
   return (
     <SitePageShell
+      wide
       title="デバイス購入のポイント"
       description="カテゴリを選んで、失敗しないデバイスの選び方とおすすめモデルをチェックしましょう。"
     >

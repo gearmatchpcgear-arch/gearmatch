@@ -1,6 +1,6 @@
 import Link from "next/link"
 import { Boxes } from "lucide-react"
-import { SITE_NAME, SITE_TAGLINE } from "@/lib/site-config"
+import { SITE_HEADER_SUBLINE, SITE_NAME, SITE_NAME_JA, SITE_TAGLINE } from "@/lib/site-config"
 import { cn } from "@/lib/utils"
 
 const headerShellClassName =
@@ -28,18 +28,19 @@ export function SiteBrandHeader({ children, className, topSlot }: SiteBrandHeade
               <Boxes className="size-5" />
             </div>
             <div className="min-w-0">
-              <h1 className="flex flex-wrap items-baseline gap-x-2 gap-y-0.5">
+              <h1 className="min-w-0">
                 <Link
                   href="/"
-                  className="text-lg font-extrabold tracking-tight text-zinc-900 sm:text-xl"
+                  className="inline text-lg font-extrabold tracking-tight text-zinc-900 sm:text-xl"
                 >
                   {SITE_NAME}
+                  <span className="font-extrabold">（{SITE_NAME_JA}）</span>
                 </Link>
-                <span className="hidden border-l border-zinc-400/60 pl-3 text-xs font-semibold text-zinc-600 sm:inline">
+                <span className="mt-0.5 block text-xs font-semibold leading-snug text-zinc-700 sm:mt-1 sm:text-sm">
                   {SITE_TAGLINE}
                 </span>
               </h1>
-              <p className="mt-0.5 text-xs font-semibold text-zinc-600 sm:hidden">{SITE_TAGLINE}</p>
+              <p className="mt-0.5 text-[11px] leading-snug text-zinc-600 sm:text-xs">{SITE_HEADER_SUBLINE}</p>
             </div>
           </div>
           <a

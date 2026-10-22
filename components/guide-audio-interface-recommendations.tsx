@@ -83,7 +83,7 @@ export function GuideAudioInterfaceRecommendations({
             ))
           ) : (
             <div className={guideRecommendationsMidGridClassName}>
-              <div className={cn("md:col-span-12", guideRecommendationsEmptyStateClassName)}>
+              <div className={cn("w-full md:col-span-12", guideRecommendationsEmptyStateClassName)}>
                 {placeholderMessage}
               </div>
             </div>

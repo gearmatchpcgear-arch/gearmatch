@@ -2,7 +2,7 @@
 
 import { Search, UserRound, X } from "lucide-react"
 import { SiteDisclaimer } from "@/components/site-disclaimer"
-import { SITE_NAME, SITE_TAGLINE } from "@/lib/site-config"
+import { SITE_HEADER_SUBLINE, SITE_NAME, SITE_NAME_JA, SITE_TAGLINE } from "@/lib/site-config"
 import { cn } from "@/lib/utils"
 
 type SiteHeaderProps = {
@@ -48,17 +48,16 @@ export function SiteHeader({ query, onQueryChange, className }: SiteHeaderProps)
           <div className="flex min-w-0 items-center gap-4">
             <GearMatchEmblem />
             <div className="min-w-0">
-              <h1 className="flex flex-wrap items-baseline gap-x-3 gap-y-0.5">
+              <h1 className="min-w-0">
                 <span className="cursor-default select-none font-serif-jp text-[1.65rem] font-extrabold leading-none tracking-wide text-primary sm:text-[1.85rem]">
                   {SITE_NAME}
+                  <span className="font-extrabold">（{SITE_NAME_JA}）</span>
                 </span>
-                <span className="hidden border-l border-zinc-400/60 pl-3 text-xs font-semibold text-zinc-600 sm:inline sm:text-sm">
+                <span className="mt-1 block text-xs font-semibold leading-snug text-zinc-700 sm:text-sm">
                   {SITE_TAGLINE}
                 </span>
               </h1>
-              <p className="mt-2 text-xs font-semibold leading-relaxed text-zinc-600 sm:hidden">
-                {SITE_TAGLINE}
-              </p>
+              <p className="mt-1 text-[11px] leading-snug text-zinc-600 sm:text-xs">{SITE_HEADER_SUBLINE}</p>
             </div>
           </div>
 

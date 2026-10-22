@@ -25,6 +25,7 @@ import { GUIDE_RECOMMENDATION_IMAGE_SIZES } from "@/lib/guide-image-config"
 import {
   guideRecommendationsInnerInsetClassName,
   guideRecommendationsMidGridClassName,
+  guideRecommendationsProductColumnClassName,
   guideRecommendationsReasonColumnClassName,
 } from "@/components/guide-recommendations-layout"
 import {
@@ -92,7 +93,7 @@ export function GuideRecommendationCard({
 
   return (
     <div className={cn(guideRecommendationsMidGridClassName, "min-w-0 max-w-full")}>
-      <div className="min-w-0 md:col-span-5">
+      <div className={guideRecommendationsProductColumnClassName}>
         <GuideRecommendationProductSummary
           badge={<GuideCardBadge>{pick.badge}</GuideCardBadge>}
           image={

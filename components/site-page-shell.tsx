@@ -7,9 +7,17 @@ type SitePageShellProps = {
   description?: string
   children: React.ReactNode
   compact?: boolean
+  /** 一覧など横幅を広げたいページ向け（既定は max-w-4xl） */
+  wide?: boolean
 }
 
-export function SitePageShell({ title, description, children, compact = false }: SitePageShellProps) {
+export function SitePageShell({
+  title,
+  description,
+  children,
+  compact = false,
+  wide = false,
+}: SitePageShellProps) {
   return (
     <div className="flex min-h-0 flex-1 flex-col bg-slate-100/70">
       <SiteBrandHeader
@@ -32,7 +40,9 @@ export function SitePageShell({ title, description, children, compact = false }:
       <main
         className={
           compact
-              ? "mx-auto flex min-h-0 w-full max-w-3xl flex-1 flex-col px-4 py-3 md:py-4"
+            ? "mx-auto flex min-h-0 w-full max-w-3xl flex-1 flex-col px-4 py-3 md:py-4"
+            : wide
+              ? "mx-auto w-full min-w-0 max-w-6xl px-3 py-6 sm:px-4 sm:py-8 lg:px-6 lg:py-10"
               : "mx-auto min-w-0 max-w-4xl px-3 py-6 sm:px-4 sm:py-8 md:py-10"
         }
       >
@@ -46,7 +56,7 @@ export function SitePageShell({ title, description, children, compact = false }:
                 {description}
               </p>
             ) : null}
-            <div className="mt-6 min-w-0 max-w-full sm:mt-8">{children}</div>
+            <div className="mt-6 min-w-0 w-full max-w-full overflow-x-clip sm:mt-8">{children}</div>
           </>
         ) : (
           children

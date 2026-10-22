@@ -9,10 +9,15 @@ export function getSiteOrigin(): string {
 }
 
 export const SITE_NAME = "PC GearMatch"
-export const SITE_TAGLINE = "PCギア・デバイスの比較・検索サイト"
-export const SITE_TITLE = `${SITE_NAME} | ${SITE_TAGLINE}`
+export const SITE_NAME_JA = "PCギアマッチ"
+/** ヘッダー H1 横・下に表示するキャッチ（検索キーワードを自然に含める） */
+export const SITE_TAGLINE =
+  "ゲーミングデバイス・PC周辺機器の比較・検索"
+export const SITE_HEADER_SUBLINE =
+  "ゲーミングマウス・キーボード・モニター・マイク等の価格・スペック比較"
+export const SITE_TITLE = `${SITE_NAME}（${SITE_NAME_JA}） | ゲーミングマウス・キーボード・モニター等デバイス比較・検索サイト`
 export const SITE_DESCRIPTION =
-  "PCギア・デバイスの比較・検索サイト。マウス、キーボード、モニターなどのスペックを簡単に検索・比較できます。"
+  "PCギアマッチ（PC GearMatch）は、ゲーミングマウス・キーボード・モニター・マイク・Webカメラ・モニターアームなど、ゲーミング・PC周辺機器の価格とスペックを一覧で比較・検索できるサイト。条件絞り込みと用途別ガイドで失敗しないデバイス選びをサポート。"
 
 /** お問い合わせ先（環境変数 NEXT_PUBLIC_CONTACT_EMAIL で上書き可能） */
 export const CONTACT_EMAIL =
