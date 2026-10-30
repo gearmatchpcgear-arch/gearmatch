@@ -1,11 +1,13 @@
 import type { Metadata } from "next"
 import { SitePageShell } from "@/components/site-page-shell"
 import { AMAZON_ASSOCIATE_DISCLOSURE, SITE_NAME } from "@/lib/site-config"
+import { sitePageMetadata } from "@/lib/site-metadata"
 
-export const metadata: Metadata = {
+export const metadata: Metadata = sitePageMetadata({
+  path: "/privacy",
   title: `プライバシーポリシー | ${SITE_NAME}`,
   description: `${SITE_NAME}のプライバシーポリシー。個人情報の取り扱い、Amazonアソシエイト・プログラム、Cookieについて。`,
-}
+})
 
 function PolicySection({
   title,

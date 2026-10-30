@@ -2,11 +2,13 @@ import type { Metadata } from "next"
 import { GuidePortalContent } from "@/components/guide-portal-content"
 import { SitePageShell } from "@/components/site-page-shell"
 import { SITE_NAME } from "@/lib/site-config"
+import { sitePageMetadata } from "@/lib/site-metadata"
 
-export const metadata: Metadata = {
+export const metadata: Metadata = sitePageMetadata({
+  path: "/guide",
   title: `デバイス購入のポイント | ${SITE_NAME}`,
   description: `${SITE_NAME}のデバイス選び方ガイド。カテゴリ別の選定ポイントとおすすめモデルを紹介します。`,
-}
+})
 
 export default function GuidePage() {
   return (

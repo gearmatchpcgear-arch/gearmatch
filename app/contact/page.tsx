@@ -2,11 +2,13 @@ import type { Metadata } from "next"
 import { ContactForm } from "@/components/contact-form"
 import { SitePageShell } from "@/components/site-page-shell"
 import { CONTACT_EMAIL, SITE_NAME } from "@/lib/site-config"
+import { sitePageMetadata } from "@/lib/site-metadata"
 
-export const metadata: Metadata = {
+export const metadata: Metadata = sitePageMetadata({
+  path: "/contact",
   title: `お問い合わせ | ${SITE_NAME}`,
   description: `${SITE_NAME}へのお問い合わせフォーム。`,
-}
+})
 
 export default function ContactPage() {
   return (

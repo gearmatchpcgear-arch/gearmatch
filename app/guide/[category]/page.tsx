@@ -6,10 +6,12 @@ import { SitePageShell } from "@/components/site-page-shell"
 import {
   GUIDE_CATEGORY_IDS,
   getGuideCategoryLabel,
+  guideCategoryPath,
   isGuideCategorySlug,
   type GuideCategorySlug,
 } from "@/lib/guide-routes"
 import { SITE_NAME } from "@/lib/site-config"
+import { sitePageMetadata } from "@/lib/site-metadata"
 
 type GuideCategoryPageProps = {
   params: Promise<{ category: string }>
@@ -25,10 +27,13 @@ export async function generateMetadata({ params }: GuideCategoryPageProps): Prom
     return { title: `ガイド | ${SITE_NAME}` }
   }
   const label = getGuideCategoryLabel(slug)
-  return {
-    title: `${label}の選び方 | デバイス購入のポイント | ${SITE_NAME}`,
-    description: `${label}の失敗しない選び方とおすすめモデルを${SITE_NAME}が解説します。`,
-  }
+  const title = `${label}の選び方 | デバイス購入のポイント | ${SITE_NAME}`
+  const description = `${label}の失敗しない選び方とおすすめモデルを${SITE_NAME}が解説します。`
+  return sitePageMetadata({
+    path: guideCategoryPath(slug),
+    title,
+    description,
+  })
 }
 
 export default async function GuideCategoryPage({ params }: GuideCategoryPageProps) {

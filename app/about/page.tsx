@@ -7,11 +7,13 @@ import {
   SITE_NAME,
   SITE_OPERATOR_NAME,
 } from "@/lib/site-config"
+import { sitePageMetadata } from "@/lib/site-metadata"
 
-export const metadata: Metadata = {
+export const metadata: Metadata = sitePageMetadata({
+  path: "/about",
   title: `運営者情報 | ${SITE_NAME}`,
   description: `${SITE_NAME}の運営者情報、運営方針、およびサイト概要。`,
-}
+})
 
 function AboutRow({
   label,

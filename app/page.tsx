@@ -5,12 +5,13 @@ import { GadgetExplorer } from "@/components/gadget-explorer"
 import { SiteBrandHeader } from "@/components/site-brand-header"
 import { SiteDisclaimer } from "@/components/site-disclaimer"
 import { SITE_DESCRIPTION, SITE_TITLE } from "@/lib/site-config"
+import { sitePageMetadata } from "@/lib/site-metadata"
 
-export const metadata: Metadata = {
+export const metadata: Metadata = sitePageMetadata({
+  path: "/",
   title: SITE_TITLE,
   description: SITE_DESCRIPTION,
-  alternates: { canonical: "/" },
-}
+})
 
 export default function Page() {
   return (

@@ -1,0 +1,4 @@
+# Cloudflare Pages: 正規ホストへ統一（Search Console の重複・404 対策）
+https://www.pcgearmatch.com/* https://pcgearmatch.com/:splat 301
+http://pcgearmatch.com/* https://pcgearmatch.com/:splat 301
+http://www.pcgearmatch.com/* https://pcgearmatch.com/:splat 301
