@@ -21,7 +21,7 @@ import {
 export const GUIDE_MONITOR_OFFICE_RECOMMENDATIONS: GuideCategoryRecommendation[] = [
   {
     id: "guide-monitor-office-dell-s2725qc",
-    badge: "Dell 4K 120Hzモデル",
+    badge: "27型 4K 120Hz / USB-C",
     gadgetId: "mon-dell-s2725qc",
     imageUrl: MONITOR_DELL_S2725QC_IMAGE,
     title: "Dell S2725QC",
@@ -30,7 +30,7 @@ export const GUIDE_MONITOR_OFFICE_RECOMMENDATIONS: GuideCategoryRecommendation[]
     purchaseUrl: MONITOR_DELL_S2725QC_AMAZON_URL,
     guideRating: 4.5,
     guideReviewCount: 128,
-    heading: "DELLの高画質IPS＆5Wスピーカー搭載の27インチ4Kモデル",
+    heading: "作業もゲームも1台：4Kの細かさと120Hzの滑らかさをUSB-C1本で",
     specs: [
       { label: "画面サイズ:", value: "27インチ" },
       { label: "解像度:", value: "4K (3840 x 2160)" },
@@ -39,26 +39,26 @@ export const GUIDE_MONITOR_OFFICE_RECOMMENDATIONS: GuideCategoryRecommendation[]
     ],
     reasons: [
       {
-        emphasis: "【Dell製 27インチ高精細4K】",
-        text: "PC・ディスプレイ大手Dellによる27インチ4Kモデル。1500:1のコントラスト比、sRGB 99%、HDR対応で深みのある高画質映像を実現。",
+        emphasis: "4K27インチは、Excelのセルもブラウザの文字も“読める”密度",
+        text: "フルHD27インチの2倍近いピクセル数は、資料2枚並べや細かいUI作業でスクロール量を減らします。ゲームはGPU次第ですが、カジュアル〜シングルプレイの120Hzは、60Hzオフィスモニターからの乗り換えでも体感差が大きいです。",
       },
       {
-        emphasis: "【USB-C 1本でスマート接続】",
-        text: "最大65W給電対応のUSB Type-Cケーブル1本で映像出力とPCへの給電が行え、デスク上を美しく整頓できます。",
+        emphasis: "USB-C 65Wは、ノート1本で“帰社して刺すだけ”のデスク",
+        text: "充電器・HDMI・USBハブが増えるとケーブルが絡まります。映像＋給電が1ケーブルにまとまると、持ち運びノートのメインディスプレイとして毎日のセットアップが短くなり、デスクの見た目も整います。",
       },
       {
-        emphasis: "【目に優しいEye Comfort 4つ星認証】",
-        text: "色精度を損なわずに有害なブルーライトを35%以下に低減する「ComfortView Plus」を搭載し、長時間の作業も快適。",
+        emphasis: "ComfortView Plusは、夜の作業で目が干る人の保険",
+        text: "色が黄ばみすぎないブルーライト低減は、長時間のスプレッドシート・チャット・動画視聴で効いてきます。4Kの細かさで文字を小さくしすぎないよう、OS側のスケーリングとセットで使うと疲れにくいです。",
       },
       {
-        emphasis: "【クリアで迫力ある5W内蔵スピーカー】",
-        text: "出力・周波数応答・デシベル範囲が強化された5Wスピーカーを搭載し、隅々までクリアなサウンドを届けます。",
+        emphasis: "5Wスピーカーは、会議前の確認やYouTubeに“とりあえず音が出る”",
+        text: "Hi-Fiではありませんが、ヘッドホンを付けない雑談動画やTeamsのスピーカーテストには十分なことが多いです。完全に音響別途、というより“1台で完結する本数”を減らしたい人向けです。",
       },
     ],
   },
   {
     id: "guide-monitor-office-crua-49-ultrawide",
-    badge: '49" 32:9 スーパーウルトラワイド',
+    badge: '49型 32:9 DQHD 165Hz',
     gadgetId: MONITOR_CRUA_49_ULTRAWIDE_GADGET_ID,
     imageUrl: MONITOR_CRUA_49_ULTRAWIDE_IMAGE,
     title: "CRUA 49インチ ウルトラワイドモニター",
@@ -67,8 +67,7 @@ export const GUIDE_MONITOR_OFFICE_RECOMMENDATIONS: GuideCategoryRecommendation[]
     purchaseUrl: MONITOR_CRUA_49_ULTRAWIDE_AMAZON_URL,
     guideRating: 4.3,
     guideReviewCount: 3165,
-    heading:
-      "27インチ2台分の32:9 DQHDで、仮想デュアルモニター級の作業領域と165Hz湾曲の没入感を両立",
+    heading: "デュアル27インチを1枚に：ベゼルレスの“超ワイド作業面”",
     specs: [
       { label: "画面サイズ:", value: "49インチ" },
       { label: "解像度:", value: "DQHD (5120 x 1440)" },
@@ -77,26 +76,26 @@ export const GUIDE_MONITOR_OFFICE_RECOMMENDATIONS: GuideCategoryRecommendation[]
     ],
     reasons: [
       {
-        emphasis: "【圧倒的作業領域＆2画面表示】",
-        text: "27インチ2台分（32:9）の表示エリアで『仮想デュアルモニター』として機能。PIP/PBP対応で複数機器の同時表示も可能。",
+        emphasis: "32:9は、中央のベゼルなしで“2画面分の横連結”",
+        text: "デュアル27インチの間に境界がないので、タイムライン編集・株チャート・IDE＋プレビューのような横長ワークフローが途切れません。PBPでPC2台を1枚に載せる運用も、スタンド2個よりケーブルが整理しやすいです。",
       },
       {
-        emphasis: "【DQHD×165Hz×1500R湾曲】",
-        text: "視界を包み込む1500R湾曲パネルと165Hz駆動により、映画鑑賞やゲームで極上の没入感を提供。",
+        emphasis: "DQHDは、ウルトラワイドでも文字が潰れにくい現実解像度",
+        text: "32:9 FHD相当だと横に引き伸ばしただけの粗さになりがち。5120×1440なら、1440p帯の縦解像度を保ったまま横に広げるイメージで、作業とゲームの両方で情報量が足りやすいです。",
       },
       {
-        emphasis: "【3000:1高コントラストVA】",
-        text: "暗部から明部までメリハリのある表現が可能で、深みのある映像美を実現。",
-      },
-      {
-        emphasis: "【注意点】",
-        text: "横幅118.5cm以上の設置場所が必要です。またVAパネル特性上、印刷物などの厳密な色校正業務には不向きです。",
+        emphasis: "165Hz＋1500R湾曲は、作業のあとそのままゲームに入れる",
+        text: "オフィスタブでもレース・RPG・FPSの一部タイトルでは没入感が段違い。湾曲は視線移動を減らし、49インチの端まで視野に入れやすい効果があります。",
       },
     ],
+    concern: {
+      emphasis: "設置幅118cm超・VAパネルの向き不向き",
+      text: "デスク奥行きと横幅を事前に測らないと届かないサイズです。またVAはコントラストは強い一方、印刷物レベルの色校正や横から見る共同作業にはIPS/プロ向けモデルの方が向きます。",
+    },
   },
   {
     id: "guide-monitor-office-asus-pa279cv-j",
-    badge: "27インチ 4K プロフェッショナル",
+    badge: "27型 4K ProArt / 色校正",
     gadgetId: MONITOR_ASUS_PA279CV_J_GADGET_ID,
     imageUrl: MONITOR_ASUS_PA279CV_J_IMAGE,
     imageFallbackUrls: [...MONITOR_ASUS_PA279CV_J_IMAGE_FALLBACKS],
@@ -106,8 +105,7 @@ export const GUIDE_MONITOR_OFFICE_RECOMMENDATIONS: GuideCategoryRecommendation[]
     purchaseUrl: MONITOR_ASUS_PA279CV_J_AMAZON_URL,
     guideRating: 4.4,
     guideReviewCount: 482,
-    heading:
-      "クリエイター向け27型4K ProArt。出荷時校正の高色精度とEye Careで長時間の制作作業も快適",
+    heading: "「色がズレるのが怖い」クリエイターの、4K作業用ディスプレイ",
     specs: [
       { label: "画面サイズ:", value: "27インチ" },
       { label: "解像度:", value: "4K (3840 x 2160)" },
@@ -116,20 +114,20 @@ export const GUIDE_MONITOR_OFFICE_RECOMMENDATIONS: GuideCategoryRecommendation[]
     ],
     reasons: [
       {
-        emphasis: "【4K UHD高精細＆忠実な色再現】",
-        text: "フルHDの4倍の表示エリアを誇る27インチ4K IPSパネル。出荷時校正による高い色精度（ΔE<2）を達成し、写真・動画編集やグラフィック制作で忠実な色表示を実現します。",
+        emphasis: "出荷時ΔE<2は、“なんとなく綺麗”と“納品できる色”の差",
+        text: "写真・動画・イラストでクライントや印刷に出すなら、ゲーミングモニターの鮮やかさだけでは不安が残ります。ProArt系の校正済み4Kは、タイムライン上の色判断を信じやすくする投資です。",
       },
       {
-        emphasis: "【無限の可能性を開く多機能USB-C】",
-        text: "65W給電・DisplayPort映像入力・データ転送に対応するUSB Type-Cポートを搭載。周辺機器と接続可能なUSBハブ機能も備え、デスク上をスマートに整理できます。",
+        emphasis: "60Hzでも4K作業の主戦場は“静止画に近い”編集作業",
+        text: "カット編集・Retouch・レイアウト確認はfpsよりピクセル密度と色の方が効きます。120Hzゲーミングモニターと役割分担するサブ／メイン作業屏として選ばれやすいポジションです。",
       },
       {
-        emphasis: "【ProArt パレットで自在な色カスタマイズ】",
-        text: "色調・色温度・ガンマ値や2点間グレースケールなど、多彩なパラメーターを画面上で直感的に設定・調整できます。",
+        emphasis: "USB-C 65W＋ハブは、Mac/ノートクリエイターの配線整理",
+        text: "SDリーダーや外付けSSDをモニター側に寄せられると、机の上のハブが1個減ります。DisplayPort over USB-Cで4K60を出しつつ給電できると、カフェ作業→自宅デスクの移動が楽です。",
       },
       {
-        emphasis: "【長時間の作業を支える Eye Care】",
-        text: "テュフラインランド認証を取得したブルーライト軽減＆フリッカーフリー機能を搭載し、長時間作業でも目への負担を抑えて快適に使用可能です。",
+        emphasis: "ProArt Paletteは、プリセットに頼らない色の微調整用",
+        text: "納品先（Web/紙/動画）ごとにガンマや色温を切り替えたい人向け。Eye Care系認証は、夜のレタッチで目が痛くなる前の長時間作業向けの保険です。",
       },
     ],
   },

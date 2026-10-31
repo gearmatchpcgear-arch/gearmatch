@@ -31,7 +31,22 @@ export const guideProductSpecValueClassName =
   "ml-2 min-w-0 flex-1 break-words text-right font-medium leading-snug text-foreground"
 
 export const guideProductReasonHeadingClassName =
-  "border-b border-slate-200 pb-2 text-sm font-bold text-foreground sm:text-base"
+  "mb-3 border-b border-slate-200 pb-2 text-sm font-bold leading-snug text-foreground sm:mb-4 sm:text-base"
+
+/** ガイドおすすめカード：選定理由リスト */
+export const guideProductReasonListClassName =
+  "list-none space-y-3 sm:space-y-3.5"
+
+export const guideProductReasonItemClassName = "min-w-0"
+
+export const guideProductReasonTextClassName =
+  "min-w-0 flex-1 whitespace-normal break-normal leading-relaxed text-foreground/90 [line-break:strict] [overflow-wrap:break-word] [word-break:auto-phrase] [text-wrap:wrap] text-[11px] sm:text-xs md:text-sm"
+
+export const guideProductReasonEmphasisClassName =
+  "block font-semibold leading-snug text-foreground"
+
+export const guideProductReasonBodyClassName =
+  "mt-1 block leading-relaxed text-muted-foreground"
 
 export function productListCardTitleClassName(isSmall: boolean, isMedium: boolean): string {
   return cn(

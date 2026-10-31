@@ -29,7 +29,12 @@ import {
   guideRecommendationsReasonColumnClassName,
 } from "@/components/guide-recommendations-layout"
 import {
+  guideProductReasonBodyClassName,
+  guideProductReasonEmphasisClassName,
   guideProductReasonHeadingClassName,
+  guideProductReasonItemClassName,
+  guideProductReasonListClassName,
+  guideProductReasonTextClassName,
   guideProductSpecRowClassName,
   guideProductSpecValueClassName,
 } from "@/lib/product-card-layout"
@@ -42,6 +47,26 @@ type GuideRecommendationCardProps = {
   gadget?: Gadget
   /** ファーストビュー付近のカード向け（LCP / 先読み） */
   priority?: boolean
+}
+
+function GuideRecommendationReasonListItem({
+  reason,
+}: {
+  reason: GuideCategoryRecommendation["reasons"][number]
+}) {
+  return (
+    <li className={guideProductReasonItemClassName}>
+      <div className="flex items-start gap-2">
+        <span className="mt-0.5 shrink-0 text-primary" aria-hidden>
+          ✔
+        </span>
+        <div className={guideProductReasonTextClassName}>
+          <strong className={guideProductReasonEmphasisClassName}>{reason.emphasis}</strong>
+          <span className={guideProductReasonBodyClassName}>{reason.text}</span>
+        </div>
+      </div>
+    </li>
+  )
 }
 
 function resolveImageCandidates(
@@ -161,25 +186,28 @@ export function GuideRecommendationCard({
       <div className={guideRecommendationsReasonColumnClassName}>
         <h4 className={guideProductReasonHeadingClassName}>{pick.heading}</h4>
 
-        <ul className="space-y-2 text-[11px] leading-relaxed text-foreground/90 sm:space-y-2.5 sm:text-xs md:text-sm">
+        <ul className={guideProductReasonListClassName}>
           {pick.reasons.map((reason) => (
-            <li key={reason.emphasis} className="flex min-w-0 items-start gap-2">
-              <span className="shrink-0 text-primary" aria-hidden>
-                ✔
-              </span>
-              <span className="min-w-0 break-words">
-                <strong>{reason.emphasis}</strong> {reason.text}
-              </span>
-            </li>
+            <GuideRecommendationReasonListItem key={reason.emphasis} reason={reason} />
           ))}
           {pick.concern ? (
-            <li className="flex min-w-0 items-start gap-2 border-t border-slate-200 pt-2.5 text-amber-700 dark:text-amber-400">
-              <span className="shrink-0 font-bold" aria-hidden>
-                ⚠️
-              </span>
-              <span className="min-w-0 break-words">
-                <strong>{pick.concern.emphasis}</strong> {pick.concern.text}
-              </span>
+            <li
+              className={cn(
+                guideProductReasonItemClassName,
+                "border-t border-slate-200 pt-3 text-amber-700 dark:text-amber-400",
+              )}
+            >
+              <div className="flex items-start gap-2">
+                <span className="mt-0.5 shrink-0 font-bold" aria-hidden>
+                  ⚠️
+                </span>
+                <div className={guideProductReasonTextClassName}>
+                  <strong className={guideProductReasonEmphasisClassName}>
+                    {pick.concern.emphasis}
+                  </strong>
+                  <span className={guideProductReasonBodyClassName}>{pick.concern.text}</span>
+                </div>
+              </div>
             </li>
           ) : null}
         </ul>

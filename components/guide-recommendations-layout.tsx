@@ -58,6 +58,22 @@ export function guideRecommendationsHeading(categoryLabel: string): string {
   return `あなたに合うおすすめの${categoryLabel}を選ぶ`
 }
 
+export const guideRecommendationsPriceDisclaimerText =
+  "※当サイトで紹介している商品の価格や在庫状況は、データ取得時点のものであり、変更される場合があります。最新の情報は各販売ページにてご確認ください。"
+
+export function GuideRecommendationsPriceDisclaimer({ className }: { className?: string }) {
+  return (
+    <p
+      className={cn(
+        "text-[11px] leading-relaxed text-muted-foreground sm:text-xs",
+        className,
+      )}
+    >
+      {guideRecommendationsPriceDisclaimerText}
+    </p>
+  )
+}
+
 export function guideRecommendationsTabButtonClass(active: boolean): string {
   return cn(
     "rounded-lg border px-3 py-2 text-center text-xs font-semibold transition-all sm:px-4 sm:py-2.5 sm:text-sm",
@@ -92,17 +108,18 @@ export function GuideRecommendationsHeader({
   subtitle = guideRecommendationsDefaultSubtitle,
 }: GuideRecommendationsHeaderProps) {
   return (
-    <div className="mb-4 flex min-w-0 flex-col gap-2 sm:flex-row sm:flex-wrap sm:items-end sm:justify-between sm:gap-3">
-      <div className="min-w-0 max-w-full">
+    <div className="mb-5 flex min-w-0 flex-col gap-2 sm:mb-6 sm:flex-row sm:flex-wrap sm:items-start sm:justify-between sm:gap-3">
+      <div className="min-w-0 max-w-full flex-1">
         <h2 className="flex min-w-0 items-start gap-1.5 text-base font-bold leading-snug text-foreground sm:items-center sm:gap-2 sm:text-lg md:text-xl">
           <Sparkles className="mt-0.5 size-4 shrink-0 text-primary sm:mt-0 sm:size-5" aria-hidden />
           <span className="min-w-0 break-words">{guideRecommendationsHeading(categoryLabel)}</span>
         </h2>
         <p className="mt-1 text-[11px] leading-relaxed text-muted-foreground sm:text-xs">{subtitle}</p>
+        <GuideRecommendationsPriceDisclaimer className="mt-1.5 sm:mt-2" />
       </div>
       <Link
         href={compareHref}
-        className="text-xs font-medium text-primary underline-offset-4 hover:underline"
+        className="shrink-0 text-xs font-medium text-primary underline-offset-4 hover:underline sm:pt-1"
       >
         トップの一覧で比較する →
       </Link>

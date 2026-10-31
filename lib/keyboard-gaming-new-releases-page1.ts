@@ -458,7 +458,7 @@ export const keyboardGamingNewReleasesPage1: Gadget[] = [{
     category: "keyboard",
     name: "ATTACK SHARK M36HE",
     brand: "ATTACK SHARK",
-    tagline: "36キー片手ゲーミングKB・8000Hz・磁気RT・0.01mm精度",
+    tagline: "36キー片手ゲーミングキーボード・8000Hz・磁気RT・0.01mm精度",
     price: 6499,
     rating: 4.3,
     reviews: 27,

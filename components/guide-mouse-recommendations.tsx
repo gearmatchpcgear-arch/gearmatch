@@ -39,7 +39,12 @@ import { resolveGuidePriceLabel } from "@/lib/guide-price-label"
 import {
   guideProductMetaLineClassName,
   guideProductPriceSlotClassName,
+  guideProductReasonBodyClassName,
+  guideProductReasonEmphasisClassName,
   guideProductReasonHeadingClassName,
+  guideProductReasonItemClassName,
+  guideProductReasonListClassName,
+  guideProductReasonTextClassName,
   guideProductShopButtonSlotClassName,
   guideProductSpecRowClassName,
   guideProductSpecSlotClassName,
@@ -59,12 +64,46 @@ function reasonKey(reason: GuideMouseReason): string {
   return typeof reason === "string" ? reason : reason.emphasis
 }
 
-function renderReasonContent(reason: GuideMouseReason) {
-  if (typeof reason === "string") return reason
+function GuideMouseReasonListItem({
+  reason,
+  variant = "check",
+}: {
+  reason: GuideMouseReason
+  variant?: "check" | "circle"
+}) {
+  if (typeof reason === "string") {
+    return (
+      <li className={guideProductReasonItemClassName}>
+        <div className="flex items-start gap-2">
+          {variant === "circle" ? (
+            <CheckCircle2 className="mt-0.5 size-4 shrink-0 text-green-500" aria-hidden />
+          ) : (
+            <span className="mt-0.5 shrink-0 text-primary" aria-hidden>
+              ✔
+            </span>
+          )}
+          <p className={guideProductReasonTextClassName}>{reason}</p>
+        </div>
+      </li>
+    )
+  }
+
   return (
-    <>
-      <strong>{reason.emphasis}</strong> {reason.text}
-    </>
+    <li className={guideProductReasonItemClassName}>
+      <div className="flex items-start gap-2">
+        {variant === "circle" ? (
+          <CheckCircle2 className="mt-0.5 size-4 shrink-0 text-green-500" aria-hidden />
+        ) : (
+          <span className="mt-0.5 shrink-0 text-primary" aria-hidden>
+            ✔
+          </span>
+        )}
+        <div className={guideProductReasonTextClassName}>
+          <strong className={guideProductReasonEmphasisClassName}>{reason.emphasis}</strong>
+          <span className={guideProductReasonBodyClassName}>{reason.text}</span>
+        </div>
+      </div>
+    </li>
   )
 }
 
@@ -240,18 +279,13 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
             {currentItem.reasonsHeading ?? "なぜこのマウスがおすすめなのか？"}
           </h4>
 
-          <ul className="space-y-2 text-[11px] leading-relaxed text-foreground/90 sm:space-y-2.5 sm:text-xs md:text-sm">
+          <ul className={guideProductReasonListClassName}>
             {currentItem.reasons.map((reason) => (
-              <li key={reasonKey(reason)} className="flex items-start gap-2">
-                {currentItem.reasonsHeading ? (
-                  <span className="shrink-0 text-primary" aria-hidden>
-                    ✔
-                  </span>
-                ) : (
-                  <CheckCircle2 className="mt-0.5 size-4 shrink-0 text-green-500" aria-hidden />
-                )}
-                <span>{renderReasonContent(reason)}</span>
-              </li>
+              <GuideMouseReasonListItem
+                key={reasonKey(reason)}
+                reason={reason}
+                variant={currentItem.reasonsHeading ? "check" : "circle"}
+              />
             ))}
           </ul>
         </div>
@@ -334,19 +368,12 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
 
             <div className={guideRecommendationsReasonColumnClassName}>
               <h4 className={guideProductReasonHeadingClassName}>
-                予算に余裕があるなら「これを選んでおけば間違いなし」の最高峰
+                {GUIDE_MOUSE_BEGINNER_UPGRADE.heading}
               </h4>
 
-              <ul className="space-y-2 text-[11px] leading-relaxed text-foreground/90 sm:space-y-2.5 sm:text-xs md:text-sm">
+              <ul className={guideProductReasonListClassName}>
                 {GUIDE_MOUSE_BEGINNER_UPGRADE.reasons.map((reason) => (
-                  <li key={reason.emphasis} className="flex items-start gap-2">
-                    <span className="shrink-0 text-primary" aria-hidden>
-                      ✔
-                    </span>
-                    <span>
-                      <strong>{reason.emphasis}</strong> {reason.text}
-                    </span>
-                  </li>
+                  <GuideMouseReasonListItem key={reason.emphasis} reason={reason} />
                 ))}
               </ul>
             </div>
@@ -429,16 +456,9 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
                 {GUIDE_MOUSE_BEGINNER_HYPERX.heading}
               </h4>
 
-              <ul className="space-y-2 text-[11px] leading-relaxed text-foreground/90 sm:space-y-2.5 sm:text-xs md:text-sm">
+              <ul className={guideProductReasonListClassName}>
                 {GUIDE_MOUSE_BEGINNER_HYPERX.reasons.map((reason) => (
-                  <li key={reason.emphasis} className="flex items-start gap-2">
-                    <span className="shrink-0 text-primary" aria-hidden>
-                      ✔
-                    </span>
-                    <span>
-                      <strong>{reason.emphasis}</strong> {reason.text}
-                    </span>
-                  </li>
+                  <GuideMouseReasonListItem key={reason.emphasis} reason={reason} />
                 ))}
               </ul>
             </div>
@@ -525,16 +545,9 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
                 {GUIDE_MOUSE_PRO_SUPERSTRIKE.heading}
               </h4>
 
-              <ul className="space-y-2 text-[11px] leading-relaxed text-foreground/90 sm:space-y-2.5 sm:text-xs md:text-sm">
+              <ul className={guideProductReasonListClassName}>
                 {GUIDE_MOUSE_PRO_SUPERSTRIKE.reasons.map((reason) => (
-                  <li key={reason.emphasis} className="flex items-start gap-2">
-                    <span className="shrink-0 text-primary" aria-hidden>
-                      ✔
-                    </span>
-                    <span>
-                      <strong>{reason.emphasis}</strong> {reason.text}
-                    </span>
-                  </li>
+                  <GuideMouseReasonListItem key={reason.emphasis} reason={reason} />
                 ))}
               </ul>
             </div>
@@ -617,16 +630,9 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
                 {GUIDE_MOUSE_PRO_G502.heading}
               </h4>
 
-              <ul className="space-y-2 text-[11px] leading-relaxed text-foreground/90 sm:space-y-2.5 sm:text-xs md:text-sm">
+              <ul className={guideProductReasonListClassName}>
                 {GUIDE_MOUSE_PRO_G502.reasons.map((reason) => (
-                  <li key={reason.emphasis} className="flex items-start gap-2">
-                    <span className="shrink-0 text-primary" aria-hidden>
-                      ✔
-                    </span>
-                    <span>
-                      <strong>{reason.emphasis}</strong> {reason.text}
-                    </span>
-                  </li>
+                  <GuideMouseReasonListItem key={reason.emphasis} reason={reason} />
                 ))}
               </ul>
             </div>
@@ -716,16 +722,9 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
                 {GUIDE_MOUSE_OFFICE_TECKNET.heading}
               </h4>
 
-              <ul className="space-y-2 text-[11px] leading-relaxed text-foreground/90 sm:space-y-2.5 sm:text-xs md:text-sm">
+              <ul className={guideProductReasonListClassName}>
                 {GUIDE_MOUSE_OFFICE_TECKNET.reasons.map((reason) => (
-                  <li key={reason.emphasis} className="flex items-start gap-2">
-                    <span className="shrink-0 text-primary" aria-hidden>
-                      ✔
-                    </span>
-                    <span>
-                      <strong>{reason.emphasis}</strong> {reason.text}
-                    </span>
-                  </li>
+                  <GuideMouseReasonListItem key={reason.emphasis} reason={reason} />
                 ))}
               </ul>
             </div>
@@ -808,16 +807,9 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
                 {GUIDE_MOUSE_OFFICE_M750.heading}
               </h4>
 
-              <ul className="space-y-2 text-[11px] leading-relaxed text-foreground/90 sm:space-y-2.5 sm:text-xs md:text-sm">
+              <ul className={guideProductReasonListClassName}>
                 {GUIDE_MOUSE_OFFICE_M750.reasons.map((reason) => (
-                  <li key={reason.emphasis} className="flex items-start gap-2">
-                    <span className="shrink-0 text-primary" aria-hidden>
-                      ✔
-                    </span>
-                    <span>
-                      <strong>{reason.emphasis}</strong> {reason.text}
-                    </span>
-                  </li>
+                  <GuideMouseReasonListItem key={reason.emphasis} reason={reason} />
                 ))}
               </ul>
             </div>
@@ -903,16 +895,9 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
                 {GUIDE_MOUSE_OFFICE_MX_MASTER_3S.heading}
               </h4>
 
-              <ul className="space-y-2 text-[11px] leading-relaxed text-foreground/90 sm:space-y-2.5 sm:text-xs md:text-sm">
+              <ul className={guideProductReasonListClassName}>
                 {GUIDE_MOUSE_OFFICE_MX_MASTER_3S.reasons.map((reason) => (
-                  <li key={reason.emphasis} className="flex items-start gap-2">
-                    <span className="shrink-0 text-primary" aria-hidden>
-                      ✔
-                    </span>
-                    <span>
-                      <strong>{reason.emphasis}</strong> {reason.text}
-                    </span>
-                  </li>
+                  <GuideMouseReasonListItem key={reason.emphasis} reason={reason} />
                 ))}
               </ul>
             </div>
