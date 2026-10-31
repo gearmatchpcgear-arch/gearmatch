@@ -30,10 +30,12 @@ import {
 } from "@/components/guide-recommendations-layout"
 import {
   guideProductReasonBodyClassName,
+  guideProductReasonCheckMarkClassName,
   guideProductReasonEmphasisClassName,
   guideProductReasonHeadingClassName,
   guideProductReasonItemClassName,
   guideProductReasonListClassName,
+  guideProductReasonListRowClassName,
   guideProductReasonTextClassName,
   guideProductSpecRowClassName,
   guideProductSpecValueClassName,
@@ -56,8 +58,8 @@ function GuideRecommendationReasonListItem({
 }) {
   return (
     <li className={guideProductReasonItemClassName}>
-      <div className="flex items-start gap-2">
-        <span className="mt-0.5 shrink-0 text-primary" aria-hidden>
+      <div className={guideProductReasonListRowClassName}>
+        <span className={guideProductReasonCheckMarkClassName} aria-hidden>
           ✔
         </span>
         <div className={guideProductReasonTextClassName}>
@@ -197,8 +199,11 @@ export function GuideRecommendationCard({
                 "border-t border-slate-200 pt-3 text-amber-700 dark:text-amber-400",
               )}
             >
-              <div className="flex items-start gap-2">
-                <span className="mt-0.5 shrink-0 font-bold" aria-hidden>
+              <div className={guideProductReasonListRowClassName}>
+                <span
+                  className="mt-[0.2em] shrink-0 text-[10px] leading-none sm:mt-0.5 sm:text-[11px]"
+                  aria-hidden
+                >
                   ⚠️
                 </span>
                 <div className={guideProductReasonTextClassName}>

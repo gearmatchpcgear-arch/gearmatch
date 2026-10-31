@@ -39,6 +39,17 @@ export const guideProductReasonListClassName =
 
 export const guideProductReasonItemClassName = "min-w-0"
 
+/** 選定理由リスト行（チェック＋本文） */
+export const guideProductReasonListRowClassName = "flex items-start gap-1.5 sm:gap-2"
+
+/** ✔ 文字（本文より一段小さく、落ち着いた緑） */
+export const guideProductReasonCheckMarkClassName =
+  "mt-[0.2em] shrink-0 text-[10px] font-normal leading-none text-emerald-600 sm:mt-0.5 sm:text-[11px] md:text-xs"
+
+/** Lucide 等のチェックアイコン */
+export const guideProductReasonCheckIconClassName =
+  "mt-[0.2em] size-3 shrink-0 text-emerald-600 sm:mt-0.5 sm:size-3.5"
+
 export const guideProductReasonTextClassName =
   "min-w-0 flex-1 whitespace-normal break-normal leading-relaxed text-foreground/90 [line-break:strict] [overflow-wrap:break-word] [word-break:auto-phrase] [text-wrap:wrap] text-[11px] sm:text-xs md:text-sm"
 

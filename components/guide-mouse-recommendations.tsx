@@ -40,10 +40,13 @@ import {
   guideProductMetaLineClassName,
   guideProductPriceSlotClassName,
   guideProductReasonBodyClassName,
+  guideProductReasonCheckIconClassName,
+  guideProductReasonCheckMarkClassName,
   guideProductReasonEmphasisClassName,
   guideProductReasonHeadingClassName,
   guideProductReasonItemClassName,
   guideProductReasonListClassName,
+  guideProductReasonListRowClassName,
   guideProductReasonTextClassName,
   guideProductShopButtonSlotClassName,
   guideProductSpecRowClassName,
@@ -74,11 +77,11 @@ function GuideMouseReasonListItem({
   if (typeof reason === "string") {
     return (
       <li className={guideProductReasonItemClassName}>
-        <div className="flex items-start gap-2">
+        <div className={guideProductReasonListRowClassName}>
           {variant === "circle" ? (
-            <CheckCircle2 className="mt-0.5 size-4 shrink-0 text-green-500" aria-hidden />
+            <CheckCircle2 className={guideProductReasonCheckIconClassName} aria-hidden />
           ) : (
-            <span className="mt-0.5 shrink-0 text-primary" aria-hidden>
+            <span className={guideProductReasonCheckMarkClassName} aria-hidden>
               ✔
             </span>
           )}
@@ -90,11 +93,11 @@ function GuideMouseReasonListItem({
 
   return (
     <li className={guideProductReasonItemClassName}>
-      <div className="flex items-start gap-2">
+      <div className={guideProductReasonListRowClassName}>
         {variant === "circle" ? (
-          <CheckCircle2 className="mt-0.5 size-4 shrink-0 text-green-500" aria-hidden />
+          <CheckCircle2 className={guideProductReasonCheckIconClassName} aria-hidden />
         ) : (
-          <span className="mt-0.5 shrink-0 text-primary" aria-hidden>
+          <span className={guideProductReasonCheckMarkClassName} aria-hidden>
             ✔
           </span>
         )}
