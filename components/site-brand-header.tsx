@@ -43,14 +43,6 @@ export function SiteBrandHeader({ children, className, topSlot }: SiteBrandHeade
               <p className="mt-0.5 text-[11px] leading-snug text-zinc-600 sm:text-xs">{SITE_HEADER_SUBLINE}</p>
             </div>
           </div>
-          <a
-            href="https://v0.app"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="hidden shrink-0 rounded-md border border-zinc-400/50 bg-zinc-300/80 px-2.5 py-1 font-mono text-xs font-bold text-zinc-800 shadow-inner transition-colors hover:bg-zinc-300 sm:inline"
-          >
-            v0.app
-          </a>
         </div>
         {children ? <div className="mt-4">{children}</div> : null}
       </div>

@@ -263,7 +263,7 @@ export const GadgetCard = memo(function GadgetCard({
             <div className={cn(cardBodyClassName, "border-t border-slate-100 px-3.5 pt-2 pb-1")}>
               <h3 className={cn(titleClassName, "min-w-0")}>{displayGadget.name}</h3>
             </div>
-            <div className="flex items-center justify-between gap-2 px-3.5 pb-2.5 pt-0.5">
+            <div className="flex items-center justify-between gap-2 px-3.5 pt-0.5">
               {priceBlock ? (
                 <div className={cn(cardBodyClassName, "min-w-0 shrink")}>{priceBlock}</div>
               ) : (

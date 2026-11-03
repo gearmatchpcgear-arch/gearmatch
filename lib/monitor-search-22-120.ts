@@ -2188,7 +2188,7 @@ export const monitorSearch22120: Gadget[] = [{
     price: 35332,
     rating: 5,
     reviews: 18,
-    image: "https://m.media-amazon.com/images/I/81Bg1AagNeL._AC_SL1500_.jpg",
+    image: "https://m.media-amazon.com/images/I/41OAC6ucdJL._SL500_.jpg",
     connection: "DisplayPort / HDMI / VGA",
     purchaseUrl: "https://www.amazon.co.jp/dp/B0HB7KMR5F",
     monitorFilterTags: ["size-238","res-fhd","refresh-100","port-hdmi","port-dp","vesa-100","panel-ips-matte"],

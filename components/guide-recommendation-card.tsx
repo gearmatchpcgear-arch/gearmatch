@@ -1,7 +1,7 @@
 "use client"
 
 import { useMemo } from "react"
-import { ShopLink, SHOP_LINK_LABEL } from "@/components/shop-link"
+import { ShopLink } from "@/components/shop-link"
 import { GuideCardBadge } from "@/components/guide-card-badge"
 import { GuideRecommendationProductSummary } from "@/components/guide-recommendation-product-summary"
 import { ProductImageWithFallback } from "@/components/product-image-with-fallback"
@@ -40,7 +40,7 @@ import {
   guideProductSpecRowClassName,
   guideProductSpecValueClassName,
 } from "@/lib/product-card-layout"
-import { cleanAmazonPurchaseUrl } from "@/lib/amazon-purchase-url"
+import { ProductCommerceDisclaimer } from "@/components/product-commerce-disclaimer"
 import { cn } from "@/lib/utils"
 
 type GuideRecommendationCardProps = {
@@ -164,22 +164,15 @@ export function GuideRecommendationCard({
             )
           }
           shopSlot={
-            gadget ? (
-              pick.purchaseUrl ? (
-                <a
-                  href={cleanAmazonPurchaseUrl(pick.purchaseUrl)}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="inline-flex w-full items-center justify-center gap-1.5 rounded-lg bg-primary px-3 py-2 text-xs font-semibold text-primary-foreground transition-opacity hover:opacity-90 sm:px-4 sm:py-2.5 sm:text-sm"
-                >
-                  {SHOP_LINK_LABEL}
-                </a>
-              ) : (
+            gadget || pick.purchaseUrl ? (
+              <div className="space-y-1.5">
                 <ShopLink
                   gadget={gadget}
+                  purchaseUrl={pick.purchaseUrl}
                   className="inline-flex w-full items-center justify-center gap-1.5 rounded-lg bg-primary px-3 py-2 text-xs font-semibold text-primary-foreground transition-opacity hover:opacity-90 sm:px-4 sm:py-2.5 sm:text-sm"
                 />
-              )
+                <ProductCommerceDisclaimer className="px-0.5" />
+              </div>
             ) : undefined
           }
         />

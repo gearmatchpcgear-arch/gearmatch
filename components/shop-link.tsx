@@ -2,30 +2,41 @@
 
 import { ExternalLink } from "lucide-react"
 import { cn } from "@/lib/utils"
-import { openShopUrl, shopUrl, type Gadget } from "@/lib/gadgets"
+import { openPurchaseUrl, openShopUrl, resolveAffiliatePurchaseUrl, shopUrl, type Gadget } from "@/lib/gadgets"
 
 export const SHOP_LINK_LABEL = "Amazonで見る"
 
 export function ShopLink({
   gadget,
+  purchaseUrl,
   label = SHOP_LINK_LABEL,
   className,
 }: {
-  gadget: Gadget
+  gadget?: Gadget
+  /** gadget 未指定時、またはガイド用の購入URLを直接渡す */
+  purchaseUrl?: string
   label?: string
   className?: string
 }) {
-  const url = shopUrl(gadget)
+  const url = purchaseUrl
+    ? resolveAffiliatePurchaseUrl(purchaseUrl)
+    : gadget
+      ? shopUrl(gadget)
+      : "#"
 
   return (
     <a
       href={url}
       target="_blank"
-      rel="noopener noreferrer"
+      rel="noopener noreferrer sponsored"
       onClick={(e) => {
         e.stopPropagation()
         e.preventDefault()
-        openShopUrl(gadget)
+        if (purchaseUrl) {
+          openPurchaseUrl(purchaseUrl)
+        } else if (gadget) {
+          openShopUrl(gadget)
+        }
       }}
       className={cn(className)}
     >

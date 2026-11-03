@@ -1,3 +1,4 @@
+import { PRODUCT_PRICE_STOCK_DISCLAIMER } from "@/lib/product-commerce"
 import { cn } from "@/lib/utils"
 
 export function SiteDisclaimer({ className }: { className?: string }) {
@@ -13,9 +14,7 @@ export function SiteDisclaimer({ className }: { className?: string }) {
         <li>
           ※当サイトの掲載情報はAIにより自動収集されたデータも含まれているため、実際の情報と異なる場合があります。ご購入の際は必ず各商品ページにて詳細をご確認ください。
         </li>
-        <li>
-          ※当サイトで紹介している商品の価格や在庫状況は、データ取得時点のものであり、変更される場合があります。最新の情報は各販売ページにてご確認ください。
-        </li>
+        <li>{PRODUCT_PRICE_STOCK_DISCLAIMER}</li>
       </ul>
     </aside>
   )

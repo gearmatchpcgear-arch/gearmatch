@@ -1,4 +1,5 @@
-import { cleanAmazonPurchaseUrl } from "./amazon-purchase-url"
+import { buildAffiliatePurchaseUrl } from "./affiliate-purchase-url"
+import { resolveGadgetShopUrlFromGadget } from "./resolve-gadget-shop-url"
 import { mouseBestsellers } from "./mouse-bestsellers"
 import { mouseGamingBestsellers } from "./mouse-gaming-bestsellers"
 import { mouseGamingNewReleases } from "./mouse-gaming-new-releases"
@@ -236,8 +237,10 @@ export type Gadget = {
   highlights: { label: string; value: string }[]
   compat: CompatTag[]
   specGroups: SpecGroup[]
-  /** 商品ページURL（Amazon等） */
+  /** 商品ページURL（Amazon等・ASINリンク） */
   purchaseUrl: string
+  /** もしもかんたんリンク等、トラッキング済みURL（指定時は purchaseUrl より優先） */
+  affiliatePurchaseUrl?: string
   /** マウス用途（gaming = ゲーミング / productivity = ビジネス・作業用） */
   mouseUsage?: MouseUsage
   /** マウス絞り込み用タグ（未指定時は名称・スペックから推論） */
@@ -2674,16 +2677,26 @@ export function getMicTypeLabel(gadget: Gadget) {
   return raw ? normalizeMicTypeDisplay(raw) : null
 }
 
-/** 商品ページ URL（Amazon は /dp/ASIN 形式） */
+/** 商品ページ URL（もしも計測 / かんたんリンク / 個別 override） */
 export function shopUrl(gadget: Gadget) {
-  return cleanAmazonPurchaseUrl(gadget.purchaseUrl)
+  return resolveGadgetShopUrlFromGadget(gadget)
+}
+
+/** 任意の購入URLをアフィリエイト用に解決（ガイドカード等） */
+export function resolveAffiliatePurchaseUrl(url: string) {
+  return buildAffiliatePurchaseUrl(url)
 }
 
 /** 販売サイトを新しいタブで開く（埋め込みブラウザでも確実に遷移） */
+export function openPurchaseUrl(url: string) {
+  const resolved = buildAffiliatePurchaseUrl(url.trim())
+  if (!resolved) return
+  window.open(resolved, "_blank", "noopener,noreferrer")
+}
+
 export function openShopUrl(gadget: Gadget) {
-  const url = shopUrl(gadget)
-  if (!url) return
-  window.open(url, "_blank", "noopener,noreferrer")
+  const raw = gadget.affiliatePurchaseUrl?.trim() || gadget.purchaseUrl
+  openPurchaseUrl(raw)
 }
 
 /** フィルター前の全ガジェット（メンテナンススクリプト用） */

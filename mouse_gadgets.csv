@@ -1,4 +1,4 @@
-id,brand,name,fullTitle,重量,電源,読み取り方式,ボタン数,接続方式
+﻿id,brand,name,fullTitle,重量,電源,読み取り方式,ボタン数,接続方式
 m-nr2-005,—,【驚きのスリム＆Type-C 充電式 】マウス 無線 Bluetooth 5.4 静音 小型 ワイヤレスマウス 2.4GHz 3段階DPI…,【驚きのスリム＆Type-C 充電式 】マウス 無線 Bluetooth 5.4 静音 小型 ワイヤレスマウス 2.4GHz 3段階DPI切替 省エネ 瞬時接続 7色ライト付き 小型 光学式 高耐久性 Mac/Windows/Surface/パソコン/Mac 対応,60 g,充電式,—,3ボタン,2.4GHz (USBレシーバー) / Bluetooth
 m-bs-008,—,【極薄型モデル＆Type-C充電式】マウス 無線 Bluetooth 5.2 ワイヤレスマウス 静音 瞬時接続 小型 高感度 ブルートゥー…,【極薄型モデル＆Type-C充電式】マウス 無線 Bluetooth 5.2 ワイヤレスマウス 静音 瞬時接続 小型 高感度 ブルートゥー…,100 g,充電式,—,3ボタン,2.4GHz (USBレシーバー) / Bluetooth
 m-nr2-014,—,AJL ワイヤレスマウス,マウス 無線 bluetooth 5.2 + 2.4GHz ワイヤレスマウス Type-C充電式 戻る/進むボタン搭載 3段階DPI切替 ゲーミングマウス 瞬時接続 光学式 高感度 高耐久性 握りの極み デュアルモード オフィス ゲーミング,120 g,単4形 乾電池（付属）,—,5ボタン,2.4GHz (USBレシーバー) / Bluetooth
@@ -29,7 +29,6 @@ m-bs-047,—,INPHIC ワイヤレスマウス,INPHIC ワイヤレスマウス、�
 m-bs-073,—,KKNHS ワイヤレス静音マウス,Bluetooth 5.2 2.4GHz Type-C 充電 パソコンマウス 無線マウス 3段階DPI切替 800/1200/1600 ワイヤレス ブルートゥース 光学式 高精度 高感度 滑らかな動作 握りやす 携帯便利,80 g,充電式,—,3ボタン,2.4GHz (USBレシーバー) / Bluetooth
 m-pb-224,—,"M170 Wireless Mouse, 2.4 GHz with USB Mini Receiver, Optical ng, 12-M…","M170 Wireless Mouse, 2.4 GHz with USB Mini Receiver, Optical ng, 12-Months Battery Life, Ambidetrous PC/Mac/Laptop - Rose",80 g,単3形 乾電池（付属）,—,3ボタン,2.4GHz (USBレシーバー)
 m-pb-142,—,"M190 Mouse Wireless, Design | フルサイズ両手利きカーブマウス、18ヶ月バッテリー、USBレシーバー、正確なコ…","M190 Mouse Wireless, Design | フルサイズ両手利きカーブマウス、18ヶ月バッテリー、USBレシーバー、正確なコントロール、ワイドホイール、スクープボタン - レッド",70 g,電池式（単3形乾電池 1本）,—,3ボタン,2.4GHz (USBレシーバー)
-m-pb-180,—,"M220 Mouse Wireless, 2,4 GHz","M220 Mouse Wireless, 2,4 GHz",75 g,単3形 乾電池（付属）,—,3ボタン,2.4GHz (USBレシーバー)
 m-pb-019,—,m325 wireless mouse,m325 wireless mouse,93 g,充電式,—,5ボタン,2.4GHz (USBレシーバー)
 m-nr2-009,—,MAKOTOYAワイヤレス静音超薄型マウス,マウス 無線 超薄型 高精度 高感度 ワイヤレスマウス 静音 3段階DPI切替 Type-C 充電式 省エネ 2.4GHz Bluetooth 5.0 節電モデル 瞬時接続 7色ライト付き 小型 光学式 高精度 左右対称 SEIYES,70 g,充電式,—,3ボタン,2.4GHz (USBレシーバー) / Bluetooth
 m-pb-077,—,Mouse M100 / black USB,Mouse M100 / black USB,100 g,有線給電,—,3ボタン,有線 USB
@@ -77,7 +76,6 @@ m-pb-195,—,ソニー(VAIO)  VGP-BMS33/RJ,ソニー(VAIO) Bluetooth レーザ�
 m-pb-165,—,バーベイタム Optical Mini Travel Mouse,バーベイタム Optical Mini Travel Mouse,44 g,有線給電,—,2ボタン,有線 USB
 m-pb-082,—,ヒューレット・パッカード Mouse Laser 3-Button USB,ヒューレット・パッカード Mouse Laser 3-Button USB,102 g,有線給電,—,3ボタン,有線 USB
 m-pb-108,—,ロジテック  M705 並行輸入品 [並行輸入品],ロジテック ワイヤレス・マラソン・マウス M705 並行輸入品 [並行輸入品],135 g,単3形 乾電池（付属）,—,3ボタン,2.4GHz (USBレシーバー)
-m-pb-086,—,"ロジテック Wireless Mouse M705 Silver, WE","ロジテック Wireless Mouse M705 Silver, WE",136 g,単4形 乾電池（付属）,—,7ボタン,2.4GHz (USBレシーバー)
 m-nr2-018,—,ワイヤレスマウス,ワイヤレスマウス Bluetooth 2.4GHz両対応 高精度センサー 静音クリック 3段階DPI 軽量 コンパクト RGB呼吸ライト USBレシーバー収納 長時間使用 Type-C充電 日本語取扱説明書,94 g,充電式,—,3ボタン,2.4GHz (USBレシーバー) / Bluetooth
 m-nr-020,—,ワイヤレスマウス超薄型＆Type-C充電式,マウス 無線 ワイヤレスマウス超薄型＆Type-C充電式bluetooth 高精度 高感度 静音 3段階DPI切替 2.4GHz 小型 光学式 左右対称 ブルートゥース コンパクト 軽量 握りやすい 簡単接続 持ち運び便利,63 g,充電式,—,3ボタン,2.4GHz (USBレシーバー) / Bluetooth
 m-nr-004,—,縦型ワイヤレスマウス 充電式 【2026 強化版 】Bluetoothマウス エルゴノミクスマウス 6 ボタン搭載 高精度 800/120…,縦型ワイヤレスマウス 充電式 【2026 強化版 】Bluetoothマウス エルゴノミクスマウス 6 ボタン搭載 高精度 800/1200/1600DPI 切替 2.4G 無線光学式 手首・肩の疲れ緩和 省電力スリープ機能付き USB 充電ケーブル付属 Windows、M…,140 g,充電式,—,6ボタン,2.4GHz (USBレシーバー)
@@ -214,7 +212,6 @@ m-pb-201,Logicool,"Logitech &quot;M280 Mouse, Wireless&quot;","Logitech &quot;M2
 m-pb-167,Logicool,Logitech Bluetooth Mouse M557 - Mouse - right and left-handed - optic…,Logitech Bluetooth Mouse M557 - Mouse - right and left-handed - optical - wireless - Bluetooth - dark gray,26 g,充電式,—,2ボタン,Bluetooth
 m-pb-089,Logicool,Logitech Click! Optical Mouse - Blue/Silver,Logitech Click! Optical Mouse - Blue/Silver,26 g,有線給電,—,3ボタン,有線 USB
 m-pb-196,Logicool,Logitech Design Collection Limited Edition Wireless Mouse,Logitech Design Collection Limited Edition Wireless Mouse,26 g,単3形 乾電池（付属）,—,3ボタン,2.4GHz (USBレシーバー)
-m-pb-149,Logicool,Logitech Doodle Collection M325c - マウス - 光学式 - 5ボタン - ワイヤレス - 2.4 GHz…,Logitech Doodle Collection M325c - マウス - 光学式 - 5ボタン - ワイヤレス - 2.4 GHz - USBワイヤレスレシーバー - Twinkle Teal,—,電池式（単3形乾電池 1本）,—,5ボタン,2.4GHz (USBレシーバー)
 m-pb-098,Logicool,Logitech Ergo M575 Wireless Trackball Mouse for Business - Ergonomic …,Logitech Ergo M575 Wireless Trackball Mouse for Business - Ergonomic Design Secure Logi Bolt Technology Bluetooth Global Certified Window…,—,充電式,—,5ボタン,2.4GHz (USBレシーバー) / Bluetooth
 m-pb-193,Logicool,Logitech ERGO M575SP,Logitech 静音 ワイヤレス トラックボール マウス ERGO M575SP Bluetooth Logi Bolt 無線 Windows Mac iPad OS Chrome トラックボールマウス ブラック M575 M575S ロジテック [海外パッケージ品],145 g,単3形 乾電池（付属）,—,5ボタン,2.4GHz (USBレシーバー) / Bluetooth
 m-pb-014,Logicool,Logitech LX3 Optical Mouse,Logitech LX3 Optical Mouse,—,有線給電,—,3ボタン,有線 USB
@@ -364,7 +361,6 @@ m-gp3-018,Razer,Naga V2 Pro,Razer(レイザー) ゲーミングマウス Naga V2
 m-gnr-006,Razer,Orochi V2,【Amazon.co.jp限定】 Razer Orochi V2 ゲーミングマウス ワイヤレス HyperSpeed Bluetooth 2つの無線モード 5G 高性能 18000 DPI オプティカルセンサー,60 g,充電式,—,6ボタン,2.4GHz (USBレシーバー) / Bluetooth
 m-pb-123,Razer,Razer Basilisk V3,【Amazon.co.jp限定】 Razer Orochi V2 ゲーミングマウス ワイヤレス HyperSpeed Bluetooth 2つの無線モード 5G 高性能 18000 DPI オプティカルセンサー,101 g,有線給電,—,11ボタン,有線 USB
 m-pb-055,Razer,Razer Cobra - Lightweight Wired Gaming Mouse Razer Chroma RGB - Pokem…,Razer Cobra - Lightweight Wired Gaming Mouse Razer Chroma RGB - Pokemon Kanto Edition,58 g,有線給電,—,6ボタン,有線 USB
-m-pb-105,Razer,Razer Cobra Gengar Edition - Lightweight Wired Gaming Mouse - 8500 DP…,Razer Cobra Gengar Edition - Lightweight Wired Gaming Mouse - 8500 DPI Sensor - 58g - 3rd Generation Optical Mouse Switch - Chroma Lighti…,58 g,有線給電,—,6ボタン,有線 USB
 m-pb-124,Razer,Razer Cobra Minecraft Edition - Lightweight Wired Gaming Mouse - 8500…,"Razer Cobra Minecraft Edition - Lightweight Wired Gaming Mouse - 8500 DPI Sensor (58g, Optical Mouse Switch, 3rd Generation, Chroma Light…",58 g,有線給電,—,6ボタン,有線 USB
 m-pb-126,Razer,Razer Cobra RGB DPI 8500 Mouse - RZ0104650100R3U,Razer Cobra RGB DPI 8500 Mouse - RZ0104650100R3U,158 g,有線給電,—,5ボタン,有線 USB
 m-pb-066,Razer,Razer DeathAdder Elite Gaming Mouse (eSports Mouse with Chroma Multi-…,"Razer DeathAdder Elite Gaming Mouse (eSports Mouse with Chroma Multi-Color, 16,000 DPI Sensor and Razer Mechanical Mouse Switch)",130 g,充電式,—,7ボタン,有線 USB

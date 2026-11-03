@@ -65,14 +65,6 @@ export function SiteHeader({ query, onQueryChange, className }: SiteHeaderProps)
             className="flex shrink-0 items-center gap-1 sm:gap-2"
             aria-label="サイトメニュー"
           >
-            <a
-              href="https://v0.app"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="rounded-md border border-zinc-400/50 bg-zinc-300/80 px-2.5 py-1 font-mono text-xs font-bold text-zinc-800 shadow-inner transition-colors hover:bg-zinc-300"
-            >
-              v0.app
-            </a>
             <button
               type="button"
               className="inline-flex items-center gap-1.5 rounded-lg px-3 py-2 text-sm font-semibold text-zinc-700 transition-colors hover:bg-zinc-300/80 hover:text-zinc-900"

@@ -26,10 +26,18 @@ export const CONTACT_EMAIL =
 export const SITE_OPERATOR_NAME = "松本展明"
 
 /**
- * Amazon 審査中は true（商品画像を非表示）。審査通過後は false に戻す。
+ * true のとき商品画像を非表示（Amazon 審査用など）。
+ * 通常は CDN（Amazon 等）の URL を img の src に直接指定して表示する。
  * 環境変数 `NEXT_PUBLIC_HIDE_PRODUCT_IMAGES`（true/false）で上書き可能。
  */
-export const HIDE_PRODUCT_IMAGES_FOR_REVIEW = true
+export const HIDE_PRODUCT_IMAGES_FOR_REVIEW = false
 
 export const AMAZON_ASSOCIATE_DISCLOSURE =
   "PC GearMatch は、Amazon.co.jpを宣伝しリンクすることによってサイトが紹介料を獲得できる手段を提供することを目的に設定されたアフィリエイトプログラムである、Amazonアソシエイト・プログラムの参加者です。"
+
+/**
+ * アフィリエイト購入リンク:
+ * - 既定: `data/moshimo-affiliate-config.json`（Amazon a_id 5842375 等）
+ * - `NEXT_PUBLIC_MOSHIMO_A_ID` … a_id の上書き
+ * - `NEXT_PUBLIC_AMAZON_ASSOCIATE_TAG` … もしも無効時のみ Amazon タグ
+ */

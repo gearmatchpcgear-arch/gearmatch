@@ -1,9 +1,10 @@
 "use client"
 
-import { useEffect } from "react"
+import { useEffect, useState } from "react"
 import { cn } from "@/lib/utils"
 import { X, Star, Cable } from "lucide-react"
 import { GadgetImage } from "@/components/gadget-image"
+import { ProductCommerceDisclaimer } from "@/components/product-commerce-disclaimer"
 import { ShopLink } from "@/components/shop-link"
 import { areProductImagesHiddenForReview } from "@/lib/product-images-display"
 import {
@@ -58,6 +59,19 @@ export function GadgetDetail({
   gadget: Gadget | null
   onClose: () => void
 }) {
+  const [isLgLayout, setIsLgLayout] = useState(() => {
+    if (typeof window === "undefined") return false
+    return window.matchMedia("(min-width: 1024px)").matches
+  })
+
+  useEffect(() => {
+    const media = window.matchMedia("(min-width: 1024px)")
+    const sync = () => setIsLgLayout(media.matches)
+    sync()
+    media.addEventListener("change", sync)
+    return () => media.removeEventListener("change", sync)
+  }, [])
+
   useEffect(() => {
     if (!gadget) return
     const onKey = (e: KeyboardEvent) => {
@@ -142,6 +156,8 @@ export function GadgetDetail({
     </span>
   ) : null
 
+  const showDetailProductImage = !hideImages
+
   const shopLinkButton = (
     <ShopLink
       gadget={gadget}
@@ -149,12 +165,15 @@ export function GadgetDetail({
     />
   )
 
+  const purchaseLinksSection = shopLinkButton
+
   const priceShopBlock = (
     <div className="space-y-3 border-t border-border/50 pt-4 lg:mt-auto lg:pt-5">
       {priceDisplay ? (
         <div className="flex flex-wrap items-baseline gap-x-2 gap-y-1">{priceDisplay}</div>
       ) : null}
-      {shopLinkButton}
+      {isLgLayout ? purchaseLinksSection : null}
+      <ProductCommerceDisclaimer />
     </div>
   )
 
@@ -287,7 +306,7 @@ export function GadgetDetail({
 
         <div className="min-h-0 flex-1 overflow-x-hidden overflow-y-auto overscroll-contain">
           <div className="lg:hidden">
-            {!hideImages ? (
+            {showDetailProductImage ? (
               <div className="relative flex h-72 w-full max-h-[40vh] items-center justify-center bg-slate-50">
                 <GadgetImage
                   key={`${gadget.id}-mobile-hero`}
@@ -348,7 +367,7 @@ export function GadgetDetail({
                 >
                   戻る
                 </button>
-                <div className="min-w-0 flex-1">{shopLinkButton}</div>
+                <div className="min-w-0 flex-1">{purchaseLinksSection}</div>
               </div>
 
               {detailHighlights.length > 0 ? (
@@ -362,13 +381,20 @@ export function GadgetDetail({
               {connectionBlock}
               {descriptionSection}
               {detailSpecSections}
+
+              {!isLgLayout ? (
+                <div className="space-y-2 border-t border-border/50 pt-5">
+                  {shopLinkButton}
+                  <ProductCommerceDisclaimer />
+                </div>
+              ) : null}
             </div>
           </div>
 
           <div className="hidden min-w-0 flex-col lg:flex lg:flex-row">
             {/* 左カラム: 画像・価格・主要スペック（デスクトップ） */}
             <div className="hidden min-w-0 shrink-0 flex-col border-b border-border/50 lg:flex lg:w-[min(340px,38%)] lg:border-b-0 lg:border-r">
-              {!hideImages ? (
+              {showDetailProductImage ? (
                 <div className="relative aspect-[5/4] w-full max-h-[min(36vh,320px)] overflow-hidden bg-gradient-to-b from-secondary/50 to-card">
                   <GadgetImage
                     key={gadget.id}

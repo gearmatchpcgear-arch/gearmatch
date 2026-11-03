@@ -116,10 +116,11 @@ export function getProductImageCandidates(
   if (src && isValidProductImage(src)) {
     const normalized = normalizeProductImageSrc(src)
     if (isLocalProductImage(normalized)) {
-      candidates.push(normalized)
       const amazonMirror = LOCAL_PRODUCT_IMAGE_AMAZON_FALLBACK[normalized]
       if (amazonMirror) {
         candidates.push(...getAmazonImageFallbacks(amazonMirror))
+      } else {
+        candidates.push(normalized)
       }
     } else {
       candidates.push(...getAmazonImageFallbacks(normalized))
@@ -129,7 +130,12 @@ export function getProductImageCandidates(
   for (const fallback of extraFallbacks) {
     if (!fallback) continue
     if (isLocalProductImage(fallback)) {
-      candidates.push(fallback)
+      const amazonMirror = LOCAL_PRODUCT_IMAGE_AMAZON_FALLBACK[normalizeProductImageSrc(fallback)]
+      if (amazonMirror) {
+        candidates.push(...getAmazonImageFallbacks(amazonMirror))
+      } else {
+        candidates.push(normalizeProductImageSrc(fallback))
+      }
     } else if (isValidProductImage(fallback)) {
       candidates.push(...getAmazonImageFallbacks(fallback))
     }
