@@ -1,9 +1,9 @@
-import { HIDE_PRODUCT_IMAGES_FOR_REVIEW } from "./site-config"
-
-/** 審査用に商品画像を出さないとき true */
+/**
+ * 商品画像の表示制御。
+ * 本番は既定で表示。Amazon 審査などで非表示にする場合のみ
+ * ビルド時に `NEXT_PUBLIC_HIDE_PRODUCT_IMAGES=true` を明示する。
+ */
 export function areProductImagesHiddenForReview(): boolean {
   const env = process.env.NEXT_PUBLIC_HIDE_PRODUCT_IMAGES?.trim().toLowerCase()
-  if (env === "true" || env === "1") return true
-  if (env === "false" || env === "0") return false
-  return HIDE_PRODUCT_IMAGES_FOR_REVIEW
+  return env === "true" || env === "1"
 }
