@@ -2,6 +2,7 @@
 
 import type { ReactNode } from "react"
 import { areProductImagesHiddenForReview } from "@/lib/product-images-display"
+import { guideRecommendationsImageFitClassName } from "@/lib/guide-recommendation-shell"
 import { cn } from "@/lib/utils"
 
 type GuideRecommendationImageBlockProps = {
@@ -22,5 +23,10 @@ export function GuideRecommendationImageBlock({
     return badge ? <div className="mb-2">{badge}</div> : null
   }
 
-  return <div className={cn(className)}>{badge}{children}</div>
+  return (
+    <div className={cn("relative min-w-0 max-w-full", className)}>
+      {badge}
+      <div className={guideRecommendationsImageFitClassName}>{children}</div>
+    </div>
+  )
 }

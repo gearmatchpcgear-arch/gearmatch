@@ -12,6 +12,7 @@ import {
   guideRecommendationsInnerInsetClassName,
   guideRecommendationsHeroImageClassName,
   guideRecommendationsCardImageClassName,
+  guideRecommendationsImageFitClassName,
   guideRecommendationsMidGridInnerClassName,
   guideRecommendationsProductColumnClassName,
   guideRecommendationsProductSummaryClassName,
@@ -28,6 +29,7 @@ export {
   guideRecommendationsInnerInsetClassName,
   guideRecommendationsHeroImageClassName,
   guideRecommendationsCardImageClassName,
+  guideRecommendationsImageFitClassName,
   guideRecommendationsMidGridInnerClassName,
   guideRecommendationsProductColumnClassName,
   guideRecommendationsProductSummaryClassName,
@@ -108,7 +110,7 @@ export function GuideRecommendationsHeader({
   subtitle = guideRecommendationsDefaultSubtitle,
 }: GuideRecommendationsHeaderProps) {
   return (
-    <div className="mb-5 flex min-w-0 flex-col gap-2 sm:mb-6 sm:flex-row sm:flex-wrap sm:items-start sm:justify-between sm:gap-3">
+    <div className="mb-3 flex min-w-0 flex-col gap-1.5 sm:mb-6 sm:gap-2 sm:flex-row sm:flex-wrap sm:items-start sm:justify-between sm:gap-3">
       <div className="min-w-0 max-w-full flex-1">
         <h2 className="flex min-w-0 items-start gap-1.5 text-base font-bold leading-snug text-foreground sm:items-center sm:gap-2 sm:text-lg md:text-xl">
           <Sparkles className="mt-0.5 size-4 shrink-0 text-primary sm:mt-0 sm:size-5" aria-hidden />
@@ -174,7 +176,7 @@ export function GuideRecommendationsTabs({
 }: GuideRecommendationsTabsProps) {
   return (
     <div
-      className="mb-6 flex w-full min-w-0 max-w-full flex-col gap-2 sm:mb-8 sm:flex-row sm:flex-wrap sm:gap-2"
+      className="mb-4 flex w-full min-w-0 max-w-full flex-col gap-2 sm:mb-8 sm:flex-row sm:flex-wrap sm:gap-2"
       role="tablist"
       aria-label="おすすめの用途"
     >
@@ -185,7 +187,7 @@ export function GuideRecommendationsTabs({
             key={tab.id}
             id={`guide-tab-${tab.id}`}
             href={buildGuideRecommendationTabHref(tabHrefBase, tab.id)}
-            scroll
+            scroll={false}
             role="tab"
             aria-selected={active}
             aria-controls={GUIDE_RECOMMENDATIONS_PANEL_ID}
@@ -204,9 +206,9 @@ export function GuideRecommendationsTabs({
 }
 
 export function GuideRecommendationsListTitle({ children }: { children: React.ReactNode }) {
-  return <h3 className="mb-4 text-sm font-bold text-foreground sm:mb-6 sm:text-base">{children}</h3>
+  return <h3 className="mb-3 text-sm font-bold text-foreground sm:mb-6 sm:text-base">{children}</h3>
 }
 
 export function GuideRecommendationsCardStack({ children }: { children: React.ReactNode }) {
-  return <div className="space-y-6 sm:space-y-8">{children}</div>
+  return <div className="space-y-5 sm:space-y-8">{children}</div>
 }

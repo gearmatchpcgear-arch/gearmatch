@@ -304,6 +304,15 @@ export function GadgetDetail({
           </div>
         </header>
 
+        <button
+          type="button"
+          onClick={onClose}
+          aria-label="閉じる"
+          className="lg:hidden fixed right-3 top-3 z-[60] inline-flex size-10 items-center justify-center rounded-full bg-black/45 p-2 text-white shadow-md backdrop-blur-sm transition-colors hover:bg-black/60 supports-[padding:max(0px)]:top-[max(0.75rem,env(safe-area-inset-top))] supports-[padding:max(0px)]:right-[max(0.75rem,env(safe-area-inset-right))]"
+        >
+          <X className="size-5" aria-hidden />
+        </button>
+
         <div className="min-h-0 flex-1 overflow-x-hidden overflow-y-auto overscroll-contain">
           <div className="lg:hidden">
             {showDetailProductImage ? (
@@ -322,27 +331,8 @@ export function GadgetDetail({
                     {displayBadge}
                   </span>
                 ) : null}
-                <button
-                  type="button"
-                  onClick={onClose}
-                  aria-label="閉じる"
-                  className="absolute right-3 top-3 z-10 inline-flex size-10 items-center justify-center rounded-full bg-black/40 p-2 text-white shadow-md backdrop-blur-sm transition-colors hover:bg-black/55"
-                >
-                  <X className="size-5" aria-hidden />
-                </button>
               </div>
-            ) : (
-              <div className="flex justify-end border-b border-border/50 p-3">
-                <button
-                  type="button"
-                  onClick={onClose}
-                  aria-label="閉じる"
-                  className="inline-flex size-10 items-center justify-center rounded-full bg-secondary text-muted-foreground transition-colors hover:bg-secondary/80 hover:text-foreground"
-                >
-                  <X className="size-5" aria-hidden />
-                </button>
-              </div>
-            )}
+            ) : null}
 
             <div className="space-y-4 p-4 pb-8">
               <div className="min-w-0">
@@ -359,15 +349,9 @@ export function GadgetDetail({
                 {reviewBlock}
               </div>
 
-              <div className="flex flex-col gap-2 sm:flex-row">
-                <button
-                  type="button"
-                  onClick={onClose}
-                  className="inline-flex w-full items-center justify-center rounded-xl border border-border/70 bg-card px-4 py-3 text-sm font-semibold text-foreground shadow-sm transition-colors hover:bg-secondary/60 sm:w-auto sm:min-w-[7rem]"
-                >
-                  戻る
-                </button>
-                <div className="min-w-0 flex-1">{purchaseLinksSection}</div>
+              <div className="space-y-2">
+                {purchaseLinksSection}
+                <ProductCommerceDisclaimer />
               </div>
 
               {detailHighlights.length > 0 ? (
@@ -381,13 +365,6 @@ export function GadgetDetail({
               {connectionBlock}
               {descriptionSection}
               {detailSpecSections}
-
-              {!isLgLayout ? (
-                <div className="space-y-2 border-t border-border/50 pt-5">
-                  {shopLinkButton}
-                  <ProductCommerceDisclaimer />
-                </div>
-              ) : null}
             </div>
           </div>
 

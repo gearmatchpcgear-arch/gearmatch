@@ -194,11 +194,11 @@ export const categories: Category[] = [
   { id: "mouse", label: "マウス" },
   { id: "keyboard", label: "キーボード" },
   { id: "mic", label: "マイク" },
-  { id: "camera", label: "カメラ" },
-  { id: "monitor-arm", label: "モニターアーム" },
   { id: "monitor", label: "モニター" },
   { id: "gaming-chair", label: "ゲーミングチェア" },
-  { id: "audio-interface", label: "オーディオインターフェイス" }]
+  { id: "audio-interface", label: "オーディオインターフェイス" },
+  { id: "camera", label: "カメラ" },
+  { id: "monitor-arm", label: "モニターアーム" }]
 
 export type SpecRow = {
   label: string

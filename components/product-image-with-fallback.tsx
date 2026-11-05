@@ -121,7 +121,7 @@ export function ProductImageWithFallback({
           })
         }}
         className={cn(
-          "relative z-[1] h-full w-full transition-opacity duration-200",
+          "relative z-[1] max-h-full max-w-full object-contain transition-opacity duration-200",
           loaded ? "opacity-100" : "opacity-0",
           className,
         )}

@@ -1,7 +1,7 @@
 /** ガイドページ共通の階層スタイル（Server / Client 両方から import 可） */
 
 export const guideRecommendationsSectionClassName =
-  "mb-8 w-full min-w-0 max-w-full border-none bg-transparent p-0 shadow-none sm:mb-12"
+  "mb-6 w-full min-w-0 max-w-full border-none bg-transparent p-0 shadow-none sm:mb-8 md:mb-12"
 
 export const guideRecommendationsContentShellClassName =
   "min-w-0 w-full max-w-full overflow-x-clip rounded-xl border border-slate-200 bg-white p-3 shadow-sm sm:p-5 md:p-6"
@@ -10,9 +10,9 @@ export const guideRecommendationsContentShellClassName =
 export const guideRecommendationsProductSummaryClassName =
   "min-w-0 max-w-full rounded-lg border border-slate-200 bg-slate-50 p-3 shadow-sm sm:p-4"
 
-/** @deprecated {@link guideRecommendationsProductSummaryClassName} 内の画像用（枠なし） */
+/** おすすめカード内の商品画像枠（バッジは absolute） */
 export const guideRecommendationsImageAreaClassName =
-  "relative overflow-hidden rounded-lg bg-slate-50/80"
+  "relative min-h-0 overflow-hidden rounded-lg bg-gradient-to-b from-slate-50 to-white"
 
 /** @deprecated スペックは {@link guideRecommendationsProductSummaryClassName} 内に統合 */
 export const guideRecommendationsInnerInsetClassName =
@@ -27,13 +27,17 @@ export const guideRecommendationsMidGridInnerClassName =
 
 export const guideRecommendationsProductColumnClassName = "w-full min-w-0 md:col-span-5"
 
-/** マウスガイド等：商品画像エリア（モバイルは高さ上限） */
+/** マウスガイド等：ヒーロー商品画像（幅に連動するアスペクト比で全体を表示） */
 export const guideRecommendationsHeroImageClassName =
-  "relative mb-3 max-h-36 w-full overflow-hidden sm:mb-4 sm:max-h-none sm:aspect-[4/3]"
+  "mb-3 flex aspect-[4/3] w-full max-w-full items-center justify-center p-2 sm:mb-4 sm:p-3"
 
 /** おすすめカード標準：商品サムネ枠 */
 export const guideRecommendationsCardImageClassName =
-  "mb-3 flex h-36 w-full max-w-full shrink-0 items-center justify-center overflow-hidden p-2 sm:mb-3 sm:h-48 sm:p-3"
+  "mb-3 flex aspect-[4/3] w-full max-w-full shrink-0 items-center justify-center p-2 sm:mb-3 sm:aspect-[5/4] sm:p-3"
+
+/** ガイド画像枠内：GadgetImage / ProductImageWithFallback 用 */
+export const guideRecommendationsImageFitClassName =
+  "h-full min-h-0 w-full max-w-full [&_img]:h-auto [&_img]:max-h-full [&_img]:w-auto [&_img]:max-w-full [&_img]:object-contain"
 
 /** 選定理由・解説カラム */
 export const guideRecommendationsReasonColumnClassName =

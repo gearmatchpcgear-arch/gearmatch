@@ -20,7 +20,7 @@ export function GuideNav({ currentCategory, showCategoryTabs = true }: GuideNavP
   const currentLabel = currentCategory ? getGuideCategoryLabel(currentCategory) : null
 
   return (
-    <div className="mb-6 min-w-0 max-w-full space-y-4 border-b border-border/60 pb-4">
+    <div className="mb-4 min-w-0 max-w-full space-y-3 border-b border-border/60 pb-3 sm:mb-6 sm:space-y-4 sm:pb-4">
       <nav aria-label="パンくず">
         <ol className="flex flex-wrap items-center gap-1 text-xs text-muted-foreground sm:text-sm">
           <li>

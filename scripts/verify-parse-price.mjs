@@ -42,9 +42,27 @@ if (matchesPriceRange({ price: "-" }, { min: 0, max: 10000 })) {
   failed++
 }
 
-const sliderMax = computePriceSliderMax([1000, "¥98,000", null, "—"])
-if (sliderMax !== 100_000) {
-  console.error("FAIL computePriceSliderMax", { sliderMax })
+const under100k = computePriceSliderMax([1000, "¥98,000", null, "—"])
+if (under100k !== 98_000) {
+  console.error("FAIL computePriceSliderMax under 100k", { under100k })
+  failed++
+}
+
+const cappedCategory = computePriceSliderMax([48_500, "¥12,000"])
+if (cappedCategory !== 49_000) {
+  console.error("FAIL computePriceSliderMax ceil step", { cappedCategory })
+  failed++
+}
+
+const over100k = computePriceSliderMax([150_000, 50_000])
+if (over100k !== 100_000) {
+  console.error("FAIL computePriceSliderMax over 100k", { over100k })
+  failed++
+}
+
+const noPrices = computePriceSliderMax([null, "—", "-"])
+if (noPrices !== 100_000) {
+  console.error("FAIL computePriceSliderMax no prices", { noPrices })
   failed++
 }
 

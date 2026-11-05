@@ -115,12 +115,51 @@ export const PRICE_SLIDER_MIN = 0
 export const PRICE_SLIDER_STEP = 1000
 export const DEFAULT_PRICE_SLIDER_MAX = 100_000
 
+/** カテゴリ内最高価格をスライダー上限に使えるよう step 単位で切り上げ */
+export function ceilPriceToSliderStep(value: number): number {
+  return Math.ceil(value / PRICE_SLIDER_STEP) * PRICE_SLIDER_STEP
+}
+
 /**
- * スライダー上限（常に 10 万円）。
- * 右端は「¥100,000+」表示。最大ハンドルが右端のとき適用 max は null となり、10 万円超も含めて表示する。
+ * 表示中カテゴリのカード価格からスライダー上限を決める。
+ * - 最高価格が 10 万円未満: そのカテゴリの最高価格（step 切り上げ）
+ * - 10 万円以上の商品がある、または価格不明のみ: 10 万円（右端は「¥100,000+」、max null で上限なし）
  */
-export function computePriceSliderMax(_prices: Array<unknown>): number {
-  return DEFAULT_PRICE_SLIDER_MAX
+export function computePriceSliderMax(prices: Array<unknown>): number {
+  let categoryMax: number | null = null
+
+  for (const raw of prices) {
+    const parsed = parsePrice(raw)
+    if (parsed == null) continue
+    categoryMax = categoryMax == null ? parsed : Math.max(categoryMax, parsed)
+  }
+
+  if (categoryMax == null) return DEFAULT_PRICE_SLIDER_MAX
+  if (categoryMax >= DEFAULT_PRICE_SLIDER_MAX) return DEFAULT_PRICE_SLIDER_MAX
+
+  return Math.max(PRICE_SLIDER_STEP, ceilPriceToSliderStep(categoryMax))
+}
+
+/** カテゴリ切替などで sliderMax が下がったとき、適用中の min/max を上限内に収める */
+export function clampAppliedPriceRangeForSliderMax(
+  range: AppliedPriceRange,
+  sliderMax: number,
+): AppliedPriceRange {
+  if (!isPriceRangeActive(range)) return range
+
+  const { min, max } = normalizePriceRange(range.min, range.max)
+  let nextMin = min
+  let nextMax = max
+
+  if (nextMin != null && nextMin > sliderMax) nextMin = sliderMax
+  if (nextMax != null && nextMax > sliderMax) nextMax = sliderMax
+
+  if (nextMin != null && nextMax != null && nextMin > nextMax) {
+    return EMPTY_PRICE_RANGE
+  }
+
+  const next = { min: nextMin, max: nextMax }
+  return priceRangeEquals(range, next) ? range : next
 }
 
 /** スライダー用に step 単位へ丸めつつ 0〜上限に収める */

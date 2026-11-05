@@ -402,9 +402,9 @@ export function GuidePointsSection({
     <section
       lang="ja"
       className={cn(
-        "mb-12",
-        isStackedWide && !boxed && "space-y-6",
-        boxed && "my-8 rounded-xl border border-slate-200 bg-white p-4 shadow-sm sm:my-10 sm:p-6 md:p-8",
+        "mb-5 sm:mb-8 md:mb-12",
+        isStackedWide && !boxed && "space-y-4 sm:space-y-6",
+        boxed && "my-5 rounded-xl border border-slate-200 bg-white p-4 shadow-sm sm:my-10 sm:p-6 md:p-8",
       )}
     >
       {inner}

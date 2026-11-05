@@ -65,7 +65,7 @@ export function GadgetImage({
       loading={priority ? "eager" : "lazy"}
       sizes={_sizes}
       referrerPolicy="no-referrer"
-      className={cn("h-full w-full object-contain p-4", className)}
+      className={cn("max-h-full max-w-full object-contain p-4", className)}
     />
   )
 }

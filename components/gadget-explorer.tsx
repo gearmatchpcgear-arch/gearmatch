@@ -39,6 +39,7 @@ import { CompareView } from "@/components/compare-view"
 import { PriceRangeFilter } from "@/components/price-range-filter"
 import {
   EMPTY_PRICE_RANGE,
+  clampAppliedPriceRangeForSliderMax,
   computePriceSliderMax,
   isPriceRangeActive,
   matchesPriceRange,
@@ -46,6 +47,7 @@ import {
   type AppliedPriceRange,
 } from "@/lib/price-filter"
 import { gadgetMatchesSearchQuery, getGadgetSearchHaystack } from "@/lib/gadget-search"
+import { useGadgetDetailHistory } from "@/lib/use-gadget-detail-history"
 
 const MAX_COMPARE_ITEMS = 10
 const DEFAULT_ITEMS_PER_PAGE = 24
@@ -238,9 +240,23 @@ export function GadgetExplorer() {
     [categoryGadgets],
   )
 
+  useLayoutEffect(() => {
+    setAppliedPriceRange((prev) => clampAppliedPriceRangeForSliderMax(prev, priceSliderMax))
+  }, [priceSliderMax])
+
   const gadgetById = useMemo(
     () => new Map(listableGadgets.map((gadget) => [gadget.id, gadget])),
     [listableGadgets],
+  )
+
+  const resolveGadgetById = useCallback(
+    (id: string) => gadgetById.get(id),
+    [gadgetById],
+  )
+
+  const { openGadgetDetail, closeGadgetDetail } = useGadgetDetailHistory(
+    setOpenGadget,
+    resolveGadgetById,
   )
 
   const compareIdSet = useMemo(() => new Set(compareIds), [compareIds])
@@ -360,14 +376,6 @@ export function GadgetExplorer() {
           : prev,
     )
   }, [])
-
-  const handleOpenGadget = useCallback(
-    (id: string) => {
-      const gadget = gadgetById.get(id)
-      if (gadget) setOpenGadget(gadget)
-    },
-    [gadgetById],
-  )
 
   const toggleFilter = useCallback((id: FilterId) => {
     setActiveFilters((prev) => toggleFilterSelection(prev, id))
@@ -612,7 +620,7 @@ export function GadgetExplorer() {
                   key={g.purchaseUrl || g.id}
                   gadget={g}
                   size={cardSize}
-                  onOpen={handleOpenGadget}
+                  onOpen={openGadgetDetail}
                   onToggleCompare={toggleCompare}
                   isComparing={compareIdSet.has(g.id)}
                   compareDisabled={compareAtMax}
@@ -701,7 +709,7 @@ export function GadgetExplorer() {
         </div>
       )}
 
-      <GadgetDetail gadget={openGadget} onClose={() => setOpenGadget(null)} />
+      <GadgetDetail gadget={openGadget} onClose={closeGadgetDetail} />
 
       {showCompare && compareGadgets.length >= 2 && (
         <CompareView

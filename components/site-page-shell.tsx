@@ -42,7 +42,7 @@ export function SitePageShell({
           compact
             ? "mx-auto flex min-h-0 w-full max-w-3xl flex-1 flex-col px-4 py-3 md:py-4"
             : wide
-              ? "mx-auto w-full min-w-0 max-w-6xl px-3 py-6 sm:px-4 sm:py-8 lg:px-6 lg:py-10"
+              ? "mx-auto w-full min-w-0 max-w-6xl px-3 py-4 sm:px-4 sm:py-8 lg:px-6 lg:py-10"
               : "mx-auto min-w-0 max-w-4xl px-3 py-6 sm:px-4 sm:py-8 md:py-10"
         }
       >
@@ -56,7 +56,9 @@ export function SitePageShell({
                 {description}
               </p>
             ) : null}
-            <div className="mt-6 min-w-0 w-full max-w-full overflow-x-clip sm:mt-8">{children}</div>
+            <div className="mt-4 min-w-0 w-full max-w-full overflow-x-clip sm:mt-6 md:mt-8">
+              {children}
+            </div>
           </>
         ) : (
           children

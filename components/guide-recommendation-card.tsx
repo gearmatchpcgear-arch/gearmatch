@@ -131,7 +131,7 @@ export function GuideRecommendationCard({
               loading={priority ? "eager" : "lazy"}
               sizes={GUIDE_RECOMMENDATION_IMAGE_SIZES}
               referrerPolicy="no-referrer"
-              className="max-h-full max-w-full object-contain"
+              className="max-h-full max-w-full object-contain p-1 sm:p-2"
             />
           }
           title={pick.title}
