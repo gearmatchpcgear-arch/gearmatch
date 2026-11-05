@@ -14,13 +14,22 @@ type GuideNavProps = {
   currentCategory?: GuideCategorySlug
   /** ポータル（/guide）ではカテゴリ切替チップを出さない */
   showCategoryTabs?: boolean
+  /** ポータル一覧向けにパンくず下の余白を詰める */
+  compact?: boolean
 }
 
-export function GuideNav({ currentCategory, showCategoryTabs = true }: GuideNavProps) {
+export function GuideNav({ currentCategory, showCategoryTabs = true, compact = false }: GuideNavProps) {
   const currentLabel = currentCategory ? getGuideCategoryLabel(currentCategory) : null
 
   return (
-    <div className="mb-4 min-w-0 max-w-full space-y-3 border-b border-border/60 pb-3 sm:mb-6 sm:space-y-4 sm:pb-4">
+    <div
+      className={cn(
+        "min-w-0 max-w-full border-b border-border/60",
+        compact
+          ? "mb-3 space-y-2 pb-2.5 sm:mb-6 sm:space-y-4 sm:pb-4"
+          : "mb-4 space-y-3 pb-3 sm:mb-6 sm:space-y-4 sm:pb-4",
+      )}
+    >
       <nav aria-label="パンくず">
         <ol className="flex flex-wrap items-center gap-1 text-xs text-muted-foreground sm:text-sm">
           <li>

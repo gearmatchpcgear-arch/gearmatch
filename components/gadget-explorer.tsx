@@ -236,8 +236,9 @@ export function GadgetExplorer() {
     () =>
       computePriceSliderMax(
         categoryGadgets.map((gadget) => getCardDisplayPrice(gadget)),
+        activeCategory,
       ),
-    [categoryGadgets],
+    [categoryGadgets, activeCategory],
   )
 
   useLayoutEffect(() => {

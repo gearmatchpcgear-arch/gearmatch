@@ -1,4 +1,4 @@
-import { getCardDisplayPrice, type Gadget } from "./gadgets"
+import { getCardDisplayPrice, type CategoryId, type Gadget } from "./gadgets"
 
 export type AppliedPriceRange = {
   min: number | null
@@ -115,6 +115,21 @@ export const PRICE_SLIDER_MIN = 0
 export const PRICE_SLIDER_STEP = 1000
 export const DEFAULT_PRICE_SLIDER_MAX = 100_000
 
+/** カテゴリ固定のスライダー上限（右端は「¥上限+」でそれ以上も含む） */
+export const PRICE_SLIDER_FIXED_MAX_BY_CATEGORY: Partial<Record<CategoryId, number>> = {
+  mouse: 25_000,
+  keyboard: 30_000,
+  mic: 35_000,
+  camera: 35_000,
+  "gaming-chair": 70_000,
+  "monitor-arm": 15_000,
+}
+
+/** カテゴリ内最高価格より広いレンジが必要なカテゴリ（10 万円スケール） */
+export const PRICE_SLIDER_USE_DEFAULT_MAX_CATEGORIES: ReadonlySet<CategoryId> = new Set()
+
+export type PriceSliderCategory = CategoryId | "all"
+
 /** カテゴリ内最高価格をスライダー上限に使えるよう step 単位で切り上げ */
 export function ceilPriceToSliderStep(value: number): number {
   return Math.ceil(value / PRICE_SLIDER_STEP) * PRICE_SLIDER_STEP
@@ -122,10 +137,26 @@ export function ceilPriceToSliderStep(value: number): number {
 
 /**
  * 表示中カテゴリのカード価格からスライダー上限を決める。
- * - 最高価格が 10 万円未満: そのカテゴリの最高価格（step 切り上げ）
- * - 10 万円以上の商品がある、または価格不明のみ: 10 万円（右端は「¥100,000+」、max null で上限なし）
+ * - マウス: 固定 2.5 万円（0〜¥25,000+）
+ * - キーボード: 固定 3 万円（0〜¥30,000+）
+ * - マイク・カメラ: 固定 3.5 万円（0〜¥35,000+）
+ * - ゲーミングチェア: 固定 7 万円（0〜¥70,000+）
+ * - モニターアーム: 固定 1.5 万円（0〜¥15,000+）
+ * - その他で最高価格が 10 万円未満: そのカテゴリの最高価格（step 切り上げ）
+ * - 10 万円以上の商品がある、または価格不明のみ: 10 万円（右端は「¥100,000+」）
  */
-export function computePriceSliderMax(prices: Array<unknown>): number {
+export function computePriceSliderMax(
+  prices: Array<unknown>,
+  category: PriceSliderCategory = "all",
+): number {
+  if (category !== "all") {
+    const fixedMax = PRICE_SLIDER_FIXED_MAX_BY_CATEGORY[category]
+    if (fixedMax != null) return fixedMax
+    if (PRICE_SLIDER_USE_DEFAULT_MAX_CATEGORIES.has(category)) {
+      return DEFAULT_PRICE_SLIDER_MAX
+    }
+  }
+
   let categoryMax: number | null = null
 
   for (const raw of prices) {
