@@ -9,7 +9,15 @@ import {
   useState,
   type ReactNode,
 } from "react"
-import { Search, X, GitCompareArrows, ArrowUpDown, ChevronDown, Sparkles } from "lucide-react"
+import {
+  ArrowUp,
+  Search,
+  X,
+  GitCompareArrows,
+  ArrowUpDown,
+  ChevronDown,
+  Sparkles,
+} from "lucide-react"
 import { CategoryScrollRow } from "@/components/category-scroll-row"
 import { headerDotOverlayClassName, headerShellClassName } from "@/components/site-brand-header"
 import { cn } from "@/lib/utils"
@@ -50,6 +58,10 @@ import { gadgetMatchesSearchQuery, getGadgetSearchHaystack } from "@/lib/gadget-
 import { useGadgetDetailHistory } from "@/lib/use-gadget-detail-history"
 
 const MAX_COMPARE_ITEMS = 10
+
+function scrollToPageTop() {
+  window.scrollTo({ top: 0, behavior: "smooth" })
+}
 const DEFAULT_ITEMS_PER_PAGE = 24
 const SMALL_CARD_ITEMS_PER_PAGE = 100
 
@@ -110,7 +122,8 @@ const CARD_SIZE_OPTIONS: { value: CardSize; label: string }[] = [
 const MOBILE_CARD_SIZE_MAX_WIDTH_PX = 639
 
 const CARD_GRID_BY_SIZE: Record<CardSize, string> = {
-  large: "grid grid-cols-1 gap-4 md:grid-cols-2 md:gap-5 lg:grid-cols-3 lg:gap-6",
+  large:
+    "grid grid-cols-1 gap-3 max-sm:gap-3 md:grid-cols-2 md:gap-5 lg:grid-cols-3 lg:gap-6",
   medium: "grid grid-cols-1 gap-3.5 sm:grid-cols-2 sm:gap-4 md:grid-cols-3 md:gap-5 lg:grid-cols-4 lg:gap-6",
   small: "grid grid-cols-2 gap-3 sm:gap-4 md:grid-cols-4 md:gap-4 lg:grid-cols-6 lg:gap-5",
 }
@@ -628,21 +641,32 @@ export function GadgetExplorer() {
                 />
               ))}
             </div>
-            {hasMoreGadgets && (
-              <div className="mt-6 flex justify-center">
-                <button
-                  type="button"
-                  onClick={() =>
-                    setVisibleCount((count) =>
-                      Math.min(count + getItemsPerPage(cardSize), filtered.length),
-                    )
-                  }
-                  className="inline-flex items-center rounded-xl border border-border/70 bg-card px-5 py-2.5 text-sm font-medium text-foreground shadow-sm transition-colors hover:border-primary/40 hover:bg-accent/40"
-                >
-                  もっと見る（残り {filtered.length - visibleCount} 件）
-                </button>
-              </div>
-            )}
+            <div className="relative mt-6 flex min-h-11 w-full items-center justify-start sm:min-h-12">
+              <button
+                type="button"
+                onClick={scrollToPageTop}
+                aria-label="ページの先頭へ戻る"
+                className="relative z-10 inline-flex items-center gap-1.5 rounded-xl border border-border/70 bg-card px-3 py-2 text-xs font-semibold text-foreground shadow-sm transition-colors hover:border-primary/40 hover:bg-accent/40 sm:px-4 sm:text-sm"
+              >
+                <ArrowUp className="size-4 shrink-0 text-primary" aria-hidden />
+                ページの先頭へ
+              </button>
+              {hasMoreGadgets ? (
+                <div className="pointer-events-none absolute inset-0 flex items-center justify-center px-28 sm:px-32">
+                  <button
+                    type="button"
+                    onClick={() =>
+                      setVisibleCount((count) =>
+                        Math.min(count + getItemsPerPage(cardSize), filtered.length),
+                      )
+                    }
+                    className="pointer-events-auto inline-flex items-center rounded-xl border border-border/70 bg-card px-5 py-2.5 text-sm font-medium text-foreground shadow-sm transition-colors hover:border-primary/40 hover:bg-accent/40"
+                  >
+                    もっと見る（残り {filtered.length - visibleCount} 件）
+                  </button>
+                </div>
+              ) : null}
+            </div>
           </>
         )}
       </div>

@@ -121,7 +121,7 @@ export const GadgetCard = memo(function GadgetCard({
         className={cn(
           cardPrimarySpecShellClassName,
           "grid min-w-0 grid-cols-2 gap-2 text-center",
-          isMedium ? "gap-2 p-2.5" : "gap-2 p-3",
+          isMedium ? "gap-2 p-2.5" : isLarge ? "gap-1.5 p-2.5 max-sm:gap-1 max-sm:p-2" : "gap-2 p-3",
         )}
       >
         {highlights.map((h) => (
@@ -143,7 +143,11 @@ export const GadgetCard = memo(function GadgetCard({
       <p
         className={cn(
           "font-mono font-semibold text-slate-900",
-          isSmall ? "pt-0.5 text-sm" : isMedium ? "pt-0.5 text-sm" : "mt-auto pt-1 text-base",
+          isSmall
+            ? "pt-0.5 text-sm"
+            : isMedium
+              ? "pt-0.5 text-sm"
+              : "mt-auto pt-1 text-base max-sm:pt-0.5 max-sm:text-sm",
         )}
       >
         {formatPrice(getCardDisplayPrice(gadget)!)}
@@ -193,11 +197,21 @@ export const GadgetCard = memo(function GadgetCard({
 
   const openDetailLabel = `${displayGadget.brand} ${displayGadget.name} の詳細を見る`
 
-  const imageAreaClassName =
-    "relative aspect-square cursor-pointer overflow-hidden bg-gradient-to-b from-slate-50 to-white"
+  const imageAreaClassName = cn(
+    "relative cursor-pointer overflow-hidden bg-gradient-to-b from-slate-50 to-white",
+    /** 大表示・スマホは正方形だと縦に伸びすぎるため高さを抑える */
+    isLarge
+      ? "aspect-square max-sm:aspect-auto max-sm:h-40 max-sm:max-h-40 sm:aspect-square"
+      : "aspect-square",
+  )
 
   const imageClassName = cn(
     "pointer-events-none relative z-0 transition-transform duration-300 group-hover:scale-[1.02]",
+  )
+
+  const imagePaddingClass = cn(
+    imageClassName,
+    isSmall ? "p-2" : isLarge ? "p-4 max-sm:p-2 sm:p-4" : "p-4",
   )
 
   return (
@@ -263,7 +277,7 @@ export const GadgetCard = memo(function GadgetCard({
             <div className={cn(cardBodyClassName, "border-t border-slate-100 px-3.5 pt-2 pb-1")}>
               <h3 className={cn(titleClassName, "min-w-0")}>{displayGadget.name}</h3>
             </div>
-            <div className="flex items-center justify-between gap-2 px-3.5 pt-0.5">
+            <div className="flex items-center justify-between gap-2 px-3.5 pb-3 pt-0.5">
               {priceBlock ? (
                 <div className={cn(cardBodyClassName, "min-w-0 shrink")}>{priceBlock}</div>
               ) : (
@@ -314,13 +328,17 @@ export const GadgetCard = memo(function GadgetCard({
                   alt={`${displayGadget.brand} ${displayGadget.name}`}
                   category={gadget.category}
                   sizes={
-                    isSmall ? "(max-width: 768px) 50vw, 160px" : "(max-width: 768px) 100vw, 320px"
+                    isSmall
+                      ? "(max-width: 768px) 50vw, 160px"
+                      : isLarge
+                        ? "(max-width: 639px) 90vw, (max-width: 1024px) 50vw, 320px"
+                        : "(max-width: 768px) 100vw, 320px"
                   }
-                  className={cn(imageClassName, isSmall ? "p-2" : "p-4")}
+                  className={imagePaddingClass}
                 />
               </div>
-              {compareOnImage(isSmall)}
-              <ImageRatingBadge gadget={gadget} compact={isSmall} />
+              {compareOnImage(isSmall || isLarge)}
+              <ImageRatingBadge gadget={gadget} compact={isSmall || isLarge} />
             </div>
           ) : null}
 
@@ -328,20 +346,45 @@ export const GadgetCard = memo(function GadgetCard({
             className={cn(
               cardBodyClassName,
               "flex min-w-0 flex-1 flex-col overflow-hidden bg-white",
-              isSmall ? "gap-1.5 p-3.5 md:p-4" : "gap-2 p-4 lg:p-5",
+              isSmall
+                ? "gap-1.5 p-3.5 md:p-4"
+                : isLarge
+                  ? "gap-1.5 p-3 max-sm:gap-1 max-sm:py-2.5 max-sm:pt-2 sm:gap-2 sm:p-4 lg:p-5"
+                  : "gap-2 p-4 lg:p-5",
               hideImages && (isSmall ? "pt-9" : "pt-10"),
             )}
           >
             {showBrand ? (
-              <span className="min-w-0 truncate text-[11px] font-medium uppercase tracking-wide text-muted-foreground">
+              <span
+                className={cn(
+                  "min-w-0 truncate font-medium uppercase tracking-wide text-muted-foreground",
+                  isLarge
+                    ? "text-[11px] max-sm:text-[10px]"
+                    : "text-[11px]",
+                )}
+              >
                 {displayGadget.brand}
               </span>
             ) : null}
 
-            <h3 className={titleClassName}>{displayGadget.name}</h3>
+            <h3
+              className={cn(
+                titleClassName,
+                isLarge && "max-sm:line-clamp-2 max-sm:min-h-0 max-sm:text-xs max-sm:leading-snug",
+              )}
+            >
+              {displayGadget.name}
+            </h3>
 
             {showTagline && (
-              <p className="line-clamp-1 min-h-[1.45em] text-[11px] leading-[1.45] text-muted-foreground">
+              <p
+                className={cn(
+                  "line-clamp-1 text-[11px] leading-[1.45] text-muted-foreground",
+                  isLarge
+                    ? "max-sm:line-clamp-1 max-sm:min-h-0 max-sm:text-[10px] max-sm:leading-tight"
+                    : "min-h-[1.45em]",
+                )}
+              >
                 {displayGadget.tagline}
               </p>
             )}
