@@ -1,4 +1,4 @@
-/** ガイド用途タブ（おすすめセクション）のクエリ名 */
+/** ガイド用途タブ（おすすめセクション）のクエリ名（canonical は常にカテゴリパス本体・tab は含めない） */
 export const GUIDE_RECOMMENDATION_TAB_PARAM = "tab"
 
 export function parseGuideRecommendationTab<T extends string>(

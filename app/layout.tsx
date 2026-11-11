@@ -2,6 +2,7 @@ import { GoogleAnalytics } from '@next/third-parties/google'
 import { Analytics } from '@vercel/analytics/next'
 import type { Metadata, Viewport } from 'next'
 import { Geist, Geist_Mono } from 'next/font/google'
+import { CanonicalFromPathname } from '@/components/canonical-from-pathname'
 import { SiteFooter } from '@/components/site-footer'
 import { getSiteOrigin, SITE_DESCRIPTION, SITE_NAME, SITE_TITLE } from '@/lib/site-config'
 import './globals.css'
@@ -65,6 +66,7 @@ export default function RootLayout({
         />
       </head>
       <body className="bg-slate-100/70 font-sans antialiased">
+        <CanonicalFromPathname />
         <div className="flex min-h-svh flex-col">
           {children}
           <SiteFooter />

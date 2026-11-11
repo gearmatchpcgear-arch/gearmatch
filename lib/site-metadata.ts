@@ -20,7 +20,10 @@ type SitePageMetadataInput = {
   extra?: Metadata
 }
 
-/** 各ページ用 metadata（canonical はクエリなしの path のみ） */
+/**
+ * 各ページ用 metadata。
+ * canonical はクエリを含めないパスの絶対URL（?tab= / ?product= 等の重複は正規ページへ集約）。
+ */
 export function sitePageMetadata({
   path,
   title,
@@ -32,7 +35,7 @@ export function sitePageMetadata({
   return {
     title,
     description,
-    alternates: { canonical: canonicalPath },
+    alternates: { canonical: url },
     openGraph: {
       title,
       description,
