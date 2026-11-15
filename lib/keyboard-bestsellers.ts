@@ -17,7 +17,7 @@ export const keyboardBestsellers: Gadget[] = [
     keyboardUsage: "productivity",
     keyboardLayoutArray: "JIS日本語配列",
     keyboardSpreadsheetFeatures: [],
-        highlights: [
+    highlights: [
       { label: "レイアウト", value: "フルサイズ" },
       { label: "内部構造", value: "メカニカル（メンブレン）" },
       { label: "キーキャップ", value: "ABS" },
@@ -52,7 +52,7 @@ export const keyboardBestsellers: Gadget[] = [
     keyboardUsage: "productivity",
     keyboardLayoutArray: "JIS日本語配列",
     keyboardSpreadsheetFeatures: [],
-        highlights: [
+    highlights: [
       { label: "レイアウト", value: "フルサイズ（日本語108キー）" },
       { label: "内部構造", value: "メカニカル（メンブレン）" },
       { label: "キーキャップ", value: "ABS" },
@@ -87,7 +87,7 @@ export const keyboardBestsellers: Gadget[] = [
     keyboardUsage: "productivity",
     keyboardLayoutArray: "JIS日本語配列",
     keyboardSpreadsheetFeatures: [],
-        highlights: [
+    highlights: [
       { label: "レイアウト", value: "フルサイズ" },
       { label: "内部構造", value: "メカニカル（メンブレン）" },
       { label: "キーキャップ", value: "ABS" },
@@ -122,7 +122,7 @@ export const keyboardBestsellers: Gadget[] = [
     keyboardUsage: "productivity",
     keyboardLayoutArray: "JIS日本語配列",
     keyboardSpreadsheetFeatures: [],
-        highlights: [
+    highlights: [
       { label: "レイアウト", value: "70％" },
       { label: "内部構造", value: "パンタグラフ" },
       { label: "キーキャップ", value: "ABS" },
@@ -158,7 +158,7 @@ export const keyboardBestsellers: Gadget[] = [
     keyboardUsage: "productivity",
     keyboardLayoutArray: "JIS日本語配列",
     keyboardSpreadsheetFeatures: [],
-        highlights: [
+    highlights: [
       { label: "レイアウト", value: "フルサイズ" },
       { label: "内部構造", value: "メカニカル（メンブレン）" },
       { label: "キーキャップ", value: "ABS" },
@@ -192,7 +192,7 @@ export const keyboardBestsellers: Gadget[] = [
     keyboardUsage: "productivity",
     keyboardLayoutArray: "JIS日本語配列",
     keyboardSpreadsheetFeatures: [],
-        highlights: [
+    highlights: [
       { label: "レイアウト", value: "90％" },
       { label: "内部構造", value: "パンタグラフ" },
       { label: "キーキャップ", value: "ABS" },
@@ -226,7 +226,7 @@ export const keyboardBestsellers: Gadget[] = [
     keyboardUsage: "productivity",
     keyboardLayoutArray: "JIS日本語配列",
     keyboardSpreadsheetFeatures: [],
-        highlights: [
+    highlights: [
       { label: "レイアウト", value: "フルサイズ（JIS日本語配列）" },
       { label: "内部構造", value: "メカニカル（メンブレン）" },
       { label: "キーキャップ", value: "ABS" },
@@ -261,7 +261,7 @@ export const keyboardBestsellers: Gadget[] = [
     keyboardUsage: "productivity",
     keyboardLayoutArray: "JIS日本語配列",
     keyboardSpreadsheetFeatures: [],
-        highlights: [
+    highlights: [
       { label: "レイアウト", value: "80％" },
       { label: "内部構造", value: "パンタグラフ" },
       { label: "キーキャップ", value: "ABS" },
@@ -294,7 +294,7 @@ export const keyboardBestsellers: Gadget[] = [
     keyboardUsage: "productivity",
     keyboardLayoutArray: "US英語配列",
     keyboardSpreadsheetFeatures: [],
-        highlights: [
+    highlights: [
       { label: "レイアウト", value: "75%" },
       { label: "内部構造", value: "パンタグラフ" },
       { label: "キーキャップ", value: "ABS" },
@@ -330,7 +330,7 @@ export const keyboardBestsellers: Gadget[] = [
     keyboardPollingRate: "1000Hz",
     keyboardLayoutArray: "US英語配列",
     keyboardSpreadsheetFeatures: [],
-        highlights: [
+    highlights: [
       { label: "レイアウト", value: "75%" },
       { label: "内部構造", value: "パンタグラフ" },
       { label: "キーキャップ", value: "ABS" },
@@ -364,7 +364,7 @@ export const keyboardBestsellers: Gadget[] = [
     keyboardUsage: "productivity",
     keyboardLayoutArray: "JIS日本語配列",
     keyboardSpreadsheetFeatures: [],
-        highlights: [
+    highlights: [
       { label: "レイアウト", value: "フルサイズ" },
       { label: "内部構造", value: "メカニカル（メンブレン）" },
       { label: "キーキャップ", value: "ABS" },
@@ -396,7 +396,7 @@ export const keyboardBestsellers: Gadget[] = [
     keyboardUsage: "productivity",
     keyboardLayoutArray: "JIS日本語配列",
     keyboardSpreadsheetFeatures: [],
-        highlights: [
+    highlights: [
       { label: "レイアウト", value: "フルサイズ" },
       { label: "内部構造", value: "メカニカル（メンブレン）" },
       { label: "キーキャップ", value: "ABS" },
@@ -431,7 +431,7 @@ export const keyboardBestsellers: Gadget[] = [
     keyboardUsage: "productivity",
     keyboardLayoutArray: "US英語配列",
     keyboardSpreadsheetFeatures: [],
-        highlights: [
+    highlights: [
       { label: "レイアウト", value: "フルサイズ" },
       { label: "内部構造", value: "パンタグラフ" },
       { label: "キーキャップ", value: "ABS" },
@@ -467,7 +467,7 @@ export const keyboardBestsellers: Gadget[] = [
     keyboardUsage: "productivity",
     keyboardLayoutArray: "JIS日本語配列",
     keyboardSpreadsheetFeatures: [],
-        highlights: [
+    highlights: [
       { label: "レイアウト", value: "折りたたみ" },
       { label: "内部構造", value: "パンタグラフ" },
       { label: "キーキャップ", value: "ABS" },
@@ -486,7 +486,7 @@ export const keyboardBestsellers: Gadget[] = [
       { title: "サイズ / 重量", rows: [
           { label: "重量", value: "258 グラム" }]}],
   },
-    {
+  {
     id: "k-bs-016",
     category: "keyboard",
     name: "ロジクール 有線 キーボード 耐水 K120 USB接続 日本語配列 テンキー 薄型 有線キーボード",
@@ -501,7 +501,7 @@ export const keyboardBestsellers: Gadget[] = [
     keyboardUsage: "productivity",
     keyboardLayoutArray: "JIS日本語配列",
     keyboardSpreadsheetFeatures: [],
-        highlights: [
+    highlights: [
       { label: "レイアウト", value: "フルサイズ" },
       { label: "内部構造", value: "メカニカル（メンブレン）" },
       { label: "キーキャップ", value: "ABS" },
@@ -536,7 +536,7 @@ export const keyboardBestsellers: Gadget[] = [
     keyboardUsage: "productivity",
     keyboardLayoutArray: "JIS日本語配列",
     keyboardSpreadsheetFeatures: [],
-        highlights: [
+    highlights: [
       { label: "レイアウト", value: "80％" },
       { label: "内部構造", value: "メカニカル（メンブレン）" },
       { label: "キーキャップ", value: "ABS" },
@@ -569,7 +569,7 @@ export const keyboardBestsellers: Gadget[] = [
     keyboardUsage: "productivity",
     keyboardLayoutArray: "JIS日本語配列",
     keyboardSpreadsheetFeatures: [],
-        highlights: [
+    highlights: [
       { label: "レイアウト", value: "75%" },
       { label: "内部構造", value: "パンタグラフ" },
       { label: "キーキャップ", value: "ABS" },
@@ -603,7 +603,7 @@ export const keyboardBestsellers: Gadget[] = [
     keyboardUsage: "productivity",
     keyboardLayoutArray: "JIS日本語配列",
     keyboardSpreadsheetFeatures: [],
-        highlights: [
+    highlights: [
       { label: "レイアウト", value: "折りたたみ" },
       { label: "内部構造", value: "パンタグラフ" },
       { label: "キーキャップ", value: "ABS" },
@@ -622,7 +622,7 @@ export const keyboardBestsellers: Gadget[] = [
       { title: "サイズ / 重量", rows: [
           { label: "重量", value: "291 グラム" }]}],
   },
-    {
+  {
     id: "k-bs-021",
     category: "keyboard",
     name: "エレコム 有線 フルキーボード 静音設計 抗菌 ブラック TK-FCM114SKBK",
@@ -638,7 +638,7 @@ export const keyboardBestsellers: Gadget[] = [
     keyboardUsage: "productivity",
     keyboardLayoutArray: "JIS日本語配列",
     keyboardSpreadsheetFeatures: [],
-        highlights: [
+    highlights: [
       { label: "レイアウト", value: "フルサイズ" },
       { label: "内部構造", value: "メカニカル（メンブレン）" },
       { label: "キーキャップ", value: "ABS" },
@@ -671,7 +671,7 @@ export const keyboardBestsellers: Gadget[] = [
     keyboardUsage: "productivity",
     keyboardLayoutArray: "JIS日本語配列",
     keyboardSpreadsheetFeatures: [],
-        highlights: [
+    highlights: [
       { label: "レイアウト", value: "フルサイズ" },
       { label: "内部構造", value: "パンタグラフ" },
       { label: "キーキャップ", value: "ABS" },
@@ -707,7 +707,7 @@ export const keyboardBestsellers: Gadget[] = [
     keyboardUsage: "productivity",
     keyboardLayoutArray: "JIS日本語配列",
     keyboardSpreadsheetFeatures: [],
-        highlights: [
+    highlights: [
       { label: "レイアウト", value: "90％" },
       { label: "内部構造", value: "パンタグラフ" },
       { label: "キーキャップ", value: "ABS" },
@@ -726,7 +726,7 @@ export const keyboardBestsellers: Gadget[] = [
       { title: "サイズ / 重量", rows: [
           { label: "重量", value: "488 グラム" }]}],
   },
-    {
+  {
     id: "k-bs-025",
     category: "keyboard",
     name: "バッファロー キーボード ワイヤレス ミニ 薄型 持ち運び USB レシーバー付属 日本語 ブラック BSKBW355BK",
@@ -742,7 +742,7 @@ export const keyboardBestsellers: Gadget[] = [
     keyboardUsage: "productivity",
     keyboardLayoutArray: "JIS日本語配列",
     keyboardSpreadsheetFeatures: [],
-        highlights: [
+    highlights: [
       { label: "レイアウト", value: "テンキーレス（コンパクト）" },
       { label: "内部構造", value: "パンタグラフ" },
       { label: "キーキャップ", value: "ABS" },
@@ -752,8 +752,8 @@ export const keyboardBestsellers: Gadget[] = [
       { title: "仕様 / 機能", rows: [
           { label: "配列", value: "JIS日本語配列" }]},
       { title: "キー / スイッチ", rows: [
-          { label: "レイアウト", value: "テンキーレス（コンパクト）" },
-          { label: "内部構造", value: "パンタグラフ" },
+      { label: "レイアウト", value: "テンキーレス（コンパクト）" },
+      { label: "内部構造", value: "パンタグラフ" },
           { label: "キーキャップ", value: "ABS" }]},
       { title: "接続 / 電源", rows: [
           { label: "接続方法", value: "2.4GHz (USBレシーバー)" },

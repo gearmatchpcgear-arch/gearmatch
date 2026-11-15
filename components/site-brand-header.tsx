@@ -1,5 +1,5 @@
 import Link from "next/link"
-import { Boxes } from "lucide-react"
+import { SiteBrandLogo } from "@/components/site-brand-logo"
 import { SITE_HEADER_SUBLINE, SITE_NAME, SITE_NAME_JA, SITE_TAGLINE } from "@/lib/site-config"
 import { cn } from "@/lib/utils"
 
@@ -21,12 +21,7 @@ export function SiteBrandHeader({ children, className, topSlot }: SiteBrandHeade
         {topSlot}
         <div className="flex items-center justify-between gap-4">
           <div className="flex min-w-0 items-center gap-3">
-            <div
-              className="flex size-10 shrink-0 items-center justify-center rounded-lg bg-zinc-900 p-1.5 text-white shadow-sm sm:size-11"
-              aria-hidden
-            >
-              <Boxes className="size-5" />
-            </div>
+            <SiteBrandLogo className="size-10 sm:size-11" />
             <div className="min-w-0">
               <h1 className="min-w-0">
                 <Link

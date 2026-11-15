@@ -19,7 +19,10 @@ import {
 import { GadgetImage } from "@/components/gadget-image"
 import { cardPrimarySpecShellClassName } from "@/lib/card-primary-spec-shell"
 import { areProductImagesHiddenForReview } from "@/lib/product-images-display"
-import { productListCardTitleClassName } from "@/lib/product-card-layout"
+import {
+  productListCardPriceClassName,
+  productListCardTitleClassName,
+} from "@/lib/product-card-layout"
 
 const badgeClassName =
   "inline-flex w-fit items-center rounded-full bg-primary/10 px-2 py-0.5 text-[9px] font-bold tracking-wide text-primary ring-1 ring-primary/20"
@@ -140,16 +143,7 @@ export const GadgetCard = memo(function GadgetCard({
 
   const priceBlock = (
     hasCardDisplayPrice(gadget) ? (
-      <p
-        className={cn(
-          "font-mono font-semibold text-slate-900",
-          isSmall
-            ? "pt-0.5 text-sm"
-            : isMedium
-              ? "pt-0.5 text-sm"
-              : "mt-auto pt-1 text-base max-sm:pt-0.5 max-sm:text-sm",
-        )}
-      >
+      <p className={productListCardPriceClassName(isLarge)}>
         {formatPrice(getCardDisplayPrice(gadget)!)}
       </p>
     ) : null

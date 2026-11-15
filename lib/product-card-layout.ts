@@ -69,3 +69,25 @@ export function productListCardTitleClassName(isSmall: boolean, isMedium: boolea
         : "line-clamp-1 text-sm leading-snug",
   )
 }
+
+/**
+ * 一覧カードの価格表示（大・中・小で同じ見かけのサイズ）。
+ * font-mono（Geist Mono）は開発環境で数字が大きく見えやすいため sans + tabular-nums を使用。
+ */
+export function productListCardPriceClassName(isLarge: boolean): string {
+  return cn(
+    "font-sans text-sm font-semibold tabular-nums leading-none tracking-tight text-slate-900",
+    isLarge ? "mt-auto pt-1" : "pt-0.5",
+  )
+}
+
+/** 一覧上部の「○件のガジェット」行 */
+export const productListCountLineClassName = "text-sm leading-snug text-muted-foreground"
+
+/** 件数の数字（親の text-sm を継承・Geist Mono は使わない） */
+export const productListCountDigitClassName =
+  "font-sans text-inherit font-medium tabular-nums text-foreground"
+
+/** 絞り込み結果バッジ内の件数 */
+export const productListCountBadgeClassName =
+  "inline-flex items-center rounded-full bg-primary/10 px-2.5 py-0.5 font-sans text-xs font-semibold tabular-nums text-primary ring-1 ring-primary/25"

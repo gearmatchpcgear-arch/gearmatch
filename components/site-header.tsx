@@ -1,6 +1,7 @@
 "use client"
 
 import { Search, UserRound, X } from "lucide-react"
+import { SiteBrandLogo } from "@/components/site-brand-logo"
 import { SiteDisclaimer } from "@/components/site-disclaimer"
 import { SITE_HEADER_SUBLINE, SITE_NAME, SITE_NAME_JA, SITE_TAGLINE } from "@/lib/site-config"
 import { cn } from "@/lib/utils"
@@ -9,30 +10,6 @@ type SiteHeaderProps = {
   query: string
   onQueryChange: (value: string) => void
   className?: string
-}
-
-function GearMatchEmblem({ className }: { className?: string }) {
-  return (
-    <div
-      className={cn(
-        "relative flex size-12 shrink-0 items-center justify-center rounded-lg bg-primary text-primary-foreground shadow-sm",
-        className,
-      )}
-      aria-hidden
-    >
-      <svg viewBox="0 0 32 32" className="size-7 text-white" fill="none">
-        <rect x="5" y="9" width="11" height="11" rx="2.5" stroke="currentColor" strokeWidth="1.35" />
-        <rect x="16" y="12" width="11" height="11" rx="2.5" stroke="currentColor" strokeWidth="1.35" />
-        <path
-          d="M11.5 14.5h4M16 19.5h4"
-          stroke="currentColor"
-          strokeWidth="1.35"
-          strokeLinecap="round"
-        />
-        <circle cx="24" cy="8" r="1.5" fill="currentColor" opacity="0.85" />
-      </svg>
-    </div>
-  )
 }
 
 export function SiteHeader({ query, onQueryChange, className }: SiteHeaderProps) {
@@ -46,7 +23,7 @@ export function SiteHeader({ query, onQueryChange, className }: SiteHeaderProps)
       <div className="mx-auto max-w-6xl px-4 py-6 sm:py-7">
         <div className="flex flex-col gap-5 lg:flex-row lg:items-center lg:justify-between">
           <div className="flex min-w-0 items-center gap-4">
-            <GearMatchEmblem />
+            <SiteBrandLogo className="size-12" markClassName="size-7" />
             <div className="min-w-0">
               <h1 className="min-w-0">
                 <span className="cursor-default select-none font-serif-jp text-[1.65rem] font-extrabold leading-none tracking-wide text-primary sm:text-[1.85rem]">

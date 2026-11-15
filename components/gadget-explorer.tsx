@@ -55,6 +55,11 @@ import {
   type AppliedPriceRange,
 } from "@/lib/price-filter"
 import { gadgetMatchesSearchQuery, getGadgetSearchHaystack } from "@/lib/gadget-search"
+import {
+  productListCountBadgeClassName,
+  productListCountDigitClassName,
+  productListCountLineClassName,
+} from "@/lib/product-card-layout"
 import { useGadgetDetailHistory } from "@/lib/use-gadget-detail-history"
 
 const MAX_COMPARE_ITEMS = 10
@@ -597,17 +602,17 @@ export function GadgetExplorer() {
       {/* カードリスト */}
       <div className="mx-auto max-w-6xl px-4 py-4">
         <div className="mb-4 flex flex-wrap items-center gap-2">
-          <p className="text-sm text-muted-foreground">
+          <p className={productListCountLineClassName}>
             {categoryPoolCount > filteredCount ? (
               <>
                 全
-                <span className="mx-0.5 font-mono font-medium text-foreground">
+                <span className={cn(productListCountDigitClassName, "mx-0.5")}>
                   {categoryPoolCount}
                 </span>
                 件中
               </>
             ) : null}
-            <span className="font-mono font-medium text-foreground">{filteredCount}</span>
+            <span className={productListCountDigitClassName}>{filteredCount}</span>
             件のガジェット
           </p>
           <FilterResultBadge filtered={filteredCount} total={categoryPoolCount} />
@@ -820,7 +825,7 @@ function FilterResultBadge({
           全{total}件中
         </span>
       )}
-      <span className="inline-flex items-center rounded-full bg-primary/10 px-2.5 py-0.5 font-mono text-xs font-semibold tabular-nums text-primary ring-1 ring-primary/25">
+      <span className={productListCountBadgeClassName}>
         {filtered}件
       </span>
     </span>
@@ -1012,7 +1017,7 @@ function CategoryTag({
         (countsReady ? (
           <span
             className={cn(
-              "hidden font-mono text-xs sm:inline",
+              "hidden font-sans text-xs tabular-nums sm:inline",
               active ? "text-primary-foreground/75" : "text-muted-foreground/70",
             )}
           >
