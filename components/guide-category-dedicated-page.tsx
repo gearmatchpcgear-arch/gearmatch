@@ -1,5 +1,6 @@
 import { Suspense } from "react"
 import { GuideCategoryMetadataSync } from "@/components/guide-category-metadata-sync"
+import { GuideCategoryTabUrlSync } from "@/components/guide-category-tab-url-sync"
 import { GuideCategoryPageContent } from "@/components/guide-category-page-content"
 import { SitePageShell } from "@/components/site-page-shell"
 import type { CategoryId } from "@/lib/gadgets"
@@ -32,6 +33,11 @@ export function GuideCategoryDedicatedPage({
       {isGuideTabSeoCategory(category) ? (
         <Suspense fallback={null}>
           <GuideCategoryMetadataSync category={category} />
+        </Suspense>
+      ) : null}
+      {isGuideTabSeoCategory(category) && isGuideTabbedCategory(category) ? (
+        <Suspense fallback={null}>
+          <GuideCategoryTabUrlSync category={category} />
         </Suspense>
       ) : null}
       <Suspense fallback={null}>

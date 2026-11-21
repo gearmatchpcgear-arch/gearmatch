@@ -3,6 +3,7 @@ import {
   GUIDE_CATEGORY_DEFAULT_TAB,
   GUIDE_TABBED_CATEGORY_IDS,
   getGuideCategoryTabIds,
+  isGuideTabbedCategory,
 } from "@/lib/guide-tab-config"
 import { GUIDE_CATEGORY_IDS, guideCategoryPath } from "@/lib/guide-routes"
 import { getSiteOrigin } from "@/lib/site-config"
@@ -62,24 +63,24 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   for (const categoryId of GUIDE_CATEGORY_IDS) {
     const path = guideCategoryPath(categoryId)
-    guideCategoryPages.push({
-      url: absolute(path),
-      lastModified,
-      changeFrequency: "weekly",
-      priority: 0.85,
-    })
 
-    if ((GUIDE_TABBED_CATEGORY_IDS as readonly string[]).includes(categoryId)) {
+    if (isGuideTabbedCategory(categoryId)) {
       const tabbed = categoryId as (typeof GUIDE_TABBED_CATEGORY_IDS)[number]
       for (const tabId of getGuideCategoryTabIds(tabbed)) {
-        if (tabId === GUIDE_CATEGORY_DEFAULT_TAB[tabbed]) continue
         guideCategoryPages.push({
           url: guideUrlWithTab(path, tabId),
           lastModified,
           changeFrequency: "weekly",
-          priority: 0.82,
+          priority: tabId === GUIDE_CATEGORY_DEFAULT_TAB[tabbed] ? 0.85 : 0.82,
         })
       }
+    } else {
+      guideCategoryPages.push({
+        url: absolute(path),
+        lastModified,
+        changeFrequency: "weekly",
+        priority: 0.85,
+      })
     }
   }
 

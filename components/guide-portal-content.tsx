@@ -3,7 +3,7 @@ import { ArrowRight } from "lucide-react"
 import { CategoryIcon } from "@/components/category-icon"
 import { GuideNav } from "@/components/guide-nav"
 import { GUIDE_CONTENTS } from "@/lib/guide-content"
-import { GUIDE_CATEGORY_IDS, getGuideCategoryLabel, guideCategoryPath } from "@/lib/guide-routes"
+import { GUIDE_CATEGORY_IDS, getGuideCategoryLabel, guideCategoryDefaultHref } from "@/lib/guide-routes"
 
 export function GuidePortalContent() {
   return (
@@ -16,7 +16,7 @@ export function GuidePortalContent() {
           return (
             <Link
               key={categoryId}
-              href={guideCategoryPath(categoryId)}
+              href={guideCategoryDefaultHref(categoryId)}
               className="group flex flex-col rounded-xl border border-slate-200/80 bg-white p-3.5 shadow-sm transition-all hover:border-primary/30 hover:shadow-md sm:min-h-[10.5rem] sm:p-5 lg:p-6"
             >
               <div className="mb-1 flex items-center gap-2 sm:mb-3">

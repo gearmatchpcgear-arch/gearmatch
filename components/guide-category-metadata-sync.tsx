@@ -5,14 +5,14 @@ import { usePathname, useSearchParams } from "next/navigation"
 import type { CategoryId } from "@/lib/gadgets"
 import {
   buildGuideCategoryTabCanonical,
-  getGuideCategoryTabSeoFromQuery,
+  getGuideCategoryTabSeo,
   isGuideTabSeoCategory,
+  resolveGuideCategoryActiveTab,
   type GuideTabSeoCategory,
 } from "@/lib/guide-tab-seo"
 import { isGuideTabbedCategory } from "@/lib/guide-tab-config"
-import { guideCategoryPath, getGuideCategoryLabel } from "@/lib/guide-routes"
+import { guideCategoryPath } from "@/lib/guide-routes"
 import { absoluteSiteUrl, normalizeSitePath } from "@/lib/site-metadata"
-import { SITE_NAME } from "@/lib/site-config"
 
 function applyDocumentMetadata(title: string, description: string, canonical: string) {
   if (document.title !== title) document.title = title
@@ -59,16 +59,14 @@ export function GuideCategoryMetadataSync({ category }: GuideCategoryMetadataSyn
     if (normalizeSitePath(pathname ?? "") !== guidePath) return
     if (!isGuideTabSeoCategory(category)) return
 
-    const label = getGuideCategoryLabel(category)
-    const defaultTitle = `${label}の選び方 | デバイス購入のポイント | ${SITE_NAME}`
-    const defaultDescription = `${label}の失敗しない選び方とおすすめモデルを${SITE_NAME}が解説します。`
-
-    const tabSeo = getGuideCategoryTabSeoFromQuery(category as GuideTabSeoCategory, searchParams.get("tab"))
-    const title = tabSeo?.title ?? defaultTitle
-    const description = tabSeo?.description ?? defaultDescription
+    const seoCategory = category as GuideTabSeoCategory
+    const tabId = resolveGuideCategoryActiveTab(seoCategory, searchParams.get("tab"))
+    const tabSeo = getGuideCategoryTabSeo(seoCategory, tabId)
+    const title = tabSeo.title
+    const description = tabSeo.description
     let canonical = absoluteSiteUrl(guidePath)
-    if (tabSeo && isGuideTabbedCategory(category)) {
-      canonical = absoluteSiteUrl(buildGuideCategoryTabCanonical(category as GuideTabSeoCategory, tabSeo.tabId))
+    if (isGuideTabbedCategory(category)) {
+      canonical = absoluteSiteUrl(buildGuideCategoryTabCanonical(seoCategory, tabId))
     }
 
     applyDocumentMetadata(title, description, canonical)

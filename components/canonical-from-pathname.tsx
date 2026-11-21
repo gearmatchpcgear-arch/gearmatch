@@ -4,8 +4,8 @@ import { usePathname, useSearchParams } from "next/navigation"
 import { useEffect } from "react"
 import {
   buildGuideCategoryTabCanonical,
-  getGuideCategoryTabSeoFromQuery,
   isGuideTabSeoCategory,
+  resolveGuideCategoryActiveTab,
   type GuideTabSeoCategory,
 } from "@/lib/guide-tab-seo"
 import { isGuideTabbedCategory } from "@/lib/guide-tab-config"
@@ -24,14 +24,12 @@ export function CanonicalFromPathname() {
     let href = absoluteSiteUrl(path)
 
     const category = GUIDE_CATEGORY_IDS.find((id) => path === guideCategoryPath(id))
-    if (category && isGuideTabSeoCategory(category)) {
-      const tabSeo = getGuideCategoryTabSeoFromQuery(
+    if (category && isGuideTabSeoCategory(category) && isGuideTabbedCategory(category)) {
+      const tabId = resolveGuideCategoryActiveTab(
         category as GuideTabSeoCategory,
         searchParams.get("tab"),
       )
-      if (tabSeo && isGuideTabbedCategory(category)) {
-        href = absoluteSiteUrl(buildGuideCategoryTabCanonical(category as GuideTabSeoCategory, tabSeo.tabId))
-      }
+      href = absoluteSiteUrl(buildGuideCategoryTabCanonical(category as GuideTabSeoCategory, tabId))
     }
 
     let link = document.querySelector<HTMLLinkElement>('link[rel="canonical"]')

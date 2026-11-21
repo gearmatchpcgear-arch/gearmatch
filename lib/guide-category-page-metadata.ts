@@ -1,8 +1,9 @@
 import type { Metadata } from "next"
 import type { CategoryId } from "@/lib/gadgets"
 import {
-  getGuideCategoryTabSeoFromQuery,
+  getGuideCategoryTabSeo,
   isGuideTabSeoCategory,
+  resolveGuideCategoryActiveTab,
   type GuideTabSeoCategory,
 } from "@/lib/guide-tab-seo"
 import { getGuideCategoryLabel, guideCategoryPath } from "@/lib/guide-routes"
@@ -27,18 +28,18 @@ export function buildGuideCategoryPageMetadata(
       searchParams && typeof searchParams[GUIDE_RECOMMENDATION_TAB_PARAM] === "string"
         ? searchParams[GUIDE_RECOMMENDATION_TAB_PARAM]
         : undefined
-    const tabSeo = getGuideCategoryTabSeoFromQuery(category as GuideTabSeoCategory, rawTab)
-    if (tabSeo) {
-      const canonicalParams = isGuideTabbedCategory(category)
-        ? { [GUIDE_RECOMMENDATION_TAB_PARAM]: tabSeo.tabId }
-        : undefined
-      return sitePageMetadata({
-        path,
-        title: tabSeo.title,
-        description: tabSeo.description,
-        searchParams: canonicalParams,
-      })
-    }
+    const seoCategory = category as GuideTabSeoCategory
+    const tabId = resolveGuideCategoryActiveTab(seoCategory, rawTab)
+    const tabSeo = getGuideCategoryTabSeo(seoCategory, tabId)
+    const canonicalParams = isGuideTabbedCategory(category)
+      ? { [GUIDE_RECOMMENDATION_TAB_PARAM]: tabId }
+      : undefined
+    return sitePageMetadata({
+      path,
+      title: tabSeo.title,
+      description: tabSeo.description,
+      searchParams: canonicalParams,
+    })
   }
 
   const title = `${label}の選び方 | デバイス購入のポイント | ${SITE_NAME}`

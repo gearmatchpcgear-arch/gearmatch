@@ -165,7 +165,7 @@ export function GuideRecommendationsPanel({
 type GuideRecommendationsTabsProps = {
   tabs: readonly GuideRecommendationsTab[]
   selectedId: string
-  /** 例: `/guide/mouse` — 各タブは `?tab=` 付き URL へ遷移 */
+  /** パス本体（例: `/guide/mouse`）。各タブリンクは `?tab=` 付きURLになる */
   tabHrefBase: string
 }
 

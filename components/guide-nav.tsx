@@ -5,7 +5,7 @@ import { CategoryIcon } from "@/components/category-icon"
 import {
   GUIDE_CATEGORY_IDS,
   getGuideCategoryLabel,
-  guideCategoryPath,
+  guideCategoryDefaultHref,
   type GuideCategorySlug,
 } from "@/lib/guide-routes"
 import { cn } from "@/lib/utils"
@@ -74,7 +74,7 @@ export function GuideNav({ currentCategory, showCategoryTabs = true, compact = f
               return (
                 <Link
                   key={categoryId}
-                  href={guideCategoryPath(categoryId)}
+                  href={guideCategoryDefaultHref(categoryId)}
                   className={cn(
                     "inline-flex shrink-0 items-center gap-1.5 whitespace-nowrap rounded-full px-3 py-1.5 text-xs font-medium transition-all sm:px-3.5 sm:text-sm",
                     active
