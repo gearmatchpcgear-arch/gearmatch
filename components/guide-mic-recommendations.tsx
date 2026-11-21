@@ -1,6 +1,6 @@
 "use client"
 
-import { useEffect, useMemo } from "react"
+import { Suspense, useEffect, useMemo, type ReactNode } from "react"
 import { GuideRecommendationCard } from "@/components/guide-recommendation-card"
 import {
   GuideRecommendationsCardStack,
@@ -34,11 +34,12 @@ function resolveGadget(gadgetId: string | undefined, pool: Gadget[]): Gadget | u
 
 type GuideMicRecommendationsProps = {
   pool: Gadget[]
+  seoSlot?: ReactNode
 }
 
 const MIC_TAB_IDS = GUIDE_MIC_TABS.map((tab) => tab.id)
 
-export function GuideMicRecommendations({ pool }: GuideMicRecommendationsProps) {
+export function GuideMicRecommendations({ pool, seoSlot }: GuideMicRecommendationsProps) {
   const micType = useGuideRecommendationTabId(MIC_TAB_IDS, "dynamic")
 
   const picks = GUIDE_MIC_RECOMMENDATIONS[micType]
@@ -74,6 +75,7 @@ export function GuideMicRecommendations({ pool }: GuideMicRecommendationsProps) 
         selectedId={micType}
         tabHrefBase={guideCategoryPath("mic")}
       />
+      {seoSlot ? <Suspense fallback={null}>{seoSlot}</Suspense> : null}
       <GuideRecommendationsPanel tabId={micType}>
         <GuideRecommendationsListTitle>{GUIDE_MIC_LIST_TITLES[micType]}</GuideRecommendationsListTitle>
         <GuideRecommendationsCardStack>

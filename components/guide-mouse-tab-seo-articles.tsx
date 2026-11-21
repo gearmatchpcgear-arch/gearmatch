@@ -1,0 +1,1 @@
+export { GuideCategoryTabSeoArticles as GuideMouseTabSeoArticles } from "@/components/guide-category-tab-seo-articles"

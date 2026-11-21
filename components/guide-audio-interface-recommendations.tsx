@@ -1,6 +1,6 @@
 "use client"
 
-import { useMemo } from "react"
+import { Suspense, useMemo, type ReactNode } from "react"
 import { GuideRecommendationCard } from "@/components/guide-recommendation-card"
 import {
   GuideRecommendationsCardStack,
@@ -30,12 +30,14 @@ function resolveGadget(gadgetId: string | undefined, pool: Gadget[]): Gadget | u
 
 type GuideAudioInterfaceRecommendationsProps = {
   pool: Gadget[]
+  seoSlot?: ReactNode
 }
 
 const AUDIO_INTERFACE_TAB_IDS = GUIDE_AUDIO_INTERFACE_TABS.map((tab) => tab.id)
 
 export function GuideAudioInterfaceRecommendations({
   pool,
+  seoSlot,
 }: GuideAudioInterfaceRecommendationsProps) {
   const selectedType = useGuideRecommendationTabId(AUDIO_INTERFACE_TAB_IDS, "beginner")
 
@@ -66,6 +68,7 @@ export function GuideAudioInterfaceRecommendations({
         selectedId={selectedType}
         tabHrefBase={guideCategoryPath("audio-interface")}
       />
+      {seoSlot ? <Suspense fallback={null}>{seoSlot}</Suspense> : null}
       <GuideRecommendationsPanel tabId={selectedType}>
         <GuideRecommendationsListTitle>
           {GUIDE_AUDIO_INTERFACE_LIST_TITLES[selectedType]}

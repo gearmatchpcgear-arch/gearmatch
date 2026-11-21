@@ -1,6 +1,6 @@
 "use client"
 
-import { useMemo } from "react"
+import { Suspense, useMemo, type ReactNode } from "react"
 import { GuideRecommendationCard } from "@/components/guide-recommendation-card"
 import {
   GuideRecommendationsCardStack,
@@ -23,12 +23,14 @@ type GuideCategoryRecommendationsProps = {
   category: GuideCategoryRecommendationId
   categoryLabel: string
   pool: Gadget[]
+  seoSlot?: ReactNode
 }
 
 export function GuideCategoryRecommendations({
   category,
   categoryLabel,
   pool,
+  seoSlot,
 }: GuideCategoryRecommendationsProps) {
   const picks = GUIDE_CATEGORY_RECOMMENDATIONS[category]
 
@@ -51,6 +53,7 @@ export function GuideCategoryRecommendations({
         compareHref={compareHref}
         subtitle={guideRecommendationsListOnlySubtitle}
       />
+      {seoSlot ? <Suspense fallback={null}>{seoSlot}</Suspense> : null}
       <GuideRecommendationsCardStack>
         {resolvedGadgets.map(({ pick, gadget }, index) => (
           <GuideRecommendationCard

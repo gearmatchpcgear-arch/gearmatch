@@ -17,21 +17,31 @@ type SitePageMetadataInput = {
   path: string
   title: string
   description: string
+  /** ガイド用途タブ等、意図的にクエリ付き canonical にする場合 */
+  searchParams?: Record<string, string>
   extra?: Metadata
+}
+
+function canonicalUrlFromPath(path: string, searchParams?: Record<string, string>): string {
+  const canonicalPath = normalizeSitePath(path)
+  const base = absoluteSiteUrl(canonicalPath)
+  if (!searchParams || Object.keys(searchParams).length === 0) return base
+  const qs = new URLSearchParams(searchParams).toString()
+  return qs ? `${base}?${qs}` : base
 }
 
 /**
  * 各ページ用 metadata。
- * canonical はクエリを含めないパスの絶対URL（?tab= / ?product= 等の重複は正規ページへ集約）。
+ * 既定の canonical はクエリなしパス。`searchParams` 指定時のみクエリ付き絶対URL。
  */
 export function sitePageMetadata({
   path,
   title,
   description,
+  searchParams,
   extra,
 }: SitePageMetadataInput): Metadata {
-  const canonicalPath = normalizeSitePath(path)
-  const url = absoluteSiteUrl(canonicalPath)
+  const url = canonicalUrlFromPath(path, searchParams)
   return {
     title,
     description,

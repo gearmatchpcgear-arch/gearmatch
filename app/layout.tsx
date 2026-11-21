@@ -1,6 +1,7 @@
 import { GoogleAnalytics } from '@next/third-parties/google'
 import { Analytics } from '@vercel/analytics/next'
 import type { Metadata, Viewport } from 'next'
+import { Suspense } from 'react'
 import { Geist, Geist_Mono } from 'next/font/google'
 import { CanonicalFromPathname } from '@/components/canonical-from-pathname'
 import { SiteFooter } from '@/components/site-footer'
@@ -66,7 +67,9 @@ export default function RootLayout({
         />
       </head>
       <body className="bg-slate-100/70 font-sans antialiased">
-        <CanonicalFromPathname />
+        <Suspense fallback={null}>
+          <CanonicalFromPathname />
+        </Suspense>
         <div className="flex min-h-svh flex-col">
           {children}
           <SiteFooter />

@@ -1,6 +1,7 @@
 "use client"
 
-import { useMemo } from "react"
+import Link from "next/link"
+import { Suspense, useMemo, type ReactNode } from "react"
 import { CheckCircle2 } from "lucide-react"
 import {
   GuideRecommendationsHeader,
@@ -55,6 +56,7 @@ import {
   guideProductSummaryPanelClassName,
   guideProductTitleTwoLineClassName,
 } from "@/lib/product-card-layout"
+import { buildGadgetExplorerHref } from "@/lib/gadget-explorer-href"
 import { guideCategoryPath } from "@/lib/guide-routes"
 import { useGuideRecommendationTabId } from "@/lib/use-guide-recommendation-tab-id"
 import { cn } from "@/lib/utils"
@@ -112,7 +114,34 @@ function GuideMouseReasonListItem({
 
 const MOUSE_TAB_IDS = GUIDE_MOUSE_TABS.map((tab) => tab.id)
 
-export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
+function GuideMouseProductTitle({
+  title,
+  gadgetId,
+}: {
+  title: string
+  gadgetId?: string
+}) {
+  if (!gadgetId) {
+    return <h3 className={guideProductTitleTwoLineClassName}>{title}</h3>
+  }
+  return (
+    <h3 className={guideProductTitleTwoLineClassName}>
+      <Link
+        href={buildGadgetExplorerHref("mouse", gadgetId)}
+        className="text-foreground underline-offset-4 transition-colors hover:text-primary hover:underline"
+      >
+        {title}
+      </Link>
+    </h3>
+  )
+}
+
+type GuideMouseRecommendationsProps = {
+  pool: Gadget[]
+  seoSlot?: ReactNode
+}
+
+export function GuideMouseRecommendations({ pool, seoSlot }: GuideMouseRecommendationsProps) {
   const selectedType = useGuideRecommendationTabId(MOUSE_TAB_IDS, "beginner")
 
   const currentItem =
@@ -170,6 +199,8 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
         tabHrefBase={guideCategoryPath("mouse")}
       />
 
+      {seoSlot ? <Suspense fallback={null}>{seoSlot}</Suspense> : null}
+
       <GuideRecommendationsPanel tabId={selectedType}>
       {currentItem ? (
       <div className={cn(guideRecommendationsMidGridClassName, "min-w-0 max-w-full")}>
@@ -194,7 +225,7 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
             )}
           </GuideRecommendationImageBlock>
 
-          <h3 className={guideProductTitleTwoLineClassName}>{currentItem.title}</h3>
+          <GuideMouseProductTitle title={currentItem.title} gadgetId={currentItem.gadgetId} />
 
           <p className={guideProductMetaLineClassName}>
             {currentItem.modelNumber ? `型番: ${currentItem.modelNumber}` : "\u00A0"}
@@ -318,9 +349,10 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
                 )}
               </GuideRecommendationImageBlock>
 
-              <h3 className={guideProductTitleTwoLineClassName}>
-                {GUIDE_MOUSE_BEGINNER_UPGRADE.title}
-              </h3>
+              <GuideMouseProductTitle
+                title={GUIDE_MOUSE_BEGINNER_UPGRADE.title}
+                gadgetId={GUIDE_MOUSE_BEGINNER_UPGRADE.gadgetId}
+              />
               <p className={guideProductMetaLineClassName}>
                 型番: {GUIDE_MOUSE_BEGINNER_UPGRADE.modelNumber}
               </p>
@@ -403,9 +435,10 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
                 )}
               </GuideRecommendationImageBlock>
 
-              <h3 className={guideProductTitleTwoLineClassName}>
-                {GUIDE_MOUSE_BEGINNER_HYPERX.title}
-              </h3>
+              <GuideMouseProductTitle
+                title={GUIDE_MOUSE_BEGINNER_HYPERX.title}
+                gadgetId={GUIDE_MOUSE_BEGINNER_HYPERX.gadgetId}
+              />
               <p className={guideProductMetaLineClassName}>
                 型番: {GUIDE_MOUSE_BEGINNER_HYPERX.modelNumber}
               </p>
@@ -492,9 +525,10 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
                 )}
               </GuideRecommendationImageBlock>
 
-              <h3 className={guideProductTitleTwoLineClassName}>
-                {GUIDE_MOUSE_PRO_SUPERSTRIKE.title}
-              </h3>
+              <GuideMouseProductTitle
+                title={GUIDE_MOUSE_PRO_SUPERSTRIKE.title}
+                gadgetId={GUIDE_MOUSE_PRO_SUPERSTRIKE.gadgetId}
+              />
               <p className={guideProductMetaLineClassName}>
                 型番: {GUIDE_MOUSE_PRO_SUPERSTRIKE.modelNumber}
               </p>
@@ -577,9 +611,10 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
                 )}
               </GuideRecommendationImageBlock>
 
-              <h3 className={guideProductTitleTwoLineClassName}>
-                {GUIDE_MOUSE_PRO_G502.title}
-              </h3>
+              <GuideMouseProductTitle
+                title={GUIDE_MOUSE_PRO_G502.title}
+                gadgetId={GUIDE_MOUSE_PRO_G502.gadgetId}
+              />
               <p className={guideProductMetaLineClassName}>
                 型番: {GUIDE_MOUSE_PRO_G502.modelNumber}
               </p>
@@ -666,9 +701,10 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
                 )}
               </GuideRecommendationImageBlock>
 
-              <h3 className={guideProductTitleTwoLineClassName}>
-                {GUIDE_MOUSE_OFFICE_TECKNET.title}
-              </h3>
+              <GuideMouseProductTitle
+                title={GUIDE_MOUSE_OFFICE_TECKNET.title}
+                gadgetId={GUIDE_MOUSE_OFFICE_TECKNET.gadgetId}
+              />
               <p className={guideProductMetaLineClassName}>
                 型番: {GUIDE_MOUSE_OFFICE_TECKNET.modelNumber}
               </p>
@@ -754,9 +790,10 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
                 )}
               </GuideRecommendationImageBlock>
 
-              <h3 className={guideProductTitleTwoLineClassName}>
-                {GUIDE_MOUSE_OFFICE_M750.title}
-              </h3>
+              <GuideMouseProductTitle
+                title={GUIDE_MOUSE_OFFICE_M750.title}
+                gadgetId={GUIDE_MOUSE_OFFICE_M750.gadgetId}
+              />
               <p className={guideProductMetaLineClassName}>
                 型番: {GUIDE_MOUSE_OFFICE_M750.modelNumber}
               </p>
@@ -839,9 +876,10 @@ export function GuideMouseRecommendations({ pool }: { pool: Gadget[] }) {
                 )}
               </GuideRecommendationImageBlock>
 
-              <h3 className={guideProductTitleTwoLineClassName}>
-                {GUIDE_MOUSE_OFFICE_MX_MASTER_3S.title}
-              </h3>
+              <GuideMouseProductTitle
+                title={GUIDE_MOUSE_OFFICE_MX_MASTER_3S.title}
+                gadgetId={GUIDE_MOUSE_OFFICE_MX_MASTER_3S.gadgetId}
+              />
               <p className={guideProductMetaLineClassName}>
                 型番: {GUIDE_MOUSE_OFFICE_MX_MASTER_3S.modelNumber}
               </p>

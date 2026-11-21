@@ -1,19 +1,38 @@
 "use client"
 
-import { usePathname } from "next/navigation"
+import { usePathname, useSearchParams } from "next/navigation"
 import { useEffect } from "react"
+import {
+  buildGuideCategoryTabCanonical,
+  getGuideCategoryTabSeoFromQuery,
+  isGuideTabSeoCategory,
+  type GuideTabSeoCategory,
+} from "@/lib/guide-tab-seo"
+import { isGuideTabbedCategory } from "@/lib/guide-tab-config"
+import { GUIDE_CATEGORY_IDS, guideCategoryPath } from "@/lib/guide-routes"
 import { absoluteSiteUrl, normalizeSitePath } from "@/lib/site-metadata"
 
 /**
- * クエリ付きURL（?tab= や ?product= 等）でも正規URLをパスだけに固定する。
- * 静的エクスポート＋クライアントタブ切替時の重複インデックス対策。
+ * クエリ付きURLでも正規URLを更新。用途タブ付きガイドは tab 付き canonical を維持する。
  */
 export function CanonicalFromPathname() {
   const pathname = usePathname()
+  const searchParams = useSearchParams()
 
   useEffect(() => {
     const path = normalizeSitePath(pathname ?? "/")
-    const href = absoluteSiteUrl(path)
+    let href = absoluteSiteUrl(path)
+
+    const category = GUIDE_CATEGORY_IDS.find((id) => path === guideCategoryPath(id))
+    if (category && isGuideTabSeoCategory(category)) {
+      const tabSeo = getGuideCategoryTabSeoFromQuery(
+        category as GuideTabSeoCategory,
+        searchParams.get("tab"),
+      )
+      if (tabSeo && isGuideTabbedCategory(category)) {
+        href = absoluteSiteUrl(buildGuideCategoryTabCanonical(category as GuideTabSeoCategory, tabSeo.tabId))
+      }
+    }
 
     let link = document.querySelector<HTMLLinkElement>('link[rel="canonical"]')
     if (!link) {
@@ -24,7 +43,7 @@ export function CanonicalFromPathname() {
     if (link.getAttribute("href") !== href) {
       link.setAttribute("href", href)
     }
-  }, [pathname])
+  }, [pathname, searchParams])
 
   return null
 }

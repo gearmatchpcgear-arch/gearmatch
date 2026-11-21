@@ -41,6 +41,7 @@ import {
   guideProductSpecValueClassName,
 } from "@/lib/product-card-layout"
 import { ProductCommerceDisclaimer } from "@/components/product-commerce-disclaimer"
+import { buildGadgetExplorerHref } from "@/lib/gadget-explorer-href"
 import { cn } from "@/lib/utils"
 
 type GuideRecommendationCardProps = {
@@ -135,6 +136,7 @@ export function GuideRecommendationCard({
             />
           }
           title={pick.title}
+          titleHref={gadget?.id ? buildGadgetExplorerHref(category, gadget.id) : undefined}
           modelNumber={pick.modelNumber}
           reviewSlot={
             showReviews ? (

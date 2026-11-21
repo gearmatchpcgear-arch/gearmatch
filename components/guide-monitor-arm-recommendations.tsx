@@ -1,6 +1,6 @@
 "use client"
 
-import { useEffect, useMemo } from "react"
+import { Suspense, useEffect, useMemo, type ReactNode } from "react"
 import { GuideRecommendationCard } from "@/components/guide-recommendation-card"
 import {
   GuideRecommendationsCardStack,
@@ -22,9 +22,10 @@ function resolveGadget(gadgetId: string | undefined, pool: Gadget[]): Gadget | u
 
 type GuideMonitorArmRecommendationsProps = {
   pool: Gadget[]
+  seoSlot?: ReactNode
 }
 
-export function GuideMonitorArmRecommendations({ pool }: GuideMonitorArmRecommendationsProps) {
+export function GuideMonitorArmRecommendations({ pool, seoSlot }: GuideMonitorArmRecommendationsProps) {
   const resolved = useMemo(
     () =>
       GUIDE_MONITOR_ARM_RECOMMENDATIONS.map((pick) => ({
@@ -48,6 +49,7 @@ export function GuideMonitorArmRecommendations({ pool }: GuideMonitorArmRecommen
         compareHref="/?category=monitor-arm"
         subtitle={guideRecommendationsListOnlySubtitle}
       />
+      {seoSlot ? <Suspense fallback={null}>{seoSlot}</Suspense> : null}
       <GuideRecommendationsCardStack>
         {resolved.map(({ pick, gadget }, index) => (
           <GuideRecommendationCard

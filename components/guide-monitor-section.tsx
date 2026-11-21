@@ -1,6 +1,6 @@
 "use client"
 
-import { useMemo } from "react"
+import { Suspense, useMemo, type ReactNode } from "react"
 import { GuideRecommendationCard } from "@/components/guide-recommendation-card"
 import {
   GuideRecommendationsCardStack,
@@ -31,9 +31,10 @@ function resolveGadget(gadgetId: string | undefined, pool: Gadget[]): Gadget | u
 
 type GuideMonitorSectionProps = {
   pool: Gadget[]
+  seoSlot?: ReactNode
 }
 
-export function GuideMonitorSection({ pool }: GuideMonitorSectionProps) {
+export function GuideMonitorSection({ pool, seoSlot }: GuideMonitorSectionProps) {
   const activeTab = useGuideRecommendationTabId(MONITOR_TAB_IDS, "gaming") as MonitorRecommendTab
 
   const gamingPicks = useMemo(
@@ -64,6 +65,7 @@ export function GuideMonitorSection({ pool }: GuideMonitorSectionProps) {
         selectedId={activeTab}
         tabHrefBase={guideCategoryPath("monitor")}
       />
+      {seoSlot ? <Suspense fallback={null}>{seoSlot}</Suspense> : null}
       <GuideRecommendationsPanel tabId={activeTab}>
         <GuideRecommendationsCardStack>
           {activePicks.map(({ pick, gadget }, index) => (

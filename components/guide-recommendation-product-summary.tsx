@@ -1,5 +1,6 @@
 "use client"
 
+import Link from "next/link"
 import type { ReactNode } from "react"
 import {
   guideProductMetaLineClassName,
@@ -28,6 +29,8 @@ type GuideRecommendationProductSummaryProps = {
   specsSlot: ReactNode
   shopSlot?: ReactNode
   imageAreaClassName?: string
+  /** PC GearMatch 一覧＋詳細への内部リンク */
+  titleHref?: string
 }
 
 export function GuideRecommendationProductSummary({
@@ -40,6 +43,7 @@ export function GuideRecommendationProductSummary({
   specsSlot,
   shopSlot,
   imageAreaClassName,
+  titleHref,
 }: GuideRecommendationProductSummaryProps) {
   return (
     <div
@@ -60,7 +64,18 @@ export function GuideRecommendationProductSummary({
         {image}
       </GuideRecommendationImageBlock>
 
-      <h3 className={guideProductTitleTwoLineClassName}>{title}</h3>
+      <h3 className={guideProductTitleTwoLineClassName}>
+        {titleHref ? (
+          <Link
+            href={titleHref}
+            className="text-foreground underline-offset-4 transition-colors hover:text-primary hover:underline"
+          >
+            {title}
+          </Link>
+        ) : (
+          title
+        )}
+      </h3>
 
       <p className={guideProductMetaLineClassName}>{modelNumber?.trim() ? modelNumber : "\u00A0"}</p>
 

@@ -1,6 +1,6 @@
 "use client"
 
-import { useMemo } from "react"
+import { Suspense, useMemo, type ReactNode } from "react"
 import { GuideRecommendationCard } from "@/components/guide-recommendation-card"
 import {
   GuideRecommendationsCardStack,
@@ -26,11 +26,12 @@ function resolveGadget(gadgetId: string | undefined, pool: Gadget[]): Gadget | u
 
 type GuideKeyboardSectionProps = {
   pool: Gadget[]
+  seoSlot?: ReactNode
 }
 
 const KEYBOARD_TAB_IDS = GUIDE_KEYBOARD_TABS.map((tab) => tab.id)
 
-export function GuideKeyboardSection({ pool }: GuideKeyboardSectionProps) {
+export function GuideKeyboardSection({ pool, seoSlot }: GuideKeyboardSectionProps) {
   const keyboardType = useGuideRecommendationTabId(KEYBOARD_TAB_IDS, "entry")
 
   const picks = GUIDE_KEYBOARD_RECOMMENDATIONS[keyboardType]
@@ -52,6 +53,7 @@ export function GuideKeyboardSection({ pool }: GuideKeyboardSectionProps) {
         selectedId={keyboardType}
         tabHrefBase={guideCategoryPath("keyboard")}
       />
+      {seoSlot ? <Suspense fallback={null}>{seoSlot}</Suspense> : null}
       <GuideRecommendationsPanel tabId={keyboardType}>
         <GuideRecommendationsListTitle>{GUIDE_KEYBOARD_LIST_TITLES[keyboardType]}</GuideRecommendationsListTitle>
         <GuideRecommendationsCardStack>

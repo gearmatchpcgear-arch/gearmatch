@@ -1,6 +1,6 @@
 "use client"
 
-import { useEffect, useMemo } from "react"
+import { Suspense, useEffect, useMemo, type ReactNode } from "react"
 import { GuideRecommendationCard } from "@/components/guide-recommendation-card"
 import {
   GuideRecommendationsCardStack,
@@ -22,10 +22,11 @@ function resolveGadget(gadgetId: string | undefined, pool: Gadget[]): Gadget | u
 
 type GuideCameraRecommendationsProps = {
   pool: Gadget[]
+  seoSlot?: ReactNode
 }
 
 /** 「失敗しないカメラの選び方」の直下に表示するおすすめカード */
-export function GuideCameraRecommendations({ pool }: GuideCameraRecommendationsProps) {
+export function GuideCameraRecommendations({ pool, seoSlot }: GuideCameraRecommendationsProps) {
   const resolved = useMemo(
     () =>
       GUIDE_CAMERA_RECOMMENDATIONS.map((pick) => ({
@@ -49,6 +50,7 @@ export function GuideCameraRecommendations({ pool }: GuideCameraRecommendationsP
         compareHref="/?category=camera"
         subtitle={guideRecommendationsListOnlySubtitle}
       />
+      {seoSlot ? <Suspense fallback={null}>{seoSlot}</Suspense> : null}
       <GuideRecommendationsCardStack>
         {resolved.map(({ pick, gadget }, index) => (
           <GuideRecommendationCard
