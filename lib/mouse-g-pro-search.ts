@@ -426,7 +426,7 @@ export const mouseGProSearch: Gadget[] = [{
     name: "G PRO X SUPERLIGHT G-PPD-003WL-WH",
     brand: "Logicool G",
     tagline: "Logicool G PRO X SUPERLIGHT ワイヤレス ゲーミングマウス G-PPD-003WL-WH 軽量 63g未満 LIGHTSPEED HERO 25Kセンサー POWERPLAY 無線 充電 対応 ゲーミング マウス ホワイト PC windows 国内正規品",
-    price: 12500,
+    price: 18700,
     rating: 4.6,
     reviews: 9047,
     image: "https://m.media-amazon.com/images/I/61ykKLbddNL._AC_SL1500_.jpg",
