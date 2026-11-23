@@ -67,6 +67,19 @@ function GuidePointCallout({ point }: { point: GuidePoint }) {
   return null
 }
 
+function GuidePointBulletBody({ bullet }: { bullet: NonNullable<GuidePoint["bullets"]>[number] }) {
+  return (
+    <>
+      <p className={cn("mt-1.5", guidePointBulletProseClassName)}>{bullet.text}</p>
+      {bullet.recommendation ? (
+        <p className={cn("mt-2 border-t border-slate-200/80 pt-2", guidePointBulletProseClassName)}>
+          {bullet.recommendation}
+        </p>
+      ) : null}
+    </>
+  )
+}
+
 function GuidePointBulletList({
   bullets,
   variant,
@@ -92,7 +105,7 @@ function GuidePointBulletList({
             <strong className="block text-sm font-bold leading-snug text-foreground">
               {bullet.label}
             </strong>
-            <p className={cn("mt-1.5", guidePointBulletProseClassName)}>{bullet.text}</p>
+            <GuidePointBulletBody bullet={bullet} />
           </li>
         ))}
       </ul>
@@ -107,7 +120,19 @@ function GuidePointBulletList({
           className="flex flex-col gap-1 border-l-2 border-primary/25 pl-3 sm:pl-3.5"
         >
           <strong className="font-bold leading-snug text-foreground">{bullet.label}</strong>
-          <span className={guidePointBulletProseClassName}>{bullet.text}</span>
+          <div className="min-w-0">
+            <span className={guidePointBulletProseClassName}>{bullet.text}</span>
+            {bullet.recommendation ? (
+              <p
+                className={cn(
+                  "mt-2 border-t border-primary/15 pt-2",
+                  guidePointBulletProseClassName,
+                )}
+              >
+                {bullet.recommendation}
+              </p>
+            ) : null}
+          </div>
         </li>
       ))}
     </ul>
