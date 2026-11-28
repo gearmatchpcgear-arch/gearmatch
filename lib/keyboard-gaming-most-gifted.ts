@@ -43,32 +43,59 @@ export const keyboardGamingMostGifted: Gadget[] = [
   {
     id: "k-gmg-002",
     category: "keyboard",
-    name: "MonsGeek FUN60 Pro SP 英語配列 有線モデル 0.01mm ラピッドトリガー対応 高コスパ ゲーミングキーボード ブラック",
+    name: "FUN60 Pro SP",
     brand: "MonsGeek",
-    tagline: "MonsGeek FUN60 Pro SP 英語配列 有線モデル 0.01mm ラピッドトリガー対応 高コスパ ゲーミングキーボード ブラック | 磁気スイッチ Akko Glare Magnetic Switch HEセンサー テンキーレス サイドプリント 有線8K ホッ…",
+    tagline:
+      "FUN60 Pro SP｜磁気スイッチ・8000Hzポーリング・ラピッドトリガー対応 60％有線ゲーミングキーボード",
     price: 5980,
-    rating: 4,
-    reviews: 116,
-    image: "https://m.media-amazon.com/images/I/31T2h5kSx8L._AC_SL1500_.jpg",
+    rating: 4.4,
+    reviews: 1281,
+    image: "https://m.media-amazon.com/images/I/61nQ058WFyL._AC_SL1500_.jpg",
     connection: "有線 USB (着脱式)",
-    purchaseUrl: "https://www.amazon.co.jp/dp/B09BFWB28Z",
+    purchaseUrl: "https://www.amazon.co.jp/dp/B0DQWKSQGR",
+    affiliatePurchaseUrl:
+      "https://af.moshimo.com/af/c/click?a_id=692187&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0DQWKSQGR",
     keyboardUsage: "gaming",
-    keyboardFilterTags: ["tenkeyless","rapid-trigger"],
+    keyboardFilterTags: ["tenkeyless", "rapid-trigger"],
     hasRapidTrigger: true,
-        highlights: [
-      { label: "レイアウト", value: "60%（US配列）" },
+    keyboardSpreadsheetGaming: true,
+    keyboardPollingRate: "8000Hz",
+    keyboardSpreadsheetRapidTrigger: true,
+    keyboardLayoutArray: "US英語配列",
+    keyboardSpreadsheetFeatures: [],
+    highlights: [
+      { label: "レイアウト", value: "60％" },
       { label: "内部構造", value: "磁気スイッチ" },
       { label: "キーキャップ", value: "PBT" },
-      { label: "電源", value: "有線給電" }],
+      { label: "電源", value: "有線給電" },
+    ],
     compat: [],
     specGroups: [
-      { title: "キー / スイッチ", rows: [
-          { label: "レイアウト", value: "60%（US配列）" },
-          { label: "内部構造", value: "磁気スイッチ（Akko Glare Magnetic）" },
-          { label: "キーキャップ", value: "PBT" }]},
-      { title: "接続 / 電源", rows: [
+      {
+        title: "仕様 / 機能",
+        rows: [
+          { label: "ゲーミングキーボード", value: "ゲーミングキーボード" },
+          { label: "ポーリングレート", value: "8000Hz" },
+          { label: "ラピッドトリガー", value: "搭載" },
+          { label: "配列", value: "US英語配列" },
+        ],
+      },
+      {
+        title: "キー / スイッチ",
+        rows: [
+          { label: "レイアウト", value: "60％" },
+          { label: "内部構造", value: "磁気スイッチ" },
+          { label: "キーキャップ", value: "PBT" },
+        ],
+      },
+      {
+        title: "接続 / 電源",
+        rows: [
           { label: "接続方式", value: "有線 USB (着脱式)" },
-          { label: "電源", value: "有線給電" }]}],
+          { label: "電源", value: "有線給電" },
+        ],
+      },
+    ],
   },
   {
     id: "k-gmg-003",

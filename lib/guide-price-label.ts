@@ -6,12 +6,12 @@ export function resolveGuidePriceLabel(
   priceLabel?: string,
   fallback = "￥-",
 ): string {
-  if (gadget && hasCardDisplayPrice(gadget)) {
-    return formatPrice(getCardDisplayPrice(gadget)!)
-  }
-
   if (priceLabel && priceLabel !== "￥-") {
     return priceLabel.replace(/前後$/, "").replace(/\s*（[^）]*）\s*$/, "").replace(/\s*\([^)]*\)\s*$/, "")
+  }
+
+  if (gadget && hasCardDisplayPrice(gadget)) {
+    return formatPrice(getCardDisplayPrice(gadget)!)
   }
 
   return fallback
