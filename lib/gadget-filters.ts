@@ -76,9 +76,11 @@ import {
 } from "@/lib/mic-connection-filter-tags"
 import {
   MOUSE_BUTTON_LABELS,
+  MOUSE_DPI_LABELS,
   MOUSE_POWER_LABELS,
   MOUSE_WEIGHT_LABELS,
   hasMouseButtonFilterTag,
+  hasMouseDpiFilterTag,
   hasMousePowerFilterTag,
   hasMouseWeightFilterTag,
 } from "@/lib/mouse-card-filter-tags"
@@ -196,11 +198,6 @@ export type FilterId =
   | "multi-pairing"
   | "mouse-gaming"
   | "mouse-productivity"
-  | "mouse-reading-optical"
-  | "mouse-reading-laser"
-  | "mouse-reading-trackball"
-  | "mouse-reading-blueled"
-  | "mouse-reading-ir-other"
   | "mouse-side-buttons"
   | "mouse-side-wheel"
   | MouseUsageSpecFilterId
@@ -292,6 +289,10 @@ export type FilterId =
   | "mouse-weight-under-70"
   | "mouse-weight-70-90"
   | "mouse-weight-over-91"
+  | "mouse-dpi-up-to-4000"
+  | "mouse-dpi-4001-16000"
+  | "mouse-dpi-16001-26000"
+  | "mouse-dpi-26001-plus"
   | "kb-power-wired"
   | "kb-power-rechargeable"
   | "kb-power-battery"
@@ -1176,31 +1177,6 @@ const FILTER_REGISTRY: Record<FilterId, FilterOption> = {
     label: "ビジネス・作業用",
     match: (g) => g.category === "mouse" && g.mouseUsage === "productivity",
   },
-  "mouse-reading-optical": {
-    id: "mouse-reading-optical",
-    label: "オプティカル / 光学式",
-    match: (g) => g.category === "mouse" && hasMouseFilterTag(g, "reading-optical"),
-  },
-  "mouse-reading-laser": {
-    id: "mouse-reading-laser",
-    label: "レーザー / Darkfield",
-    match: (g) => g.category === "mouse" && hasMouseFilterTag(g, "reading-laser"),
-  },
-  "mouse-reading-trackball": {
-    id: "mouse-reading-trackball",
-    label: "トラックボール",
-    match: (g) => g.category === "mouse" && hasMouseFilterTag(g, "reading-trackball"),
-  },
-  "mouse-reading-blueled": {
-    id: "mouse-reading-blueled",
-    label: "BlueLED",
-    match: (g) => g.category === "mouse" && hasMouseFilterTag(g, "reading-blueled"),
-  },
-  "mouse-reading-ir-other": {
-    id: "mouse-reading-ir-other",
-    label: "IR LED / その他",
-    match: (g) => g.category === "mouse" && hasMouseFilterTag(g, "reading-ir-other"),
-  },
   "mouse-side-buttons": {
     id: "mouse-side-buttons",
     label: "サイドボタン",
@@ -1656,6 +1632,26 @@ const FILTER_REGISTRY: Record<FilterId, FilterOption> = {
     label: MOUSE_WEIGHT_LABELS["weight-over-91"],
     match: (g) => g.category === "mouse" && hasMouseWeightFilterTag(g, "weight-over-91"),
   },
+  "mouse-dpi-up-to-4000": {
+    id: "mouse-dpi-up-to-4000",
+    label: MOUSE_DPI_LABELS["dpi-up-to-4000"],
+    match: (g) => g.category === "mouse" && hasMouseDpiFilterTag(g, "dpi-up-to-4000"),
+  },
+  "mouse-dpi-4001-16000": {
+    id: "mouse-dpi-4001-16000",
+    label: MOUSE_DPI_LABELS["dpi-4001-16000"],
+    match: (g) => g.category === "mouse" && hasMouseDpiFilterTag(g, "dpi-4001-16000"),
+  },
+  "mouse-dpi-16001-26000": {
+    id: "mouse-dpi-16001-26000",
+    label: MOUSE_DPI_LABELS["dpi-16001-26000"],
+    match: (g) => g.category === "mouse" && hasMouseDpiFilterTag(g, "dpi-16001-26000"),
+  },
+  "mouse-dpi-26001-plus": {
+    id: "mouse-dpi-26001-plus",
+    label: MOUSE_DPI_LABELS["dpi-26001-plus"],
+    match: (g) => g.category === "mouse" && hasMouseDpiFilterTag(g, "dpi-26001-plus"),
+  },
   "kb-power-wired": {
     id: "kb-power-wired",
     label: KEYBOARD_FILTER_TAG_LABELS["kb-power-wired"],
@@ -1813,18 +1809,6 @@ const CATEGORY_FILTER_GROUPS: Record<CategoryId, FilterGroup[]> = {
       ]),
     },
     {
-      id: "reading",
-      label: "読み取り方式",
-      matchMode: "any",
-      filters: pickFilters([
-        "mouse-reading-optical",
-        "mouse-reading-laser",
-        "mouse-reading-trackball",
-        "mouse-reading-blueled",
-        "mouse-reading-ir-other",
-      ]),
-    },
-    {
       id: "mouse-buttons",
       label: "ボタン数",
       matchMode: "any",
@@ -1832,6 +1816,17 @@ const CATEGORY_FILTER_GROUPS: Record<CategoryId, FilterGroup[]> = {
         "mouse-buttons-3-under",
         "mouse-buttons-4-6",
         "mouse-buttons-6-over",
+      ]),
+    },
+    {
+      id: "mouse-dpi",
+      label: "感度（DPI）",
+      matchMode: "any",
+      filters: pickFilters([
+        "mouse-dpi-up-to-4000",
+        "mouse-dpi-4001-16000",
+        "mouse-dpi-16001-26000",
+        "mouse-dpi-26001-plus",
       ]),
     },
     {

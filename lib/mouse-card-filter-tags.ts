@@ -1,6 +1,7 @@
 import type { Gadget } from "@/lib/gadgets"
 import { isFilterSpecFilled } from "@/lib/filter-match-utils"
 import { resolveMouseButtonCountNumber } from "@/lib/mouse-button-count"
+import { parseMouseMaxDpiNumber } from "@/lib/mouse-sensitivity-display"
 
 /** カード「電源」に対応 */
 export type MousePowerFilterTag = "power-wired" | "power-rechargeable" | "power-battery"
@@ -10,6 +11,13 @@ export type MouseButtonFilterTag = "buttons-3-under" | "buttons-4-6" | "buttons-
 
 /** カード「重量」に対応 */
 export type MouseWeightFilterTag = "weight-under-70" | "weight-70-90" | "weight-over-91"
+
+/** カード「感度（DPI）」レンジ */
+export type MouseDpiFilterTag =
+  | "dpi-up-to-4000"
+  | "dpi-4001-16000"
+  | "dpi-16001-26000"
+  | "dpi-26001-plus"
 
 export const MOUSE_POWER_LABELS: Record<MousePowerFilterTag, string> = {
   "power-wired": "有線給電",
@@ -27,6 +35,13 @@ export const MOUSE_WEIGHT_LABELS: Record<MouseWeightFilterTag, string> = {
   "weight-under-70": "〜70g",
   "weight-70-90": "70g〜90g",
   "weight-over-91": "91g以上",
+}
+
+export const MOUSE_DPI_LABELS: Record<MouseDpiFilterTag, string> = {
+  "dpi-up-to-4000": "〜4,000 DPI",
+  "dpi-4001-16000": "4,001〜16,000 DPI",
+  "dpi-16001-26000": "16,001〜26,000 DPI",
+  "dpi-26001-plus": "26,001 DPI以上",
 }
 
 function powerText(gadget: Gadget): string {
@@ -109,4 +124,19 @@ export function hasMouseButtonFilterTag(gadget: Gadget, tag: MouseButtonFilterTa
 
 export function hasMouseWeightFilterTag(gadget: Gadget, tag: MouseWeightFilterTag): boolean {
   return inferMouseWeightTags(gadget).includes(tag)
+}
+
+export function inferMouseDpiTags(gadget: Gadget): MouseDpiFilterTag[] {
+  if (gadget.category !== "mouse") return []
+  const dpi = parseMouseMaxDpiNumber(gadget)
+  if (dpi === null) return []
+
+  if (dpi <= 4000) return ["dpi-up-to-4000"]
+  if (dpi <= 16000) return ["dpi-4001-16000"]
+  if (dpi <= 26000) return ["dpi-16001-26000"]
+  return ["dpi-26001-plus"]
+}
+
+export function hasMouseDpiFilterTag(gadget: Gadget, tag: MouseDpiFilterTag): boolean {
+  return inferMouseDpiTags(gadget).includes(tag)
 }

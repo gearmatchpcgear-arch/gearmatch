@@ -10,7 +10,7 @@ type MouseSensitivityFields = Gadget & {
 const HIGHLIGHT_LABELS = ["最大DPI", "感度", "マウス最大感度"] as const
 const SPEC_ROW_LABELS = ["最大 DPI", "最大DPI", "マウス最大感度", "感度"] as const
 
-function readMouseSensitivityRaw(gadget: Gadget): string | null {
+export function readMouseSensitivityRaw(gadget: Gadget): string | null {
   if (gadget.category !== "mouse") return null
 
   const extended = gadget as MouseSensitivityFields
@@ -47,4 +47,49 @@ export function getMouseSensitivityDisplay(gadget: Gadget): string {
   const raw = readMouseSensitivityRaw(gadget)
   if (!raw) return UNSPECIFIED_SPEC
   return formatMouseSensitivityDisplay(raw)
+}
+
+function pushDpiCandidate(numbers: number[], raw: string) {
+  const n = Number(raw.replace(/,/g, ""))
+  if (Number.isFinite(n) && n > 0) numbers.push(Math.round(n))
+}
+
+/** 感度文字列から最大 DPI 数値（フィルター用）。パース不可は null */
+export function parseMouseMaxDpiFromText(raw: string | null | undefined): number | null {
+  if (!raw || !isFilterSpecFilled(raw)) return null
+  const t = raw.trim().normalize("NFKC")
+  const numbers: number[] = []
+
+  for (const m of t.matchAll(/(\d+(?:,\d{3})*(?:\.\d+)?)\s*[kK](?:\s*dpi)?\b/gi)) {
+    const base = Number(m[1].replace(/,/g, ""))
+    if (Number.isFinite(base) && base > 0) numbers.push(Math.round(base * 1000))
+  }
+
+  for (const m of t.matchAll(/(\d+(?:,\d{3})*(?:\.\d+)?)\s*dpi\b/gi)) {
+    pushDpiCandidate(numbers, m[1])
+  }
+
+  const segments = [
+    t,
+    ...t
+      .split(/[\/／、|]/)
+      .map((part) => part.trim())
+      .filter(Boolean),
+  ]
+
+  for (const segment of segments) {
+    const plain = segment.match(/^(\d+(?:,\d{3})*(?:\.\d+)?)$/)
+    if (plain) pushDpiCandidate(numbers, plain[1])
+  }
+
+  if (numbers.length === 0) return null
+  return Math.max(...numbers)
+}
+
+/** ガジェットの最大 DPI（フィルター・分布用） */
+export function parseMouseMaxDpiNumber(gadget: Gadget): number | null {
+  if (gadget.category !== "mouse") return null
+  const raw = readMouseSensitivityRaw(gadget)
+  if (!raw) return null
+  return parseMouseMaxDpiFromText(raw)
 }
